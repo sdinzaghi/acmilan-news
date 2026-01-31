@@ -152,152 +152,81 @@ def fetch_milannews_rss() -> list[dict]:
 
 
 def fetch_football_italia() -> list[dict]:
-    """Scrape articles from football-italia.net Milan tag page."""
+    """Fetch articles from football-italia.net Milan RSS feed."""
     articles = []
-    url = "https://football-italia.net/tag/milan/"
+    url = "https://football-italia.net/category/teams/milan/feed/"
 
-    print(f"Scraping {url}...")
+    print(f"Fetching RSS from {url}...")
 
     try:
-        response = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-        response.raise_for_status()
+        feed = feedparser.parse(url)
 
-        soup = BeautifulSoup(response.content, "lxml")
-
-        # Find article cards
-        article_cards = soup.select("article, .post, .article-card, .entry")
-
-        if not article_cards:
-            # Try alternative selectors
-            article_cards = soup.find_all("div", class_=re.compile(r"post|article|card"))
-
-        for card in article_cards[:20]:
-            # Find link and title
-            link_elem = card.find("a", href=True)
-            if not link_elem:
-                continue
-
-            href = link_elem.get("href", "")
-            if not href or href == "#":
-                continue
-
-            article_url = urljoin(url, href)
-
-            # Skip non-article links
-            if "/tag/" in article_url or "/category/" in article_url:
-                continue
-
-            # Get title
-            title_elem = card.find(["h1", "h2", "h3", "h4"])
-            if title_elem:
-                title = title_elem.get_text().strip()
-            else:
-                title = link_elem.get_text().strip()
-
-            if not title or len(title) < 10:
-                continue
+        for entry in feed.entries[:20]:
+            # Get summary from description
+            summary = ""
+            if hasattr(entry, "description"):
+                soup = BeautifulSoup(entry.description, "html.parser")
+                summary = soup.get_text().strip()[:300]
 
             article = {
-                "id": generate_id(article_url),
-                "title": title,
-                "url": article_url,
+                "id": generate_id(entry.link),
+                "title": entry.title.strip(),
+                "url": entry.link,
                 "source": "football-italia.net",
-                "date": None,
-                "summary": "",
+                "date": parse_feedparser_date(entry),
+                "summary": summary,
             }
-
-            # Try to find date
-            date_elem = card.find(["time", "span"], class_=re.compile(r"date|time|posted"))
-            if date_elem:
-                date_text = date_elem.get("datetime") or date_elem.get_text()
-                article["date"] = parse_date(date_text)
-
-            # Try to find summary/excerpt
-            summary_elem = card.find(["p", "div"], class_=re.compile(r"excerpt|summary|desc"))
-            if summary_elem:
-                article["summary"] = summary_elem.get_text().strip()[:300]
 
             articles.append(article)
 
         print(f"  Found {len(articles)} articles from football-italia.net")
 
     except Exception as e:
-        print(f"  Error scraping football-italia.net: {e}")
+        print(f"  Error fetching football-italia.net: {e}")
 
     return articles
 
 
 def fetch_sempremilan() -> list[dict]:
-    """Scrape articles from sempremilan.com."""
+    """Fetch articles from sempremilan.com RSS feed."""
     articles = []
-    url = "https://sempremilan.com/category/news"
+    url = "https://sempremilan.com/feed"
 
-    print(f"Scraping {url}...")
+    print(f"Fetching RSS from {url}...")
 
     try:
-        response = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
-        response.raise_for_status()
+        feed = feedparser.parse(url)
 
-        soup = BeautifulSoup(response.content, "lxml")
-
-        # Find article cards
-        article_cards = soup.select("article, .post, .td-module-container, .entry")
-
-        if not article_cards:
-            article_cards = soup.find_all("div", class_=re.compile(r"post|article|module"))
-
-        for card in article_cards[:20]:
-            # Find link and title
-            link_elem = card.find("a", href=True)
-            if not link_elem:
-                continue
-
-            href = link_elem.get("href", "")
-            if not href or href == "#":
-                continue
-
-            article_url = urljoin(url, href)
-
-            # Skip category/tag pages
-            if "/category/" in article_url or "/tag/" in article_url:
-                continue
-
-            # Get title
-            title_elem = card.find(["h1", "h2", "h3", "h4"])
-            if title_elem:
-                title = title_elem.get_text().strip()
-            else:
-                title = link_elem.get_text().strip()
-
-            if not title or len(title) < 10:
-                continue
+        for entry in feed.entries[:20]:
+            # Get summary - clean HTML from description
+            summary = ""
+            if hasattr(entry, "description"):
+                soup = BeautifulSoup(entry.description, "html.parser")
+                # Remove images and get text
+                for img in soup.find_all("img"):
+                    img.decompose()
+                text = soup.get_text().strip()
+                # Clean up "By: Author" prefix if present
+                if text.startswith("By:"):
+                    lines = text.split("\n", 1)
+                    text = lines[1].strip() if len(lines) > 1 else text
+                summary = text[:300]
 
             article = {
-                "id": generate_id(article_url),
-                "title": title,
-                "url": article_url,
+                "id": generate_id(entry.link),
+                "title": entry.title.strip(),
+                "url": entry.link,
                 "source": "sempremilan.com",
-                "date": None,
-                "summary": "",
+                "date": parse_feedparser_date(entry),
+                "summary": summary,
             }
-
-            # Try to find date
-            date_elem = card.find(["time", "span"], class_=re.compile(r"date|time|posted"))
-            if date_elem:
-                date_text = date_elem.get("datetime") or date_elem.get_text()
-                article["date"] = parse_date(date_text)
-
-            # Try to find summary
-            summary_elem = card.find(["p", "div"], class_=re.compile(r"excerpt|summary|desc"))
-            if summary_elem:
-                article["summary"] = summary_elem.get_text().strip()[:300]
 
             articles.append(article)
 
         print(f"  Found {len(articles)} articles from sempremilan.com")
 
     except Exception as e:
-        print(f"  Error scraping sempremilan.com: {e}")
+        print(f"  Error fetching sempremilan.com: {e}")
 
     return articles
 
