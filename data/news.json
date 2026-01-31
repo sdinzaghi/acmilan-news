@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-01-31T19:20:33.687033+00:00",
+  "lastUpdated": "2026-01-31T20:24:35.557020+00:00",
   "articles": [
+    {
+      "id": "02962f82e740",
+      "title": "Maignan, parade of the month of January: here is the winner",
+      "url": "https://www.milannews.it/news/maignan-parata-del-mese-di-gennaio-ecco-la-vincitrice-605901",
+      "source": "milannews.it",
+      "date": "2026-01-31T20:12:00+00:00",
+      "summary": "On its own social profiles, Milan has published the save for the month of January voted by the fans in recent days."
+    },
+    {
+      "id": "decf3e5a9699",
+      "title": "FOCUS MN - Who is Alphadjo Cissè, the new Italian dribbling talent that Milan stole from PSV",
+      "url": "https://www.milannews.it/primo-piano/focus-mn-chi-e-alphadjo-cisse-il-nuovo-talento-del-dribbling-italiano-che-il-milan-ha-soffiato-al-psv-605915",
+      "source": "milannews.it",
+      "date": "2026-01-31T20:00:00+00:00",
+      "summary": "Alphadjo Cissè, born in Treviso on 22/10/2006 to parents originally from Guinea, will soon be a footballer for Milan."
+    },
+    {
+      "id": "bcbb09e06c3f",
+      "title": "Galliani and Max's arrival: \"At lunch with Berlusconi I understood after 10 minutes that the president liked him\"",
+      "url": "https://www.milannews.it/news/galliani-e-l-arrivo-di-max-al-pranzo-con-berlusconi-capii-dopo-10-minuti-che-al-presidente-piaceva-605898",
+      "source": "milannews.it",
+      "date": "2026-01-31T19:48:29+00:00",
+      "summary": "During the presentation of the book Ashort Snout by Giuseppe Alberto Falci, Adriano Galliani was present as a guest and spoke about Allegri, current Milan and many anecdotes from the past linked to the Livorno coach."
+    },
+    {
+      "id": "c1b1ad8891db",
+      "title": "Sky Sports UK: \"Strand Larsen applauded Wolves fans at the end of the match\"",
+      "url": "https://www.milannews.it/news/sky-sports-uk-strand-larsen-ha-applaudito-i-tifosi-dei-wolves-a-fine-partita-605931",
+      "source": "milannews.it",
+      "date": "2026-01-31T19:36:01+00:00",
+      "summary": "The fate of Jean-Philippe Mateta, AC Milan's number one target in these last hours of the transfer market, is closely linked to that of a striker who also moved to the Rossoneri club in his youth,&nb ..."
+    },
+    {
+      "id": "7163b3529b82",
+      "title": "Serie A, the updated standings: Napoli are back to -1 from Milan",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-napoli-torna-a-1-dal-milan-605907",
+      "source": "milannews.it",
+      "date": "2026-01-31T19:24:44+00:00",
+      "summary": "Napoli, the first big team to take the field in this 23rd matchday of Serie A Enilive, does its duty and wins 2-1 against Fiorentina, returning to victory after the bad defeat against Juventus suffered last week."
+    },
+    {
+      "id": "3b4a464afb43",
+      "title": "Maignan: \"Fans, look: they're still here! It took patience, but we have the renewal. I'm very happy\"",
+      "url": "https://www.milannews.it/primo-piano/maignan-tifosi-guardate-ci-sono-ancora-c-e-voluta-pazienza-ma-abbiamo-il-rinnovo-sono-molto-felice-605933",
+      "source": "milannews.it",
+      "date": "2026-01-31T19:22:30+00:00",
+      "summary": "Mike Maignan, AC Milan goalkeeper and captain, spoke to the club's official channels following the renewal: \"I am very, very happy."
+    },
     {
       "id": "7e5b2897fb11",
       "title": "Napoli finds their smile again... halfway through: three points but Di Lorenzo makes us worry",
@@ -15,7 +63,7 @@
       "url": "https://www.milannews.it/news/galliani-e-l-arrivo-di-ibra-di-notte-io-diventavo-pazzo-perche-non-riuscivo-a-chiudere-l-operazione-alla-fine-vincemmo-lo-scudetto-proprio-contro-leon-605899",
       "source": "milannews.it",
       "date": "2026-01-31T19:00:06+00:00",
-      "summary": "During the presentation of the book A Corto Suso by Giuseppe Alberto Falci, Adriano Galliani was present as a guest who spoke about Allegri, current Milan and many anecdotes from the past linked to the Livorno coach."
+      "summary": "During the presentation of the book Ashort Snout by Giuseppe Alberto Falci, Adriano Galliani was present as a guest and spoke about Allegri, current Milan and many anecdotes from the past linked to the Livorno coach."
     },
     {
       "id": "05c3ee7454e5",
@@ -39,7 +87,7 @@
       "url": "https://www.milannews.it/news/mn-eranio-leao-lo-vedo-indisponente-al-di-la-del-problema-fisico-605913",
       "source": "milannews.it",
       "date": "2026-01-31T18:48:00+00:00",
-      "summary": "Milan arrives at a key point in its season: the next match will be played in Bologna and will say a lot about the Rossoneri's ambitions for this second half of the year, with the transfer window now over..."
+      "summary": "Milan arrives at a key point in its season: the next match will be played in Bologna and will say a lot about the Rossoneri's ambitions for this second half of the year, with the transfer window having now concluded..."
     },
     {
       "id": "1b9cb60a6c31",
@@ -170,60 +218,12 @@
       "summary": "Gianluca Di Marzio tells X that negotiations for Mateta at Milan are currently blocked: Crystal Palace have not yet found a replacement."
     },
     {
-      "id": "242415125216",
-      "title": "Fabrizio Romano: \"Mateta is doing his best to go to Milan but Palace doesn't have the green light. Larsen operation blocked\"",
-      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-mateta-ce-la-sta-mettendo-tutta-per-andare-al-milan-ma-manca-il-via-libera-del-palace-larsen-operazione-bloccata-605914",
-      "source": "milannews.it",
-      "date": "2026-01-31T17:11:00+00:00",
-      "summary": "Fabrizio Romano and Matteo Moretto, in a video on YouTube, take stock of the Mateta situation."
-    },
-    {
-      "id": "b6df98d40e6f",
-      "title": "Milan tease Maignan's renewal on social media: \"Strength, discipline, work, patience, humility\"",
-      "url": "https://www.milannews.it/news/il-milan-teasera-il-rinnovo-di-maignan-sui-social-forza-disciplina-lavoro-pazienza-umilta-605916",
-      "source": "milannews.it",
-      "date": "2026-01-31T17:05:07+00:00",
-      "summary": "\"Strength, discipline, work, patience, humility. These are the values ​​by which we live.\""
-    },
-    {
-      "id": "05e57e2d0095",
-      "title": "MN EXCLUSIVE - Eranio: \"Milan, you have to raise the bar, he collected more than he should. Camarda like Bartesaghi? The injury was a bad blow\"",
-      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-eranio-milan-devi-alzare-l-asticella-si-e-raccolto-piu-del-dovuto-camarda-come-bartesaghi-l-infortunio-brutto-colpo-605576",
-      "source": "milannews.it",
-      "date": "2026-01-31T17:00:00+00:00",
-      "summary": "Stefanio Eranio, former historic Milan midfielder with whom he won everything in Italy and Europe, spoke exclusively to MilanNews.it regarding the current affairs of the Rossoneri world."
-    },
-    {
       "id": "07ef2126535f",
       "title": "Bologna duo convinced mid-week success will ‘benefit’ them against Milan",
       "url": "https://sempremilan.com/bologna-duo-success-benefit-against-milan",
       "source": "sempremilan.com",
       "date": "2026-01-31T16:50:00+00:00",
       "summary": "Bologna midfielders Tommaso Pobega and Lewis Ferguson are both looking forward to the game against AC Milan, which is scheduled for Tuesday.  Bologna participated in some mid-week action as they faced Maccabi Tel Aviv in the Europa League, winning the game 3-0. That earned them a good position ahead"
-    },
-    {
-      "id": "17d4b9a5820d",
-      "title": "Another coup at Milan: they took Dalpiaz from Bayern Munich in 2008",
-      "url": "https://www.milannews.it/calciomercato-milan/altro-colpo-in-casa-milan-preso-il-2008-dalpiaz-dal-bayern-monaco-605908",
-      "source": "milannews.it",
-      "date": "2026-01-31T16:48:04+00:00",
-      "summary": "According to what was reported by the Gazzetta dello Sport, the Rossoneri have closed another coup in view of the future. In the last few hours we told you about the negotiation between Milan and Bayern Munich for the young player born in 2008 Dalpiaz."
-    },
-    {
-      "id": "d403d2b46a37",
-      "title": "Towards Bologna-Milan, Manganiello's history with the Rossoneri",
-      "url": "https://www.milannews.it/news/verso-bologna-milan-i-precedenti-di-manganiello-con-i-rossoneri-605877",
-      "source": "milannews.it",
-      "date": "2026-01-31T16:36:51+00:00",
-      "summary": "Very particular championship weekend for Milan since they will not play on the weekend or even close to it: the Rossoneri, in fact, will be on the pitch in Bologna on Tuesday evening..."
-    },
-    {
-      "id": "8c40382ee9d6",
-      "title": "Galliani reveals: \"In 2010/2011 the coach was supposed to be Leonardo, then he decided to leave the bench\"",
-      "url": "https://www.milannews.it/news/galliani-rivela-nel-2010-2011-l-allenatore-doveva-essere-leonardo-poi-decise-di-lasciare-la-panchina-605891",
-      "source": "milannews.it",
-      "date": "2026-01-31T16:24:40+00:00",
-      "summary": "During the presentation of the book A Corto Suso by Giuseppe Alberto Falci, Adriano Galliani was present as a guest who spoke about Allegri, current Milan and many anecdotes from the past linked to the Livorno coach."
     },
     {
       "id": "797b5d9d49b6",
