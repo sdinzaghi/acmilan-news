@@ -2,7 +2,7 @@
  * AC Milan News Aggregator - Frontend
  */
 
-const NEWS_DATA_URL = '../data/news.json';
+const NEWS_DATA_URL = './data/news.json';
 const AUTO_REFRESH_INTERVAL = 5 * 60 * 1000; // 5 minutes
 
 let newsData = null;
