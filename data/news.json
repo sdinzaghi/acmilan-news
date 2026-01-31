@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-01-31T13:29:28.323219+00:00",
+  "lastUpdated": "2026-01-31T13:31:12.605515+00:00",
   "articles": [
+    {
+      "id": "fcef8290dba0",
+      "title": "Bologna, training resumed today: Italiano recovers a player in the group",
+      "url": "https://www.milannews.it/l-avversario/bologna-ripresi-oggi-gli-allenamenti-italiano-recupera-un-giocatore-in-gruppo-605889",
+      "source": "milannews.it",
+      "date": "2026-01-31T13:24:50+00:00",
+      "summary": "After the European away match on the neutral pitch of Maccabi Tel Aviv, which resulted in a final tenth place in the Europa League League Phase standings, Bologna was able to enjoy a day of rest yesterday and ..."
+    },
     {
       "id": "ec27fee6b6b2",
       "title": "Gordon Singer reflects on Elliott’s ownership of AC Milan: “We are proud”",
@@ -8,6 +16,22 @@
       "source": "sempremilan.com",
       "date": "2026-01-31T13:20:00+00:00",
       "summary": "Gordon Singer commented on Elliott Management’s official exit from AC Milan yesterday, stating that they are ‘proud’ of what they have achieved.  It was back in the summer of 2018 that Elliott took control of the club, as the Chinese owner Yongong Li defaulted on his loan. Immediately, the American "
+    },
+    {
+      "id": "8be3baef08ac",
+      "title": "Serie D, Scanzorosciate-Milan Futuro: the official lineups",
+      "url": "https://www.milannews.it/milan-futuro/serie-d-scanzorosciate-milan-futuro-le-formazioni-ufficiali-605894",
+      "source": "milannews.it",
+      "date": "2026-01-31T13:12:02+00:00",
+      "summary": "There is just over a quarter of an hour left until the start of the match between Scanzorosciate and Milan Futuro."
+    },
+    {
+      "id": "ffbb8e709068",
+      "title": "Last call for the defense: Allegri waits for the central defender",
+      "url": "https://www.milannews.it/primo-piano/ultima-chiamata-per-la-difesa-allegri-aspetta-il-centrale-605698",
+      "source": "milannews.it",
+      "date": "2026-01-31T13:00:00+00:00",
+      "summary": "The last few days of the transfer market for Milan revolve around a clear priority, almost no longer negotiable: a central defender."
     },
     {
       "id": "5477c3fb3f13",
@@ -18,12 +42,60 @@
       "summary": "AC Milan and Massimiliano Allegri have been praised for their results this season, and as argued by Adriano Galliani, the manager is a huge part of that.  There was some scepticism when Milan decided to replace Sergio Conceicao with Allegri in the summer. The Portuguese manager was always going to l"
     },
     {
+      "id": "04198316a2bf",
+      "title": "Rowe charges Bologna: \"EL's victory will give us enthusiasm in the championship too\"",
+      "url": "https://www.milannews.it/l-avversario/rowe-carica-il-bologna-la-vittoria-di-el-ci-dara-entusiasmo-anche-in-campionato-605733",
+      "source": "milannews.it",
+      "date": "2026-01-31T12:48:00+00:00",
+      "summary": "Jonathan Rowe, Bologna footballer, spoke to the club's official channels after EL's match against Maccabi Tel Aviv, also pointing to the next championship matches: \"This victory is important for us, I'm sure it will ..."
+    },
+    {
+      "id": "5f28eb85690b",
+      "title": "Bianchin hypothesizes the path for Alphadjo Cissè next year",
+      "url": "https://www.milannews.it/news/bianchin-ipotizza-il-percorso-per-alphadjo-cisse-il-prossimo-anno-605879",
+      "source": "milannews.it",
+      "date": "2026-01-31T12:36:32+00:00",
+      "summary": "It is now done for the purchase of Alphadjo Cissè by Milan: the footballer born in 2006, born in Treviso, owned by Hellas Verona and who this season plays on loan at Catanzaro in Ser ..."
+    },
+    {
+      "id": "546955d493fb",
+      "title": "De Zerbi doesn't back down: \"I'll stay in Marseille for another five or six years\"",
+      "url": "https://www.milannews.it/dall-estero/de-zerbi-non-arretra-resto-a-marsiglia-altri-cinque-o-sei-anni-605833",
+      "source": "milannews.it",
+      "date": "2026-01-31T12:24:00+00:00",
+      "summary": "(ANSA) - MARSEILLE, JAN 30 - Marseille coach Roberto De Zerbi, whose future at OM seemed uncertain after their elimination from the Champions League, confirmed that he will be on the bench on Saturday against Paris FC, where he intends ..."
+    },
+    {
       "id": "0b0671ae0cfb",
       "title": "Watch: Mateta to AC Milan? Lorenzo and Stefano react to the latest news",
       "url": "https://sempremilan.com/mateta-ac-milan-lorenzo-stefano-react",
       "source": "sempremilan.com",
       "date": "2026-01-31T12:20:00+00:00",
       "summary": "Jean-Philippe Mateta appears to be Milan’s priority on the transfer market at the moment, which is something that Lorenzo and Stefano have reacted to.  In the last few days, Milan have accelerated their pursuit of Crystal Palace’s Mateta, keen on beating the competition rather than waiting until the"
+    },
+    {
+      "id": "15ef18572079",
+      "title": "AC Milan-Mateta agreement: salary figures revealed",
+      "url": "https://www.milannews.it/calciomercato-milan/accordo-milan-mateta-svelate-le-cifre-dell-ingaggio-605872",
+      "source": "milannews.it",
+      "date": "2026-01-31T12:12:00+00:00",
+      "summary": "During the usual appointment with the video update on his YouTube channel, Fabrizio Romano took stock of Milan's incoming transfer market, talking about both the Mateta issue and the central defender."
+    },
+    {
+      "id": "da381766a41f",
+      "title": "Elliot bids farewell to Milan. The QS: \"RedBird completes refinancing. Comvest enters and Maignan signs\"",
+      "url": "https://www.milannews.it/rassegna-stampa/elliot-saluta-il-milan-il-qs-redbird-completa-il-rifinanziamento-entra-comvest-e-maignan-firma-605857",
+      "source": "milannews.it",
+      "date": "2026-01-31T12:00:24+00:00",
+      "summary": "Yesterday an important page in Milan's corporate history was written."
+    },
+    {
+      "id": "6a35a435606c",
+      "title": "LIVE MN - Milan transfer market: done for Cissè. Mike renews, decisive day for Mateta",
+      "url": "https://www.milannews.it/primo-piano/live-mn-mercato-milan-fatta-per-cisse-mike-rinnova-giornata-decisiva-per-mateta-605873",
+      "source": "milannews.it",
+      "date": "2026-01-31T12:00:00+00:00",
+      "summary": "1.00pm | MATHETA WAITING\n\nMatteo Moretto's comment on the current situation linked to Jean-Philippe Mateta: \"Milan will have new contacts today to define Mateta's arrival at the Rossoneri."
     },
     {
       "id": "560608b23b35",
@@ -34,12 +106,60 @@
       "summary": "Lega Serie A have officially confirmed the dates and times for matchdays 25 and 26, as well as the rescheduled game between AC Milan and Como (matchday 24).  The scheduling of games has come under scrutiny in recent weeks, with Milan playing two games in just 66 hours. Furthermore, the Rossoneri’s h"
     },
     {
+      "id": "a64dab4587e3",
+      "title": "Moretto: \"Mateta is not in Milan but waiting to understand whether to fly or not\"",
+      "url": "https://www.milannews.it/news/moretto-mateta-non-e-a-milano-ma-in-attesa-di-capire-se-volare-o-meno-605887",
+      "source": "milannews.it",
+      "date": "2026-01-31T11:48:59+00:00",
+      "summary": "AC Milan is pushing, and pushing a lot, on Jean-Philippe Mateta: the Rossoneri club is working to bring the French striker to Max Allegri's court already in this winter transfer market session, anticipating the agreement that ..."
+    },
+    {
+      "id": "d457b241add7",
+      "title": "Movements at Milan. La Repubblica: \"Mateta taken. Maignan signs and goodbye Elliot\"",
+      "url": "https://www.milannews.it/rassegna-stampa/movimenti-in-casa-milan-la-repubblica-preso-mateta-maignan-firma-e-addio-elliot-605858",
+      "source": "milannews.it",
+      "date": "2026-01-31T11:36:21+00:00",
+      "summary": "Yesterday was the most important day of the last month for Milan."
+    },
+    {
       "id": "c3d5dbbd0987",
       "title": "Moretto: Price tag confirmed as Milan secure Verona youngster for the summer",
       "url": "https://sempremilan.com/moretto-price-tag-milan-verona-youngster",
       "source": "sempremilan.com",
       "date": "2026-01-31T11:30:00+00:00",
       "summary": "AC Milan have secured the services of Alphadjo Cissè, who will join the club in the summer, and the price tag of the operation has now been revealed. This morning, Gianluca Di Marzio stated that Milan had overtaken PSV Eindhoven in the race for the midfielder, reaching an agreement with Hellas Veron"
+    },
+    {
+      "id": "9e2bca96f1ff",
+      "title": "Serie A: dates, times and television assignments of the 25th and 26th matchdays",
+      "url": "https://www.milannews.it/news/serie-a-date-orari-e-assegnazioni-televisive-di-25a-e-26a-giornata-605886",
+      "source": "milannews.it",
+      "date": "2026-01-31T11:24:13+00:00",
+      "summary": "The Lega Serie A has announced the dates, times and television assignments of the championship matches on the 25th and 26th matchdays. Milan will be busy on Friday 13 February at 8pm."
+    },
+    {
+      "id": "c8e6c13e0388",
+      "title": "Milan-Como, the recovery date is official: here's when it will be played",
+      "url": "https://www.milannews.it/news/milan-como-ufficiale-la-data-del-recupero-ecco-quando-si-giochera-605885",
+      "source": "milannews.it",
+      "date": "2026-01-31T11:16:25+00:00",
+      "summary": "The recovery date of Milan-Como is official."
+    },
+    {
+      "id": "7093c80cbe0c",
+      "title": "Moretto: \"The name Tare is focusing on is that of Disasi\"",
+      "url": "https://www.milannews.it/calciomercato-milan/moretto-il-nome-su-cui-si-sta-concentrando-tare-e-quello-di-disasi-605884",
+      "source": "milannews.it",
+      "date": "2026-01-31T11:15:35+00:00",
+      "summary": "Constant updates on the central defender front regarding the last, very hot, hours of the Rossoneri transfer market."
+    },
+    {
+      "id": "ddcd080bdb0f",
+      "title": "Commissions, salary and formula, everything is ready for Mateta at Milan: the final approval from Palace is awaited",
+      "url": "https://www.milannews.it/calciomercato-milan/commissioni-ingaggio-e-formula-tutto-pronto-per-mateta-al-milan-si-aspetta-l-ok-definitivo-del-palace-605870",
+      "source": "milannews.it",
+      "date": "2026-01-31T11:12:00+00:00",
+      "summary": "During the usual appointment with the video update on his YouTube channel, Fabrizio Romano took stock of Milan's incoming transfer market, talking about both the Mateta issue and the central defender."
     },
     {
       "id": "a2efaa0729f1",
@@ -50,6 +170,22 @@
       "summary": "Massimiliano Allegri has asked the AC Milan management to sign a centre-back and according to Fabrizio Romano, they could fulfil his wish.  It’s certainly heating up for Milan on the transfer market, in advanced negotiations with Crystal Palace over Jean-Philippe Mateta. However, the attack isn’t th"
     },
     {
+      "id": "cdc11b8a138b",
+      "title": "FOCUS MN - Power and sacrifice at the service of the game: Mateta is the prototype of an \"allegriano\" attacker",
+      "url": "https://www.milannews.it/primo-piano/focus-mn-potenza-e-sacrificio-al-servizio-del-gioco-mateta-e-il-prototipo-di-attaccante-allegriano-605874",
+      "source": "milannews.it",
+      "date": "2026-01-31T11:00:40+00:00",
+      "summary": "In an AC Milan looking for a \"real\" center forward, Jean-Philippe Mateta emerges as a congenial profile: the Crystal Palace born in 1997 combines physicality, sense of goal and tactical characteristics that fit perfectly with this..."
+    },
+    {
+      "id": "efec904e8ea9",
+      "title": "Done for Alphadjo Cissè: he will remain at Catanzaro until the end of the season",
+      "url": "https://www.milannews.it/calciomercato-milan/fatta-per-alphadjo-cisse-restera-al-catanzaro-fino-a-fine-stagione-605878",
+      "source": "milannews.it",
+      "date": "2026-01-31T10:48:15+00:00",
+      "summary": "AC Milan secures the 2006-born talent Alphadjo Cissè, one of the most interesting and promising players in the entire Italian scene: and done! The Rossoneri club accelerated yesterday, entering the ..."
+    },
+    {
       "id": "8c9bcfcbda69",
       "title": "Di Marzio: Furlani behind Milan’s accelerated pursuit of Mateta – the situation",
       "url": "https://sempremilan.com/di-marzio-furlani-milans-pursuit-mateta",
@@ -58,12 +194,36 @@
       "summary": "Giorgio Furlani’s green light has been a key part of AC Milan’s accelerated pursuit of Jean-Philippe Mateta, who appears to be just one step away from leaving Crystal Palace.  Milan have been evaluating solutions for the No.9 role for quite some time now, above all as Santiago Gimenez and Christophe"
     },
     {
+      "id": "3a004c1b9d42",
+      "title": "Ceccarini on the Mateta deal: \"Milan hopes to bring forward the operation by raising the investment to 35 million\"",
+      "url": "https://www.milannews.it/calciomercato-milan/ceccarini-sull-affare-mateta-il-milan-spera-di-anticipare-l-operazione-alzando-l-investimento-a-35-milioni-605865",
+      "source": "milannews.it",
+      "date": "2026-01-31T10:36:00+00:00",
+      "summary": "During the usual appointment with his editorial for TMW, the transfer market expert Niccolò Ceccarini took stock of the various Italian teams, also focusing on Milan, ready to pull off that blow that doesn't seem to ..."
+    },
+    {
+      "id": "3759f16cc45a",
+      "title": "MN - Galliani specifies: \"Milan is ahead of 18 teams, not behind Inter. Let's not forget that last year they finished eighth\"",
+      "url": "https://www.milannews.it/news/mn-galliani-precisa-il-milan-e-davanti-a-18-squadre-non-dietro-all-inter-non-dimentichiamo-che-l-anno-scorso-e-arrivato-ottavo-605862",
+      "source": "milannews.it",
+      "date": "2026-01-31T10:24:05+00:00",
+      "summary": "Adriano Galliani, at the presentation of the book \"A corta muso\" by Giuseppe Alberto Falci, on Allegri and the current situation of Milan. These are the words of the former Rossoneri CEO taken up by the MilanNews correspondent."
+    },
+    {
       "id": "c7c41919f97b",
       "title": "Sky Germany: Milan ‘pushing’ to sign Bayern Munich right-back for the Futuro",
       "url": "https://sempremilan.com/sky-milan-pushing-bayern-munich-futuro",
       "source": "sempremilan.com",
       "date": "2026-01-31T10:15:00+00:00",
       "summary": "AC Milan are reportedly ‘pushing’ to sign the Bayern Munich right-back Magnus Dalpiaz, who would become a part of the Futuro team.  In the last year or so, we have seen quite a few reinforcements for the Futuro side, with the Rossoneri looking to make the team even more competitive. Cheveyo Balentie"
+    },
+    {
+      "id": "269e5767485b",
+      "title": "Milan, not just Disasi: Sergio Ramos is a suggestion for the defence",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-non-solo-disasi-per-la-difesa-spunta-la-suggestione-sergio-ramos-605868",
+      "source": "milannews.it",
+      "date": "2026-01-31T10:12:35+00:00",
+      "summary": "In addition to the possible arrival of Jean-Philippe Mateta, in these last, excited 48 hours of the transfer market, Milan will also try to make a new central defender available to Massimiliano Allegri, so as to complete the ..."
     },
     {
       "id": "c9f49280eb8f",
