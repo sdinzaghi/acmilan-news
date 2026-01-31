@@ -62,6 +62,7 @@ def parse_date(date_str: str) -> Optional[str]:
         "%b %d, %Y",
         "%d %B %Y",
         "%d %b %Y",
+        "%a, %d %b %Y %H:%M:%S %z",  # RSS format: Sat, 31 Jan 2026 14:12:02 +0100
     ]
 
     date_str = date_str.strip()
@@ -74,6 +75,32 @@ def parse_date(date_str: str) -> Optional[str]:
             return dt.isoformat()
         except ValueError:
             continue
+
+    return None
+
+
+def parse_feedparser_date(entry) -> Optional[str]:
+    """Parse date from feedparser entry."""
+    # feedparser provides published_parsed as a time.struct_time
+    if hasattr(entry, "published_parsed") and entry.published_parsed:
+        try:
+            dt = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
+            return dt.isoformat()
+        except Exception:
+            pass
+
+    if hasattr(entry, "updated_parsed") and entry.updated_parsed:
+        try:
+            dt = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
+            return dt.isoformat()
+        except Exception:
+            pass
+
+    # Fall back to string parsing
+    if hasattr(entry, "published"):
+        return parse_date(entry.published)
+    if hasattr(entry, "updated"):
+        return parse_date(entry.updated)
 
     return None
 
@@ -110,15 +137,9 @@ def fetch_milannews_rss() -> list[dict]:
                 "title": title_en,
                 "url": entry.link,
                 "source": "milannews.it",
-                "date": None,
+                "date": parse_feedparser_date(entry),
                 "summary": summary_en,
             }
-
-            # Parse date
-            if hasattr(entry, "published"):
-                article["date"] = parse_date(entry.published)
-            elif hasattr(entry, "updated"):
-                article["date"] = parse_date(entry.updated)
 
             articles.append(article)
 
