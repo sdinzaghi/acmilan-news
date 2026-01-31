@@ -15,6 +15,7 @@ from urllib.parse import urljoin
 import feedparser
 import requests
 from bs4 import BeautifulSoup
+from deep_translator import GoogleTranslator
 
 # Output path
 OUTPUT_PATH = Path(__file__).parent.parent / "data" / "news.json"
@@ -27,6 +28,21 @@ HEADERS = {
 }
 
 REQUEST_TIMEOUT = 30
+
+# Translator instance
+translator = GoogleTranslator(source='it', target='en')
+
+
+def translate_text(text: str) -> str:
+    """Translate Italian text to English."""
+    if not text or len(text.strip()) < 3:
+        return text
+    try:
+        translated = translator.translate(text)
+        return translated if translated else text
+    except Exception as e:
+        print(f"    Translation error: {e}")
+        return text
 
 
 def parse_date(date_str: str) -> Optional[str]:
@@ -78,13 +94,24 @@ def fetch_milannews_rss() -> list[dict]:
         feed = feedparser.parse(url)
 
         for entry in feed.entries[:20]:
+            # Get original Italian title and summary
+            title_it = entry.title.strip()
+            summary_it = ""
+            if hasattr(entry, "summary"):
+                soup = BeautifulSoup(entry.summary, "html.parser")
+                summary_it = soup.get_text().strip()[:300]
+
+            # Translate to English
+            title_en = translate_text(title_it)
+            summary_en = translate_text(summary_it) if summary_it else ""
+
             article = {
                 "id": generate_id(entry.link),
-                "title": entry.title.strip(),
+                "title": title_en,
                 "url": entry.link,
                 "source": "milannews.it",
                 "date": None,
-                "summary": "",
+                "summary": summary_en,
             }
 
             # Parse date
@@ -93,14 +120,9 @@ def fetch_milannews_rss() -> list[dict]:
             elif hasattr(entry, "updated"):
                 article["date"] = parse_date(entry.updated)
 
-            # Get summary
-            if hasattr(entry, "summary"):
-                soup = BeautifulSoup(entry.summary, "html.parser")
-                article["summary"] = soup.get_text().strip()[:300]
-
             articles.append(article)
 
-        print(f"  Found {len(articles)} articles from milannews.it")
+        print(f"  Found {len(articles)} articles from milannews.it (translated to English)")
 
     except Exception as e:
         print(f"  Error fetching milannews.it: {e}")
