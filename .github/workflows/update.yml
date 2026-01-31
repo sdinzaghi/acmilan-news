@@ -1,0 +1,85 @@
+name: Update News Data
+
+on:
+  schedule:
+    # Run every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allow manual trigger
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+
+      - name: Run scraper
+        run: python scraper/scraper.py
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git diff --quiet data/news.json || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/news.json
+          git commit -m "Update news data [automated]"
+          git push
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main # Get latest including any changes from scrape job
+
+      - name: Pull latest changes
+        run: git pull origin main || true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Prepare site files
+        run: |
+          mkdir -p _site
+          cp -r site/* _site/
+          cp -r data _site/
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '_site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

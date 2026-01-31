@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AC Milan News Aggregator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='45' fill='%23AC1D38'/><text x='50' y='65' font-size='40' text-anchor='middle' fill='white'>M</text></svg>">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>AC Milan News</h1>
+            <p class="subtitle">Aggregated from multiple sources</p>
+        </div>
+    </header>
+
+    <main>
+        <div class="controls">
+            <div class="filter-section">
+                <label for="source-filter">Filter by source:</label>
+                <select id="source-filter">
+                    <option value="all">All Sources</option>
+                    <option value="milannews.it">milannews.it</option>
+                    <option value="football-italia.net">football-italia.net</option>
+                    <option value="sempremilan.com">sempremilan.com</option>
+                    <option value="acmilan.com">acmilan.com (Official)</option>
+                </select>
+            </div>
+            <div class="refresh-section">
+                <label>
+                    <input type="checkbox" id="auto-refresh">
+                    Auto-refresh (5 min)
+                </label>
+                <button id="refresh-btn">Refresh Now</button>
+            </div>
+        </div>
+
+        <div class="status-bar">
+            <span id="last-updated">Loading...</span>
+            <span id="article-count"></span>
+        </div>
+
+        <div id="news-container" class="news-grid">
+            <div class="loading">Loading news...</div>
+        </div>
+    </main>
+
+    <footer>
+        <p>AC Milan News Aggregator &bull; Updated automatically every hour</p>
+        <p class="sources">Sources: milannews.it, football-italia.net, sempremilan.com, acmilan.com</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
