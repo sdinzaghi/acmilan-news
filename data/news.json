@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-02-01T19:23:43.185290+00:00",
+  "lastUpdated": "2026-02-01T20:25:22.986368+00:00",
   "articles": [
+    {
+      "id": "2bec5faf4658",
+      "title": "Naples, Di Lorenzo is less serious than expected: knee sprain",
+      "url": "https://www.milannews.it/news/napoli-di-lorenzo-e-meno-grave-del-previsto-distorsione-del-ginocchio-606013",
+      "source": "milannews.it",
+      "date": "2026-02-01T20:12:59+00:00",
+      "summary": "(ANSA) - NAPLES, 01 FEB - No cruciate rupture for Giovanni Di Lorenzo. After this morning's visits, the Napoli captain reported a sprained knee injury, which was less serious."
+    },
+    {
+      "id": "5203803943a5",
+      "title": "Cage on the scudetto: \"We believe we can win every match. Believing in it is always nice\"",
+      "url": "https://www.milannews.it/news/gabbia-sullo-scudetto-crediamo-di-poter-vincere-tutte-le-partite-crederci-e-sempre-bello-605993",
+      "source": "milannews.it",
+      "date": "2026-02-01T20:00:29+00:00",
+      "summary": "Matteo Gabbia, Milan defender, spoke to the microphones of SportMediaset XXL answering some questions from his colleague Claudio Raimondi, between the Scudetto, Allegri, Maignan and Leao as a singer. Below are his statements."
+    },
+    {
+      "id": "fadcf2d88e9f",
+      "title": "LIVE MN - Milan transfer market: Mateta on stand-by, tomorrow a Rossoneri doctor will be in London. The Rossoneri are evaluating whether to proceed with the operation",
+      "url": "https://www.milannews.it/primo-piano/live-mn-mercato-milan-mateta-in-stand-by-domani-un-medico-rossonero-sara-a-londra-rossoneri-valutano-se-procedere-con-l-operazione-605988",
+      "source": "milannews.it",
+      "date": "2026-02-01T19:54:01+00:00",
+      "summary": "8.54pm | MATETA AT RISK ALSO FOR THE SUMMER\n\nAs reported by colleague Luca Bianchin of the Gazzetta dello Sport, Milan have decided to send a doctor to London tomorrow to understand closely how Mateta's knee is doing."
+    },
+    {
+      "id": "283715edca2d",
+      "title": "Mateta can also skip in the summer if the doctor's assessments are negative",
+      "url": "https://www.milannews.it/calciomercato-milan/mateta-puo-saltare-anche-in-estate-se-le-valutazioni-del-medico-dovessero-essere-negative-606045",
+      "source": "milannews.it",
+      "date": "2026-02-01T19:53:48+00:00",
+      "summary": "As reported by colleague Luca Bianchin of the Gazzetta dello Sport, Milan have decided to send a doctor to London tomorrow to understand closely how Mateta's knee is doing (READ HERE)."
+    },
+    {
+      "id": "e344d84ff9d6",
+      "title": "MN - Gambaro approves of Mateta: \"He has running and physicality, ideal for this team\"",
+      "url": "https://www.milannews.it/news/mn-gambaro-approva-mateta-ha-corsa-e-fisicita-ideale-per-questa-squadra-606032",
+      "source": "milannews.it",
+      "date": "2026-02-01T19:48:00+00:00",
+      "summary": "Enzo Gambaro, a former AC Milan footballer in the 90s and Telenova commentator, spoke exclusively on MilanNews.it."
+    },
+    {
+      "id": "c902bd2f86fb",
+      "title": "Correct score odds Bologna Milan",
+      "url": "https://www.milannews.it/scommesse/pronostici/quote-risultato-esatto-bologna-milan-605464",
+      "source": "milannews.it",
+      "date": "2026-02-01T19:45:00+00:00",
+      "summary": "Milan will play against Bologna for the 23rd matchday of Serie A. Second of three consecutive away matches for the Rossoneri, fresh from a draw against Bologna which lost ground against Inter."
+    },
+    {
+      "id": "5e72db6c5c79",
+      "title": "From England, Palace is not aware of any problems regarding the sale of Mateta",
+      "url": "https://www.milannews.it/calciomercato-milan/dall-inghilterra-il-palace-non-e-a-conoscenza-di-nessun-problema-riguardante-la-cessione-di-mateta-606044",
+      "source": "milannews.it",
+      "date": "2026-02-01T19:44:20+00:00",
+      "summary": "After the version of Milan, which tomorrow according to what was reported by colleague Luca Bianchin will send a doctor to London to check the condition of Jean-Philippe Mateta's knee, here also comes the point of view of..."
+    },
+    {
+      "id": "7260407d812b",
+      "title": "All’s well that ends well: The chronology of Maignan’s renewal and how Milan thawed the frost",
+      "url": "https://sempremilan.com/chronology-maignan-renewal-milan-thawed-frost",
+      "source": "sempremilan.com",
+      "date": "2026-02-01T19:43:07+00:00",
+      "summary": "There was a wave of joy in the AC Milan world on Saturday evening, as Mike Maignan’s contract extension was made official. Suggestions had emerged during the week that Maignan would put pen to paper on a new multi-year deal, and the announcement of his new deal until 2031 did indeed come. It has bee"
+    },
+    {
+      "id": "d43961aebf8b",
+      "title": "Viviano: \"I'm a football aesthete but it's a long way from here to making Allegri look like the last of the idiots\"",
+      "url": "https://www.milannews.it/news/viviano-sono-un-esteta-del-calcio-ma-da-qui-a-far-passare-allegri-come-l-ultimo-degli-scemi-ce-ne-passa-606025",
+      "source": "milannews.it",
+      "date": "2026-02-01T19:36:24+00:00",
+      "summary": "At this stage of the season there is a lot of discussion about the quality of the game expressed by Massimiliano Allegri and how Milan is second in the table."
+    },
+    {
+      "id": "2e540505e30f",
+      "title": "Bianchin: \"A Milan doctor will be in London tomorrow morning to check Mateta's knee\"",
+      "url": "https://www.milannews.it/calciomercato-milan/bianchin-un-medico-del-milan-domattina-a-londra-per-verificare-il-ginocchio-di-mateta-606043",
+      "source": "milannews.it",
+      "date": "2026-02-01T19:31:00+00:00",
+      "summary": "It's not yet done for Jean-Philippe Mateta at Milan, indeed, in the last few hours, after there was the green light from Crystal Palace, new doubts have arisen on the Rossoneri club's side."
+    },
+    {
+      "id": "d010d73ca64d",
+      "title": "Serie A, the updated ranking: Inter extends to +8 on Milan",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-l-inter-allunga-a-8-sul-milan-606016",
+      "source": "milannews.it",
+      "date": "2026-02-01T19:24:15+00:00",
+      "summary": "He gives no signs of wanting to stop Inter in the championship: Cristian Chivu's Nerazzurri team won easily at home to Cremonese 0-2 and is now putting pressure on all their pursuers who will play between ..."
+    },
     {
       "id": "10461f95b0c1",
       "title": "Inter, simple victory in Cremona tarnished by the deplorable gesture of the Nerazzurri fans",
@@ -8,14 +96,6 @@
       "source": "milannews.it",
       "date": "2026-02-01T19:12:57+00:00",
       "summary": "Inter does its duty and does so with great simplicity: at the \"Zini\" in Cremona against Cremonese, the Nerazzurri put an end to the matter in the first half and won 0-2 thanks to the goals scored by Lautaro Martinez& ..."
-    },
-    {
-      "id": "8a7ba2c741e9",
-      "title": "LIVE MN - Milan transfer market: Mateta operation on stand-by, checks on the Frenchman's physical condition. The Rossoneri are evaluating whether to proceed with the operation",
-      "url": "https://www.milannews.it/primo-piano/live-mn-mercato-milan-operazione-mateta-in-stand-by-accertamenti-sulle-condizioni-fisiche-del-francese-rossoneri-valutano-se-procedere-con-l-operazion-605988",
-      "source": "milannews.it",
-      "date": "2026-02-01T19:00:01+00:00",
-      "summary": "7.50pm | SKY: \"HIGHEST RATINGS ON MATETA'S KNEE\"\n\nEverything seemed ready for the arrival of Jean-Philippe Mateta at Milan, after Crystal Palace had finally found his replacement in Strand Larsen."
     },
     {
       "id": "c41adee7afc3",
@@ -122,38 +202,6 @@
       "summary": "Jean-Philippe Mateta is once again approaching Milan: the future of the French striker will be decided in these final hours of the transfer market which will end tomorrow evening at 8pm."
     },
     {
-      "id": "3b564ea21c0e",
-      "title": "Galliani underlines: \"In 2007 we won the treble. 5 extraordinary years with Ancelotti\"",
-      "url": "https://www.milannews.it/news/galliani-sottolinea-nel-2007-abbiamo-fatto-il-triplete-5-anni-con-ancelotti-straordinari-605981",
-      "source": "milannews.it",
-      "date": "2026-02-01T17:48:19+00:00",
-      "summary": "During the presentation of the book Ashort Snout by Giuseppe Alberto Falci, Adriano Galliani was present as a guest and spoke about Allegri, current Milan and many anecdotes from the past linked to the Livorno coach."
-    },
-    {
-      "id": "abdb2815faf8",
-      "title": "Viviano: \"Maignan strongest in the world? No, Donnarumma is better\"",
-      "url": "https://www.milannews.it/news/viviano-maignan-piu-forte-del-mondo-no-donnarumma-e-meglio-606024",
-      "source": "milannews.it",
-      "date": "2026-02-01T17:36:48+00:00",
-      "summary": "At this stage of the season there is a lot of discussion about the quality of the game expressed by Massimiliano Allegri and how Milan is second in the table."
-    },
-    {
-      "id": "19bacf8eef39",
-      "title": "Ultras Torino in protest: the Curva Maratona did not display banners against Lecce",
-      "url": "https://www.milannews.it/news/ultras-torino-in-protesta-contro-il-lecce-la-curva-maratona-non-ha-esposto-striscioni-605983",
-      "source": "milannews.it",
-      "date": "2026-02-01T17:24:31+00:00",
-      "summary": "(ANSA) - TURIN, 01 FEB - Torino will face Lecce in a surreal atmosphere."
-    },
-    {
-      "id": "7915106217c7",
-      "title": "Gabbia on the derby: \"It's worth 3 points like the others, it's not a final\"",
-      "url": "https://www.milannews.it/news/gabbia-sul-derby-vale-3-punti-come-le-altre-non-e-una-finale-605997",
-      "source": "milannews.it",
-      "date": "2026-02-01T17:12:02+00:00",
-      "summary": "Matteo Gabbia, Milan defender, spoke to the microphones of SportMediaset XXL answering some questions from his colleague Claudio Raimondi, between the Scudetto, Allegri, Maignan and Leao as a singer. Below are his statements."
-    },
-    {
       "id": "1ccf848f19f6",
       "title": "Reports: Sergio Ramos suggestion resurfaces for Milan – the rival bid",
       "url": "https://sempremilan.com/sergio-ramos-suggestion-resurfaces-milan",
@@ -162,52 +210,12 @@
       "summary": "AC Milan are still looking for the right centre-back at the end of the winter window, and Sergio Ramos’ name has once again been put forward. Calciomercato.com confirm that Milan are in search of a versatile, experienced and strong central defender to reinforce the department for Massimiliano Allegr"
     },
     {
-      "id": "841cbdc183d4",
-      "title": "Pulisic and Leao to be evaluated for Bologna: this is also why another attacker is needed",
-      "url": "https://www.milannews.it/primo-piano/pulisic-e-leao-da-valutare-per-bologna-anche-per-questo-serve-un-altro-attaccante-606021",
-      "source": "milannews.it",
-      "date": "2026-02-01T17:00:00+00:00",
-      "summary": "If there are two players for whom little can be said this year, in terms of performance on the pitch and numbers put up, they are Christian Pulisic and Rafael Leao."
-    },
-    {
-      "id": "3cb8424dffbf",
-      "title": "MN - Idrissi and Cissè at Casa Milan to sign the contract",
-      "url": "https://www.milannews.it/news/mn-idrissi-e-cisse-a-casa-milan-per-la-firma-sul-contratto-606023",
-      "source": "milannews.it",
-      "date": "2026-02-01T16:47:00+00:00",
-      "summary": "The first day for the Rossoneri of the two young players that Milan has purchased in these hours is about to come to an end."
-    },
-    {
-      "id": "8cc1a08a1af3",
-      "title": "Licari: \"Milan are also anticipating the center forward. But now clear tactical ideas\"",
-      "url": "https://www.milannews.it/news/licari-il-milan-gioca-d-anticipo-anche-sul-centravanti-ma-ora-idee-tattiche-chiare-605953",
-      "source": "milannews.it",
-      "date": "2026-02-01T16:36:00+00:00",
-      "summary": "During the usual appointment with his \"commentary\" for La Gazzetta dello Sport, Fabio Licari spoke about Milan and the latest transfer market movements of the Rossoneri club, which in addition to anticipating has in fact revealed that ..."
-    },
-    {
       "id": "5eddc01747e4",
       "title": "AC Milan Women 2-1 Genoa: Van Dooren the star again with another match-winning brace",
       "url": "https://sempremilan.com/ac-milan-women-2-1-genoa-match-report",
       "source": "sempremilan.com",
       "date": "2026-02-01T16:35:12+00:00",
       "summary": "AC Milan Women had another positive result on Sunday afternoon as they beat Genoa thanks to a late goal. The Milan Women clinched a convincing win, their first of the year, as they beat Ternana 3-0 at home last Sunday. Kayleigh van Dooren scored twice, one of which was assisted by Thea Kyvåg who the"
-    },
-    {
-      "id": "4c51c62ade7d",
-      "title": "Serie A, the updated ranking: Como remains -6 behind Milan",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-como-rimane-a-6-dal-milan-606007",
-      "source": "milannews.it",
-      "date": "2026-02-01T16:24:53+00:00",
-      "summary": "The highly anticipated match between Como and Atalanta ends in a draw, drawing 0-0: a match conditioned by the expulsion of Ahanor in the 9th minute of the first half and in which Marco Carnesecchi took on the role of the superhero ..."
-    },
-    {
-      "id": "ad07040fdedc",
-      "title": "From England, Mateta received permission to carry out medical examinations",
-      "url": "https://www.milannews.it/calciomercato-milan/dall-inghilterra-mateta-ha-ricevuto-il-permesso-di-effettuare-le-visite-mediche-606020",
-      "source": "milannews.it",
-      "date": "2026-02-01T16:13:00+00:00",
-      "summary": "After the indiscretion reported by The Athletic which underlined how Jean-Philippe Mateta was carrying out medical examinations in London, after the green light from Crystal Palace for the transfer to Milan, confirmations arrive in that ..."
     },
     {
       "id": "5890087ed87f",
@@ -352,14 +360,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-01T09:25:00+00:00",
       "summary": "Mike Maignan has stated that he is ‘very happy’ after signing his contract renewal with AC Milan until 2031. The long-awaited news became official last night as Maignan put pen to paper on a new multi-year extension. A few months ago such an outcome seemed unthinkable, but talks progressed positivel"
-    },
-    {
-      "id": "8b2f72c7ae7e",
-      "title": "Watch: Cisse and Regragui arrive to undergo medicals ahead of joining Milan",
-      "url": "https://sempremilan.com/cisse-regragui-arrive-medicals-milan",
-      "source": "sempremilan.com",
-      "date": "2026-02-01T09:00:00+00:00",
-      "summary": "It is already a busy day at La Madonnina clinic, as two players have arrived for medicals ahead of joining AC Milan. It emerged on Saturday that Milan have closed a deal with Hellas Verona for their young talent Alphadjo Cisse, hijacking PSV’s move. The Rossoneri will leave the midfielder on loan at"
     },
     {
       "id": "1b9cb60a6c31",
