@@ -1,13 +1,101 @@
 {
-  "lastUpdated": "2026-02-03T20:34:17.656430+00:00",
+  "lastUpdated": "2026-02-03T21:33:34.591732+00:00",
   "articles": [
     {
-      "id": "1ab25630b532",
-      "title": "LIVE MN - Bologna-Milan (0-2): Nkunku doubles from the penalty spot",
-      "url": "https://www.milannews.it/primo-piano/live-mn-bologna-milan-0-2-nkunku-raddoppia-dal-dischetto-606257",
+      "id": "eb2197f90e5b",
+      "title": "Moretto and the rumors about Vlahovic-Milan, Moretto: \"At the moment there are no advanced negotiations\"",
+      "url": "https://www.milannews.it/calciomercato-milan/moretto-e-le-voci-su-vlahovic-milan-moretto-al-momento-non-c-e-una-trattativa-avanzata-606274",
       "source": "milannews.it",
-      "date": "2026-02-03T20:31:00+00:00",
-      "summary": "44' | Bologna tries to react by winning a corner one minute from the 45th minute. \n\n38' | GOOOOOOOOL DEEEEEL MILAAAAAAAAN! Nkunku opens the plate, beats Ravaglia, wrong-footing him and scores 5 in the championship!."
+      "date": "2026-02-03T21:30:53+00:00",
+      "summary": "Matteo Moretto, who spoke in a video on Fabrizio Romano's YouTube channel, spoke like this about Kostic, Leao's renewal and the market rumors about Vlahovic: \n\nKOSTIC: \"Milan tried until the end to try to get K..."
+    },
+    {
+      "id": "27c3ed6a6b86",
+      "title": "BOL-MIL (0-3): muscle problem for Bartesaghi, in his place inside Estupinan",
+      "url": "https://www.milannews.it/news/bol-mil-0-3-problema-muscolare-per-bartesaghi-al-suo-posto-dentro-estupinan-606286",
+      "source": "milannews.it",
+      "date": "2026-02-03T21:30:29+00:00",
+      "summary": "Muscle problem behind the left thigh for Davide Bartesaghi who was replaced in the 83rd minute by Massimiliano Allegri. In his place for these last minutes of the match was Pervis Estupinan."
+    },
+    {
+      "id": "0acedd18404d",
+      "title": "LIVE MN - Bologna-Milan (0-3): Bartesaghi out due to a flexor problem",
+      "url": "https://www.milannews.it/primo-piano/live-mn-bologna-milan-0-3-fuori-bartesaghi-per-un-problema-al-flessore-606257",
+      "source": "milannews.it",
+      "date": "2026-02-03T21:30:00+00:00",
+      "summary": "84' | Turning attempt by Fofana assisted by Estupinan. Well done to Ravaglia for being ready on his post and denying the Rossoneri the poker on 19."
+    },
+    {
+      "id": "ab68c843bd8a",
+      "title": "Bologna-Milan: Stefano Pioli also present at the Dall'Ara",
+      "url": "https://www.milannews.it/gli-ex/bologna-milan-presente-al-dall-ara-anche-stefano-pioli-606285",
+      "source": "milannews.it",
+      "date": "2026-02-03T21:21:17+00:00",
+      "summary": "This evening, Stefano Pioli, former Rossoneri coach who in the 2021-2022 season won the 19th scudetto in the history of the club from via Aldo Rossi, is also present in the stands of the Dall'Ara for Bologna-Milan."
+    },
+    {
+      "id": "e619627055a6",
+      "title": "BOL-MIL (0-3): other fresh forces in the Devil, it's up to Jashari and Fullkrug",
+      "url": "https://www.milannews.it/news/bol-mil-0-3-altre-forze-fresche-nel-diavolo-tocca-a-jashari-e-fullkrug-606284",
+      "source": "milannews.it",
+      "date": "2026-02-03T21:19:45+00:00",
+      "summary": "Other fresh forces in Milan: after Tomori and Ricci, Massimiliano Allegri brings on Ardon Jashari for Luka Modric and Niclas Fullkrug for Christopher Nkunku in the 72nd minute."
+    },
+    {
+      "id": "b48b99540491",
+      "title": "BOL-MIL (0-3): double substitution by Allegri in the 68th minute, with Ricci and Tomori on",
+      "url": "https://www.milannews.it/news/bol-mil-0-3-doppio-cambio-di-allegri-al-68-dentro-ricci-e-tomori-606283",
+      "source": "milannews.it",
+      "date": "2026-02-03T21:15:03+00:00",
+      "summary": "Double substitution for Milan in the 68th minute: Massimiliano Allegri decides to remove Ruben Loftus-Cheek, scorer of the Rossoneri's first goal, and Zachary Athekame from the field, and inserts Samuele Ricci and Fikayo Tomori in their place."
+    },
+    {
+      "id": "20de41d06fbb",
+      "title": "Pisa, Hiljemark introduces himself: \"For me it's a great opportunity\"",
+      "url": "https://www.milannews.it/news/pisa-hiljemark-si-presenta-per-me-e-una-grande-occasione-606277",
+      "source": "milannews.it",
+      "date": "2026-02-03T21:10:05+00:00",
+      "summary": "(ANSA) - PISA, 03 FEB - \"For me it is a great opportunity to be here and Pisa is a great club. I want to do a great job together, create the possibility of salvation\"."
+    },
+    {
+      "id": "a09c13a7cb18",
+      "title": "Watch: Milan go 3-0 up vs. Bologna as Rabiot takes advantage of mishap",
+      "url": "https://sempremilan.com/milan-3-0-bologna-goal-rabiot",
+      "source": "sempremilan.com",
+      "date": "2026-02-03T21:04:11+00:00",
+      "summary": "AC Milan made it 3-0 against Bologna early in the second half, with Adrien Rabiot taking advantage of a rather fortunate assist. Less than two minutes after the restart, Milan got their third goal of the night as Rabiot got his name on the scoresheet, after having provided the assist for Ruben Loftu"
+    },
+    {
+      "id": "bd9d0caccf8b",
+      "title": "Future Leao, Moretto: \"The parties are already negotiating the renewal\"",
+      "url": "https://www.milannews.it/calciomercato-milan/futuro-leao-moretto-le-parti-stanno-gia-trattando-il-rinnovo-606271",
+      "source": "milannews.it",
+      "date": "2026-02-03T21:00:57+00:00",
+      "summary": "Matteo Moretto, who spoke in a video on Fabrizio Romano's YouTube channel, spoke like this about Kostic, Leao's renewal and the market rumors about Vlahovic: \n\nKOSTIC: \"Milan tried until the end to try to get K..."
+    },
+    {
+      "id": "51e798611fe7",
+      "title": "BOL-MIL (0-3): Rossoneri hat-trick at the start of the second half, Rabiot scores",
+      "url": "https://www.milannews.it/news/bol-mil-0-3-tris-rossonero-ad-inizio-ripresa-segna-rabiot-606280",
+      "source": "milannews.it",
+      "date": "2026-02-03T20:54:44+00:00",
+      "summary": "Three minutes after the start of the second half, Milan found their third goal: a sensational error by Miranda who from the sideline gives the ball to Adrien Rabiot who heads the ball forward and then is very cold in front of ..."
+    },
+    {
+      "id": "e4a385b6c76d",
+      "title": "Moretto on Nkunku: \"He wanted to stay at Milan, but the treatment he received caused relations between the parties to deteriorate. In the summer...\"",
+      "url": "https://www.milannews.it/calciomercato-milan/moretto-su-nkunku-voleva-restare-al-milan-ma-il-trattamento-che-ha-ricevuto-ha-fatto-scricchiolare-i-rapporti-tra-le-parti-in-estate-606270",
+      "source": "milannews.it",
+      "date": "2026-02-03T20:39:30+00:00",
+      "summary": "Matteo Moretto, who spoke in a video on Fabrizio Romano's YouTube channel, spoke like this about Nkunku and Fullkrug: \n\nNKUNKU: \"Nkunku could have left in this winter transfer window, but in the end he stayed."
+    },
+    {
+      "id": "67fccd70656a",
+      "title": "Watch: Nkunku doubles Milan’s lead against Bologna with calmly converted penalty",
+      "url": "https://sempremilan.com/nkunku-double-milan-lead-bologna",
+      "source": "sempremilan.com",
+      "date": "2026-02-03T20:36:22+00:00",
+      "summary": "AC Milan doubled their advantage against Bologna before the break, with Christopher Nkunku scoring his sixth goal for the club. A quarter of an hour after the opening goal, Milan were handed the chance to double their lead from the penalty spot. Loftus-Cheek was again involved – after scoring the op"
     },
     {
       "id": "c3fa563156f5",
@@ -122,52 +210,12 @@
       "summary": "Marco Di Vaio, DS of Bologna, spoke to DAZN before the match against Milan. His words:\n\nTonight in the warm-up we saw a really charged Bologna...\n\n“We are still halfway through the championship, the team believes in it."
     },
     {
-      "id": "22f12a0956ab",
-      "title": "Stramaccioni: \"Very, very important evening for Milan: watershed match\"",
-      "url": "https://www.milannews.it/news/stramaccioni-serata-molto-molto-importante-per-il-milan-partita-spartiacque-606259",
-      "source": "milannews.it",
-      "date": "2026-02-03T19:20:00+00:00",
-      "summary": "Andrea Stramaccioni, coach and commentator, spoke from the sidelines in the Bologna-Milan pre-match offered by DAZN to offer his point of view on the match between the rossoblù and the rossoneri."
-    },
-    {
       "id": "14b7ffb82d41",
       "title": "Three different experts warned Milan against Mateta signing",
       "url": "https://football-italia.net/three-experts-warned-milan-off-mateta/",
       "source": "football-italia.net",
       "date": "2026-02-03T19:17:56+00:00",
       "summary": "Reports in Italy claim that three different medical experts advised Milan against signing Crystal Palace..."
-    },
-    {
-      "id": "45a2ae2c29b4",
-      "title": "Bologna, Castro: \"We have to go back to being that team that when the others came here knew it wasn't easy and couldn't bring even half a point\"",
-      "url": "https://www.milannews.it/l-avversario/bologna-castro-dobbiamo-tornare-ad-essere-quella-squadra-che-quando-le-altre-venivano-qua-sapevano-che-non-era-facile-e-non-potevano-portare-neanche-m-606261",
-      "source": "milannews.it",
-      "date": "2026-02-03T19:14:43+00:00",
-      "summary": "Santiago Castro, Bologna center forward, was interviewed by DAZN before the match against Milan."
-    },
-    {
-      "id": "cf2ce5052ca6",
-      "title": "Bartesaghi to DAZN: \"We are aware that it is an important period of the season\"",
-      "url": "https://www.milannews.it/news/bartesaghi-a-dazn-siamo-consapevoli-che-e-un-periodo-importante-della-stagione-606260",
-      "source": "milannews.it",
-      "date": "2026-02-03T19:13:57+00:00",
-      "summary": "Davide Bartesaghi spoke to DAZN before the Bologna-Milan match."
-    },
-    {
-      "id": "5288a452b13f",
-      "title": "Milan, second match of the season as a starter for Athekame",
-      "url": "https://www.milannews.it/news/milan-seconda-gara-stagionale-da-titolare-per-athekame-606258",
-      "source": "milannews.it",
-      "date": "2026-02-03T19:10:40+00:00",
-      "summary": "Thanks to Alexis Saelemakers' absence due to injury, tonight against Bologna it will be Zachary Athakame's turn to play from the first minute on the right wing."
-    },
-    {
-      "id": "e3ecb8ba21e0",
-      "title": "Fiorentina will present Fabio Paratici on Thursday at Viola Park",
-      "url": "https://www.milannews.it/news/la-fiorentina-presentera-fabio-paratici-giovedi-al-viola-park-606250",
-      "source": "milannews.it",
-      "date": "2026-02-03T19:00:48+00:00",
-      "summary": "(ANSA) - FLORENCE NOVA, 03 FEB - The new sporting director of Fiorentina Fabio Paratici will be presented on Thursday at 1pm at the Rocco B. Commisso Viola Park."
     },
     {
       "id": "4650806c6e6e",
@@ -178,14 +226,6 @@
       "summary": "{rsn-live-v2}\nThe post Bologna vs. AC Milan: Live updates and commentary from the Serie A clash appeared first on SempreMilan."
     },
     {
-      "id": "20ff7ccc1ac0",
-      "title": "Garlando: \"Mateta? An old AC Milan fan, who grew up with Galliani and Braida, finds it difficult to understand this thing\"",
-      "url": "https://www.milannews.it/news/garlando-mateta-un-milanista-datato-cresciuto-con-galliani-e-braida-fa-fatica-a-capire-questa-cosa-606249",
-      "source": "milannews.it",
-      "date": "2026-02-03T18:50:23+00:00",
-      "summary": "Luigi Garlando, journalist from La Gazzetta dello Sport, comments on the last controversial days of the Rossoneri transfer market, from the failure to purchase Mateta after his medical visits to the new defender who never arrived."
-    },
-    {
       "id": "f9e41c5bf4af",
       "title": "Serie A: Bologna vs. Milan – Confirmed line-ups",
       "url": "https://football-italia.net/serie-a-bologna-milan-confirmed-line-ups/",
@@ -194,36 +234,12 @@
       "summary": "Milan will have to do without Rafael Leao, Christian Pulisic and Alexis Saelemaekers in their..."
     },
     {
-      "id": "74137796079e",
-      "title": "MN - Scifo has no doubts: \"Despite everything, Leao is a champion\"",
-      "url": "https://www.milannews.it/news/mn-scifo-non-ha-dubbi-nonostante-tutto-leao-e-un-campione-606231",
-      "source": "milannews.it",
-      "date": "2026-02-03T18:40:00+00:00",
-      "summary": "The MilanNews.it editorial team interviewed the Belgian legend Enzo Scifo through the journalist Alessandro Schiavone."
-    },
-    {
       "id": "0a6ea622b2ee",
       "title": "Official: Bologna vs. AC Milan starting XIs – four changes from Roma draw",
       "url": "https://sempremilan.com/official-bologna-ac-milan-starting-xis-2025-26",
       "source": "sempremilan.com",
       "date": "2026-02-03T18:38:23+00:00",
       "summary": "AC Milan will close our the round of Serie A action on Tuesday night with a potentially tricky trip to face Bologna. Milan go into the game at the Stadio Renato dall’Ara under pressure to win with Inter, Napoli and Juventus all getting three points over the weekend. After failing to get a deadline d"
-    },
-    {
-      "id": "c116e0662e06",
-      "title": "Bologna-Milan, the official lineups: Loftus-Nkunku in attack",
-      "url": "https://www.milannews.it/primo-piano/bologna-milan-le-formazioni-ufficiali-in-attacco-coppia-loftus-nkunku-606256",
-      "source": "milannews.it",
-      "date": "2026-02-03T18:35:34+00:00",
-      "summary": "These are the official lineups for Bologna-Milan, a match valid for the 23rd matchday of Serie A.\n\nBOLOGNA (4-2-3-1): Ravaglia; Zortea, Casale, Heggem, Miranda; Freuler, Ferguson; Orsolini, Odgaard, Rowe; Castro."
-    },
-    {
-      "id": "4b4dbd1cd13a",
-      "title": "The state police of Cremona arrest an Inter fan responsible for throwing a paper bomb",
-      "url": "https://www.milannews.it/l-avversario/la-polizia-di-stato-di-cremona-esegue-un-arresto-di-un-tifoso-interista-responsabile-del-lancio-di-una-bomba-carta-606254",
-      "source": "milannews.it",
-      "date": "2026-02-03T18:20:35+00:00",
-      "summary": "The State Police of the Cremona Police Headquarters arrested an Inter supporter who was responsible for throwing a paper bomb inside the \"Giovanni Zini\" stadium during the match."
     },
     {
       "id": "7ae165f6b5f2",
@@ -376,22 +392,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-03T11:55:00+00:00",
       "summary": "While the only first-team winter signing was Niclas Füllkrug, the addition of Alphadjo Cisse should not be overlooked. As Corriere dello Sport (via MN24) recall this morning, the big news of deadline day was the deal that didn’t go through rather than the three that did, given that Jean-Philippe Mat"
-    },
-    {
-      "id": "10e29782a18e",
-      "title": "Vitiello explains why Allegri was let down by Milan’s window: “Füllkrug alone isn’t enough”",
-      "url": "https://sempremilan.com/vitiello-why-allegri-let-down-window",
-      "source": "sempremilan.com",
-      "date": "2026-02-03T11:30:00+00:00",
-      "summary": "Antonio Vitiello believes that the AC Milan management did not give Massimiliano Allegri the reinforcements that the squad needed. Milan went into the winter window being linked with players in various positions, from striker to centre-back and even wing-back. In the end the only real first-team add"
-    },
-    {
-      "id": "48ea3dae5107",
-      "title": "GdS: Ghosts, lack of goals and collapsed deals – Milan’s striker ‘curse’ still lingers",
-      "url": "https://sempremilan.com/ghosts-collapsed-deals-milan-striker-curse",
-      "source": "sempremilan.com",
-      "date": "2026-02-03T11:05:00+00:00",
-      "summary": "AC Milan were once again looking for a new starting striker in the winter window, and once again have been left questioning their luck. As La Gazzetta dello Sport (seen below) recall, once upon a time Milan won the Scudetto, thanks in part to their striker’s brace against Sassuolo on the final day. "
     },
     {
       "id": "58e2a3e16678",
