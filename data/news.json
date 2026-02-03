@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-02-03T09:39:16.092703+00:00",
+  "lastUpdated": "2026-02-03T10:38:26.280666+00:00",
   "articles": [
+    {
+      "id": "f9ab089360bf",
+      "title": "Marotta on San Siro: \"In Italy the bureaucracy is obstructionist. Thanks to Ralph and Scaroni we have arrived at the deed\"",
+      "url": "https://www.milannews.it/news/marotta-su-san-siro-in-italia-la-burocrazia-e-ostruzionistica-grazie-a-ralph-e-scaroni-siamo-arrivati-al-rogito-606226",
+      "source": "milannews.it",
+      "date": "2026-02-03T10:30:00+00:00",
+      "summary": "Beppe Marotta, president of Inter, spoke thus about San Siro in an interview with DAZN. This is an excerpt of his statements, taken from TMW: \"Yes."
+    },
+    {
+      "id": "11bb1cf6cc67",
+      "title": "Milan wants to improve their unbeaten streak: no one in Europe better than the Rossoneri",
+      "url": "https://www.milannews.it/news/il-milan-vuole-migliorare-la-striscia-di-imbattibilita-nessuno-in-europa-meglio-dei-rossoneri-606212",
+      "source": "milannews.it",
+      "date": "2026-02-03T10:20:00+00:00",
+      "summary": "The transfer market has just ended and Milan can concentrate on what will be the key period of the championship."
+    },
+    {
+      "id": "58e2a3e16678",
+      "title": "Ranking Serie A’s biggest spenders in 2026 winter transfer window",
+      "url": "https://football-italia.net/serie-a-biggest-spenders-2026-winter-transfer/",
+      "source": "football-italia.net",
+      "date": "2026-02-03T10:19:28+00:00",
+      "summary": "Lazio were the biggest spenders in Serie A during the winter transfer window, while Juventus..."
+    },
+    {
+      "id": "d82a273d6ea0",
+      "title": "CM: Mateta crossed off Milan’s list – the summer No.9 options from Kean to Panichelli",
+      "url": "https://sempremilan.com/milan-summer-no9-options-kean-panichelli",
+      "source": "sempremilan.com",
+      "date": "2026-02-03T10:15:00+00:00",
+      "summary": "AC Milan did not end up signing Jean-Philippe Mateta on deadline day, so now they will look to land the right striker in the summer. As Calciomercato.com report, the last 48 hours have seen practically everything happen. Milan agreed a deal worth over €30m with Crystal Palace for Mateta on the penul"
+    },
+    {
+      "id": "e050d16b78d2",
+      "title": "Bologna-Milan on Tuesday? The last time in 2018: here's how it went",
+      "url": "https://www.milannews.it/news/bologna-milan-di-martedi-l-ultima-volta-nel-2018-ecco-come-ando-606198",
+      "source": "milannews.it",
+      "date": "2026-02-03T10:10:00+00:00",
+      "summary": "The 23rd matchday of Serie A will end this evening with the match between Bologna and Milan. An unusual day for a postponement, considering the day started last Friday."
+    },
+    {
+      "id": "1f59b70c6c26",
+      "title": "Mateta-Milan, Romano: \"He missed only for physical reasons\". And he reveals what the footballer risks now",
+      "url": "https://www.milannews.it/news/mateta-milan-romano-e-saltato-solo-per-motivi-fisici-e-svela-cosa-rischia-ora-il-calciatore-606225",
+      "source": "milannews.it",
+      "date": "2026-02-03T10:00:00+00:00",
+      "summary": "Fabrizio Romano, on DAZN, revealed the background to Jean-Philippe Mateta's failure to arrive at Milan: \"Only a physical matter."
+    },
+    {
+      "id": "f41d044bdb84",
+      "title": "At the Dall'Ara Nkunku will lead the attack: Allegri's possible choices",
+      "url": "https://www.milannews.it/news/al-dall-ara-sara-nkunku-a-guidare-l-attacco-le-possibili-scelte-di-allegri-606203",
+      "source": "milannews.it",
+      "date": "2026-02-03T09:50:00+00:00",
+      "summary": "Everything is ready for tonight's match between Bologna and Milan. Tuttosport focuses on what Massimiliano Allegri's choices will have to be."
+    },
+    {
+      "id": "00ab10528a92",
+      "title": "GdS: Predicted XIs for Bologna vs. AC Milan – Allegri forced to use unprecedented attack",
+      "url": "https://sempremilan.com/predicted-xis-bologna-milan-unprecedented-attack",
+      "source": "sempremilan.com",
+      "date": "2026-02-03T09:50:00+00:00",
+      "summary": "After the drama of deadline day, AC Milan will return to action on the field tonight, taking on Bologna away from home. Milan come into the game at the Stadio Renato dall’Ara under pressure to win after Inter, Napoli and Juventus all did over the weekend. Massimiliano Allegri’s side are battling ano"
+    },
+    {
+      "id": "223206d5142b",
+      "title": "Milan, Cissé taken: the Rossoneri's plan is very clear",
+      "url": "https://www.milannews.it/news/milan-preso-cisse-il-piano-dei-rossoneri-e-chiarissimo-606197",
+      "source": "milannews.it",
+      "date": "2026-02-03T09:40:00+00:00",
+      "summary": "Jean-Philippe Mateta didn't arrive, but Milan still made one last signing: Alphadjo Cissè, a midfielder born in 2006 who arrived for 8 million plus 2 million in bonuses plus a percentage on the resale ..."
+    },
     {
       "id": "aaffc8d2e4a8",
       "title": "The shirt that weighs: Milan and the curse of the number 9",
@@ -152,54 +224,6 @@
       "source": "milannews.it",
       "date": "2026-02-03T07:50:00+00:00",
       "summary": "Nothing happened for Milan on the last day of the winter transfer market session."
-    },
-    {
-      "id": "9338e29f59a1",
-      "title": "The market is over, now the field. The opening QS: \"Milan, ball to Allegri\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-mercato-e-finito-ora-il-campo-il-qs-in-apertura-milan-palla-ad-allegri-606193",
-      "source": "milannews.it",
-      "date": "2026-02-03T07:40:00+00:00",
-      "summary": "Nothing to do for Milan, who in the last few hours were unable to give Massimiliano Allegri that new forward addition that corresponded to the name of Jean-Philippe Mateta."
-    },
-    {
-      "id": "3a1c8e05bdc2",
-      "title": "No effective shot. Tuttosport opening: \"The knee isn't convincing, no Mateta for Milan\"",
-      "url": "https://www.milannews.it/rassegna-stampa/niente-colpo-a-effetto-tuttosport-in-apertura-il-ginocchio-non-convince-niente-mateta-per-il-milan-606192",
-      "source": "milannews.it",
-      "date": "2026-02-03T07:30:00+00:00",
-      "summary": "The winter transfer market session for Milan ended with nothing. Today's edition of Tuttosport also talks about it on the front page: \"The knee isn't convincing, no Mateta for Milan\"."
-    },
-    {
-      "id": "d1bbc8583b7e",
-      "title": "What a disappointment for Mateta, CorSport at the start: \"Milan empty\"",
-      "url": "https://www.milannews.it/rassegna-stampa/che-rammarico-per-mateta-il-corsport-in-apertura-milan-a-vuoto-606191",
-      "source": "milannews.it",
-      "date": "2026-02-03T07:20:00+00:00",
-      "summary": "Disappointing last day of the transfer window for Milan, who did not close Jean-Philippe Mateta after the Frenchman suffered knee problems."
-    },
-    {
-      "id": "f6c9d3f0e2d8",
-      "title": "La Gazzetta on the front page on Milan: \"Salta Mateta\"",
-      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-prima-pagina-sul-milan-salta-mateta-606190",
-      "source": "milannews.it",
-      "date": "2026-02-03T07:10:00+00:00",
-      "summary": "It seemed like it was going to be the last shot of the winter transfer window, the splashy purchase to revitalize Milan's attack. And instead nothing."
-    },
-    {
-      "id": "48ddfb2a908e",
-      "title": "Nothing in fact, Milan's offensive revolution did not start from Mateta",
-      "url": "https://www.milannews.it/primo-piano/nulla-di-fatto-la-rivoluzione-offensiva-del-milan-non-e-partita-da-mateta-606204",
-      "source": "milannews.it",
-      "date": "2026-02-03T07:00:00+00:00",
-      "summary": "Nothing to do for Jean-Philippe Mateta."
-    },
-    {
-      "id": "cef7bbad6a41",
-      "title": "Italian Cup, the quarter-finals begin tomorrow and after with Inter and Juventus on the pitch",
-      "url": "https://www.milannews.it/news/coppa-italia-domani-e-dopo-iniziano-i-quarti-di-finale-con-inter-e-juventus-in-campo-606176",
-      "source": "milannews.it",
-      "date": "2026-02-03T06:50:00+00:00",
-      "summary": "Week free from the commitments of the European cups, which will resume in about 14 days, but not from the matches: tomorrow the quarter-final series of the Italian Cup will begin."
     },
     {
       "id": "4ceda0f43450",
@@ -394,14 +418,6 @@
       "summary": "AC Milan’s management have decided not to pursue a deadline day deal for a central defender, according to a report. During the winter mercato, Milan have been linked with several centre-backs, from Thiago Silva and Joe Gomez to Axel Disasi and Nathan Ake. For various reasons none of these ideas mate"
     },
     {
-      "id": "02aa9c9a52aa",
-      "title": "Sky: Juventus re-enter Mateta picture with Milan expected to make decision soon",
-      "url": "https://sempremilan.com/juventus-mateta-milan-decision-soon",
-      "source": "sempremilan.com",
-      "date": "2026-02-02T12:27:25+00:00",
-      "summary": "AC Milan will soon make a call on whether or not to proceed with the deadline day signing of Jean-Philippe Mateta, a report claims. According to Sky (via MilanNews), it’s almost time to see how the Mateta-Milan situation will end up. The player is undergoing additional medical checks requested by th"
-    },
-    {
       "id": "9cd905da4573",
       "title": "Sky: Juventus resume Mateta talks, propose different terms than Milan",
       "url": "https://football-italia.net/juventus-mateta-talks-different-terms-milan/",
@@ -416,14 +432,6 @@
       "source": "football-italia.net",
       "date": "2026-02-02T12:20:28+00:00",
       "summary": "According to the latest updates, Christopher Nkunku is set to stay on with Milan on..."
-    },
-    {
-      "id": "62a1893c0930",
-      "title": "Reports: West Ham to sign Disasi from Chelsea – confusion emerges over Milan’s pursuit",
-      "url": "https://sempremilan.com/west-ham-disasi-chelsea-confusion-milan",
-      "source": "sempremilan.com",
-      "date": "2026-02-02T12:09:55+00:00",
-      "summary": "Axel Disasi is expected to sign for West Ham today, joining from Chelsea on loan, and that means AC Milan will not land him. According to Sky, Disasi will join West Ham on Deadline Day ‘despite interest from a number of other clubs, including AC Milan’. A medical is scheduled for this morning, with "
     },
     {
       "id": "30aa78cb6e24",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-02-01T18:20:29+00:00",
       "summary": "The latest updates in Italy claim that Milan’s deal for Crystal Palace striker Jean-Philippe Mateta..."
-    },
-    {
-      "id": "5890087ed87f",
-      "title": "Why Milan decided against signing Chelsea defender Disasi",
-      "url": "https://football-italia.net/why-milan-not-signing-chelsea-disasi/",
-      "source": "football-italia.net",
-      "date": "2026-02-01T15:52:34+00:00",
-      "summary": "Milan have reportedly decided against signing Chelsea defender Axel Disasi following ‘technical assessments’ made with..."
     }
   ]
 }
