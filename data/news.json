@@ -1,6 +1,134 @@
 {
-  "lastUpdated": "2026-02-03T14:05:58.345271+00:00",
+  "lastUpdated": "2026-02-03T15:48:40.790888+00:00",
   "articles": [
+    {
+      "id": "9cf985d834d9",
+      "title": "Former Milan, Florenzi: \"I regret not having played the World Cup, I hope to experience it as a fan\"",
+      "url": "https://www.milannews.it/gli-ex/ex-milan-florenzi-rimpiango-di-non-aver-giocato-il-mondiale-spero-di-viverlo-da-tifoso-606230",
+      "source": "milannews.it",
+      "date": "2026-02-03T15:40:00+00:00",
+      "summary": "(ANSA) - ROME, FEBRUARY 03 - \"I won a European Championship, but I have never played in a World Cup and I hope to be able to experience it this summer as a fan\"."
+    },
+    {
+      "id": "16d4dafd17bc",
+      "title": "LIVE MN - Towards Bologna-Milan: Athekame from the 1st minute, the Loftus-Nkunku pair up front",
+      "url": "https://www.milannews.it/primo-piano/live-mn-verso-bologna-milan-athekame-dal-1-in-avanti-la-coppia-loftus-nkunku-606227",
+      "source": "milannews.it",
+      "date": "2026-02-03T15:32:00+00:00",
+      "summary": "PROBABLE MILAN LINE-UP (3-5-2): Maignan, De Winter, Gabbia, Pavlovic, Athekame, Fofana, Modric, Rabiot, Bartesaghi, Loftus-Cheek, Nkunku."
+    },
+    {
+      "id": "b6a6232768df",
+      "title": "MN - Fedele surprises everyone: \"Maignan? One of the best, but in his place I would have taken Caprile\"",
+      "url": "https://www.milannews.it/news/mn-fedele-spiazza-tutti-maignan-uno-dei-migliori-ma-al-suo-posto-avrei-preso-caprile-606144",
+      "source": "milannews.it",
+      "date": "2026-02-03T15:30:00+00:00",
+      "summary": "Furio Fedele, former historic journalist of Corriere dello Sport, was interviewed exclusively by the editorial staff of MilanNews.it."
+    },
+    {
+      "id": "6329c88bd8bb",
+      "title": "GdS: Why Milan decided against a late move to bolster the defensive department",
+      "url": "https://sempremilan.com/why-milan-decided-against-bolster-defence",
+      "source": "sempremilan.com",
+      "date": "2026-02-03T15:30:00+00:00",
+      "summary": "There was no late movement to AC Milan in the winter window, at least related to the first team, so the defence remained unchanged. According to La Gazzetta dello Sport (seen below), the Milan directors made their evaluations together with the head coach Massimiliano Allegri, and in the end the club"
+    },
+    {
+      "id": "115b6b0715b1",
+      "title": "Milan, the Olympics begin: traffic chaos, all roads closed",
+      "url": "https://www.milannews.it/news/milano-al-via-le-olimpiadi-caos-viabilita-tutte-le-strade-chiuse-606229",
+      "source": "milannews.it",
+      "date": "2026-02-03T15:20:00+00:00",
+      "summary": "The Milan-Cortina 2026 Olympics are about to begin and this means restrictions regarding traffic in Milan around the San Siro area."
+    },
+    {
+      "id": "d22e77d8c92f",
+      "title": "Poker of signings: the planning of the Milan of the future continues",
+      "url": "https://www.milannews.it/news/poker-di-acquisti-continua-la-programmazione-del-milan-del-futuro-606211",
+      "source": "milannews.it",
+      "date": "2026-02-03T15:10:00+00:00",
+      "summary": "Only one signing for the first team, Niclas Fullkrug; as many as four, however, for the Milan of the future."
+    },
+    {
+      "id": "42cc154f1694",
+      "title": "MN - Scifo on the scudetto fight: \"Napoli and Inter have something more than Milan\"",
+      "url": "https://www.milannews.it/news/mn-scifo-sulla-lotta-scudetto-napoli-e-inter-hanno-qualcosa-in-piu-del-milan-606228",
+      "source": "milannews.it",
+      "date": "2026-02-03T15:00:00+00:00",
+      "summary": "The MilanNews.it editorial team interviewed the Belgian legend Enzo Scifo through the journalist Alessandro Schiavone."
+    },
+    {
+      "id": "7b9300865d64",
+      "title": "CM: Milan or the Premier League – Vlahovic sweepstakes heat up with Tare in talks",
+      "url": "https://sempremilan.com/milan-premier-league-vlahovic-sweepstakes-heat",
+      "source": "sempremilan.com",
+      "date": "2026-02-03T15:00:00+00:00",
+      "summary": "Now that Jean-Philippe Mateta has not arrived, AC Milan appear ready to turn back towards Dusan Vlahovic. With the winter transfer window now over and the Mateta deal off, it’s time for Milan to turn the page and start looking at potential summer striker options. One of the frontrunners will be Vlah"
+    },
+    {
+      "id": "db2741388765",
+      "title": "Retired Italy Euro winner regrets not playing at World Cup: ‘I failed’",
+      "url": "https://football-italia.net/florenzi-italy-euro-winner-regret-world-cup/",
+      "source": "football-italia.net",
+      "date": "2026-02-03T14:56:23+00:00",
+      "summary": "Former Italy international Alessandro Florenzi regrets not playing in the World Cup despite winning the..."
+    },
+    {
+      "id": "aad07700072b",
+      "title": "Milan in Bologna without Saele and Pulisic: Allegri and a double heavy absence",
+      "url": "https://www.milannews.it/news/milan-a-bologna-senza-saele-e-pulisic-allegri-e-una-doppia-assenza-pesante-606196",
+      "source": "milannews.it",
+      "date": "2026-02-03T14:50:00+00:00",
+      "summary": "Milan will close the 23rd day of the championship with a trip to Bologna."
+    },
+    {
+      "id": "561bdde23329",
+      "title": "Vlahovic returns to Juventus to finish recovery as Chelsea, Newcastle and Milan eye free transfer",
+      "url": "https://football-italia.net/vlahovic-juventus-recovery-chelsea-milan-free/",
+      "source": "football-italia.net",
+      "date": "2026-02-03T14:42:39+00:00",
+      "summary": "Dusan Vlahovic has reportedly returned to the Juventus training centre to complete his injury recovery,..."
+    },
+    {
+      "id": "63f22a1a80f6",
+      "title": "MN - Fedele on Ibrahimovic: \"With the arrival of Comvest I sense Zlatan could have more power\"",
+      "url": "https://www.milannews.it/news/mn-fedele-su-ibrahimovic-con-l-arrivo-di-comvest-intuisco-zlatan-possa-avere-piu-potere-606146",
+      "source": "milannews.it",
+      "date": "2026-02-03T14:40:00+00:00",
+      "summary": "Furio Fedele, former historic journalist of Corriere dello Sport, was interviewed exclusively by the editorial staff of MilanNews.it."
+    },
+    {
+      "id": "bdc112690a4f",
+      "title": "Florenzi remembers the European Championship he won with Italy: \"We weren't the strongest, something magical was created\"",
+      "url": "https://www.milannews.it/gli-ex/florenzi-ricorda-l-europeo-vinto-con-l-italia-non-eravamo-i-piu-forti-si-creo-qualcosa-di-magico-606234",
+      "source": "milannews.it",
+      "date": "2026-02-03T14:30:00+00:00",
+      "summary": "(ANSA) - ROME, FEBRUARY 03 - \"I won a European Championship, but I have never played in a World Cup and I hope to be able to experience it this summer as a fan\"."
+    },
+    {
+      "id": "8d2af4516cc0",
+      "title": "Poor recent form meets unbeaten run: All the key stats ahead of Bologna vs. Milan",
+      "url": "https://sempremilan.com/all-key-stats-bologna-milan-2025-26",
+      "source": "sempremilan.com",
+      "date": "2026-02-03T14:30:00+00:00",
+      "summary": "AC Milan and Bologna will face each other for the 191st time at the Stadio Renato dall’Ara tonight, with three massive points on the line. Milan have the edge historically over Bologna, winning 89 of the clashes, with 54 defeats and 47 draws. However, last season the Rossoblu won their home league g"
+    },
+    {
+      "id": "3214ad465cc5",
+      "title": "The statistic that Bologna and Milan have in common: here's what often happens in the second halves",
+      "url": "https://www.milannews.it/news/la-statistica-che-accomuna-bologna-e-milan-ecco-cosa-accade-spesso-nei-secondi-tempi-606222",
+      "source": "milannews.it",
+      "date": "2026-02-03T14:20:00+00:00",
+      "summary": "Tonight Milan will visit Bologna. The Rossoneri's objective is very clear and of vital importance, to win to close the gap on Inter."
+    },
+    {
+      "id": "98cafae12048",
+      "title": "Milan is the team that suffers the most penalties in Serie A: the numbers",
+      "url": "https://www.milannews.it/news/il-milan-e-la-squadra-che-subisce-piu-rigori-contro-in-a-i-numeri-606221",
+      "source": "milannews.it",
+      "date": "2026-02-03T14:10:00+00:00",
+      "summary": "Everything is ready for the match between Bologna and Milan, scheduled for this evening at the Dall'Ara stadium."
+    },
     {
       "id": "794b675553ee",
       "title": "Inter fans banned from away games until 23 March but derby is strangely exempt",
@@ -32,14 +160,6 @@
       "source": "football-italia.net",
       "date": "2026-02-03T13:40:31+00:00",
       "summary": "Inter President Giuseppe Marotta hopes the new San Siro will be ready in 2030 and..."
-    },
-    {
-      "id": "16d4dafd17bc",
-      "title": "LIVE MN - Towards Bologna-Milan: Athekame from the 1st minute, the Loftus-Nkunku pair up front",
-      "url": "https://www.milannews.it/primo-piano/live-mn-verso-bologna-milan-athekame-dal-1-in-avanti-la-coppia-loftus-nkunku-606227",
-      "source": "milannews.it",
-      "date": "2026-02-03T13:40:00+00:00",
-      "summary": "PROBABLE MILAN LINE-UP (3-5-2): Maignan, De Winter, Gabbia, Pavlovic, Athekame, Fofana, Modric, Rabiot, Bartesaghi, Loftus-Cheek, Nkunku."
     },
     {
       "id": "b27757e0b68b",
@@ -122,22 +242,6 @@
       "summary": "Furio Fedele, former historic journalist of Corriere dello Sport, was interviewed exclusively by the editorial staff of MilanNews.it."
     },
     {
-      "id": "2cc68f1bb4a1",
-      "title": "Watch out for the card: three Rossoneri players are on a booking today in Bologna",
-      "url": "https://www.milannews.it/news/occhio-al-cartellino-tre-giocatori-rossoneri-in-diffida-oggi-a-bologna-606184",
-      "source": "milannews.it",
-      "date": "2026-02-03T12:30:25+00:00",
-      "summary": "On the evening of today 3 February, Milan will take the field at the \"Renato Dall'Ara\" at 8pm."
-    },
-    {
-      "id": "c92f6477e8da",
-      "title": "Former Bologna player Anaclerio: \"Milan are a very strong team with a goalkeeper who seems unbeatable\"",
-      "url": "https://www.milannews.it/news/l-ex-bologna-anaclerio-il-milan-squadra-fortissima-con-un-portiere-che-pare-insuperabile-606182",
-      "source": "milannews.it",
-      "date": "2026-02-03T12:20:38+00:00",
-      "summary": "The Milan is preparing to take to the pitch to close the 23rd round of the Serie A Enilive championship: the Rossoneri will be on the pitch this evening at 8.45pm at the home of Bologna, at the \"Renato Dall'Ara\" stadium."
-    },
-    {
       "id": "509d08fcc6d4",
       "title": "GdS: ‘The Diavolo’s response’ – Allegri keen to focus on the field after quiet window",
       "url": "https://sempremilan.com/allegri-keen-focus-field-quiet-window",
@@ -154,52 +258,12 @@
       "summary": "Former Milan and Juventus defender Mattia De Sciglio said he snubbed a move to Liverpool..."
     },
     {
-      "id": "217ae9e7d1c9",
-      "title": "The new Rossonero Idrissi-Regragui is ready: \"Grateful for the opportunity\"",
-      "url": "https://www.milannews.it/news/il-neo-rossonero-idrissi-regragui-e-pronto-grato-per-l-opportunita-606164",
-      "source": "milannews.it",
-      "date": "2026-02-03T12:10:09+00:00",
-      "summary": "Among the many purchases that Milan has finalized during this winter transfer window in January for the Milan Futuro project and its coach Massimo Oddo, one of the last to be deposited &eg…"
-    },
-    {
-      "id": "b57ede4799eb",
-      "title": "Tonight the match against Bologna, we need the Devil's response to not let Inter escape",
-      "url": "https://www.milannews.it/news/stasera-la-sfida-al-bologna-serve-la-risposta-del-diavolo-per-non-far-scappare-l-inter-606209",
-      "source": "milannews.it",
-      "date": "2026-02-03T12:00:00+00:00",
-      "summary": "Once the transfer window is over, tonight Milan will be able to focus solely and exclusively on the championship. La Gazzetta dello Sport opens with \"The Devil's Answer\"."
-    },
-    {
       "id": "6a734b7164f0",
       "title": "CorSport: To be evaluated in preseason – Milan’s Cisse signing should not be overlooked",
       "url": "https://sempremilan.com/milan-cisse-signing-not-be-overlooked",
       "source": "sempremilan.com",
       "date": "2026-02-03T11:55:00+00:00",
       "summary": "While the only first-team winter signing was Niclas Füllkrug, the addition of Alphadjo Cisse should not be overlooked. As Corriere dello Sport (via MN24) recall this morning, the big news of deadline day was the deal that didn’t go through rather than the three that did, given that Jean-Philippe Mat"
-    },
-    {
-      "id": "6c4aa8634663",
-      "title": "Towards Bologna-Milan, match number 10 between Italiano and Allegri: the data",
-      "url": "https://www.milannews.it/news/verso-bologna-milan-confronto-numero-10-tra-italiano-e-allegri-i-dati-606216",
-      "source": "milannews.it",
-      "date": "2026-02-03T11:50:00+00:00",
-      "summary": "Everything is ready for the match between Bologna and Milan, with the Rossoneri wanting to get closer to Inter."
-    },
-    {
-      "id": "c204c1758185",
-      "title": "MN - Furio Fedele doubtful: \"With the arrival of Comvest I wonder how Furlani manages to remain...\"",
-      "url": "https://www.milannews.it/news/mn-furio-fedele-dubbioso-con-l-arrivo-di-comvest-mi-chiedo-come-faccia-a-restare-furlani-606136",
-      "source": "milannews.it",
-      "date": "2026-02-03T11:40:00+00:00",
-      "summary": "Furio Fedele, former historic journalist of Corriere dello Sport, was interviewed exclusively by the editorial staff of MilanNews.it."
-    },
-    {
-      "id": "d340427a31c3",
-      "title": "Milan and a positive tradition in the second half: the excellent numbers of the Rossoneri",
-      "url": "https://www.milannews.it/news/il-milan-e-una-tradizione-positiva-nei-secondi-tempi-gli-ottimi-numeri-dei-rossoneri-606215",
-      "source": "milannews.it",
-      "date": "2026-02-03T11:30:00+00:00",
-      "summary": "Everything is ready for the match between Bologna and Milan, scheduled for this evening at the Dall'Ara stadium."
     },
     {
       "id": "10e29782a18e",
@@ -210,36 +274,12 @@
       "summary": "Antonio Vitiello believes that the AC Milan management did not give Massimiliano Allegri the reinforcements that the squad needed. Milan went into the winter window being linked with players in various positions, from striker to centre-back and even wing-back. In the end the only real first-team add"
     },
     {
-      "id": "372eed6df1cc",
-      "title": "Bologna is looking for redemption tonight: the negative numbers of the rossoblù in the last 10 of Serie A",
-      "url": "https://www.milannews.it/l-avversario/il-bologna-stasera-cerca-il-riscatto-i-numeri-negativi-dei-rossoblu-nelle-ultime-10-di-a-606214",
-      "source": "milannews.it",
-      "date": "2026-02-03T11:20:00+00:00",
-      "summary": "With the transfer market having ended in nothing, Milan can concentrate on the championship and think about this evening's away match in Bologna against Vincenzo Italiano's boys."
-    },
-    {
-      "id": "7a24cc1da862",
-      "title": "Towards Bologna-Milan, the precedents at Dall'Ara",
-      "url": "https://www.milannews.it/news/verso-bologna-milan-i-precedenti-al-dall-ara-606213",
-      "source": "milannews.it",
-      "date": "2026-02-03T11:10:00+00:00",
-      "summary": "Everything is ready for Bologna-Milan, scheduled for this evening at the Dall'Ara."
-    },
-    {
       "id": "48ea3dae5107",
       "title": "GdS: Ghosts, lack of goals and collapsed deals – Milan’s striker ‘curse’ still lingers",
       "url": "https://sempremilan.com/ghosts-collapsed-deals-milan-striker-curse",
       "source": "sempremilan.com",
       "date": "2026-02-03T11:05:00+00:00",
       "summary": "AC Milan were once again looking for a new starting striker in the winter window, and once again have been left questioning their luck. As La Gazzetta dello Sport (seen below) recall, once upon a time Milan won the Scudetto, thanks in part to their striker’s brace against Sassuolo on the final day. "
-    },
-    {
-      "id": "1d85e2d93c06",
-      "title": "MN EXCLUSIVE - Fedele: \"Mateta missed? Better that way. Happy for Maignan. Thiago Silva would have come running\"",
-      "url": "https://www.milannews.it/primo-piano/esclusiva-mn-fedele-saltato-mateta-meglio-cosi-felice-per-maignan-thiago-silva-sarebbe-venuto-di-corsa-606135",
-      "source": "milannews.it",
-      "date": "2026-02-03T11:00:00+00:00",
-      "summary": "Furio Fedele, former historic journalist of Corriere dello Sport, was interviewed exclusively by the editorial staff of MilanNews.it."
     },
     {
       "id": "260494f93312",
@@ -370,30 +410,6 @@
       "summary": "AC Milan have announced a third deadline day arrival, with Magnus Dalpiaz joining from Bayern Munich. Dalpiaz arrived in Italy last night ahead of his medical, which took place throughout the course of deadline day. After completing the formalities, he went to Casa Milan to sign his contract, and no"
     },
     {
-      "id": "24548ac59058",
-      "title": "Official: Sia departs to join Segunda Division side CD Mirantes on loan",
-      "url": "https://sempremilan.com/sia-departs-milan-join-cd-mirantes-loan",
-      "source": "sempremilan.com",
-      "date": "2026-02-02T17:45:00+00:00",
-      "summary": "This evening, AC Milan have confirmed that Diego Sia has left the club on loan, joining CD Mirandes, who are bottom of the Spanish second division. With the Futuro project, Milan need to ensure that players are developing at the right rate. However, there will always be limitations to playing in Ser"
-    },
-    {
-      "id": "fff7dd1bd2f0",
-      "title": "Romano lifts lid on fall-out after Mateta deal collapse: “Unrest among all parties”",
-      "url": "https://sempremilan.com/romano-fall-out-mateta-unrest-milan",
-      "source": "sempremilan.com",
-      "date": "2026-02-02T17:32:11+00:00",
-      "summary": "Fabrizio Romano has shed a bit more light on the fall-out after Jean-Philippe Mateta’s move to AC Milan collapsed on deadline day. It has been nothing short of a chaotic last 24 hours for Mateta, Milan and Crystal Palace. On Sunday evening, it emerged that the Rossoneri had agreed a deal worth ‘in e"
-    },
-    {
-      "id": "9fd0696e2c14",
-      "title": "Serie A preview: Bologna vs. AC Milan – Team news, opposition insight, stats and prediction",
-      "url": "https://sempremilan.com/serie-a-preview-bologna-ac-milan-team-news-stats",
-      "source": "sempremilan.com",
-      "date": "2026-02-02T17:20:00+00:00",
-      "summary": "If AC Milan are to continue fighting in the Scudetto, then Tuesday’s game against Bologna is must-win, especially considering their recent form.  As the last game of the weekend, Milan come into this needing a result. Failing to do so could write them off for the title. Nevertheless, just getting th"
-    },
-    {
       "id": "f2f623636667",
       "title": "Tonali agent: ‘No Arsenal talks, we’ll evaluate if Newcastle open to Juventus’",
       "url": "https://football-italia.net/tonali-agent-arsenal-talks-newcastle-juventus/",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-02-02T11:39:31+00:00",
       "summary": "Massimiliano Allegri insists that it is ‘not right’ for him to comment on developments regarding..."
-    },
-    {
-      "id": "0d9605bcd666",
-      "title": "When is the 2026 January transfer deadline in Serie A?",
-      "url": "https://football-italia.net/when-is-the-2026-january-transfer-deadline/",
-      "source": "football-italia.net",
-      "date": "2026-02-02T08:44:50+00:00",
-      "summary": "January has brought plenty of transfer action in Serie A, but teams now have less..."
-    },
-    {
-      "id": "95dc6085a265",
-      "title": "Today’s Papers: Mateta tests, Audero shock, Inter flying, Juventus run continues",
-      "url": "https://football-italia.net/todays-papers-mateta-tests-audero-shock/",
-      "source": "football-italia.net",
-      "date": "2026-02-02T08:34:03+00:00",
-      "summary": "La Gazzetta dello Sport Inter run away (and thank Audero) Hit by a firework, the..."
     }
   ]
 }
