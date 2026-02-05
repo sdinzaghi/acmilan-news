@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-02-05T08:40:38.854248+00:00",
+  "lastUpdated": "2026-02-05T09:42:26.336510+00:00",
   "articles": [
+    {
+      "id": "f86a3c2aa1e5",
+      "title": "Del Piero: Juventus ‘must’ have title belief, but avoids Yildiz comparison",
+      "url": "https://football-italia.net/del-piero-juventus-title-no-yildiz-comparison/",
+      "source": "football-italia.net",
+      "date": "2026-02-05T09:35:42+00:00",
+      "summary": "Juventus legend Alessandro Del Piero feels the Bianconeri can still aim for the Serie A..."
+    },
+    {
+      "id": "4f4a4ee292e7",
+      "title": "Hazard: \"I'll tell you a secret: I supported Milan as a child\"",
+      "url": "https://www.milannews.it/news/hazard-vi-svelo-un-segreto-da-bambino-tifavo-milan-606453",
+      "source": "milannews.it",
+      "date": "2026-02-05T09:30:00+00:00",
+      "summary": "To see Eden Hazard in Italy, wine was needed."
+    },
+    {
+      "id": "9e541ee08cb9",
+      "title": "Tuttosport: Longer break but extra rest – Allegri’s strategy to manage Milan’s workload",
+      "url": "https://sempremilan.com/longer-break-extra-rest-allegri-strategy",
+      "source": "sempremilan.com",
+      "date": "2026-02-05T09:25:00+00:00",
+      "summary": "AC Milan now have another extended period between games after the win over Bologna, but Massimiliano Allegri is managing workloads. As Tuttosport (via MN24) report this morning, following the win against Bologna on Tuesday night, Allegri has decided to grant his team a break. As a result, after doin"
+    },
+    {
+      "id": "c0dc70704ff0",
+      "title": "Pogba out of action since December, no timetable for returning to Monaco",
+      "url": "https://www.milannews.it/dall-estero/pogba-fermo-da-dicembre-nessuna-tempistica-per-rientro-nel-monaco-606441",
+      "source": "milannews.it",
+      "date": "2026-02-05T09:20:13+00:00",
+      "summary": "(ANSA) - MONTECARLO, 04 FEB - Monaco's general director, Thiago Scuro, has admitted that there is no precise prediction regarding the possible return to training of Paul Pogba, who has been sidelined since December with a calf injury."
+    },
+    {
+      "id": "6b9c1b32963f",
+      "title": "Milan will continue to work for Kostic from Partizan Belgrade",
+      "url": "https://www.milannews.it/rassegna-stampa/il-milan-continuera-a-lavorare-per-kostic-del-partizan-belgrado-606447",
+      "source": "milannews.it",
+      "date": "2026-02-05T09:10:17+00:00",
+      "summary": "Milan are working to sign Andrej Kostić from Partizan Belgrade, an eighteen-year-old striker who was supposed to land in Italy as early as January."
+    },
+    {
+      "id": "a6d41bf25613",
+      "title": "GdS: A ‘record-worthy Milan’ – the numbers that demonstrate huge improvement",
+      "url": "https://sempremilan.com/record-worthy-milan-numbers-huge-improvement",
+      "source": "sempremilan.com",
+      "date": "2026-02-05T09:00:11+00:00",
+      "summary": "AC Milan’s unbeaten run has now stretched to 22 games, and the comparison with one year ago is a stark one. As La Gazzetta dello Sport write this morning, certain images have become quite familiar to fans: the team celebrating goals in front of the supporters, Massimiliano Allegri heading straight f"
+    },
+    {
+      "id": "32408f8afa86",
+      "title": "Nkunku takes off: a goal an hour and Milan thanks",
+      "url": "https://www.milannews.it/primo-piano/nkunku-decolla-un-gol-all-ora-e-il-milan-ringrazia-606436",
+      "source": "milannews.it",
+      "date": "2026-02-05T09:00:00+00:00",
+      "summary": "To be really picky, the only mistake made by Christopher Nkunku in Bologna was not technical, but chromatic."
+    },
+    {
+      "id": "375d58f6a32a",
+      "title": "Inter, Chivu: \"The market is a bastard, it's not always possible... Rabiot? We'll get on with the work...\"",
+      "url": "https://www.milannews.it/l-avversario/inter-chivu-il-mercato-e-bastardo-non-sempre-si-riesce-rabiot-noi-andiamo-avanti-con-il-lavoro-606451",
+      "source": "milannews.it",
+      "date": "2026-02-05T08:50:12+00:00",
+      "summary": "Chivu's Inter easily beat Torino and qualified for the semi-finals of the Italian Cup."
+    },
+    {
+      "id": "89de9773e4dc",
+      "title": "Serie A team debts, Bellinazzo: \"if not a critical situation, still very complicated\"",
+      "url": "https://www.milannews.it/news/debiti-squadre-serie-a-bellinazzo-e-una-situazione-se-non-critica-comunque-molto-complicata-606446",
+      "source": "milannews.it",
+      "date": "2026-02-05T08:40:44+00:00",
+      "summary": "Marco Bellinazzo, journalist from Il Sole 24 Ore, spoke on TMW Radio and spoke about the financial situation of the Serie A clubs and the debt classification published in the media in recent hours: \"It's a ..."
+    },
     {
       "id": "052aad7b964f",
       "title": "Bournemouth, we're here for Jimenez. The English are ready to buy him from Milan",
@@ -71,7 +143,7 @@
       "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-dello-sport-in-apertura-milan-da-record-606448",
       "source": "milannews.it",
       "date": "2026-02-05T07:10:00+00:00",
-      "summary": "Today's edition of La Gazzetta dello Sport underlines the great improvement of the Rossoneri in 365 days: \"Compared to a year ago, 15 points more\"."
+      "summary": "Today's edition of La Gazzetta dello Sport highlights the great improvement of the Rossoneri in 365 days: \"Compared to a year ago, 15 points more\"."
     },
     {
       "id": "8d1c34074d80",
@@ -107,59 +179,11 @@
     },
     {
       "id": "c583016270f3",
-      "title": "Marotta on Milan: \"It's advantageous to only have the championship, but we are used to having many matches\"",
+      "title": "Marotta on Milan: \"It's advantageous to only have the championship, but we are used to having many games\"",
       "url": "https://www.milannews.it/news/marotta-sul-milan-vantaggio-avere-solo-il-campionato-ma-noi-siamo-abituati-ad-avere-tante-partite-606427",
       "source": "milannews.it",
       "date": "2026-02-05T06:20:34+00:00",
       "summary": "On Wednesday 4 February 2026, in the pre-match of the match valid for the quarter-finals of the \"Inter-Turin\" Italian Cup, the president of Inter Giuseppe Marotta declared ..."
-    },
-    {
-      "id": "3182f8f2b098",
-      "title": "Italian Cup, Atalanta-Juventus tonight: the situation",
-      "url": "https://www.milannews.it/news/coppa-italia-stasera-atalanta-juventus-la-situazione-606416",
-      "source": "milannews.it",
-      "date": "2026-02-05T06:10:38+00:00",
-      "summary": "After Inter's passage to the next round last night against Baroni's men, this evening Luciano Spalletti's Juventus is called to take to the field to try to obtain a pass to the semi-finals of the Italian Cup."
-    },
-    {
-      "id": "844ab60f673c",
-      "title": "8 days in Pisa-Milan: the Rossoneri's program in view of the away match",
-      "url": "https://www.milannews.it/news/8-giorni-a-pisa-milan-il-programma-dei-rossoneri-in-vista-della-trasferta-606430",
-      "source": "milannews.it",
-      "date": "2026-02-05T06:00:00+00:00",
-      "summary": "As written yesterday here on our website MilanNews.it, last morning the Rossoneri carried out an unloading job at Milanello after Tuesday evening's match against Bologna at the Dall'Ara stadium."
-    },
-    {
-      "id": "cff6c56d9b45",
-      "title": "Sabatini loudly: \"Without fear, we must say Allegri's football lesson to Italiano\"",
-      "url": "https://www.milannews.it/news/sabatini-a-gran-voce-senza-paura-bisogna-dire-lezione-di-calcio-di-allegri-a-italiano-606417",
-      "source": "milannews.it",
-      "date": "2026-02-04T23:50:04+00:00",
-      "summary": "Sandro Sabatini, on his YouTube channel, spoke like this about Bologna-Milan:\n\n“This time I don't think there will be anyone who will say that Allegri has an ass or that Maignan works miracles, or the short face, or all those stories there..."
-    },
-    {
-      "id": "af3456e70c60",
-      "title": "Ravezzani highlights: “It's also Allegri's victory, he's doing an extraordinary job”",
-      "url": "https://www.milannews.it/news/ravezzani-evidenzia-e-anche-la-vittoria-di-allegri-sta-facendo-un-lavoro-straordinario-606420",
-      "source": "milannews.it",
-      "date": "2026-02-04T23:40:01+00:00",
-      "summary": "On the QSVS Youtube channel, Fabio Ravezzani spoke like this about Bologna-Milan and Massimiliano Allegri:\n\n\"Let's be honest, it was a great victory for Milan but also for Massimiliano Allegri."
-    },
-    {
-      "id": "af6b8310fe4d",
-      "title": "Pedulla recalls: \"Defeat against Cremonese was a footballing blessing, the next day Rabiot arrived\"",
-      "url": "https://www.milannews.it/news/pedulla-ricorda-sconfitta-con-la-cremonese-benedizione-calcistica-il-giorno-dopo-e-arrivato-rabiot-606418",
-      "source": "milannews.it",
-      "date": "2026-02-04T23:30:49+00:00",
-      "summary": "In his YouTube channel, Sportitalia journalist Alfredo Pedulla spoke like this about Bologna-Milan and had important words for Adrien Rabiot: \n\n“Milan were brilliant, they played an extraordinary first half..."
-    },
-    {
-      "id": "d68edd05c0e6",
-      "title": "Florenzi and his farewell to playing football: \"Retiring has no age, there is simply the right time. And this was it for me\"",
-      "url": "https://www.milannews.it/gli-ex/florenzi-e-l-addio-al-calcio-giocato-ritirarsi-non-ha-un-eta-c-e-semplicemente-il-momento-giusto-e-questo-per-me-lo-era-606383",
-      "source": "milannews.it",
-      "date": "2026-02-04T23:20:37+00:00",
-      "summary": "Interviewed by Vivo Azzurro TV, Alessandro Florenzi, former Milan and national team full-back, spoke thus about his retirement from playing football: \"Retiring has no age, there is simply the right time."
     },
     {
       "id": "a5543b121859",
@@ -346,22 +370,6 @@
       "summary": "AC Milan put on one of the best shows they have all season last night, routing Bologna 3-0 at the Stadio Renato dall’Ara. Dominant first halves have been somewhat of a rarity for Milan this season, but they bucked that trend as Ruben Loftus-Cheek fired in the first goal from Adrien Rabiot’s cut-back"
     },
     {
-      "id": "68429ff2066f",
-      "title": "Cissè admits PSV move was a ‘done deal’ until Milan came along: “I had no doubts”",
-      "url": "https://sempremilan.com/cisse-psv-move-done-milan-no-doubts",
-      "source": "sempremilan.com",
-      "date": "2026-02-04T10:40:00+00:00",
-      "summary": "Alphadjo Cissè has spoken of his delight after joining AC Milan towards the end of the winter transfer window. On Monday afternoon – transfer deadline day – Milan officially confirmed the signing of Cissè on a permanent deal from Hellas Verona. As part of the deal, it was also announced that the tee"
-    },
-    {
-      "id": "d9c22b00f1a2",
-      "title": "CorSera: How Milan provided a ‘show of strength’ vs. Bologna and sent a message to Inter",
-      "url": "https://sempremilan.com/milan-show-strength-bologna-message-inter",
-      "source": "sempremilan.com",
-      "date": "2026-02-04T10:15:00+00:00",
-      "summary": "It was a bit of a strange build-up leading up to the trip to Bologna, but AC Milan put it to one side and won convincingly. As Corriere della Sera (via MilanNews) report this morning, the headlines surrounding Milan were dominated by the Jean-Philippe Mateta drama, the many injury issues, the fact I"
-    },
-    {
       "id": "b268dce71cdf",
       "title": "Today’s Papers – Milan impress in Bologna, Yildiz extends with Juventus",
       "url": "https://football-italia.net/todays-papers-milan-impress-in-bologna-yildiz-extends-with-juventus/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-02-03T12:17:37+00:00",
       "summary": "Former Milan and Juventus defender Mattia De Sciglio said he snubbed a move to Liverpool..."
-    },
-    {
-      "id": "58e2a3e16678",
-      "title": "Ranking Serie A’s biggest spenders in 2026 winter transfer window",
-      "url": "https://football-italia.net/serie-a-biggest-spenders-2026-winter-transfer/",
-      "source": "football-italia.net",
-      "date": "2026-02-03T10:19:28+00:00",
-      "summary": "Lazio were the biggest spenders in Serie A during the winter transfer window, while Juventus..."
     }
   ]
 }
