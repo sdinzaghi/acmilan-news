@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-02-07T06:39:39.924092+00:00",
+  "lastUpdated": "2026-02-07T07:30:36.190545+00:00",
   "articles": [
+    {
+      "id": "4a3a335fc19a",
+      "title": "Pisa, Hiljemark: \"With Milan to win. A certain type of tactical work will be needed: we will change the methodologies\"",
+      "url": "https://www.milannews.it/news/pisa-hiljemark-col-milan-per-vincere-servira-un-certo-tipo-di-lavoro-tattico-cambieremo-le-metodologie-606659",
+      "source": "milannews.it",
+      "date": "2026-02-07T07:15:38+00:00",
+      "summary": "Oscar Hiljemark, Pisa's new coach, interviewed by Sky Sport after the 0-0 draw in Verona, had this to say about his debut as a manager in Serie A on the Pisa bench: \"I missed Italy, even ..."
+    },
+    {
+      "id": "13c778b9ded8",
+      "title": "Leao-Pulisic, work still in progress: Allegri continues to wait for his pair",
+      "url": "https://www.milannews.it/primo-piano/leao-pulisic-lavori-ancora-in-corso-allegri-continua-ad-aspettare-la-sua-coppia-606668",
+      "source": "milannews.it",
+      "date": "2026-02-07T07:00:00+00:00",
+      "summary": "In the summer Massimiliano Allegri had a clear idea for the new Milan: Rafael Leao and Christian Pulisic as the attacking fulcrum."
+    },
+    {
+      "id": "c757aa0cfea7",
+      "title": "Youth sector, here is the program for the Rossoneri weekend",
+      "url": "https://www.milannews.it/news/settore-giovanile-ecco-il-programma-del-week-end-rossonero-606649",
+      "source": "milannews.it",
+      "date": "2026-02-07T06:47:00+00:00",
+      "summary": "Another weekend full of commitments awaits the Rossonero Youth Sector, ready to take to the pitch between the PUMA House of Football and prestigious away matches."
+    },
+    {
+      "id": "7f7ef1e0630c",
+      "title": "Serie D, Milan Futuro on the pitch tomorrow: info and where to follow the match",
+      "url": "https://www.milannews.it/news/serie-d-domani-in-campo-il-milan-futuro-info-e-dove-seguire-la-partita-606648",
+      "source": "milannews.it",
+      "date": "2026-02-07T06:35:13+00:00",
+      "summary": "Tomorrow the Milan Futuro returns to the pitch at the Felice Chinetti to challenge Virtus Ciserano Bergamo. Kick-off at 2.30pm, with the match which can be followed on the official channels of the Rossoneri club."
+    },
     {
       "id": "7d16870001b1",
       "title": "Rest Saturday for Milan: training will resume at Milanello tomorrow",
@@ -11,7 +43,7 @@
     },
     {
       "id": "77c1b747cbbf",
-      "title": "Serie A, Saturday with only two games: watch out for Napoli. The complete program",
+      "title": "Serie A, Saturday with only two matches: watch out for Napoli. The complete program",
       "url": "https://www.milannews.it/news/serie-a-sabato-con-due-sole-partite-occhio-al-napoli-il-programma-completo-606646",
       "source": "milannews.it",
       "date": "2026-02-07T06:11:00+00:00",
@@ -115,7 +147,7 @@
     },
     {
       "id": "a6c5e81e4880",
-      "title": "Serie A, the updated standings after the preview on Friday evening",
+      "title": "Serie A, the updated rankings after the preview on Friday evening",
       "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-dopo-l-anticipo-del-venerdi-sera-606640",
       "source": "milannews.it",
       "date": "2026-02-06T22:00:00+00:00",
@@ -128,38 +160,6 @@
       "source": "milannews.it",
       "date": "2026-02-06T21:50:00+00:00",
       "summary": "Boring draw ended goalless between Verona and Pisa. The teams did not get hurt, thus drawing 0-0 on Friday evening, valid for the 24th matchday of Serie A."
-    },
-    {
-      "id": "c696f0ee8e5a",
-      "title": "Milan transfer market, Moretto reveals: \"Allegri had approved the arrival of Disasi, but the management did not continue with the negotiations\"",
-      "url": "https://www.milannews.it/news/mercato-milan-moretto-svela-allegri-aveva-approvato-l-arrivo-di-disasi-ma-la-dirigenza-non-ha-proseguito-con-la-trattativa-606638",
-      "source": "milannews.it",
-      "date": "2026-02-06T21:40:00+00:00",
-      "summary": "Matteo Moretto, journalist and transfer expert, spoke at length about Milan and the background to the transfer market. Here are his words taken from the latest video that appeared on his Youtube channel:\n\n\"It's right to make some clarifications."
-    },
-    {
-      "id": "a9b7406e31eb",
-      "title": "Leao visits Amora FC, the first club of his career",
-      "url": "https://www.milannews.it/news/leao-fa-visita-all-amora-fc-primo-club-della-sua-carriera-606633",
-      "source": "milannews.it",
-      "date": "2026-02-06T21:30:00+00:00",
-      "summary": "Rafa Leao surprises in Portugal! The Rossoneri number ten was today a guest of Amora FC, the first Portuguese club where the Rossoneri striker took his first steps as a footballer."
-    },
-    {
-      "id": "3a96ac3e8614",
-      "title": "Ex Milan, Vicenzo Montella visits Cagliari: the reason revealed",
-      "url": "https://www.milannews.it/gli-ex/ex-milan-vicenzo-montella-fa-visita-al-cagliari-svelato-il-motivo-606629",
-      "source": "milannews.it",
-      "date": "2026-02-06T21:20:00+00:00",
-      "summary": "(ANSA) - CAGLIARI, 06 FEB - The technical commissioner of the Turkish national team, Vincenzo Montella, accompanied by his deputy Daniele Russo, arrived today at the Cagliari sports center in Assemini."
-    },
-    {
-      "id": "55e76f596b00",
-      "title": "Guardiola: \"Why can't I express what I feel? Just because I'm a coach? I condemn all conflicts\"",
-      "url": "https://www.milannews.it/news/guardiola-perche-non-posso-esprimere-cio-che-provo-solo-perche-sono-un-allenatore-condanno-tutti-i-conflitti-606607",
-      "source": "milannews.it",
-      "date": "2026-02-06T21:11:57+00:00",
-      "summary": "(ANSA) - LONDON, 06 FEB - Pep Guardiola defended his right to take a stand every time \"innocent people are killed\" in the world."
     },
     {
       "id": "832c26b70f10",
