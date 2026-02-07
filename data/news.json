@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-02-07T05:40:33.768893+00:00",
+  "lastUpdated": "2026-02-07T06:39:39.924092+00:00",
   "articles": [
+    {
+      "id": "7d16870001b1",
+      "title": "Rest Saturday for Milan: training will resume at Milanello tomorrow",
+      "url": "https://www.milannews.it/news/sabato-di-riposo-per-il-milan-domani-la-ripresa-degli-allenamenti-a-milanello-606651",
+      "source": "milannews.it",
+      "date": "2026-02-07T06:23:54+00:00",
+      "summary": "On Wednesday morning, after Bologna, the Rossoneri carried out an unloading job at Milanello."
+    },
+    {
+      "id": "77c1b747cbbf",
+      "title": "Serie A, Saturday with only two games: watch out for Napoli. The complete program",
+      "url": "https://www.milannews.it/news/serie-a-sabato-con-due-sole-partite-occhio-al-napoli-il-programma-completo-606646",
+      "source": "milannews.it",
+      "date": "2026-02-07T06:11:00+00:00",
+      "summary": "This is the complete program of the 24th matchday, which will see Milan and Como rest given the impossibility of playing the match at San Siro given the use of the facility for the inauguration ceremony of the O ..."
+    },
+    {
+      "id": "3ea50196e8b1",
+      "title": "The Serie A standings after Friday's preview: Verona and Pisa remain last",
+      "url": "https://www.milannews.it/news/la-classifica-di-serie-a-dopo-l-anticipo-del-venerdi-verona-e-pisa-restano-ultime-606647",
+      "source": "milannews.it",
+      "date": "2026-02-07T06:00:00+00:00",
+      "summary": "The 24th matchday of Serie A began yesterday, with a draw between Verona and Pisa (the Rossoneri's next opponent). This is the updated ranking:\n\n1."
+    },
     {
       "id": "7c29c6b2c103",
       "title": "De Sciglio: \"A cycle ended at Milan and things weren't going well. I had an injury that took away my serenity and continuity\"",
@@ -91,7 +115,7 @@
     },
     {
       "id": "a6c5e81e4880",
-      "title": "Serie A, the updated rankings after the preview on Friday evening",
+      "title": "Serie A, the updated standings after the preview on Friday evening",
       "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-dopo-l-anticipo-del-venerdi-sera-606640",
       "source": "milannews.it",
       "date": "2026-02-06T22:00:00+00:00",
@@ -136,30 +160,6 @@
       "source": "milannews.it",
       "date": "2026-02-06T21:11:57+00:00",
       "summary": "(ANSA) - LONDON, 06 FEB - Pep Guardiola defended his right to take a stand every time \"innocent people are killed\" in the world."
-    },
-    {
-      "id": "be625ad23e3c",
-      "title": "Maradona like San Siro: during the renovation works, Napoli will continue to play inside",
-      "url": "https://www.milannews.it/news/il-maradona-come-san-siro-durante-i-lavori-di-rifacimento-il-napoli-continuera-a-giocarsi-all-interno-606619",
-      "source": "milannews.it",
-      "date": "2026-02-06T21:00:52+00:00",
-      "summary": "(ANSA) - NAPLES, 06 FEB - The work on the Maradona stadium, to make it ready to host matches of the 2032 European Championships, will not cause a stop to Napoli's matches."
-    },
-    {
-      "id": "0a5c354da9eb",
-      "title": "Bergonzi: \"Scandalous that a city like Milan, with two teams like this, has only one stadium\"",
-      "url": "https://www.milannews.it/news/bergonzi-scandaloso-che-una-citta-come-milano-con-due-squadre-cosi-abbia-un-solo-stadio-606602",
-      "source": "milannews.it",
-      "date": "2026-02-06T20:50:32+00:00",
-      "summary": "This evening the San Siro stadium will write yet another chapter in a glorious and one-of-a-kind story: the Scala del Calcio will host the Opening Ceremony of the Milan-Cortina 20 Winter Games at 8pm..."
-    },
-    {
-      "id": "b3e23584dab4",
-      "title": "On one side Inter against Napoli or Como, on the other Atalanta against Bologna or Lazio in the semi-final of the Italian Cup",
-      "url": "https://www.milannews.it/news/da-una-parte-inter-contro-napoli-o-como-dall-altra-atalanta-contro-bologna-o-lazio-in-semifinale-di-coppa-italia-606620",
-      "source": "milannews.it",
-      "date": "2026-02-06T20:40:04+00:00",
-      "summary": "(ANSA) - BERGAMO, 05 FEB - Atalanta beats Juventus 3-0 in the quarter-finals of the Italian Cup and advances to the semi-final, where they will face the winner of Bologna-Lazio."
     },
     {
       "id": "832c26b70f10",
