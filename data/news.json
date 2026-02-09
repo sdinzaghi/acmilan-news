@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-02-09T07:56:44.131521+00:00",
+  "lastUpdated": "2026-02-09T08:57:11.943551+00:00",
   "articles": [
+    {
+      "id": "43757e0d552c",
+      "title": "The choices towards Pisa. CorSport: \"Leao is ready. Doubts about Saele and Pulisic\"",
+      "url": "https://www.milannews.it/rassegna-stampa/le-scelte-verso-pisa-il-corsport-leao-pronto-dubbi-saele-e-pulisic-606821",
+      "source": "milannews.it",
+      "date": "2026-02-09T08:48:52+00:00",
+      "summary": "The week of work towards Pisa has just begun, but Massimiliano Allegri already has to deal with some training doubts considering the not entirely optimal conditions of some of his players, returning from physical and/or mental problems ..."
+    },
+    {
+      "id": "53ddfc68f656",
+      "title": "Today’s Papers – Unplayable Inter, McTominay’s relief, Juventus’ heart and rage",
+      "url": "https://football-italia.net/today-papers-inter-unplayable-mctominay-juve/",
+      "source": "football-italia.net",
+      "date": "2026-02-09T08:40:24+00:00",
+      "summary": "La Gazzetta dello Sport Inter’s boom Half team scores, super Dimarco: three assists and one..."
+    },
+    {
+      "id": "a9f17cbcce4e",
+      "title": "Calendar, Allegri, returns. The QS: \"Milan: here are the assault weapons\"",
+      "url": "https://www.milannews.it/rassegna-stampa/calendario-allegri-rientri-il-qs-milan-ecco-le-armi-d-assalto-606820",
+      "source": "milannews.it",
+      "date": "2026-02-09T08:36:00+00:00",
+      "summary": "The clear victory over Sassuolo confirmed the strength of Inter, currently the number one favorite to win the Scudetto."
+    },
+    {
+      "id": "3d96dd0f38d5",
+      "title": "Milan looks to the future. CorSport: \"Kostic, it's about the price to block him\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-milan-guarda-al-futuro-il-corsport-kostic-si-tratta-sul-prezzo-per-bloccarlo-606818",
+      "source": "milannews.it",
+      "date": "2026-02-09T08:24:58+00:00",
+      "summary": "Milan's objective is not to work on the market only for the immediate present, but also for the future."
+    },
+    {
+      "id": "124019a9a6de",
+      "title": "Useful for the future. Tuttosport: \"Allegri is also waiting for Gimenez for the season finale\"",
+      "url": "https://www.milannews.it/rassegna-stampa/utile-per-il-futuro-tuttosport-allegri-per-il-finale-di-stagione-aspetta-anche-gimenez-606819",
+      "source": "milannews.it",
+      "date": "2026-02-09T08:12:40+00:00",
+      "summary": "Often during his interventions at the press conference Massimiliano Allegri spoke of Santiago Gimenez as a possible resource for Milan's season finale."
+    },
+    {
+      "id": "57c15dffb509",
+      "title": "Milanello here. La Gazzetta: \"Yesterday shooting: Leao in the group\"",
+      "url": "https://www.milannews.it/rassegna-stampa/qui-milanello-la-gazzetta-ieri-ripresa-leao-in-gruppo-606817",
+      "source": "milannews.it",
+      "date": "2026-02-09T08:00:58+00:00",
+      "summary": "Yesterday Milan met at Milanello after 3 days of rest granted by Massimiliano Allegri to begin preparing for the away match against Pisa scheduled for Friday."
+    },
     {
       "id": "917f33d3caca",
       "title": "Milan attack, the nominations. Tuttosport: \"Kean, Vlahovic and Gabriel Jesus\"",
@@ -27,7 +75,7 @@
     },
     {
       "id": "a97bd43fd9b4",
-      "title": "Yesterday the restart in view of Pisa. Tuttosport: \"Pulisic-Saelemaekers personalized work\"",
+      "title": "Yesterday the restart in sight of Pisa. Tuttosport: \"Pulisic-Saelemaekers personalized work\"",
       "url": "https://www.milannews.it/news/ieri-la-ripresa-in-vista-di-pisa-tuttosport-pulisic-saelemaekers-lavoro-personalizzato-606813",
       "source": "milannews.it",
       "date": "2026-02-09T07:12:00+00:00",
@@ -63,7 +111,7 @@
       "url": "https://www.milannews.it/news/ieri-il-milan-e-tornato-ad-allenarsi-in-vista-della-trasferta-di-pisa-606806",
       "source": "milannews.it",
       "date": "2026-02-09T06:20:00+00:00",
-      "summary": "As expected, yesterday the team returned to training at Milanello after the three days of rest granted by Massimiliano Allegri after the victory in Bologna: work has begun in view of the away match in Pisa on Friday..."
+      "summary": "As expected, yesterday the team returned to training at Milanello after the three days of rest granted by Massimiliano Allegri after the victory in Bologna: work began in view of the away match in Pisa on Friday..."
     },
     {
       "id": "802541742481",
@@ -95,7 +143,7 @@
       "url": "https://www.milannews.it/news/mn-talarico-senza-dubbi-cisse-ha-grandi-doti-ma-e-presto-per-dire-se-e-gia-da-milan-606772",
       "source": "milannews.it",
       "date": "2026-02-08T23:45:00+00:00",
-      "summary": "Alphadjo Cissè was the surprise of Milan's winter transfer market, also because the young Italian talent, born in 2006, was snatched from the competition of PSV for almost 10 million euros."
+      "summary": "Alphadjo Cissè was the surprise of Milan's winter transfer market, also because the young Italian talent, born in 2006, was snatched away from the competition of PSV for almost 10 million euros."
     },
     {
       "id": "1ab4f4b3e3d2",
@@ -119,47 +167,7 @@
       "url": "https://www.milannews.it/news/mn-talarico-sicuro-cisse-ha-grandi-margini-di-crescita-va-plasmato-606771",
       "source": "milannews.it",
       "date": "2026-02-08T22:30:00+00:00",
-      "summary": "Alphadjo Cissè was the surprise of Milan's winter transfer market, also because the young Italian talent, born in 2006, was snatched from the competition of PSV for almost 10 million euros."
-    },
-    {
-      "id": "ccb72358834a",
-      "title": "PSG repeats Monaco: after Inter 5-0 also against Marseille",
-      "url": "https://www.milannews.it/dall-estero/il-psg-bissa-monaco-dopo-l-inter-5-0-anche-al-marsiglia-606811",
-      "source": "milannews.it",
-      "date": "2026-02-08T22:15:00+00:00",
-      "summary": "Paris Saint Germain enjoyed winning important matches 5-0."
-    },
-    {
-      "id": "14be2aef8e28",
-      "title": "Juventus overtakes Lazio at the last minute thanks to Kalulu: the updated Serie A standings",
-      "url": "https://www.milannews.it/news/la-juventus-rimonta-la-lazio-all-ultimo-grazie-a-kalulu-la-classifica-aggiornata-di-serie-a-606810",
-      "source": "milannews.it",
-      "date": "2026-02-08T22:00:00+00:00",
-      "summary": "Just when there seemed to be no more hope, Juventus caught Lazio again a few seconds from the end of the match thanks to a goal from the man you wouldn't expect, Pierre Kalulu."
-    },
-    {
-      "id": "91ae4b2e42d1",
-      "title": "Bench search: from Pioli to Zidane, passing through Maresca and Blanc",
-      "url": "https://www.milannews.it/news/panchina-cercarsi-da-pioli-a-zidane-passando-per-maresca-e-blanc-606799",
-      "source": "milannews.it",
-      "date": "2026-02-08T21:45:06+00:00",
-      "summary": "The list of coaches without a bench is updated after the dismissal of Dino Toppmoller (Eintracht Frankfurt)."
-    },
-    {
-      "id": "e1cb3c620d4e",
-      "title": "Training resumed today at Milanello in view of Pisa: Leao in the group",
-      "url": "https://www.milannews.it/news/oggi-la-ripresa-degli-allenamenti-a-milanello-in-vista-di-pisa-leao-in-gruppo-606800",
-      "source": "milannews.it",
-      "date": "2026-02-08T21:30:00+00:00",
-      "summary": "As expected this afternoon the team returned to training at Milanello after the three days of rest granted by Massimiliano Allegri after the victory in Bologna: work has begun in view of the away match in Pisa on Friday..."
-    },
-    {
-      "id": "b6bd8a3fd954",
-      "title": "MN - Talarico: \"These six months in Catanzaro will serve as a showcase for him\"",
-      "url": "https://www.milannews.it/news/mn-talarico-questi-sei-mesi-a-catanzaro-gli-serviranno-da-vetrina-606792",
-      "source": "milannews.it",
-      "date": "2026-02-08T21:15:50+00:00",
-      "summary": "Alphadjo Cissè was the surprise of Milan's winter transfer market, also because the young Italian talent, born in 2006, was snatched from the competition of PSV for almost 10 million euros."
+      "summary": "Alphadjo Cissè was the surprise of Milan's winter transfer market, also because the young Italian talent, born in 2006, was snatched away from the competition of PSV for almost 10 million euros."
     },
     {
       "id": "17cbc166e501",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-02-04T12:42:25+00:00",
       "summary": "Fabio Capello has had his say on Milan’s recent 3-0 victory over Bologna in Serie..."
-    },
-    {
-      "id": "b268dce71cdf",
-      "title": "Today’s Papers – Milan impress in Bologna, Yildiz extends with Juventus",
-      "url": "https://football-italia.net/todays-papers-milan-impress-in-bologna-yildiz-extends-with-juventus/",
-      "source": "football-italia.net",
-      "date": "2026-02-04T08:29:55+00:00",
-      "summary": "La Gazzetta dello Sport “What the Devil!” Milan overwhelm Bologna (3-0) and remain five points..."
     }
   ]
 }
