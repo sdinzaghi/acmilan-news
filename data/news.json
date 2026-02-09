@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-02-09T06:11:28.314501+00:00",
+  "lastUpdated": "2026-02-09T07:56:44.131521+00:00",
   "articles": [
+    {
+      "id": "917f33d3caca",
+      "title": "Milan attack, the nominations. Tuttosport: \"Kean, Vlahovic and Gabriel Jesus\"",
+      "url": "https://www.milannews.it/rassegna-stampa/attacco-milan-le-nomination-tuttosport-kean-vlahovic-e-gabriel-jesus-606816",
+      "source": "milannews.it",
+      "date": "2026-02-09T07:48:10+00:00",
+      "summary": "Having failed, for obvious reasons, the attack on Jean-Philippe Mateta, Milan begins to look around in view of the next summer transfer market to strengthen and complete Massimiliano Allegri's attack, waiting for answers not only from ..."
+    },
+    {
+      "id": "3a020788963f",
+      "title": "A lot depends on Modric. CorSport: \"Milan are waiting for Luka\"",
+      "url": "https://www.milannews.it/news/molto-dipende-da-modric-il-corsport-il-milan-aspetta-luka-606814",
+      "source": "milannews.it",
+      "date": "2026-02-09T07:36:00+00:00",
+      "summary": "Once we have officially entered the second part of the season, all the spotlight will be on Luka Modric, who will soon have to make an important decision regarding his future."
+    },
+    {
+      "id": "26e1d3d0448b",
+      "title": "Milan take the lead. La Gazzetta: \"Treasure worth 70 million. The ransoms bring new wealth\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-milan-all-incasso-la-gazzetta-tesoretto-da-70-milioni-i-riscatti-portano-nuova-ricchezza-606815",
+      "source": "milannews.it",
+      "date": "2026-02-09T07:24:50+00:00",
+      "summary": "In addition to the possible Champions League prize, Milan could enjoy a further 70 million euros which they can reinvest in the next summer transfer market."
+    },
+    {
+      "id": "a97bd43fd9b4",
+      "title": "Yesterday the restart in view of Pisa. Tuttosport: \"Pulisic-Saelemaekers personalized work\"",
+      "url": "https://www.milannews.it/news/ieri-la-ripresa-in-vista-di-pisa-tuttosport-pulisic-saelemaekers-lavoro-personalizzato-606813",
+      "source": "milannews.it",
+      "date": "2026-02-09T07:12:00+00:00",
+      "summary": "After giving him three days off, yesterday Max Allegri welcomed his players back to Milanello to begin preparing for the important away match scheduled for Friday in Pisa against Oscar Hiljemark's (new) team."
+    },
+    {
+      "id": "1f1d5e8fa4d9",
+      "title": "Milan are waiting for Luka Modric: his future depends on the end of the season",
+      "url": "https://www.milannews.it/news/il-milan-aspetta-luka-modric-il-suo-futuro-passa-per-il-finale-di-stagione-606812",
+      "source": "milannews.it",
+      "date": "2026-02-09T07:00:00+00:00",
+      "summary": "Milan and Luka Modric are looking ahead, but first there is a season to end in the best possible way."
+    },
+    {
+      "id": "3c17b5d3cab1",
+      "title": "Milan 13th in the Primavera 1 championship: the updated rankings",
+      "url": "https://www.milannews.it/la-primavera/milan-13esimo-nel-campionato-primavera-1-la-classifica-aggiornata-606808",
+      "source": "milannews.it",
+      "date": "2026-02-09T06:40:00+00:00",
+      "summary": "Giovanni Renna's Milan Primavera are 13th in the standings with 31 points on the 24th matchday of the championship."
+    },
+    {
+      "id": "c41da65e268f",
+      "title": "Milan Futuro seventh in Serie D: updated standings and next round of the championship",
+      "url": "https://www.milannews.it/milan-futuro/milan-futuro-settimo-in-serie-d-classifica-aggiornata-e-prossima-turno-di-campionato-606807",
+      "source": "milannews.it",
+      "date": "2026-02-09T06:30:00+00:00",
+      "summary": "Below is the Serie D Group B ranking updated following the results of the weekend, which saw Milan Futuro fall at home against Ciserano Bergamo: \n\nFolore Caratese 48 points\nChievo 40\nCasatese Merate 38\nBrusaporto 3 ..."
+    },
+    {
+      "id": "798abc15e8cf",
+      "title": "Yesterday Milan returned to training in view of the away match in Pisa",
+      "url": "https://www.milannews.it/news/ieri-il-milan-e-tornato-ad-allenarsi-in-vista-della-trasferta-di-pisa-606806",
+      "source": "milannews.it",
+      "date": "2026-02-09T06:20:00+00:00",
+      "summary": "As expected, yesterday the team returned to training at Milanello after the three days of rest granted by Massimiliano Allegri after the victory in Bologna: work has begun in view of the away match in Pisa on Friday..."
+    },
+    {
+      "id": "802541742481",
+      "title": "The Serie A standings updated after the weekend's results",
+      "url": "https://www.milannews.it/news/la-classifica-di-serie-a-aggiornata-dopo-i-risultati-del-weekend-606805",
+      "source": "milannews.it",
+      "date": "2026-02-09T06:10:00+00:00",
+      "summary": "Below is the Serie A ranking updated after the results of the championship weekend, which did not see AC Milan take to the field, which will recover its match against Como on February 18th:\n\n1. Inter 58\n2."
+    },
     {
       "id": "bf3c8a4e3e1f",
       "title": "Tonight Atalanta and Roma await the recovery between Milan and Como: the results of the 23rd matchday of Serie A",
@@ -90,84 +162,12 @@
       "summary": "Alphadjo Cissè was the surprise of Milan's winter transfer market, also because the young Italian talent, born in 2006, was snatched from the competition of PSV for almost 10 million euros."
     },
     {
-      "id": "940b7e26cbc4",
-      "title": "Ibrahimovic on San Siro: \"Beautiful atmosphere, especially when it's all about Milan things\"",
-      "url": "https://www.milannews.it/news/ibrahimovic-su-san-siro-bellissima-atmosfera-soprattutto-quando-e-tutto-con-le-cose-del-milan-606790",
-      "source": "milannews.it",
-      "date": "2026-02-08T21:00:00+00:00",
-      "summary": "This is what Zlatan Ibrahimovic spoke on BBC Sport's X profile."
-    },
-    {
-      "id": "d8cbc9d1abf3",
-      "title": "Carnevali agrees with De Rossi: \"VAR? If we continue like this we risk ruining football\"",
-      "url": "https://www.milannews.it/news/carnevali-da-ragione-de-rossi-var-se-andiamo-avanti-cosi-rischiamo-di-rovinare-il-calcio-606794",
-      "source": "milannews.it",
-      "date": "2026-02-08T20:45:17+00:00",
-      "summary": "In the pre-match of Sassuolo-Inter, the CEO of the Emilians Giovanni Carnevali spoke to Sky Sport's microphones to present the match against the Nerazzurri and beyond, given that he also spoke about VAR in front ..."
-    },
-    {
-      "id": "02ec2c7114c2",
-      "title": "MN - Oddo: \"Talent must be cultivated every day, I'm here to help the kids and give good advice\"",
-      "url": "https://www.milannews.it/news/mn-oddo-il-talento-va-coltivato-ogni-giorno-io-qui-per-aiutare-i-ragazzi-e-dare-buoni-consigli-606786",
-      "source": "milannews.it",
-      "date": "2026-02-08T20:30:00+00:00",
-      "summary": "Massimo Oddo, coach of Milan Futuro spoke like this exclusively for MilanNews.it after today's defeat against Virtus Ciserano."
-    },
-    {
-      "id": "75ae1c66658f",
-      "title": "MN - Talarico praises Milan's operation: \"Cissè deal worth 8, because you have to see everything in perspective\"",
-      "url": "https://www.milannews.it/news/mn-talarico-elogia-l-operazione-del-milan-affare-cisse-da-8-perche-devi-vedere-tutto-in-prospettiva-606791",
-      "source": "milannews.it",
-      "date": "2026-02-08T20:15:17+00:00",
-      "summary": "Alphadjo Cissè was the surprise of Milan's winter transfer market, also because the young Italian talent, born in 2006, was snatched from the competition of PSV for almost 10 million euros."
-    },
-    {
-      "id": "5db8d7902f33",
-      "title": "Ibrahimovic with an open heart: \"It's exciting to remember the moments at San Siro, it means that I gave something to people\"",
-      "url": "https://www.milannews.it/news/ibrahimovic-a-cuore-aperto-emozionante-ricordare-i-momenti-a-san-siro-significa-che-ho-dato-qualcosa-alle-persone-606787",
-      "source": "milannews.it",
-      "date": "2026-02-08T20:00:00+00:00",
-      "summary": "This is what Zlatan Ibrahimovic spoke on BBC Sport's X profile."
-    },
-    {
-      "id": "ea1e52541dc7",
-      "title": "MN - Talarico on Cissè: “He arrived at Catanzaro quietly, but we knew that…”",
-      "url": "https://www.milannews.it/news/mn-talarico-su-cisse-arrivato-al-catanzaro-in-sordina-ma-si-sapeva-che-606769",
-      "source": "milannews.it",
-      "date": "2026-02-08T19:45:00+00:00",
-      "summary": "Alphadjo Cissè was the surprise of Milan's winter transfer market, also because the young Italian talent, born in 2006, was snatched from the competition of PSV for almost 10 million euros."
-    },
-    {
       "id": "17cbc166e501",
       "title": "One month until D-Day: Form, fitness and fixtures for Milan and Inter compared",
       "url": "https://sempremilan.com/form-fitness-fixtures-milan-inter-compared",
       "source": "sempremilan.com",
       "date": "2026-02-08T19:35:58+00:00",
       "summary": "There are four weeks and many games until the next instalment of the Derby della Madonnina, but it is already looking like an approaching watershed. Massimiliano Allegri has repeatedly spoken in the media about the notion of getting to March and seeing where Milan are, above all with regards to the "
-    },
-    {
-      "id": "05ddf2638971",
-      "title": "Milan, one year ago Santiago Gimenez scored his first goal for the Rossoneri",
-      "url": "https://www.milannews.it/news/milan-un-anno-fa-la-prima-rete-in-rossonero-di-santiago-gimenez-606760",
-      "source": "milannews.it",
-      "date": "2026-02-08T19:30:00+00:00",
-      "summary": "Exactly one year ago, on 8 February 2025, Santiago Gimenez, who just a few days ago joined Milan on a permanent basis from Feyenoord, scored the first goal in the Rossoneri shirt during a match at Empoli valid for the 24th day ..."
-    },
-    {
-      "id": "1627d838d9f8",
-      "title": "The Serie A standings updated after Inter's victory in Reggio Emilia",
-      "url": "https://www.milannews.it/news/la-classifica-di-serie-a-aggiornata-dopo-la-vittoria-dell-inter-a-reggio-emilia-606803",
-      "source": "milannews.it",
-      "date": "2026-02-08T19:15:00+00:00",
-      "summary": "Inter annihilates Sassuolo by giving them 5 and sending a clear message to the championship, also because on the 24th matchday the distance from second place, obviously awaiting the Milan-Como recovery, becomes important."
-    },
-    {
-      "id": "c4159d82e481",
-      "title": "Lazio, the protest continues: fans invited to leave the Olimpico empty even against Atalanta",
-      "url": "https://www.milannews.it/l-avversario/lazio-continua-la-protesta-invitati-i-tifosi-a-lasciare-l-olimpico-vuoto-anche-con-l-atalanta-606762",
-      "source": "milannews.it",
-      "date": "2026-02-08T18:45:01+00:00",
-      "summary": "This evening Lazio will take the field at the Stadium for the match against Juventus. A very difficult and particular year for Sarri and his team who are currently in eighth place with 32 points, -9 from the Europe zone."
     },
     {
       "id": "5ae0c757be31",
