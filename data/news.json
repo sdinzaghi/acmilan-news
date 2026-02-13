@@ -1,9 +1,57 @@
 {
-  "lastUpdated": "2026-02-13T05:58:12.575956+00:00",
+  "lastUpdated": "2026-02-13T07:06:30.461951+00:00",
   "articles": [
     {
+      "id": "9e5a995a4b01",
+      "title": "Milan Futuro on the pitch tomorrow: the Serie D group B standings",
+      "url": "https://www.milannews.it/milan-futuro/milan-futuro-domani-in-campo-la-classifica-del-girone-b-di-serie-d-607221",
+      "source": "milannews.it",
+      "date": "2026-02-13T06:50:12+00:00",
+      "summary": "Below is the ranking of Group B of Serie D. Tomorrow, Saturday 14 February, at 2.30pm Milan Futuro will host Breno."
+    },
+    {
+      "id": "df903d1afe04",
+      "title": "All the appointments of the day in Serie A: Fabbri for Pisa-Milan",
+      "url": "https://www.milannews.it/news/tutte-le-designazioni-della-giornata-di-serie-a-fabbri-per-pisa-milan-607219",
+      "source": "milannews.it",
+      "date": "2026-02-13T06:40:54+00:00",
+      "summary": "All referee appointments for the 25th day of the Serie A Enilive championship. This evening's match between Pisa and Milan was entrusted to Ravenna whistler Michael Fabbri."
+    },
+    {
+      "id": "b3b5544891a3",
+      "title": "Pisa on the road to Milan: the possible choices of coach Hiljemark",
+      "url": "https://www.milannews.it/l-avversario/il-pisa-sulla-strada-del-milan-le-possibili-scelte-del-tecnico-hiljemark-607220",
+      "source": "milannews.it",
+      "date": "2026-02-13T06:30:00+00:00",
+      "summary": "For Oscar HIljemark, a very young coach who took over from the sacked Gilardino at Pisa and who has a decent past as a footballer in Serie A, this evening's match against Milan at 8pm."
+    },
+    {
+      "id": "5141adab076f",
+      "title": "Serie A, the updated ranking after 24 days: Milan with the asterisk",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-dopo-24-giornate-il-milan-con-l-asterisco-607218",
+      "source": "milannews.it",
+      "date": "2026-02-13T06:20:00+00:00",
+      "summary": "The 25th round of the Enilive Serie A championship begins today. It will be Milan that will open the ball, after a 10-day break, at the home of Pisa, second to last in the table."
+    },
+    {
+      "id": "15f7e30e50ff",
+      "title": "Milan opens the 25th round of Serie A: the complete programme",
+      "url": "https://www.milannews.it/news/il-milan-apre-il-25-turno-di-serie-a-il-programma-completo-607217",
+      "source": "milannews.it",
+      "date": "2026-02-13T06:10:00+00:00",
+      "summary": "This evening, Milan will open the 25th round of the Enilive Serie A championship: the Rossoneri are busy at 8pm."
+    },
+    {
+      "id": "1542a9651681",
+      "title": "Today Milan returns to the field: the probable Rossoneri team",
+      "url": "https://www.milannews.it/news/oggi-torna-in-campo-il-milan-la-probabile-formazione-rossonera-607216",
+      "source": "milannews.it",
+      "date": "2026-02-13T06:00:00+00:00",
+      "summary": "For this evening's match in the shadow of the Leaning Tower between Pisa and Milan, the Rossoneri coach will once again rely on the Nkunku-Loftus duo, who performed well at Dall'Ara in the last match."
+    },
+    {
       "id": "5ec3a962532e",
-      "title": "Antenucci believes in Milan: \"It's the only one that can disturb Inter. Thread possible before the derby\"",
+      "title": "Antenucci believes in Milan: \"It's the only one that can disturb Inter. 3-pointer possible before the derby\"",
       "url": "https://www.milannews.it/news/antenucci-crede-nel-milan-e-l-unica-che-puo-dare-fastidio-all-inter-filotto-possibile-prima-del-derby-607195",
       "source": "milannews.it",
       "date": "2026-02-13T00:00:00+00:00",
@@ -27,7 +75,7 @@
     },
     {
       "id": "da1a922d8b5c",
-      "title": "Bucchioni: \"Milan have to battle with the smaller teams before the derby, the Scudetto is at stake\"",
+      "title": "Bucchioni: \"Milan have to battle with the smaller teams before the derby, the scudetto is at stake\"",
       "url": "https://www.milannews.it/news/bucchioni-il-milan-deve-fare-filotto-con-le-piccole-prima-del-derby-c-e-in-ballo-lo-scudetto-607198",
       "source": "milannews.it",
       "date": "2026-02-12T23:30:24+00:00",
@@ -99,7 +147,7 @@
     },
     {
       "id": "c6086bb408d4",
-      "title": "Serena: \"Milan are in play for the Scudetto. In fact: I see them in pole position\"",
+      "title": "Serena: \"Milan are playing for the Scudetto. In fact: I see them in pole position\"",
       "url": "https://www.milannews.it/news/serena-il-milan-e-in-gioco-per-lo-scudetto-anzi-lo-vedo-in-pole-position-607125",
       "source": "milannews.it",
       "date": "2026-02-12T22:01:41+00:00",
@@ -112,54 +160,6 @@
       "source": "milannews.it",
       "date": "2026-02-12T21:50:08+00:00",
       "summary": "Giovanni Albanese, journalist, expressed himself as follows in La Gazzetta dello Sport on the future of Dusan Vlahovic: \"Vlahovic will have three months to try to hold on to Juve."
-    },
-    {
-      "id": "5f377dda7405",
-      "title": "Passerini: \"Nkunku manages to carve out his spaces and in my opinion he is proving that he is a Milan player\"",
-      "url": "https://www.milannews.it/news/passerini-nkunku-riesce-a-ritagliarsi-i-suoi-spazi-e-secondo-me-sta-dimostrando-di-essere-un-giocatore-da-milan-607114",
-      "source": "milannews.it",
-      "date": "2026-02-12T21:40:24+00:00",
-      "summary": "Carlos Passerini, journalist from Corriere della Sera, expressed himself to MilanVibes about Nkunku.\n\nDoes the match against Bologna mark Nkunku's rebirth?\n\n“It's possible because in my opinion he's gaining confidence."
-    },
-    {
-      "id": "7e38779dc9cd",
-      "title": "Japan experiments with the abolition of draws: in the event of a draw, penalties will be taken",
-      "url": "https://www.milannews.it/news/il-giappone-sperimenta-l-abolizione-del-pareggio-in-caso-di-parita-subito-i-rigori-607109",
-      "source": "milannews.it",
-      "date": "2026-02-12T21:30:16+00:00",
-      "summary": "(ANSA) - ROME, FEBRUARY 11 - Mandatory penalties immediately after regular time if the teams are drawing at the end of 90 minutes."
-    },
-    {
-      "id": "509b1ddc8791",
-      "title": "Milan have won five of their six away matches against Pisa in Serie A, including the four most recent",
-      "url": "https://www.milannews.it/news/il-milan-ha-vinto-cinque-delle-sei-trasferte-contro-il-pisa-in-serie-a-tra-cui-le-quattro-piu-recenti-607150",
-      "source": "milannews.it",
-      "date": "2026-02-12T21:22:07+00:00",
-      "summary": "Milan have won five of their six away matches against Pisa in Serie A (1N), including all four of the most recent ones; the Tuscans have never lost consecutive home matches against a single opponent in the top tournament."
-    },
-    {
-      "id": "c567c53d5b7c",
-      "title": "Camarda: \"It's difficult to hear the coach's screams, the fans make a lot of noise\"",
-      "url": "https://www.milannews.it/news/camarda-difficile-sentire-le-urla-dell-allenatore-i-tifosi-fanno-tanto-rumore-607078",
-      "source": "milannews.it",
-      "date": "2026-02-12T21:11:00+00:00",
-      "summary": "Francesco Camarda, AC Milan striker born in 2008 on loan to Lecce, met the very young students of the Marcelline Institute as part of the \"Draw with footballers\" project organized by Panini."
-    },
-    {
-      "id": "530de68e121a",
-      "title": "Pisa is the opponent against whom Milan has the greatest number of precedents without ever losing",
-      "url": "https://www.milannews.it/news/il-pisa-e-l-avversario-contro-cui-il-milan-vanta-il-maggior-numero-di-precedenti-senza-mai-perdere-607143",
-      "source": "milannews.it",
-      "date": "2026-02-12T21:00:28+00:00",
-      "summary": "Milan remained unbeaten in all 13 Serie A matches against Pisa (10W, 3D): the Tuscans are the opponent against whom the Rossoneri have the greatest number of precedents without ever losing in the competition. Opta reports it."
-    },
-    {
-      "id": "b5d627504f3d",
-      "title": "Luca Antonini welcomes Milan U13 to Dubai for the Dubai Intercontinental Football Cup",
-      "url": "https://www.milannews.it/gli-ex/luca-antonini-accoglie-il-milan-u13-a-dubai-per-la-dubai-intercontinental-football-cup-607182",
-      "source": "milannews.it",
-      "date": "2026-02-12T20:50:00+00:00",
-      "summary": "As also reported by the MilanNews.it website, for Mister Ravera's young Rossoneri U13s, a new important international event."
     },
     {
       "id": "038ed51733c2",
