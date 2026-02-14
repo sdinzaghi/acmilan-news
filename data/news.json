@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-02-14T06:42:13.365060+00:00",
+  "lastUpdated": "2026-02-14T07:33:23.650055+00:00",
   "articles": [
+    {
+      "id": "0ab9a6fff652",
+      "title": "Pisa beaten, but what a pain. CorSport on the front page: \"Milan advances: they are now at -5\"",
+      "url": "https://www.milannews.it/rassegna-stampa/pisa-battuto-ma-che-sofferenza-il-corsport-in-prima-pagina-il-milan-avanza-ora-e-a-5-607368",
+      "source": "milannews.it",
+      "date": "2026-02-14T07:24:45+00:00",
+      "summary": "Corriere dello Sport wrote on the front page this morning regarding yesterday's hard-fought victory for the Rossoneri at Pisa: \"Milan advances: they are now -5\"."
+    },
+    {
+      "id": "61e6dda3a8d8",
+      "title": "The opening of the Gazzetta: \"Stroke of genius. Modric brings Milan back to -5 from Inter\"",
+      "url": "https://www.milannews.it/rassegna-stampa/l-apertura-della-gazzetta-colpo-di-genio-modric-riporta-il-milan-a-5-dall-inter-607367",
+      "source": "milannews.it",
+      "date": "2026-02-14T07:12:47+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page: \"Stroke of genius. Modric brings Milan back to -5 behind Inter\"."
+    },
+    {
+      "id": "20b6a53b2b19",
+      "title": "Eternal Luka: Milan's championship dream is still alive thanks to Modric",
+      "url": "https://www.milannews.it/primo-piano/eterno-luka-il-sogno-scudetto-del-milan-e-ancora-vivo-grazie-a-modric-607366",
+      "source": "milannews.it",
+      "date": "2026-02-14T07:00:48+00:00",
+      "summary": "Mission accomplished, but what an effort: Milan had to win last night in Pisa and they did, but those who thought it could be a walk in the park were very wrong."
+    },
+    {
+      "id": "b1b8d7819855",
+      "title": "Milan Futuro plays at 2.30pm: where to watch the match. There is a clash at the top to exploit",
+      "url": "https://www.milannews.it/milan-futuro/alle-14-30-gioca-il-milan-futuro-dove-vedere-la-partita-c-e-uno-scontro-al-vertice-da-sfruttare-607226",
+      "source": "milannews.it",
+      "date": "2026-02-14T06:47:20+00:00",
+      "summary": "Below is the ranking of Group B of Serie D. Today, Saturday 14 February, at 2.30pm Milan Futuro will host Breno."
+    },
     {
       "id": "2ab860652bdc",
       "title": "Rabiot expelled, but was already on a booking. How many games does he miss and what happens",
@@ -130,30 +162,6 @@
       "summary": "Massimiliano Allegri, AC Milan coach, spoke to the microphones of Sky Sport 24 after the Pisa-Milan 1-2 match."
     },
     {
-      "id": "ec081fc5a499",
-      "title": "Tomori's report card: one of the not enough because he reads the ball badly from the Pisa equalizer",
-      "url": "https://www.milannews.it/news/la-pagella-di-tomori-uno-dei-non-sufficienti-perche-legge-male-la-palla-del-pari-del-pisa-607229",
-      "source": "milannews.it",
-      "date": "2026-02-13T23:05:06+00:00",
-      "summary": "At the end of Pisa-Milan, Pietro Mazzara produced the report cards for MilanNews.it of the match."
-    },
-    {
-      "id": "4c547dc1b328",
-      "title": "Galli's advance - Market and young people: Africa, Europe and territory",
-      "url": "https://www.milannews.it/editoriale/l-anticipo-di-galli-mercato-e-giovani-africa-europa-e-territorio-607169",
-      "source": "milannews.it",
-      "date": "2026-02-13T23:00:01+00:00",
-      "summary": "Everyone expected the arrival of Mateta to reinforce the attack, given the continued precarious conditions of Pulisic, Leao and the now long-term patient Gimenez."
-    },
-    {
-      "id": "88b86662fdf6",
-      "title": "Athekame's report card: he has gained confidence and it shows. Another positive vote after Bologna",
-      "url": "https://www.milannews.it/news/la-pagella-di-athekame-ha-preso-fiducia-e-si-vede-altro-voto-positivo-dopo-bologna-607353",
-      "source": "milannews.it",
-      "date": "2026-02-13T22:55:30+00:00",
-      "summary": "At the end of Pisa-Milan, Pietro Mazzara produced the report cards for MilanNews.it of the match."
-    },
-    {
       "id": "2e41f3b0a3d5",
       "title": "Watch: “We make it difficult” – Lorenzo’s instant reaction to Pisa 1-2 AC Milan",
       "url": "https://sempremilan.com/lorenzos-instant-reaction-pisa-1-2-milan-2026",
@@ -168,14 +176,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-13T22:52:25+00:00",
       "summary": "Luka Modric was the hero of the night for AC Milan against Pisa, and he was happy to play his part in earning three massive points. After Ruben Loftus-Cheek’s opener, it looked like being a frustrating night for Milan. A missed penalty from Niclas Füllkrug and a few other chances preceded an equalis"
-    },
-    {
-      "id": "6c1a81645973",
-      "title": "MN - Tomori: \"Modric has been an example since he arrived. Does he strip? We are difficult to beat\"",
-      "url": "https://www.milannews.it/news/mn-tomori-modric-un-esempio-da-quando-e-arrivato-striscia-siamo-difficili-da-battere-607363",
-      "source": "milannews.it",
-      "date": "2026-02-13T22:51:37+00:00",
-      "summary": "After the match of Pisa-Milan 1-2, the Rossoneri defender Fikayo Tomori spoke from the belly of the Arena Garibaldi in the mixed area to the journalists present, including the correspondent of MilanNews.it."
     },
     {
       "id": "15eac46f48fb",
