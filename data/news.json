@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-02-15T22:23:00.719972+00:00",
+  "lastUpdated": "2026-02-15T23:25:36.131858+00:00",
   "articles": [
+    {
+      "id": "1aed79776ea6",
+      "title": "Guidi: \"Modric has signed for one year with the option for a second. The hope of the entire Rossoneri environment is to see him again at Milanello\"",
+      "url": "https://www.milannews.it/calciomercato-milan/guidi-modric-ha-firmato-per-un-anno-piu-opzione-per-il-secondo-la-speranza-di-tutto-l-ambiente-rossonero-e-di-rivederlo-ancora-a-milanello-607502",
+      "source": "milannews.it",
+      "date": "2026-02-15T23:12:28+00:00",
+      "summary": "Marco Guidi, journalist, expressed himself in La Gazzetta dello Sport about Luka Modric: \"In the summer, Luka signed an annual contract with Milan, but with the option for a further season together."
+    },
+    {
+      "id": "4e89b59911ce",
+      "title": "The shame of Inter-Juve and they also talk. Serie A must support Milan to stay alive. Max, the 4-3-3 \"opens up\" your team",
+      "url": "https://www.milannews.it/editoriale/la-vergogna-di-inter-juve-e-parlano-pure-la-serie-a-deve-tifare-milan-per-rimanere-viva-max-il-4-3-3-apre-la-tua-squadra-607521",
+      "source": "milannews.it",
+      "date": "2026-02-15T23:00:01+00:00",
+      "summary": "For years, because months is too short, the Inter fanfare has always shown us the way of what could and could not be said, of what is right and what is wrong."
+    },
+    {
+      "id": "d95636c16cc4",
+      "title": "Inter-Juve chaos, Ravezzani: \"I've always thought that Marotta is an honest person\"",
+      "url": "https://www.milannews.it/news/caos-inter-juve-ravezzani-sempre-pensato-che-marotta-sia-una-persona-onesta-607540",
+      "source": "milannews.it",
+      "date": "2026-02-15T22:48:00+00:00",
+      "summary": "Following the great chaos and media outcry over what unfortunately happened in Inter-Juventus, the director of QSVS Fabio Ravezzani also spoke up and wrote on his X account about Giuseppe Marotta, president of Inter:\n ..."
+    },
+    {
+      "id": "638224031226",
+      "title": "Longhi very harsh: \"The Kalulu-Bastoni case will be talked about forever, the Inter player has forgotten fair play and respect for his opponent\"",
+      "url": "https://www.milannews.it/news/longhi-durissimo-del-caso-kalulu-bastoni-si-parlera-in-eterno-l-interista-ha-dimenticato-fair-play-e-il-rispetto-dell-avversario-607541",
+      "source": "milannews.it",
+      "date": "2026-02-15T22:36:00+00:00",
+      "summary": "Bruno Longhi, historic journalist and sports commentator, spoke like this after the very serious refereeing error that occurred in Inter-Juventus when Kalulu su Bastoni was sent off."
+    },
+    {
+      "id": "39fb34a38b69",
+      "title": "Ramazzotti reveals: \"Allegri didn't fully enjoy the three points in the locker room on Friday\"",
+      "url": "https://www.milannews.it/news/ramazzotti-rivela-allegri-venerdi-nello-spogliatoio-non-si-e-gustato-fino-in-fondo-i-tre-punti-607498",
+      "source": "milannews.it",
+      "date": "2026-02-15T22:24:14+00:00",
+      "summary": "Andrea Ramazzotti, journalist, expressed himself as follows in La Gazzetta dello Sport, telling a background story from Milanello: \"Satisfied with the victory, less so with the performance."
+    },
     {
       "id": "1aa8fbad38bc",
       "title": "Bove returns to the pitch with Watford more than a year after his illness",
@@ -130,22 +170,6 @@
       "summary": "Bologna returns to winning the championship exactly one month after the last time. Torino were beaten 2-1 thanks to Vlasic's own goal (who then equalized the score) and a great goal from Santiago Castro."
     },
     {
-      "id": "04ba0d537451",
-      "title": "Moretto: \"We'll see what Gerard Martin's future will be: AC Milan are certainly looking at it\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-vedremo-quale-sara-il-futuro-di-gerard-martin-di-sicuro-il-milan-lo-sta-visionando-607547",
-      "source": "milannews.it",
-      "date": "2026-02-15T19:17:50+00:00",
-      "summary": "Matteo Moretto, in a video published on Fabrizio Romano's YouTube channel, talks about a Barcelona player followed by Milan."
-    },
-    {
-      "id": "8e4445de14af",
-      "title": "MN EXCLUSIVE - Gavillucci: \"Not being able to use technology to restore the truth in the field represents a clear limit of the system\"",
-      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-gavillucci-non-poter-utilizzare-la-tecnologia-per-ripristinare-la-verita-in-campo-rappresenta-un-limite-evidente-del-sistema-607545",
-      "source": "milannews.it",
-      "date": "2026-02-15T19:00:00+00:00",
-      "summary": "The Kalulu-Bastoni episode was the classic straw that broke the camel's back, definitively uncovering Pandora's box on an Italian refereeing class in confusion and which in recent years has not proven itself at all ..."
-    },
-    {
       "id": "c9748545a032",
       "title": "GdS: Milan Futuro’s forced reset has been strengthened by recent graduates",
       "url": "https://sempremilan.com/milan-futuro-forced-reset-strengthened",
@@ -154,36 +178,12 @@
       "summary": "AC Milan had big expectations for the Futuro project, and it certainly did not start well with relegation. However, it is still proving to be a success. The relegation to Serie D could have closed the door on the Milan Futuro project. Instead, though, it has been strengthened, and there is a case to"
     },
     {
-      "id": "f121b741acc0",
-      "title": "Collovati: \"Rocchi resign! Every Sunday we talk about sensational refereeing errors. It's no longer possible\"",
-      "url": "https://www.milannews.it/news/collovati-rocchi-dia-le-dimissioni-tutte-le-domeniche-siamo-a-parlare-di-errori-arbitrali-clamorosi-non-e-piu-possibile-607506",
-      "source": "milannews.it",
-      "date": "2026-02-15T18:49:21+00:00",
-      "summary": "Fulvio Collovati, former player of Inter, Milan and world champion with the Italian national team in 1982, expressed himself on Rai2 on the chaos that broke out after the serious mistake made by referee La Penna during the match between ..."
-    },
-    {
-      "id": "001f91dc9628",
-      "title": "Against Pisa, Tomori crossed the finish line of 150 appearances in Serie A. All with Milan",
-      "url": "https://www.milannews.it/news/contro-il-pisa-tomori-ha-tagliato-il-traguardo-delle-150-presenze-in-serie-a-tutte-con-il-milan-607397",
-      "source": "milannews.it",
-      "date": "2026-02-15T18:35:29+00:00",
-      "summary": "Fikayo Tomori's 150th match yesterday in Serie A, all played with Milan. Opta reports it."
-    },
-    {
       "id": "88c334b39a62",
       "title": "MN: Loftus-Cheek’s priority is and always has been Milan renewal after January rumours",
       "url": "https://sempremilan.com/loftus-cheek-priority-milan-renewal-january-rumours",
       "source": "sempremilan.com",
       "date": "2026-02-15T18:30:00+00:00",
       "summary": "It seemed Ruben Loftus-Cheek was heading to the door in January. However, the Englishman instead preferred to stay at AC Milan.  Throughout January, there was enough to suggest that Loftus-Cheek was going to leave Milan. He reportedly wanted more playing time, which the Rossoneri could not give him,"
-    },
-    {
-      "id": "a2c6de73586f",
-      "title": "Inter, La Russa without brakes: \"Bastoni didn't simulate, he behaved better than those who get hit in the stomach and put their hands in their faces\"",
-      "url": "https://www.milannews.it/l-avversario/inter-la-russa-senza-freni-bastoni-non-ha-simulato-si-e-comportato-meglio-di-quelli-che-colpiti-nella-pancia-si-mettono-mani-in-faccia-607543",
-      "source": "milannews.it",
-      "date": "2026-02-15T18:24:00+00:00",
-      "summary": "After all the chaos and media outcry that happened over Inter-Juventus, Ignazio La Russa, president of the Senate, commented on the controversies of the Italian derby to Telelombardia as follows:\n\n“After 1-1 we took 2 posts and also in 11 c..."
     },
     {
       "id": "9ff006448cca",
