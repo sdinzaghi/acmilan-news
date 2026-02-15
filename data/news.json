@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-02-15T07:37:28.037432+00:00",
+  "lastUpdated": "2026-02-15T08:31:41.846030+00:00",
   "articles": [
+    {
+      "id": "8a37904f0539",
+      "title": "Inter, Chivu: \"The Scudetto chance is 0% for us. 13 games left, the championship is still long\"",
+      "url": "https://www.milannews.it/news/inter-chivu-possibilita-scudetto-per-noi-0-mancano-13-partite-il-campionato-e-ancora-lungo-607486",
+      "source": "milannews.it",
+      "date": "2026-02-15T08:24:16+00:00",
+      "summary": "Cristian Chivu, Inter coach, expressed himself thus to DAZN after the 3-2 victory against Juventus: \"I think about what the mental and physical block was, perhaps the two years without winning direct matches..."
+    },
+    {
+      "id": "228914ef7fc4",
+      "title": "The QS on Milan: \"Master Modric, air of renewal. Rabiot, stop which now weighs\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-qs-sul-milan-maestro-modric-aria-di-rinnovo-rabiot-stop-che-ora-pesa-607500",
+      "source": "milannews.it",
+      "date": "2026-02-15T08:11:53+00:00",
+      "summary": "The Quotidiano Sportivo headlined this morning: \"Master Modric, air of renewal. Rabiot, stop which now weighs\"."
+    },
+    {
+      "id": "b9f25fadc0cd",
+      "title": "Tuttosport: \"Loftus-Cheek, two consecutive goals for the renewal\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-loftus-cheek-due-gol-consecutivi-per-il-rinnovo-607496",
+      "source": "milannews.it",
+      "date": "2026-02-15T07:59:55+00:00",
+      "summary": "\"Loftus-Cheek, two consecutive goals for renewal\": this is the headline from Tuttosport this morning explaining that, in the last two matches against Bologna and Pisa, the Englishman was deployed by Max Allegri in attack alongside C ..."
+    },
+    {
+      "id": "fa62749e6fdb",
+      "title": "Towards Como: the suspended Rabiot out, Ricci in",
+      "url": "https://www.milannews.it/rassegna-stampa/verso-il-como-out-lo-squalificato-rabiot-dentro-ricci-607492",
+      "source": "milannews.it",
+      "date": "2026-02-15T07:48:43+00:00",
+      "summary": "Adrien Rabiot was sent off on Friday evening at the end of the match against Pisa by referee Fabbri: double yellow (the first for a foul, the second for subsequent protests) for the Frenchman who will be stopped for a round of ..."
+    },
     {
       "id": "703e9c7277f3",
       "title": "Tuttosport headline: \"More and more infinite. Modric joy at Milan\"",
@@ -111,7 +143,7 @@
       "url": "https://www.milannews.it/news/auriemma-mi-sembra-di-poter-dire-che-realisticamente-e-un-ipotesi-molto-complicata-che-il-napoli-le-vinca-tutte-e-milan-e-inter-no-607427",
       "source": "milannews.it",
       "date": "2026-02-14T23:12:31+00:00",
-      "summary": "Raffaele Auriemma, a journalist of Neapolitan faith, expressed himself to Tele A on Napoli and the Scudetto race: \"If today we look at the result: Italian Super Cup and qualification for the Champions League, obviously we hope so..."
+      "summary": "Raffaele Auriemma, a journalist of Neapolitan faith, expressed himself on Tele A as follows about Napoli and the Scudetto race: \"If today we look at the result: Italian Super Cup and qualification for the Champions League, obviously we hope so..."
     },
     {
       "id": "6845cb4f8820",
@@ -127,39 +159,7 @@
       "url": "https://www.milannews.it/l-avversario/voglio-vedere-un-allenatore-venire-in-conferenza-a-dire-ho-avuto-un-episodio-a-favore-chiedo-scusa-chivu-pero-non-chiede-scusa-e-rincara-la-dose-dopo-607469",
       "source": "milannews.it",
       "date": "2026-02-14T22:54:31+00:00",
-      "summary": "After yesterday's almost philosophising statements in the conference about the referees, this evening Inter coach Chivu completely changed his tone."
-    },
-    {
-      "id": "0c3d48689ab6",
-      "title": "Chivu surprises everyone: \"An experienced player like Kalulu has to keep his hands at home in some circumstances. Light touch, but it's a touch\"",
-      "url": "https://www.milannews.it/l-avversario/chivu-sorprende-tutti-un-giocatore-d-esperienza-come-kalulu-le-mani-in-alcune-circostanze-bisogna-tenerle-a-casa-tocco-leggero-ma-e-un-tocco-607468",
-      "source": "milannews.it",
-      "date": "2026-02-14T22:51:04+00:00",
-      "summary": "Christian Chivu, Inter coach, commented on Bastoni's simulation which led to Kalulu's expulsion in the post-match of Inter-Juventus."
-    },
-    {
-      "id": "dcbae76a5b32",
-      "title": "Chiellini's fury: \"Something unacceptable happened for the umpteenth time this season. We can't talk about football tonight\"",
-      "url": "https://www.milannews.it/news/la-furia-di-chiellini-successo-qualcosa-di-inaccettabile-per-l-ennesima-volta-in-stagione-non-si-puo-parlare-di-calcio-stasera-607467",
-      "source": "milannews.it",
-      "date": "2026-02-14T22:42:41+00:00",
-      "summary": "Giorgio Chiellini, director of football strategy of the Juventus club, spoke to Sky in place of Luciano Spalletti at the end of Inter-Juventus 3-2. Bianconeri furious at Kalulu's expulsion resulting from a bad simulation by Bastoni."
-    },
-    {
-      "id": "c1c309fd1165",
-      "title": "Milan is the team with the most penalties in favor of this Serie A: with yesterday's one there are 7 (of which 5 were scored)",
-      "url": "https://www.milannews.it/news/il-milan-e-la-squadra-con-piu-rigori-a-favore-in-questa-serie-a-con-quello-di-ieri-sono-7-di-cui-5-segnati-607396",
-      "source": "milannews.it",
-      "date": "2026-02-14T22:36:36+00:00",
-      "summary": "Milan is the team that has earned the most penalties in this Serie A (seven), Niclas Füllkrug's penalty is the second missed by the Rossoneri in the current championship (also Christian Pulisic vs Juventus in October)."
-    },
-    {
-      "id": "141c8cc8de49",
-      "title": "Kalulu expelled, Comolli, Spalletti and Chiellini furious: \"It doesn't exist!\"",
-      "url": "https://www.milannews.it/l-avversario/espulsione-kalulu-furia-comolli-spalletti-e-chiellini-non-esiste-607466",
-      "source": "milannews.it",
-      "date": "2026-02-14T22:20:26+00:00",
-      "summary": "Juventus falls 3-2 in the Italian Derby against Inter at San Siro, at the end of a match marked by strong controversy."
+      "summary": "After yesterday's almost philosophising statements in the conference about the referees, this evening Inter coach Chivu completely changed his tune."
     },
     {
       "id": "91ed3952841c",
