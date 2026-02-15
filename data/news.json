@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-02-15T21:23:19.678540+00:00",
+  "lastUpdated": "2026-02-15T22:23:00.719972+00:00",
   "articles": [
+    {
+      "id": "1aa8fbad38bc",
+      "title": "Bove returns to the pitch with Watford more than a year after his illness",
+      "url": "https://www.milannews.it/news/bove-torna-in-campo-col-watford-a-oltre-un-anno-dal-malore-607482",
+      "source": "milannews.it",
+      "date": "2026-02-15T22:12:47+00:00",
+      "summary": "Fourteen months after his illness on the pitch, Edoardo Bove returns to play. The player who left his contract with Roma in January then became a new player for Watford, the English Championship team."
+    },
+    {
+      "id": "cc45cd869825",
+      "title": "The Serie A standings updated after Maradona's draw between Napoli and Roma",
+      "url": "https://www.milannews.it/news/la-classifica-di-serie-a-aggiornata-dopo-il-pari-del-maradona-tra-napoli-e-roma-607551",
+      "source": "milannews.it",
+      "date": "2026-02-15T22:00:58+00:00",
+      "summary": "Below is the updated Serie A standings after the draw at the Diego Armando Maradona stadium between Antonio Conte's Napoli, who maintain third place in the standings, and Gian Piero Gasperini's Roma, who overtake Juventus: \n\nInter 61\nM..."
+    },
+    {
+      "id": "37579734c7df",
+      "title": "Napoli catches Roma twice: Spinazzola and Santos respond to a splendid Malen",
+      "url": "https://www.milannews.it/news/il-napoli-riprende-la-roma-due-volte-ad-uno-splendido-malen-rispondono-spinazzola-e-santos-607550",
+      "source": "milannews.it",
+      "date": "2026-02-15T21:48:37+00:00",
+      "summary": "At the Diego Armando Maradona stadium the second big match of this 25th day of Serie A Enilve ends in a draw."
+    },
+    {
+      "id": "a98b606f9620",
+      "title": "Inter-Juve chaos, La Russa: \"Chivu was a gentleman and Bastoni didn't simulate. Juve stole better before..\"",
+      "url": "https://www.milannews.it/l-avversario/caos-inter-juve-la-russa-chivu-e-stato-un-signore-e-bastoni-non-ha-simulato-la-juve-rubava-meglio-prima-607544",
+      "source": "milannews.it",
+      "date": "2026-02-15T21:35:00+00:00",
+      "summary": "After all the chaos and media outcry that happened over Inter-Juventus, Ignazio La Russa, president of the Senate, commented on the controversies of the Italian derby to Telelombardia as follows:\n\n\"We are not a new Juve."
+    },
+    {
+      "id": "4e141326e5a6",
+      "title": "Sabatini underlines: \"Milan inconsistent in the first half, then better until the penalty\"",
+      "url": "https://www.milannews.it/news/sabatini-sottolinea-milan-inconsistente-nel-primo-tempo-poi-meglio-fino-al-rigore-607461",
+      "source": "milannews.it",
+      "date": "2026-02-15T21:24:05+00:00",
+      "summary": "In his YouTube channel, Sandro Sabatini spoke like this about Friday night's match between Pisa and Milan."
+    },
     {
       "id": "9e82f24d2936",
       "title": "Pedullà: “Modric, at 40, has more desire and humility than someone who is 20”",
@@ -23,7 +63,7 @@
       "url": "https://www.milannews.it/news/calamai-molti-alla-sua-eta-e-con-la-sua-storia-sarebbero-andati-a-svernare-tra-gli-sceicchi-grande-lezione-di-modric-607507",
       "source": "milannews.it",
       "date": "2026-02-15T20:49:26+00:00",
-      "summary": "Luca Calamai, journalist, expressed himself as follows on TMW on Luka Modric: \"Let's go back to Milan's success in Pisa. To the magic of Modric."
+      "summary": "Luca Calamai, journalist, expressed himself as follows on TMW about Luka Modric: \"Let's go back to Milan's success in Pisa. To the magic of Modric."
     },
     {
       "id": "7d56be62ef3d",
@@ -47,7 +87,7 @@
       "url": "https://www.milannews.it/news/passerini-attenzione-pero-il-tabu-piccole-sembra-ancora-lontano-dall-essere-spezzato-anche-a-pisa-troppa-fatica-607405",
       "source": "milannews.it",
       "date": "2026-02-15T20:13:09+00:00",
-      "summary": "Carlos Passerini, journalist, expressed himself in the Corriere della Sera on Milan in Pisa: \"Modric is the dream catcher."
+      "summary": "Carlos Passerini, journalist, expressed himself as follows in the Corriere della Sera about Milan in Pisa: \"Modric is the dream catcher."
     },
     {
       "id": "126f2e52718e",
@@ -59,7 +99,7 @@
     },
     {
       "id": "8ea619ac5907",
-      "title": "Pellegatti: “Tiring match, qualitatively a step back compared to Bologna”",
+      "title": "Pellegatti: “Tiring match, qualitative step backwards compared to Bologna”",
       "url": "https://www.milannews.it/news/pellegatti-partita-faticosa-qualitativamente-passo-indietro-rispetto-a-bologna-607452",
       "source": "milannews.it",
       "date": "2026-02-15T19:48:24+00:00",
@@ -146,22 +186,6 @@
       "summary": "After all the chaos and media outcry that happened over Inter-Juventus, Ignazio La Russa, president of the Senate, commented on the controversies of the Italian derby to Telelombardia as follows:\n\n“After 1-1 we took 2 posts and also in 11 c..."
     },
     {
-      "id": "979cabd15c02",
-      "title": "Borghi: \"I had the impression that without Saelemaekers Milan lacked a degree of intensity\"",
-      "url": "https://www.milannews.it/news/borghi-ho-avuto-l-impressione-che-senza-saelemaekers-al-milan-manchi-un-grado-di-intensita-607460",
-      "source": "milannews.it",
-      "date": "2026-02-15T18:12:12+00:00",
-      "summary": "On his YouTube channel, Borghi spoke about the Pisa match on Friday evening, analyzing the general and individual performances."
-    },
-    {
-      "id": "1d5461dd9218",
-      "title": "Milan and Inter have made it clear in recent weeks at Palazzo Marino that they would like to start work on the stadium in three, four months at most",
-      "url": "https://www.milannews.it/news/milan-e-inter-nelle-scorse-settimane-hanno-chiarito-a-palazzo-marino-che-vorrebbero-iniziare-i-lavori-per-lo-stadio-fra-tre-quattro-mesi-al-massimo-607503",
-      "source": "milannews.it",
-      "date": "2026-02-15T18:00:05+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself as follows on gazzetta.it on the new Milan and Inter stadium: \"The calm after the storm."
-    },
-    {
       "id": "9ff006448cca",
       "title": "Midfield freedom to combat central block: Tactical analysis of Pisa 1-2 AC Milan",
       "url": "https://sempremilan.com/tactical-analysis-of-pisa-1-2-ac-milan",
@@ -170,36 +194,12 @@
       "summary": "AC Milan travelled to Pisa on Friday night in the first game of the latest Serie A round, and they were given a scare by relegation battlers Pisa. Ruben Loftus-Cheek’s header in the first half was a welcome opening of the scoring after a dull spectacle to that point. Then, the turning point seemed t"
     },
     {
-      "id": "ba0a8b21cf7c",
-      "title": "Cuomo: \"If La Penna gets a 3-match stoppage, Bastoni deserves a 6-match disqualification\"",
-      "url": "https://www.milannews.it/news/cuomo-se-la-penna-prende-3-turni-di-stop-bastoni-ne-merita-6-di-squalifica-607546",
-      "source": "milannews.it",
-      "date": "2026-02-15T17:47:53+00:00",
-      "summary": "To talk about the ugly episode between Bastoni and Kalulu that occurred in Inter-Juve last night, TeleLombardia journalist Michael Cuomo was a guest on Radio Radio."
-    },
-    {
-      "id": "858037dcc6ef",
-      "title": "23 games without losing in a championship. Milan have only done better twice (once more than 70 years ago)",
-      "url": "https://www.milannews.it/news/23-partite-senza-perdere-in-un-campionato-il-milan-ha-fatto-meglio-solo-due-volte-una-piu-di-70-anni-fa-607385",
-      "source": "milannews.it",
-      "date": "2026-02-15T17:36:24+00:00",
-      "summary": "Milan (W15, D8 in the current tournament) equaled its third longest unbeaten run in a Serie A season (23 matches in a row, as between September 1992 and March 1993), behind only a run of 24 matches between December 1..."
-    },
-    {
       "id": "b5957e5d1aa0",
       "title": "GdS: Allegri, Maignan and more – Milan seeking revenge in many ways",
       "url": "https://sempremilan.com/allegri-maignan-more-milan-seek-revenge",
       "source": "sempremilan.com",
       "date": "2026-02-15T17:30:00+00:00",
       "summary": "After last season, there are several players seeking revenge at AC Milan. However, there are also some who don’t have the burden of last year weighing on them. Before the Pisa game, Massimiliano Allegri stated that Milan was a team seeking revenge when he was asked about the qualities of his squad. "
-    },
-    {
-      "id": "c3d63dfff544",
-      "title": "Pellegatti on the formation: \"Milan is more fluid with the 4-3-3 but there is one thing that's holding Allegri back\"",
-      "url": "https://www.milannews.it/news/pellegatti-sul-modulo-milan-piu-fluido-col-4-3-3-ma-c-e-una-cosa-che-frena-allegri-607458",
-      "source": "milannews.it",
-      "date": "2026-02-15T17:24:06+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti spoke again about the match in Pisa."
     },
     {
       "id": "9808500ab77b",
