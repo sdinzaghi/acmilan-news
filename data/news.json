@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-02-16T15:39:59.240679+00:00",
+  "lastUpdated": "2026-02-16T16:41:32.593157+00:00",
   "articles": [
+    {
+      "id": "3699f52b786c",
+      "title": "Napoli, Conte: \"We have 13 games to understand which European competition we will play in\"",
+      "url": "https://www.milannews.it/news/napoli-conte-abbiamo-13-partite-per-per-capire-in-quale-competizione-europea-giocheremo-607562",
+      "source": "milannews.it",
+      "date": "2026-02-16T16:30:46+00:00",
+      "summary": "(ANSA) - NAPLES, FEBRUARY 15 - \"I thank the fans who recognized what we are doing this season, honoring the shirt, trying to fight for Naples."
+    },
+    {
+      "id": "afa5c0223baa",
+      "title": "Costacurta mentions Maldini in criticism of Bastoni’s actions during Inter-Juventus",
+      "url": "https://sempremilan.com/costacurta-mentions-maldini-criticism-bastoni",
+      "source": "sempremilan.com",
+      "date": "2026-02-16T16:30:00+00:00",
+      "summary": "Billy Costacurta had held Alessandro Bastoni in a high regard before this weekend, but it seems the Inter defender has let the AC Milan legend down… This weekend’s game between Inter and Juventus has certainly brought up a bit of controversy with many seeing former Milan defender Pierre Kalulu’s red"
+    },
+    {
+      "id": "74b03e4fa1e3",
+      "title": "Rome, fractures ruled out for Wesley: \"Fortunately nothing serious\"",
+      "url": "https://www.milannews.it/news/roma-escluse-fratture-per-wesley-per-fortuna-nulla-di-grave-607610",
+      "source": "milannews.it",
+      "date": "2026-02-16T16:20:48+00:00",
+      "summary": "(ANSA) - ROME, FEBRUARY 16 - Danger averted for Wesley."
+    },
+    {
+      "id": "5d5be76b67c9",
+      "title": "Como, attack to monitor: goals scored and scorers",
+      "url": "https://www.milannews.it/l-avversario/como-attacco-da-sorvegliare-gol-segnati-e-marcatori-607609",
+      "source": "milannews.it",
+      "date": "2026-02-16T16:10:15+00:00",
+      "summary": "Como is the Rossoneri's next opponent in Wednesday's match which will be worth the recovery of the 24th matchday."
+    },
+    {
+      "id": "a230b14f0582",
+      "title": "Caught Offside: Milan hold talks with Stones but face European heavyweight competition",
+      "url": "https://sempremilan.com/milan-hold-talks-stones-face-european-competition",
+      "source": "sempremilan.com",
+      "date": "2026-02-16T16:00:15+00:00",
+      "summary": "This summer, John Stones will be available on a free transfer, and this is piquing the interest of several top European clubs, including AC Milan.  There are a number of opportunities that Milan may look to capitalise on this summer, with a number of ageing elites at the end of their contracts. Of c"
+    },
+    {
+      "id": "9ae4860e26de",
+      "title": "Pellegatti: \"Calvelli will become Milan's strong man, a direct emanation of Cardinale\"",
+      "url": "https://www.milannews.it/news/pellegatti-calvelli-diventera-uomo-forte-del-milan-diretta-emanazione-di-cardinale-607607",
+      "source": "milannews.it",
+      "date": "2026-02-16T16:00:03+00:00",
+      "summary": "In his YouTube channel, journalist Carlo Pellegatti took stock of the company situation in view of the future:  \n\n\"Yesterday we underlined the presence of Gerry Cardinale several times, we don't know if he will be in San S..."
+    },
+    {
+      "id": "11b90b746126",
+      "title": "Milan-Como, referee Mariani: a precedent in the season with the Rossoneri",
+      "url": "https://www.milannews.it/l-arbitro/milan-como-arbitra-mariani-un-precedente-in-stagione-con-i-rossoneri-607608",
+      "source": "milannews.it",
+      "date": "2026-02-16T15:51:30+00:00",
+      "summary": "The referee for Milan-Como has been appointed, the second half of the 24th matchday of Serie A which will be played on Wednesday at 8.45pm at San Siro: Maurizio Mariani will referee the match, while Gariglio and Maresca will be in charge of VAR."
+    },
+    {
+      "id": "fc393a781c82",
+      "title": "PROBABLE LINEUP - Milan-Como, run-off to replace Rabiot",
+      "url": "https://www.milannews.it/news/probabile-formazione-milan-como-ballottaggio-per-sostituire-rabiot-607620",
+      "source": "milannews.it",
+      "date": "2026-02-16T15:49:01+00:00",
+      "summary": "MILAN-COMO, THE PROBABLE LINE-UP\n16 Maignan\n23 Tomori, 46 Gabbia, 31 Pavlovic\n24 Athekame, 19 Fofana, 14 Modric, 4 Ricci, 33 Bartesaghi\n18 Nkunku, 10 Leao\n\nDependent"
+    },
+    {
+      "id": "5348dac1193a",
+      "title": "Ravezzani: \"Lately Inter have had players who went over the top too many times\"",
+      "url": "https://www.milannews.it/news/ravezzani-ultimamente-l-inter-troppe-volte-ha-avuto-giocatori-che-sono-andati-oltre-le-righe-607605",
+      "source": "milannews.it",
+      "date": "2026-02-16T15:40:26+00:00",
+      "summary": "On his profile X, the director of Telelombardia Fabio Ravezzani commented on Marotta's words released at this morning's Lega Serie A Assembly regarding the Bastoni-Kalulu episode."
+    },
     {
       "id": "1e03e0988363",
       "title": "GdS: Milan fans flock to San Siro a month after Lecce win – Como sell-out expected",
@@ -154,22 +226,6 @@
       "summary": "(ANSA) - NAPLES, FEBRUARY 15 - \"We always play to impose ourselves, since the beginning of the season. Since then we have grown, in the first round we won many matches but lost the direct clashes, coming close with performances but then falling."
     },
     {
-      "id": "2c2480fb00e1",
-      "title": "According to Marchegiani, television evidence against simulations should be reintroduced",
-      "url": "https://www.milannews.it/news/secondo-marchegiani-andrebbe-reintrodotta-la-prova-televisiva-contro-le-simulazioni-607559",
-      "source": "milannews.it",
-      "date": "2026-02-16T13:20:33+00:00",
-      "summary": "During the usual appointment with Sky Calcio Club, former goalkeeper Luca Marchegiani had his say on the many problems that referees are having to face this season, focusing in particular on a topic that is so ..."
-    },
-    {
-      "id": "802e72832e9b",
-      "title": "Borghi: \"Bad evening for Fullkrug, but it doesn't change his opinion. However, in these matches he must be perfect\"",
-      "url": "https://www.milannews.it/news/borghi-serataccia-per-fullkrug-ma-non-cambia-il-giudizio-in-queste-partite-pero-deve-essere-perfetto-607459",
-      "source": "milannews.it",
-      "date": "2026-02-16T13:10:24+00:00",
-      "summary": "On his YouTube channel, Borghi spoke about the Pisa match on Friday evening, analyzing the general and individual performances."
-    },
-    {
       "id": "4ad81ad1d371",
       "title": "GdS: Division ‘not important’ – why the Milan Futuro project has barely changed since relegation",
       "url": "https://sempremilan.com/why-milan-futuro-project-barely-changed",
@@ -178,52 +234,12 @@
       "summary": "Davide Bartesaghi is a shining example of a Milan Futuro graduate, but now the club want to see more players make the jump. La Gazzetta dello Sport recall how ‘strange’ the two games against Chievo Verona were. On one side were the Futuro, who dropped into Serie D after a failure on the field in […]"
     },
     {
-      "id": "852ac6cc9db4",
-      "title": "Inter, Marotta: \"Did I greet Chiellini? The greeting is the minimum. He is a young and inexperienced manager\"",
-      "url": "https://www.milannews.it/news/inter-marotta-se-ho-salutato-chiellini-il-saluto-e-il-minimo-e-un-dirigente-giovane-e-inesperto-607604",
-      "source": "milannews.it",
-      "date": "2026-02-16T13:00:29+00:00",
-      "summary": "(ANSA) - MILAN, FEBRUARY 16 - \"Did I say hello to Chiellini? The greeting is the minimum, of course, he was one of my players. He is a young and inexperienced manager, I don't even allow myself to give him advice but we discussed it."
-    },
-    {
-      "id": "82d344d02133",
-      "title": "Pasotto: \"The latest adventure left a bitter aftertaste for Allegri. From this perspective, the revenge with Milan can make sense\"",
-      "url": "https://www.milannews.it/news/pasotto-l-ultima-avventura-ha-lasciato-un-retrogusto-amaro-ad-allegri-in-quest-ottica-la-rivalsa-col-milan-puo-avere-un-senso-607567",
-      "source": "milannews.it",
-      "date": "2026-02-16T12:50:52+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on Massimiliano Allegri: \"When describing Allegri, talking about revenge in the strict sense obviously makes little sense considering everything he has won in ..."
-    },
-    {
       "id": "4112f5bad99c",
       "title": "Mazzara claims 4-3-3 is ‘the key’ to Milan ‘making the most of their technical potential’",
       "url": "https://sempremilan.com/mazzara-4-3-3-key-milan-most-potential",
       "source": "sempremilan.com",
       "date": "2026-02-16T12:45:00+00:00",
       "summary": "Pietro Mazzara has suggested that Massimiliano Allegri could and should turn to the 4-3-3 more in order to unlock difficult games. Milan made things more difficult than they perhaps should have been on Friday night in Pisa, especially after taking a first-half lead through Ruben Loftus-Cheek. Niclas"
-    },
-    {
-      "id": "ed2ffd34dff6",
-      "title": "Verona chooses press silence to protest against Pairetto's refereeing decisions",
-      "url": "https://www.milannews.it/news/il-verona-sceglie-il-silenzio-stampa-per-protestare-contro-le-scelte-arbitrali-di-pairetto-607565",
-      "source": "milannews.it",
-      "date": "2026-02-16T12:40:19+00:00",
-      "summary": "(ANSA) - ROME, FEBRUARY 15 - In the two Serie A matches at 3pm Cremonese and Genoa did not get hurt, drawing 0-0 at the Zini, while at the Tardini Parma won at the last gasp against a Verona with 10 men for almost the entire match."
-    },
-    {
-      "id": "04c70e63c9be",
-      "title": "Tottenham (surprisingly) makes Igor Tudor official on the bench",
-      "url": "https://www.milannews.it/news/il-tottenham-a-sorpresa-ufficializza-igor-tudor-in-panchina-607481",
-      "source": "milannews.it",
-      "date": "2026-02-16T12:30:43+00:00",
-      "summary": "(ANSA) - ROME, FEBRUARY 14 - Tottenham has formalized the hiring of Igor Tudor until the end of the season, with the task of reviving the fortunes of the current sixteenth team in the Premier League."
-    },
-    {
-      "id": "9d9d3cc23893",
-      "title": "MN - Towards Milan-Como: Saelemaekers in the group, he is recovered for Wednesday",
-      "url": "https://www.milannews.it/primo-piano/mn-verso-milan-como-saelemaekers-in-gruppo-e-recuperato-per-mercoledi-607603",
-      "source": "milannews.it",
-      "date": "2026-02-16T12:20:00+00:00",
-      "summary": "As the editorial staff of MilanNews.it learns, Alexis Saelemaekers returned to group training this morning."
     },
     {
       "id": "959905e70d11",
@@ -312,22 +328,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-15T19:00:00+00:00",
       "summary": "AC Milan had big expectations for the Futuro project, and it certainly did not start well with relegation. However, it is still proving to be a success. The relegation to Serie D could have closed the door on the Milan Futuro project. Instead, though, it has been strengthened, and there is a case to"
-    },
-    {
-      "id": "88c334b39a62",
-      "title": "MN: Loftus-Cheek’s priority is and always has been Milan renewal after January rumours",
-      "url": "https://sempremilan.com/loftus-cheek-priority-milan-renewal-january-rumours",
-      "source": "sempremilan.com",
-      "date": "2026-02-15T18:30:00+00:00",
-      "summary": "It seemed Ruben Loftus-Cheek was heading to the door in January. However, the Englishman instead preferred to stay at AC Milan.  Throughout January, there was enough to suggest that Loftus-Cheek was going to leave Milan. He reportedly wanted more playing time, which the Rossoneri could not give him,"
-    },
-    {
-      "id": "9ff006448cca",
-      "title": "Midfield freedom to combat central block: Tactical analysis of Pisa 1-2 AC Milan",
-      "url": "https://sempremilan.com/tactical-analysis-of-pisa-1-2-ac-milan",
-      "source": "sempremilan.com",
-      "date": "2026-02-15T18:00:00+00:00",
-      "summary": "AC Milan travelled to Pisa on Friday night in the first game of the latest Serie A round, and they were given a scare by relegation battlers Pisa. Ruben Loftus-Cheek’s header in the first half was a welcome opening of the scoring after a dull spectacle to that point. Then, the turning point seemed t"
     },
     {
       "id": "6aaeb7445ff7",
