@@ -1,13 +1,61 @@
 {
-  "lastUpdated": "2026-02-16T22:27:15.568279+00:00",
+  "lastUpdated": "2026-02-16T23:28:03.460195+00:00",
   "articles": [
+    {
+      "id": "6cf2891b7009",
+      "title": "Ag. Klopp: \"Requests continue to arrive: at the moment very happy with his role\"",
+      "url": "https://www.milannews.it/news/ag-klopp-continuano-ad-arrivare-richieste-al-momento-molto-felice-del-suo-ruolo-607665",
+      "source": "milannews.it",
+      "date": "2026-02-16T23:20:00+00:00",
+      "summary": "Marc Kosice, agent of the German coach Jurgen Klopp, who joined the management of the Red Bull sports branch after his experience in Liverpool, spoke about the coach's future on Transfermarkt."
+    },
+    {
+      "id": "e5009392dd5b",
+      "title": "Bastoni case, Giletti: \"The Inter fan should also apologize to Kalulu\"",
+      "url": "https://www.milannews.it/news/caso-bastoni-giletti-l-interista-dovrebbe-chiedere-scusa-anche-a-kalulu-607622",
+      "source": "milannews.it",
+      "date": "2026-02-16T23:10:00+00:00",
+      "summary": "Thus spoke the well-known journalist Massimo Giletti, exclusively to the microphones of TMW Radio on the now discussed and serious Bastoni-Kalulu case."
+    },
+    {
+      "id": "f8654e33d5a1",
+      "title": "What filters out about Modric's future at Milan. The VAR is useless like this! Give credibility back to Italian football",
+      "url": "https://www.milannews.it/editoriale/cosa-filtra-sul-futuro-di-modric-al-milan-il-var-cosi-non-serve-ridate-credibilita-al-calcio-italiano-607641",
+      "source": "milannews.it",
+      "date": "2026-02-16T23:00:38+00:00",
+      "summary": "Watch out Milan, because rumors are coming from Como about how Fabregas is preparing for the match against Milan. It is said that Como intends to \"take revenge\" after the heavy internal defeat a month ago."
+    },
+    {
+      "id": "7f445e2e93ab",
+      "title": "Kirovski: \"Our young players must have pressure because at San Siro they will play with pressure\"",
+      "url": "https://www.milannews.it/news/kirovski-i-nostri-giovani-devono-avere-pressione-perche-a-san-siro-giocheranno-con-pressione-607656",
+      "source": "milannews.it",
+      "date": "2026-02-16T22:50:00+00:00",
+      "summary": "During the Monday episode of Inferno, a program on the schedule of Milan TV, the exclusive interview with Jovan Kirovski, technical director of the Milan Futuro project, his second to ..."
+    },
+    {
+      "id": "16f3c5ffd5d6",
+      "title": "Milan, all the results of the Youth Sector: successes for the men's and women's Primavera",
+      "url": "https://www.milannews.it/news/milan-tutti-i-risultati-del-settore-giovanile-successi-per-primavera-maschile-e-femminile-607618",
+      "source": "milannews.it",
+      "date": "2026-02-16T22:40:00+00:00",
+      "summary": "Lots of smiles during the weekend for the Rossoneri Youth Sector, starting with the away victories of the two Primavera teams: the men's team found a precious away success in Genoa against Genoa while the women's team tamed at home..."
+    },
+    {
+      "id": "e3236a4fb6a3",
+      "title": "Colantuono: \"But what did we put this Var to do if you don't control certain things?\"",
+      "url": "https://www.milannews.it/news/colantuono-ma-sto-var-cosa-l-abbiamo-messo-a-fare-se-poi-certe-cose-non-le-controlli-607635",
+      "source": "milannews.it",
+      "date": "2026-02-16T22:30:09+00:00",
+      "summary": "After the match between Inter and Juventus, won by the Nerazzurri 3-2 at the last shot, which brought with it a plethora of additional and sacrosanct controversies on the use of VAR, the coach Stefano Colantuono also expressed his opinion ..."
+    },
     {
       "id": "da4173ed34e7",
       "title": "Towards Milan-Como, the Time Machine: Nesta's first Rossoneri goal in 2003",
       "url": "https://www.milannews.it/news/verso-milan-como-la-time-machine-nel-2003-il-primo-gol-rossonero-di-nesta-607623",
       "source": "milannews.it",
       "date": "2026-02-16T22:20:00+00:00",
-      "summary": "There is less and less left for the delicate match on Wednesday evening between Milan and Como. Mister Allegri's Rossoneri are coming off the hard-fought victory in Pisa, while Pisa are coming off a home defeat against Fiorentina."
+      "summary": "There is less and less left for Wednesday evening's delicate match between Milan and Como. Mister Allegri's Rossoneri are coming off the hard-fought victory in Pisa, while Pisa are coming off a home defeat against Fiorentina."
     },
     {
       "id": "11a6012c4749",
@@ -23,7 +71,7 @@
       "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-lecce-ricaccia-la-fiorentina-a-3-bagarre-salvezza-607633",
       "source": "milannews.it",
       "date": "2026-02-16T22:00:20+00:00",
-      "summary": "The victory of Lecce at home to Cagliari this evening, which closed the 25th round of the Serie A Enilive championship, changed the scenarios at the bottom of the table in a significant way."
+      "summary": "The victory of Lecce at home to Cagliari this evening, which closed the 25th round of the Serie A Enilive championship, changed the scenarios at the bottom of the table significantly."
     },
     {
       "id": "fc393a781c82",
@@ -83,7 +131,7 @@
     },
     {
       "id": "9465d84ab4a7",
-      "title": "Ravezzani critical of Bastoni: \"What a bad thing to celebrate in the face of an unjustly sent-off opponent\"",
+      "title": "Ravezzani critical of Bastoni: \"What a bad thing to celebrate in the face of an unjustly expelled opponent\"",
       "url": "https://www.milannews.it/news/ravezzani-critico-su-bastoni-che-brutta-cosa-esultare-in-faccia-all-avversario-ingiustamente-espulso-607617",
       "source": "milannews.it",
       "date": "2026-02-16T20:50:00+00:00",
@@ -112,54 +160,6 @@
       "source": "milannews.it",
       "date": "2026-02-16T20:20:58+00:00",
       "summary": "Tomorrow will be the day before Milan-Como, the recovery of the 24th matchday of Serie A which will be played on Wednesday at 8.45pm at the San Siro stadium."
-    },
-    {
-      "id": "25f235f63dd9",
-      "title": "Scaroni: \"Without the match, the San Siro area is a desolate land. We will make it very green and visitable\"",
-      "url": "https://www.milannews.it/news/scaroni-senza-la-partita-zona-san-siro-e-una-landa-desolata-la-renderemo-molto-verde-e-visitabile-607650",
-      "source": "milannews.it",
-      "date": "2026-02-16T20:10:00+00:00",
-      "summary": "Paolo Scaroni, president of Milan, is present this evening at the Triennale di Milano, which is currently hosting Casa Italia on the occasion of the Milan-Cortina 2026 Winter Olympic Games."
-    },
-    {
-      "id": "ce109c84d368",
-      "title": "Vinicius: \"Modric is the best in the world. I really miss him because he always taught me something\"",
-      "url": "https://www.milannews.it/news/vinicius-modric-e-il-migliore-al-mondo-mi-manca-davvero-perche-mi-insegnava-sempre-qualcosa-607636",
-      "source": "milannews.it",
-      "date": "2026-02-16T20:00:17+00:00",
-      "summary": "Vinicius Junior, Real Madrid and Brazil winger, in his speech on Ibai Llanos' Twitch channel also spoke about his former teammate Luka Modric, now at Milan. His statements:\n\n“Luka Modric is crazy."
-    },
-    {
-      "id": "6359947e85d2",
-      "title": "Pellegatti: \"Elliot has just left, Cardinale twice at Milanello. Now he feels like the owner of Milan\"",
-      "url": "https://www.milannews.it/news/pellegatti-appena-uscito-elliot-cardinale-due-volte-a-milanello-ora-si-sente-proprietario-del-milan-607600",
-      "source": "milannews.it",
-      "date": "2026-02-16T19:50:38+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti spoke about Gerry Cardinale's presence at Milanello, after the one on January 21st."
-    },
-    {
-      "id": "8a3a62fdc4bd",
-      "title": "Scaroni very sure: \"We will build the most beautiful stadium in Europe\"",
-      "url": "https://www.milannews.it/news/scaroni-sicurissimo-costruiremo-lo-stadio-piu-bello-d-europa-607648",
-      "source": "milannews.it",
-      "date": "2026-02-16T19:40:25+00:00",
-      "summary": "Paolo Scaroni, president of Milan, is present this evening at the Triennale di Milano, which is currently hosting Casa Italia on the occasion of the Milan-Cortina 2026 Winter Olympic Games."
-    },
-    {
-      "id": "7ec1167c1e44",
-      "title": "MN - Marotta: \"Relationship with Milan is excellent. New stadium is a necessity: I really hope that Milan will be represented at Euro 2032\"",
-      "url": "https://www.milannews.it/news/mn-marotta-rapporto-col-milan-ottimo-stadio-nuovo-una-esigenza-spero-tanto-che-milano-sara-rappresentata-a-euro-2032-607649",
-      "source": "milannews.it",
-      "date": "2026-02-16T19:30:09+00:00",
-      "summary": "Beppe Marotta, President and CEO of Inter, spoke alongside Paolo Scaroni, president of Milan, from the stage of the Your Next Milano 2026 event."
-    },
-    {
-      "id": "81545d5c05a2",
-      "title": "Milan-Como without Rabiot: the Frenchman had been missing for four months",
-      "url": "https://www.milannews.it/news/milan-como-senza-rabiot-l-assenza-del-francese-mancava-da-quattro-mesi-607615",
-      "source": "milannews.it",
-      "date": "2026-02-16T19:20:00+00:00",
-      "summary": "A questionable double yellow card which once again penalizes Allegri's Milan."
     },
     {
       "id": "5c5918868a9e",
