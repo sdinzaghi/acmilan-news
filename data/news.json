@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-02-16T17:37:32.799858+00:00",
+  "lastUpdated": "2026-02-16T18:41:11.723503+00:00",
   "articles": [
+    {
+      "id": "55d633bd90a2",
+      "title": "Cardinale in Milan, a day full of meetings: stadium, League and centrality of the Milan project",
+      "url": "https://www.milannews.it/news/cardinale-a-milano-giornata-densa-di-incontri-stadio-lega-e-centralita-del-progetto-milan-607644",
+      "source": "milannews.it",
+      "date": "2026-02-16T18:30:00+00:00",
+      "summary": "Intense day of meetings for Gerry Cardinale, who once again reiterated the centrality of AC Milan in the strategic vision of the ownership."
+    },
+    {
+      "id": "f27ab82ff5ac",
+      "title": "LIVE MN - Scaroni: \"This is why we are building the stadium with Inter. I have to take football lessons from Marotta...\"",
+      "url": "https://www.milannews.it/primo-piano/live-mn-scaroni-ecco-perche-costruiamo-lo-stadio-con-l-inter-da-marotta-devo-prendere-lezioni-di-calcio-607643",
+      "source": "milannews.it",
+      "date": "2026-02-16T18:30:00+00:00",
+      "summary": "Paolo Scaroni, president of Milan, is present this evening at the Triennale di Milano, which is currently hosting Casa Italia on the occasion of the Milan-Cortina 2026 Winter Olympic Games."
+    },
+    {
+      "id": "16c78b64cb51",
+      "title": "Scaroni reveals he is happy with Cardinale’s reception at Serie A meeting: “Well received”",
+      "url": "https://sempremilan.com/scaroni-reveals-happy-cardinale-reception-serie-a",
+      "source": "sempremilan.com",
+      "date": "2026-02-16T18:30:00+00:00",
+      "summary": "This afternoon, AC Milan Gerry Cardinale stopped for a visit to join the ongoing Serie A meeting, and Paolo Scaroni discussed his appearance and more.  Despite his role as the owner of Milan, it is rare that the American is seen in Italy. However, given that he is based in America, this is not too ["
+    },
+    {
+      "id": "01dcbea7cfcd",
+      "title": "Scudetto fight, Rampulla also sees Milan: \"The derby will be a watershed\"",
+      "url": "https://www.milannews.it/news/lotta-scudetto-rampulla-vede-anche-il-milan-spartiacque-sara-il-derby-607625",
+      "source": "milannews.it",
+      "date": "2026-02-16T18:20:00+00:00",
+      "summary": "Michelangelo Rampulla, former goalkeeper who is now a sports commentator, spoke to TMW Radio in this way."
+    },
+    {
+      "id": "b45c57563f64",
+      "title": "Spalletti: \"It's sad that a good boy like Kalulu, after having suffered two colossal wrongs, has to take the piss out of Chivu\"",
+      "url": "https://www.milannews.it/news/spalletti-dispiace-che-un-bravo-ragazzo-come-kalulu-dopo-aver-subito-due-torti-colossali-debba-prendere-di-bischero-da-chivu-607640",
+      "source": "milannews.it",
+      "date": "2026-02-16T18:10:00+00:00",
+      "summary": "Luciano Spalletti spoke today for the first time since the defeat of Juventus on Saturday evening at San Siro against Inter 3-2."
+    },
+    {
+      "id": "5cf0d6d019cc",
+      "title": "Threats to La Penna, the AIA: \"What happened exceeded all limits\"",
+      "url": "https://www.milannews.it/news/minacce-a-la-penna-l-aia-quanto-accaduto-ha-superato-ogni-limite-607639",
+      "source": "milannews.it",
+      "date": "2026-02-16T18:00:42+00:00",
+      "summary": "(ANSA) - ROME, FEBRUARY 16 - \"What happened to Federico La Penna exceeded every limit of civility and sportsmanship."
+    },
+    {
+      "id": "372cdf331629",
+      "title": "Report: London calling – Chukwueze has Premier League suitors as Milan await €30m decision",
+      "url": "https://sempremilan.com/chukwueze-multiple-premier-league-suitors",
+      "source": "sempremilan.com",
+      "date": "2026-02-16T18:00:00+00:00",
+      "summary": "AC Milan could guarantee a sale in the summer with Samuel Chukwueze impressing during his current loan spell with Fulham. It never really clicked for Chukwueze in Milan. He arrived with the world seemingly ahead of him, an exciting dynamic winger who was coming off a fantastic season in Spain, ready"
+    },
+    {
+      "id": "661666dd9574",
+      "title": "Milan, now we need the real Pulisic: the American hasn't scored since December",
+      "url": "https://www.milannews.it/news/milan-adesso-serve-il-vero-pulisic-l-americano-non-segna-da-dicembre-607619",
+      "source": "milannews.it",
+      "date": "2026-02-16T17:50:00+00:00",
+      "summary": "After a recent period of difficulty and numerous physical stops, Christian Pulisic is ready to once again give his contribution to the Rossoneri attack."
+    },
+    {
+      "id": "c64ddbcecea7",
+      "title": "Borghi judges Fullkrug: \"Leaving aside the Pisa penalty, he must make his contribution more, that's why he arrived\"",
+      "url": "https://www.milannews.it/news/borghi-giudica-fullkrug-lasciando-perdere-il-rigore-di-pisa-deve-dare-piu-il-suo-contributo-e-arrivato-per-questo-607621",
+      "source": "milannews.it",
+      "date": "2026-02-16T17:40:00+00:00",
+      "summary": "Stefano Borghi, well-known journalist and sports commentator, spoke like this about Milan and Fullkrug during his latest video on Youtube."
+    },
     {
       "id": "cd23b3a8249f",
       "title": "Marotta against Saviano, Ravezzani: \"The Inter president's response is questionable, the phrase 'He talks too much' was unfortunate\"",
@@ -146,38 +218,6 @@
       "summary": "AC Milan are no strangers to a fantastic home support, but after a month away, they can know that they will be well backed at San Siro once again. The recent calendar has been pretty tough for Milan, and it will not get much easier. Indeed, they have faced three games away from home, with […]\nThe po"
     },
     {
-      "id": "335ad4c43925",
-      "title": "Youth sector: the results of the weekend",
-      "url": "https://www.milannews.it/settore-giovanile/settore-giovanile-i-risultati-del-weekend-607602",
-      "source": "milannews.it",
-      "date": "2026-02-16T15:30:16+00:00",
-      "summary": "AC Milan's official website reports the results of the weekend for the Rossoneri Youth Sector teams: \"Many smiles during the weekend for the Rossoneri Youth Sector, starting with the away victories of the two Primavera teams: the ..."
-    },
-    {
-      "id": "e394038d398f",
-      "title": "Assembly in the League, Cardinal also present. Here's what he talked about",
-      "url": "https://www.milannews.it/news/assemblea-in-lega-anche-cardinale-presente-ecco-di-cosa-ha-parlato-607613",
-      "source": "milannews.it",
-      "date": "2026-02-16T15:18:23+00:00",
-      "summary": "This morning the Lega Serie A Assembly took place at the Milan headquarters, a highly anticipated meeting given the recent events that occurred in the match in Milan between Inter and Juventus."
-    },
-    {
-      "id": "a86b117914be",
-      "title": "Cardinal in the League, Simonelli: \"We were very pleased to talk about what the developments and activities in the United States could be\"",
-      "url": "https://www.milannews.it/news/cardinale-in-lega-simonelli-ci-ha-fatto-molto-piacere-parlare-di-quelli-che-potrebbero-essere-gli-sviluppi-e-le-attivita-negli-stati-uniti-607611",
-      "source": "milannews.it",
-      "date": "2026-02-16T15:09:09+00:00",
-      "summary": "Ezio Simonelli, president of Lega Calcio Serie A, on the sidelines of today's meeting, declared in a press conference: \"Very calm meeting, we have taken a series of decisions, starting from the start of negotiations to acquire ..."
-    },
-    {
-      "id": "a72244ad87ae",
-      "title": "Milan, watch out for the Como trap. Fabregas charges the environment, the first leg defeat didn't go down well",
-      "url": "https://www.milannews.it/primo-piano/milan-occhio-alla-trappola-como-fabregas-carica-l-ambiente-non-e-andata-giu-la-sconfitta-dell-andata-607612",
-      "source": "milannews.it",
-      "date": "2026-02-16T15:00:00+00:00",
-      "summary": "Wednesday evening's match at San Siro against Como will be one of the toughest of the start of 2026 for Milan."
-    },
-    {
       "id": "e86bd0995318",
       "title": "Longo: Comotto showcasing development at Spezia – Milan’s two options for 2026-27",
       "url": "https://sempremilan.com/comotto-showcasing-development-spezia-milan-options",
@@ -186,36 +226,12 @@
       "summary": "AC Milan are pleased with how Christian Comotto’s loan spell at Spezia is going, but they face a decision to make during the summer. Comotto was part of the senior side during the preseason camp, and he had a couple of impressive outings. He did not stay around under Massimiliano Allegri though, ins"
     },
     {
-      "id": "28f26a907db2",
-      "title": "Totti: \"Return to Roma? We're talking about it and I went to dinner with Gasperini\"",
-      "url": "https://www.milannews.it/news/totti-ritorno-alla-roma-ne-stiamo-parlando-e-sono-andato-a-cena-con-gasperini-607606",
-      "source": "milannews.it",
-      "date": "2026-02-16T14:50:17+00:00",
-      "summary": "\"Return to Roma? We are talking about it, there are still some details to be ironed out but I confirm that we are thinking about it. Let's see what can be done."
-    },
-    {
       "id": "825c7f4cae9c",
       "title": "Inter vs. Juventus refereeing upset Milan too – report",
       "url": "https://football-italia.net/inter-vs-juventus-refereeing-upset-milan-too/",
       "source": "football-italia.net",
       "date": "2026-02-16T14:46:52+00:00",
       "summary": "Corriere dello Sport reports that the officiating in Inter-Juventus did not infuriate the Bianconeri only,..."
-    },
-    {
-      "id": "86816976d0fa",
-      "title": "Caressa: \"In my opinion the referees should explain the reasons for their decision. Enough\"",
-      "url": "https://www.milannews.it/news/caressa-secondo-me-gli-arbitri-dovrebbero-spiegare-la-motivazione-della-loro-decisione-basta-607558",
-      "source": "milannews.it",
-      "date": "2026-02-16T14:40:55+00:00",
-      "summary": "During the usual appointment with Sky Calcio Club, my colleague Fabrio Caressa spoke about the referees, not entirely agreeing with what has been happening for some time now with the competition program, DAZN, Open Var."
-    },
-    {
-      "id": "1366d19d63bc",
-      "title": "Bad news at Atalanta, Raspadori out for 3 weeks",
-      "url": "https://www.milannews.it/news/brutte-notizie-in-casa-atalanta-raspadori-out-3-settimane-607598",
-      "source": "milannews.it",
-      "date": "2026-02-16T14:30:29+00:00",
-      "summary": "As reported by Gazzetta dello Sport, for Giacomo Raspadori there had been talk in recent hours of muscle strain in the left flexor which however could be a low-grade strain."
     },
     {
       "id": "2199667f778a",
@@ -312,22 +328,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-16T09:50:00+00:00",
       "summary": "AC Milan are internally very discontent with the officiating during Saturday night’s game between Inter and Juventus, a report claims. After beating Pisa on Friday night, Milan were hoping for a favour from Juventus on Saturday, and they were very close to getting one but for Piotr Zielinski’s last-"
-    },
-    {
-      "id": "4e4727f426b3",
-      "title": "Moretto: Milan interested in Barcelona centre-back – ‘evaluation’ phase underway",
-      "url": "https://sempremilan.com/milan-interested-gerard-martin-barcelona-evaluation",
-      "source": "sempremilan.com",
-      "date": "2026-02-16T09:25:00+00:00",
-      "summary": "AC Milan’s interest in signing FC Barcelona defender Gerard Martin in the summer window has been confirmed by Matteo Moretto. Late last week, it emerged that Milan have a new name on their radar as they explore various options to reinforce the defence. Reports in Spain suggested that Martin is a con"
-    },
-    {
-      "id": "2bd61fa7e59a",
-      "title": "GdS: ‘Cardinale’s speech’ – why Milan’s owner was at Milanello again and what he said",
-      "url": "https://sempremilan.com/why-cardinale-present-milanello-what-said",
-      "source": "sempremilan.com",
-      "date": "2026-02-16T09:00:00+00:00",
-      "summary": "Gerry Cardinale as at Milanello on Sunday, marking the second time in less than one month that he has been present. As La Gazzetta dello Sport (seen below) write this morning, yesterday morning the founder of RedBird Capital – the fund that controls Milan – showed up at Milanello to meet the team. T"
     },
     {
       "id": "6aaeb7445ff7",
