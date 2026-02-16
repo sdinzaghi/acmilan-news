@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-02-16T19:31:17.755050+00:00",
+  "lastUpdated": "2026-02-16T20:29:15.220162+00:00",
   "articles": [
+    {
+      "id": "c874297e0338",
+      "title": "Mister Allegri's conference tomorrow: when and where to see it",
+      "url": "https://www.milannews.it/news/domani-la-conferenza-di-mister-allegri-quando-e-dove-vederla-607634",
+      "source": "milannews.it",
+      "date": "2026-02-16T20:20:58+00:00",
+      "summary": "Tomorrow will be the day before Milan-Como, the recovery of the 24th matchday of Serie A which will be played on Wednesday at 8.45pm at the San Siro stadium."
+    },
+    {
+      "id": "25f235f63dd9",
+      "title": "Scaroni: \"Without the match, the San Siro area is a desolate land. We will make it very green and visitable\"",
+      "url": "https://www.milannews.it/news/scaroni-senza-la-partita-zona-san-siro-e-una-landa-desolata-la-renderemo-molto-verde-e-visitabile-607650",
+      "source": "milannews.it",
+      "date": "2026-02-16T20:10:00+00:00",
+      "summary": "Paolo Scaroni, president of Milan, is present this evening at the Triennale di Milano, which is currently hosting Casa Italia on the occasion of the Milan-Cortina 2026 Winter Olympic Games."
+    },
+    {
+      "id": "ce109c84d368",
+      "title": "Vinicius: \"Modric is the best in the world. I really miss him because he always taught me something\"",
+      "url": "https://www.milannews.it/news/vinicius-modric-e-il-migliore-al-mondo-mi-manca-davvero-perche-mi-insegnava-sempre-qualcosa-607636",
+      "source": "milannews.it",
+      "date": "2026-02-16T20:00:17+00:00",
+      "summary": "Vinicius Junior, Real Madrid and Brazil winger, in his speech on Ibai Llanos' Twitch channel also spoke about his former teammate Luka Modric, now at Milan. His statements:\n\n“Luka Modric is crazy."
+    },
+    {
+      "id": "6359947e85d2",
+      "title": "Pellegatti: \"Elliot has just left, Cardinale twice at Milanello. Now he feels like the owner of Milan\"",
+      "url": "https://www.milannews.it/news/pellegatti-appena-uscito-elliot-cardinale-due-volte-a-milanello-ora-si-sente-proprietario-del-milan-607600",
+      "source": "milannews.it",
+      "date": "2026-02-16T19:50:38+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti spoke about Gerry Cardinale's presence at Milanello, after the one on January 21st."
+    },
+    {
+      "id": "8a3a62fdc4bd",
+      "title": "Scaroni very sure: \"We will build the most beautiful stadium in Europe\"",
+      "url": "https://www.milannews.it/news/scaroni-sicurissimo-costruiremo-lo-stadio-piu-bello-d-europa-607648",
+      "source": "milannews.it",
+      "date": "2026-02-16T19:40:25+00:00",
+      "summary": "Paolo Scaroni, president of Milan, is present this evening at the Triennale di Milano, which is currently hosting Casa Italia on the occasion of the Milan-Cortina 2026 Winter Olympic Games."
+    },
+    {
+      "id": "7ec1167c1e44",
+      "title": "MN - Marotta: \"Relationship with Milan is excellent. New stadium is a necessity: I really hope that Milan will be represented at Euro 2032\"",
+      "url": "https://www.milannews.it/news/mn-marotta-rapporto-col-milan-ottimo-stadio-nuovo-una-esigenza-spero-tanto-che-milano-sara-rappresentata-a-euro-2032-607649",
+      "source": "milannews.it",
+      "date": "2026-02-16T19:30:09+00:00",
+      "summary": "Beppe Marotta, President and CEO of Inter, spoke alongside Paolo Scaroni, president of Milan, from the stage of the Your Next Milano 2026 event."
+    },
     {
       "id": "81545d5c05a2",
       "title": "Milan-Como without Rabiot: the Frenchman had been missing for four months",
@@ -26,9 +74,9 @@
       "summary": "When AC Milan face Como on Wednesday night, there will be a few questions that need answering, and Massimiliano Allegri is currently left making decisions. Considering the number of issues that Allegri has had to contend with this season, and the season that came before this, Milan sitting in second"
     },
     {
-      "id": "8cbdb49bd14e",
-      "title": "Scaroni: \"I have been president of Milan for eight years, sometimes I forget it. Of course, I have to take football lessons from Marotta every day eh...\"",
-      "url": "https://www.milannews.it/news/scaroni-da-otto-anni-sono-presidente-del-milan-ogni-tanto-me-lo-dimentico-certo-devo-prendere-lezioni-di-calcio-da-marotta-tutti-i-giorni-eh-607645",
+      "id": "dac2eeb389f2",
+      "title": "MN - Scaroni: \"I have been president of Milan for eight years, every now and then I forget it. Of course, I have to take football lessons from Marotta every day eh...\"",
+      "url": "https://www.milannews.it/news/mn-scaroni-da-otto-anni-sono-presidente-del-milan-ogni-tanto-me-lo-dimentico-certo-devo-prendere-lezioni-di-calcio-da-marotta-tutti-i-giorni-eh-607645",
       "source": "milannews.it",
       "date": "2026-02-16T19:00:00+00:00",
       "summary": "Paolo Scaroni, president of Milan, is present this evening at the Triennale di Milano, which is currently hosting Casa Italia on the occasion of the Milan-Cortina 2026 Winter Olympic Games."
@@ -115,7 +163,7 @@
     },
     {
       "id": "c64ddbcecea7",
-      "title": "Borghi judges Fullkrug: \"Leaving aside the Pisa penalty, he must make his contribution more, that's why he arrived\"",
+      "title": "Borghi judges Fullkrug: \"Leaving aside the Pisa penalty, he must make more of his contribution, that's why he arrived\"",
       "url": "https://www.milannews.it/news/borghi-giudica-fullkrug-lasciando-perdere-il-rigore-di-pisa-deve-dare-piu-il-suo-contributo-e-arrivato-per-questo-607621",
       "source": "milannews.it",
       "date": "2026-02-16T17:40:00+00:00",
@@ -146,22 +194,6 @@
       "summary": "Yesterday Federica Brignone rewrote the books of the history of Italian sport: on the Olympia delle Tofane in Cortina d'Ampezzo, the skier born in 1990 won her second gold in this edition of the Games..."
     },
     {
-      "id": "3adb27451501",
-      "title": "MN - Sala: \"There are videos of Chiellini and Del Piero who have done incredible simulations. Now they are censors\"",
-      "url": "https://www.milannews.it/news/mn-sala-in-giro-filmati-di-chiellini-e-del-piero-che-hanno-fatto-simulazioni-incredibili-ora-fanno-i-censori-607631",
-      "source": "milannews.it",
-      "date": "2026-02-16T17:10:00+00:00",
-      "summary": "Giuseppe Sala, mayor of the city of Milan, has recently arrived at the Triennale di Milano, which is currently hosting Casa Italia on the occasion of the Milan-Cortina 2026 Winter Olympic Games."
-    },
-    {
-      "id": "0ebd28b476f1",
-      "title": "When does Milan score in Serie A? 60% of the goals in the second half, the Rossoneri deadly at the start of the second half",
-      "url": "https://www.milannews.it/primo-piano/quando-segna-il-milan-in-serie-a-il-60-dei-gol-nei-secondi-tempi-rossoneri-micidiali-ad-inizio-ripresa-607601",
-      "source": "milannews.it",
-      "date": "2026-02-16T17:00:43+00:00",
-      "summary": "With the victory at Pisa, Milan rose to 53 points in the standings, equaling their second best performance after the first 24 games of the season in Serie A in the era of three points for a win, as in 1995/96 (53) and behind ..."
-    },
-    {
       "id": "db00bbe4318b",
       "title": "GdS: Why the Maignan handshake was ‘particularly significant’ during Cardinale’s visit",
       "url": "https://sempremilan.com/why-maignan-handshake-significant-cardinale",
@@ -170,44 +202,12 @@
       "summary": "During Gerry Cardinale’s visit, he took the time to specifically greet Mike Maignan, who has recently renewed his deal with AC Milan, but why was this significant? It is big enough in itself that Cardinale was at Milanello twice in the space of under a month. However, his visits have held different "
     },
     {
-      "id": "dd49db831882",
-      "title": "MN - Scaroni: \"Var? I don't talk about these things. Cardinal welcomed very well in the League\"",
-      "url": "https://www.milannews.it/news/mn-scaroni-var-di-queste-cose-non-parlo-cardinale-accolto-molto-bene-in-lega-607629",
-      "source": "milannews.it",
-      "date": "2026-02-16T16:55:00+00:00",
-      "summary": "Paolo Scaroni, president of Milan, has just arrived at the Triennale di Milano, which is currently hosting Casa Italia on the occasion of the Milan-Cortina 2026 Winter Olympic Games."
-    },
-    {
-      "id": "826eb4db4573",
-      "title": "Inter, Marotta: \"Bastoni made a mistake but he must go to the national team\"",
-      "url": "https://www.milannews.it/l-avversario/inter-marotta-bastoni-ha-sbagliato-ma-deve-andare-in-nazionale-607614",
-      "source": "milannews.it",
-      "date": "2026-02-16T16:40:00+00:00",
-      "summary": "(ANSA) - MILAN, FEBRUARY 16 - \"Our position is very simple, I am here because we have noticed that there has been a truly exaggerated media stance regarding what happened."
-    },
-    {
-      "id": "3699f52b786c",
-      "title": "Napoli, Conte: \"We have 13 games to understand which European competition we will play in\"",
-      "url": "https://www.milannews.it/news/napoli-conte-abbiamo-13-partite-per-per-capire-in-quale-competizione-europea-giocheremo-607562",
-      "source": "milannews.it",
-      "date": "2026-02-16T16:30:46+00:00",
-      "summary": "(ANSA) - NAPLES, FEBRUARY 15 - \"I thank the fans who recognized what we are doing this season, honoring the shirt, trying to fight for Naples."
-    },
-    {
       "id": "afa5c0223baa",
       "title": "Costacurta mentions Maldini in criticism of Bastoni’s actions during Inter-Juventus",
       "url": "https://sempremilan.com/costacurta-mentions-maldini-criticism-bastoni",
       "source": "sempremilan.com",
       "date": "2026-02-16T16:30:00+00:00",
       "summary": "Billy Costacurta had held Alessandro Bastoni in a high regard before this weekend, but it seems the Inter defender has let the AC Milan legend down… This weekend’s game between Inter and Juventus has certainly brought up a bit of controversy with many seeing former Milan defender Pierre Kalulu’s red"
-    },
-    {
-      "id": "74b03e4fa1e3",
-      "title": "Rome, fractures ruled out for Wesley: \"Fortunately nothing serious\"",
-      "url": "https://www.milannews.it/news/roma-escluse-fratture-per-wesley-per-fortuna-nulla-di-grave-607610",
-      "source": "milannews.it",
-      "date": "2026-02-16T16:20:48+00:00",
-      "summary": "(ANSA) - ROME, FEBRUARY 16 - Danger averted for Wesley."
     },
     {
       "id": "a230b14f0582",
