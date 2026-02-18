@@ -1,13 +1,77 @@
 {
-  "lastUpdated": "2026-02-18T05:59:47.499543+00:00",
+  "lastUpdated": "2026-02-18T07:13:25.815663+00:00",
   "articles": [
+    {
+      "id": "e01f7704aa4b",
+      "title": "La Gazzetta opening: \"Milan chase. The Scudetto dream is on the line\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-apertura-rincorsa-milan-si-gioca-il-sogno-scudetto-607793",
+      "source": "milannews.it",
+      "date": "2026-02-18T07:10:00+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page: \"Milan chase. The dream of the Scudetto is being played out\"."
+    },
+    {
+      "id": "dd9e670cb473",
+      "title": "Milan, Ricci is in place of Rabiot. Big chance for Jashari",
+      "url": "https://www.milannews.it/primo-piano/milan-c-e-ricci-al-posto-di-rabiot-grande-chance-per-jashari-607789",
+      "source": "milannews.it",
+      "date": "2026-02-18T07:00:30+00:00",
+      "summary": "Compared to the last match at Pisa's home, there will be some changes in the starting line-up of Milan who will face Como this evening in the recovery of the 24th matchday."
+    },
+    {
+      "id": "614789d4e17f",
+      "title": "Fabregas' squad for Milan-Como: the great ex is absent",
+      "url": "https://www.milannews.it/l-avversario/i-convocati-di-fabregas-per-milan-como-assente-il-grande-ex-607778",
+      "source": "milannews.it",
+      "date": "2026-02-18T06:50:00+00:00",
+      "summary": "Below are the Como squad for the match scheduled for tomorrow evening at San Siro against Massimiliano Allegri's AC Milan, valid for the second half of the 24th matchday of Serie A Enlive: \n\n1 BUTEZ Jean\n2 KEMPF Marc\n3 VALLEY Alex\r ..."
+    },
+    {
+      "id": "fe84e84ed366",
+      "title": "Reread Allegri's statements in the conference on the eve of Milan-Como",
+      "url": "https://www.milannews.it/news/rileggi-le-dichiarazioni-di-allegri-in-conferenza-alla-vigilia-di-milan-como-607781",
+      "source": "milannews.it",
+      "date": "2026-02-18T06:40:10+00:00",
+      "summary": "In view of the next championship match, Wednesday at San Siro against Como, Milan coach Massimiliano Allegri spoke like this at the press conference."
+    },
+    {
+      "id": "28ff4e32af42",
+      "title": "Fabregas' words in the conference on the eve of Milan-Como",
+      "url": "https://www.milannews.it/l-avversario/le-parole-di-fabregas-in-conferenza-alla-vigilia-di-milan-como-607777",
+      "source": "milannews.it",
+      "date": "2026-02-18T06:30:53+00:00",
+      "summary": "On the eve of Milan-Como, a match valid for the recovery of the 24th matchday of Serie A Enilive, the Lariani coach Cesc Fabregas spoke at the press conference to present tomorrow's important match against the team of ..."
+    },
+    {
+      "id": "413563c10c7f",
+      "title": "Milan-Como: the referee's appointment for the second half of matchday 24",
+      "url": "https://www.milannews.it/news/milan-como-la-designazione-arbitrale-per-il-recupero-della-24-giornata-607776",
+      "source": "milannews.it",
+      "date": "2026-02-18T06:20:00+00:00",
+      "summary": "The referee for Milan-Como has been appointed, the second half of the 24th matchday of Serie A which will be played on Wednesday at 8.45pm at San Siro: Maurizio Mariani will referee the match, while Gariglio and Maresca will be in charge of VAR."
+    },
+    {
+      "id": "58e85310fba1",
+      "title": "Serie A, the updated ranking: Milan with the asterisk",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-milan-con-l-asterisco-607775",
+      "source": "milannews.it",
+      "date": "2026-02-18T06:10:27+00:00",
+      "summary": "Below is the Serie A ranking updated after the results of the 25th matchday pending this evening's recovery between Milan and Como, valid for the 24th matchday: \n\nInter 61\nMilan 53*\nNaples 50\nRome 47\nJuventus 46\nAtala ..."
+    },
+    {
+      "id": "efaa00b7924c",
+      "title": "Today Milan returns to the field: the probable Rossoneri team",
+      "url": "https://www.milannews.it/news/oggi-torna-in-campo-il-milan-la-probabile-formazione-rossonera-607774",
+      "source": "milannews.it",
+      "date": "2026-02-18T06:00:00+00:00",
+      "summary": "For today's match against Como Massimiliano Allegri will make some changes compared to Friday, also due to Adrien Rabiot's absence due to suspension."
+    },
     {
       "id": "ca02cb450db6",
       "title": "Pellegatti returns to Muntari: \"I don't agree with Max, if we beat Juve we would have won\"",
       "url": "https://www.milannews.it/news/pellegatti-ritorna-su-muntari-non-sono-d-accordo-con-max-battendo-la-juve-avremmo-vinto-noi-607773",
       "source": "milannews.it",
       "date": "2026-02-17T23:50:25+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti commented on Max Allegri's words released in the Milan-Como pre-match press conference on Muntari's goal from way back in 2012."
+      "summary": "In his YouTube channel, Carlo Pellegatti commented on Max Allegri's words released in the pre-match press conference of Milan-Como on Muntari's goal from way back in 2012."
     },
     {
       "id": "746888feab6a",
@@ -79,7 +143,7 @@
       "url": "https://www.milannews.it/news/champions-league-andata-play-off-tutti-i-risultati-della-serata-607768",
       "source": "milannews.it",
       "date": "2026-02-17T22:20:02+00:00",
-      "summary": "Once the first leg of the Champions League play-offs ended on Tuesday, the results of the evening are reported below."
+      "summary": "After the first leg of the Champions League play-offs ended on Tuesday, the results of the evening are reported below."
     },
     {
       "id": "e92719ab2eb1",
@@ -96,70 +160,6 @@
       "source": "milannews.it",
       "date": "2026-02-17T22:00:41+00:00",
       "summary": "(ANSA) - MILAN, FEBRUARY 17 - Cesc Fabregas is not making any dramas after the home defeat by Fiorentina and is already focused on tomorrow's match, against Massimiliano Allegri's Milan, a difficult match against a club that has ..."
-    },
-    {
-      "id": "c03f65e43164",
-      "title": "MN - Cuomo: \"Simulations? Footballers must not do like Parisi, Bastoni. They must not be complicit in mistakes\"",
-      "url": "https://www.milannews.it/news/mn-cuomo-simulazioni-i-calciatori-non-devono-fare-come-parisi-bastoni-non-devono-essere-complici-di-errori-607758",
-      "source": "milannews.it",
-      "date": "2026-02-17T21:50:50+00:00",
-      "summary": "Michael Cuomo of TeleLombardia spoke exclusively to the microphones of the MilanNews YouTube channel."
-    },
-    {
-      "id": "ee32333334b0",
-      "title": "Towards Milan-Como, Allegri: \"We will have to play an orderly match, with them you risk making a bad impression\"",
-      "url": "https://www.milannews.it/news/verso-milan-como-allegri-dovremo-giocare-una-partita-ordinata-con-loro-rischi-di-fare-brutta-figura-607728",
-      "source": "milannews.it",
-      "date": "2026-02-17T21:40:00+00:00",
-      "summary": "In view of the next championship match, Wednesday at San Siro against Como, Milan coach Massimiliano Allegri spoke like this in the press conference\n\nBelow is an excerpt of Massimiliano Alle's words..."
-    },
-    {
-      "id": "687ab36e8793",
-      "title": "Modric decisive in Pisa. What if he scored in two consecutive matches? It hasn't happened to him for six years",
-      "url": "https://www.milannews.it/news/modric-decisivo-a-pisa-e-se-segnasse-in-due-match-consecutivi-non-gli-succede-da-sei-anni-607680",
-      "source": "milannews.it",
-      "date": "2026-02-17T21:30:13+00:00",
-      "summary": "After the goal against Pisa in the most recent match, Luka Modric could score in two appearances in a row for only the third time in his career in the top five European leagues, after January 2019 and December 2020 (in both cases with ..."
-    },
-    {
-      "id": "8433befd5dd8",
-      "title": "Only Roma have gained fewer points than Como against the top 7 in the table. And it is the one that has scored the fewest goals",
-      "url": "https://www.milannews.it/news/solo-la-roma-ha-guadagnato-meno-punti-del-como-contro-le-prime-7-della-classifica-ed-e-quella-che-ha-segnato-meno-gol-607683",
-      "source": "milannews.it",
-      "date": "2026-02-17T21:22:31+00:00",
-      "summary": "Considering the direct clashes between the top seven teams currently in the Serie A standings, only Roma (five) have gained fewer points than Como (six in seven matches); the Larians are also the club to have scored the fewest goals (four) in these ..."
-    },
-    {
-      "id": "1fbcaf5f3d9c",
-      "title": "Former referee Tagliavento: \"This time it was Bastoni, Inter, other times the other teams. It's a cunning behavior that all clubs use\"",
-      "url": "https://www.milannews.it/news/l-ex-arbitro-tagliavento-questa-volta-e-stato-bastoni-l-inter-altre-volte-le-altre-squadre-e-un-comportamento-furbesco-che-utilizzano-tutte-le-societa-607693",
-      "source": "milannews.it",
-      "date": "2026-02-17T21:11:42+00:00",
-      "summary": "Paolo Tagliavento, former referee, expressed himself to MilanVibes on the latest refereeing episodes."
-    },
-    {
-      "id": "3413fa96845f",
-      "title": "Milan, Allegri's assessment in March: \"The points we have today are the ones we deserve, in a month we will be able to have another discussion..\"",
-      "url": "https://www.milannews.it/news/milan-il-bilancio-di-allegri-a-marzo-i-punti-che-abbiamo-oggi-sono-quelli-che-meritiamo-tra-un-mese-potremo-fare-un-altro-discorso-607727",
-      "source": "milannews.it",
-      "date": "2026-02-17T21:00:00+00:00",
-      "summary": "In view of the next championship match, Wednesday at San Siro against Como, Milan coach Massimiliano Allegri spoke like this at the press conference."
-    },
-    {
-      "id": "b5b5da09ed53",
-      "title": "MN - Does Cuomo still believe in the championship? \"Tomorrow is an important crossroads, but I believe in the tricolor as much as before\"",
-      "url": "https://www.milannews.it/news/mn-cuomo-crede-ancora-nello-scudetto-domani-crocevia-importante-ma-al-tricolore-ci-credo-tanto-quanto-prima-607757",
-      "source": "milannews.it",
-      "date": "2026-02-17T20:50:32+00:00",
-      "summary": "Michael Cuomo of TeleLombardia spoke exclusively to the microphones of the MilanNews YouTube channel."
-    },
-    {
-      "id": "108dedf8e28e",
-      "title": "Milan are unbeaten in 14 consecutive matches against Como in Serie A",
-      "url": "https://www.milannews.it/news/il-milan-e-imbattuto-da-14-sfide-consecutive-contro-il-como-in-serie-a-607675",
-      "source": "milannews.it",
-      "date": "2026-02-17T20:40:27+00:00",
-      "summary": "Milan are unbeaten in 14 consecutive matches against Como in Serie A (W9, D5), winning all of their last five matches against the Como side with an aggregate score of 11-4. Opta reports it."
     },
     {
       "id": "2be7c9561fb8",
