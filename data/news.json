@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-02-19T07:06:52.230371+00:00",
+  "lastUpdated": "2026-02-19T08:41:45.473572+00:00",
   "articles": [
+    {
+      "id": "19ebd4ddd575",
+      "title": "Milan-Como and Allegri's match. La Gazzetta: \"Red and fury\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-como-e-la-partita-di-allegri-la-gazzetta-rosso-e-furia-607948",
+      "source": "milannews.it",
+      "date": "2026-02-19T08:30:00+00:00",
+      "summary": "Only 1-1 for Milan against Como, a bitter draw given that Inter is now +7 on the Rossoneri."
+    },
+    {
+      "id": "0f53bda44a54",
+      "title": "CorSport's slow motion on Milan-Como: \"Mariani, sensational mistake: Saele as second yellow card\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-moviola-del-corsport-su-milan-como-mariani-errore-clamoroso-saele-da-secondo-giallo-607937",
+      "source": "milannews.it",
+      "date": "2026-02-19T08:20:00+00:00",
+      "summary": "Milan did not go beyond a 1-1 draw at home against Como, thus wasting the opportunity to get back to -5 behind Inter. Complicated evening for Maurizio Mariani, race director."
+    },
+    {
+      "id": "f38fc1207ded",
+      "title": "Milan, equally bitter. La Gazzetta: \"Leao is not enough. Scudetto slowed down\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-pari-amaro-la-gazzetta-leao-non-basta-frenata-scudetto-607946",
+      "source": "milannews.it",
+      "date": "2026-02-19T08:10:00+00:00",
+      "summary": "Bittersweet draw for Milan, which at San Siro did not go beyond a 1-1 draw against Como and was unable to close the gap with Inter."
+    },
+    {
+      "id": "f20e67e15477",
+      "title": "Milan, draws and sparks. CorSport: \"Maignan favors Como, the Portuguese's magical equal\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-pari-e-scintille-il-corsport-maignan-favorisce-il-como-pari-magico-del-portoghese-607936",
+      "source": "milannews.it",
+      "date": "2026-02-19T08:00:00+00:00",
+      "summary": "Only 1-1 for Milan at home against Como. Today's edition of Corriere dello Sport offers an extensive analysis in this regard: \"Mike plays Paz, Leao takes care of it\"."
+    },
+    {
+      "id": "19dd13f9bc9b",
+      "title": "Gabbia: \"Unhappy with the result. Leao? It's fundamental for us\"",
+      "url": "https://www.milannews.it/news/gabbia-infelici-per-il-risultato-leao-per-noi-e-fondamentale-607958",
+      "source": "milannews.it",
+      "date": "2026-02-19T07:50:00+00:00",
+      "summary": "Matteo Gabbia, captain of Milan, spoke to SportMediaset after the 1-1 draw against Cesc Fabregas' Como."
+    },
+    {
+      "id": "31d5467aaef9",
+      "title": "The opening QS: \"Lightning from Paz, Leao responds. Milan-Como ends 1-1\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-qs-in-apertura-lampo-di-paz-risponde-leao-milan-como-finisce-1-1-607935",
+      "source": "milannews.it",
+      "date": "2026-02-19T07:40:00+00:00",
+      "summary": "Nothing to be done for Milan, who against Como - at San Siro - did not go beyond a 1-1 draw and saw Inter's lead at the top of the Serie A standings extend."
+    },
+    {
+      "id": "93837e29704e",
+      "title": "Milan, it's 1-1 against Como. The CorSport. \"Mike plays Paz, Leao takes care of it\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-e-1-1-contro-il-como-il-corsport-mike-fa-il-paz-rimedia-leao-607934",
+      "source": "milannews.it",
+      "date": "2026-02-19T07:30:00+00:00",
+      "summary": "AC Milan are holding back at the top of the table. In the home match against Como played at San Siro, the Rossoneri did not go beyond a 1-1 draw and saw Inter's lead at the top of the table increase."
+    },
+    {
+      "id": "57e764067b48",
+      "title": "Tuttosport on the front page on the draw with Como. \"Duck Maignan, Leao saves Milan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-in-prima-pagina-sul-pari-col-como-papera-maignan-leao-salva-il-milan-607933",
+      "source": "milannews.it",
+      "date": "2026-02-19T07:20:00+00:00",
+      "summary": "Bittersweet evening for Milan. In fact, the Rossoneri have not gone beyond the 1-1 draw at home against Como and are slowing down at the top of the table."
+    },
+    {
+      "id": "c99cc78bb607",
+      "title": "La Gazzetta on the front page: \"Milan braking\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-prima-pagina-frenata-milan-607932",
+      "source": "milannews.it",
+      "date": "2026-02-19T07:10:00+00:00",
+      "summary": "Milan does not go beyond the 1-1 draw at San Siro against Como and is slowing down in the top parts of the table. Today's edition of the Gazzetta dello Sport talks about it at the beginning of the newspaper, in a side cut."
+    },
     {
       "id": "9bb1e95153f3",
       "title": "Allegri-Fabregas dispute: story of a post-match situation at the limit. What happened, what they said to each other and why",
@@ -90,30 +162,6 @@
       "summary": "After the Milan-Como match, a match that ended in a draw, Paolo Condò spoke in the Sky Sport studios saying \"Fabregas and Allegri are made not to like each other\", referring to what happened in ..."
     },
     {
-      "id": "141036c77e65",
-      "title": "LIVE MN - Fabregas: \"Allegri's comment exaggerated. Very clear red to Saelemaekers, we did everything better than Milan\"",
-      "url": "https://www.milannews.it/news/live-mn-fabregas-commento-di-allegri-esagerato-rosso-a-saelemaekers-chiarissimo-noi-abbiamo-fatto-tutto-meglio-del-milan-607856",
-      "source": "milannews.it",
-      "date": "2026-02-18T23:18:18+00:00",
-      "summary": "Cesc Fabregas, coach of Como, is present in the press conference at the end of Milan-Como, recovery of the 24th matchday of Serie A. Follow his statements live with the live text on MilanNews."
-    },
-    {
-      "id": "b2060457fb0b",
-      "title": "LIVE MN - Allegri argues with Fabregas, then the conference: \"We need to be respectful! We played a good match\"",
-      "url": "https://www.milannews.it/news/live-mn-allegri-litiga-con-fabregas-poi-la-conferenza-bisogna-essere-rispettosi-noi-abbiamo-fatto-una-buona-partita-607855",
-      "source": "milannews.it",
-      "date": "2026-02-18T23:15:01+00:00",
-      "summary": "Massimiliano Allegri, Milan coach, is present in the press conference at the end of Milan-Como, recovery of the 24th matchday of Serie A. Follow his statements live with the live text on MilanNews."
-    },
-    {
-      "id": "2c794fbb8d74",
-      "title": "Fabregas holds Saelemaekers back. Allegri is sent off. Curtain",
-      "url": "https://www.milannews.it/news/fabregas-trattiene-saelemaekers-viene-espulso-allegri-sipario-607919",
-      "source": "milannews.it",
-      "date": "2026-02-18T23:10:45+00:00",
-      "summary": "Fabregas, Como's coach, kept Saelemaekers from the edge of his technical area in the second half of the match at San Siro, to prevent the Belgian from returning to defense after a lost ball."
-    },
-    {
       "id": "f24c9ac03bd7",
       "title": "Allegri and Fabregas bad blood after Como coach ‘unsporting behaviour’",
       "url": "https://football-italia.net/allegri-fabregas-bad-blood-como-unsporting/",
@@ -130,36 +178,12 @@
       "summary": "Matteo Gabbia has insisted that AC Milan are only focused on themselves, but admitted the two points dropped against Como stings. Milan’s faint Scudetto hopes might have finally faded as they were held to a 1-1 draw by Como at San Siro on Wednesday night. Nico Paz profited from Mike Maignan’s stray "
     },
     {
-      "id": "5a66117a2c7f",
-      "title": "Forgive Maignan, discover Jashari. Mariani whistles again. Scaroni: he hasn't been president for 8 years",
-      "url": "https://www.milannews.it/editoriale/perdonate-maignan-scoprite-jashari-mariani-fischia-ancora-contro-scaroni-da-8-anni-non-fa-il-presidente-607917",
-      "source": "milannews.it",
-      "date": "2026-02-18T23:00:01+00:00",
-      "summary": "It can happen. It could also happen to the giant of the season, Mike Maignan, to take some time off and deliver the only clean goal of the evening to Como."
-    },
-    {
       "id": "60f4f709567f",
       "title": "Leao and Jashari believe Milan ‘played better’ than in victory over Como",
       "url": "https://football-italia.net/leao-jashari-believe-milan-played-better-como/",
       "source": "football-italia.net",
       "date": "2026-02-18T22:53:55+00:00",
       "summary": "Rafael Leao and Ardon Jashari argue Milan ‘played better’ in their 1-1 draw than they..."
-    },
-    {
-      "id": "23c34c07825b",
-      "title": "Cage to TL: \"I have to think about two points lost. Ranking? Honestly, we're just looking at ourselves\"",
-      "url": "https://www.milannews.it/news/gabbia-a-tl-obbligo-di-pensare-a-due-punti-persi-classifica-onestamente-guardiamo-solo-a-noi-607921",
-      "source": "milannews.it",
-      "date": "2026-02-18T22:48:25+00:00",
-      "summary": "At the end of the 1-1 drawn match between Milan and Como, the Rossoneri centre-back Matteo Gabbia intervened from the heart of San Siro and spoke to the microphones of his colleagues from TeleLombardia. His statements on the race."
-    },
-    {
-      "id": "12648782343e",
-      "title": "Allegri to Sky: \"I look at the +8 from fifth, we have to take it one step at a time. With Fabregas? Stuff finished on the pitch\"",
-      "url": "https://www.milannews.it/news/allegri-a-sky-guardo-il-8-dalla-quinta-bisogna-fare-un-passettino-alla-volta-con-fabregas-roba-finita-in-campo-607920",
-      "source": "milannews.it",
-      "date": "2026-02-18T22:47:28+00:00",
-      "summary": "After the Milan-Como match, Massimiliano Allegri spoke to Sky Sport to comment on the match at San Siro. Below are his statements."
     },
     {
       "id": "2ec206e3513f",
@@ -178,14 +202,6 @@
       "summary": "Massimiliano Allegri has hit out at how Cesc Fabregas acted before his red card, and assessed AC Milan’s draw with Como. There has been a bit of needle between Milan and Como since the former won 3-1 at the Stadio Sinigaglia back in January 15, in a game where Cesc Fabregas was keen to point […]\nThe"
     },
     {
-      "id": "36140ad3a0f8",
-      "title": "MN - Big words fly between Allegri and Fabregas in the conference: what happened",
-      "url": "https://www.milannews.it/news/mn-volano-parole-grosse-tra-allegri-e-fabregas-in-conferenza-cosa-e-successo-607918",
-      "source": "milannews.it",
-      "date": "2026-02-18T22:37:49+00:00",
-      "summary": "Very heated discussion between Massimiliano Allegri and Cesc Fabregas before entering the press room after Milan-Como: while the Spanish coach was leaving the San Siro conference room, he crossed paths with the coach ..."
-    },
-    {
       "id": "0886a97f78fb",
       "title": "Allegri: ‘A valuable Milan point, Fabregas fouled Saelemaekers’",
       "url": "https://football-italia.net/allegri-valuable-milan-point-fabregas-fouled/",
@@ -200,22 +216,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-18T22:33:47+00:00",
       "summary": "Davide Bartesaghi spoke to the media after AC Milan’s 1-1 draw against Como and insisted that it is a very important point for the Rossoneri.  Milan headed into the game eight points behind their city rivals Inter in the standings, thus in need of three points to keep the Scudetto race alive (more o"
-    },
-    {
-      "id": "f4eb02a65add",
-      "title": "Allegri on Milan TV: \"We can't win them all. Everything can change in a week\"",
-      "url": "https://www.milannews.it/news/allegri-a-milan-tv-non-possiamo-vincerle-tutte-tutto-in-una-settimana-puo-cambiare-607916",
-      "source": "milannews.it",
-      "date": "2026-02-18T22:30:36+00:00",
-      "summary": "Massimiliano Allegri, Rossoneri coach, spoke to the microphones of Milan TV at the end of the match between Milan and Como which ended 1-1 at San Siro. The statements of the Livorno coach."
-    },
-    {
-      "id": "607709a6e870",
-      "title": "Allegri: \"It always takes a lot of calm. Fabregas? Next time I'll slide too...\"",
-      "url": "https://www.milannews.it/primo-piano/allegri-ci-vuole-sempre-molta-calma-fabregas-la-prossima-volta-entro-anche-io-in-scivolata-607915",
-      "source": "milannews.it",
-      "date": "2026-02-18T22:24:12+00:00",
-      "summary": "Mister Massimiliano Allegri spoke to DAZN at the end of Milan-Como 1-1. His words:\n\nIs it still long for the ranking?\n\n“It always takes a lot of calm."
     },
     {
       "id": "5231fcaf81d5",
