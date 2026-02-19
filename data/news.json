@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-02-19T14:44:54.175400+00:00",
+  "lastUpdated": "2026-02-19T15:46:49.583984+00:00",
   "articles": [
+    {
+      "id": "c70e446d691d",
+      "title": "Finance in the Municipality of Trieste for access to documents on Triestina",
+      "url": "https://www.milannews.it/news/la-finanza-in-comune-a-trieste-per-accesso-agli-atti-sulla-triestina-607965",
+      "source": "milannews.it",
+      "date": "2026-02-19T15:41:35+00:00",
+      "summary": "(ANSA) - TRIESTE, FEBRUARY 18 - The Guardia di Finanza of Trieste today accessed documents in the city hall as part of the ongoing investigation into the Triestina football club."
+    },
+    {
+      "id": "88f321aefd9b",
+      "title": "Milan team news: Boost as Pavlovic tests reveal no fracture",
+      "url": "https://football-italia.net/milan-team-news-boost-as-pavlovic-tests/",
+      "source": "football-italia.net",
+      "date": "2026-02-19T15:39:58+00:00",
+      "summary": "Milan will breathe a sigh of relief this morning, after medical examinations revealed that Strahinja..."
+    },
+    {
+      "id": "1a6427525ae0",
+      "title": "Napoli, Hojlund: \"Removing Milan from the Scudetto is a mistake. But Inter is far ahead\"",
+      "url": "https://www.milannews.it/news/napoli-hojlund-togliere-il-milan-dallo-scudetto-e-un-errore-ma-l-inter-e-molto-avanti-608002",
+      "source": "milannews.it",
+      "date": "2026-02-19T15:30:27+00:00",
+      "summary": "Rasmus Hojlund, Napoli striker, spoke to Il Mattino like this about a week that will lead him to face his former Atalanta on Sunday afternoon: \"Atalanta has remained in my heart ..."
+    },
+    {
+      "id": "27873a4bfc49",
+      "title": "‘Its not about sprints, it’s a marathon’ – Milan players react after disappointing Como draw",
+      "url": "https://sempremilan.com/players-react-milan-1-1-como",
+      "source": "sempremilan.com",
+      "date": "2026-02-19T15:30:00+00:00",
+      "summary": "AC Milan were forced to settle for a draw against Como on Wednesday night, and some of the team have posted messages about the result.  It is a game where Milan can look back with some allowance. After all, they keep their unbeaten run whilst being far from their best, while their Head-To-Head recor"
+    },
+    {
+      "id": "f241be15b522",
+      "title": "You can't go wrong with the big teams: Milan is the team that has scored the most points against the big teams (without ever losing)",
+      "url": "https://www.milannews.it/news/con-le-grandi-non-si-sbaglia-il-milan-e-la-squadra-che-ha-fatto-piu-punti-contro-le-big-senza-mai-perdere-607983",
+      "source": "milannews.it",
+      "date": "2026-02-19T15:20:29+00:00",
+      "summary": "Milan is the team that has gained the most points against teams at the top of the table in this Serie A (26) and is the only one not to have lost against these teams (7W, 5D). Opta reports it."
+    },
+    {
+      "id": "625b8e87555b",
+      "title": "Letizia: \"From Wednesday, Inter will emerge certain winners of the Scudetto and with an excellent chance of being able to have their say in the Champions League\"",
+      "url": "https://www.milannews.it/news/letizia-dal-mercoledi-l-inter-esce-certa-vincitrice-dello-scudetto-e-con-ottime-chance-di-poter-dire-la-sua-in-champions-607977",
+      "source": "milannews.it",
+      "date": "2026-02-19T15:10:43+00:00",
+      "summary": "Francesco Letizia, journalist, expressed himself as follows on Sportitalia on the Scudetto fight: \"In the end it was evidently true."
+    },
+    {
+      "id": "6c8c7dc0846e",
+      "title": "Max, let's face it: this offensive phase is not the best. But it's not just your \"fault\".",
+      "url": "https://www.milannews.it/primo-piano/max-diciamocela-tutta-questa-fase-offensiva-non-e-il-massimo-ma-non-e-solo-colpa-tua-608012",
+      "source": "milannews.it",
+      "date": "2026-02-19T15:00:01+00:00",
+      "summary": "Milan's second place is not only the result of results in a broad sense, but also of how this team has faced many matches within the championship."
+    },
+    {
+      "id": "7cb100489dc6",
+      "title": "When coaches get involved: Milan rightly furious after Chivu and Fabregas incidents",
+      "url": "https://sempremilan.com/milan-rightly-furious-chivu-fabregas",
+      "source": "sempremilan.com",
+      "date": "2026-02-19T15:00:00+00:00",
+      "summary": "This season, AC Milan have been subjected to a few occasions where managers have been wrongly involved in games, yet nothing has ever been done with it.  Last night’s involvement from Cesc Fabregas brings up an uneasy question again, why are Milan the victims of coaches getting involved in games. If"
+    },
+    {
+      "id": "ad7ac25c1cbc",
+      "title": "Allegri expelled, Ravezzani: \"We are at a paradox. Then they should disqualify all the coaches every Sunday\"",
+      "url": "https://www.milannews.it/news/allegri-espulso-ravezzani-siamo-al-paradosso-allora-dovrebbero-squalificare-tutti-gli-allenatori-ogni-domenica-608011",
+      "source": "milannews.it",
+      "date": "2026-02-19T14:50:41+00:00",
+      "summary": "Today the Sports Judge's statement clarified the reason for Massimiliano Allegri's expulsion in Milan-Como."
+    },
     {
       "id": "0f4559a5c7fd",
       "title": "The distances in the standings after the recovery: Milan -7 from the top, Como -5 from fourth place",
@@ -35,7 +107,7 @@
     },
     {
       "id": "a52ae633953e",
-      "title": "Licari: \"The first leg counted. There's no other way to explain Fabregas' choice to be a bit of a resultist – no offence, eh – him too\"",
+      "title": "Licari: \"The first leg counted. There's no other way to explain Fabregas' choice to be a bit of a resultant - no offence, eh - him too\"",
       "url": "https://www.milannews.it/news/licari-l-andata-ha-contato-non-si-spiega-altrimenti-la-scelta-di-fabregas-di-essere-un-po-risultatista-senza-offesa-eh-anche-lui-607969",
       "source": "milannews.it",
       "date": "2026-02-19T14:11:07+00:00",
@@ -154,14 +226,6 @@
       "summary": "Below is AC Milan's comment, via the club's official website, on Milan-Como (1-1):\n\n\"The Milan faced Como on the 24th matchday of Serie A, ending with a 1-1 draw."
     },
     {
-      "id": "397f1d967e0a",
-      "title": "Milan unbeaten for 24 games in a row: equaling a record from more than 70 years ago! First place goes to Capello",
-      "url": "https://www.milannews.it/news/milan-imbattuto-per-24-gare-di-fila-eguagliato-un-record-di-piu-di-70-anni-fa-il-primo-posto-e-di-capello-607980",
-      "source": "milannews.it",
-      "date": "2026-02-19T12:20:46+00:00",
-      "summary": "Milan (24: 15W, 9D) remained unbeaten for at least 24 matches for the third time in a single Serie A season (24 matches between December 1950 and May 1951 and the 34 matches of the entire 1991/92 championship). Opta reports it."
-    },
-    {
       "id": "626b83eb2b83",
       "title": "GdS: Milan’s road to the derby and hopes regarding Inter’s fixture congestion",
       "url": "https://sempremilan.com/milan-road-to-derby-inter-fixture-congestion",
@@ -170,52 +234,12 @@
       "summary": "AC Milan, despite dropping points at San Siro, will still have a slight hope of the Scudetto, despite the seven-point gap being solidified.  The draw against Como hurts. Whilst the Scudetto has never been the end goal for this season, it has been there, and Milan have probably allowed themselves to "
     },
     {
-      "id": "498f3566303f",
-      "title": "Pasotto: \"He will never confess how much, in his heart, he really hoped to chase Inter, but after yesterday's 1-1 draw, Allegri's mantra becomes the most logical path\"",
-      "url": "https://www.milannews.it/news/pasotto-non-confessera-mai-quanto-in-cuor-suo-sperasse-davvero-di-inseguire-l-inter-ma-dopo-l-1-1-di-ieri-il-mantra-di-allegri-diventa-la-strada-piu-l-607960",
-      "source": "milannews.it",
-      "date": "2026-02-19T12:10:30+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself in La Gazzetta dello Sport when describing what happened in Milan-Como: \"He will never confess how much, in his heart, he really hoped to be able to knock on Inter's door, but ..."
-    },
-    {
-      "id": "6de7f6d52936",
-      "title": "Pavlovic injury, right not to book Van der Brempt. At least a fracture is needed for the card",
-      "url": "https://www.milannews.it/news/infortunio-pavlovic-giusto-non-ammonire-van-der-brempt-per-il-cartellino-ci-vuole-almeno-la-frattura-608005",
-      "source": "milannews.it",
-      "date": "2026-02-19T12:08:23+00:00",
-      "summary": "At the end of the first half of Milan-Como, the result was 0-1 after Nico Paz's goal, there was an alleged foul by Van der Brempt on Pavlovic which many considered worthy of a yellow card."
-    },
-    {
       "id": "d1035a3b77cf",
       "title": "Video: Fabregas’ shirt tug and touchline confrontation with Allegri",
       "url": "https://football-italia.net/fabregas-shirt-tug-touchline-clash-allegri/",
       "source": "football-italia.net",
       "date": "2026-02-19T12:02:33+00:00",
       "summary": "Watch how Cesc Fabregas pulled the shirt of Alexis Saelemaekers and how Milan coach Massimiliano..."
-    },
-    {
-      "id": "00f312a6635f",
-      "title": "Cassano attacks Allegri: \"At Milan we made him win the Scudetto without doing what he said. With Juve he won zero, this year zero\"",
-      "url": "https://www.milannews.it/news/cassano-attacca-allegri-al-milan-gli-abbiamo-fatto-vincere-lo-scudetto-senza-fare-quello-che-diceva-lui-con-la-juve-ha-vinto-zero-quest-anno-zero-608001",
-      "source": "milannews.it",
-      "date": "2026-02-19T12:00:35+00:00",
-      "summary": "Antonio Cassano, a former footballer, expressed himself as follows to Il Messaggero about Massimiliano Allegri: \"He is anti-football. Allegri has always proposed zero."
-    },
-    {
-      "id": "463c56a2088f",
-      "title": "Serie A Milan Scudetto odds, bets on the Rossoneri",
-      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-scudetto-serie-a-milan-le-scommesse-sui-rossoneri-579454",
-      "source": "milannews.it",
-      "date": "2026-02-19T11:55:00+00:00",
-      "summary": "The match between Milan and Como ends with a draw which is of little use."
-    },
-    {
-      "id": "4a4c40f2c2ee",
-      "title": "Allegri: \"We talk a lot about behavior when they then behave in the opposite way\"",
-      "url": "https://www.milannews.it/news/allegri-si-parla-tanto-di-comportamento-quando-poi-si-comportano-al-contrario-607992",
-      "source": "milannews.it",
-      "date": "2026-02-19T11:50:00+00:00",
-      "summary": "Massimiliano Allegri spoke to TeleLombardia after Milan-Como.\n\nYou can tell he's angry."
     },
     {
       "id": "6652087a182f",
@@ -354,28 +378,12 @@
       "summary": "Davide Bartesaghi spoke to the media after AC Milan’s 1-1 draw against Como and insisted that it is a very important point for the Rossoneri.  Milan headed into the game eight points behind their city rivals Inter in the standings, thus in need of three points to keep the Scudetto race alive (more o"
     },
     {
-      "id": "5231fcaf81d5",
-      "title": "Unhappy Leao makes plea to Milan fans after Como draw: “We all have to stick together”",
-      "url": "https://sempremilan.com/unhappy-leao-plea-milan-fans-como-draw",
-      "source": "sempremilan.com",
-      "date": "2026-02-18T22:20:58+00:00",
-      "summary": "Rafael Leao has admitted that he understands the jeers from some AC Milan fans, but urged the supporters to get behind the team. Leao netted his eighth goal of the season, and it was perhaps his most intriguing one yet. With Como leading in the second half, Ardon Jashari lobbed a ball over the top ["
-    },
-    {
       "id": "72872cf860f0",
       "title": "Fabregas: ‘Como proud of 1-1 Milan draw, apology for Allegri’ row",
       "url": "https://football-italia.net/fabregas-como-proud-of-1-1-milan-draw-apology/",
       "source": "football-italia.net",
       "date": "2026-02-18T22:19:36+00:00",
       "summary": "Cesc Fabregas apologised for his touchline row with Max Allegri, but was ‘very proud’ of..."
-    },
-    {
-      "id": "81ced043ceeb",
-      "title": "Player Ratings: AC Milan 1-1 Como – Jashari justifies price tag",
-      "url": "https://sempremilan.com/player-ratings-ac-milan-1-1-como-jashari",
-      "source": "sempremilan.com",
-      "date": "2026-02-18T22:05:58+00:00",
-      "summary": "AC Milan were in need of three points against Como but only managed to clinch one. Ardon Jashari played a big part in the near-comeback and below are the player ratings for the Rossoneri.  If you haven’t already, make sure to check out how we decide the player ratings. From the scale to what affects"
     },
     {
       "id": "d7ed67655616",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-02-18T08:37:44+00:00",
       "summary": "La Gazzetta dello Sport  Not like that  An historic gaffe in the Champions League Bremer..."
-    },
-    {
-      "id": "6f0a372ca4ee",
-      "title": "How much Milan will earn as Pobega completes permanent Bologna move",
-      "url": "https://football-italia.net/milan-earn-pobega-permanent-bologna-move/",
-      "source": "football-italia.net",
-      "date": "2026-02-17T14:16:49+00:00",
-      "summary": "Reports in Italy claim that Tommaso Pobega has formally joined Bologna on a permanent deal..."
     }
   ]
 }
