@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-02-20T21:23:20.065559+00:00",
+  "lastUpdated": "2026-02-20T22:24:14.685418+00:00",
   "articles": [
+    {
+      "id": "6ef0be4fde03",
+      "title": "Serie A, the updated ranking: Sassuolo golden dreams, Verona leaden nightmares",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-sassuolo-sogni-d-oro-verona-incubi-di-piombo-608161",
+      "source": "milannews.it",
+      "date": "2026-02-20T22:10:00+00:00",
+      "summary": "In the preview for Friday, which has just ended, Sassuolo, victorious 3-0 over Hellas Verona, gave themselves a night of big dreams, moving up to eighth place in the standings and overtaking both Lazio and Bologna, who had to ..."
+    },
+    {
+      "id": "d3878380e63c",
+      "title": "Verona sinks further and further: Sassuolo hat-trick with a super Berardi",
+      "url": "https://www.milannews.it/news/il-verona-cola-sempre-piu-a-picco-tris-del-sassuolo-con-un-super-berardi-608127",
+      "source": "milannews.it",
+      "date": "2026-02-20T22:00:42+00:00",
+      "summary": "Hellas Verona sinks further and further and is increasingly last."
+    },
+    {
+      "id": "04a020ae8e5d",
+      "title": "Leao responds presently: Rafa has already equaled his personal score from last year",
+      "url": "https://www.milannews.it/news/leao-risponde-presente-rafa-ha-gia-eguagliato-il-suo-score-personale-dell-anno-scorso-608126",
+      "source": "milannews.it",
+      "date": "2026-02-20T21:50:00+00:00",
+      "summary": "After the home draw against Como, Massimiliano Allegri's Milan are approaching their next league match against Parma on Sunday at 6pm."
+    },
+    {
+      "id": "5e9d5c6f3571",
+      "title": "Can Milan recover from Inter? Mussa: \"Yes, there are still too many games\"",
+      "url": "https://www.milannews.it/news/il-milan-puo-recuperare-sull-inter-mussa-si-ci-sono-ancora-troppe-partite-608052",
+      "source": "milannews.it",
+      "date": "2026-02-20T21:40:00+00:00",
+      "summary": "Giovanni Mussa, on TMW Radio, spoke about the Scudetto fight like this: \"Can Milan recover? Of course yes, there are still too many games in the second half of the season."
+    },
+    {
+      "id": "b4c5c3231d5e",
+      "title": "Milan Women, Sesay introduces himself: \"I'm not just an extra\"",
+      "url": "https://www.milannews.it/milan-femminile/milan-femminile-sesay-si-presenta-non-sono-solo-una-comparsa-608157",
+      "source": "milannews.it",
+      "date": "2026-02-20T21:30:00+00:00",
+      "summary": "The new Milan Women's striker, Mawa Sesay, a Norwegian center forward born in 2005 who arrived in the winter window from Valarenga, has given her first interview as a Rossoneri player. His statements to Milan TV."
+    },
+    {
+      "id": "62b4ad7cf775",
+      "title": "Youth sector, this weekend's program",
+      "url": "https://www.milannews.it/news/settore-giovanile-il-programma-di-questo-weekend-608145",
+      "source": "milannews.it",
+      "date": "2026-02-20T21:20:00+00:00",
+      "summary": "In the weekend program of the Rossonero Youth Sector, the home match of the Women's Primavera stands out, in their first match as leaders: an important match, that of Zago's girls, at the PUMA House of Football against ..."
+    },
     {
       "id": "3010bbbd77bc",
       "title": "Mussa warns Inter in the Scudetto fight: \"Whoever goes ahead in the cups leaves points around\"",
@@ -8,6 +56,14 @@
       "source": "milannews.it",
       "date": "2026-02-20T21:10:00+00:00",
       "summary": "Giovanni Mussa, on TMW Radio, spoke like this about the Scudetto fight, focusing on the dangers that Inter could encounter, still busy between the Champions League and Italian Cup: \"Milan can still steal some points between ..."
+    },
+    {
+      "id": "253ce718c287",
+      "title": "Bonucci hails Milan coach Allegri: ‘A master, a phenomenon’",
+      "url": "https://football-italia.net/italy-gattuso-bonucci-allegri-master-milan/",
+      "source": "football-italia.net",
+      "date": "2026-02-20T21:08:08+00:00",
+      "summary": "Leonardo Bonucci has paid a glowing tribute to AC Milan head coach Massimiliano Allegri, describing..."
     },
     {
       "id": "6208579ace43",
@@ -26,14 +82,6 @@
       "summary": "Marco Piccari, connected on TMW Radio, spoke thus about Milan, analyzing the draw against Como with a view to the championship race, with Inter now 7 points ahead of the Rossoneri: \"We are drawing with Como, but Milan h ..."
     },
     {
-      "id": "253ce718c287",
-      "title": "Bonucci hails Milan coach Allegri: ‘A master, a phenomenon’",
-      "url": "https://football-italia.net/italy-gattuso-bonucci-allegri-master-milan/",
-      "source": "football-italia.net",
-      "date": "2026-02-20T20:48:08+00:00",
-      "summary": "Leonardo Bonucci has paid a glowing tribute to AC Milan head coach Massimiliano Allegri, describing..."
-    },
-    {
       "id": "3f48872863b9",
       "title": "Pulisic writes a book for children and says he wants to be an inspiration to little ones",
       "url": "https://www.milannews.it/news/pulisic-scrive-un-libro-per-i-bambini-e-afferma-di-voler-essere-un-ispirazione-per-i-piu-piccoli-607873",
@@ -50,6 +98,14 @@
       "summary": "In his YouTube channel, Stefano Borghi spoke about the match between Milan and Como on Wednesday evening, analyzing the collective performance and talking about the Rossoneri's ambitions for the Scudetto."
     },
     {
+      "id": "d57652257213",
+      "title": "Former Milan & Juventus defender De Sciglio clarifies collapsed Hradec Kralove move",
+      "url": "https://football-italia.net/milan-juventus-defender-de-sciglio-hradec/",
+      "source": "football-italia.net",
+      "date": "2026-02-20T20:28:03+00:00",
+      "summary": "Mattia De Sciglio has broken his silence over his failed transfer to Czech side Hradec..."
+    },
+    {
       "id": "b4c07c67d722",
       "title": "Goals, hugs, pleas and a marathon without sprints: Leao showing signs of leadership",
       "url": "https://sempremilan.com/gols-hugs-leao-showing-signs-leadership",
@@ -64,14 +120,6 @@
       "source": "milannews.it",
       "date": "2026-02-20T20:20:02+00:00",
       "summary": "Milan will be on the pitch this weekend at San Siro against Parma on the occasion of the 26th round of the Serie A Enilive championship, facing an opponent that the Rossoneri were unable to defeat in the first leg..."
-    },
-    {
-      "id": "d57652257213",
-      "title": "Former Milan & Juventus defender De Sciglio clarifies collapsed Hradec Kralove move",
-      "url": "https://football-italia.net/milan-juventus-defender-de-sciglio-hradec/",
-      "source": "football-italia.net",
-      "date": "2026-02-20T20:18:03+00:00",
-      "summary": "Mattia De Sciglio has broken his silence over his failed transfer to Czech side Hradec..."
     },
     {
       "id": "09f3ee1e3c99",
@@ -146,30 +194,6 @@
       "summary": "Sky journalist Peppe Di Stefano has told us that a ‘revolution’ in attack is possible for AC Milan this summer, with Rafael Leao and Christian Pulisic potentially involved. Heading into the 2025-26 campaign, Massimiliano Allegri put Pulisic and Leao at the heart of his plans. He designed the 3-5-2 s"
     },
     {
-      "id": "be7cccbdd5ed",
-      "title": "Vinicius case: the Brazilian Football Federation demands severity from Fifa and UEFA",
-      "url": "https://www.milannews.it/news/caso-vinicius-la-federcalcio-brasiliana-chiede-rigore-a-fifa-e-uefa-608112",
-      "source": "milannews.it",
-      "date": "2026-02-20T18:50:02+00:00",
-      "summary": "(ANSA) - RIO DE JANEIRO, FEBRUARY 20 - The Brazilian Football Federation (Cbf) has taken a stand and asked FIFA and UEFA to adopt severe measures to punish those responsible for the new case of racism committed against Vinícius, through letters ..."
-    },
-    {
-      "id": "5c4072141720",
-      "title": "Borghi analyses: “The continuous exchange between Modric and Jashari in the two phases is interesting”",
-      "url": "https://www.milannews.it/news/borghi-analizza-interessate-lo-scambio-continuo-tra-modric-e-jashari-nelle-due-fasi-608099",
-      "source": "milannews.it",
-      "date": "2026-02-20T18:40:24+00:00",
-      "summary": "In his YouTube channel, Stefano Borghi spoke about the match between Milan and Como on Wednesday evening, analyzing the collective performance and talking about the Rossoneri's ambitions for the Scudetto."
-    },
-    {
-      "id": "5466482cf729",
-      "title": "Milan Women, tomorrow at 3pm the match away to Lazio",
-      "url": "https://www.milannews.it/milan-femminile/milan-femminile-domani-alle-15-la-gara-in-casa-della-lazio-608111",
-      "source": "milannews.it",
-      "date": "2026-02-20T18:31:26+00:00",
-      "summary": "Tomorrow the Milan Women return to the field and will be playing at Lazio in the match valid for the 15th matchday of the Serie A Women."
-    },
-    {
       "id": "6485afe58c54",
       "title": "Central overloads and the 8-second rule: Tactical analysis of AC Milan 1-1 Como",
       "url": "https://sempremilan.com/tactical-analysis-ac-milan-1-1-como",
@@ -178,36 +202,12 @@
       "summary": "AC Milan and Como played out a 1-1 draw at San Siro on Wednesday night, a result that further dents the fading Scudetto hopes. In the previous three meetings between the two Lombardy sides, it is Como who had taken the lead. It became four in a row when Nico Paz got the opener, profiting […]\nThe pos"
     },
     {
-      "id": "6372b8614ece",
-      "title": "Braida: \"Milan was in my destiny. The greatest? Van Basten\"",
-      "url": "https://www.milannews.it/news/braida-il-milan-era-nel-mio-destino-il-piu-grande-van-basten-608122",
-      "source": "milannews.it",
-      "date": "2026-02-20T18:20:12+00:00",
-      "summary": "With a long interview given to Corriere della Sera, on the occasion of the 40th anniversary of the acquisition of Milan by Silvio Berlusconi, Ariedo Braida told various anecdotes and moments of his long career ..."
-    },
-    {
-      "id": "e205683db9c4",
-      "title": "Two days before the match against Milan, Parma announces an important renewal",
-      "url": "https://www.milannews.it/l-avversario/a-due-giorni-dalla-sfida-con-il-milan-il-parma-annuncia-un-rinnovo-importante-608144",
-      "source": "milannews.it",
-      "date": "2026-02-20T18:10:25+00:00",
-      "summary": "Two days before the match against Milan at San Siro, on Sunday at 6pm on the occasion of the 26th round of the Serie A Enilive championship, Parma has announced the contract renewal for one of its young players: this is the goalkeeper ..."
-    },
-    {
       "id": "16dbbff87a34",
       "title": "Milan interested in Club Brugge forward Tresoldi: the situation",
       "url": "https://football-italia.net/milan-interested-club-brugge-forward-tresoldi/",
       "source": "football-italia.net",
       "date": "2026-02-20T18:06:59+00:00",
       "summary": "AC Milan are quietly but decisively building their plans for the summer transfer window, and..."
-    },
-    {
-      "id": "dac619580575",
-      "title": "Galliani Jr: \"The fan presidents disappear, there are those who do business but the team must always be supported\"",
-      "url": "https://www.milannews.it/news/galliani-jr-scompaiono-i-presidenti-tifosi-ci-sono-quelli-che-fanno-business-ma-la-squadra-va-sempre-sostenuta-608131",
-      "source": "milannews.it",
-      "date": "2026-02-20T18:00:44+00:00",
-      "summary": "Gianluca Galliani, son of AC Milan's historic CEO Adriano, spoke on the afternoon of TMW Radio during the Maracanà broadcast, recounting the good old days of Berlusconi's epic r ..."
     },
     {
       "id": "e84ed0204b87",
