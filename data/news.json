@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-02-20T10:35:44.004837+00:00",
+  "lastUpdated": "2026-02-20T11:31:02.183784+00:00",
   "articles": [
+    {
+      "id": "63a3114676fb",
+      "title": "Reports: Derby in doubt for Inter captain Lautaro due to calf strain – the latest",
+      "url": "https://sempremilan.com/derby-doubt-inter-lautaro-calf-strain",
+      "source": "sempremilan.com",
+      "date": "2026-02-20T11:30:00+00:00",
+      "summary": "Inter could be without their captain and talisman Lautaro Martinez for the derby next month, according to reports. Inter’s Champions League trip to Norway on Wednesday wasn’t just a disaster because of the result (the Nerazzurri lost 3-1 to Bodo/Glimt) but also because Lautaro Martinez was injured, "
+    },
+    {
+      "id": "2429feaca628",
+      "title": "From Allegri's expulsion to Van der Brempt's missed red card: a certain irritation filters through Casa Milan over the refereeing in the match against Como",
+      "url": "https://www.milannews.it/news/dall-espulsione-di-allegri-al-mancato-rosso-a-van-der-brempt-da-casa-milan-filtra-una-certa-irritazione-per-l-arbitraggio-nel-match-contro-il-como-608097",
+      "source": "milannews.it",
+      "date": "2026-02-20T11:21:19+00:00",
+      "summary": "Mariani's referee in the match against Como felt some irritation at Casa Milan."
+    },
+    {
+      "id": "13a650435479",
+      "title": "Impallomeni rejects Milan: \"He doesn't have continuity to bother Inter\"",
+      "url": "https://www.milannews.it/news/impallomeni-boccia-il-milan-non-ha-continuita-per-dar-fastidio-all-inter-608045",
+      "source": "milannews.it",
+      "date": "2026-02-20T11:11:00+00:00",
+      "summary": "Stefano Impallomeni, on TMW Radio, spoke about Milan and responded to the question as to whether the Rossoneri could still bother Inter for the Scudetto: \"No, because they don't have the continuity to bother In..."
+    },
+    {
+      "id": "d3663991af98",
+      "title": "GdS: Milan feared season-ending injury for Pavlovic which sparked fury",
+      "url": "https://sempremilan.com/milan-feared-season-ending-injury-pavlovic",
+      "source": "sempremilan.com",
+      "date": "2026-02-20T11:05:00+00:00",
+      "summary": "AC Milan had strong fears that they would lose Strahinja Pavlovic for the rest of the season after what happened against Como. There has been a lot of attention drawn towards the challenge made by Van der Brempt in the first half of Milan’s draw against Como on Wednesday night. Not even a card was ["
+    },
+    {
+      "id": "eb2263538c0c",
+      "title": "Gabbia's energy after Milan-Como: \"Now more than ever, all together\"",
+      "url": "https://www.milannews.it/news/la-carica-di-gabbia-dopo-milan-como-ora-piu-che-mai-tutti-insieme-607954",
+      "source": "milannews.it",
+      "date": "2026-02-20T11:01:00+00:00",
+      "summary": "Only 1-1 for Milan against Como. With this bittersweet draw, the Rossoneri see Inter extend their lead at the top of the table, the Nerazzurri are now at +7."
+    },
+    {
+      "id": "3c425ca297d9",
+      "title": "29 trophies in 31 years, but which victory was Berlusconi most attached to? Galliani: \"The night of the Champions Cup final with Steaua, I've never seen him so happy again\"",
+      "url": "https://www.milannews.it/gli-ex/29-trofei-in-31-anni-ma-qual-e-la-vittoria-a-cui-era-piu-legato-berlusconi-galliani-la-notte-della-finale-di-coppa-dei-campioni-con-la-steaua-mai-piu-608071",
+      "source": "milannews.it",
+      "date": "2026-02-20T10:50:33+00:00",
+      "summary": "In the long interview given to Corriere della Sera, Adriano Galliani, former Rossoneri CEO, said: \"When was Silvio Berlusconi's Milan born? On 1 July 1987 because in the previous season there was a coach, Li ..."
+    },
+    {
+      "id": "6a05de106b1c",
+      "title": "Leao says: \"Inter wanted me, but I wasn't convinced. The following year Milan called me and...\"",
+      "url": "https://www.milannews.it/news/leao-racconta-mi-voleva-l-inter-ma-non-ero-convinto-l-anno-dopo-mi-chiamo-il-milan-e-608084",
+      "source": "milannews.it",
+      "date": "2026-02-20T10:40:58+00:00",
+      "summary": "Rafael Leao made these statements to CBS Sports in the new episode of \"Kickin' It\": \n\nOn the call from Milan: \"Inter telephoned the sporting director of Lille, saying they were interested in m ..."
+    },
+    {
+      "id": "1b18114ff460",
+      "title": "Galliani reveals how Berlusconi bought Milan, his proudest moments and why he feels ‘lucky’",
+      "url": "https://sempremilan.com/galliani-berlusconi-proudest-moments-lucky",
+      "source": "sempremilan.com",
+      "date": "2026-02-20T10:40:00+00:00",
+      "summary": "February 20th is a day for celebrating Silvio Berlusconi’s time as AC Milan owner, and Adriano Galliani has revealed som brilliant anecdotes. On this day in 1986, the Berlusconi era at Milan began. He took over a club on the brink of bankruptcy that had spent time in Serie B into the best team in […"
+    },
+    {
+      "id": "6462d01ead3b",
+      "title": "Inter, soleus muscle strain for Lautaro Martinez",
+      "url": "https://www.milannews.it/news/inter-risentimento-muscolare-al-soleo-per-lautaro-martinez-608093",
+      "source": "milannews.it",
+      "date": "2026-02-20T10:37:37+00:00",
+      "summary": "Lautaro Martinez, the Inter striker who will face Milan in the derby on 7 or 8 February, was injured during the last Champions League match which the Nerazzurri lost 3-1 against Bodo/Glimt."
+    },
     {
       "id": "3ff86825b172",
       "title": "Paolo Berlusconi remembers Silvio: \"The purchase of Milan was an affair of the heart\"",
@@ -154,54 +226,6 @@
       "summary": "In the long interview given to Corriere della Sera, Adriano Galliani, former Rossoneri CEO, recalled 20 February 1986, the day in which Silvio Berlusconi officially became the new owner of Milan: \"How did he ..."
     },
     {
-      "id": "636ec85e5eda",
-      "title": "CorSport returns to Milan-Como: \"Max-Cesc, poisonous third time\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-torna-su-milan-como-max-cesc-terzo-tempo-al-veleno-608065",
-      "source": "milannews.it",
-      "date": "2026-02-20T08:10:00+00:00",
-      "summary": "The match between Milan and Como brought with it the aftermath of the dispute between Cesc Fabregas and Massimiliano Allegri."
-    },
-    {
-      "id": "19b9846eb569",
-      "title": "Pavlovic's injury and Milan's irritation: the Serbian took a big risk, there were fears of breaking his fibula",
-      "url": "https://www.milannews.it/rassegna-stampa/l-infortunio-di-pavlovic-e-l-irritazione-del-milan-il-serbo-ha-rischiato-grosso-si-temeva-la-rottura-del-perone-608061",
-      "source": "milannews.it",
-      "date": "2026-02-20T07:59:24+00:00",
-      "summary": "There was great concern in the Rossoneri home team due to the injury suffered by Strahijna Pavlovic on Wednesday against Como."
-    },
-    {
-      "id": "b41b5a581f70",
-      "title": "Tuttosport on the front page: \"Argument at San Siro: Allegri pays, Fabregas doesn't\"",
-      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-in-prima-pagina-lite-a-san-siro-allegri-paga-fabregas-no-608054",
-      "source": "milannews.it",
-      "date": "2026-02-20T07:50:53+00:00",
-      "summary": "\"Argument at San Siro: Allegri pays, Fabregas doesn't\": this is the headline on the front page of Tuttosport this morning."
-    },
-    {
-      "id": "3c71a1e29678",
-      "title": "February 20, 1986: Silvio Berlusconi officially becomes the owner of Milan",
-      "url": "https://www.milannews.it/news/20-febbraio-1986-silvio-berlusconi-diventa-ufficialmente-il-proprietario-del-milan-608051",
-      "source": "milannews.it",
-      "date": "2026-02-20T07:40:08+00:00",
-      "summary": "On 20 February 1986, Silvio Berlusconi officially became the owner of Milan after having signed ten days earlier, following a negotiation aimed at saving the Rossoneri from a possible bankruptcy that seemed around the corner ..."
-    },
-    {
-      "id": "e1de41f565c7",
-      "title": "Galliani says: \"Did Berlusconi follow Milan even after the sale? When Pioli was there, he asked me to call him: he challenged the construction from the bottom and gave him technical suggestions\"",
-      "url": "https://www.milannews.it/rassegna-stampa/galliani-racconta-se-berlusconi-ha-seguito-il-milan-anche-dopo-la-vendita-quando-c-era-pioli-mi-chiedeva-di-chiamarlo-gli-contestava-la-costruzione-da-608047",
-      "source": "milannews.it",
-      "date": "2026-02-20T07:30:43+00:00",
-      "summary": "On the day that marks the 40th anniversary of Silvio Berlusconi purchasing Milan (20 February 1986), Adriano Galliani gave a long interview to Corriere della Sera in which he said that the former Rossoneri president ..."
-    },
-    {
-      "id": "74487aed0aac",
-      "title": "Corsport headlines: \"Inter, Lautaro out for 20 days. Calf knocked out: no derby\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-titola-inter-lautaro-fuori-20-giorni-polpaccio-ko-niente-derby-608044",
-      "source": "milannews.it",
-      "date": "2026-02-20T07:20:34+00:00",
-      "summary": "The Corriere dello Sport on newsstands this morning has the front page headline: \"Inter, Lautaro out for 20 days. Calf knocked out: no derby\"."
-    },
-    {
       "id": "69ca8cc56c24",
       "title": "GdS: ‘Jashari like Modric’ – €34m man showing signs of massive potential",
       "url": "https://sempremilan.com/jashari-like-modric-signs-of-potential",
@@ -320,30 +344,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-19T13:35:00+00:00",
       "summary": "This season, AC Milan have been in the Scudetto fight, but they have often been their own downfall, rather than anyone else damaging them.  It has been a while since Milan last lost, yet, despite that feeling, they are not sitting at the top of the table, as many would expect. Indeed, despite losing"
-    },
-    {
-      "id": "b328421ec01d",
-      "title": "Sporting Judge: Fabregas left unpunished for now as Allegri’s ban is confirmed",
-      "url": "https://sempremilan.com/fabregas-unpunished-allegri-ban-confirmed",
-      "source": "sempremilan.com",
-      "date": "2026-02-19T13:10:00+00:00",
-      "summary": "This morning, the Sporting Judge has released its standard statement about the action from the previous day, and AC Milan may be a little shocked. Given it was the only game left of the matchday, the Sporting Judge has released a specific statement for the game between Milan and Como, detailing the "
-    },
-    {
-      "id": "1cd8c2d9d292",
-      "title": "‘You never know’ – Allegri references the Scudetto whilst admitting Champions League priority remains",
-      "url": "https://sempremilan.com/allegri-references-scudetto-champions-league-focus",
-      "source": "sempremilan.com",
-      "date": "2026-02-19T12:45:00+00:00",
-      "summary": "Massimiliano Allegri has focused on the Champions League all season, but it seems that he is not shutting down the hope of AC Milan winning the title.  Throughout the season so far, Milan have been involved in a title conversation. They have certainly been in better positions, and they have not real"
-    },
-    {
-      "id": "626b83eb2b83",
-      "title": "GdS: Milan’s road to the derby and hopes regarding Inter’s fixture congestion",
-      "url": "https://sempremilan.com/milan-road-to-derby-inter-fixture-congestion",
-      "source": "sempremilan.com",
-      "date": "2026-02-19T12:20:00+00:00",
-      "summary": "AC Milan, despite dropping points at San Siro, will still have a slight hope of the Scudetto, despite the seven-point gap being solidified.  The draw against Como hurts. Whilst the Scudetto has never been the end goal for this season, it has been there, and Milan have probably allowed themselves to "
     },
     {
       "id": "d1035a3b77cf",
