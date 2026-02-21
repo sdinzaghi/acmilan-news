@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-02-21T12:43:36.367456+00:00",
+  "lastUpdated": "2026-02-21T13:41:30.846830+00:00",
   "articles": [
+    {
+      "id": "a760498adebf",
+      "title": "Allegri looks ahead: \"There are still 39 points available, we must do our duty\"",
+      "url": "https://www.milannews.it/news/allegri-guarda-avanti-ci-sono-ancora-39-punti-disponibili-noi-dobbiamo-fare-il-nostro-dovere-608229",
+      "source": "milannews.it",
+      "date": "2026-02-21T13:36:01+00:00",
+      "summary": "Massimiliano Allegri has just finished the press conference on the eve of Milan-Parma."
+    },
+    {
+      "id": "996c26b2058d",
+      "title": "MN - Serie A Women: the AC Milan Women's medical bulletin",
+      "url": "https://www.milannews.it/milan-femminile/mn-serie-a-women-il-bollettino-medico-del-milan-femminile-608234",
+      "source": "milannews.it",
+      "date": "2026-02-21T13:35:23+00:00",
+      "summary": "Below is the medical bulletin of the women's team who will take to the field against Lazio in about half an hour for the 15th matchday of Serie A Women:\n\nDonolato: left knee meniscal lesion\n\nGemmi: muscle strain r ..."
+    },
+    {
+      "id": "d76681767343",
+      "title": "Allegri previews Milan-Parma, provides injury update and reflects on season finale",
+      "url": "https://sempremilan.com/allegri-previews-milan-parma-injury-presser",
+      "source": "sempremilan.com",
+      "date": "2026-02-21T13:31:03+00:00",
+      "summary": "On the eve of the game between AC Milan and Parma, Massimiliano Allegri spoke to the media at his usual pre-game press conference.  Milan only clinched a point in their mid-week clash against Como and as a result, Inter are now seven points ahead. As such, tomorrow’s game against Parma is even more "
+    },
+    {
+      "id": "3fd3f8eac81d",
+      "title": "Women's Serie A: the official lineups of Lazio-Milan",
+      "url": "https://www.milannews.it/milan-femminile/serie-a-femminile-le-formazioni-ufficiali-di-lazio-milan-608228",
+      "source": "milannews.it",
+      "date": "2026-02-21T13:30:56+00:00",
+      "summary": "At 3.00pm Mr. Bakker's Rossonere will be guests of Lazio Women for the match valid for the 15th matchday of Serie A Women."
+    },
+    {
+      "id": "30d0807570be",
+      "title": "LIVE MN - Allegri: \"Against Parma we will need to play an orderly and compact match. Leao and Pulisic are fine\"",
+      "url": "https://www.milannews.it/primo-piano/live-mn-allegri-contro-il-parma-bisognera-fare-una-partita-ordinata-e-compatta-leao-e-pulisic-stanno-bene-608227",
+      "source": "milannews.it",
+      "date": "2026-02-21T13:29:00+00:00",
+      "summary": "Soon Massimiliano Allegri will speak at a press conference to present the match against Parma, valid for the 26th matchday of Serie A Enilive. Follow our live text so you don't miss a single statement from the coach."
+    },
+    {
+      "id": "19a864c0710c",
+      "title": "Spring, what a brace from Scotti! His words after Milan-Napoli 2-1",
+      "url": "https://www.milannews.it/la-primavera/primavera-che-doppietta-di-scotti-le-sue-parole-dopo-milan-napoli-2-1-608226",
+      "source": "milannews.it",
+      "date": "2026-02-21T12:50:53+00:00",
+      "summary": "At the end of the match, the match winner and captain Filippo Scotti, author of a beautiful and very important brace that allowed the Rossoneri to win the 3 points, spoke as follows, commenting on the match:\n\n\"There have been many ..."
+    },
+    {
+      "id": "4eda19192303",
+      "title": "Bonus Podcast with Oliver and Anthony: Future of Milan’s midfield",
+      "url": "https://sempremilan.com/bonus-podcast-future-of-milans-midfield",
+      "source": "sempremilan.com",
+      "date": "2026-02-21T12:50:00+00:00",
+      "summary": "Join Oli and Anthony as they go through each of Milan’s current midfielders to discuss their future, and address which targets could complete the department. Milan’s midfield has been a hot talking point this season amid the success of Luka Modric and Adrien Rabiot, but also the injury of Ardon Jash"
+    },
+    {
+      "id": "35559d8d3d20",
+      "title": "Braida: “The bus to Barcelona after the first European Cup was an unforgettable moment\"",
+      "url": "https://www.milannews.it/news/braida-il-pullman-a-barcellona-dopo-la-prima-coppa-dei-campioni-momento-indimenticabile-608121",
+      "source": "milannews.it",
+      "date": "2026-02-21T12:48:00+00:00",
+      "summary": "With a long interview given to Corriere della Sera, on the occasion of the 40th anniversary of the acquisition of Milan by Silvio Berlusconi, Ariedo Braida told various anecdotes and moments of his long career ..."
+    },
+    {
+      "id": "185b52b6330e",
+      "title": "Spring, Milan-Napoli 2-1: the words of Mister Renna",
+      "url": "https://www.milannews.it/la-primavera/primavera-milan-napoli-2-1-le-parole-di-mister-renna-608225",
+      "source": "milannews.it",
+      "date": "2026-02-21T12:40:23+00:00",
+      "summary": "At the end of the match between Milan-Napoli won 2-1 by the Rossoneri, valid for the 26th day of the Primavera1 championship, Mister Renna commented on the match as follows: \n\n\"It was a hard-fought match until the end, as expected..."
+    },
     {
       "id": "ee284c486f3a",
       "title": "Milan have only 0.4 percentage points less than Inter in scoring percentage. Parma last in this ranking",
@@ -67,7 +139,7 @@
     },
     {
       "id": "81ef7dff1c5e",
-      "title": "Milan-scudetto? Realistic stalemate: \"Today Inter have too large an advantage...\"",
+      "title": "Milan-scudetto? Realistic impasse: \"Today Inter have too large an advantage...\"",
       "url": "https://www.milannews.it/news/milan-scudetto-impallomenti-realista-oggi-l-inter-ha-un-vantaggio-troppo-ampio-608150",
       "source": "milannews.it",
       "date": "2026-02-21T11:36:00+00:00",
@@ -170,36 +242,12 @@
       "summary": "Against Parma, Massimiliano Allegri will once again be able to count on Adrien Rabiot in midfield. And this is excellent news for the Rossoneri coach."
     },
     {
-      "id": "99953c544850",
-      "title": "Pavlovic's call-up to Parma is in doubt, but Milan's defense is already decided",
-      "url": "https://www.milannews.it/news/in-dubbio-la-convocazione-di-pavlovic-per-il-parma-ma-la-difesa-del-milan-e-gia-decisa-608176",
-      "source": "milannews.it",
-      "date": "2026-02-21T10:00:00+00:00",
-      "summary": "Tomorrow evening Milan will host Parma at San Siro to make up for the draw against Como."
-    },
-    {
       "id": "58ff92d9ddde",
       "title": "CorSport: Second-best in the club’s history – Milan eyeing key milestone tomorrow",
       "url": "https://sempremilan.com/corsport-second-best-milan-milestone-tomorrow",
       "source": "sempremilan.com",
       "date": "2026-02-21T09:50:00+00:00",
       "summary": "AC Milan could reach a very important milestone in their game against Parma tomorrow, making this side the second-best in the club’s history in one aspect.  The 2025-26 season has been a huge success so far, at least when you compare it to the disaster that was 2024-25, and Massimiliano Allegri dese"
-    },
-    {
-      "id": "3f91bb7ec3f4",
-      "title": "Rabiot is ready: Milan with the Frenchman to continue the race",
-      "url": "https://www.milannews.it/news/rabiot-e-pronto-il-milan-con-il-francese-per-continuare-la-corsa-608170",
-      "source": "milannews.it",
-      "date": "2026-02-21T09:48:00+00:00",
-      "summary": "After the bitter home draw against Como, Milan will return to San Siro again, this time to face Parma. And he will do it with Adrien Rabiot, upon his return."
-    },
-    {
-      "id": "45d8f5d7876d",
-      "title": "Spring, the official lineups of Milan-Napoli",
-      "url": "https://www.milannews.it/news/primavera-le-formazioni-ufficiali-di-milan-napoli-608215",
-      "source": "milannews.it",
-      "date": "2026-02-21T09:36:00+00:00",
-      "summary": "These are the official lineups for Milan-Napoli, a match valid for the 26th day of the Primavera 1 championship:\n\nMILAN: Bouyer, Nolli, Cullotta, Cissé, Perera, Hodzic, Mancioppi, Scotti, Idrissi-Regragui, Borsani, Zaramella. Available"
     },
     {
       "id": "e43c8c4ebbeb",
@@ -210,44 +258,12 @@
       "summary": "Adrien Rabiot is back after serving a one-game suspension, but another game of rest could be on the cards for the Frenchman, which worries AC Milan and Massimiliano Allegri.  As highlighted by today’s edition of Gazzetta dello Sport (see photo below), the good news for Milan is that Rabiot will be b"
     },
     {
-      "id": "100102772424",
-      "title": "Against Parma for a new goal: it would be the second time in Milan's history",
-      "url": "https://www.milannews.it/news/contro-il-parma-per-un-nuovo-traguardo-sarebbe-la-seconda-volta-nella-storia-del-milan-608181",
-      "source": "milannews.it",
-      "date": "2026-02-21T09:24:00+00:00",
-      "summary": "After the home draw against Como, Milan will return to San Siro tomorrow evening to challenge Parma. The Rossoneri must remain close to Inter, avoiding losing further ground."
-    },
-    {
-      "id": "7e2b0a8ab29f",
-      "title": "Milan, against Parma for a new goal: here's what it is",
-      "url": "https://www.milannews.it/news/milan-contro-il-parma-per-un-nuovo-traguardo-ecco-quale-608169",
-      "source": "milannews.it",
-      "date": "2026-02-21T09:12:00+00:00",
-      "summary": "After the match against Como, Milan will host Parma on Sunday. As today's edition of Corriere dello Sport reminds us, the Devil is targeting the twenty-fifth consecutive useful result in the championship."
-    },
-    {
-      "id": "d0e2abb15837",
-      "title": "From Leao and Pulisic: Allegri and his senators for the final rush",
-      "url": "https://www.milannews.it/primo-piano/da-leao-e-pulisic-allegri-e-i-suoi-senatori-per-il-rush-finale-608213",
-      "source": "milannews.it",
-      "date": "2026-02-21T09:00:00+00:00",
-      "summary": "There is little to say and nothing to hide: we have reached the key period of the season."
-    },
-    {
       "id": "dde537f040fd",
       "title": "Gallery: ‘Rabiot troubling Milan’, ‘Two playmakers’ – Today’s headlines in Italian papers",
       "url": "https://sempremilan.com/gallery-rabiot-milan-playmakers-italian-papers",
       "source": "sempremilan.com",
       "date": "2026-02-21T09:00:00+00:00",
       "summary": "AC Milan will be back in action tomorrow, taking on Parma at home, but there are a few concerns for Massimiliano Allegri. Above all, Adrien Rabiot must be managed carefully.  Rabiot missed the 1-1 draw against Como due to a suspension, having received a red card in the game before. Subsequently, he "
-    },
-    {
-      "id": "b60b72670454",
-      "title": "The latest towards Parma: \"Pavlovic out, Gabbia and Saelemaekers return. Doubts ahead\"",
-      "url": "https://www.milannews.it/rassegna-stampa/le-ultime-verso-parma-pavlovic-fuori-tornano-gabbia-e-saelemaekers-dubbi-davanti-608203",
-      "source": "milannews.it",
-      "date": "2026-02-21T08:48:00+00:00",
-      "summary": "Everything is ready for the match that Milan will play tomorrow against Parma. Massimiliano Allegri has several training doubts that he will perhaps resolve starting from this afternoon's press conference."
     },
     {
       "id": "253ce718c287",
@@ -352,22 +368,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-20T15:30:00+00:00",
       "summary": "Ariedo Braida has praised the pioneering vision that Silvio Berlusconi possessed, claiming that he felt AC Milan was his ‘destiny’. It is exactly 40 years to the day that Berlusconi officially completed the acquisition of Milan, a team riddled with debt that had tasted Serie B. He took them to the t"
-    },
-    {
-      "id": "8f3d13138725",
-      "title": "SM Exclusive: Sky’s Peppe Di Stefano on Mateta, Maignan, Allegri, RedBird, summer plans and more",
-      "url": "https://sempremilan.com/di-stefano-exclusive-mateta-maignan-allegri-more",
-      "source": "sempremilan.com",
-      "date": "2026-02-20T15:00:00+00:00",
-      "summary": "AC Milan are a club that generate more media attention than most, and at any one time there are often various burning issues. The last few weeks and months have been dominated by various stories, such as the hiring of Igli Tare, the return of Massimiliano Allegri, the merits of the summer signings, "
-    },
-    {
-      "id": "3fe78aa6f9de",
-      "title": "Watch: Seedorf, Gattuso, Kaka and more – Jashari picks between Milan midfield greats",
-      "url": "https://sempremilan.com/jashari-picks-between-milan-midfield-greats",
-      "source": "sempremilan.com",
-      "date": "2026-02-20T14:30:00+00:00",
-      "summary": "Ardon Jashari is beginning to capture the hearts and minds of AC Milan fans with his recent performances, which he hopes will be a springboard. Having arrived for over €35m from Club Brugge in the summer, Jashari had to deal with the blow of a fractured fibula that greatly complicated his first year"
     },
     {
       "id": "603a8d098889",
