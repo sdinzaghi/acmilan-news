@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-02-22T18:33:22.459291+00:00",
+  "lastUpdated": "2026-02-22T19:24:04.388970+00:00",
   "articles": [
+    {
+      "id": "ad28d6bd7226",
+      "title": "Serie A, the updated standings: Parma shatters Milan's championship dreams. Inter at +10",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-parma-infrange-i-sogni-scudetto-del-milan-inter-a-10-608336",
+      "source": "milannews.it",
+      "date": "2026-02-22T19:14:00+00:00",
+      "summary": "Below is the Serie A standings updated after Milan's home defeat against Parma."
+    },
+    {
+      "id": "04d3dd171fb9",
+      "title": "Second defeat in the championship for Milan: the streak ends",
+      "url": "https://www.milannews.it/news/seconda-sconfitta-in-campionato-per-il-milan-si-interrompe-la-striscia-608338",
+      "source": "milannews.it",
+      "date": "2026-02-22T19:12:00+00:00",
+      "summary": "Milan did not capitalize on the opportunities and were blocked by one of Parma's few at the end of the match: Troilo scored in a goal that had been disallowed by Piccinini but then conceded to the VAR, leaving some doubts - the ..."
+    },
+    {
+      "id": "520c0b112ee1",
+      "title": "Serie A, Milan-Parma 0-1: the match scoreboard",
+      "url": "https://www.milannews.it/i-tabellini/serie-a-milan-parma-0-1-il-tabellino-del-match-608339",
+      "source": "milannews.it",
+      "date": "2026-02-22T19:11:06+00:00",
+      "summary": "This is the scoreboard for Milan-Parma 0-1, a match valid for the twenty-sixth matchday of Serie A.\n\nMILAN-PARMA 0-1\nScorers: 84' Troilo."
+    },
+    {
+      "id": "578227234824",
+      "title": "Serie A Liveblog: Atalanta vs. Napoli, Milan vs. Parma, Roma vs. Cremonese",
+      "url": "https://football-italia.net/serie-a-live-atalanta-napoli-milan-parma-roma/",
+      "source": "football-italia.net",
+      "date": "2026-02-22T19:10:12+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "7d1eaf8982a2",
+      "title": "Serie A | Milan 0-1 Parma – Player Ratings as Troilo and Corvi batten down the hatches",
+      "url": "https://football-italia.net/serie-a-milan-0-1-parma-player-ratings/",
+      "source": "football-italia.net",
+      "date": "2026-02-22T19:09:16+00:00",
+      "summary": "Milan fell to a late 1-0 defeat to Parma this evening, after they were unable..."
+    },
+    {
+      "id": "1b78cf3c444d",
+      "title": "AC Milan 0-1 Parma: Troilo’s late winner ends unbeaten run at 24 games",
+      "url": "https://sempremilan.com/ac-milan-0-1-parma-match-report",
+      "source": "sempremilan.com",
+      "date": "2026-02-22T19:09:11+00:00",
+      "summary": "AC Milan’s unbeaten run came to an end at San Siro on Sunday night as they were beaten 1-0 by Parma, which likely ends any faint title hopes too. Milan missed chance after chance to make it an easier evening for themselves, with Rafael Leao’s volley being symbolic of the night as he crashed it […]\nT"
+    },
+    {
+      "id": "0338d8d0b0d7",
+      "title": "Serie A | Milan 0-1 Parma: Rossoneri suffer shocking first defeat in 24 rounds",
+      "url": "https://football-italia.net/serie-a-milan-0-1-parma-shocking-defeat-24/",
+      "source": "football-italia.net",
+      "date": "2026-02-22T19:05:53+00:00",
+      "summary": "Milan paid the price for insipid finishing and sluggish defending, as Parma inflicted their first..."
+    },
+    {
+      "id": "9ba08c26ca1c",
+      "title": "Controversy in Atalanta-Napoli, Manna: \"The situation is worrying. You can't leave Bergamo without points due to the fault of others\"",
+      "url": "https://www.milannews.it/news/polemiche-in-atalanta-napoli-manna-la-situazione-e-preoccupante-non-si-puo-uscire-da-bergamo-senza-punti-per-colpa-altrui-608322",
+      "source": "milannews.it",
+      "date": "2026-02-22T19:00:06+00:00",
+      "summary": "In the post-match of Atalanta-Napoli, a match which saw the Bergamo team win 2 to 1 amidst controversy, the sporting director of the Neapolitans Giovanni Manna appeared at the press conference to comment and raise his voice after the errors ..."
+    },
+    {
+      "id": "b3963886b60d",
+      "title": "LIVE MN - Milan-Parma (0-1): Rossoneri defeated after 24 useful results in a row",
+      "url": "https://www.milannews.it/primo-piano/live-mn-milan-parma-0-1-rossoneri-sconfitti-dopo-24-risultati-utili-di-fila-608306",
+      "source": "milannews.it",
+      "date": "2026-02-22T18:58:44+00:00",
+      "summary": "98' End of the match. Milan loses after 24 useful results in a row and remains -10 behind Inter in the standings."
+    },
+    {
+      "id": "5d9d76e73537",
+      "title": "MIL-PAR (0-1): Milan tries everything, bringing in Nkunku and Athekame",
+      "url": "https://www.milannews.it/news/mil-par-0-1-il-milan-prova-il-tutto-per-tutto-dentro-nkunku-e-athekame-608335",
+      "source": "milannews.it",
+      "date": "2026-02-22T18:55:54+00:00",
+      "summary": "After Troilo's opening goal, Massimiliano Allegri tries everything with a double attacking substitution: Tomori and Jashari out, Nkunku and Athekame in."
+    },
+    {
+      "id": "4d8fb6dc8af4",
+      "title": "MIL-PAR (0-1): sensational at San Siro! Parma ahead thanks to Troilo's goal",
+      "url": "https://www.milannews.it/news/mil-par-0-1-clamoroso-a-san-siro-parma-in-vantaggio-grazie-alla-rete-di-troilo-608334",
+      "source": "milannews.it",
+      "date": "2026-02-22T18:52:13+00:00",
+      "summary": "Incredible at San Siro. Parma finds the advantage with Troilo following corner kicks."
+    },
+    {
+      "id": "544a7eaf4430",
+      "title": "MIL-PAR (0-0): double change for Milan, in Fullkrug and Pavlovic",
+      "url": "https://www.milannews.it/news/mil-par-0-0-doppio-cambio-nel-milan-dentro-fullkrug-e-pavlovic-608333",
+      "source": "milannews.it",
+      "date": "2026-02-22T18:30:58+00:00",
+      "summary": "The first changes in Milan arrive at the hour mark. Marco Landucci, assisted by Massimiliano Allegri, opted for a double substitution: Fullkrug and Pavlovic inside for Pulisic and Estupinan."
+    },
     {
       "id": "0b08e1ca97b3",
       "title": "Bucciantini: \"Championship open until the derby, then we'll see...\"",
@@ -8,14 +104,6 @@
       "source": "milannews.it",
       "date": "2026-02-22T18:24:00+00:00",
       "summary": "Marco Bucciantini, Italian journalist and writer, spoke to Sky Sport before the AC Milan-Parma match, today at 6.00pm at San Siro."
-    },
-    {
-      "id": "85162e5f8317",
-      "title": "LIVE MN - Milan-Parma (0-0): Rossoneri pressing...",
-      "url": "https://www.milannews.it/primo-piano/live-mn-milan-parma-0-0-rossoneri-in-pressing-608306",
-      "source": "milannews.it",
-      "date": "2026-02-22T18:12:44+00:00",
-      "summary": "58' Cross comes back with Bernabè's left which turns into a shot, Maignan blocks in two stages."
     },
     {
       "id": "0794b48778de",
@@ -120,70 +208,6 @@
       "source": "milannews.it",
       "date": "2026-02-22T17:00:50+00:00",
       "summary": "This evening against Parma, Milan are wearing the \"PUMA x Slam Jam x AC Milan Fourth Kit 2025/26\" which is born from the meeting between heritage and contemporaneity, fusing the avant-garde aesthetics of PUMA and Slam Jam with the ..."
-    },
-    {
-      "id": "578227234824",
-      "title": "Serie A Liveblog: Atalanta vs. Napoli, Milan vs. Parma, Roma vs. Cremonese",
-      "url": "https://football-italia.net/serie-a-live-atalanta-napoli-milan-parma-roma/",
-      "source": "football-italia.net",
-      "date": "2026-02-22T17:00:12+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "383e5826e4a5",
-      "title": "Milan-Parma: Allegri disqualified, coach Landucci in his place. The curious fact",
-      "url": "https://www.milannews.it/news/milan-parma-allegri-squalificato-al-suo-posto-mister-landucci-il-dato-curioso-608296",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:59:24+00:00",
-      "summary": "This evening, at 6.00pm, the Rossoneri will face Parma at San Siro, a match valid for the 26th matchday of Serie A."
-    },
-    {
-      "id": "0101372e9f8c",
-      "title": "Sky - Cage out at the last minute, muscle discomfort: De Winter starts",
-      "url": "https://www.milannews.it/news/sky-gabbia-out-all-ultimo-fastidio-muscolare-gioca-de-winter-titolare-608321",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:53:00+00:00",
-      "summary": "Last minute forfeit for Milan, just a few minutes before the starting whistle of the match against Parma which will begin at 6pm at San Siro: as reported by Peppe Di Stefano, correspondent for Sky Sport 24, the central ..."
-    },
-    {
-      "id": "8e500ee5e604",
-      "title": "Van Bommel to MTV: \"An honor to play for Milan. San Siro is always impressive\"",
-      "url": "https://www.milannews.it/gli-ex/van-bommel-a-mtv-un-onore-giocare-nel-milan-san-siro-e-sempre-impressionante-608324",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:52:43+00:00",
-      "summary": "Mark van Bommel, former Rossoneri midfielder present this evening at San Siro for the match against Parma, spoke to Milan TV as follows: \"It's always nice to come back here."
-    },
-    {
-      "id": "14aaa6b6791b",
-      "title": "Van Bommel to DAZN: \"It's important that Milan play as a team. Leao? Better on the wing\"",
-      "url": "https://www.milannews.it/news/van-bommel-a-dazn-e-importante-che-il-milan-giochi-da-squadra-leao-meglio-sulla-fascia-608323",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:52:16+00:00",
-      "summary": "Mark van Bommel, former Rossoneri midfielder, spoke to DAZN before the Milan-Parma match.\n\nIn your opinion, does Milan have top level players apart from Modric? Who do you like?\n\n\"It's important that you play as a team."
-    },
-    {
-      "id": "6e3ef0bc271c",
-      "title": "Where does Milan look in the standings? Landucci: \"Nobody, we have to make our own path\"",
-      "url": "https://www.milannews.it/news/dove-guarda-il-milan-in-classifica-landucci-nessuno-dobbiamo-fare-il-nostro-percorso-608316",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:48:00+00:00",
-      "summary": "Milan takes to the field this afternoon against Parma at San Siro, with the opportunity to gain an advantage over Juventus and Napoli who were defeated over the weekend."
-    },
-    {
-      "id": "d39a8b2f2fcc",
-      "title": "Giovannini to MTV: \"I've been a Milan fan since I was a child. It's a dream to have met Ibra\"",
-      "url": "https://www.milannews.it/news/giovannini-a-mtv-sono-milanista-fin-da-bambino-un-sogno-aver-incontrato-ibra-608319",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:43:45+00:00",
-      "summary": "Andrea Giovannini, two medalists (gold and bronze) in speed skating at the 2026 Milan-Cortina Olympic Games, spoke to Milan TV before the match against Parma: \"It was a great emotion."
-    },
-    {
-      "id": "b44c949d1d68",
-      "title": "Saelemaekers to DAZN: \"Today it's important to immediately give a lot of push. Fabregas? Episode from the past, I'm focused on today\"",
-      "url": "https://www.milannews.it/news/saelemaekers-a-dazn-oggi-importante-dare-subito-tanta-spinta-fabregas-episodio-del-passato-sono-concentrato-su-oggi-608318",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:43:27+00:00",
-      "summary": "Alexis Saelemaekers spoke to DAZN before the Milan-Parma match. His words:\n\nIs the key word today patience?\n\n“Yes, of course."
     },
     {
       "id": "6cac8f712ab8",
@@ -362,14 +386,6 @@
       "summary": "Christian Pulisic and Rafael Leao look set to partner each other in attack for just..."
     },
     {
-      "id": "22c60c05d54d",
-      "title": "Gallery: ‘Keep the title race alive’, ‘Milan in the slipstream’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/front-pages-italy-22-february-milan-parma",
-      "source": "sempremilan.com",
-      "date": "2026-02-22T09:00:00+00:00",
-      "summary": "AC Milan are back in action at San Siro this evening as they host Parma, and the pressure is once again on to win. After the somewhat frustrating draw against Como in midweek which saw Inter consolidate their advantage at the top, the Nerazzurri’s victory over Lecce on Saturday evening means that th"
-    },
-    {
       "id": "1ebade3a7510",
       "title": "Today’s Papers: Juventus unrecognisable, Inter flying, Italy golden land",
       "url": "https://football-italia.net/todays-papers-juventus-unrecognisable-inter/",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-02-20T13:47:07+00:00",
       "summary": "Milan star Rafael Leao admits he avoids going out the week before the derby against..."
-    },
-    {
-      "id": "c765c1d746d1",
-      "title": "Frustrated Milan call AIA after controversial refereeing decisions in 1-1 Como draw",
-      "url": "https://football-italia.net/frustrated-milan-call-aia-after-como-draw/",
-      "source": "football-italia.net",
-      "date": "2026-02-20T13:18:03+00:00",
-      "summary": "Milan have reportedly been in contact with the Italian referees’ association (AIA) after a series..."
-    },
-    {
-      "id": "18a4afe5a487",
-      "title": "Roma the have best defensive record in Europe as Milan, Arsenal and Real Madrid follow",
-      "url": "https://football-italia.net/roma-best-defensive-record-milan-arsenal-real/",
-      "source": "football-italia.net",
-      "date": "2026-02-20T12:36:59+00:00",
-      "summary": "Roma are the least beaten defence in the top five European leagues, but Milan and..."
     }
   ]
 }
