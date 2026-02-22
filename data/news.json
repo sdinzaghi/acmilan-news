@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-02-22T17:24:43.771361+00:00",
+  "lastUpdated": "2026-02-22T18:33:22.459291+00:00",
   "articles": [
+    {
+      "id": "0b08e1ca97b3",
+      "title": "Bucciantini: \"Championship open until the derby, then we'll see...\"",
+      "url": "https://www.milannews.it/news/bucciantini-campionato-aperto-fino-al-derby-poi-si-vedra-608301",
+      "source": "milannews.it",
+      "date": "2026-02-22T18:24:00+00:00",
+      "summary": "Marco Bucciantini, Italian journalist and writer, spoke to Sky Sport before the AC Milan-Parma match, today at 6.00pm at San Siro."
+    },
+    {
+      "id": "85162e5f8317",
+      "title": "LIVE MN - Milan-Parma (0-0): Rossoneri pressing...",
+      "url": "https://www.milannews.it/primo-piano/live-mn-milan-parma-0-0-rossoneri-in-pressing-608306",
+      "source": "milannews.it",
+      "date": "2026-02-22T18:12:44+00:00",
+      "summary": "58' Cross comes back with Bernabè's left which turns into a shot, Maignan blocks in two stages."
+    },
+    {
+      "id": "0794b48778de",
+      "title": "Cherubini praises Allegri and his work: \"He deserves it as a professional and person\"",
+      "url": "https://www.milannews.it/l-avversario/cherubini-esalta-allegri-e-il-suo-lavoro-se-lo-merita-come-professionista-e-persona-608309",
+      "source": "milannews.it",
+      "date": "2026-02-22T18:00:26+00:00",
+      "summary": "Milan takes to the field this afternoon against Parma at San Siro, with the opportunity to gain an advantage over Juventus and Napoli who were defeated over the weekend."
+    },
+    {
+      "id": "9ad998c77430",
+      "title": "Milan-Parma 0-0 at the end of the first half. Loftus-Cheek in hospital after a tough game clash with Corvi",
+      "url": "https://www.milannews.it/news/milan-parma-0-0-a-fine-primo-tempo-loftus-cheek-in-ospedale-dopo-un-duro-scontro-di-gioco-con-corvi-608332",
+      "source": "milannews.it",
+      "date": "2026-02-22T17:55:57+00:00",
+      "summary": "The first half between Milan and Parma ended 0-0."
+    },
+    {
+      "id": "ad92e7503a8c",
+      "title": "Ex-West Ham & Villa man Reo-Coker: ‘Fabregas pull on Saelemaekers inexcusable’",
+      "url": "https://football-italia.net/ex-west-ham-villa-man-reo-coker-fabregas/",
+      "source": "football-italia.net",
+      "date": "2026-02-22T17:50:32+00:00",
+      "summary": "Former West Ham and Aston Villa midfielder turned CBS Sports Golazo pundit Nigel Reo-Coker has..."
+    },
+    {
+      "id": "84734ab43c99",
+      "title": "MN - Severe trauma with broken teeth for Loftus-Cheek",
+      "url": "https://www.milannews.it/news/mn-forte-trauma-con-rottura-dei-denti-per-loftus-cheek-608331",
+      "source": "milannews.it",
+      "date": "2026-02-22T17:39:56+00:00",
+      "summary": "According to what the MilanNews.it editorial team learned from the tough clash with Corvo, Loftus-Cheek suffered severe trauma with broken teeth."
+    },
+    {
+      "id": "219bb51be5d0",
+      "title": "Jaw blow for Loftus: the Englishman is going to hospital for further checks",
+      "url": "https://www.milannews.it/news/colpo-alla-mandibola-per-loftus-l-inglese-sta-andando-in-ospedale-per-ulteriori-controlli-608329",
+      "source": "milannews.it",
+      "date": "2026-02-22T17:36:51+00:00",
+      "summary": "News arrives on the Loftus-Cheek front, who came off in the 11th minute of Milan-Parma after a bad clash with the Ducali goalkeeper Corvo."
+    },
+    {
+      "id": "95e5bc2797c9",
+      "title": "Saelemaekers on the episode with Fabregas: \"It's over, I'll only focus on today's match\"",
+      "url": "https://www.milannews.it/news/saelemaekers-sull-episodio-con-fabregas-e-passato-mi-concreto-solo-sulla-partita-di-oggi-608320",
+      "source": "milannews.it",
+      "date": "2026-02-22T17:36:05+00:00",
+      "summary": "Alexis Saelemaekers spoke to DAZN before the Milan-Parma match. His words:\n\nThe episode with Fabregas:\n\n“I think it's an episode from the past, I'm just focusing on today's match.”"
+    },
+    {
+      "id": "5c878cb3b3f4",
+      "title": "MN - The data on attendance at San Siro for Milan-Parma",
+      "url": "https://www.milannews.it/news/mn-il-dato-sulle-presenze-a-san-siro-per-milan-parma-608330",
+      "source": "milannews.it",
+      "date": "2026-02-22T17:35:35+00:00",
+      "summary": "The data of the spectators present today at San Siro for Milan-Parma, a match valid for the twenty-sixth matchday of Serie A Enilive, has arrived: there are 73."
+    },
+    {
+      "id": "469d56fe6f2a",
+      "title": "Loftus-Cheek leaves on a stretcher: the reconstruction of the Englishman's injury",
+      "url": "https://www.milannews.it/news/loftus-cheek-esce-in-barella-la-ricostruzione-dell-infortunio-dell-inglese-608328",
+      "source": "milannews.it",
+      "date": "2026-02-22T17:31:00+00:00",
+      "summary": "Just over 10 minutes into the match, Milan immediately had to resort to a substitution due to Ruben Loftus-Cheek's bad injury."
+    },
+    {
+      "id": "be4ffa2fa372",
+      "title": "Milan double blow as Loftus-Cheek and Gabbia suffer injuries",
+      "url": "https://football-italia.net/milan-double-loftus-cheek-gabbia-injuries/",
+      "source": "football-italia.net",
+      "date": "2026-02-22T17:25:58+00:00",
+      "summary": "Milan suffered two major injuries in their match against Parma, as Matteo Gabbia pulled out..."
+    },
     {
       "id": "337569c2a4bf",
       "title": "MIL-PAR (0-0): forced substitution in the Devil, Loftus-Cheek out after a bad clash of play",
@@ -8,14 +96,6 @@
       "source": "milannews.it",
       "date": "2026-02-22T17:17:39+00:00",
       "summary": "Forced change for Milan after just 10 minutes of play."
-    },
-    {
-      "id": "0270bd6ef260",
-      "title": "LIVE MN - Milan-Parma (0-0): Jashari in for Loftus-Cheek...",
-      "url": "https://www.milannews.it/primo-piano/live-mn-milan-parma-0-0-dentro-jashari-per-loftus-cheek-608306",
-      "source": "milannews.it",
-      "date": "2026-02-22T17:15:44+00:00",
-      "summary": "17' First opportunity also for Milan: cross from the right by Tomori who finds Estupinan at the far post who touches for Jashari. The Swiss controls and tries the left foot, Crovi saves it to the ground."
     },
     {
       "id": "91774e25eab4",
@@ -128,70 +208,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-22T16:37:26+00:00",
       "summary": "Marco Landucci, head coach for the day, spoke about the game against Parma just a few minutes ago and warned that it will be tough for the Rossoneri.  Since Massimiliano Allegri is serving a one-game ban today, his trusted assistant Landucci will be in charge of Milan from the dugout. It’s not a bad"
-    },
-    {
-      "id": "398ffc60c122",
-      "title": "MN - Olympic gold medalist Andrea Giovannini was present at San Siro for Milan-Parma",
-      "url": "https://www.milannews.it/news/mn-presente-a-san-siro-per-milan-parma-l-oro-olimpico-andrea-giovannini-608314",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:36:28+00:00",
-      "summary": "Special guest at San Siro for today's match between Milan and Parma, a match valid for the 26th matchday of Serie A: Andrea Giovannini."
-    },
-    {
-      "id": "5b85b680c88d",
-      "title": "Landucci to DAZN: \"Parma must be respected. Loftus is an introvert, but he has quality\"",
-      "url": "https://www.milannews.it/news/landucci-a-dazn-bisogna-rispettare-il-parma-loftus-un-introverso-ma-ha-qualita-608315",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:35:58+00:00",
-      "summary": "Marco Landucci, Allegri's deputy (now disqualified, ed.), spoke to DAZN before the match of the match at San Siro against Parma. These are his words:\n\nWhat game are you expecting?\n\n“It's a very dangerous team."
-    },
-    {
-      "id": "90284df9b68a",
-      "title": "Saelemaekers to MTV: \"I'm fine, I've recovered well\"",
-      "url": "https://www.milannews.it/news/saelemaekers-a-mtv-sto-benissimo-mi-sono-ripreso-bene-608313",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:34:34+00:00",
-      "summary": "Before the match against Parma, Alexis Saelemaekers made these statements to Milan TV: \"I'm fine, I've recovered well. I can't wait to get back on the pitch from the first minute and help the team win."
-    },
-    {
-      "id": "2d57b8e20e29",
-      "title": "Saelemaekers on Sky: \"We play by looking at ourselves. Leeo and Pulisic are incredible\"",
-      "url": "https://www.milannews.it/news/saelemaekers-a-sky-si-gioca-guardando-noi-stessi-leeo-e-pulisic-sono-incredibili-608312",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:32:22+00:00",
-      "summary": "Milan takes to the field this afternoon against Parma at San Siro, with the opportunity to gain an advantage over Juventus and Napoli who were defeated over the weekend."
-    },
-    {
-      "id": "e4e543d7cbff",
-      "title": "Landucci on Sky: \"Leao the striker can do it very well. Ranking? We don't have to look at anyone\"",
-      "url": "https://www.milannews.it/primo-piano/landucci-a-sky-leao-la-punta-puo-farla-benissimo-classifica-non-dobbiamo-guardare-nessuno-608310",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:28:08+00:00",
-      "summary": "Milan takes to the field this afternoon against Parma at San Siro, with the opportunity to gain an advantage over Juventus and Napoli who were defeated over the weekend."
-    },
-    {
-      "id": "dbedafbbc051",
-      "title": "Parma, Cherubini: \"No calculations, I'm thinking about tonight\"",
-      "url": "https://www.milannews.it/l-avversario/parma-cherubini-niente-calcoli-il-pensiero-e-a-stasera-608311",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:26:19+00:00",
-      "summary": "Federico Cherubini, CEO of Parma, spoke to DAZN before the match against Milan."
-    },
-    {
-      "id": "2ab185fcc4cd",
-      "title": "Towards Milan-Parma: in the last 8 matches at San Siro both teams have always scored",
-      "url": "https://www.milannews.it/news/verso-milan-parma-nelle-ultime-8-sfide-a-san-siro-entrambe-le-squadre-sempre-a-segno-608292",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:24:19+00:00",
-      "summary": "Ahead of Milan-Parma today at 6pm, the Lega Calcio Serie A website reports these curiosities about the precedents between the two teams: \"The official precedents between the two teams at San Siro are 36 with a balance of 20 victories for Milan (last ..."
-    },
-    {
-      "id": "55acbbdfa9d7",
-      "title": "Parma, Cherubini: \"Allegri is doing an extraordinary job: I was sure of it, he deserves it\"",
-      "url": "https://www.milannews.it/news/parma-cherubini-allegri-sta-facendo-lavoro-straordinario-ne-ero-sicuro-se-lo-merita-608308",
-      "source": "milannews.it",
-      "date": "2026-02-22T16:23:00+00:00",
-      "summary": "Milan takes to the field this afternoon against Parma at San Siro, with the opportunity to gain an advantage over Juventus and Napoli who were defeated over the weekend."
     },
     {
       "id": "29779ddfbc9d",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-02-20T12:36:59+00:00",
       "summary": "Roma are the least beaten defence in the top five European leagues, but Milan and..."
-    },
-    {
-      "id": "46350e123f0a",
-      "title": "Today’s Papers – Furious Milan, McTominay’s ‘soft football’",
-      "url": "https://football-italia.net/todays-papers-furious-milan-mctominay-soft/",
-      "source": "football-italia.net",
-      "date": "2026-02-20T08:34:08+00:00",
-      "summary": "La Gazzetta dello Sport Furious Milan The club is irritated with the referees, call to..."
-    },
-    {
-      "id": "2e2b8b55e6a6",
-      "title": "Why Fabregas cannot be punished with video evidence after Milan 1-1 Como",
-      "url": "https://football-italia.net/why-fabregas-cannot-be-punished-video-evidence/",
-      "source": "football-italia.net",
-      "date": "2026-02-19T18:02:36+00:00",
-      "summary": "Many were calling for video evidence to be used in punishing Como coach Cesc Fabregas..."
     }
   ]
 }
