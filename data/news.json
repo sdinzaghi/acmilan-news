@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-02-22T05:50:51.359869+00:00",
+  "lastUpdated": "2026-02-22T06:44:48.460635+00:00",
   "articles": [
+    {
+      "id": "8789452f48cd",
+      "title": "Here Parma, the list of players called up for the match against Milan",
+      "url": "https://www.milannews.it/news/qui-parma-la-lista-dei-convocati-per-la-partita-contro-il-milan-608257",
+      "source": "milannews.it",
+      "date": "2026-02-22T06:36:01+00:00",
+      "summary": "Below is the note with which Parma, on its website, communicated the list of players called up for tomorrow afternoon's match at San Siro against Milan. The suspended Circati and Mikolajewski are absent."
+    },
+    {
+      "id": "8209f2b74d84",
+      "title": "Milan on the pitch today against Parma: the program for the 26th matchday of Serie A",
+      "url": "https://www.milannews.it/news/milan-oggi-in-campo-contro-il-parma-il-programma-della-26esima-giornata-di-serie-a-608256",
+      "source": "milannews.it",
+      "date": "2026-02-22T06:24:00+00:00",
+      "summary": "This afternoon, at 18:00, Milan will take the field against Parma on the 26th matchday of Serie A Enlive."
+    },
+    {
+      "id": "19a3126ee86a",
+      "title": "Ticket sales for Milan-Turin open on Friday: the details",
+      "url": "https://www.milannews.it/news/aperta-venerdi-la-vendita-dei-biglietti-per-milan-torino-i-dettagli-608255",
+      "source": "milannews.it",
+      "date": "2026-02-22T06:12:00+00:00",
+      "summary": "In the last home match of the month of March, Milan will take the field against Turin on the 30th matchday of the Serie A championship."
+    },
+    {
+      "id": "b6d54692e19c",
+      "title": "Serie A: the updated ranking after Saturday's results",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-dopo-i-risultati-del-sabato-608254",
+      "source": "milannews.it",
+      "date": "2026-02-22T06:00:00+00:00",
+      "summary": "Below is the Serie A standings updated after Saturday's results, which saw Juventus fall at home against Como (0-2), Inter win away in Lecce (0-2) and Lazio not go beyond a 0-0 draw at Cagliari."
+    },
     {
       "id": "1d36b8d43e5d",
       "title": "Milan, Allegri: \"Pavlovic recovered, Pulisic and Leao are better\"",
@@ -128,38 +160,6 @@
       "source": "milannews.it",
       "date": "2026-02-21T21:00:00+00:00",
       "summary": "After the home draw against Como, Massimiliano Allegri's Milan are approaching their next league match against Parma on Sunday at 6pm."
-    },
-    {
-      "id": "ce7892b138c1",
-      "title": "Fonseca and the adventure at Milan: \"I deserved more time, changing something in Italy is difficult\"",
-      "url": "https://www.milannews.it/gli-ex/fonseca-e-l-avventura-al-milan-meritavo-piu-tempo-cambiare-qualcosa-in-italia-e-difficile-608214",
-      "source": "milannews.it",
-      "date": "2026-02-21T20:48:00+00:00",
-      "summary": "Interviewed by The Athletic, Paulo Fonseca - among the many topics discussed - also remembered his period at Milan: \"I deserved more time. Milan is an extraordinary club and I really enjoyed coaching them."
-    },
-    {
-      "id": "5f0d49fdfde6",
-      "title": "Not just Rabiot: Milan have two more bookings against Parma",
-      "url": "https://www.milannews.it/news/non-solo-rabiot-il-milan-ha-altri-due-diffidati-contro-il-parma-608211",
-      "source": "milannews.it",
-      "date": "2026-02-21T20:36:00+00:00",
-      "summary": "Tomorrow Milan will challenge Parma at San Siro. As the Gazzetta dello Sport reminds us, it's not just Adrien Rabiot at risk of disqualification."
-    },
-    {
-      "id": "736861a2e150",
-      "title": "Rome, Gasperini: \"For the club, it's a transition year, I have the Champions League objective\"",
-      "url": "https://www.milannews.it/news/roma-gasperini-per-la-societa-anno-di-transizione-io-ho-l-obiettivo-champions-608238",
-      "source": "milannews.it",
-      "date": "2026-02-21T20:24:03+00:00",
-      "summary": "(ANSA) - ROME, FEBRUARY 21 - \"It was the club and Ranieri who said that this would be a year of transition. I am the one who spoke about the Champions League as an objective."
-    },
-    {
-      "id": "f68cc49fd3ec",
-      "title": "Alvino: \"The Champions League fight is very interesting: Napoli and Milan are still favourites\"",
-      "url": "https://www.milannews.it/news/alvino-la-lotta-champions-e-molto-interessante-napoli-e-milan-comunque-favorite-608192",
-      "source": "milannews.it",
-      "date": "2026-02-21T20:13:24+00:00",
-      "summary": "Carlo Alvino, a journalist of Neapolitan faith, expressed himself thus during 'Terzo Tempo Calcio Napoli' on Televomero: “After Bergamo, the calendar will be more affordable for Napoli."
     },
     {
       "id": "86ecaff0db99",
