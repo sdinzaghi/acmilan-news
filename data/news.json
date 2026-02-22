@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-02-22T20:25:23.612330+00:00",
+  "lastUpdated": "2026-02-22T21:22:42.043128+00:00",
   "articles": [
+    {
+      "id": "273d46574088",
+      "title": "Milan lose again after 25 days: Parma conquers San Siro",
+      "url": "https://www.milannews.it/news/il-milan-torna-a-perdere-dopo-25-giornate-il-parma-espugna-san-siro-608337",
+      "source": "milannews.it",
+      "date": "2026-02-22T21:12:08+00:00",
+      "summary": "Milan lose again in the league after 25 games. Massimiliano Allegri's team fell against Carlos Cuesta's Parma, who with sacrifice, cunning but above all cynicism brought home 3 very important points with a view to survival."
+    },
+    {
+      "id": "70e1d8195528",
+      "title": "Former Serie A referee claims Parma winner against Milan ‘not worthy of on-field review’",
+      "url": "https://football-italia.net/marelli-claims-parma-winner-against-milan/",
+      "source": "football-italia.net",
+      "date": "2026-02-22T21:07:00+00:00",
+      "summary": "The controversy surrounding Parma’s winning goal against Milan at San Siro shows no sign of..."
+    },
+    {
+      "id": "873a2d584ef6",
+      "title": "Gabbia avoids refereeing controversies: \"We must have the strength not to be influenced by these decisions. It's not up to us to judge\"",
+      "url": "https://www.milannews.it/news/gabbia-evita-le-polemiche-arbitrali-dobbiamo-avere-la-forza-di-non-essere-influenzati-da-queste-decisioni-non-sta-a-noi-giudicare-608374",
+      "source": "milannews.it",
+      "date": "2026-02-22T21:00:27+00:00",
+      "summary": "Matteo Gabbia, AC Milan defender, spoke to TeleLombardia at the end of Milan-Parma 0-1. These are his words:\n\nHow are you?\n\n“I could have been better, I'll see with the doctors what happened tonight."
+    },
+    {
+      "id": "977b6cac828e",
+      "title": "An obvious block turned into an obvious error",
+      "url": "https://www.milannews.it/primo-piano/un-blocco-evidente-trasformato-in-un-evidente-errore-608373",
+      "source": "milannews.it",
+      "date": "2026-02-22T20:48:36+00:00",
+      "summary": "After 24 useful results in a row in Serie A, Milan lose again in the championship."
+    },
+    {
+      "id": "ee2701e1b359",
+      "title": "Marelli: \"According to the regulations, the goal did not have to be validated\"",
+      "url": "https://www.milannews.it/news/marelli-a-termini-di-regolamento-la-rete-di-non-andava-convalidata-608354",
+      "source": "milannews.it",
+      "date": "2026-02-22T20:36:14+00:00",
+      "summary": "Luca Marelli, referee commentator for DAZN, thus analyzed the controversial episode that gave Parma the winning goal. His statements:\n\n“Valenti's block is more complex and seems very voluntary to me."
+    },
     {
       "id": "2af2bd9e49fe",
       "title": "Milan midfielder Loftus-Cheek suffers jaw fracture in defeat to Parma",
@@ -202,44 +242,12 @@
       "summary": "Carlos Cuesta, Parma coach, spoke to the microphones of Sky Sport 24 at the end of Milan-Parma 0-1. His full statements."
     },
     {
-      "id": "be9643434244",
-      "title": "Marchegiani on the Parma goal: \"Once upon a time the goalkeeper was protected in his area\"",
-      "url": "https://www.milannews.it/news/marchegiani-sul-gol-del-parma-una-volta-il-portiere-veniva-tutelato-nella-sua-area-608341",
-      "source": "milannews.it",
-      "date": "2026-02-22T19:34:28+00:00",
-      "summary": "Luca Marchegiani, former Serie A goalkeeper and now commentator for Sky Sport 24, intervened after the match of Milan-Parma 0-1 and commented on the episode of Troilo's goal, much discussed and conceded after a review by the ..."
-    },
-    {
       "id": "74ec4192014a",
       "title": "Player Ratings: AC Milan 0-1 Parma – Bartesaghi blunder; Pulisic misses",
       "url": "https://sempremilan.com/player-ratings-ac-milan-0-1-parma-bartesaghi",
       "source": "sempremilan.com",
       "date": "2026-02-22T19:31:22+00:00",
       "summary": "AC Milan dropped points once again, this time all three, as Parma prevailed by the odd goal at San Siro. Several players struggled and below are the ratings for the Rossoneri.  If you haven’t already, make sure to check out how we decide the player ratings. From the scale to what affects the rating,"
-    },
-    {
-      "id": "9dcdbaf6fcaf",
-      "title": "Florenzi: \"Foul or no foul, the only thing I'll say is that Valenti isn't interested in the ball\"",
-      "url": "https://www.milannews.it/news/florenzi-fallo-o-non-fallo-unica-cosa-che-dico-e-che-valenti-si-disinteressa-del-pallone-608340",
-      "source": "milannews.it",
-      "date": "2026-02-22T19:24:15+00:00",
-      "summary": "Alessandro Florenzi, former player of Milan and now commentator for Sky Sport 24, intervened after the match of Milan-Parma 0-1 and commented on the episode of Troilo's goal, much discussed and conceded after review..."
-    },
-    {
-      "id": "9ab59d99aed6",
-      "title": "Parma, Valenti: \"I was with my back to Maignan, I didn't do anything. I was sure it would have been a goal\"",
-      "url": "https://www.milannews.it/l-avversario/parma-valenti-ero-di-schiena-su-maignan-non-ho-fatto-niente-ero-sicuro-che-sarebbe-stato-gol-608342",
-      "source": "milannews.it",
-      "date": "2026-02-22T19:22:30+00:00",
-      "summary": "Lautaro Valenti, Parma defender, spoke to DAZN at the end of the San Siro match against Milan:\n\nWhere did this victory at San Siro come from?\n\n“It comes from the determination we all have together."
-    },
-    {
-      "id": "ad28d6bd7226",
-      "title": "Serie A, the updated standings: Parma shatters Milan's championship dreams. Inter at +10",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-parma-infrange-i-sogni-scudetto-del-milan-inter-a-10-608336",
-      "source": "milannews.it",
-      "date": "2026-02-22T19:14:00+00:00",
-      "summary": "Below is the Serie A standings updated after Milan's home defeat against Parma."
     },
     {
       "id": "7d1eaf8982a2",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-02-20T18:06:59+00:00",
       "summary": "AC Milan are quietly but decisively building their plans for the summer transfer window, and..."
-    },
-    {
-      "id": "fe2664d29bdc",
-      "title": "Extra Champions League spot: Where Italy stands after Inter loss and Bologna win",
-      "url": "https://football-italia.net/extra-champions-league-spot-where-italy-stands/",
-      "source": "football-italia.net",
-      "date": "2026-02-20T16:25:31+00:00",
-      "summary": "Italy’s chances of attaining an additional spot in next year’s Champions League remain slim despite..."
     }
   ]
 }
