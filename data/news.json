@@ -1,9 +1,81 @@
 {
-  "lastUpdated": "2026-02-23T19:18:59.075806+00:00",
+  "lastUpdated": "2026-02-23T20:43:44.331509+00:00",
   "articles": [
     {
+      "id": "37a1c039864e",
+      "title": "Chiellini and the psychotherapist Iacopo Fossi show how football is an extraordinary tool for inclusion",
+      "url": "https://www.milannews.it/news/chiellini-e-lo-psicoterapeuta-iacopo-fossi-mostrano-come-il-calcio-sia-uno-straordinario-strumento-di-inclusione-608424",
+      "source": "milannews.it",
+      "date": "2026-02-23T20:30:40+00:00",
+      "summary": "(ANSA) - ROME, FEBRUARY 20 - The journey of 'Speak Out! Football tells' continues on sostenabilia.it with the sixth episode entitled 'Yes, we can'."
+    },
+    {
+      "id": "b4368c577cda",
+      "title": "Pistocchi against Allegri: \"Are you sure he's the right man? The season is reminiscent of the tragicomic one of Juve 23/24\"",
+      "url": "https://www.milannews.it/news/pistocchi-contro-allegri-sicuri-sia-l-uomo-giusto-la-stagione-ricorda-quella-tragicomica-della-juve-23-24-608492",
+      "source": "milannews.it",
+      "date": "2026-02-23T20:20:00+00:00",
+      "summary": "The second defeat of Milan in the championship, reasonably, caused discussion."
+    },
+    {
+      "id": "9e6a5cfcb435",
+      "title": "Leao, words from a leader: the motivational phrase on social media",
+      "url": "https://www.milannews.it/news/leao-parole-da-leader-la-frase-motivazionale-sui-social-608458",
+      "source": "milannews.it",
+      "date": "2026-02-23T20:10:15+00:00",
+      "summary": "This afternoon, Rafa Leao posted a personal photo of himself and a team photo with a motivational phrase that makes it clear that in the Portuguese's mind, nothing is lost."
+    },
+    {
+      "id": "e1f3bb3a08f8",
+      "title": "Calvarese: \"Without VAR yesterday there was no discussion, it's a paradox. The problem is technical\"",
+      "url": "https://www.milannews.it/news/calvarese-senza-var-ieri-nessuna-discussione-e-un-paradosso-il-problema-e-tecnico-608457",
+      "source": "milannews.it",
+      "date": "2026-02-23T20:00:12+00:00",
+      "summary": "Gianpaolo Calvarese, former Prime referee and moviolista, spoke on Stile TV during Raffaele Auriemma's show “Salite sulla giostra”.\n\n“The problem is technical and training, I'm convinced."
+    },
+    {
+      "id": "7aee93d743b1",
+      "title": "Hauge returns to San Siro... and the tunnel is colored red and black!",
+      "url": "https://www.milannews.it/gli-ex/hauge-torna-a-san-siro-e-il-tunnel-si-colora-di-rossonero-608491",
+      "source": "milannews.it",
+      "date": "2026-02-23T19:50:15+00:00",
+      "summary": "Jens Petter Hauge returns to San Siro and does so as Inter's opponent, in what for him is a bit of a derby."
+    },
+    {
+      "id": "f3cca5944c2f",
+      "title": "Serie A, the updated standings: Fiorentina lights up the battle for salvation, Pisa in trouble",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-la-fiorentina-accende-la-bagarre-salvezza-pisa-inguaiato-608470",
+      "source": "milannews.it",
+      "date": "2026-02-23T19:40:22+00:00",
+      "summary": "Very heavy victory for Fiorentina who, by beating Pisa 1-0, not only won the Derby but also won a very important direct clash for survival."
+    },
+    {
+      "id": "0121e4d2cd1f",
+      "title": "AC Milan 0-1 Parma: Five things we learned – headaches emerge all over the pitch",
+      "url": "https://sempremilan.com/ac-milan-0-1-parma-five-things-we-learned-headaches-emerge-all-over-the-pitch",
+      "source": "sempremilan.com",
+      "date": "2026-02-23T19:32:19+00:00",
+      "summary": "AC Milan’s 24-game unbeaten run was ended by Parma on Sunday evening at San Siro, and the Scudetto dreams evaporated with it. As is not an uncommon theme so far this season, Milan missed a number of chances to make it an easier game for themselves. Christian Pulisic and Rafael Leao came closest, wit"
+    },
+    {
+      "id": "5f3417089832",
+      "title": "Fiorentina wins the derby against Pisa: three very important points in the key to survival",
+      "url": "https://www.milannews.it/news/la-fiorentina-vince-il-derby-con-il-pisa-tre-punti-pesantissimi-in-chiave-salvezza-608469",
+      "source": "milannews.it",
+      "date": "2026-02-23T19:30:00+00:00",
+      "summary": "Fiorentina is trying to make a comeback after a very complicated first part of the season, spent practically always in the relegation zone."
+    },
+    {
+      "id": "901e4bbcfa9a",
+      "title": "Three consecutive victories for Parma: this hasn't happened since the days of Donadoni. And always against Milan",
+      "url": "https://www.milannews.it/news/tre-vittorie-consecutive-per-il-parma-non-accadeva-dai-tempi-di-donadoni-e-sempre-contro-il-milan-608433",
+      "source": "milannews.it",
+      "date": "2026-02-23T19:20:01+00:00",
+      "summary": "Parma have won three consecutive matches in Serie A for the first time since March 2014, with Roberto Donadoni on the bench – on that occasion, the third match was against Milan at the Meazza (4-2). Opta reports it."
+    },
+    {
       "id": "cab5a6972d6a",
-      "title": "Ravezzani on the Parma goal: \"In two borderline incidents, Milan were penalized in both, the decision on the pitch should have been left\"",
+      "title": "Ravezzani on the Parma goal: \"On two borderline incidents, Milan were penalized in both, the decision on the pitch should have been left\"",
       "url": "https://www.milannews.it/news/ravezzani-sul-gol-del-parma-su-due-episodi-al-limite-il-milan-e-stato-penalizzato-in-entrambi-andava-lasciata-la-decisione-di-campo-608451",
       "source": "milannews.it",
       "date": "2026-02-23T19:10:11+00:00",
@@ -130,30 +202,6 @@
       "summary": "Some clarity on Matteo Gabbia’s condition has arrived after there was some panic in the build-up to the game against Parma. There was a late line-up change for Massimiliano Allegri to make just before kick-off against Parma.  Gabbia pulled up during the warm-ups with muscle discomfort so he was with"
     },
     {
-      "id": "c531a6f19aac",
-      "title": "Milan: Loftus Cheek's condition after surgery",
-      "url": "https://www.milannews.it/news/milan-le-condizioni-di-loftus-cheek-dopo-l-intervento-chirurgico-608483",
-      "source": "milannews.it",
-      "date": "2026-02-23T17:20:50+00:00",
-      "summary": "(ANSA) - MILAN, FEBRUARY 23 - weeks out for Loftus Cheek. Milan communicates this."
-    },
-    {
-      "id": "1cc9478d3295",
-      "title": "MN - Former referee Carmagnini: \"Anything happens every Sunday. The referees are adapting to the level of Italian football\"",
-      "url": "https://www.milannews.it/news/mn-l-ex-arbitro-carmagnini-ogni-domenica-ne-succedono-di-ogni-gli-arbitri-si-stanno-adeguando-al-livello-del-calcio-italiano-608462",
-      "source": "milannews.it",
-      "date": "2026-02-23T17:10:44+00:00",
-      "summary": "Milan-Parma leaves a legacy of incandescent controversies: from Valenti's block on Maignan to the possible foul by Troilo, scorer of the decisive goal, on Bartesaghi."
-    },
-    {
-      "id": "a303bed95f12",
-      "title": "MN - For Gabbia, strain on the flexors of the right thigh. Muscle-tendon injuries excluded",
-      "url": "https://www.milannews.it/news/mn-per-gabbia-risentimento-ai-flessori-della-coscia-destra-escluse-lesioni-muscolo-tendinee-608480",
-      "source": "milannews.it",
-      "date": "2026-02-23T17:02:46+00:00",
-      "summary": "The editorial staff of MilanNews.it understands that during yesterday's pre-match warm-up, Matteo Gabbia reported a strain on the flexors of his right thigh."
-    },
-    {
       "id": "14c9d00b6e4f",
       "title": "Official: Loftus-Cheek undergoes operation on fractured jaw – his recovery time",
       "url": "https://sempremilan.com/loftus-cheek-undergoes-operation-fractured-jaw",
@@ -162,52 +210,12 @@
       "summary": "AC Milan have confirmed that Ruben Loftus-Cheek underwent surgery after his nasty injury during Sunday’s game against Parma. There was a rather sickening moment in the first few minutes of the 1-0 defeat at San Siro. Alexis Saelemaekers sent in a rabona cross that Loftus-Cheek tried to meet, but his"
     },
     {
-      "id": "0caabec6cf07",
-      "title": "Pistocchi: \"Any deliberate contact with the goalkeeper inside the goal area should always be sanctioned: the referee had made the correct decision\"",
-      "url": "https://www.milannews.it/news/pistocchi-ogni-contatto-deliberato-sul-portiere-all-interno-dell-area-di-porta-andrebbe-sempre-sanzionato-l-arbitro-aveva-preso-la-decisione-corretta-608440",
-      "source": "milannews.it",
-      "date": "2026-02-23T16:50:14+00:00",
-      "summary": "Maurizio Pistocchi, journalist, expressed himself as follows on"
-    },
-    {
       "id": "fa7d8029c675",
       "title": "Official: Milan confirm Loftus-Cheek recovery time after horror facial injury",
       "url": "https://football-italia.net/milan-confirm-loftus-cheek-recovery-time/",
       "source": "football-italia.net",
       "date": "2026-02-23T16:41:25+00:00",
       "summary": "Milan have confirmed that midfielder Ruben Loftus-Cheek has undergone surgery, that he has been discharged..."
-    },
-    {
-      "id": "71aecf1e8334",
-      "title": "Pasotto: \"There is only one, very small consolation for Milan who falls thunderously at home to Parma\"",
-      "url": "https://www.milannews.it/news/pasotto-c-e-una-unica-magrissima-consolazione-per-il-milan-che-cade-fragorosamente-in-casa-col-parma-608436",
-      "source": "milannews.it",
-      "date": "2026-02-23T16:40:24+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on Milan-Parma: \"It started with a -10 and a +8, and that's how it ended."
-    },
-    {
-      "id": "68c9c999007a",
-      "title": "PHOTO - Before and after, Loftus shows the results of the operation after the bad injury",
-      "url": "https://www.milannews.it/news/foto-prima-e-dopo-loftus-mostra-i-risultati-dell-operazione-dopo-il-brutto-infortunio-608479",
-      "source": "milannews.it",
-      "date": "2026-02-23T16:38:37+00:00",
-      "summary": "Through his Instagram stories, Ruben Loftus-Cheek, who suffered a very bad injury last night (fracture of the alveolar process of the jaw), warned that the surgery was a perfect success."
-    },
-    {
-      "id": "8390a1a2a7b4",
-      "title": "OFFICIAL: Operation Loftus-Cheek successful. Recovery time estimated at 8 weeks",
-      "url": "https://www.milannews.it/news/ufficiale-operazione-loftus-cheek-riuscita-tempi-di-recupero-stimati-in-8-settimane-608478",
-      "source": "milannews.it",
-      "date": "2026-02-23T16:36:13+00:00",
-      "summary": "AC Milan announces that Ruben Loftus-Cheek, yesterday, suffered a significant facial trauma which resulted in the fracture of the alveolar process of the jaw."
-    },
-    {
-      "id": "15f81fdffc22",
-      "title": "Varriale doubtful: \"But why doesn't VAR intervene on the disallowed goal in Bergamo and instead does it on the disallowed one in Parma?\"",
-      "url": "https://www.milannews.it/news/varriale-dubbioso-ma-perche-il-var-non-interviene-su-gol-annullato-a-bergamo-e-invece-lo-fa-su-quello-annullato-a-parma-608441",
-      "source": "milannews.it",
-      "date": "2026-02-23T16:30:56+00:00",
-      "summary": "Enrico Varriale, journalist, expressed himself as follows on X commenting on Milan's defeat against Parma: \"By beating Milan, Parma gives the scudetto to Inter."
     },
     {
       "id": "0149e8ab47a4",
@@ -344,14 +352,6 @@
       "source": "sempremilan.com",
       "date": "2026-02-23T10:15:00+00:00",
       "summary": "AC Milan needed to win to keep the Scudetto race alive against Parma on Sunday, but instead their unbeaten run was ended. As Corriere dello Sport (via MilanNews) write this morning, the game against Parma should have been a chance for Milan to show that they are fully over their hoodoo against teams"
-    },
-    {
-      "id": "81618ec3638b",
-      "title": "Reports: Loftus-Cheek set for surgery with season-ending injury feared – Corvi’s gesture",
-      "url": "https://sempremilan.com/loftus-cheek-surgery-season-ending-injury-feared",
-      "source": "sempremilan.com",
-      "date": "2026-02-23T09:50:00+00:00",
-      "summary": "In addition to losing the game late on, there was another negative note for AC Milan on Sunday as Ruben Loftus-Cheek had to be stretchered off. As MilanNews recall, Loftus-Cheek had to leave the San Siro pitch just minutes into the match against Parma, taken to hospital on a stretcher and in a neck "
     },
     {
       "id": "6a90b72fa08b",
