@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-02-24T07:06:57.080383+00:00",
+  "lastUpdated": "2026-02-24T08:44:40.676593+00:00",
   "articles": [
+    {
+      "id": "b7393955c7d3",
+      "title": "Serious mistakes, but the club's silence is also not good. Lock down the Champions League then targeted purchases. Watch out for backlash",
+      "url": "https://www.milannews.it/editoriale/errori-gravi-ma-pure-il-silenzio-del-club-non-va-bene-blindare-la-champions-poi-acquisti-mirati-occhio-al-contraccolpo-608490",
+      "source": "milannews.it",
+      "date": "2026-02-24T08:38:36+00:00",
+      "summary": "It would be wrong to reduce everything to refereeing episodes, and equally wrong not to consider VAR errors just for the sake of going against Max Allegri. When analyzing Milan's current moment, both factors must be taken into account."
+    },
+    {
+      "id": "5e690766dee0",
+      "title": "CorSport on Milan: \"Tris for the Champions League spot\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-sul-milan-tris-per-il-posto-champions-608516",
+      "source": "milannews.it",
+      "date": "2026-02-24T08:30:00+00:00",
+      "summary": "After the defeat against Parma, Milan must look forward. The Devil's objective must be what Max Allegri has always declared, qualification for the next Champions League."
+    },
+    {
+      "id": "f7833d2d0ef3",
+      "title": "La Gazzetta returns to Milan-Parma and the refereeing errors: \"Poisoned blocks\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-torna-su-milan-parma-e-gli-errori-arbitrali-blocchi-avvelenati-608538",
+      "source": "milannews.it",
+      "date": "2026-02-24T08:20:00+00:00",
+      "summary": "Milan has not yet digested the home defeat against Parma. And not for the defeat itself, but for how it happened and for the obvious refereeing errors that affected the match."
+    },
+    {
+      "id": "9a860521a4f9",
+      "title": "Complicated moment for the Devil, Tuttosport: \"Milan crisis\"",
+      "url": "https://www.milannews.it/rassegna-stampa/momento-complicato-per-il-diavolo-tuttosport-crisi-milan-608513",
+      "source": "milannews.it",
+      "date": "2026-02-24T08:10:00+00:00",
+      "summary": "Milan is not going through an easy period. First the draw against Como, then the defeat against Parma and a -10 from Inter which hurts."
+    },
+    {
+      "id": "31ed8a8a4f80",
+      "title": "Milan, Allegri's puzzle. CorSport: \"The unknown is Pulisic\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-il-rebus-di-allegri-il-corsport-l-incognita-e-pulisic-608515",
+      "source": "milannews.it",
+      "date": "2026-02-24T08:00:00+00:00",
+      "summary": "The fluctuating AC Milan at the beginning of 2026 was also affected by the poor performance of Christian Pulisic."
+    },
+    {
+      "id": "e1b22c2203d7",
+      "title": "La Gazzetta returns to Loftus' injury: \"What a blow!\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-torna-sull-infortunio-di-loftus-che-botta-608536",
+      "source": "milannews.it",
+      "date": "2026-02-24T07:50:00+00:00",
+      "summary": "Milan-Parma, in addition to disappointment and controversy over the negative result, also brought with it the aftermath of the injury suffered by Ruben Loftus-Cheek."
+    },
+    {
+      "id": "d051db257980",
+      "title": "The opening QS: \"Milan fury against referees and VAR protocol\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-qs-in-apertura-furia-milan-contro-arbitri-e-protocollo-var-608511",
+      "source": "milannews.it",
+      "date": "2026-02-24T07:40:00+00:00",
+      "summary": "Milan-Parma brought with it an avalanche of controversies which are now becoming habitual in this championship."
+    },
+    {
+      "id": "16f7dfde5b60",
+      "title": "Tuttosport on Milan: \"Now Allegri must be a psychologist\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-sul-milan-ora-allegri-deve-fare-lo-psicologo-608512",
+      "source": "milannews.it",
+      "date": "2026-02-24T07:30:00+00:00",
+      "summary": "Milan's last week was more than negative. First the draw against Como, then the home defeat against Parma: precious points that saw Inter escape to +10 in the standings."
+    },
+    {
+      "id": "3b3bde0de0b6",
+      "title": "CorSport opens on Milan: \"Loftus-Cheek, the shocking photo\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-in-apertura-sul-milan-loftus-cheek-la-foto-shock-608510",
+      "source": "milannews.it",
+      "date": "2026-02-24T07:20:00+00:00",
+      "summary": "So much fear for Ruben Loftus-Cheek. The Rossoneri midfielder was seriously injured after the aerial collision with Corvi in ​​the match against Parma."
+    },
+    {
+      "id": "d7428166574c",
+      "title": "La Gazzetta on the front page on Milan: \"Loftus, what a blow!\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-prima-pagina-sul-milan-loftus-che-botta-608509",
+      "source": "milannews.it",
+      "date": "2026-02-24T07:10:00+00:00",
+      "summary": "Complicated days for Milan, who after the home defeat against Parma found themselves 10 points behind Inter. Another bad news comes from Ruben Loftus-Cheek, who underwent surgery after the bad clash with Corvi."
+    },
     {
       "id": "30894e64cb6f",
       "title": "Cheerful, it's your turn: Max the commander to reach the final goal",
@@ -59,7 +139,7 @@
     },
     {
       "id": "0fae3a022112",
-      "title": "Criscitiello: \"Milan's decline also cancels the wait for the derby on March 8\"",
+      "title": "Criscitiello: \"Milan's decline also cancels the wait for the derby on 8 March\"",
       "url": "https://www.milannews.it/news/criscitiello-il-calo-del-milan-annulla-anche-l-attesa-per-il-derby-dell-8-marzo-608406",
       "source": "milannews.it",
       "date": "2026-02-24T00:00:00+00:00",
@@ -79,87 +159,7 @@
       "url": "https://www.milannews.it/news/pellegatti-sottolineo-l-assoluta-totale-continua-e-nemmeno-inaspettata-mancanza-di-qualsiasi-comunicazione-da-parte-del-milan-608500",
       "source": "milannews.it",
       "date": "2026-02-23T23:40:00+00:00",
-      "summary": "The refereeing decisions that led to Parma's victory away to Milan caused discussion, as now happens every weekend."
-    },
-    {
-      "id": "86011d26fb69",
-      "title": "Milan still penalized, Calvarese admits: \"Very bad performance from VAR\"",
-      "url": "https://www.milannews.it/news/milan-ancora-penalizzato-calvarese-ammette-prestazione-molto-negativa-del-var-608485",
-      "source": "milannews.it",
-      "date": "2026-02-23T23:30:00+00:00",
-      "summary": "Gianpaolo Calvarese commented on the episodes regarding the Italian whistles and VAR which have generated so much controversy in this period. In particular, the very serious and incredible errors that occurred in Milan-Parma hold center stage."
-    },
-    {
-      "id": "74e81c7aeb07",
-      "title": "Ravezzani doesn't make dramas: \"Milan's Scudetto was unthinkable even before, but the bitterness remains\"",
-      "url": "https://www.milannews.it/news/ravezzani-non-fa-drammi-impensabile-lo-scudetto-del-milan-anche-prima-ma-rimane-l-amarezza-608448",
-      "source": "milannews.it",
-      "date": "2026-02-23T23:20:23+00:00",
-      "summary": "On the QSVS YouTube channel, director Fabio Ravezzani commented on Milan-Parma as follows:\n\n\"Let's be honest, no AC Milan fan with common sense thought they could win the Scudetto again over Inter who were at +10 but in short..."
-    },
-    {
-      "id": "e1c4c4253317",
-      "title": "It is the second time in this championship that Milan have not found the goal in a match",
-      "url": "https://www.milannews.it/news/e-la-seconda-volta-in-questo-campionato-che-il-milan-non-trova-il-gol-in-una-partita-608431",
-      "source": "milannews.it",
-      "date": "2026-02-23T23:10:10+00:00",
-      "summary": "Milan did not score for the second time in this Serie A (0-0 vs Juventus in October). Opta reports it."
-    },
-    {
-      "id": "b7393955c7d3",
-      "title": "Serious mistakes, but the club's silence is also not good. Lock down the Champions League then targeted purchases. Watch out for the backlash",
-      "url": "https://www.milannews.it/editoriale/errori-gravi-ma-pure-il-silenzio-del-club-non-va-bene-blindare-la-champions-poi-acquisti-mirati-occhio-al-contraccolpo-608490",
-      "source": "milannews.it",
-      "date": "2026-02-23T23:00:36+00:00",
-      "summary": "It would be wrong to reduce everything to refereeing episodes, and equally wrong not to consider VAR errors just for the sake of going against Max Allegri. When analyzing Milan's current moment, both factors must be taken into account."
-    },
-    {
-      "id": "ad53583b4fb0",
-      "title": "Milan Futuro, the veteran Magrassi: \"Seeing the kids grow is always satisfying\"",
-      "url": "https://www.milannews.it/milan-futuro/milan-futuro-il-veterano-magrassi-vedere-i-ragazzi-che-crescono-e-sempre-soddisfacente-608486",
-      "source": "milannews.it",
-      "date": "2026-02-23T22:50:43+00:00",
-      "summary": "On Sunday, Milan Futuro returned to victory away from home and did so in great style, winning 0-3 on the pitch at Caldiero Terme thanks to goals from Magrassi, Chaka Traorè and Sala."
-    },
-    {
-      "id": "a5f0273d7d46",
-      "title": "Benfica's Prestianni suspended against Real Madrid after racism allegations",
-      "url": "https://www.milannews.it/news/prestianni-del-benfica-squalificato-contro-il-real-dopo-le-accuse-di-razzismo-608477",
-      "source": "milannews.it",
-      "date": "2026-02-23T22:40:54+00:00",
-      "summary": "(ANSA) - ROME, FEBRUARY 23 - Gianluca Prestianni, the Argentine player of Benfica Lisbon accused of racism by Real Madrid players during the first leg of the Champions League playoffs, has been \"provisionally suspended\" by ..."
-    },
-    {
-      "id": "5eb57af1103e",
-      "title": "Ravezzani ironic about Milan's call to the AIA: \"Who did he call? The effects have been seen\"",
-      "url": "https://www.milannews.it/news/ravezzani-ironico-sulla-chiamata-del-milan-all-aia-a-chi-ha-telefonato-gli-effetti-si-son-visti-608474",
-      "source": "milannews.it",
-      "date": "2026-02-23T22:30:00+00:00",
-      "summary": "The comment by Fabio Ravezzani, director of TeleLombardia, commented on Milan's defeat at the San Siro against Parma with a tweet on his personal X profile: \"Milan (Furlani?) 5 days ago whispered to the Gazzetta that they had ch ..."
-    },
-    {
-      "id": "4257b7010808",
-      "title": "Rossoneri youth sector: all the results of the weekend",
-      "url": "https://www.milannews.it/settore-giovanile/settore-giovanile-rossonero-tutti-i-risultati-del-weekend-608503",
-      "source": "milannews.it",
-      "date": "2026-02-23T22:20:14+00:00",
-      "summary": "An intense weekend for the Rossoneri's Youth Sector, with confirmations, goals and hard-fought challenges."
-    },
-    {
-      "id": "e4bffd629335",
-      "title": "Zazzaroni on the referee class: \"Poor, they are simply poor\"",
-      "url": "https://www.milannews.it/news/zazzaroni-sulla-classe-arbitrale-scarsi-sono-semplicemente-scarsi-608504",
-      "source": "milannews.it",
-      "date": "2026-02-23T22:10:00+00:00",
-      "summary": "In the aftermath of the dubious refereeing episodes in Bergamo for Atalanta-Napoli and at San Siro for Milan-Parma, the Corriere dello Sport had a front page headline on refereeing issues as follows: \"We give up!\"."
-    },
-    {
-      "id": "a69e2a225593",
-      "title": "Serie A, the updated standings: Bologna keeps their European hopes alive",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-bologna-tiene-vive-le-speranze-europee-608473",
-      "source": "milannews.it",
-      "date": "2026-02-23T22:00:54+00:00",
-      "summary": "With the second victory in two consecutive weekends, something that had been missing for a while, Bologna gained three points which allowed them to overtake Lazio and Sassuolo and move into eighth position."
+      "summary": "The refereeing decisions that led to the victory of Parma at home to Milan caused discussion, as now happens every weekend."
     },
     {
       "id": "788c5d351c80",
