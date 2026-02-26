@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-02-26T07:02:37.726633+00:00",
+  "lastUpdated": "2026-02-26T08:45:00.116395+00:00",
   "articles": [
+    {
+      "id": "63a14fc2d9d7",
+      "title": "Gazzetta: \"San Siro as Champions. Stadium effect: Milan is counting on us for the big matches\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-san-siro-da-champions-effetto-stadio-il-milan-ci-conta-per-le-partitissime-608746",
+      "source": "milannews.it",
+      "date": "2026-02-26T08:39:17+00:00",
+      "summary": "\"San Siro as Champions."
+    },
+    {
+      "id": "ab215f4905bb",
+      "title": "CorSport: \"Allegri and Fabregas, the opposites press on\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-allegri-e-fabregas-gli-opposti-si-pressano-608731",
+      "source": "milannews.it",
+      "date": "2026-02-26T08:30:00+00:00",
+      "summary": "A challenge that never seems to end, the one between Milan and Como. First the outward journey, then the chaos on the return leg."
+    },
+    {
+      "id": "3d94b6a75549",
+      "title": "QS: \"Tabù Milan: so much effort with the small teams. In Cremona for the reversal before the derby\"",
+      "url": "https://www.milannews.it/rassegna-stampa/qs-tabu-milan-quanta-fatica-con-le-piccole-a-cremona-per-l-inversione-prima-del-derby-608745",
+      "source": "milannews.it",
+      "date": "2026-02-26T08:19:26+00:00",
+      "summary": "The Quotidiano Sportivo on newsstands today has the headline: \"Tabù Milan: so much effort with the small teams. In Cremona for the turnaround before the derby\"."
+    },
+    {
+      "id": "4bcec6137b71",
+      "title": "Milan, Gabbia remains to be evaluated in view of the Cremonese",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-gabbia-resta-da-valutare-in-vista-della-cremonese-608743",
+      "source": "milannews.it",
+      "date": "2026-02-26T08:09:12+00:00",
+      "summary": "Milan continues training at Milanello to prepare for the away match on Sunday at lunchtime on the Cremonese pitch."
+    },
+    {
+      "id": "bfc6f587abd5",
+      "title": "CorSport traces Milan's line: \"For Europe\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-traccia-la-linea-del-milan-per-l-europa-608729",
+      "source": "milannews.it",
+      "date": "2026-02-26T08:00:00+00:00",
+      "summary": "After the disappointment of the home defeat against Parma, Milan must think about the away match against Cremonese on Sunday."
+    },
+    {
+      "id": "a0d954fbd0d5",
+      "title": "Tuttosport: \"Milan objective: find Pulisic again and keep him close\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-obiettivo-milan-ritrovare-pulisic-e-tenerselo-stretto-608744",
+      "source": "milannews.it",
+      "date": "2026-02-26T07:50:15+00:00",
+      "summary": "Tuttosport on newsstands this morning has the headline: \"Milan objective: find Pulisic again and keep him close\"."
+    },
+    {
+      "id": "937c26325abc",
+      "title": "Derby at risk: Rabiot warned of a booking, but will still play in Cremona",
+      "url": "https://www.milannews.it/rassegna-stampa/derby-a-rischio-rabiot-diffidato-ma-giochera-lo-stesso-a-cremona-608742",
+      "source": "milannews.it",
+      "date": "2026-02-26T07:40:29+00:00",
+      "summary": "Massimiliano Allegri never gives up on Adrien Rabiot and he won't do so on Sunday at Cremonese either, despite the Frenchman being within a booking of a booking and therefore, in the event of a yellow card, he will then be forced to miss the derby against Inter in ..."
+    },
+    {
+      "id": "5b2bf7e802d2",
+      "title": "Tuttosport: \"All of Milan is moving to have Modric for another year\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-tutto-il-milan-si-muove-per-avere-modric-un-altro-anno-608739",
+      "source": "milannews.it",
+      "date": "2026-02-26T07:30:32+00:00",
+      "summary": "\"All of Milan is moving to have Modric for another year\": this is the headline from Tuttosport this morning, explaining that Luka Modric's contract expires at the end of this season and only at the end of the championship will he decide whether to continue..."
+    },
+    {
+      "id": "daacffdbe725",
+      "title": "CorSport on the front page: \"Milan, six shots needed for Max\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-in-prima-pagina-milan-servono-sei-colpi-per-max-608737",
+      "source": "milannews.it",
+      "date": "2026-02-26T07:20:32+00:00",
+      "summary": "The Corriere dello Sport on newsstands this morning has the front page headline: \"Milan, six shots needed for Max\"."
+    },
+    {
+      "id": "b15e61daeeb0",
+      "title": "La Gazzetta: \"Everything about Leao-Pulisic. Only two goals between them, Max is waiting for the turning point\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-tutto-su-leao-pulisic-in-coppia-solo-due-gol-max-aspetta-la-svolta-608732",
+      "source": "milannews.it",
+      "date": "2026-02-26T07:10:16+00:00",
+      "summary": "Today's edition of Gazzetta dello Sport has the headline this morning: \"All about Leao-Pulisic. Only two goals between them, Max awaits the turning point\"."
+    },
+    {
+      "id": "d4ac7eb5edc5",
+      "title": "A season of two faces: now Milan must find the best Pulisic. And the renewal...",
+      "url": "https://www.milannews.it/primo-piano/una-stagione-a-due-facce-ora-il-milan-deve-ritrovare-il-miglior-pulisic-e-il-rinnovo-608730",
+      "source": "milannews.it",
+      "date": "2026-02-26T07:00:48+00:00",
+      "summary": "Christian Pulisic's season has so far been a two-faced season: from August to December the American was in fact the usual driving force, proving decisive in several matches, while from the beginning of 2026 onwards the former Chelsea player was & ..."
+    },
     {
       "id": "7ed82669d441",
       "title": "Inter eliminated from the Champions League, how the possible date of the Derby changes",
@@ -72,94 +160,6 @@
       "source": "milannews.it",
       "date": "2026-02-25T23:40:11+00:00",
       "summary": "(ANSA) - ROME, FEBRUARY 25 - \"Going to the World Cup is our dream: we respect the qualities of our opponents, but we know where we want to arrive."
-    },
-    {
-      "id": "83ece1ef4bee",
-      "title": "Moretto's background on Luka Modric's possible contract renewal",
-      "url": "https://www.milannews.it/calciomercato-milan/il-retroscena-di-moretto-sul-possibile-rinnovo-di-contratto-di-luka-modric-608719",
-      "source": "milannews.it",
-      "date": "2026-02-25T23:30:10+00:00",
-      "summary": "Matteo Moretto, in a live broadcast on Fabrizio Romano's YouTube channel, talks about Luka Modric's future. The Croatian champion has a contract with Milan until 30 June 2026."
-    },
-    {
-      "id": "cc3f233857b1",
-      "title": "Viviano: “Leao aims for one of the biggest follies of the last 10 years”",
-      "url": "https://www.milannews.it/news/viviano-leao-punta-una-delle-piu-grandi-follie-degli-ultimi-10-anni-608592",
-      "source": "milannews.it",
-      "date": "2026-02-25T23:20:07+00:00",
-      "summary": "During the last episode of the Aura Sport podcast, Viviano expressed himself like this about Milan after the match against Parma:\n\n“For me it is one of the greatest craziness I have seen in the last 10 years to see Leao punt ..."
-    },
-    {
-      "id": "2041f911e194",
-      "title": "Champions League, Atalanta is the only Italian in the round of 16. Inter disaster, Juve mockery",
-      "url": "https://www.milannews.it/news/champions-league-atalanta-unica-italiana-agli-ottavi-disastro-inter-beffa-juve-608717",
-      "source": "milannews.it",
-      "date": "2026-02-25T23:10:09+00:00",
-      "summary": "THE RESULTS OF THE CHAMPIONS LEAGUE EVENING\n\nAtalanta-Borussia Dortmund 4-1\nPSG-Monaco 2-2\nReal Madrid-Benfica 2-1\nJuventus-Galatasaray 3-2\n\nAtalanta, PSG, Real Madrid and Galatasaray advance to the round of 16, joining Atletico M..."
-    },
-    {
-      "id": "e8f7ab9f0069",
-      "title": "Allegri stays but trust him. Referees: ask to send Rocchi away to understand who isn't there",
-      "url": "https://www.milannews.it/editoriale/allegri-resta-ma-fidatevi-di-lui-arbitri-chiedere-di-mandare-via-rocchi-per-capire-chi-non-ci-sta-608698",
-      "source": "milannews.it",
-      "date": "2026-02-25T23:00:01+00:00",
-      "summary": "Fabio Capello is right, someone who knows these dynamics very well."
-    },
-    {
-      "id": "4c1fa37f0aae",
-      "title": "MN - Bazzani: \"Pulisic has never managed to be continuous due to the many physical problems\"",
-      "url": "https://www.milannews.it/news/mn-bazzani-pulisic-non-e-mai-riuscito-ad-essere-continuo-per-i-tanti-problemi-fisici-608674",
-      "source": "milannews.it",
-      "date": "2026-02-25T22:50:25+00:00",
-      "summary": "Fabio Bazzani, former striker in Serie A with Sampdoria and Lazio, today a commentator for DAZN, spoke exclusively for the editorial staff of MilanNews.it."
-    },
-    {
-      "id": "be36ca51cf5e",
-      "title": "Juve, that's how it burns. Super comeback, then Gala strikes: 3-2 in Turin, Bianconeri out of the Champions League",
-      "url": "https://www.milannews.it/news/juve-cosi-brucia-super-rimonta-poi-il-gala-colpisce-3-2-a-torino-bianconeri-out-dalla-champions-608716",
-      "source": "milannews.it",
-      "date": "2026-02-25T22:39:16+00:00",
-      "summary": "Juventus came this close to their feat in the Champions League, with regulation time ending at 3-0 (Locatelli, Gatti and McKennie) despite having one man less."
-    },
-    {
-      "id": "bd0e21817a13",
-      "title": "Champions League, Percassi: \"A feat that comes only after Dublin\"",
-      "url": "https://www.milannews.it/news/champions-league-percassi-un-impresa-che-viene-solo-dopo-dublino-608711",
-      "source": "milannews.it",
-      "date": "2026-02-25T22:30:10+00:00",
-      "summary": "(ANSA) - BERGAMO, FEBRUARY 25 - \"This feat is slightly behind that of Dublin, but only because we won a trophy in Dublin. This evening the perfect match was played."
-    },
-    {
-      "id": "c02c59ddc090",
-      "title": "Paquetá defends Vini Jr: \"It's really sad to continue to see and experience these situations. He is the victim\"",
-      "url": "https://www.milannews.it/news/paqueta-difende-vini-jr-e-davvero-triste-continuare-a-vedere-e-vivere-queste-situazioni-lui-e-la-vittima-608709",
-      "source": "milannews.it",
-      "date": "2026-02-25T22:20:15+00:00",
-      "summary": "The former AC Milan player Lucas Paquetá, now at Flamengo, interviewed by ESPN, commented on the alleged racist insults that Gianluca Prestianni directed towards Vini Jr in the first leg match of the Champions League playoffs between Benfica ..."
-    },
-    {
-      "id": "ad35da96a1f1",
-      "title": "TMW - More guarantees on the involvement of the AIA: how the Gravina-Rocchi meeting on the PGMOL went",
-      "url": "https://www.milannews.it/news/tmw-piu-garanzie-sul-coinvolgimento-dell-aia-com-e-andato-l-incontro-gravina-rocchi-sul-pgmol-608708",
-      "source": "milannews.it",
-      "date": "2026-02-25T22:10:05+00:00",
-      "summary": "A calm and constructive discussion, aimed at discussing a proposal designed to improve the quality of the referee class, not to downsize the Italian Referees Association."
-    },
-    {
-      "id": "74699b32da5a",
-      "title": "Champions League, Real Madrid and PSG advance. Juve in extra time",
-      "url": "https://www.milannews.it/news/champions-league-passano-real-madrid-e-psg-juve-ai-supplementari-608710",
-      "source": "milannews.it",
-      "date": "2026-02-25T22:00:00+00:00",
-      "summary": "Two out of three matches of the Champions League playoffs have ended: PSG-Monaco 2-2 and Real Madrid-Benfica 2-1, while Juventus, sensationally down by one man but up by three goals at home, are playing extra time."
-    },
-    {
-      "id": "95a713faadea",
-      "title": "MN - Bazzani: \"Scudetto? In my opinion the margin with Inter is too wide to think of a comeback\"",
-      "url": "https://www.milannews.it/news/mn-bazzani-scudetto-secondo-me-il-margine-con-l-inter-e-troppo-ampio-per-pensare-a-una-rimonta-608676",
-      "source": "milannews.it",
-      "date": "2026-02-25T21:50:34+00:00",
-      "summary": "Fabio Bazzani, former striker in Serie A with Sampdoria and Lazio, today a commentator for DAZN, spoke exclusively for the editorial staff of MilanNews.it."
     },
     {
       "id": "ea3b8cf767e4",
