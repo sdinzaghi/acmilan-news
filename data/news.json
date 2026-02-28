@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-02-28T06:36:13.478889+00:00",
+  "lastUpdated": "2026-02-28T07:25:42.813904+00:00",
   "articles": [
+    {
+      "id": "c7c2f533e92c",
+      "title": "La Gazzetta opening: \"A 9 from Milan. The center forward is needed, Guirassy favored over Jackson and Retegui\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-apertura-un-9-da-milan-serve-il-centravanti-guirassy-favorito-su-jackson-e-retegui-608939",
+      "source": "milannews.it",
+      "date": "2026-02-28T07:12:08+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page: \"A 9 from Milan. The center forward is needed, Guirassy favored over Jackson and Retegui\"."
+    },
+    {
+      "id": "de114f7eb2f8",
+      "title": "Milan on the hunt for a real striker: Guirassy on pole, Retegui, Nunez and Jackson also in the running",
+      "url": "https://www.milannews.it/primo-piano/milan-a-caccia-di-un-vero-bomber-guirassy-in-pole-in-corsa-anche-retegui-nunez-e-jackson-608938",
+      "source": "milannews.it",
+      "date": "2026-02-28T07:00:30+00:00",
+      "summary": "There is still a Champions League to win, but Milan is already starting to think a bit about next season too."
+    },
+    {
+      "id": "59cca46947b4",
+      "title": "Serie A: advances and postponements, Milan-Inter on 8 March at 8.45pm",
+      "url": "https://www.milannews.it/news/serie-a-anticipi-e-posticipi-milan-inter-l-8-marzo-alle-20-45-608920",
+      "source": "milannews.it",
+      "date": "2026-02-28T06:48:58+00:00",
+      "summary": "(ANSA) - ROME, FEBRUARY 27 - The Serie A Football League has announced advances, postponements and TV programming of the championship days from the 28th to the 30th, before the national team break."
+    },
+    {
+      "id": "eaf267139b51",
+      "title": "Milan Futuro is back: date and time of the match against Folgore Caratese",
+      "url": "https://www.milannews.it/news/torna-il-milan-futuro-data-e-ora-della-sfida-con-la-folgore-caratese-608916",
+      "source": "milannews.it",
+      "date": "2026-02-28T06:36:27+00:00",
+      "summary": "After the excellent away win against Caldiero Terme, a clear and convincing 3-0, Mr. Oddo's Milan Futuro will face Folgore Caratese first in the standings. The appointment is for Sunday 1 March 2026 at 2 pm."
+    },
     {
       "id": "2612528726e6",
       "title": "Primavera on the pitch tomorrow: match time and updated rankings",
@@ -128,38 +160,6 @@
       "source": "milannews.it",
       "date": "2026-02-27T21:50:00+00:00",
       "summary": "After the victory at San Siro against Milan last Sunday, which did not come without controversy, Parma today opened the 27th round of the Enilive Serie A championship in the match played at the Tardini against ..."
-    },
-    {
-      "id": "bf4b7594fd5b",
-      "title": "Valenti on the goalkeeper, this time it's a foul. Order: \"Just like with Maignan. And Rocchi?\"",
-      "url": "https://www.milannews.it/news/valenti-sul-portiere-questa-volta-e-fallo-ordine-proprio-come-con-maignan-e-rocchi-608932",
-      "source": "milannews.it",
-      "date": "2026-02-27T21:40:40+00:00",
-      "summary": "A few days after Open Var, the AIA's line on Valenti's alleged non-foul on Maignan during Milan-Parma was disavowed."
-    },
-    {
-      "id": "044a43bb4219",
-      "title": "Fiorentina: double compound fracture to the face for Gosens",
-      "url": "https://www.milannews.it/l-avversario/fiorentina-per-gosens-duplice-frattura-composta-al-volto-608911",
-      "source": "milannews.it",
-      "date": "2026-02-27T21:30:54+00:00",
-      "summary": "(ANSA) - FLORENCE, FEBRUARY 27 - He required some tests in hospital but the maxillofacial trauma suffered last night by Robin Gosens will not require surgical corrections."
-    },
-    {
-      "id": "153c6eedcd0b",
-      "title": "Jashari: \"After the assist I hope that the next goal is to score a goal\"",
-      "url": "https://www.milannews.it/news/jashari-dopo-l-assist-spero-che-il-prossimo-traguardo-sia-quello-di-segnare-un-gol-608926",
-      "source": "milannews.it",
-      "date": "2026-02-27T21:20:00+00:00",
-      "summary": "Ardon Jashari is finally finding some continuity, after the serious injury at the start of the season which compromised the first half of the year."
-    },
-    {
-      "id": "cd8394378d44",
-      "title": "Towards Cremonese-Milan: it will be the 11th match between Nicola and Allegri",
-      "url": "https://www.milannews.it/news/verso-cremonese-milan-sara-l-11-confronto-tra-nicola-e-allegri-608851",
-      "source": "milannews.it",
-      "date": "2026-02-27T21:10:37+00:00",
-      "summary": "In view of Cremonese-Milan, the Lega Calcio Serie A website reports that the official precedents in Cremona between the two teams are 10: 2 grey-red victories (last 1-0, Serie A 1994/95), 4 draws (last 0-0, Serie A 2022/23) and 4 Rossone successes..."
     },
     {
       "id": "8286a44416b4",
