@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-03-01T21:21:28.682991+00:00",
+  "lastUpdated": "2026-03-01T22:22:23.983745+00:00",
   "articles": [
+    {
+      "id": "e34a2ec0ba36",
+      "title": "Serie A, the updated ranking: Milan gains precious points over Roma",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-milan-guadagna-punti-preziosi-sulla-roma-609150",
+      "source": "milannews.it",
+      "date": "2026-03-01T22:12:00+00:00",
+      "summary": "Roma and Juventus drew 3-3 in a match full of twists and goals. A result that smiles on Mister Allegri's boys, who are increasingly in the Champions League orbit."
+    },
+    {
+      "id": "0a214adc2e6d",
+      "title": "Serie A, spectacular draw between Roma and Juventus: 3-3 at the Olimpico",
+      "url": "https://www.milannews.it/news/serie-a-spettacolare-pareggio-tra-roma-e-juventus-all-olimpico-termina-3-3-609151",
+      "source": "milannews.it",
+      "date": "2026-03-01T22:00:00+00:00",
+      "summary": "Very intense match at the Olimpico, Juve overtakes Roma and finds a precious 3-3 (especially for Milan). First half fought, but the balance was broken by Wesley before the break."
+    },
+    {
+      "id": "4a998e7cf1d7",
+      "title": "Only two teams in Europe are unbeaten away: one is AC Milan",
+      "url": "https://www.milannews.it/news/solo-due-squadre-in-europa-sono-imbattute-in-trasferta-una-e-il-milan-609107",
+      "source": "milannews.it",
+      "date": "2026-03-01T21:48:52+00:00",
+      "summary": "At the end of Cremonese-Milan 0-2, below are some of the most significant Opta data that emerged from the match at the \"Giovanni Zini\" stadium which brought the Rossoneri three important points: \"Milan won sets ..."
+    },
+    {
+      "id": "81f1b8360cbc",
+      "title": "Bartesaghi after the victory in Cremona: \"Let's not give up, we're united\"",
+      "url": "https://www.milannews.it/news/bartesaghi-dopo-la-vittoria-a-cremona-non-molliamo-stiamo-uniti-609124",
+      "source": "milannews.it",
+      "date": "2026-03-01T21:36:10+00:00",
+      "summary": "The Milan, not without difficulty, won against the Cremonese by 0-2, scoring both goals in the final minutes."
+    },
+    {
+      "id": "4add667f2999",
+      "title": "Against Cremonese, Milan recorded the highest xG figure of its season",
+      "url": "https://www.milannews.it/news/contro-la-cremonese-il-milan-ha-fatto-registrare-il-dato-xg-piu-alto-della-sua-stagione-609106",
+      "source": "milannews.it",
+      "date": "2026-03-01T21:24:17+00:00",
+      "summary": "At the end of Cremonese-Milan 0-2, below are some of the most significant Opta data that emerged from the match at the \"Giovanni Zini\" stadium which brought the Rossoneri three important points: \"Milan recorded ..."
+    },
     {
       "id": "0239f7bc7b7b",
       "title": "De Winter-Milan, Moretto reveals the background: \"In January Disasi could have replaced him..\"",
@@ -103,7 +143,7 @@
       "url": "https://www.milannews.it/news/serie-a-il-torino-supera-la-lazio-2-0-decisivi-simeone-e-zapata-609134",
       "source": "milannews.it",
       "date": "2026-03-01T19:12:00+00:00",
-      "summary": "Good first match for Roberto D'Aversa, who on his debut on the Toro bench achieved a huge victory that brought the margin to 6 points over third-last place."
+      "summary": "Good first match for Roberto D'Aversa, who on his debut on the Toro bench achieved a very heavy victory that brought the margin over third-last place to 6 points."
     },
     {
       "id": "3d377414b1f0",
@@ -146,22 +186,6 @@
       "summary": "In the match between Cremonese and Milan, won 0-2 by the Rossoneri at lunchtime on Sunday on the occasion of the 27th round of the Serie A Enilive championship, a leading role was played by Rafael Leao: both positively, with two goals ab ..."
     },
     {
-      "id": "7556bd7d0d56",
-      "title": "Assogna: \"Leao is insufficient for me. The flagship experiment is not going well\"",
-      "url": "https://www.milannews.it/news/assogna-per-me-leao-insufficiente-l-esperimento-punta-non-sta-andando-bene-609086",
-      "source": "milannews.it",
-      "date": "2026-03-01T18:12:48+00:00",
-      "summary": "At the end of the Cremonese-Milan 0-2 match, the journalist and commentator Paolo Assogna intervened in the studio of Sky Sport 24 to give his comment on the Rossoneri's performance."
-    },
-    {
-      "id": "b9b06fbb15cd",
-      "title": "What did Zini's unpleasant challenge say? Milan single pace and the question of life or death",
-      "url": "https://www.milannews.it/primo-piano/cosa-ha-detto-l-antipatica-sfida-dello-zini-il-milan-mono-ritmo-e-la-questione-di-vita-o-di-morte-609129",
-      "source": "milannews.it",
-      "date": "2026-03-01T18:00:00+00:00",
-      "summary": "How unpleasant are matches like today's? Not for the Cremonese itself, of course, but for a series of factors that we will list. First of all, the time: at 12.30 Milan seems to be struggling historically."
-    },
-    {
       "id": "3a33a1b385ce",
       "title": "Milan Futuro 1-1 Folgore Caratese: Rossoneri come from behind to hold league leaders",
       "url": "https://sempremilan.com/milan-futuro-1-1-folgore-caratese-match-report",
@@ -170,36 +194,12 @@
       "summary": "Milan Futuro secured a positive result on Sunday as they came from behind to earn a draw against Serie D Group B leaders Folgore Caratese. The Futuro recorded another big three points last weekend as they ran out comfortable 3-0 winners against Caldiero Terme. Magrassi, Traore and Sala all scored in"
     },
     {
-      "id": "f67fd3703717",
-      "title": "Leao after Cremonese: \"A little nervous in the first half, but we believed in it until the end\"",
-      "url": "https://www.milannews.it/news/leao-dopo-la-cremonese-un-po-nervosi-nel-primo-tempo-ma-ci-abbiamo-creduto-fino-alla-fine-609102",
-      "source": "milannews.it",
-      "date": "2026-03-01T17:48:07+00:00",
-      "summary": "After the success at home to Cremonese, Rafael Leao spoke to Milan TV as follows: \"It was a difficult match, they always do well at home."
-    },
-    {
-      "id": "78a7c1a0b95e",
-      "title": "Ravezzani: \"Milan wastes 5 scoring opportunities: the need for a striker is enormous\"",
-      "url": "https://www.milannews.it/news/ravezzani-il-milan-spreca-5-palle-gol-il-bisogno-di-un-bomber-e-enorme-609117",
-      "source": "milannews.it",
-      "date": "2026-03-01T17:36:48+00:00",
-      "summary": "Fabio Ravezzani, director of TeleLombardia, did not fail to comment on Milan's victory over Cremonese, thanks to the last-gasp goals scored by Pavlovic and Leao."
-    },
-    {
       "id": "fdbc54586f7a",
       "title": "A first since 2003-04 and personal growth: All the key stats from Cremonese 0-2 AC Milan",
       "url": "https://sempremilan.com/all-key-stats-cremonese-0-2-ac-milan",
       "source": "sempremilan.com",
       "date": "2026-03-01T17:31:21+00:00",
       "summary": "AC Milan managed to get out of Cremona with all three points on Sunday afternoon, but it took two late goals to achieve the win. As the clock ticked past 89 minutes with the score still 0-0, Milan must have feared yet more dropped points against a side battling relegation. However, Strahinja Pavlovi"
-    },
-    {
-      "id": "387237edc7f5",
-      "title": "Third goal in the championship for Pavlovic: the second against Cremonese",
-      "url": "https://www.milannews.it/news/terzo-gol-in-campionato-per-pavlovic-il-secondo-contro-la-cremonese-609083",
-      "source": "milannews.it",
-      "date": "2026-03-01T17:24:16+00:00",
-      "summary": "To take the chestnuts out of the fire for Milan, in the away match against Cremonese at the \"Giovanni Zini\" stadium, a defender like Strhinja Pavlovic took care of it, taking advantage of De Winter's spark in the 90th minute..."
     },
     {
       "id": "e3c61da3d323",
