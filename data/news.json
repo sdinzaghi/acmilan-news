@@ -1,13 +1,69 @@
 {
-  "lastUpdated": "2026-03-01T19:20:47.370043+00:00",
+  "lastUpdated": "2026-03-01T20:24:59.912152+00:00",
   "articles": [
+    {
+      "id": "15a9a6ab040e",
+      "title": "Bologna-Roma in the Europa League, but the away ban remains",
+      "url": "https://www.milannews.it/news/bologna-roma-in-europa-league-ma-il-divieto-di-trasferta-rimane-608974",
+      "source": "milannews.it",
+      "date": "2026-03-01T20:12:00+00:00",
+      "summary": "On Friday in Nyon the urn established that one of the pairings of the teams that will compete for access to the quarter-finals is Bologna and Roma."
+    },
+    {
+      "id": "f597859bd77f",
+      "title": "Assogna criticizes Milan: \"After Giroud it wasn't well managed. Gimenez wasn't up to par\"",
+      "url": "https://www.milannews.it/news/assogna-bacchetta-il-milan-il-dopo-giroud-non-e-stato-ben-gestito-gimenez-non-all-altezza-609116",
+      "source": "milannews.it",
+      "date": "2026-03-01T20:00:18+00:00",
+      "summary": "At the end of the Cremonese-Milan 0-2 match, the journalist and commentator Paolo Assogna intervened in the studio of Sky Sport 24 to give his comment on the Rossoneri's performance."
+    },
+    {
+      "id": "4d7c3f06a68a",
+      "title": "Leao is the second player in Serie A to score more than 10 goals in six consecutive seasons",
+      "url": "https://www.milannews.it/news/leao-il-secondo-giocatore-in-a-a-segnare-piu-di-10-gol-in-sei-stagioni-consecutive-609112",
+      "source": "milannews.it",
+      "date": "2026-03-01T19:48:58+00:00",
+      "summary": "At the end of Cremonese-Milan 0-2, below are some of the most significant Opta data that emerged from the match at the \"Giovanni Zini\" stadium which brought the Rossoneri three important points: \"Rafael Leao scored ..."
+    },
+    {
+      "id": "ff35703bef9b",
+      "title": "Serie A Liveblog including Roma-Juventus and Cremonese-Milan",
+      "url": "https://football-italia.net/serie-a-liveblog-roma-juventus-cremonese-milan/",
+      "source": "football-italia.net",
+      "date": "2026-03-01T19:41:39+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "b9b6a2b6cc03",
+      "title": "Fear for Roberto Mancini in Doha: \"Alarm on the phone, then the sound of explosions\"",
+      "url": "https://www.milannews.it/news/paura-per-roberto-mancini-a-doha-allarme-sul-telefono-poi-il-rumore-delle-esplosioni-609064",
+      "source": "milannews.it",
+      "date": "2026-03-01T19:36:43+00:00",
+      "summary": "(ANSA) - ROME, FEBRUARY 28 - \"My mother called me worried, but I told her to stay calm for the moment.\""
+    },
+    {
+      "id": "14153ee5af01",
+      "title": "Cremonese 0-2 AC Milan: Five things we learned – wasteful, wishful and grateful",
+      "url": "https://sempremilan.com/cremonese-2-0-ac-milan-five-things-learned",
+      "source": "sempremilan.com",
+      "date": "2026-03-01T19:29:04+00:00",
+      "summary": "AC Milan toiled for almost all of the 90 minutes against Cremonese, but struck twice at the end to claim an important three points. It looked like being another frustrating case of dropped points against a bottom-half side when Rafael Leao and Christian Pulisic each missed big chances in the first h"
+    },
+    {
+      "id": "112f3e0fef27",
+      "title": "Serie A, the standings after the Sunday afternoon matches",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-dopo-le-gare-della-domenica-pomeriggio-609135",
+      "source": "milannews.it",
+      "date": "2026-03-01T19:24:00+00:00",
+      "summary": "This is the updated ranking awaiting the postponement of Sunday between Roma and Juventus:\n\nInter 67\n\nMilan 57\n\nNaples 53\n\nRome 50*\n\nComo 48\n\nJuventus 46*\n\nAtalanta 45\n\nSassuolo 38\n\nBologna 36*\n\nLazio 34\n\nParma 33\n\nUdinese 32 ..."
+    },
     {
       "id": "16c5f7dd0918",
       "title": "Serie A, Torino beat Lazio 2-0: Simeone and Zapata were decisive",
       "url": "https://www.milannews.it/news/serie-a-il-torino-supera-la-lazio-2-0-decisivi-simeone-e-zapata-609134",
       "source": "milannews.it",
       "date": "2026-03-01T19:12:00+00:00",
-      "summary": "Good first match for Roberto D'Aversa, who on his debut on the Toro bench achieved a very heavy victory that brought the margin over third-last place to 6 points."
+      "summary": "Good first match for Roberto D'Aversa, who on his debut on the Toro bench achieved a huge victory that brought the margin to 6 points over third-last place."
     },
     {
       "id": "3d377414b1f0",
@@ -16,14 +72,6 @@
       "source": "milannews.it",
       "date": "2026-03-01T19:00:00+00:00",
       "summary": "In the victory that Milan obtained in Cremona, 0-2 with goals from Pavlovic and Leao, 33 years after the last time, Samuele Ricci also had space."
-    },
-    {
-      "id": "ff35703bef9b",
-      "title": "Serie A Liveblog including Roma-Juventus and Cremonese-Milan",
-      "url": "https://football-italia.net/serie-a-liveblog-roma-juventus-cremonese-milan/",
-      "source": "football-italia.net",
-      "date": "2026-03-01T18:58:39+00:00",
-      "summary": "{rsn-live-v2}"
     },
     {
       "id": "3325510c4a56",
@@ -159,7 +207,7 @@
       "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-l-atalanta-frena-la-rincorsa-champions-12-dal-milan-609067",
       "source": "milannews.it",
       "date": "2026-03-01T16:36:09+00:00",
-      "summary": "Atalanta did not overcome the hangover after the comeback in the Champions League against Borussia Dortmund and fell in the league, despite playing 75 minutes with eleven against ten at the home of Sassuolo."
+      "summary": "Atalanta did not overcome the hangover after their Champions League comeback against Borussia Dortmund and fell in the league, despite playing 75 minutes with eleven against ten at the home of Sassuolo."
     },
     {
       "id": "7880fd9c4a92",
@@ -178,14 +226,6 @@
       "summary": "It looked like being another frustrating Sunday afternoon for AC Milan, yet they struck late twice in the game to beat Cremonese. After Rafael Leao and Christian Pulisic had each squandered 1v1s in the first half, there were flashbacks to some of the other points dropped against teams at the bottom "
     },
     {
-      "id": "5bb76a6b5410",
-      "title": "Leao praises the team: \"We are a strong group. And the coach...\"",
-      "url": "https://www.milannews.it/news/leao-esalta-la-squadra-siamo-un-gruppo-forte-e-il-mister-609103",
-      "source": "milannews.it",
-      "date": "2026-03-01T16:12:24+00:00",
-      "summary": "After the success at home to Cremonese, Rafael Leao spoke to Milan TV as follows: \"It was a difficult match, they always do well at home."
-    },
-    {
       "id": "d521854c90fc",
       "title": "‘Certain types of performances, like today’ – Cremonese boss Nicola proud despite Milan loss",
       "url": "https://sempremilan.com/cremonese-nicola-proud-despite-milan-loss",
@@ -194,44 +234,12 @@
       "summary": "Cremonese head coach Davide Nicola has spoken about his pride despite the fact his side came up short against AC Milan. Milan left it late against Cremonese in the Sunday lunchtime kick-off at the Stadio Giovanni Zini, but they scored twice in the closing minutes to claim a 2-0 victory that they ver"
     },
     {
-      "id": "11b8dc689e63",
-      "title": "MN - Renna after Rome: \"We bring home a great performance. We will learn from mistakes like today's\"",
-      "url": "https://www.milannews.it/la-primavera/mn-renna-dopo-roma-portiamo-a-casa-una-grande-prestazione-da-errori-come-quelli-di-oggi-impareremo-609066",
-      "source": "milannews.it",
-      "date": "2026-03-01T16:00:00+00:00",
-      "summary": "Milan Primavera coach Giovanni Renna commented on his team's narrow defeat in Rome against former Federico Guidi's team."
-    },
-    {
-      "id": "a13b056d2c0e",
-      "title": "Allegri and Bartesaghi's growth: \"He still has ample room for improvement\"",
-      "url": "https://www.milannews.it/news/allegri-e-la-crescita-di-bartesaghi-ha-ancora-ampi-margini-di-miglioramento-609100",
-      "source": "milannews.it",
-      "date": "2026-03-01T15:48:48+00:00",
-      "summary": "Massimiliano Allegri spoke to Milan TV after the hard-fought victory against Cremonese. Here are his words on Leao and Bartesaghi: \n\nOn Leao: \"He is growing, as is Pulisic."
-    },
-    {
       "id": "9a8bbea1c199",
       "title": "MN: Bartesaghi suffers muscle issue one week before derby vs. Inter – the latest",
       "url": "https://sempremilan.com/bartesaghi-muscle-issue-derby-inter-latest",
       "source": "sempremilan.com",
       "date": "2026-03-01T15:35:04+00:00",
       "summary": "It wasn’t all good news for AC Milan after their win over Cremonese, as Davide Bartesaghi went off with a physical issue. Concern arose in the 90th minute when Bartesaghi won the corner that Strahinja Pavlovic scored the opening goal from. The Italian seemed to land awkwardly near the byline and he "
-    },
-    {
-      "id": "e17855c0742d",
-      "title": "Leao to SportMediaset: \"I could have come away with 3 goals. Another Rafa on the left\"",
-      "url": "https://www.milannews.it/news/leao-a-sportmediaset-potevo-uscire-con-3-gol-a-sinistra-un-altro-rafa-609120",
-      "source": "milannews.it",
-      "date": "2026-03-01T15:25:13+00:00",
-      "summary": "At the end of Cremonese-Milan 0-2, the Rossoneri number 10 Rafael Leao spoke to the microphones of SportMediaset.it to offer his interpretation of the match."
-    },
-    {
-      "id": "2eef344bdd46",
-      "title": "André, the signature of the Corinthians president is missing. Milan ready to go to FIFA to complete the transfer",
-      "url": "https://www.milannews.it/primo-piano/andre-manca-la-firma-del-presidente-del-corinthians-milan-pronto-ad-andare-dalla-fifa-per-concludere-il-trasferimento-609118",
-      "source": "milannews.it",
-      "date": "2026-03-01T15:23:22+00:00",
-      "summary": "André's transfer to Milan has not yet been finalized by Corinthians but the agreement could still go through, regardless of the signature of president Osmar Stabile."
     },
     {
       "id": "13af2e806652",
@@ -360,14 +368,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-01T11:00:00+00:00",
       "summary": "{rsn-live-v2}\nThe post Cremonese vs. AC Milan: Live updates and commentary from the Serie A clash appeared first on SempreMilan."
-    },
-    {
-      "id": "76e3c9e0618e",
-      "title": "Official: Cremonese vs. AC Milan starting XIs – two changes from Parma defeat",
-      "url": "https://sempremilan.com/official-cremonese-ac-milan-starting-xis-2025-26",
-      "source": "sempremilan.com",
-      "date": "2026-03-01T10:50:22+00:00",
-      "summary": "Massimiliano Allegri has named his starting eleven for AC Milan’s game against Cremonese, making two changes compared to the game against Parma.  Milan need to bounce back with a win today after two games without one, drawing against Como and losing against Parma. Indeed, the pressure is on as Inter"
     },
     {
       "id": "b946f4fcfa0a",
