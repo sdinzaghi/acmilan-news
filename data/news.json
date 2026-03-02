@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-03-02T21:31:50.289965+00:00",
+  "lastUpdated": "2026-03-02T22:25:37.246150+00:00",
   "articles": [
+    {
+      "id": "8830e1f1eb0a",
+      "title": "According to the numbers, Leao is the tenth most efficient striker in Milan's history",
+      "url": "https://www.milannews.it/news/per-i-numeri-leao-e-il-decimo-attaccante-piu-efficiente-della-storia-del-milan-609261",
+      "source": "milannews.it",
+      "date": "2026-03-02T22:20:00+00:00",
+      "summary": "In the last few hours, the words of Paolo Di Canio towards Rafael Leao have caused discussion, after the Portuguese - before sealing the match with the 0-2 - missed two goals that had almost already been scored against Cremonese."
+    },
+    {
+      "id": "d3798f8faf3e",
+      "title": "Borghi analyses: \"Leao can play as a centre-forward, but on the left he is a completely different player\"",
+      "url": "https://www.milannews.it/news/borghi-analizza-leao-sa-fare-il-centravanti-ma-a-sinistra-e-tutt-altro-giocatore-609205",
+      "source": "milannews.it",
+      "date": "2026-03-02T22:10:00+00:00",
+      "summary": "In his YouTube channel, Stefano Borghi commented on the match between Cremonese and Milan. These are his words:\n\n\"There was a tactical change in the second half because Milan switched to 4-3-3."
+    },
+    {
+      "id": "67546e79da2d",
+      "title": "Serie A, the updated ranking: Udinese surpasses Lazio, Fiorentina on the wire",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-l-udinese-supera-la-lazio-fiorentina-sul-filo-609237",
+      "source": "milannews.it",
+      "date": "2026-03-02T22:00:14+00:00",
+      "summary": "With the clear and heavy defeat of Fiorentina at Udinese (3-0), the curtain falls on the 27th matchday of the Serie A Enilive championship."
+    },
+    {
+      "id": "b5ea62a550b9",
+      "title": "Fiorentina collapses in Udine: three of a kind and dominance by Runjaic's team",
+      "url": "https://www.milannews.it/news/la-fiorentina-crolla-a-udine-tris-e-dominio-della-squadra-di-runjaic-609236",
+      "source": "milannews.it",
+      "date": "2026-03-02T21:50:00+00:00",
+      "summary": "After two consecutive victories and three games in a row without defeat, Fiorentina lost again in the last match of the 27th round of the Serie A championship Enilive."
+    },
+    {
+      "id": "2a1f775b8eee",
+      "title": "MN - Trpišovský: \"In 2003 I cried. If my compatriot Nedved was there, Juve would not have lost the Champions League\"",
+      "url": "https://www.milannews.it/news/mn-trpisovsky-nel-2003-piansi-se-c-era-il-mio-connazionale-nedved-la-juve-non-avrebbe-perso-la-champions-609262",
+      "source": "milannews.it",
+      "date": "2026-03-02T21:40:00+00:00",
+      "summary": "The MilanNews.it editorial team interviewed Jindřich Trpišovský through the journalist Alessandro Schiavone in Prague."
+    },
+    {
+      "id": "0c60f5f43c03",
+      "title": "MN - Marques on André: \"Casemiro for strength, Kanté for running\"",
+      "url": "https://www.milannews.it/news/mn-marques-su-andre-casemiro-per-la-forza-kante-per-la-corsa-609254",
+      "source": "milannews.it",
+      "date": "2026-03-02T21:30:13+00:00",
+      "summary": "Milan has got their hands on Andrè, a Brazilian midfielder born in 2006 who plays for Corinthians."
+    },
     {
       "id": "c3fe50986841",
       "title": "Sarafini: \"Milan should have made themselves heard more after Parma. They must do more sports politics\"",
@@ -122,22 +170,6 @@
       "summary": "These are the March commitments of the Milan Women's First Team reported by the official Rossoneri website: \n\n\"Bakker's girls will return to the field in the middle of the month, once the long break for national teams and the Italian Cup has been overcome, and ..."
     },
     {
-      "id": "c88a4982d30c",
-      "title": "Serafini: \"The center forward is a problem that Milan has had for years. In the summer they must invest to be protagonists both in the league and in Europe\"",
-      "url": "https://www.milannews.it/news/serafini-il-centravanti-e-un-problema-che-il-milan-ha-da-anni-in-estate-si-deve-investire-per-essere-protagonista-sia-in-campionato-che-in-europa-609211",
-      "source": "milannews.it",
-      "date": "2026-03-02T19:10:53+00:00",
-      "summary": "Regarding the winter and summer transfer markets, Luca Serafini told time2play.com: \"The center forward is a problem that Milan has had for years, but we couldn't solve it in January."
-    },
-    {
-      "id": "8993e06922a4",
-      "title": "André-Milan, 17 million deal but Corinthians slows down: risk of Fifa case?",
-      "url": "https://www.milannews.it/primo-piano/andre-milan-accordo-da-17-milioni-ma-il-corinthians-frena-rischio-caso-fifa-609249",
-      "source": "milannews.it",
-      "date": "2026-03-02T19:00:00+00:00",
-      "summary": "Milan is moving ahead of the market and doing so decisively, but the André operation risks turning into a case with legal implications, writes the online edition of La Gazzetta dello Sport."
-    },
-    {
       "id": "3af4433f9ae1",
       "title": "Milan stronger at the back than ever – De Winter’s development and summer upgrades",
       "url": "https://sempremilan.com/milan-stronger-than-ever-at-back-development-upgrades",
@@ -146,44 +178,12 @@
       "summary": "Looking at AC Milan now, it is undeniable that the defence is one of the strongest parts of the team, a strange thing to say considering they only have one world-class player there.  When you think of Milan, you do not think of the defence. Instead, it would be the attack or midfield that steals […]"
     },
     {
-      "id": "ab4a4eaa2a09",
-      "title": "Inter, Zielinski: \"We will do everything to win the Scudetto and the Italian Cup\"",
-      "url": "https://www.milannews.it/l-avversario/inter-zielinski-faremo-di-tutto-per-vincere-scudetto-e-coppa-italia-609223",
-      "source": "milannews.it",
-      "date": "2026-03-02T18:50:00+00:00",
-      "summary": "(ANSA) - MILAN, MAR 02 - \"Objective of the Scudetto and Italian Cup? It would be a fantastic thing, we will do everything to be able to win these two important trophies. We have everything in our hands.\""
-    },
-    {
-      "id": "127f83ceb7a1",
-      "title": "Youth sector, all the results of the Rossoneri weekend",
-      "url": "https://www.milannews.it/news/settore-giovanile-tutti-i-risultati-del-weekend-rossonero-609240",
-      "source": "milannews.it",
-      "date": "2026-03-02T18:40:04+00:00",
-      "summary": "An intense weekend for the Rossoneri's Youth Sector: the men's Under 15 and Under 16 teams were in the spotlight, both away to Como: 4-1 for 2011, even 5-0 for 2010."
-    },
-    {
-      "id": "266d712867f9",
-      "title": "MN - Slavia Prague coach Trpišovský on Leao: \"He could be one of the best in the world, but he only expresses 40% of his potential\"",
-      "url": "https://www.milannews.it/news/mn-il-tecnico-dello-slavia-praga-trpisovsky-su-leao-potrebbe-essere-uno-dei-migliori-al-mondo-ma-esprime-solo-il-40-del-suo-potenziale-609221",
-      "source": "milannews.it",
-      "date": "2026-03-02T18:30:00+00:00",
-      "summary": "The MilanNews.it editorial team interviewed Jindřich Trpišovský through the journalist Alessandro Schiavone in Prague."
-    },
-    {
       "id": "9b678ce5f1a3",
       "title": "Mazzara: A ‘right-sided Rabiot’ and three others – Allegri’s transfer demands ‘clear’",
       "url": "https://sempremilan.com/right-sided-rabiot-three-others-allegri-demands-clear",
       "source": "sempremilan.com",
       "date": "2026-03-02T18:30:00+00:00",
       "summary": "Although the January mercato has just closed, AC Milan are already thinking to the summer, and there is a lot to focus on.  Whilst there are questions for Milan to answer now, the focus for some is already on the summer. Of course, for some areas of the club, their focus is the next mercato, […]\nThe"
-    },
-    {
-      "id": "ca5c86232913",
-      "title": "All Milan's March fixtures, Milan Futuro, Milan Femminile and Milan Primavera",
-      "url": "https://www.milannews.it/news/tutti-gli-impegni-di-marzo-del-milan-milan-futuro-milan-femminile-e-milan-primavera-609219",
-      "source": "milannews.it",
-      "date": "2026-03-02T18:20:51+00:00",
-      "summary": "These are the commitments for the month of March for Milan, Milan Futuro, Milan Femminile and Milan Primavera.\n\nMEN'S FIRST TEAM\n\nSERIES A\nMatchday 28, Milan-Inter, Sunday 8 March at 8pm."
     },
     {
       "id": "7181e5efc681",
