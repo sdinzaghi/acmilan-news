@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-03-02T07:50:09.418164+00:00",
+  "lastUpdated": "2026-03-02T08:42:12.092171+00:00",
   "articles": [
     {
+      "id": "d874d1cfdd71",
+      "title": "Tuttosport headline: \"Milan restarts, Leao roars\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-titola-il-milan-riparte-leao-ruggisce-609172",
+      "source": "milannews.it",
+      "date": "2026-03-02T08:29:53+00:00",
+      "summary": "Tuttosport on newsstands this morning with the headline: \"Milan restarts, Leao roars\". The Rossoneri reacted immediately to the defeat against Parma, defeating Cremona's Zini yesterday with two late goals."
+    },
+    {
+      "id": "5b38afa91207",
+      "title": "Milan, tests for Bartesaghi between today and tomorrow: he is in doubt for the derby",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-tra-oggi-e-domani-esami-per-bartesaghi-e-in-dubbio-per-il-derby-609169",
+      "source": "milannews.it",
+      "date": "2026-03-02T08:19:47+00:00",
+      "summary": "Milan returned home from Cremona with three points in their pocket, but also with one more injured player: shortly before Pavlovic's 1-0 goal, Davide Bartesaghi had to stop and leave the pitch, suffering a ..."
+    },
+    {
+      "id": "41ea11eb6aab",
+      "title": "Tuttosport on the Milan market: \"André is almost a Rossoneri\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-sul-mercato-del-milan-andre-e-quasi-rossonero-609168",
+      "source": "milannews.it",
+      "date": "2026-03-02T08:09:10+00:00",
+      "summary": "Today's edition of Tuttosport headlines this morning on the Milan transfer market: \"André is almost a Rossoneri\"."
+    },
+    {
+      "id": "1afc932b3238",
+      "title": "Gazzetta: \"Leao lights up the derby. Milan, Rafa is the leader: 'Life or death with Inter'\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-leao-accende-il-derby-milan-rafa-fa-il-leader-con-l-inter-vita-o-morte-609167",
+      "source": "milannews.it",
+      "date": "2026-03-02T07:59:02+00:00",
+      "summary": "\"Leao lights up the derby."
+    },
+    {
+      "id": "c8cb6bb020a7",
+      "title": "CorSera: \"Milan, the poison in the tail. Victory with Inter in sight\"",
+      "url": "https://www.milannews.it/rassegna-stampa/corsera-milan-il-veleno-nella-coda-vittoria-con-vista-inter-609165",
+      "source": "milannews.it",
+      "date": "2026-03-02T07:50:09+00:00",
+      "summary": "The Corriere della Sera headline this morning: \"Milan, the poison in the queue. Victory with Inter in sight\"."
+    },
+    {
       "id": "1bbe2ba0928c",
-      "title": "Mercato Milan, Gazzetta: \"André is a yellow: the Rossoneri from FIFA?\"",
+      "title": "Mercato Milan, Gazzetta: \"André is a mystery: the Rossoneri from FIFA?\"",
       "url": "https://www.milannews.it/rassegna-stampa/mercato-milan-gazzetta-andre-e-un-giallo-i-rossoneri-dalla-fifa-609164",
       "source": "milannews.it",
       "date": "2026-03-02T07:40:12+00:00",
@@ -120,46 +160,6 @@
       "source": "milannews.it",
       "date": "2026-03-01T23:12:00+00:00",
       "summary": "(ANSA) - CREMONA, MAR 01 - After the success achieved in the final against Cremonese, Massimiliano Allegri analyzes his team's performance with clarity and realism."
-    },
-    {
-      "id": "fbaad70fcd95",
-      "title": "Inside Tare's words and Allegri's wishes: it's already a transfer market. Derby: Let Leao lead by example",
-      "url": "https://www.milannews.it/editoriale/dentro-le-parole-di-tare-e-i-desiderata-di-allegri-e-gia-calciomercato-derby-leao-sia-d-esempio-609158",
-      "source": "milannews.it",
-      "date": "2026-03-01T23:00:01+00:00",
-      "summary": "“The derby is a question of life and death”, obviously sporting."
-    },
-    {
-      "id": "fcb815cc5ca5",
-      "title": "Florenzi wonders about Leao: \"I don't know how much Milan is giving to Rafa with this formation..\"",
-      "url": "https://www.milannews.it/news/florenzi-si-interroga-su-leao-non-so-quanto-il-milan-stia-dando-a-rafa-con-questo-modulo-609155",
-      "source": "milannews.it",
-      "date": "2026-03-01T22:49:00+00:00",
-      "summary": "Alessandro Florenzi, former Roma and Milan defender, spoke to Sky Calcio Club."
-    },
-    {
-      "id": "9fe11dc60477",
-      "title": "Cremonese, Nicola: \"My courageous team against a great Milan\"",
-      "url": "https://www.milannews.it/l-avversario/cremonese-nicola-la-mia-squadra-coraggiosa-contro-un-grande-milan-609131",
-      "source": "milannews.it",
-      "date": "2026-03-01T22:36:00+00:00",
-      "summary": "(ANSA) - CREMONA, MARCH 1 - \"It was a good match, this is the right path\". After the late defeat against Milan, Davide Nicola underlines Cremonese's performance more than the result."
-    },
-    {
-      "id": "b3899f002f96",
-      "title": "Caressa on Leao's performance: \"When he widens to the left he is more dangerous, he has less responsibility\"",
-      "url": "https://www.milannews.it/news/caressa-sulla-prestazione-di-leao-quando-si-allarga-a-sinistra-e-piu-pericoloso-ha-meno-responsabilita-609154",
-      "source": "milannews.it",
-      "date": "2026-03-01T22:24:00+00:00",
-      "summary": "Fabio Caressa, journalist and sports commentator spoke thus to Sky Calcio Club."
-    },
-    {
-      "id": "e34a2ec0ba36",
-      "title": "Serie A, the updated ranking: Milan gains precious points over Roma",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-milan-guadagna-punti-preziosi-sulla-roma-609150",
-      "source": "milannews.it",
-      "date": "2026-03-01T22:12:00+00:00",
-      "summary": "Roma and Juventus drew 3-3 in a match full of twists and goals. A result that smiles on Mister Allegri's boys, who are increasingly in the Champions League orbit."
     },
     {
       "id": "ff35703bef9b",
