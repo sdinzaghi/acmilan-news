@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-03-02T09:46:50.029293+00:00",
+  "lastUpdated": "2026-03-02T10:42:16.229595+00:00",
   "articles": [
+    {
+      "id": "3ac62aca6f18",
+      "title": "Changes make all the difference: Player ratings from Cremonese-Milan from Italian papers",
+      "url": "https://sempremilan.com/ratings-cremonese-0-2-milan-italian-papers",
+      "source": "sempremilan.com",
+      "date": "2026-03-02T10:40:00+00:00",
+      "summary": "AC Milan scored twice in the final minutes against Cremonese on Sunday to earn a win they were made to fight hard for. Milan must have feared yet more dropped points against a side battling relegation when the scoreboard read 0-0 on 89 minutes. Then, Strahinja Pavlovic netted from a corner and Rafae"
+    },
+    {
+      "id": "7aa49a0d79cc",
+      "title": "Order: \"Milan, if you return to the Champions League you don't need kids to wean but certainties\"",
+      "url": "https://www.milannews.it/news/ordine-milan-se-torni-in-champions-non-servono-ragazzi-da-svezzare-ma-certezze-609171",
+      "source": "milannews.it",
+      "date": "2026-03-02T10:30:57+00:00",
+      "summary": "On the pages of Corriere dello Sport, Franco Ordine commented on Milan's victory yesterday at Cremonese as follows: \"Many will certainly closely relate the final 2-0 to the arrival of Fullkrug just a few bells away..."
+    },
+    {
+      "id": "9b80d1de7ec8",
+      "title": "André-Milan: for the midfielder's entourage the deal is done",
+      "url": "https://www.milannews.it/calciomercato-milan/andre-milan-per-l-entourage-del-centrocampista-l-affare-e-concluso-609179",
+      "source": "milannews.it",
+      "date": "2026-03-02T10:20:59+00:00",
+      "summary": "As Globo Esporte reports regarding the negotiation between Milan and Corinthians for André, the total 17 million offered by the Rossoneri represents 70% of the midfielder's price tag."
+    },
+    {
+      "id": "ca8617e1903a",
+      "title": "Moretto: André to Milan ‘95% closed’ – why legal action through FIFA is being evaluated",
+      "url": "https://sempremilan.com/andre-milan-95-why-fifa-legal-action",
+      "source": "sempremilan.com",
+      "date": "2026-03-02T10:15:00+00:00",
+      "summary": "AC Milan are very close to closing the deal to sign André from Corinthians, Matteo Moretto has confirmed, but there is a final hurdle. Often there are links for days or even weeks with a player that hint that something is cooking, and yet Fabrizio Romano surprised everyone on Saturday night when he "
+    },
+    {
+      "id": "fbaad70fcd95",
+      "title": "Inside Tare's words and Allegri's wishes: it's already a transfer market. Derby: Let Leao lead by example",
+      "url": "https://www.milannews.it/editoriale/dentro-le-parole-di-tare-e-i-desiderata-di-allegri-e-gia-calciomercato-derby-leao-sia-d-esempio-609158",
+      "source": "milannews.it",
+      "date": "2026-03-02T10:14:01+00:00",
+      "summary": "“The derby is a question of life and death”, obviously sporting."
+    },
+    {
+      "id": "5bde1587131b",
+      "title": "Gazzetta report cards: Pavlovic the best, Saelemaekers and Pulisic badly",
+      "url": "https://www.milannews.it/news/pagelle-gazzetta-pavlovic-il-migliore-male-saelemaekers-e-pulisic-609185",
+      "source": "milannews.it",
+      "date": "2026-03-02T10:10:35+00:00",
+      "summary": "In today's report cards from the Gazzetta dello Sport, the highest rating in Milan who beat Cremonese 2-0 away yesterday was given to Pavlovic, scorer of the goal that gave Milan the lead in the 90th minute: a good 7 for him."
+    },
+    {
+      "id": "163a47afe60c",
+      "title": "Infantino: \"Players who cover their mouths should be disqualified\"",
+      "url": "https://www.milannews.it/news/infantino-i-giocatori-che-si-coprono-la-bocca-andrebbero-squalificati-609180",
+      "source": "milannews.it",
+      "date": "2026-03-02T10:00:02+00:00",
+      "summary": "(ANSA) - ROME, MARCH 02 - Footballers who cover their mouths during clashes should be disqualified, declared FIFA president Gianni Infantino, in response to the episode involving the Benfica Lisbon player G ..."
+    },
+    {
+      "id": "f43cff3da6c3",
+      "title": "CorSera: Three reasons why Milan’s win over Cremonese carries added significance",
+      "url": "https://sempremilan.com/three-reasons-why-milan-cremonese-significance",
+      "source": "sempremilan.com",
+      "date": "2026-03-02T09:50:00+00:00",
+      "summary": "Until the 90th minute of their game against Cremonese, AC Milan feared going into the derby 12 points behind Inter, until a grand finale. As Corriere della Sera (via MilanNews) recall this morning, as soon as the match at Cremonese ended, the Milan players had only one thing on their minds: the Derb"
+    },
+    {
+      "id": "53ff9a9dd9cf",
+      "title": "Condò on CorSera: \"The great melee for the Champions League: the real goal is the millions\"",
+      "url": "https://www.milannews.it/news/condo-sul-corsera-la-grande-mischia-per-la-champions-il-vero-traguardo-sono-i-milioni-609182",
+      "source": "milannews.it",
+      "date": "2026-03-02T09:48:21+00:00",
+      "summary": "Paolo Condò, on the pages of Corriere della Sera, commented on the race for the top four places in Serie A: \"Let's immediately jump into the fray that is assigning places for the next European cups, starting from the data..."
+    },
     {
       "id": "0ed2a26ba81c",
       "title": "Will Milan turn to FIFA for the André case? Corinthians are not worried",
@@ -135,55 +207,7 @@
       "url": "https://www.milannews.it/rassegna-stampa/tuttosport-in-prima-pagina-leao-gol-delirio-derby-milan-vita-o-morte-609163",
       "source": "milannews.it",
       "date": "2026-03-02T07:30:07+00:00",
-      "summary": "\"Leao-goal, derby delirium: 'Milan, life or death!': this is the headline on the front page of Tuttosport this morning in the aftermath of the Rossoneri's tiring 2-0 victory at Cremonese thanks to late goals from Pavlovic and ..."
-    },
-    {
-      "id": "d9aafedc3e49",
-      "title": "CorSport on the Rossoneri's 0-2 in Cremona: \"Milan, the best part comes in the 89th minute\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-sullo-0-2-rossonero-a-cremona-milan-il-bello-arriva-all-89-609162",
-      "source": "milannews.it",
-      "date": "2026-03-02T07:20:20+00:00",
-      "summary": "Corriere dello Sport has this morning's front page headline on yesterday's 2-0 Rossoneri victory at Cremonese: \"Milan, the best part comes in the 89th minute\"."
-    },
-    {
-      "id": "89a10ce095c5",
-      "title": "The opening of the Gazzetta: \"Straderby. Milan returns -10 and lights up Sunday's match\"",
-      "url": "https://www.milannews.it/rassegna-stampa/l-apertura-della-gazzetta-straderby-il-milan-torna-10-e-accende-la-sfida-di-domenica-609161",
-      "source": "milannews.it",
-      "date": "2026-03-02T07:10:18+00:00",
-      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page: \"Straderby. Milan returns -10 and lights up Sunday's match\"."
-    },
-    {
-      "id": "a5c88adba99e",
-      "title": "Pazzo Milan: last minute victory in Cremona and head straight to the derby",
-      "url": "https://www.milannews.it/primo-piano/pazzo-milan-vittoria-last-minute-a-cremona-e-testa-subito-al-derby-609160",
-      "source": "milannews.it",
-      "date": "2026-03-02T07:00:07+00:00",
-      "summary": "Not even the time to finish the match at Cremonese's home before there was only one thing in the minds of the Milan players, namely the Milan derby."
-    },
-    {
-      "id": "e77c7d244512",
-      "title": "Milan Primavera, bitter weekend: Rossoneri defeated in Rome",
-      "url": "https://www.milannews.it/news/milan-primavera-week-end-amaro-rossoneri-sconfitti-a-roma-609143",
-      "source": "milannews.it",
-      "date": "2026-03-02T06:50:00+00:00",
-      "summary": "Milan Primavera defeated against Roma. Below is the match report:\n\nIt's more Roma who play the game at the start, but the first half hour of play at Tre Fontane is essentially Giallorossi possession with few bells and whistles."
-    },
-    {
-      "id": "f67be56b6d20",
-      "title": "Milan, day of rest today: training will resume tomorrow afternoon",
-      "url": "https://www.milannews.it/news/milan-oggi-giorno-di-riposo-domani-pomeriggio-la-ripresa-degli-allenamenti-609142",
-      "source": "milannews.it",
-      "date": "2026-03-02T06:40:00+00:00",
-      "summary": "As reported by the MilanNews editorial team."
-    },
-    {
-      "id": "c9e9402e6817",
-      "title": "Andrè, stalemate with Corinthias: without a signature, Milan can turn to FIFA",
-      "url": "https://www.milannews.it/news/andre-stallo-col-corinthias-senza-firma-il-milan-puo-rivolgersi-alla-fifa-609141",
-      "source": "milannews.it",
-      "date": "2026-03-02T06:30:00+00:00",
-      "summary": "The transfer of André to Milan has not yet been finalized by Corinthians but the deal could still go through, regardless of president Osmar Stabile's signature."
+      "summary": "\"Leao-goal, derby delirium: 'Milan, life or death!'\" is the headline on the front page of Tuttosport this morning in the aftermath of the Rossoneri's tiring 2-0 victory at Cremonese thanks to late goals from Pavlovic and ..."
     },
     {
       "id": "ff35703bef9b",
@@ -330,14 +354,6 @@
       "summary": "AC Milan left it late, but they scored twice in the final minutes of the game to escape from Cremonese with a win. What looked like being the final blow in a disappointing afternoon came with two minutes left, as Bartesaghi saw a low cross diverted behind for a corner kick. He went to the […]\nThe po"
     },
     {
-      "id": "51175e746462",
-      "title": "Player Ratings: Cremonese 0-2 AC Milan – Fofana shines; Leao and Pulisic struggle",
-      "url": "https://sempremilan.com/player-ratings-cremonese-0-2-ac-milan-fofana",
-      "source": "sempremilan.com",
-      "date": "2026-03-01T13:45:17+00:00",
-      "summary": "AC Milan left it late but eventually managed to clinch all three points away at Cremonese. Win aside, however, there are some things to complain about and below are the player ratings.  If you haven’t already, make sure to check out how we decide the player ratings. From the scale to what affects th"
-    },
-    {
       "id": "4b29425c9bd2",
       "title": "Allegri: ‘Important’ Milan victory, ‘We have to stay alert’",
       "url": "https://football-italia.net/allegri-important-milan-victory-stay-alert/",
@@ -346,28 +362,12 @@
       "summary": "Massimiliano Allegri credited his players for an ‘important’ 2-0 victory away against Cremonese in Serie..."
     },
     {
-      "id": "1b6f512996f5",
-      "title": "Cremonese 0-2 AC Milan: Rossoneri strike twice late on to escape with three points",
-      "url": "https://sempremilan.com/cremonese-0-2-ac-milan-match-report",
-      "source": "sempremilan.com",
-      "date": "2026-03-01T13:26:54+00:00",
-      "summary": "AC Milan left it late against Cremonese in the Sunday lunchtime kick-off at the Stadio Giovanni Zini, but they managed to emerge with three points right at the death. After Rafael Leao and Christian Pulisic had each missed big chances to put Milan a goal up in the first half, it looked like being an"
-    },
-    {
       "id": "22e1ecadcaba",
       "title": "Serie A | Cremonese 0-2 Milan: Pavlovic and Leao leave it late",
       "url": "https://football-italia.net/serie-a-cremonese-0-2-milan-pavlovic-leao-late/",
       "source": "football-italia.net",
       "date": "2026-03-01T13:25:44+00:00",
       "summary": "Milan needed an unorthodox last-minute Strahinja Pavlovic goal to break Cremonese down, then Rafael Leao..."
-    },
-    {
-      "id": "0b89a2142b4d",
-      "title": "Tare convinced Milan have ‘done a significant job’ amid 2025-26 improvements",
-      "url": "https://sempremilan.com/tare-milan-significant-job-2025-26-improvements",
-      "source": "sempremilan.com",
-      "date": "2026-03-01T11:20:19+00:00",
-      "summary": "Ahead of AC Milan’s early game against Cremonese, the sporting director Igli Tare shared his thoughts on the season so far and what can be done in the summer.  Following Inter’s win against Genoa last night, Milan are now 13 points behind their city rivals in the pursuit of the Scudetto. In other wo"
     },
     {
       "id": "0ab9c07e174e",
