@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-03-02T14:00:39.489723+00:00",
+  "lastUpdated": "2026-03-02T14:54:20.428201+00:00",
   "articles": [
+    {
+      "id": "5a51c18a3c29",
+      "title": "Colantuono and the championship fight: \"Milan's demerits? The Rossoneri made their championship\"",
+      "url": "https://www.milannews.it/news/colantuono-e-la-lotta-scudetto-demeriti-del-milan-i-rossoneri-hanno-fatto-il-loro-campionato-609195",
+      "source": "milannews.it",
+      "date": "2026-03-02T14:50:00+00:00",
+      "summary": "Stefano Colantuono, interviewed on TMW, spoke thus of the hypothetical demerits of Milan in terms of the Scudetto: \"Milan have made their championship and I would say that it is more the merits of Inter that they have made and are making a journey..."
+    },
+    {
+      "id": "2b06b7f09af2",
+      "title": "Serafini: \"Allegri should have been taken already in summer 2024. Athekame, De Winter and Jashari should be waited for\"",
+      "url": "https://www.milannews.it/news/serafini-allegri-andava-preso-gia-nell-estate-2024-athekame-de-winter-e-jashari-vanno-aspettati-609207",
+      "source": "milannews.it",
+      "date": "2026-03-02T14:40:25+00:00",
+      "summary": "Luca Serafini, speaking on time2play."
+    },
+    {
+      "id": "22ba216e0322",
+      "title": "Panucci: \"Even if they win the derby, Milan won't reopen the championship because they don't have the strength to keep up with Inter\"",
+      "url": "https://www.milannews.it/gli-ex/panucci-anche-se-vince-il-derby-il-milan-non-riapre-il-campionato-perche-non-ha-la-forza-per-stare-dietro-all-inter-609193",
+      "source": "milannews.it",
+      "date": "2026-03-02T14:30:07+00:00",
+      "summary": "The Milan derby is scheduled for Sunday at 8.45pm at San Siro."
+    },
+    {
+      "id": "31021fe32509",
+      "title": "GdS: Gimenez hoping for Milan return vs. Inter with Scudetto goal still in mind",
+      "url": "https://sempremilan.com/gimenez-hoping-milan-return-inter-scudetto-goal",
+      "source": "sempremilan.com",
+      "date": "2026-03-02T14:30:00+00:00",
+      "summary": "Santiago Gimenez is expected to return for AC Milan this month, and the Mexican is even hoping to be back for the game against Inter this weekend.  It has been months since we have seen Gimenez, and it seems that it won’t be much longer before we see him again. Assuming his rehab has gone […]\nThe po"
+    },
+    {
+      "id": "64b67ae3f97b",
+      "title": "Bucchioni on Milan: \"The performance has dropped, and without a center forward everything is more difficult\"",
+      "url": "https://www.milannews.it/news/bucchioni-sul-milan-il-rendimento-e-calato-e-senza-un-centravanti-e-tutto-piu-difficile-609191",
+      "source": "milannews.it",
+      "date": "2026-03-02T14:20:00+00:00",
+      "summary": "Enzo Bucchioni, in his usual editorial published on TMW, spoke thus about Milan and Massimiliano Allegri."
+    },
+    {
+      "id": "426df00ac02d",
+      "title": "Pedullà dejected: \"Scudetto awarded on March 1st, how sad. We can go to the seaside\"",
+      "url": "https://www.milannews.it/news/pedulla-sconsolato-scudetto-assegnato-l-1-marzo-che-tristezza-possiamo-andare-al-mare-609188",
+      "source": "milannews.it",
+      "date": "2026-03-02T14:10:01+00:00",
+      "summary": "On his YouTube channel, Alfredo Pedulla commented on the situation in Serie A at the top of the table, a situation that for him was definitively closed with Inter's certain victory of the Scudetto."
+    },
+    {
+      "id": "80c6432884a9",
+      "title": "Sabatini points out: \"Saelemaekers doesn't get booed anymore, he has a reputation as a simulator now\"",
+      "url": "https://www.milannews.it/news/sabatini-fa-notare-a-saelemaekers-non-fischiano-piu-nulla-ha-la-fama-di-simulatore-ormai-609181",
+      "source": "milannews.it",
+      "date": "2026-03-02T14:00:21+00:00",
+      "summary": "In his YouTube channel, Sandro Sabatini spoke like this about Cremonese-Milan."
+    },
     {
       "id": "63e9ff8959f4",
       "title": "GdS: Allegri relies on a front three but only changes in game – why things won’t change",
@@ -162,28 +218,12 @@
       "summary": "Journalist Alessandro Schiavone interviewed Lorenzo Pirola, Olympiacos defender born in 2002, exclusively for MilanNews.it."
     },
     {
-      "id": "cb8da73c4b5f",
-      "title": "Pellegatti satisfied: \"Created chances and conceded almost nothing. Be warned, danger averted\"",
-      "url": "https://www.milannews.it/news/pellegatti-soddisfatto-creato-occasioni-e-concesso-quasi-niente-diffidati-pericolo-scampato-609184",
-      "source": "milannews.it",
-      "date": "2026-03-02T11:30:04+00:00",
-      "summary": "On his YouTube channel, Carlo Pellegatti commented on the match the Rossoneri won 2-0 against Cremonese."
-    },
-    {
       "id": "2bc6a1952f4b",
       "title": "GdS: Leao ‘ignites the derby’ – strong message sent to Inter via two methods",
       "url": "https://sempremilan.com/leao-ignites-derby-strong-message-inter",
       "source": "sempremilan.com",
       "date": "2026-03-02T11:30:00+00:00",
       "summary": "Rather than enjoying the fruits of a 2-0 win over Cremonese, Rafael Leao chose to send a message regarding the derby straight after full-time. As La Gazzetta dello Sport (seen below) report, Milan will enter Sunday’s derby 10 points behind Inter in the table, but with a tremendous hunger to win. Lea"
-    },
-    {
-      "id": "6031ff73334c",
-      "title": "Champions League race, Condò: \"Milan are close to securing second place thanks to a well-established defence\"",
-      "url": "https://www.milannews.it/news/corsa-champions-condo-il-milan-e-vicino-a-blindare-il-secondo-posto-grazie-a-una-difesa-ormai-registrata-609183",
-      "source": "milannews.it",
-      "date": "2026-03-02T11:21:45+00:00",
-      "summary": "Paolo Condò, on the pages of Corriere della Sera, commented on the race for the top four places in Serie A: \"Let's immediately jump into the fray that is assigning places for the next European cups, starting from the data..."
     },
     {
       "id": "64e6886da6df",
@@ -194,44 +234,12 @@
       "summary": "Alessandro Florenzi says Rafael Leao is the ‘best player in Serie A’ but Paolo Di..."
     },
     {
-      "id": "006a1d265107",
-      "title": "Sabatini is certain: \"Milan are increasingly in the Champions League, there is a difference with Inter\"",
-      "url": "https://www.milannews.it/news/sabatini-e-certo-milan-sempre-piu-in-champions-la-differenza-con-l-inter-c-e-609175",
-      "source": "milannews.it",
-      "date": "2026-03-02T11:10:42+00:00",
-      "summary": "In his YouTube channel, Sandro Sabatini spoke like this about Cremonese-Milan."
-    },
-    {
       "id": "c78dceb7d5d7",
       "title": "Schira: Milan rejected Premier League advances for De Winter – the background",
       "url": "https://sempremilan.com/milan-rejected-premier-league-de-winter",
       "source": "sempremilan.com",
       "date": "2026-03-02T11:05:00+00:00",
       "summary": "There was some January interest in Koni De Winter, but AC Milan and Massimiliano Allegri said no to his potential sale. De Winter joined Milan in the summer transfer window from Genoa not long after Malick Thiaw’s big-money sale to Newcastle United. He struggled for opportunities for the first few m"
-    },
-    {
-      "id": "cbdad4f89bd4",
-      "title": "The future of Milan speaks Brazilian: focus and history on the transfer target Andrè",
-      "url": "https://www.milannews.it/primo-piano/il-futuro-del-milan-parla-brasiliano-focus-e-storia-sull-obiettivo-di-mercato-andre-609025",
-      "source": "milannews.it",
-      "date": "2026-03-02T11:00:00+00:00",
-      "summary": "A talent, a jewel that is still raw but really promising. Milan is in the home stretch for Corinthias midfielder Andrè, born in 2006."
-    },
-    {
-      "id": "fa5834851bea",
-      "title": "Cesari \"defends\" Saelemaekers: \"He didn't simulate, there was contact with Pezzella. It was a foul\"",
-      "url": "https://www.milannews.it/news/cesari-difende-saelemaekers-non-ha-simulato-c-e-un-contatto-con-pezzella-era-fallo-609189",
-      "source": "milannews.it",
-      "date": "2026-03-02T10:50:36+00:00",
-      "summary": "Graziano Cesari, former referee, spoke to Pressing and explained on the accusations against Alexis Saelemaekers of having simulated yesterday in Cremonese-Milan: \"Saelemaekers didn't simulate. There is contact with Pezzella."
-    },
-    {
-      "id": "7c2265e76ea5",
-      "title": "Cremonese-Milan 0-2: the fans chose Pavlovic as MVP of the match",
-      "url": "https://www.milannews.it/news/cremonese-milan-0-2-come-mvp-del-match-i-tifosi-hanno-scelto-pavlovic-609187",
-      "source": "milannews.it",
-      "date": "2026-03-02T10:40:28+00:00",
-      "summary": "This AC Milan official reports that for AC Milan fans the best on the pitch yesterday against Cremonese was Strahinja Pavlovic, who scored the Rossoneri's lead goal in the 89th minute: \"Milan triumphs with a clear ..."
     },
     {
       "id": "3ac62aca6f18",
@@ -336,14 +344,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-01T16:47:36+00:00",
       "summary": "AC Milan are closing in on being able to announce the signing of André from Corinthians, according to a report from Brazil. Out of nowhere, Fabrizio Romano reported on Saturday night that Milan are in ‘advanced talks’ to sign the young midfielder in a deal that would be worth around €12-13m. This wa"
-    },
-    {
-      "id": "905697399ad2",
-      "title": "Watch: Milan’s late show just enough to get past Cremonese – the highlights",
-      "url": "https://sempremilan.com/milan-late-show-cremonese-highlights",
-      "source": "sempremilan.com",
-      "date": "2026-03-01T16:16:11+00:00",
-      "summary": "It looked like being another frustrating Sunday afternoon for AC Milan, yet they struck late twice in the game to beat Cremonese. After Rafael Leao and Christian Pulisic had each squandered 1v1s in the first half, there were flashbacks to some of the other points dropped against teams at the bottom "
     },
     {
       "id": "de4d1a21fa17",
