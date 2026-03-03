@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-03-03T08:38:55.695305+00:00",
+  "lastUpdated": "2026-03-03T09:40:21.137926+00:00",
   "articles": [
+    {
+      "id": "593ca430827b",
+      "title": "Albertini agrees with Leao: \"He's right about the derby, he spoke like a veteran\"",
+      "url": "https://www.milannews.it/gli-ex/albertini-e-d-accordo-con-leao-ha-ragione-sul-derby-ha-parlato-da-veterano-609320",
+      "source": "milannews.it",
+      "date": "2026-03-03T09:28:20+00:00",
+      "summary": "Demetrio Albertini, former Rossoneri midfielder, interviewed by the Gazzetta dello Sport, spoke thus of the Milan derby: \"It is never a match like the others."
+    },
+    {
+      "id": "2b005bb76175",
+      "title": "Tuttosport: A Leao ‘never seen before’ – how Allegri has made him more complete",
+      "url": "https://sempremilan.com/leao-never-seen-before-allegri-made-more-complete",
+      "source": "sempremilan.com",
+      "date": "2026-03-03T09:25:00+00:00",
+      "summary": "Are we currently seeing the best Rafael Leao at AC Milan? Probably not. However, it is undeniable to suggest that he is the most complete version of himself. With Leao, he has always had flaws; he wouldn’t be human without them. Yet, this season, it appears that his game has become more full. Moving"
+    },
+    {
+      "id": "c47f79c65b60",
+      "title": "Milan, Allegri doesn't hear us about the change of formation: forward with the 3-5-2, the 4-3-3 only during the match in progress",
+      "url": "https://www.milannews.it/news/milan-allegri-sul-cambio-di-modulo-non-ci-sente-avanti-con-il-3-5-2-il-4-3-3-solo-a-gara-in-corso-609298",
+      "source": "milannews.it",
+      "date": "2026-03-03T09:18:28+00:00",
+      "summary": "On Sunday against Cremonese, after an hour the score was still 0-0 and so Max Allegri decided to insert Niclas Fullkrug in place of Alexis Saelamaekers and thus move to a more attacking formation, the 4-3-3."
+    },
+    {
+      "id": "7a514cabb961",
+      "title": "Towards the derby, Gabbia wants to be there: the latest",
+      "url": "https://www.milannews.it/news/verso-il-derby-gabbia-vuole-esserci-le-ultime-609278",
+      "source": "milannews.it",
+      "date": "2026-03-03T09:10:00+00:00",
+      "summary": "After the last-gasp victory on the Cremonese pitch, Milan is preparing for the derby against Inter on Sunday evening. One last chance to reopen the championship race."
+    },
+    {
+      "id": "d842b669aaf8",
+      "title": "MN EXCLUSIVE - Lazaro (UOL Esporte): \"André-Milan, Corinthians' requests. This is how the negotiation was born\"",
+      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-lazaro-uol-esporte-andre-milan-le-richieste-del-corinthians-ecco-com-e-nata-la-trattativa-609286",
+      "source": "milannews.it",
+      "date": "2026-03-03T09:00:00+00:00",
+      "summary": "Milan works in parallel on the pitch and the market. On this last front, in recent days recurring rumors have André from Corinthians increasingly close to the Rossoneri."
+    },
+    {
+      "id": "a9158eb03bc3",
+      "title": "GdS: Allegri ‘thinking of everything’ – De Winter, Nkunku and other derby wild cards",
+      "url": "https://sempremilan.com/allegri-thinking-of-everything-derby-wildcards",
+      "source": "sempremilan.com",
+      "date": "2026-03-03T09:00:00+00:00",
+      "summary": "Ahead of this weekend’s Derby della Madonnina, AC Milan manager Massimiliano Allegri is making a few considerations about his team. There is no denying the fact that this weekend could be huge for Milan. Even if they win and cannot get back into the Scudetto race, they will add three more huge point"
+    },
+    {
+      "id": "ef881a2029f5",
+      "title": "It's time to make a big investment in the tip! Allegri wants players ready for the Champions League.",
+      "url": "https://www.milannews.it/editoriale/e-ora-di-fare-un-grosso-investimento-sulla-punta-allegri-vuole-giocatori-pronti-per-la-champions-609252",
+      "source": "milannews.it",
+      "date": "2026-03-03T08:57:00+00:00",
+      "summary": "The current season has been defined as \"reconstruction\" since the arrival of Tare and Allegri last June."
+    },
+    {
+      "id": "7100388c1a01",
+      "title": "CorSport on the Milan market: \"André, everything is done but Corinthians are slowing down\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-sul-mercato-del-milan-andre-tutto-fatto-ma-il-corinthians-frena-609272",
+      "source": "milannews.it",
+      "date": "2026-03-03T08:50:00+00:00",
+      "summary": "Pitch and market, this is the double front on which Milan is involved. And the name that has approached the Rossoneri club in recent days is that of André from Corinthians."
+    },
+    {
+      "id": "e5fc6e8f473e",
+      "title": "Jimenez: \"I don't think Allegri is a 'shit coach': it was bullshit. But I was the one who asked to give in. They didn't want to give me 2\"",
+      "url": "https://www.milannews.it/news/jimenez-non-penso-che-allegri-sia-un-allenatore-di-merda-e-stata-una-cazzata-ma-sono-stato-io-a-chiedere-di-cedermi-non-mi-hanno-voluto-dare-la-2-609319",
+      "source": "milannews.it",
+      "date": "2026-03-03T08:40:04+00:00",
+      "summary": "Alex Jimenez, former AC Milan player definitively bought out by Bournemouth, gave an exclusive interview to gianlucadimarzio.com, starting as follows: \"For me it's a dream to play in the Premier League."
+    },
     {
       "id": "06179c78c302",
       "title": "Towards the derby: Gerry Cardinale expected at San Siro for Milan-Inter",
@@ -104,62 +176,6 @@
       "source": "milannews.it",
       "date": "2026-03-03T06:40:00+00:00",
       "summary": "Today, Milan begins preparing for the super match against Inter, the Derby, which will be played on Sunday 8 March at 8.45pm at the San Siro stadium."
-    },
-    {
-      "id": "06a7be694cd1",
-      "title": "From Bartesaghi to Gimenez, passing through Gabbia: the point on the injured",
-      "url": "https://www.milannews.it/news/da-bartesaghi-a-gimenez-passando-per-gabbia-il-punto-sugli-infortunati-609266",
-      "source": "milannews.it",
-      "date": "2026-03-03T06:30:12+00:00",
-      "summary": "Five days away from the Derby della Madonnina which will be played on Sunday evening at 8pm."
-    },
-    {
-      "id": "b5044c11c701",
-      "title": "Serie A, the ranking: Milan -10 from Inter and +10 from Juventus",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-milan-a-10-dall-inter-e-a-10-sulla-juventus-609263",
-      "source": "milannews.it",
-      "date": "2026-03-03T06:20:00+00:00",
-      "summary": "The 27th round of Serie A Enilive has ended and the rankings have been further redrawn."
-    },
-    {
-      "id": "172b58356f0b",
-      "title": "Tuscan debacle in the last two matches of the 27th round: all the results",
-      "url": "https://www.milannews.it/news/debacle-toscana-nelle-ultime-due-gare-del-27-turno-tutti-i-risultati-609264",
-      "source": "milannews.it",
-      "date": "2026-03-03T06:10:01+00:00",
-      "summary": "Day number 27 of the Enilive Serie A championship has gone to the archives. Yesterday two races put an end to the weekend program."
-    },
-    {
-      "id": "206a6d064d65",
-      "title": "There are five days left until the Derby della Madonnina: today Milan returns to Milanello",
-      "url": "https://www.milannews.it/news/mancano-cinque-giorni-al-derby-della-madonnina-oggi-il-milan-torna-a-milanello-609265",
-      "source": "milannews.it",
-      "date": "2026-03-03T06:00:00+00:00",
-      "summary": "There are five days left until the Derby della Madonnina between Milan and Inter. The countdown began yesterday and continues today, with 8pm."
-    },
-    {
-      "id": "5a07f276de9f",
-      "title": "Football: Davide Ancelotti returns alongside his father to the Brazil coaching staff",
-      "url": "https://www.milannews.it/news/calcio-davide-ancelotti-torna-al-fianco-del-padre-nello-staff-tecnico-del-brasile-609270",
-      "source": "milannews.it",
-      "date": "2026-03-03T00:40:46+00:00",
-      "summary": "(ANSA-AFP) - ROME, MARCH 02 - Davide Ancelotti, son of the Brazilian national team coach Carlo Ancelotti, will return to the Seleção's coaching staff for the preparation matches for next summer's World Cup. Ancelotti Jr."
-    },
-    {
-      "id": "c5714cb59822",
-      "title": "MN - Marques: \"If André settles in quickly, 17 million becomes too few\"",
-      "url": "https://www.milannews.it/news/mn-marques-se-andre-si-ambienta-velocemente-17-milioni-diventano-pure-pochi-609256",
-      "source": "milannews.it",
-      "date": "2026-03-03T00:00:00+00:00",
-      "summary": "Milan has got their hands on Andrè, a Brazilian midfielder born in 2006 who plays for Corinthians."
-    },
-    {
-      "id": "b09cb99de523",
-      "title": "As AC Milan's sporting director and with 100 million at your disposal, which players would you focus on? Diddi: \"Palestra, Bernasconi, Pisilli and Ghilardi\"",
-      "url": "https://www.milannews.it/news/da-ds-del-milan-e-con-100-milioni-a-disposizione-su-che-giocatori-punteresti-diddi-palestra-bernasconi-pisilli-e-ghilardi-609250",
-      "source": "milannews.it",
-      "date": "2026-03-02T23:50:59+00:00",
-      "summary": "Luca Diddi, guest in a video on Carlo Pellegatti's YouTube channel, talks about the players he would focus on if he were Milan's Sporting Director."
     },
     {
       "id": "a7d387becb2c",
@@ -328,22 +344,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-02T11:05:00+00:00",
       "summary": "There was some January interest in Koni De Winter, but AC Milan and Massimiliano Allegri said no to his potential sale. De Winter joined Milan in the summer transfer window from Genoa not long after Malick Thiaw’s big-money sale to Newcastle United. He struggled for opportunities for the first few m"
-    },
-    {
-      "id": "3ac62aca6f18",
-      "title": "Changes make all the difference: Player ratings from Cremonese-Milan from Italian papers",
-      "url": "https://sempremilan.com/ratings-cremonese-0-2-milan-italian-papers",
-      "source": "sempremilan.com",
-      "date": "2026-03-02T10:40:00+00:00",
-      "summary": "AC Milan scored twice in the final minutes against Cremonese on Sunday to earn a win they were made to fight hard for. Milan must have feared yet more dropped points against a side battling relegation when the scoreboard read 0-0 on 89 minutes. Then, Strahinja Pavlovic netted from a corner and Rafae"
-    },
-    {
-      "id": "ca8617e1903a",
-      "title": "Moretto: André to Milan ‘95% closed’ – why legal action through FIFA is being evaluated",
-      "url": "https://sempremilan.com/andre-milan-95-why-fifa-legal-action",
-      "source": "sempremilan.com",
-      "date": "2026-03-02T10:15:00+00:00",
-      "summary": "AC Milan are very close to closing the deal to sign André from Corinthians, Matteo Moretto has confirmed, but there is a final hurdle. Often there are links for days or even weeks with a player that hint that something is cooking, and yet Fabrizio Romano surprised everyone on Saturday night when he "
     },
     {
       "id": "309845d02f86",
