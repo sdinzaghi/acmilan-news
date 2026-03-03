@@ -1,13 +1,85 @@
 {
-  "lastUpdated": "2026-03-03T21:33:20.605458+00:00",
+  "lastUpdated": "2026-03-03T22:27:15.956277+00:00",
   "articles": [
     {
-      "id": "48f823daeb32",
-      "title": "MN - Matteo Gabbia underwent surgery for an inguinal hernia problem",
-      "url": "https://www.milannews.it/news/mn-matteo-gabbia-si-e-sottoposto-ad-operazione-chirurgica-per-un-problema-di-ernia-inguinale-609368",
+      "id": "9d664036c830",
+      "title": "Gabbia reassures fans on social media: \"Operation went very well!\"",
+      "url": "https://www.milannews.it/news/gabbia-rassicura-i-tifosi-sui-social-operazione-andata-molto-bene-609372",
+      "source": "milannews.it",
+      "date": "2026-03-03T22:20:01+00:00",
+      "summary": "Following Matteo Gabbia's operation which he underwent today to resolve the inguinal hernia problem, the Rossoneri number 46 reassured everyone on social media by saying that the operation went very well..."
+    },
+    {
+      "id": "14518664e722",
+      "title": "Jimenez: \"At Milan I wasn't given the responsibility I thought I deserved, they should have believed in me more\"",
+      "url": "https://www.milannews.it/news/jimenez-al-milan-non-mi-e-stata-data-la-responsabilita-che-pensavo-di-meritare-dovevano-credere-di-piu-in-me-609325",
+      "source": "milannews.it",
+      "date": "2026-03-03T22:11:09+00:00",
+      "summary": "Alex Jimenez, former AC Milan player definitively bought out by Bournemouth, gave an exclusive interview to gianlucadimarzio.com."
+    },
+    {
+      "id": "b471089dea46",
+      "title": "Albertini: \"Pulisic doesn't score anymore? It happens to attackers, but I wouldn't worry too much\"",
+      "url": "https://www.milannews.it/gli-ex/albertini-pulisic-non-segna-piu-succede-agli-attaccanti-ma-non-mi-preoccuperei-piu-di-tanto-609323",
+      "source": "milannews.it",
+      "date": "2026-03-03T22:00:31+00:00",
+      "summary": "Regarding Milan's season and Max Allegri's work, Demetrio Albertini, former Rossoneri player, spoke thus to the Gazzetta dello Sport: \"Allegri was able to give a certain awareness to the team, in addition to just ..."
+    },
+    {
+      "id": "5805ef1047e2",
+      "title": "Italian Cup semi-final, Como-Inter 0-0: goalless in the first round",
+      "url": "https://www.milannews.it/news/semifinale-coppa-italia-como-inter-0-0-reti-bianche-nel-primo-round-609363",
+      "source": "milannews.it",
+      "date": "2026-03-03T21:53:16+00:00",
+      "summary": "The first leg match of the first semi-final of the Italian Cup between Como and Inter ended 0-0."
+    },
+    {
+      "id": "7761a648c74f",
+      "title": "Surgery for Gabbia as Milan lose defender for circa 1 month",
+      "url": "https://football-italia.net/surgery-for-gabbia-as-milan-lose-defender/",
+      "source": "football-italia.net",
+      "date": "2026-03-03T21:41:56+00:00",
+      "summary": "Milan will be without defender Matteo Gabbia for circa a month after his injury proved..."
+    },
+    {
+      "id": "207b1610551c",
+      "title": "Gabbia injury, recovery times and the matches he misses: the details",
+      "url": "https://www.milannews.it/news/infortunio-gabbia-tempi-di-recupero-e-le-partite-che-salta-i-dettagli-609369",
+      "source": "milannews.it",
+      "date": "2026-03-03T21:41:05+00:00",
+      "summary": "As we reported earlier, Matteo Gabbia underwent surgery in London to resolve an inguinal hernia problem which will keep him out for about a month, according to what was communicated by the club."
+    },
+    {
+      "id": "b8c0f362d356",
+      "title": "Mattei: \"If Milan had drawn in Cremona, little would have changed: Inter have already won\"",
+      "url": "https://www.milannews.it/news/mattei-se-il-milan-avesse-pareggiato-a-cremona-sarebbe-cambiato-poco-l-inter-ha-gia-vinto-609247",
+      "source": "milannews.it",
+      "date": "2026-03-03T21:40:00+00:00",
+      "summary": "As is inevitable, the Derby della Madonnina, which will be played between Milan and Inter on Sunday 8 March at 8pm."
+    },
+    {
+      "id": "f849b74a41b8",
+      "title": "Reports: Gabbia to miss one month after surgery on hernia – the details",
+      "url": "https://sempremilan.com/gabbia-miss-one-month-surgery-hernia",
+      "source": "sempremilan.com",
+      "date": "2026-03-03T21:36:59+00:00",
+      "summary": "It has been announced that Matteo Gabbia has undergone surgery to resolve a hernia over in London, England. It was known that Gabbia was a doubt for the derby against Inter on Sunday. The centre-back was pulled from the starting line-up just before kick-off against Parma last Sunday with muscle disc"
+    },
+    {
+      "id": "64509fc4f6e2",
+      "title": "Serie A, those disqualified after the 27th matchday of the championship",
+      "url": "https://www.milannews.it/news/serie-a-gli-squalificati-dopo-la-27-giornata-di-campionato-609348",
+      "source": "milannews.it",
+      "date": "2026-03-03T21:30:19+00:00",
+      "summary": "The Lega Calcio Serie A website reports the players who were disqualified by the Sports Judge after the 27th matchday of Serie A: \"Following the decisions of the Sports Judge they were disqualified for one round of the championship..."
+    },
+    {
+      "id": "39d61c197a38",
+      "title": "MN - Milan, Gabbia out for a month: underwent surgery in London to resolve an inguinal hernia",
+      "url": "https://www.milannews.it/primo-piano/mn-milan-gabbia-un-mese-fuori-operato-a-londra-per-risolvere-un-ernia-inguinale-609368",
       "source": "milannews.it",
       "date": "2026-03-03T21:24:05+00:00",
-      "summary": "According to what has been learned by the editorial staff of Milanews.it, today Matteo Gabbia had a consultation with professors Ernest Schilders and Rowena Johnson at the Mayo Clinic Healthcare in London."
+      "summary": "According to what has been learned by the editorial staff of MilanNews.it, today Matteo Gabbia had a consultation with professors Ernest Schilders and Rowena Johnson at the Mayo Clinic Healthcare in London."
     },
     {
       "id": "1af96696ec27",
@@ -122,22 +194,6 @@
       "summary": "After a meeting today, Corinthians have raised the asking price for star midfielder André, and now AC Milan are considering their next steps.  The André saga already seems to have descended into somewhat of a farce. Milan had essentially agreed a deal, and all the documents required to be sent, appe"
     },
     {
-      "id": "82a28efddf8c",
-      "title": "Pavlovic is on the podium of central defenders in Serie A 2026-2026 for goals scored",
-      "url": "https://www.milannews.it/news/pavlovic-e-sul-podio-dei-difensori-centrali-della-serie-a-2026-2026-per-gol-realizzati-609294",
-      "source": "milannews.it",
-      "date": "2026-03-03T19:20:20+00:00",
-      "summary": "Among the central defenders of this championship, only Kempf of Como and Ostigard of Genoa (four each) have scored more? goal by Pavlovic (three). Opta reports it."
-    },
-    {
-      "id": "48ff2308b5ec",
-      "title": "3 March 2012: Thiago Silva's last goal in the Rossoneri shirt",
-      "url": "https://www.milannews.it/gli-ex/3-marzo-2012-l-ultimo-gol-di-thiago-silva-in-maglia-rossonera-609349",
-      "source": "milannews.it",
-      "date": "2026-03-03T19:10:26+00:00",
-      "summary": "On 3 March 2012, during a Palermo-Milan match valid for the twenty-sixth matchday of Serie A, Thiago Silva scored his last goal in an AC Milan shirt."
-    },
-    {
       "id": "c3aaa82ca66a",
       "title": "Opta: Leao’s consistency proven in the numbers after Cremonese goal – the statistics",
       "url": "https://sempremilan.com/leao-consistency-proven-numbers-after-cremonese-goal",
@@ -146,52 +202,12 @@
       "summary": "Rafael Leao has often been criticised for his consistency levels, and the AC Milan star could have, maybe, gone higher. However, he is still among the best in Europe.  In recent years, whenever Leao has been criticised, it has been from a place where Milan know what he is capable of. At times, the f"
     },
     {
-      "id": "a82c546b3f6a",
-      "title": "MN - Chamorro (ESPN Brazil): \"In the end I think Corinthias will let André go, but try to increase the price\"",
-      "url": "https://www.milannews.it/news/mn-chamorro-espn-brazil-alla-fine-penso-che-il-corinthias-lascera-andare-andre-cercando-pero-di-aumentare-il-prezzo-609334",
-      "source": "milannews.it",
-      "date": "2026-03-03T18:50:27+00:00",
-      "summary": "Milan works in parallel on the pitch and the market. On this last front, in recent days recurring rumors have André from Corinthians increasingly close to the Rossoneri."
-    },
-    {
-      "id": "38061e543300",
-      "title": "Minoliti: \"It's the week that can close the games, in my opinion even a victory for Milan wouldn't reopen them\"",
-      "url": "https://www.milannews.it/news/minoliti-e-la-settimana-che-puo-chiudere-i-giochi-secondo-me-anche-una-vittoria-del-milan-non-li-riaprirebbe-609340",
-      "source": "milannews.it",
-      "date": "2026-03-03T18:40:37+00:00",
-      "summary": "Journalist Nino Minoliti, guest in the Sportitalia studios, has his say on this Sunday's Madonnina derby and what impact it could have on the 26/26 championship."
-    },
-    {
-      "id": "fe0b45c44435",
-      "title": "The Slavia Prague coach praises Pulisic: \"He is at the age of consecration and has turned into a difference maker\"",
-      "url": "https://www.milannews.it/news/il-tecnico-dello-slavia-praga-esalta-pulisic-e-nell-eta-della-consacrazione-e-si-e-trasformato-in-un-difference-maker-609231",
-      "source": "milannews.it",
-      "date": "2026-03-03T18:30:00+00:00",
-      "summary": "The MilanNews.it editorial team interviewed Jindřich Trpišovský through the journalist Alessandro Schiavone in Prague."
-    },
-    {
       "id": "d0b9f5282461",
       "title": "Reports: Bartesaghi and Gabbia train alone as fears about Pulisic’s condition arise",
       "url": "https://sempremilan.com/bartesaghi-gabbia-train-alone-fears-pulisic-condition",
       "source": "sempremilan.com",
       "date": "2026-03-03T18:30:00+00:00",
       "summary": "It seems AC Milan may be forced into two changes this weekend, whilst another player may continue in their role. Over the past few days, it has been a wait to see the conditions of Davide Bartesaghi and Matteo Gabbia, both of whom are recovering from injuries. Gabbia has been absent since before thi"
-    },
-    {
-      "id": "b6e3f458056a",
-      "title": "Only AC Milan and Bayern Munich are unbeaten away from home in the big five European leagues",
-      "url": "https://www.milannews.it/news/solo-il-milan-e-il-bayern-monaco-sono-imbattute-in-trasferta-nei-cinque-grandi-campionati-europei-609293",
-      "source": "milannews.it",
-      "date": "2026-03-03T18:22:32+00:00",
-      "summary": "Milan is one of the two teams that have not yet lost away in the current Big-5 European tournaments, together with Bayern Munich. Opta reports it."
-    },
-    {
-      "id": "8881da5102b1",
-      "title": "Andrè case, Di Marzio: \"Stalled phase between Corinthias and Milan, all linked to the final decision of the president of the Brazilian club\"",
-      "url": "https://www.milannews.it/calciomercato-milan/caso-andre-di-marzio-fase-di-stallo-tra-corinthias-e-milan-tutto-legato-alla-decisione-finale-del-presidente-del-club-brasiliano-609357",
-      "source": "milannews.it",
-      "date": "2026-03-03T18:10:00+00:00",
-      "summary": "Still problems for the move of Brazilian midfielder Andrè from Corinthias to Milan."
     },
     {
       "id": "fae88399be42",
@@ -370,14 +386,6 @@
       "summary": "Inter Milan have emerged as the leading Italian club in the race to sign Leon..."
     },
     {
-      "id": "915ff918d7c8",
-      "title": "GdS: The same but not – Milan and Inter will use 3-5-2 differently in the derby",
-      "url": "https://sempremilan.com/milan-inter-use-352-differently-in-derby",
-      "source": "sempremilan.com",
-      "date": "2026-03-03T10:40:00+00:00",
-      "summary": "AC Milan and Inter have both relied on the 3-5-2 this season, but their systems are very different, meaning that they will not play the same. Formations and styles mirror each other all the time in football. When you think of a 4-4-2, you think of a direct style of football, and so on. However, […]\n"
-    },
-    {
       "id": "a7d387becb2c",
       "title": "Andre dispute brewing between Milan and Corinthians",
       "url": "https://football-italia.net/andre-dispute-brew-between-milan-corinthians/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-01T10:39:01+00:00",
       "summary": "Legendary former referee Pierluigi Collina has had his say on a number of upcoming VAR..."
-    },
-    {
-      "id": "67956f47c6f7",
-      "title": "Serie A: Cremonese vs. Milan – Probable line-ups and where to watch on TV",
-      "url": "https://football-italia.net/serie-a-cremonese-vs-milan-probable-line-ups/",
-      "source": "football-italia.net",
-      "date": "2026-03-01T08:55:45+00:00",
-      "summary": "Massimiliano Allegri is expected to stick with an attacking line-up of Rafael Leao and Christian..."
     }
   ]
 }
