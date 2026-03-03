@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-03-03T09:40:21.137926+00:00",
+  "lastUpdated": "2026-03-03T10:37:25.798624+00:00",
   "articles": [
+    {
+      "id": "3f2b57ab8184",
+      "title": "Albertini praises Allegri's work: \"He was able to give a certain awareness to the team, as well as tactical and mental solidity. And there is one thing that intrigues me...\"",
+      "url": "https://www.milannews.it/gli-ex/albertini-esalta-il-lavoro-di-allegri-ha-saputo-dare-una-certa-consapevolezza-alla-squadra-oltre-a-solidita-tattica-e-mentale-e-c-e-una-cosa-che-mi-in-609321",
+      "source": "milannews.it",
+      "date": "2026-03-03T10:30:18+00:00",
+      "summary": "Regarding Milan's season and Max Allegri's work, Demetrio Albertini, former Rossoneri player, spoke thus to the Gazzetta dello Sport: \"Allegri was able to give a certain awareness to the team, in addition to just ..."
+    },
+    {
+      "id": "3d98e6bb023c",
+      "title": "Serie A, rankings compared after 27 matchdays: Milan at +16 compared to a year ago",
+      "url": "https://www.milannews.it/news/serie-a-classifiche-a-confronto-dopo-27-giornate-milan-a-16-rispetto-ad-un-anno-fa-609324",
+      "source": "milannews.it",
+      "date": "2026-03-03T10:20:06+00:00",
+      "summary": "Tuttomercatoweb.com makes a comparison between today's Serie A standings and that of last championship after 27 days: as far as Milan is concerned, compared to a year ago, the Rossoneri have 16 points more."
+    },
+    {
+      "id": "d004f8e1ef5a",
+      "title": "‘Milan, I loved you’ – Jimenez discusses Allegri apology and move to Bournemouth",
+      "url": "https://sempremilan.com/jimenez-discusses-allegri-apology-milan-exit",
+      "source": "sempremilan.com",
+      "date": "2026-03-03T10:15:00+00:00",
+      "summary": "AC Milan sold Alex Jimenez in the summer mercato, but the Spaniard, it seems, could have stayed if certain demands were made. With Jimenez, it is clear that the Spaniard is and was a player with potential. He graduated from the Milan Futuro project, albeit having only joined from Real Madrid in the "
+    },
+    {
+      "id": "b9bbbac70ba6",
+      "title": "Jimenez: \"I asked Milan for the 2nd and they said no: they said I wasn't ready, that I was too immature. They were wrong\"",
+      "url": "https://www.milannews.it/news/jimenez-ho-chiesto-al-milan-la-2-e-mi-hanno-risposto-di-no-dicevano-che-non-ero-pronto-che-ero-troppo-immaturo-si-sbagliavano-609327",
+      "source": "milannews.it",
+      "date": "2026-03-03T10:11:56+00:00",
+      "summary": "Alex Jimenez, former AC Milan player definitively bought out by Bournemouth, gave an exclusive interview to gianlucadimarzio.com."
+    },
+    {
+      "id": "5f7c2a2f235f",
+      "title": "Pulisic in difficulty. Starting chance for Nkunku in the derby?",
+      "url": "https://www.milannews.it/news/pulisic-in-difficolta-chance-da-titolare-per-nkunku-nel-derby-609306",
+      "source": "milannews.it",
+      "date": "2026-03-03T10:00:57+00:00",
+      "summary": "After having led Milan in recent seasons and also in the first part of the current one, Christian Pulisic is going through a rather complicated period due to a bursitis which does not allow him to perform as he would like."
+    },
+    {
+      "id": "7fe23382848b",
+      "title": "MN - Lazaro (UOL Esporte): \"André-Milan, the situation. The president will speak to the player\"",
+      "url": "https://www.milannews.it/news/mn-lazaro-uol-esporte-andre-milan-la-situazione-il-presidente-parlera-col-calciatore-609305",
+      "source": "milannews.it",
+      "date": "2026-03-03T09:50:00+00:00",
+      "summary": "Milan works in parallel on the pitch and the market. On this last front, in recent days recurring rumors have André from Corinthians increasingly close to the Rossoneri."
+    },
+    {
+      "id": "386c05df64c4",
+      "title": "CorSera: Bartesaghi could be a starter vs. Inter – the good news after yesterday’s scan",
+      "url": "https://sempremilan.com/bartesaghi-could-start-inter-good-news-scans",
+      "source": "sempremilan.com",
+      "date": "2026-03-03T09:50:00+00:00",
+      "summary": "There was a fear that AC Milan could be without Davide Bartesaghi for the derby this weekend, but it appears that he will be fine. In the big games, you need players who understand the occasion, and Bartesaghi is one of them. A Milanisti himself, the derby will be one of his biggest games of […]\nThe"
+    },
+    {
+      "id": "463c56a2088f",
+      "title": "Serie A Milan Scudetto odds, bets on the Rossoneri",
+      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-scudetto-serie-a-milan-le-scommesse-sui-rossoneri-579454",
+      "source": "milannews.it",
+      "date": "2026-03-03T09:45:00+00:00",
+      "summary": "Milan returns to winning ways, avenging the defeat in the first leg against Cremonese and confirming itself as the second force in the championship. Eleven days to go, 10 points to recover for Inter."
+    },
+    {
+      "id": "879981029cfc",
+      "title": "Checks ok for Gimenez, he could soon return to the group: the news",
+      "url": "https://www.milannews.it/news/controlli-ok-per-gimenez-potrebbe-presto-tornare-in-gruppo-le-novita-609279",
+      "source": "milannews.it",
+      "date": "2026-03-03T09:40:00+00:00",
+      "summary": "Good news for Milan, who could soon find a striker who has been missing for most of the season."
+    },
     {
       "id": "593ca430827b",
       "title": "Albertini agrees with Leao: \"He's right about the derby, he spoke like a veteran\"",
@@ -120,62 +192,6 @@
       "source": "milannews.it",
       "date": "2026-03-03T07:50:32+00:00",
       "summary": "Today's edition of Corriere della Sera has the headline this morning: \"Pact with the leaders and derby plan. Milan have not thrown in the towel\"."
-    },
-    {
-      "id": "e84fd771018c",
-      "title": "Milan, no injuries for Bartesaghi but derby at risk. Hello Estupinan",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-niente-lesioni-per-bartesaghi-ma-derby-a-rischio-pronto-estupinan-609280",
-      "source": "milannews.it",
-      "date": "2026-03-03T07:40:06+00:00",
-      "summary": "Davide Bartesaghi was injured on Sunday in Cremona, but fortunately the tests he underwent yesterday ruled out injuries."
-    },
-    {
-      "id": "b5dc179832af",
-      "title": "Tuttosport: \"Milan, goals and leadership. It's a Leao never seen before\"",
-      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-milan-gol-e-leadership-e-un-leao-mai-visto-609276",
-      "source": "milannews.it",
-      "date": "2026-03-03T07:30:00+00:00",
-      "summary": "Milan is preparing for the derby against Inter, and will do so with Rafa Leao who seems to have more awareness. Today's edition of Tuttosport talks about it, with the headline: \"Milan, goals and leadership."
-    },
-    {
-      "id": "945553e88c57",
-      "title": "CorSport and Milan's points average: \"Allegri con brio\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-e-la-media-punti-del-milan-allegri-con-brio-609274",
-      "source": "milannews.it",
-      "date": "2026-03-03T07:20:00+00:00",
-      "summary": "Milan, after the victory over Cremonese, has gained an advantage over the contenders for the Champions League fight. And today's edition of Corriere dello Sport analyzes Milan's average points: \"Cheer up with brio, explains the newspaper\"."
-    },
-    {
-      "id": "5b4e67a524be",
-      "title": "The best Leao? No, but it is certainly the most complete. Never seen a Rafa like this",
-      "url": "https://www.milannews.it/primo-piano/il-miglior-leao-no-ma-e-sicuramente-il-piu-completo-mai-visto-un-rafa-cosi-609275",
-      "source": "milannews.it",
-      "date": "2026-03-03T07:10:06+00:00",
-      "summary": "What we are admiring is not the best Leao ever because the one from the championship season has unfortunately no longer been seen, but it is certainly the most complete."
-    },
-    {
-      "id": "cff82872cff6",
-      "title": "La Gazzetta on the front page: \"Allegri's devilry\"",
-      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-prima-pagina-le-diavolerie-di-allegri-609273",
-      "source": "milannews.it",
-      "date": "2026-03-03T07:00:00+00:00",
-      "summary": "After the last-gasp victory on the Cremonese pitch, Milan officially entered derby week."
-    },
-    {
-      "id": "71bbe56b8893",
-      "title": "For 16 teams it is already time to think about the 28th round of Serie A: the programme",
-      "url": "https://www.milannews.it/news/per-16-squadre-e-gia-tempo-di-pensare-al-28-turno-di-serie-a-il-programma-609268",
-      "source": "milannews.it",
-      "date": "2026-03-03T06:50:00+00:00",
-      "summary": "The 27th matchday of Serie A Enilive ended yesterday but the mind is already looking ahead to the next round, number 28, which will be played next weekend."
-    },
-    {
-      "id": "6a313190004e",
-      "title": "Inter are playing today, Milan's next opponent in the championship",
-      "url": "https://www.milannews.it/news/oggi-gioca-l-inter-prossimo-avversario-del-milan-in-campionato-609267",
-      "source": "milannews.it",
-      "date": "2026-03-03T06:40:00+00:00",
-      "summary": "Today, Milan begins preparing for the super match against Inter, the Derby, which will be played on Sunday 8 March at 8.45pm at the San Siro stadium."
     },
     {
       "id": "a7d387becb2c",
@@ -322,28 +338,12 @@
       "summary": "Santiago Gimenez can finally see the light at the end of a very long tunnel, and he will play for his AC Milan future when he returns. Having undergone surgery on his right ankle on December 18th after a month of conservative therapy with no results, Gimenez is determined to use the final two months"
     },
     {
-      "id": "2bc6a1952f4b",
-      "title": "GdS: Leao ‘ignites the derby’ – strong message sent to Inter via two methods",
-      "url": "https://sempremilan.com/leao-ignites-derby-strong-message-inter",
-      "source": "sempremilan.com",
-      "date": "2026-03-02T11:30:00+00:00",
-      "summary": "Rather than enjoying the fruits of a 2-0 win over Cremonese, Rafael Leao chose to send a message regarding the derby straight after full-time. As La Gazzetta dello Sport (seen below) report, Milan will enter Sunday’s derby 10 points behind Inter in the table, but with a tremendous hunger to win. Lea"
-    },
-    {
       "id": "64e6886da6df",
       "title": "Leao ‘the best player’ in Serie A, but Milan and Allegri face ‘dilemma’ pundits say",
       "url": "https://football-italia.net/leao-best-player-serie-a-milan-allegri-dilemma/",
       "source": "football-italia.net",
       "date": "2026-03-02T11:12:36+00:00",
       "summary": "Alessandro Florenzi says Rafael Leao is the ‘best player in Serie A’ but Paolo Di..."
-    },
-    {
-      "id": "c78dceb7d5d7",
-      "title": "Schira: Milan rejected Premier League advances for De Winter – the background",
-      "url": "https://sempremilan.com/milan-rejected-premier-league-de-winter",
-      "source": "sempremilan.com",
-      "date": "2026-03-02T11:05:00+00:00",
-      "summary": "There was some January interest in Koni De Winter, but AC Milan and Massimiliano Allegri said no to his potential sale. De Winter joined Milan in the summer transfer window from Genoa not long after Malick Thiaw’s big-money sale to Newcastle United. He struggled for opportunities for the first few m"
     },
     {
       "id": "309845d02f86",
