@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-03-03T07:41:15.920298+00:00",
+  "lastUpdated": "2026-03-03T08:38:55.695305+00:00",
   "articles": [
+    {
+      "id": "06179c78c302",
+      "title": "Towards the derby: Gerry Cardinale expected at San Siro for Milan-Inter",
+      "url": "https://www.milannews.it/rassegna-stampa/verso-il-derby-gerry-cardinale-atteso-a-san-siro-per-milan-inter-609314",
+      "source": "milannews.it",
+      "date": "2026-03-03T08:30:46+00:00",
+      "summary": "After having been at Milanello and Casa Milan a few weeks ago, Gerry Cardinale is now also expected at San Siro on Sunday for the derby against Inter."
+    },
+    {
+      "id": "04c69b6690f6",
+      "title": "Milan, Bartesaghi's injury is less serious than expected. For CorSera he could even start in the derby",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-l-infortunio-di-bartesaghi-e-meno-grave-del-previsto-per-il-corsera-potrebbe-addirittura-partire-titolare-nel-derby-609295",
+      "source": "milannews.it",
+      "date": "2026-03-03T08:29:14+00:00",
+      "summary": "There was some concern at the Rossoneri after the muscle injury suffered on Sunday in Cremona by Davide Bartesaghi, who was forced to leave the pitch shortly before Pavlovic's 1-0 goal."
+    },
+    {
+      "id": "0aa791523b60",
+      "title": "Milan market, Tuttosport headline: \"André at Corinthians: release me!\"",
+      "url": "https://www.milannews.it/rassegna-stampa/mercato-milan-tuttosport-titola-andre-al-corinthians-liberatemi-609285",
+      "source": "milannews.it",
+      "date": "2026-03-03T08:19:04+00:00",
+      "summary": "Tuttosport on newsstands this morning has the headline on the Milan transfer market: \"André to Corinthians: release me!\"."
+    },
+    {
+      "id": "dc2e9f9f9765",
+      "title": "Milan, Gabbia hopes to be available again for the derby",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-gabbia-spera-di-tornare-a-disposizione-per-il-derby-609277",
+      "source": "milannews.it",
+      "date": "2026-03-03T08:09:34+00:00",
+      "summary": "After Sunday's victory at Cremonese, Massimiliano Allegri granted a day of rest to his team who will return to training this afternoon at Milanello."
+    },
+    {
+      "id": "e16f72d969e5",
+      "title": "CorSport analyzes Milan: \"Allegri con brio\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-analizza-il-milan-allegri-con-brio-609271",
+      "source": "milannews.it",
+      "date": "2026-03-03T08:00:00+00:00",
+      "summary": "After the away victory on the Cremonese pitch, Milan officially entered derby week. The Rossoneri are still second and have pulled ahead of their pursuers."
+    },
+    {
+      "id": "0ad63df6dcdd",
+      "title": "CorSera: \"Pact with the leaders and derby plan. Milan hasn't thrown in the towel\"",
+      "url": "https://www.milannews.it/rassegna-stampa/corsera-patto-con-i-leader-e-piano-derby-il-milan-non-ha-gettato-la-spugna-609283",
+      "source": "milannews.it",
+      "date": "2026-03-03T07:50:32+00:00",
+      "summary": "Today's edition of Corriere della Sera has the headline this morning: \"Pact with the leaders and derby plan. Milan have not thrown in the towel\"."
+    },
+    {
+      "id": "e84fd771018c",
+      "title": "Milan, no injuries for Bartesaghi but derby at risk. Hello Estupinan",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-niente-lesioni-per-bartesaghi-ma-derby-a-rischio-pronto-estupinan-609280",
+      "source": "milannews.it",
+      "date": "2026-03-03T07:40:06+00:00",
+      "summary": "Davide Bartesaghi was injured on Sunday in Cremona, but fortunately the tests he underwent yesterday ruled out injuries."
+    },
     {
       "id": "b5dc179832af",
       "title": "Tuttosport: \"Milan, goals and leadership. It's a Leao never seen before\"",
@@ -11,7 +67,7 @@
     },
     {
       "id": "945553e88c57",
-      "title": "CorSport and Milan's average points: \"Allegri con brio\"",
+      "title": "CorSport and Milan's points average: \"Allegri con brio\"",
       "url": "https://www.milannews.it/rassegna-stampa/il-corsport-e-la-media-punti-del-milan-allegri-con-brio-609274",
       "source": "milannews.it",
       "date": "2026-03-03T07:20:00+00:00",
@@ -27,7 +83,7 @@
     },
     {
       "id": "cff82872cff6",
-      "title": "La Gazzetta on the front page: \"Allegri's devilries\"",
+      "title": "La Gazzetta on the front page: \"Allegri's devilry\"",
       "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-prima-pagina-le-diavolerie-di-allegri-609273",
       "source": "milannews.it",
       "date": "2026-03-03T07:00:00+00:00",
@@ -104,62 +160,6 @@
       "source": "milannews.it",
       "date": "2026-03-02T23:50:59+00:00",
       "summary": "Luca Diddi, guest in a video on Carlo Pellegatti's YouTube channel, talks about the players he would focus on if he were Milan's Sporting Director."
-    },
-    {
-      "id": "a8b3b1c5b822",
-      "title": "Adani: \"Milan scores at the end and it's no coincidence: it means that this team has internal values\"",
-      "url": "https://www.milannews.it/news/adani-il-milan-segna-alla-fine-e-non-e-un-caso-vuol-dire-che-questa-squadra-ha-dei-valori-interiori-609226",
-      "source": "milannews.it",
-      "date": "2026-03-02T23:40:50+00:00",
-      "summary": "Lele Adani, during Domenica Sportiva on Rai, analyzed Milan's match against Cremonese and the Rossoneri's path in the championship."
-    },
-    {
-      "id": "a320a3e2c0dd",
-      "title": "Gatti's father: \"Allegri was very important: formed in many aspects\"",
-      "url": "https://www.milannews.it/news/papa-di-gatti-allegri-e-stato-molto-importante-formato-sotto-tanti-aspetti-609248",
-      "source": "milannews.it",
-      "date": "2026-03-02T23:30:28+00:00",
-      "summary": "Scorer of the goal that allowed Juventus to draw 3-3 against Roma at the Olympic stadium in the 93rd minute, Federico Gatti is much talked about these days. For this the colleagues of Tuttomercatoweb."
-    },
-    {
-      "id": "3c76b8814c47",
-      "title": "La Liga: Real Madrid falls at home to Getafe",
-      "url": "https://www.milannews.it/news/liga-il-real-madrid-cade-in-casa-col-getafe-609269",
-      "source": "milannews.it",
-      "date": "2026-03-02T23:23:03+00:00",
-      "summary": "(ANSA) - ROME, MARCH 02 - Slip at home for Real Madrid in the 26th matchday of the Spanish La Liga. The Merengues lost 1-0 to Getafe and Barcelona went +4 points ahead of the top Iberian league."
-    },
-    {
-      "id": "8d03fe89e9c1",
-      "title": "Borghi highlights: \"Milan let go of the early stages, a strategy that slows down growth\"",
-      "url": "https://www.milannews.it/news/borghi-evidenzia-il-milan-lascia-andare-i-primi-tempi-strategia-che-rallenta-la-crescita-609204",
-      "source": "milannews.it",
-      "date": "2026-03-02T23:20:00+00:00",
-      "summary": "In his YouTube channel, Stefano Borghi commented on the match between Cremonese and Milan."
-    },
-    {
-      "id": "14c9b48abd16",
-      "title": "Paganin: \"Milan rightly second? The cups make the difference\"",
-      "url": "https://www.milannews.it/news/paganin-milan-giustamente-secondo-le-coppe-fanno-la-differenza-609244",
-      "source": "milannews.it",
-      "date": "2026-03-02T23:10:48+00:00",
-      "summary": "As is inevitable, the Derby della Madonnina, which will be played between Milan and Inter on Sunday 8 March at 8pm."
-    },
-    {
-      "id": "ef881a2029f5",
-      "title": "It's time to make a big investment in the tip! Allegri wants players ready for the Champions League.",
-      "url": "https://www.milannews.it/editoriale/e-ora-di-fare-un-grosso-investimento-sulla-punta-allegri-vuole-giocatori-pronti-per-la-champions-609252",
-      "source": "milannews.it",
-      "date": "2026-03-02T23:01:00+00:00",
-      "summary": "The current season has been defined as \"reconstruction\" since the arrival of Tare and Allegri last June."
-    },
-    {
-      "id": "2cf7205d811e",
-      "title": "MN - Marques: \"17 million for André is a fair price: in two years it could be worth double\"",
-      "url": "https://www.milannews.it/news/mn-marques-17-milioni-per-andre-e-un-prezzo-giusto-tra-due-anni-puo-valerne-il-doppio-609255",
-      "source": "milannews.it",
-      "date": "2026-03-02T22:50:50+00:00",
-      "summary": "Milan has got their hands on Andrè, a Brazilian midfielder born in 2006 who plays for Corinthians."
     },
     {
       "id": "a7d387becb2c",
