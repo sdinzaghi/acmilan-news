@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-03-03T05:48:23.205174+00:00",
+  "lastUpdated": "2026-03-03T06:50:05.766994+00:00",
   "articles": [
+    {
+      "id": "6a313190004e",
+      "title": "Inter are playing today, Milan's next opponent in the championship",
+      "url": "https://www.milannews.it/news/oggi-gioca-l-inter-prossimo-avversario-del-milan-in-campionato-609267",
+      "source": "milannews.it",
+      "date": "2026-03-03T06:40:00+00:00",
+      "summary": "Today, Milan begins preparing for the super match against Inter, the Derby, which will be played on Sunday 8 March at 8.45pm at the San Siro stadium."
+    },
+    {
+      "id": "06a7be694cd1",
+      "title": "From Bartesaghi to Gimenez, passing through Gabbia: the point on the injured",
+      "url": "https://www.milannews.it/news/da-bartesaghi-a-gimenez-passando-per-gabbia-il-punto-sugli-infortunati-609266",
+      "source": "milannews.it",
+      "date": "2026-03-03T06:30:12+00:00",
+      "summary": "Five days away from the Derby della Madonnina which will be played on Sunday evening at 8pm."
+    },
+    {
+      "id": "b5044c11c701",
+      "title": "Serie A, the ranking: Milan -10 from Inter and +10 from Juventus",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-milan-a-10-dall-inter-e-a-10-sulla-juventus-609263",
+      "source": "milannews.it",
+      "date": "2026-03-03T06:20:00+00:00",
+      "summary": "The 27th round of Serie A Enilive has ended and the rankings have been further redrawn."
+    },
+    {
+      "id": "172b58356f0b",
+      "title": "Tuscan debacle in the last two matches of the 27th round: all the results",
+      "url": "https://www.milannews.it/news/debacle-toscana-nelle-ultime-due-gare-del-27-turno-tutti-i-risultati-609264",
+      "source": "milannews.it",
+      "date": "2026-03-03T06:10:01+00:00",
+      "summary": "Day number 27 of the Enilive Serie A championship has gone to the archives. Yesterday two races put an end to the weekend program."
+    },
+    {
+      "id": "206a6d064d65",
+      "title": "There are five days left until the Derby della Madonnina: today Milan returns to Milanello",
+      "url": "https://www.milannews.it/news/mancano-cinque-giorni-al-derby-della-madonnina-oggi-il-milan-torna-a-milanello-609265",
+      "source": "milannews.it",
+      "date": "2026-03-03T06:00:00+00:00",
+      "summary": "There are five days left until the Derby della Madonnina between Milan and Inter. The countdown began yesterday and continues today, with 8pm."
+    },
     {
       "id": "5a07f276de9f",
       "title": "Football: Davide Ancelotti returns alongside his father to the Brazil coaching staff",
@@ -120,46 +160,6 @@
       "source": "milannews.it",
       "date": "2026-03-02T22:00:14+00:00",
       "summary": "With the clear and heavy defeat of Fiorentina at Udinese (3-0), the curtain falls on the 27th matchday of the Serie A Enilive championship."
-    },
-    {
-      "id": "b5ea62a550b9",
-      "title": "Fiorentina collapses in Udine: three of a kind and dominance by Runjaic's team",
-      "url": "https://www.milannews.it/news/la-fiorentina-crolla-a-udine-tris-e-dominio-della-squadra-di-runjaic-609236",
-      "source": "milannews.it",
-      "date": "2026-03-02T21:50:00+00:00",
-      "summary": "After two consecutive victories and three games in a row without defeat, Fiorentina lost again in the last match of the 27th round of the Serie A championship Enilive."
-    },
-    {
-      "id": "2a1f775b8eee",
-      "title": "MN - Trpišovský: \"In 2003 I cried. If my compatriot Nedved was there, Juve would not have lost the Champions League\"",
-      "url": "https://www.milannews.it/news/mn-trpisovsky-nel-2003-piansi-se-c-era-il-mio-connazionale-nedved-la-juve-non-avrebbe-perso-la-champions-609262",
-      "source": "milannews.it",
-      "date": "2026-03-02T21:40:00+00:00",
-      "summary": "The MilanNews.it editorial team interviewed Jindřich Trpišovský through the journalist Alessandro Schiavone in Prague."
-    },
-    {
-      "id": "0c60f5f43c03",
-      "title": "MN - Marques on André: \"Casemiro for strength, Kanté for running\"",
-      "url": "https://www.milannews.it/news/mn-marques-su-andre-casemiro-per-la-forza-kante-per-la-corsa-609254",
-      "source": "milannews.it",
-      "date": "2026-03-02T21:30:13+00:00",
-      "summary": "Milan has got their hands on Andrè, a Brazilian midfielder born in 2006 who plays for Corinthians."
-    },
-    {
-      "id": "c3fe50986841",
-      "title": "Sarafini: \"Milan should have made themselves heard more after Parma. They must do more sports politics\"",
-      "url": "https://www.milannews.it/news/sarafini-il-milan-doveva-farsi-sentire-di-piu-dopo-il-parma-deve-fare-piu-politica-sportiva-609212",
-      "source": "milannews.it",
-      "date": "2026-03-02T21:20:43+00:00",
-      "summary": "Regarding VAR and the refereeing errors suffered by Milan so far, such as the goal awarded to Parma, Luca Serafini explained to time2play.com: \"I think VAR is an entirely Italian disaster."
-    },
-    {
-      "id": "94d4c6f87a18",
-      "title": "Andrè-Milan, Romano: \"Everything is happening but it concerns Corinthians. Milan optimistic\"",
-      "url": "https://www.milannews.it/calciomercato-milan/andre-milan-romano-sta-succedendo-di-tutto-ma-riguarda-il-corinthians-milan-ottimista-609260",
-      "source": "milannews.it",
-      "date": "2026-03-02T21:10:00+00:00",
-      "summary": "Regarding the Andrè-Corinthians-Milan soap opera, Fabrizio Romano, a transfer market expert, also expressed his opinion today, who in his latest video on the YouTube channel shared the latest updates regarding this ..."
     },
     {
       "id": "a7d387becb2c",
