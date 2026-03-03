@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-03-03T20:30:36.764774+00:00",
+  "lastUpdated": "2026-03-03T21:33:20.605458+00:00",
   "articles": [
+    {
+      "id": "48f823daeb32",
+      "title": "MN - Matteo Gabbia underwent surgery for an inguinal hernia problem",
+      "url": "https://www.milannews.it/news/mn-matteo-gabbia-si-e-sottoposto-ad-operazione-chirurgica-per-un-problema-di-ernia-inguinale-609368",
+      "source": "milannews.it",
+      "date": "2026-03-03T21:24:05+00:00",
+      "summary": "According to what has been learned by the editorial staff of Milanews.it, today Matteo Gabbia had a consultation with professors Ernest Schilders and Rowena Johnson at the Mayo Clinic Healthcare in London."
+    },
+    {
+      "id": "1af96696ec27",
+      "title": "In four of the last nine away matches played by Milan, Maignan has not conceded a goal",
+      "url": "https://www.milannews.it/news/in-quattro-delle-ultime-nove-trasferte-giocate-dal-milan-maignan-non-ha-subito-gol-609297",
+      "source": "milannews.it",
+      "date": "2026-03-03T21:22:26+00:00",
+      "summary": "According to what reported by Opta, Milan have won seven of the last nine away games played in Serie A (2N) and in four of these they have not conceded a goal."
+    },
+    {
+      "id": "9d6a5148ad9f",
+      "title": "Tickets for Milan-Udinese, match after Easter, are now available (for season ticket holders).",
+      "url": "https://www.milannews.it/news/da-ora-disponibili-per-gli-abbonati-i-biglietti-per-milan-udinese-partita-dopo-pasqua-609301",
+      "source": "milannews.it",
+      "date": "2026-03-03T21:10:40+00:00",
+      "summary": "On the occasion of the home match valid for the 32nd day of the Serie A championship, Milan will take the field against Udinese."
+    },
+    {
+      "id": "56a599e8aa7f",
+      "title": "Inter are at +10, but Milan are traveling at an excellent average: they have the same points as the last Scudetto",
+      "url": "https://www.milannews.it/news/l-inter-e-a-10-ma-il-milan-viaggia-a-una-ottima-media-ha-gli-stessi-punti-dell-ultimo-scudetto-609291",
+      "source": "milannews.it",
+      "date": "2026-03-03T21:00:01+00:00",
+      "summary": "Milan have obtained 57 points in these first 27 matchdays, the exact same score recorded in the 2021/22 season at this point in the championship (the season of the Rossoneri's last Scudetto). Opta reports it."
+    },
+    {
+      "id": "5017d5888870",
+      "title": "23 appearances and three goals: Pavlovic has already improved last season both in terms of goals and appearances",
+      "url": "https://www.milannews.it/news/23-presenze-e-tre-gol-pavlovic-ha-gia-migliorato-la-scorsa-stagione-sia-per-gol-che-per-presenze-609290",
+      "source": "milannews.it",
+      "date": "2026-03-03T20:50:13+00:00",
+      "summary": "Three goals for Strahinja Pavlovic in this championship (in 23 appearances), surpassing the haul of two goals (in 24 games) put together in the last Serie A. Opta reports it."
+    },
+    {
+      "id": "c2978130398f",
+      "title": "Against Cremonese, Milan achieved a clean sheet: they are on the overall podium in Serie A",
+      "url": "https://www.milannews.it/news/contro-la-cremonese-il-milan-ha-ottenuto-la-porta-inviolata-e-sul-podio-generale-della-serie-a-609289",
+      "source": "milannews.it",
+      "date": "2026-03-03T20:40:02+00:00",
+      "summary": "Clean sheets number 12 for Milan in this championship: only Inter (15) and Como (13) have obtained more so far - Roma and Lazio also have 12. Opta reports it."
+    },
+    {
+      "id": "9a73511129ab",
+      "title": "Insigne-Pescara, the love story is fulfilled: goals after 14 years",
+      "url": "https://www.milannews.it/news/insigne-pescara-la-storia-d-amore-si-compie-gol-dopo-14-anni-609239",
+      "source": "milannews.it",
+      "date": "2026-03-03T20:30:19+00:00",
+      "summary": "(by Paolo Renzetti) (ANSA) - PESCARA, 02 MAR - A fairy tale that everyone hopes will have a happy ending."
+    },
     {
       "id": "6f856359c5ab",
       "title": "Leao scored 9 goals in 20 league appearances: almost a goal every two games. And he already improved last year",
@@ -138,14 +194,6 @@
       "summary": "Still problems for the move of Brazilian midfielder Andrè from Corinthias to Milan."
     },
     {
-      "id": "b4d353147698",
-      "title": "Galliani says: \"This is how the days of the Condor were born\"",
-      "url": "https://www.milannews.it/gli-ex/galliani-racconta-ecco-come-sono-nati-i-giorni-del-condor-609339",
-      "source": "milannews.it",
-      "date": "2026-03-03T18:00:43+00:00",
-      "summary": "Adriano Galliani, the great former CEO of Milan, told Radio TV Serie A: \"How did the Condor days come about? They came from a thought of mine, that is, that the value of the players is very strong at the beginning of the market ..."
-    },
-    {
       "id": "fae88399be42",
       "title": "Synchronised movements and Allegri’s key change: Tactical analysis of Cremonese 0-2 AC Milan",
       "url": "https://sempremilan.com/tactical-analysis-cremonese-0-2-ac-milan",
@@ -154,60 +202,12 @@
       "summary": "AC Milan left it right until the end against Cremonese on Sunday at the Stadio Giovanni Zini, but ultimately emerged with all three points. Rafael Leao and Christian Pulisic each missed big chances to put Milan ahead in the first half, and it looked like being one of those familiar frustrating after"
     },
     {
-      "id": "5ad7420d28e5",
-      "title": "From Brazil: André, Corinthians now asks for 22 million. Milan evaluates whether to withdraw or go to FIFA",
-      "url": "https://www.milannews.it/calciomercato-milan/dal-brasile-andre-il-corinthians-ora-chiede-22-milioni-il-milan-valuta-se-ritirarsi-o-andare-dalla-fifa-609356",
-      "source": "milannews.it",
-      "date": "2026-03-03T17:50:30+00:00",
-      "summary": "Corinthians has asked for around 133 million reals (around 22 million euros) for midfielder André. Negotiations with Milan are still ongoing, while the Italian club is evaluating its next moves, reports ESPN Brasil."
-    },
-    {
-      "id": "585b76e6d217",
-      "title": "Santiago Gimenez will complete the preparatory work for returning to the group in the next few days",
-      "url": "https://www.milannews.it/news/santiago-gimenez-nei-prossimi-giorni-ultimera-il-lavoro-propedeutico-al-rientro-in-gruppo-609318",
-      "source": "milannews.it",
-      "date": "2026-03-03T17:40:10+00:00",
-      "summary": "(ANSA) - MILAN, MAR 02 - No injury for AC Milan full-back Davide Bartesaghi who, after requesting a substitution at the end of the match against Cremonese, today underwent instrumental tests which highlighted a resentment ..."
-    },
-    {
-      "id": "1151521e8255",
-      "title": "Orlando on Milan's shortcomings: \"They are missing a striker and have big problems in defense\"",
-      "url": "https://www.milannews.it/news/orlando-sulle-lacune-del-milan-gli-manca-una-punta-e-in-difesa-ha-grossi-problemi-609284",
-      "source": "milannews.it",
-      "date": "2026-03-03T17:30:00+00:00",
-      "summary": "Massimo Orlando, on TMW Radio, spoke thus of Milan: \"He has the points he deserves. I have criticized Milan enough because they have been very lucky."
-    },
-    {
       "id": "9e23d143e210",
       "title": "‘Deserved something more’ – Zielinski admits Inter are thinking of last clash with Milan",
       "url": "https://sempremilan.com/zielinski-admits-inter-thinking-last-clash-milan",
       "source": "sempremilan.com",
       "date": "2026-03-03T17:30:00+00:00",
       "summary": "AC Milan will face Inter this weekend, and both teams will want to win for different reasons. Yet, the Nerazzurri will also be powered by a feeling of revenge.  For Milan, Sunday’s game is for pride and little to nothing more. Whilst they have agreed internally to fight for the Scudetto, they will n"
-    },
-    {
-      "id": "a4bdd75737fa",
-      "title": "Only two players have been involved in at least 10 goals in the last six years of Serie A. And one is Leao",
-      "url": "https://www.milannews.it/news/solo-due-calciatori-hanno-partecipato-almeno-a-10-gol-negli-ultimi-sei-anni-di-serie-a-e-uno-e-leao-609292",
-      "source": "milannews.it",
-      "date": "2026-03-03T17:20:15+00:00",
-      "summary": "Rafael Leao has been involved in 11 goals (nine goals, two assists) in the current tournament and has become only the second player to be involved in more than 10 goals in each of the last six Serie A seasons (since 2020/21), after Lautaro Ma..."
-    },
-    {
-      "id": "d47e741a1d4e",
-      "title": "Pasotto: \"There is no imagination because Milan repeat the same script for the umpteenth time this season. But there is effectiveness\"",
-      "url": "https://www.milannews.it/news/pasotto-non-c-e-fantasia-perche-il-milan-ripete-lo-stesso-copione-per-l-ennesima-volta-in-questa-stagione-ma-c-e-efficacia-609311",
-      "source": "milannews.it",
-      "date": "2026-03-03T17:10:52+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport, reporting Allegri's words in the press conference: \"There is no imagination, but if nothing else there is effectiveness."
-    },
-    {
-      "id": "3aa5217c6486",
-      "title": "Pulisic is dry, but he has already struck against Inter: the derby is an opportunity for personal redemption",
-      "url": "https://www.milannews.it/primo-piano/pulisic-a-secco-ma-contro-l-inter-ha-gia-colpito-derby-occasione-di-riscatto-personale-609354",
-      "source": "milannews.it",
-      "date": "2026-03-03T17:00:00+00:00",
-      "summary": "Difficult moment, perhaps the most complicated for Christian Pulisic since he wore the Milan shirt. A very long period of not scoring and difficulty finding the right position."
     },
     {
       "id": "d2fffa0c9873",
