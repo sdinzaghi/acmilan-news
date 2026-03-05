@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-03-05T06:50:39.003758+00:00",
+  "lastUpdated": "2026-03-05T07:41:15.579422+00:00",
   "articles": [
+    {
+      "id": "4d80fa5abb90",
+      "title": "Tuttosport opening: \"Modric and Rabiot at Real Madrid with Max\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-in-apertura-modric-e-rabiot-al-real-con-max-609500",
+      "source": "milannews.it",
+      "date": "2026-03-05T07:30:00+00:00",
+      "summary": "The rumors continue that Massimiliano Allegri would be Real Madrid's first choice for next season."
+    },
+    {
+      "id": "7344d21de3bd",
+      "title": "CorSport on the front page: \"Real Madrid, Allegri solution\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-in-prima-pagina-real-madrid-soluzione-allegri-609496",
+      "source": "milannews.it",
+      "date": "2026-03-05T07:20:00+00:00",
+      "summary": "Rumors continue about a possible interest, and it would be the third, of Real Madrid in Massimiliano Allegri."
+    },
+    {
+      "id": "e4b918bc160a",
+      "title": "La Gazzetta opens with Pavlovic's words: \"Derby for tough guys\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-apre-con-le-parole-di-pavlovic-derby-da-duri-609504",
+      "source": "milannews.it",
+      "date": "2026-03-05T07:10:33+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport opens this morning with the words of Strahinja Pavlovic, who presented the derby against Inter scheduled for Sunday evening at San Siro as follows: \"It will be a tough match."
+    },
+    {
+      "id": "298f5f0092db",
+      "title": "Pavlovic to the Gazzetta: \"The derby is the most important match of the season. Scudetto? Nothing is finished yet. I learned from Allegri...\"",
+      "url": "https://www.milannews.it/primo-piano/pavlovic-alla-gazzetta-il-derby-e-la-partita-piu-importante-della-stagione-scudetto-nulla-e-ancora-finito-da-allegri-ho-imparato-609494",
+      "source": "milannews.it",
+      "date": "2026-03-05T07:00:43+00:00",
+      "summary": "Strahinja Pavlovic has no doubts about what Sunday evening's derby against Inter will be like: \"It will be a tough match. Inter are ahead in the standings and will perhaps play with less pressure than us."
+    },
     {
       "id": "3ac7200f8ece",
       "title": "Milan-Udinese, all the info on tickets for the San Siro match",
@@ -128,38 +160,6 @@
       "source": "milannews.it",
       "date": "2026-03-04T22:20:12+00:00",
       "summary": "During the usual appointment with the Cronache di Spogliatoio podcast \"Fontana di Trevi\", Il Foglio journalist Giuseppe Pastore spoke in advance about the problems that Milan could have in the near future: \"C..."
-    },
-    {
-      "id": "e8a8387f5502",
-      "title": "Bastoni case, G. Rossi: \"I don't blame him but VAR: what's the point?\"",
-      "url": "https://www.milannews.it/news/caso-bastoni-g-rossi-non-do-la-colpa-a-lui-ma-al-var-a-cosa-serve-609483",
-      "source": "milannews.it",
-      "date": "2026-03-04T22:10:24+00:00",
-      "summary": "Giuseppe Rossi, former striker of the Italian national team, Manchester United and Fiorentina among others, was a guest on The Italian Football Podcast and commented on various topics related to Italian football, both in terms of ..."
-    },
-    {
-      "id": "b28e5e6e83ec",
-      "title": "Italian Cup, Lazio-Atalanta 2-2: Musah scores again",
-      "url": "https://www.milannews.it/news/coppa-italia-lazio-atalanta-2-2-musah-segna-ancora-609489",
-      "source": "milannews.it",
-      "date": "2026-03-04T22:00:00+00:00",
-      "summary": "The first leg of the Coppa Italia semi-final between Lazio and Atalanta ends 2-2 at the Olympic Stadium. After yesterday's 0-0 draw between Como and Inter, the match in the capital also ends in a draw."
-    },
-    {
-      "id": "4481d7b01719",
-      "title": "Brocchi reveals: “Never asked Galliani for a euro, playing for Milan was the best”",
-      "url": "https://www.milannews.it/news/brocchi-rivela-mai-chiesto-un-euro-a-galliani-giocare-nel-milan-era-il-massimo-609444",
-      "source": "milannews.it",
-      "date": "2026-03-04T21:50:25+00:00",
-      "summary": "Christian Brocchi, former Rossoneri player and coach, was the protagonist of an episode of the Rompipallone podcast, in which he spoke about the years he spent in the Rossoneri shirt."
-    },
-    {
-      "id": "843454df46a7",
-      "title": "Pjanic: \"Knowing Allegri, he believes in the Scudetto. Even if only Inter can lose it\"",
-      "url": "https://www.milannews.it/news/pjanic-conoscendo-allegri-crede-allo-scudetto-anche-se-lo-puo-perdere-solo-l-inter-609433",
-      "source": "milannews.it",
-      "date": "2026-03-04T21:40:34+00:00",
-      "summary": "Miralem Pjanic, a former footballer, expressed himself as follows in La Gazzetta dello Sport on Massimiliano Allegri: “Scudetto? Knowing him, he believes in it. He is number one in managing the team."
     },
     {
       "id": "bdd88bc342c3",
