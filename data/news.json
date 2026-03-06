@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-03-06T17:33:54.715334+00:00",
+  "lastUpdated": "2026-03-06T18:42:25.540293+00:00",
   "articles": [
+    {
+      "id": "3e7febed4c59",
+      "title": "Two days at the Derby, the spring for the end-of-season sprint",
+      "url": "https://www.milannews.it/podcast-mn/due-giorni-al-derby-la-molla-per-la-volata-di-fine-stagione-609719",
+      "source": "milannews.it",
+      "date": "2026-03-06T18:30:05+00:00",
+      "summary": "The day before the Derby della Madonnina: Milan and Inter will face each other on Sunday 8 March, in two days' time, at 8.45pm at San Siro on the occasion of the 28th round of the Serie A Enilive championship."
+    },
+    {
+      "id": "ca3ecce64a80",
+      "title": "The ‘do-or-die’ derby: The Milan players who need a big performance vs. Inter",
+      "url": "https://sempremilan.com/milan-players-who-need-big-performance-inter",
+      "source": "sempremilan.com",
+      "date": "2026-03-06T18:30:00+00:00",
+      "summary": "AC Milan versus Inter is the biggest fixture in the Serie A calendar, one that transcends Italy and is watched in all corners of the globe. The magnitude of the occasion is always heightened when both Milanese clubs are fighting for something other than just city bragging rights, as was the case for"
+    },
+    {
+      "id": "253516de3a93",
+      "title": "Saelemaekers: \"The person I am on the field is different than the person I am off it. The thing that makes me happiest is having helped my parents live better\"",
+      "url": "https://www.milannews.it/news/saelemaekers-la-persona-che-sono-sul-campo-e-diversa-rispetto-a-quella-che-sono-fuori-la-cosa-che-mi-rende-piu-felice-e-aver-aiutato-i-mei-genitori-a-609706",
+      "source": "milannews.it",
+      "date": "2026-03-06T18:19:24+00:00",
+      "summary": "Interviewed by DAZN, Alexis Saelemaekers said: \"The person I am on the pitch is different than the person I am off it."
+    },
+    {
+      "id": "d15d1ed7fa91",
+      "title": "Sky - Cardinale at Milanello tomorrow: he will probably be at San Siro on Sunday",
+      "url": "https://www.milannews.it/news/sky-domani-cardinale-a-milanello-domenica-sara-probabilmente-a-san-siro-609726",
+      "source": "milannews.it",
+      "date": "2026-03-06T18:10:00+00:00",
+      "summary": "Important news in these days of approaching the Derby della Madonnina between Milan and Inter."
+    },
+    {
+      "id": "eb616b7e4a53",
+      "title": "Braglia: \"Allegri, I would have expected something more. Milan's squad at the same level as Inter's\"",
+      "url": "https://www.milannews.it/news/braglia-allegri-mi-sarei-aspettato-qualcosa-in-piu-rosa-del-milan-all-altezza-di-quella-dell-inter-609717",
+      "source": "milannews.it",
+      "date": "2026-03-06T18:00:45+00:00",
+      "summary": "Two days before the Derby della Madonnina between Milan and Inter which will be played on Sunday at 8pm."
+    },
+    {
+      "id": "a2509888de0e",
+      "title": "‘We all feel important’ – Ricci sheds light on derby, shadowing Modric and targets",
+      "url": "https://sempremilan.com/ricci-derby-shadowing-modric-targets",
+      "source": "sempremilan.com",
+      "date": "2026-03-06T18:00:00+00:00",
+      "summary": "Samuele Ricci has insisted that the AC Milan squad are all united and ready for the biggest game of the season against Inter. The upcoming clash between Milan and Inter on Sunday night has already been given the ‘do-or-die’ tag by Rafael Leao, with the Rossoneri hoping to reopen the title race by wi"
+    },
+    {
+      "id": "635804481afc",
+      "title": "PROBABLE LINEUP - Towards Milan-Inter: Estupinan on the left, Pulisic-Leao confirmed",
+      "url": "https://www.milannews.it/news/probabile-formazione-verso-milan-inter-estupinan-a-sinistra-confermati-pulisic-leao-609725",
+      "source": "milannews.it",
+      "date": "2026-03-06T17:55:00+00:00",
+      "summary": "One of the most awaited moments of the Milanese calendar, the Derby between Milan and Inter, is getting closer and closer."
+    },
+    {
+      "id": "1dfdb2dfa14c",
+      "title": "MN - Pancaro praises Allegri: \"He has brought Milan back to competing for the top places in the championship. The results are on his side\"",
+      "url": "https://www.milannews.it/news/mn-pancaro-elogia-allegri-ha-riportato-il-milan-a-rigiocare-per-i-primi-posti-del-campionato-i-risultati-sono-dalla-sua-609681",
+      "source": "milannews.it",
+      "date": "2026-03-06T17:50:30+00:00",
+      "summary": "The derby will be played on Sunday, a match that could have a specific decisive impact on the fate of this championship. He spoke exclusively about this important challenge to MilanNews."
+    },
+    {
+      "id": "6346438167df",
+      "title": "Sky - Towards Inter: Estupinan ahead on the left. Fofana in the middle",
+      "url": "https://www.milannews.it/news/sky-verso-l-inter-estupinan-in-vantaggio-a-sinistra-fofana-in-mezzo-609724",
+      "source": "milannews.it",
+      "date": "2026-03-06T17:41:00+00:00",
+      "summary": "Today was an important day at the Milanello sports center: Allegri and his staff were able to welcome back to the group Davide Bartesaghi who got over the strain on his right thigh flexor suffered in the final minutes of the ..."
+    },
+    {
+      "id": "7ba7b9944fb3",
+      "title": "Saelemaekers: \"I thank Roma so much, I have never had a negative thought towards the fans and the city\"",
+      "url": "https://www.milannews.it/news/saelemaekers-ringrazio-tantissimo-la-roma-non-ho-mai-avuto-un-pensiero-negativo-verso-i-tifosi-e-la-citta-609705",
+      "source": "milannews.it",
+      "date": "2026-03-06T17:30:11+00:00",
+      "summary": "Interviewed by DAZN, Alexis Saelemaekers spoke about his experiences on loan in Bologna and Rome:\n\nOn his experience at Bologna\n\"Bologna in one word? Surprise."
+    },
     {
       "id": "43d9292ca406",
       "title": "MN: Press conference and pre-match retreat – Milan’s schedule for derby weekend",
@@ -138,14 +218,6 @@
       "summary": "Interviewed by The Athletic, Fikayo Tomori made these statements about Christian Pulisic: \"People underestimate him. People don't realize how fast he is."
     },
     {
-      "id": "6e95c020a804",
-      "title": "Serafini advises: \"Only one thing should be asked of Allegri: let's not give advantages to the Dumfries wing if Bartesaghi doesn't make it\"",
-      "url": "https://www.milannews.it/news/serafini-consiglia-solo-una-cosa-va-chiesta-ad-allegri-non-diamo-vantaggi-alla-fascia-di-dumfries-se-non-dovesse-farcela-bartesaghi-609629",
-      "source": "milannews.it",
-      "date": "2026-03-06T15:30:25+00:00",
-      "summary": "During his editorial for MilanNews."
-    },
-    {
       "id": "12ce2fbb8f6c",
       "title": "Official: Date and time confirmed for Milan’s round 31 trip to face Napoli",
       "url": "https://sempremilan.com/official-date-time-napoli-milan-2026",
@@ -154,60 +226,12 @@
       "summary": "Lega Serie A have officially announced when the game between Napoli and AC Milan at the Stadio Diego Armando Maradona will be played. As the official website relays, Serie A has announced the dates and times for matchday 31 of the league campaign. The Rossoneri are scheduled to play the big showdown"
     },
     {
-      "id": "b4442d341f11",
-      "title": "Saelemaekers and the experience at Bologna: \"I arrived at a moment where I felt left aside by Milan. It was an important step for my career\"",
-      "url": "https://www.milannews.it/news/saelemaekers-e-l-esperienza-al-bologna-sono-arrivato-in-un-momento-dove-mi-ero-sentito-messo-da-parte-dal-milan-e-stato-un-passo-importante-per-la-mia-609703",
-      "source": "milannews.it",
-      "date": "2026-03-06T15:21:35+00:00",
-      "summary": "Interviewed by DAZN, Alexis Saelemaekers spoke about his experiences on loan in Bologna and Rome:\n\nOn his experience at Bologna\n\"Bologna in one word? Surprise."
-    },
-    {
-      "id": "c77736773f32",
-      "title": "Paganini: \"I don't see Inter as a team that can decline so much physically\"",
-      "url": "https://www.milannews.it/news/paganini-non-vedo-nell-inter-una-squadra-che-possa-calare-cosi-tanto-fisicamente-609583",
-      "source": "milannews.it",
-      "date": "2026-03-06T15:10:04+00:00",
-      "summary": "During the usual appointment with Maracanà, a program broadcast on the frequencies of TMW Radio, my colleague Paolo Paganini spoke about Milan, focusing in particular on the derby, a fundamental point for the season of both the Diavol ..."
-    },
-    {
-      "id": "4248cb88bb8a",
-      "title": "MN - AC Milan ownership: what is the 5% in favor of Elliott that emerged and what could happen",
-      "url": "https://www.milannews.it/primo-piano/mn-proprieta-milan-che-cos-e-il-5-a-favore-di-elliott-emerso-e-cosa-potrebbe-succedere-609712",
-      "source": "milannews.it",
-      "date": "2026-03-06T15:00:01+00:00",
-      "summary": "As we reported, this morning's news is that the Milan Prosecutor's Office has requested the dismissal of the investigation regarding the investigations into the transfer of ownership of Milan from the Elliott fund to RedBird Capital."
-    },
-    {
       "id": "1c631e0775ab",
       "title": "Ambrosini previews derby, tips ‘unlucky’ Fofana for key role and praises Allegri",
       "url": "https://sempremilan.com/ambrosini-derby-fofana-allegri-praise",
       "source": "sempremilan.com",
       "date": "2026-03-06T15:00:00+00:00",
       "summary": "Massimo Ambrosini has predicted a ‘battle’ in Sunday’s derby, praising the work Massimiliano Allegri has done at AC Milan. Ambrosini rather remarkably played in 27 Milan derbies and yet scored his only goal against Inter for another team. It was during the 1997-98 season, when the young midfielder w"
-    },
-    {
-      "id": "2ab712c811e5",
-      "title": "Towards the Derby: Inter, Bonny is back available. Lautaro works separately",
-      "url": "https://www.milannews.it/l-avversario/verso-il-derby-inter-bonny-torna-a-disposizione-lautaro-lavora-a-parte-609710",
-      "source": "milannews.it",
-      "date": "2026-03-06T14:49:06+00:00",
-      "summary": "Day of training and preparation also at Inter. Today only Lautaro Martinez worked separately for the Nerazzurri, while Bonny regularly returned to the group and is available."
-    },
-    {
-      "id": "327e8b19c1a0",
-      "title": "Tomori and the arrival of Allegri: \"He told us that the whole team must have the mentality of not conceding as many goals as last year\"",
-      "url": "https://www.milannews.it/news/tomori-e-l-arrivo-di-allegri-ci-ha-detto-che-tutta-la-squadra-deve-avere-la-mentalita-di-non-subire-cosi-tanti-gol-come-l-anno-scorso-609695",
-      "source": "milannews.it",
-      "date": "2026-03-06T14:39:19+00:00",
-      "summary": "Interviewed by The Athletic, Fikayo Tomori made these statements: \n\nOn Allegri's arrival: \"He said: 'Last season we scored, I don't know, more than 80 goals."
-    },
-    {
-      "id": "c164a0d524ce",
-      "title": "F. Galli: \"Modric gives me Baresi vibes: we see it when he celebrates, when Milan wins, when he scores a goal\"",
-      "url": "https://www.milannews.it/news/f-galli-modric-mi-da-vibes-da-baresi-lo-vediamo-quando-anche-quando-esulta-quando-il-milan-vince-quando-fa-gol-609628",
-      "source": "milannews.it",
-      "date": "2026-03-06T14:30:53+00:00",
-      "summary": "Filippo Galli, a former footballer, expressed himself thus to MilanVibes about Luka Modric: “It's a bit like the vibes that Franco Baresi gave me."
     },
     {
       "id": "6f0a2a489d2c",
@@ -224,14 +248,6 @@
       "source": "football-italia.net",
       "date": "2026-03-06T14:23:28+00:00",
       "summary": "La Gazzetta dello Sport reports that Milan will offer Massimiliano Allegri a new contract until..."
-    },
-    {
-      "id": "ea61413757bf",
-      "title": "Saelemaekers and the relationship with Allegri: \"It's one of the best I've had also from a human point of view\"",
-      "url": "https://www.milannews.it/news/saelemaekers-e-il-rapporto-con-allegri-e-uno-dei-migliori-che-ho-avuto-anche-dal-punto-di-vista-umano-609702",
-      "source": "milannews.it",
-      "date": "2026-03-06T14:18:57+00:00",
-      "summary": "Interviewed by DAZN, Alexis Saelemaekers said:\n\nOn Massimiliano Allegri\n\"Allegri is special to me, he is unique. The way he sees football, also his attitude."
     },
     {
       "id": "03687d75e99e",
@@ -328,22 +344,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-06T09:50:00+00:00",
       "summary": "Fikayo Tomori has provided a reflection on his over half-decade at AC Milan, from the moment he joined to the present. Tomori joined Milan on an initial loan with an option to buy over five years ago, and he has established himself as one of the most important players since the turn of the decade, ["
-    },
-    {
-      "id": "8df42eb99446",
-      "title": "GdS: Milan ‘more and more’ Allegri – pay and power to increase with Champions League return",
-      "url": "https://sempremilan.com/allegri-pay-power-increase-champions-league",
-      "source": "sempremilan.com",
-      "date": "2026-03-06T09:25:00+00:00",
-      "summary": "There has been talk in recent days about a possible future without Massimiliano Allegri for AC Milan, one they do not wish to entertain. As La Gazzetta dello Sport (seen below) report, Allegri is Milan’s assurance that they’re back where they traditionally belong: at the top end of the table. The cl"
-    },
-    {
-      "id": "578b8688d597",
-      "title": "Gallery: ‘Max, the project continues’, ‘The derby will decide’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/front-pages-italy-milan-inter-6-march",
-      "source": "sempremilan.com",
-      "date": "2026-03-06T09:00:00+00:00",
-      "summary": "The battle fever is brewing in Italy, with two days until the biggest fixture in Serie A: the Derby della Madonnina. The derby has already been given the ‘do-or-die’ tag by Rafael Leao, with Milan hoping to reopen the discussions about a Scudetto race by cutting the gap to seven points. Inter, with "
     },
     {
       "id": "bcaba2186ea2",
