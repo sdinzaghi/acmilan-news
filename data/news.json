@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-03-07T18:31:51.721810+00:00",
+  "lastUpdated": "2026-03-07T19:20:34.321085+00:00",
   "articles": [
+    {
+      "id": "0c6f241195fc",
+      "title": "Serie A, Atalanta-Udinese 2-2: Scamacca saves the goddess",
+      "url": "https://www.milannews.it/news/serie-a-atalanta-udinese-2-2-scamacca-salva-la-dea-609824",
+      "source": "milannews.it",
+      "date": "2026-03-07T19:12:23+00:00",
+      "summary": "The 6pm match between Atalanta and Udinese at the New Balance Arena ends 2-2. The evening didn't start well for the Nerazzurri who, after a mediocre first half with no opportunities, fell behind in the 39th minute thanks to Kristensen's goal."
+    },
+    {
+      "id": "f67cc8d9993f",
+      "title": "Serie A preview: AC Milan vs. Inter – Team news, opposition insight, stats and prediction",
+      "url": "https://sempremilan.com/serie-a-preview-ac-milan-vs-inter-2025-26",
+      "source": "sempremilan.com",
+      "date": "2026-03-07T19:00:51+00:00",
+      "summary": "Derby day is upon us! After several weeks of build-up, AC Milan and Inter will finally battle it out underneath the San Siro lights.  A few weeks ago, Milan’s goal was to come into this game five points behind Inter. However, a few dropped points later and the gap in the standings has increased to ["
+    },
+    {
+      "id": "1488f0119a3b",
+      "title": "Probable Milan lineup: Allegri relies on Leao-Pulisic, Estupinan on the left",
+      "url": "https://www.milannews.it/primo-piano/probabile-formazione-milan-allegri-si-affida-a-leao-pulisic-a-sinistra-estupinan-609823",
+      "source": "milannews.it",
+      "date": "2026-03-07T19:00:00+00:00",
+      "summary": "There are just over 24 hours left until the big night of the Derby della Madonnina: tomorrow evening at 8.45pm, Milan and Inter will face each other at San Siro on the occasion of the 28th round of the Serie A Enilive championship."
+    },
+    {
+      "id": "f9b6d36d6cb1",
+      "title": "Capello: \"What Allegri is doing shows that he is still one of the best around, an excellent coach, not a boilerplate\"",
+      "url": "https://www.milannews.it/news/capello-quello-che-sta-facendo-allegri-dimostra-che-e-ancora-uno-dei-migliori-in-circolazione-un-ottimo-allenatore-non-un-bollito-609763",
+      "source": "milannews.it",
+      "date": "2026-03-07T18:49:35+00:00",
+      "summary": "Fabio Capello, commentator, expressed himself to MilanVibes about Massimiliano Allegri.\n\nLet's move on to the two coaches."
+    },
+    {
+      "id": "fb7cf80bf502",
+      "title": "Pazzini lowers Milan-Inter hopes: “I don’t expect a spectacular match”",
+      "url": "https://sempremilan.com/pazzini-lowers-milan-inter-hopes-match",
+      "source": "sempremilan.com",
+      "date": "2026-03-07T18:47:51+00:00",
+      "summary": "Giampaolo Pazzini has shared his thoughts on the derby between AC Milan and Inter, stating that he doesn’t think it will be a spectacular game.  Pazzini has played for both Milan teams, just like Bobo Vieri who also did an interview today, so the Derby della Madonnina is something he’s very familiar"
+    },
+    {
+      "id": "bf5434165865",
+      "title": "Dazn and the new format with the fans. Lautaro makes his debut, revealing that he dreams of the Champions League",
+      "url": "https://www.milannews.it/news/dazn-e-il-nuovo-format-con-i-tifosi-esordisce-lautaro-che-rivela-di-sognare-la-champions-609762",
+      "source": "milannews.it",
+      "date": "2026-03-07T18:37:46+00:00",
+      "summary": "(ANSA) - ROME, MARCH 06 - A new format launched by Dazn to interact with fans."
+    },
     {
       "id": "51f9f30f7c9d",
       "title": "Napoli, Buongiorno: \"Milan second? We look at it game by game, we try to win them all\"",
@@ -178,22 +226,6 @@
       "summary": "Journalist Alessandro Schiavone interviewed former PSG defender Éric Rabésandratana exclusively for MilanNews. With him we explored the issues of Maignan, Rabiot and."
     },
     {
-      "id": "e2e19788588b",
-      "title": "Ibrahimovic remembers his best moment in the Milan Derby on CBS",
-      "url": "https://www.milannews.it/news/ibrahimovic-ricorda-il-suo-momento-migliore-nel-derby-di-milano-alla-cbs-609740",
-      "source": "milannews.it",
-      "date": "2026-03-07T15:36:31+00:00",
-      "summary": "Zlatan Ibrahimovic hosted the American television crew of CBS Sport Golazo in the Milanello Sports Center who, in the next few days, will broadcast a report on Milan seen from the point of view of ..."
-    },
-    {
-      "id": "41706395033a",
-      "title": "Who can decide the derby? Brocchi's choices: \"Rabiot for Milan and Pio Esposito for Inter\"",
-      "url": "https://www.milannews.it/gli-ex/chi-puo-decidere-il-derby-le-scelte-di-brocchi-rabiot-per-il-milan-e-pio-esposito-per-l-inter-609784",
-      "source": "milannews.it",
-      "date": "2026-03-07T15:24:06+00:00",
-      "summary": "Cristian Brocchi, former AC Milan and Inter player, told Tuttosport about tomorrow night's derby: \"I think the least important thing about this derby is the ranking."
-    },
-    {
       "id": "b57276a20524",
       "title": "Watch: Ibrahimovic names favourite derby memory with Milan – “A nice trip home”",
       "url": "https://sempremilan.com/ibrahimovic-favourite-derby-milan-nice-trip",
@@ -202,36 +234,20 @@
       "summary": "Zlatan Ibrahimovic has shared his favourite derby memory ahead of AC Milan and Inter’s clash tomorrow evening, taking us back to 2011.  Having played for both Milan and Inter, Ibrahimovic has a fair share of experience when it comes to the Derby della Madonnina. With the red and black shirt, he scor"
     },
     {
-      "id": "8cd106c927fb",
-      "title": "Chivu: \"Dumfries is better but you can see he lacks pace. Calhanoglu available tomorrow. Thuram with fever today\"",
-      "url": "https://www.milannews.it/l-avversario/chivu-dumfries-sta-meglio-ma-si-vede-che-gli-manca-ritmo-calhanoglu-domani-a-disposizione-thuram-oggi-con-la-febbre-609816",
-      "source": "milannews.it",
-      "date": "2026-03-07T15:11:02+00:00",
-      "summary": "During his press conference on the eve of the Milan derby, Cristian Chivu took stock of the conditions of his players:\n\nHow is Dumfries?\n\n\"Dumfries is better. So far he has played 10 minutes with Bodo, then half an hour with Como."
-    },
-    {
-      "id": "849f45135702",
-      "title": "Tiziano Crudeli gets excited: \"I think about Leao and I get excited\"",
-      "url": "https://www.milannews.it/news/tiziano-crudeli-si-emoziona-io-penso-a-leao-e-mi-entusiasmo-609623",
-      "source": "milannews.it",
-      "date": "2026-03-07T15:00:00+00:00",
-      "summary": "Tiziano Crudeli, a well-known AC Milan commentator, spoke to MilanVibes about who the derby man could be: \"I don't think it's unsuspected. I think about Leao and I get excited."
-    },
-    {
-      "id": "20ad97310fce",
-      "title": "Ambrosini names ‘surprise’ Milan player who could settle derby against Inter",
-      "url": "https://football-italia.net/ambrosini-names-milan-player-to-settle-derby/",
-      "source": "football-italia.net",
-      "date": "2026-03-07T15:00:00+00:00",
-      "summary": "Massimo Ambrosini believes that Sunday’s Derby della Madonnina will be won in midfield, and suggests..."
-    },
-    {
       "id": "63c6858864c8",
       "title": "Allegri explains why André rumours have ‘been good for us’ in build-up to derby",
       "url": "https://sempremilan.com/allegri-andre-rumours-good-milan-derby",
       "source": "sempremilan.com",
       "date": "2026-03-07T14:40:41+00:00",
       "summary": "Massimiliano Allegri explained that the recent transfer rumours regarding André have actually helped AC Milan in their derby build-up, despite the confusion.  After getting very close to signing Andre from Corinthians, it seems Milan are just one step away from backing out of the deal. The Brazilian"
+    },
+    {
+      "id": "20ad97310fce",
+      "title": "Ambrosini names ‘surprise’ Milan player who could settle derby against Inter",
+      "url": "https://football-italia.net/ambrosini-names-milan-player-to-settle-derby/",
+      "source": "football-italia.net",
+      "date": "2026-03-07T14:30:00+00:00",
+      "summary": "Massimo Ambrosini believes that Sunday’s Derby della Madonnina will be won in midfield, and suggests..."
     },
     {
       "id": "7200dbd9ba96",
@@ -370,28 +386,12 @@
       "summary": "Christian Pulisic is heading into the Milan derby with a clear goal in mind: to break his goal drought and extend his positive run against Inter.  As highlighted by Gazzetta dello Sport this morning (see photo at the bottom), Pulisic is hoping that history will repeat itself after deciding the rever"
     },
     {
-      "id": "21c99577fb51",
-      "title": "GdS: Cardinale will arrive in Milan today for third visit in 45 days – the latest",
-      "url": "https://sempremilan.com/gds-cardinale-third-visit-45-days-latest",
-      "source": "sempremilan.com",
-      "date": "2026-03-07T09:25:00+00:00",
-      "summary": "Gerry Cardinale has ramped up his appearances in the city of Milan after repaying the vendor loan to Elliott Management, and he will be present for the derby on Sunday evening.  In addition to the sporting struggles of last season, one of the main points of criticism for Cardinale was that he wasn’t"
-    },
-    {
       "id": "e2ee25880fd7",
       "title": "Kaka picks one Inter player he would steal for Milan and predicts derby MVP",
       "url": "https://football-italia.net/kaka-one-inter-player-would-steal-for-milan/",
       "source": "football-italia.net",
       "date": "2026-03-07T09:18:53+00:00",
       "summary": "Former Rossoneri star Kaka has named the one Inter player he would like to ‘steal’..."
-    },
-    {
-      "id": "e541f0a30a30",
-      "title": "Gallery: ‘Pulisic will do it again’, ‘Inter doing math’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/gallery-pulisic-again-inter-papers-italy",
-      "source": "sempremilan.com",
-      "date": "2026-03-07T09:00:00+00:00",
-      "summary": "The Derby della Madonnina is up next for AC Milan and just like the reverse fixture, they will need to rely on their stars to get all three points, including Christian Pulisic.  Milan had been hoping to head into this game five points behind their city rivals, but as things stand, Inter are ten poin"
     },
     {
       "id": "8a9e03753870",
