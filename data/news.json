@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2026-03-08T19:22:13.413884+00:00",
+  "lastUpdated": "2026-03-08T20:25:00.701228+00:00",
   "articles": [
+    {
+      "id": "5b635427ed88",
+      "title": "LIVE MN - Milan-Inter (0-0): the Devil looks for depth, the Nerazzurri instead opt for dribbling",
+      "url": "https://www.milannews.it/primo-piano/live-mn-milan-inter-0-0-il-diavolo-cerca-la-profondita-i-nerazzurri-optano-invece-per-il-palleggio-609902",
+      "source": "milannews.it",
+      "date": "2026-03-08T20:18:00+00:00",
+      "summary": "30' | Now it's Milan trying to flush out Inter's defense through ball possession. \n\n25' | Milan's defense was still good, with Pavlovic anticipating Pio Esposito on a low cross from Dimarco."
+    },
+    {
+      "id": "54fa68257201",
+      "title": "MN - The data on attendance at San Siro for the Milan-Inter Derby",
+      "url": "https://www.milannews.it/news/mn-il-dato-sulle-presenze-a-san-siro-per-il-derby-milan-inter-609917",
+      "source": "milannews.it",
+      "date": "2026-03-08T20:12:30+00:00",
+      "summary": "The data of the spectators present today at the San Siro stadium in Milan for the Milan-Inter Derby, a match valid for the twenty-eighth matchday of Serie A Enilive, has arrived: 75,627 tickets have been sold."
+    },
+    {
+      "id": "ac062902c634",
+      "title": "Pato: \"Everyone expects a lot from Leao. He's very strong, I really hope he can do well today\"",
+      "url": "https://www.milannews.it/news/pato-tutti-si-aspettano-tanto-da-leao-e-fortissimo-spero-tanto-che-possa-far-bene-oggi-609906",
+      "source": "milannews.it",
+      "date": "2026-03-08T20:00:00+00:00",
+      "summary": "Alexandro Pato, AC Milan's historic center forward, was interviewed by DAZN before the derby."
+    },
+    {
+      "id": "8b43d9b4eea2",
+      "title": "Sticks were booed at the first touch of the ball, as well as during the warm-up",
+      "url": "https://www.milannews.it/news/bastoni-fischiatissimo-al-primo-tocco-di-palla-come-anche-nel-riscaldamento-609916",
+      "source": "milannews.it",
+      "date": "2026-03-08T19:50:00+00:00",
+      "summary": "The Derby della Madonnina has begun at San Siro between Milan and Inter."
+    },
+    {
+      "id": "47b2bbeee43d",
+      "title": "Brignone to MTV: \"Coming here to this stadium is something special. The support is incredible\"",
+      "url": "https://www.milannews.it/news/brignone-a-mtv-venire-qua-in-questo-stadio-e-qualcosa-di-speciale-il-tifo-e-incredibile-609908",
+      "source": "milannews.it",
+      "date": "2026-03-08T19:48:08+00:00",
+      "summary": "In the pre-match of Milan-Inter, a derby valid for the 28th matchday of Serie A Enilive, the Olympic champion Federica Brignone spoke to Milan TV to talk about her emotions in being invited by the Rossoneri club ..."
+    },
+    {
+      "id": "92438e4b4e33",
+      "title": "Serie A Liveblog: Milan-Inter, Genoa-Roma, Bologna-Verona, Fiorentina-Parma",
+      "url": "https://football-italia.net/serie-a-liveblog-milan-inter-genoa-roma-fiore/",
+      "source": "football-italia.net",
+      "date": "2026-03-08T19:37:00+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "53fc8dc89f29",
+      "title": "Brocchi: \"Estupinan hasn't yet managed to bring out his real characteristics: it's a good test\"",
+      "url": "https://www.milannews.it/news/brocchi-estupinan-non-e-ancora-riuscito-a-tirare-fuori-quelle-che-sono-le-sue-reali-caratteristiche-e-un-bel-banco-di-prova-609897",
+      "source": "milannews.it",
+      "date": "2026-03-08T19:35:27+00:00",
+      "summary": "Davide Bartesaghi is available after the injury in Cremona, but he is not in good enough shape to start the derby: on the left wing Massimiliano Allegri lines up Pervis Estupinan, who has had a tough time so far ..."
+    },
+    {
+      "id": "1f0bc648236c",
+      "title": "Ambrosini: \"If Milan want to win the derby they must make the most of the depth of their protagonists in the middle of the pitch\"",
+      "url": "https://www.milannews.it/news/ambrosini-il-milan-se-vuol-vincere-il-derby-deve-far-valere-lo-spessore-dei-suoi-protagonisti-in-mezzo-al-campo-609909",
+      "source": "milannews.it",
+      "date": "2026-03-08T19:35:24+00:00",
+      "summary": "Milan and Inter, the Milan derby. Many really important players, on both sides."
+    },
+    {
+      "id": "61f2f24a4814",
+      "title": "Cardinale at San Siro for the Derby: framed on the sideline with Ibrahimovic",
+      "url": "https://www.milannews.it/news/cardinale-a-san-siro-per-il-derby-inquadrato-a-bordocampo-con-ibrahimovic-609913",
+      "source": "milannews.it",
+      "date": "2026-03-08T19:34:24+00:00",
+      "summary": "As anticipated, RedBird number one Gerry Cardinale is at San Siro to watch the Derby between Milan and Inter."
+    },
+    {
+      "id": "44146d433e53",
+      "title": "Marotta: ‘Inter victim of jealousy and unfounded criticism’",
+      "url": "https://football-italia.net/marotta-inter-victim-of-jealousy-criticism/",
+      "source": "football-italia.net",
+      "date": "2026-03-08T19:31:16+00:00",
+      "summary": "Inter President Beppe Marotta agrees with Cristian Chivu that their success ‘attracted jealousy and excessive..."
+    },
+    {
+      "id": "9cc57d2be01f",
+      "title": "Sergio Ramos was also present at San Siro: invited by his friend Modric",
+      "url": "https://www.milannews.it/news/a-san-siro-presente-anche-sergio-ramos-invitato-dall-amico-modric-609910",
+      "source": "milannews.it",
+      "date": "2026-03-08T19:31:00+00:00",
+      "summary": "This morning's news came from Luka Modric who bought 60 tickets for friends and relatives so they could enjoy the spectacle of the Milan Derby between AC Milan and Inter, with the entire stadium dressed in red and black."
+    },
+    {
+      "id": "4d1e7a14d14a",
+      "title": "Roar from San Siro for the Rossoneri Olympic medalists Federica Brignone and Dominik Paris",
+      "url": "https://www.milannews.it/news/boato-di-san-siro-per-i-medagliati-olimpici-rossoneri-federica-brignone-e-dominik-paris-609905",
+      "source": "milannews.it",
+      "date": "2026-03-08T19:25:00+00:00",
+      "summary": "The long wave of enthusiasm for the Olympic Games of Milan-Cortina 2026 does not cease to flood the hearts of Italians."
+    },
+    {
+      "id": "0190ca59bff9",
+      "title": "Thuram absent, Allegri: \"Absolutely nothing changes\"",
+      "url": "https://www.milannews.it/news/thuram-assente-allegri-non-cambia-assolutamente-niente-609904",
+      "source": "milannews.it",
+      "date": "2026-03-08T19:24:39+00:00",
+      "summary": "Rossoneri coach Massimiliano Allegri was interviewed by DAZN shortly before the kick-off of Milan-Inter, the Derby which closes the Sunday of the 28th matchday of the Serie A championship."
+    },
     {
       "id": "0af9fa2460be",
       "title": "Allegri gives update on ‘improving’ Pulisic and hopes for ‘wonderful’ derby result",
@@ -16,6 +120,14 @@
       "source": "football-italia.net",
       "date": "2026-03-08T19:19:53+00:00",
       "summary": "Max Allegri assures Christian Pulisic ‘hasn’t forgotten how to score goals’ for Milan and warns..."
+    },
+    {
+      "id": "1b0a69162530",
+      "title": "Marotta: \"In the last 5 years we are the team that has won the most in Italy, it is normal that we have to manage envy and malice\"",
+      "url": "https://www.milannews.it/l-avversario/marotta-negli-ultimi-5-anni-siamo-la-squadra-che-in-italia-ha-vinto-di-piu-e-normale-che-dobbiamo-gestire-invidia-e-malizie-609903",
+      "source": "milannews.it",
+      "date": "2026-03-08T19:18:25+00:00",
+      "summary": "Inter president Giuseppe Marotta was interviewed by DAZN before the Derby match. His words:\n\nIs it a derby-scudetto like two years ago?\n\n“We don't think about it."
     },
     {
       "id": "37cd9da196b3",
@@ -106,30 +218,6 @@
       "summary": "Luis Henrique, Nerazzurri winger, spoke to DAZN before the Milan-Inter match. These are all his statements:\n\nHow is this derby?\n\n“We have to and want to win, it's too important a match."
     },
     {
-      "id": "7a7fd0be71e3",
-      "title": "Pulisic to DAZN: \"I'm not in my best moment, but today there is a great opportunity to change everything\"",
-      "url": "https://www.milannews.it/news/pulisic-a-dazn-non-sono-nel-mio-momento-migliore-ma-oggi-c-e-una-grande-opportunita-per-cambiare-tutto-609893",
-      "source": "milannews.it",
-      "date": "2026-03-08T18:47:00+00:00",
-      "summary": "Christian Pulisic spoke to DAZN before the Milan-Inter match. These are the American's statements before the Derby:\n\nWhat did you do this week?\n\n“I didn't go out, but I never go out anyway (laughs, ed.)”."
-    },
-    {
-      "id": "92438e4b4e33",
-      "title": "Serie A Liveblog: Milan-Inter, Genoa-Roma, Bologna-Verona, Fiorentina-Parma",
-      "url": "https://football-italia.net/serie-a-liveblog-milan-inter-genoa-roma-fiore/",
-      "source": "football-italia.net",
-      "date": "2026-03-08T18:45:00+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "bcd26a6bc94c",
-      "title": "Inter, Chivu's choices: Thuram not called up, Lautaro goes to the bench",
-      "url": "https://www.milannews.it/l-avversario/inter-le-scelte-di-chivu-thuram-non-convocato-lautaro-va-in-panchina-609891",
-      "source": "milannews.it",
-      "date": "2026-03-08T18:36:00+00:00",
-      "summary": "Everything is ready at San Siro where, in a few minutes, Milan and Inter will face each other in the Milan Derby valid for the 28th round of the Enilive Serie A championship. A look at the Rossoneri's opponents."
-    },
-    {
       "id": "a12ef17263d2",
       "title": "Official: AC Milan vs. Inter starting XIs – one change from Cremonese win",
       "url": "https://sempremilan.com/official-ac-milan-inter-starting-xis-2026",
@@ -146,54 +234,6 @@
       "summary": "Inter start an all-new partnership of Francesco Pio Esposito and Ange-Yoan Bonny with Piotr Zielinski,..."
     },
     {
-      "id": "4b8951a320eb",
-      "title": "Milan-Inter, the official lineups: Estupinan is there, Leao and Pulisic confirmed",
-      "url": "https://www.milannews.it/primo-piano/milan-inter-le-formazioni-ufficiali-c-e-estupinan-confermati-leao-e-pulisic-609887",
-      "source": "milannews.it",
-      "date": "2026-03-08T18:31:00+00:00",
-      "summary": "Everything is ready at San Siro where, in a few minutes, Milan and Inter will face each other in the Milan Derby valid for the 28th round of the Enilive Serie A championship."
-    },
-    {
-      "id": "3cdd2b11af7a",
-      "title": "VIDEO MN - Milan arrives at San Siro for the Derby against Inter",
-      "url": "https://www.milannews.it/news/video-mn-il-milan-arriva-a-san-siro-per-il-derby-contro-l-inter-609889",
-      "source": "milannews.it",
-      "date": "2026-03-08T18:28:48+00:00",
-      "summary": "The Milan has arrived at San Siro. Minutes pass and we get closer to 8pm."
-    },
-    {
-      "id": "4fd9ec791eb8",
-      "title": "G. Galli praises Maignan: \"One of the strongest in the world. We're not discovering him now\"",
-      "url": "https://www.milannews.it/news/g-galli-elogia-maignan-uno-dei-piu-forti-del-mondo-non-lo-stiamo-scoprendo-adesso-609742",
-      "source": "milannews.it",
-      "date": "2026-03-08T18:24:44+00:00",
-      "summary": "Giovanni Galli, former Rossoneri goalkeeper, was interviewed by Milan Vibes in view of Sunday's Derby between Milan and Inter. Among the various topics touched on, he also spoke about Mike Maignan, current Milan goalkeeper and captain."
-    },
-    {
-      "id": "e1a5edfd92a7",
-      "title": "Inter, Chivu on CBS: \"Derby always gives extra motivation: we don't look at the rankings\"",
-      "url": "https://www.milannews.it/l-avversario/inter-chivu-a-cbs-derby-da-sempre-motivazione-extra-non-guardiamo-la-classifica-609888",
-      "source": "milannews.it",
-      "date": "2026-03-08T18:12:19+00:00",
-      "summary": "There is just over an hour and a half left until the match at San Siro between Milan and Inter. The Derby, which will start at 8pm."
-    },
-    {
-      "id": "9be17dd2b6b3",
-      "title": "VIDEO MN - The Curva Sud heats up just under two hours from the Derby!",
-      "url": "https://www.milannews.it/news/video-mn-la-curva-sud-si-scalda-a-poco-meno-di-due-ore-dal-derby-609886",
-      "source": "milannews.it",
-      "date": "2026-03-08T18:01:00+00:00",
-      "summary": "We're here now, just under two hours left until the Derby della Madonnina between Milan and Inter. The Rossoneri will take to the pitch against the Nerazzurri at San Siro at 8pm."
-    },
-    {
-      "id": "2e6c71a0c9ff",
-      "title": "MN - This is why there will be no choreography of the Curva Sud for the Derby this evening",
-      "url": "https://www.milannews.it/news/mn-ecco-perche-questa-sera-non-ci-sara-la-coreografia-della-curva-sud-per-il-derby-609872",
-      "source": "milannews.it",
-      "date": "2026-03-08T18:00:00+00:00",
-      "summary": "The Curva Sud Milano will not exhibit the choreography at the derby this evening and it has become a sad habit for two years now."
-    },
-    {
       "id": "45e97f515232",
       "title": "GdS: From Pio Esposito vs. Bartesaghi to Chivu at Milan – the sub-plots within the derby",
       "url": "https://sempremilan.com/sub-plots-within-the-milan-derby",
@@ -202,44 +242,12 @@
       "summary": "The history books of the Derby della Madonnina contains many chapters, and within those are sub-plots that bring even more life to tonight’s game. As La Gazzetta dello Sport report, tonight isn’t just about AC Milan vs. Inter, but also the players and coaches within it who have a link in some way to"
     },
     {
-      "id": "02298e7d0f8f",
-      "title": "Doveri will referee his fifth Derby della Madonnina: the previous ones with Milan and Inter",
-      "url": "https://www.milannews.it/news/doveri-arbitrera-il-suo-quinto-derby-della-madonnina-i-precedenti-con-milan-e-inter-609880",
-      "source": "milannews.it",
-      "date": "2026-03-08T17:48:21+00:00",
-      "summary": "Daniele Doveri, from the Roma 1 section, will be the referee who will referee the Milan derby this evening at 8.45pm at San Siro."
-    },
-    {
-      "id": "2bd1b343be2f",
-      "title": "Como, Fabregas: \"The most complicated match of the year against Cagliari\"",
-      "url": "https://www.milannews.it/l-avversario/como-fabregas-col-cagliari-la-partita-piu-complicata-dell-anno-609867",
-      "source": "milannews.it",
-      "date": "2026-03-08T17:36:20+00:00",
-      "summary": "(ANSA) - CAGLIARI, MAR 07 - \"It was the most complicated match of the season, a match that marks great growth for us.\" Cesc Fabregas is very satisfied with the victory obtained in Cagliari."
-    },
-    {
       "id": "149126955b2c",
       "title": "Excited Modric invites 60 friends and family to Milan Derby",
       "url": "https://football-italia.net/excited-modric-invites-60-friends-milan-derby/",
       "source": "football-italia.net",
       "date": "2026-03-08T17:33:48+00:00",
       "summary": "Luka Modric has supported Milan since childhood, so he wanted 60 friends and family to..."
-    },
-    {
-      "id": "37348faaa203",
-      "title": "LIVE MN - Towards Milan-Inter: Estupinan towards a starting shirt, Leao-Pulisic still forward",
-      "url": "https://www.milannews.it/primo-piano/live-mn-verso-milan-inter-estupinan-verso-una-maglia-da-titolare-in-avanti-ancora-leao-pulisic-609864",
-      "source": "milannews.it",
-      "date": "2026-03-08T17:30:00+00:00",
-      "summary": "PROBABLE MILAN LINE-UP (3-5-2): Maignan; Tomori, De Winter, Pavlovic; Saelemaekers, Fofana, Modric, Rabiot, Estupinan; Leao, Pulisic.\n\n18."
-    },
-    {
-      "id": "9bb58eff9196",
-      "title": "Inter, Marcus Thuram not called up for tonight's derby",
-      "url": "https://www.milannews.it/l-avversario/inter-marcus-thuram-non-convocato-per-il-derby-di-stasera-609885",
-      "source": "milannews.it",
-      "date": "2026-03-08T17:28:00+00:00",
-      "summary": "News that arrived in the last few hours but which was recently confirmed at Inter."
     },
     {
       "id": "f4e125e2c922",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-07T12:14:06+00:00",
       "summary": "Massimilano Allegri has had the opportunity to comment on his future after a week of..."
-    },
-    {
-      "id": "d4a2a519bcb3",
-      "title": "Allegri insists ‘you never know in football’ ahead of Milan derby against Inter",
-      "url": "https://football-italia.net/allegri-insists-milan-never-know-in-football/",
-      "source": "football-italia.net",
-      "date": "2026-03-07T11:47:48+00:00",
-      "summary": "Milan head coach Massimiliano Allegri says that ‘you never know’ in football, but insists that..."
     }
   ]
 }
