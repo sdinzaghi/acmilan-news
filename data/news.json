@@ -1,6 +1,230 @@
 {
-  "lastUpdated": "2026-03-08T22:21:57.114337+00:00",
+  "lastUpdated": "2026-03-08T23:23:07.621500+00:00",
   "articles": [
+    {
+      "id": "4ce9ec3eef9c",
+      "title": "Tomori to CBS: \"Scudetto? Who can say... Not conceding a goal against Inter is not easy\"",
+      "url": "https://www.milannews.it/news/tomori-alla-cbs-scudetto-chi-puo-dirlo-non-subire-gol-contro-l-inter-non-e-facile-609959",
+      "source": "milannews.it",
+      "date": "2026-03-08T23:15:35+00:00",
+      "summary": "Fikayo Tomori, after the Milan-Inter 1-0 match, gave an interview to the American television station CBS Sports Golazo. These are all his statements."
+    },
+    {
+      "id": "46e071c7e77d",
+      "title": "Cage in seventh heaven with Estupinan: \"Do with me what you want\"",
+      "url": "https://www.milannews.it/news/gabbia-al-settimo-cielo-con-estupinan-fai-di-me-cio-che-vuoi-609952",
+      "source": "milannews.it",
+      "date": "2026-03-08T23:12:40+00:00",
+      "summary": "The great Rossoneri absentee from this Derby which Milan won against Inter 1-0 was central defender Matteo Gabbia, who underwent surgery at the beginning of the week for an inguinal hernia, at the final whistle at San Siro he was ..."
+    },
+    {
+      "id": "2725e35cdeb3",
+      "title": "MN - Cardinale in the locker room after the derby won. Congratulations to the team and beyond",
+      "url": "https://www.milannews.it/news/mn-cardinale-nello-spogliatoio-dopo-il-derby-vinto-complimenti-alla-squadra-e-non-solo-609958",
+      "source": "milannews.it",
+      "date": "2026-03-08T23:08:17+00:00",
+      "summary": "As announced yesterday, Gerry Cardinale was at San Siro this evening to watch live the derby between Milan and Inter, won by the Rossoneri thanks to Estupinan's beautiful goal in the first half."
+    },
+    {
+      "id": "f6299223bab1",
+      "title": "LIVE MN - Rabiot: \"We're at 7 points, that's a lot, we'll see what Inter will do. On the disqualification...\"",
+      "url": "https://www.milannews.it/news/live-mn-rabiot-siamo-a-7-punti-sono-tanti-vedremo-cosa-fara-l-inter-sulla-squalifica-609914",
+      "source": "milannews.it",
+      "date": "2026-03-08T23:07:21+00:00",
+      "summary": "Adrien Rabiot, Milan midfielder, is present in the press conference at the end of Milan-Inter, a match valid for the 28th matchday of Serie A. Follow his statements live with the live text on MilanNews."
+    },
+    {
+      "id": "c43d18cb6b60",
+      "title": "MN - Rabiot in the conference room: noticeable bandage after Bastoni's blow",
+      "url": "https://www.milannews.it/news/mn-rabiot-in-sala-conferenza-vistosa-fasciatura-dopo-il-colpo-di-bastoni-609957",
+      "source": "milannews.it",
+      "date": "2026-03-08T23:07:00+00:00",
+      "summary": "Adrien Rabiot this evening in the Derby won by Milan 1-0 against Inter made a game of enormous quantity, as has often happened this season."
+    },
+    {
+      "id": "7021d868db06",
+      "title": "‘It was a game within a game’ – Saelemaekers reflects on Dimarco battle and derby win",
+      "url": "https://sempremilan.com/game-within-game-saelemaekers-dimarco-inter",
+      "source": "sempremilan.com",
+      "date": "2026-03-08T23:06:48+00:00",
+      "summary": "Alexis Saelemaekers has admitted that he was tasked with thwarting Federico Dimarco as he reflected on AC Milan’s derby win over Inter. Milan made it a Serie A double over their city rivals on Sunday night at San Siro, winning 1-0 thanks to a goal from Pervis Estupinan. The Ecuadorian fired into the"
+    },
+    {
+      "id": "327ea4cb2b3d",
+      "title": "LIVE MN - Allegri: \"You talked about my future... Having great players is the thing that helps us win matches the most\"",
+      "url": "https://www.milannews.it/news/live-mn-allegri-avete-parlato-del-mio-futuro-avere-i-grandi-giocatori-e-la-cosa-che-aiuta-di-piu-a-far-vincere-le-partite-609911",
+      "source": "milannews.it",
+      "date": "2026-03-08T23:06:14+00:00",
+      "summary": "Massimiliano Allegri, Milan coach, is present in the press conference at the end of Milan-Inter, a match valid for the 28th matchday of Serie A. Follow his statements live with the live text on MilanNews."
+    },
+    {
+      "id": "e98e0f5a0344",
+      "title": "LIVE MN - Chivu: \"It seemed like a tough game in which Milan did almost nothing\"",
+      "url": "https://www.milannews.it/news/live-mn-chivu-sembrava-una-partita-a-cazzotti-nella-quale-il-milan-non-ha-fatto-quasi-niente-609912",
+      "source": "milannews.it",
+      "date": "2026-03-08T23:05:37+00:00",
+      "summary": "Cristian Chivu, Inter coach, is present in the press conference at the end of Milan-Inter, a match valid for the 28th matchday of Serie A. Follow his statements live with the live text on MilanNews."
+    },
+    {
+      "id": "13979dcb4201",
+      "title": "Dimarco: ‘Inter reaction difficult to explain, but we are 7 points clear’",
+      "url": "https://football-italia.net/dimarco-inter-reaction-difficult-to-explain/",
+      "source": "football-italia.net",
+      "date": "2026-03-08T23:03:49+00:00",
+      "summary": "Federico Dimarco admits it’s ‘difficult to explain’ Inter’s sluggish response with Milan, but insists ‘if..."
+    },
+    {
+      "id": "e596a3004db1",
+      "title": "Inter, there is no disallowed goal. Duties whistles clearly, several times, before the ball goes in",
+      "url": "https://www.milannews.it/news/inter-non-esiste-alcun-gol-annullato-doveri-fischia-chiaramente-piu-volte-prima-che-la-palla-entri-609956",
+      "source": "milannews.it",
+      "date": "2026-03-08T23:03:32+00:00",
+      "summary": "At the end of the match Inter \"scored\" from a corner, with Carlos Augusto deflecting Dimarco's cross from a few steps away and scoring. But it doesn't apply, in fact, it doesn't exist at all."
+    },
+    {
+      "id": "deabdca00a77",
+      "title": "Pervis, but who was supposed to tell us? Ricci's hand: smoking prohibited. Summer market: there are no André cases",
+      "url": "https://www.milannews.it/editoriale/pervis-ma-chi-doveva-dircelo-mano-di-ricci-vietato-fumare-mercato-estivo-non-ci-siano-casi-andre-609944",
+      "source": "milannews.it",
+      "date": "2026-03-08T23:00:01+00:00",
+      "summary": "Milan confirms its attitude to derbies and big matches. Last night's victory against Inter comes at the end of a very tense match, where the fear of losing was palpable from the starting whistle."
+    },
+    {
+      "id": "637f0c77076c",
+      "title": "Allegri to Sky: \"Estupinan serious and professional. Next objective: reach 70 points\"",
+      "url": "https://www.milannews.it/news/allegri-a-sky-estupinan-serio-e-professionista-prossimo-obiettivo-arrivare-a-70-punti-609954",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:59:46+00:00",
+      "summary": "Massimiliano Allegri, Rossoneri coach, spoke to the microphones of Sky Sport 24 after the match of the Derby won against Inter 1-0. His statements."
+    },
+    {
+      "id": "8c851fbaf23e",
+      "title": "LIVE MN - Akanji: \"I closed on Leao on the goal and Estupinan went behind\"",
+      "url": "https://www.milannews.it/news/live-mn-akanji-io-sul-gol-sono-andato-a-chiudere-su-leao-e-estupinan-e-andato-alle-spalle-609915",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:54:35+00:00",
+      "summary": "Manuel Akanji, Inter defender, is present in the press conference at the end of Milan-Inter, a match valid for the 28th matchday of Serie A. Follow his statements live with the live text on MilanNews."
+    },
+    {
+      "id": "cd6c9df4cae4",
+      "title": "Saelemaekers: \"The coach told me to block Dimarco's crosses. Objective? In agreement with the coach, Champions League zone\"",
+      "url": "https://www.milannews.it/news/saelemaekers-il-mister-mi-ha-detto-di-bloccare-i-cross-di-dimarco-obiettivo-d-accordo-col-mister-zona-champions-609951",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:51:00+00:00",
+      "summary": "Alexis Saelemaekers spoke to DAZN after the derby won 1-0. His words:\n\nYou surprised Inter with a different attitude than usual by pressing high."
+    },
+    {
+      "id": "4c0841f3df28",
+      "title": "Estupinan to Sky: \"A dream come true. Derby match in which there is only one result\"",
+      "url": "https://www.milannews.it/news/estupinan-a-sky-un-sogno-diventato-realta-derby-partita-in-cui-c-e-solo-un-risultato-609948",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:50:00+00:00",
+      "summary": "Pervis Estupinan, match-winner of the Milan Derby with his first goal for the Rossoneri, spoke to the microphones of Sky Sport 24 after the Devil's victory. His statements."
+    },
+    {
+      "id": "708e66cd54a7",
+      "title": "Chivu: ‘Inter below par, but nothing changes’ in Scudetto battle with Milan",
+      "url": "https://football-italia.net/chivu-inter-below-par-nothing-changes-milan/",
+      "source": "football-italia.net",
+      "date": "2026-03-08T22:48:27+00:00",
+      "summary": "Cristian Chivu concedes Inter were ‘unable to break down’ the Milan defensive block, but insists..."
+    },
+    {
+      "id": "e4c7eca4d6c4",
+      "title": "Dimarco to Sky: \"Milan were better than us today. Ricci? We could have let the referee decide\"",
+      "url": "https://www.milannews.it/l-avversario/dimarco-a-sky-oggi-milan-piu-bravo-di-noi-ricci-si-poteva-far-decidere-all-arbitro-609945",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:44:00+00:00",
+      "summary": "Federico Dimarco, Inter winger, spoke to the microphones of Sky Sport 24 to comment on the Derby lost 1-0 against Milan. His statements."
+    },
+    {
+      "id": "ee70e01f513e",
+      "title": "Watch: “This is easy!” – Stefano’s instant reaction to AC Milan 1-0 Inter",
+      "url": "https://sempremilan.com/stefanos-instant-reaction-milan-1-0-inter-2026",
+      "source": "sempremilan.com",
+      "date": "2026-03-08T22:41:48+00:00",
+      "summary": "AC Milan managed to do the double over their city rivals Inter for the first time since 2011, and Stefano reacted to the result straight after the full-time whistle.  Given the ten-point gap before the game, tonight’s Derby della Madonnina arguably wasn’t viewed as the Scudetto battle that it could "
+    },
+    {
+      "id": "c1799636c6b8",
+      "title": "Inter, Chivu: \"Penalty? They told me they did a check... However the +7 remains, there are 30 points up for grabs\"",
+      "url": "https://www.milannews.it/l-avversario/inter-chivu-rigore-mi-hanno-detto-che-hanno-fatto-un-check-comunque-rimane-il-7-ci-sono-30-punti-in-palio-609943",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:41:08+00:00",
+      "summary": "Cristian Chivu was interviewed by DAZN at the end of the lost Derby. These are his statements:\n\nWrong opportunity and goal conceded."
+    },
+    {
+      "id": "b30146d32e1c",
+      "title": "Costacurta on Ricci: \"It's nice that penalties like this, which never happen to me, are not considered such\"",
+      "url": "https://www.milannews.it/news/costacurta-su-ricci-fa-piacere-che-rigori-cosi-che-per-me-non-lo-sono-mai-non-vengano-considerati-tali-609935",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:36:28+00:00",
+      "summary": "In the post-match of the Milan Derby on Sky Sport 24, during the Club, the former Rossoneri defender Alessandro Costacurta commented on the episode of Samuele Ricci's handball: \"Until now these penalties have always been ..."
+    },
+    {
+      "id": "3a9d1ebb29e6",
+      "title": "Allegri delighted with Milan’s effort in derby win but insists ‘stronger’ Inter remain ‘favourites’",
+      "url": "https://sempremilan.com/allegri-delighted-milan-inter-stronger-favourites",
+      "source": "sempremilan.com",
+      "date": "2026-03-08T22:32:55+00:00",
+      "summary": "Massimiliano Allegri has praised his AC Milan side for the way that they remained composed and organised in the derby win over Inter. Milan secured bragging rights for the second time this season as they completed a league double over the Serie A leaders Inter. The only goal of the game came in the "
+    },
+    {
+      "id": "6754c90a4b01",
+      "title": "Allegri: ‘Inter clear title favourites, Milan prepared goal move’ to target weakness",
+      "url": "https://football-italia.net/allegri-inter-title-favourites-milan-target/",
+      "source": "football-italia.net",
+      "date": "2026-03-08T22:31:47+00:00",
+      "summary": "Max Allegri confirms the Pervis Estupinan goal was prepared by Milan to target an Inter..."
+    },
+    {
+      "id": "a1c3574a5abf",
+      "title": "Inter, Dimarco: \"Before today we were at +10, what explanations are there to give? Penalty... Could we at least have done a check?\"",
+      "url": "https://www.milannews.it/l-avversario/inter-dimarco-prima-di-oggi-eravamo-a-10-che-spiegazioni-c-e-da-dare-rigore-almeno-si-poteva-fare-un-check-609939",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:29:49+00:00",
+      "summary": "Federico Dimarco spoke to DAZN after the derby lost against Milan. His words:\n\nWas there a penalty at the end?\n\n“I didn't even see it when I was on the other side of the pitch, I was covered."
+    },
+    {
+      "id": "aef3f345b71e",
+      "title": "Allegri to MTV: \"The boys played a good game. The next step is to reach 70 points\"",
+      "url": "https://www.milannews.it/news/allegri-a-mtv-i-ragazzi-hanno-fatto-una-bella-partita-il-prossimo-step-e-arrivare-a-70-punti-609936",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:23:48+00:00",
+      "summary": "After the Milan-Inter match, a derby won by the Rossoneri team thanks to Pervis Estupinan's goal, Massimiliano Allegri spoke to Milan TV to comment on his boys' victory."
+    },
+    {
+      "id": "4e4bec6e4ad7",
+      "title": "Estupinan labels derby winner against Inter the ‘most important goal of my career’",
+      "url": "https://sempremilan.com/estupinan-derby-winner-most-important-goal",
+      "source": "sempremilan.com",
+      "date": "2026-03-08T22:23:47+00:00",
+      "summary": "Pervis Estupinan scored the winner for AC Milan in the Derby della Madonnina and afterwards, he said that the goal was the most important of his career.  Due to Davide Bartesaghi’s discomfort, which kept him out of training until Friday, Massimiliano Allegri opted to start Estupinan in the left wing"
+    },
+    {
+      "id": "4dee2f3ebc7a",
+      "title": "Modric believes Milan ‘deserved’ derby win and brushes off speculation about future",
+      "url": "https://sempremilan.com/modric-milan-deserved-win-inter-speculation",
+      "source": "sempremilan.com",
+      "date": "2026-03-08T22:22:33+00:00",
+      "summary": "Luka Modric has insisted that he is paying no attention to the speculation about his future, especially after a ‘team’ win over Inter. Milan came into the game against the Nerazzurri knowing that they needed three points to keep any slim title hopes alive, given the 10-point gap in the table. They g"
+    },
+    {
+      "id": "b14085deedeb",
+      "title": "Milan hadn't won both championship derbies since the days of... Max Allegri",
+      "url": "https://www.milannews.it/news/il-milan-non-vinceva-entrambi-i-derby-di-campionato-dai-tempi-di-max-allegri-609934",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:20:00+00:00",
+      "summary": "Copy and paste: Milan also wins the second Derby of the season against Inter 1-0. Two victories against the Nerazzurri hadn't come in a long time in the league, between home and away matches: the last time was in the 2010/2011 season."
+    },
+    {
+      "id": "48c2e7342a1e",
+      "title": "Allegri to DAZN: \"We need to work with our feet on the ground, Inter remains the clear favourites\"",
+      "url": "https://www.milannews.it/primo-piano/allegri-a-dazn-bisogna-lavorare-con-i-piedi-per-terra-l-inter-rimane-la-netta-favorita-609933",
+      "source": "milannews.it",
+      "date": "2026-03-08T22:19:01+00:00",
+      "summary": "Mister Massimiliano Allegri was interviewed by DAZN at the end of the derby won 1-0. These are his words:\n\nThe last time Milan won two derbies in one season you were on the bench."
+    },
     {
       "id": "30f129d21189",
       "title": "Modric and Estupinan relish Milan victory over Inter: ‘Sergio Ramos spirit’",
@@ -8,46 +232,6 @@
       "source": "football-italia.net",
       "date": "2026-03-08T22:17:26+00:00",
       "summary": "Luka Modric believes Milan had ‘some Sergio Ramos spirit’ in their Derby della Madonnina victory..."
-    },
-    {
-      "id": "1711ceb8d0b3",
-      "title": "Estupinan to DAZN: \"Most important goal of my career: we worked hard\"",
-      "url": "https://www.milannews.it/news/estupinan-a-dazn-gol-piu-importante-della-mia-carriera-abbiamo-lavorato-duro-609930",
-      "source": "milannews.it",
-      "date": "2026-03-08T22:12:00+00:00",
-      "summary": "Pervis Estupinan, the indisputable MVP of the match Milan won against Inter, spoke to DAZN at the final whistle of the Derby won with his goal."
-    },
-    {
-      "id": "2a6a1155e3eb",
-      "title": "Milan-Inter 1-0, votes and report cards: Esutpinan hero with 7.5. There are a lot of 7s between defense and midfield",
-      "url": "https://www.milannews.it/pagelle/milan-inter-1-0-voti-e-pagelle-esutpinan-eroe-da-7-5-fioccano-tanti-7-tra-difesa-e-centrocampo-609931",
-      "source": "milannews.it",
-      "date": "2026-03-08T22:09:45+00:00",
-      "summary": "Milan won the derby 1-0 thanks to Pervis Estupinan's goal and moved to -7 behind Inter and responded to the other contenders for the Champions League places in a round that could have been negative."
-    },
-    {
-      "id": "ffc67686b345",
-      "title": "Modric to DAZN: \"A great game in the first half. I'm very happy here: I'm just thinking about working\"",
-      "url": "https://www.milannews.it/news/modric-a-dazn-nel-primo-tempo-un-partitone-sono-molto-contento-qui-penso-solo-a-lavorare-609929",
-      "source": "milannews.it",
-      "date": "2026-03-08T22:09:00+00:00",
-      "summary": "Luka Modric spoke to DAZN at the final whistle of the Derby won 1-0. These are his statements: “We have always believed in it."
-    },
-    {
-      "id": "b7e5f320a37b",
-      "title": "LIVE MN - An Inter player will also be arriving in the conference soon",
-      "url": "https://www.milannews.it/news/live-mn-tra-poco-arrivera-anche-un-giocatore-dell-inter-in-conferenza-609915",
-      "source": "milannews.it",
-      "date": "2026-03-08T22:08:35+00:00",
-      "summary": "An Inter footballer is present at the press conference at the end of Milan-Inter, a match valid for the 28th matchday of Serie A. Follow his statements live with the live text on MilanNews."
-    },
-    {
-      "id": "a6616e38b82f",
-      "title": "LIVE MN - A Milan player is expected in the conference after the derby",
-      "url": "https://www.milannews.it/news/live-mn-un-calciatore-del-milan-e-atteso-in-conferenza-dopo-il-derby-609914",
-      "source": "milannews.it",
-      "date": "2026-03-08T22:07:21+00:00",
-      "summary": "A Milan footballer is present at the press conference at the end of Milan-Inter, a match valid for the 28th matchday of Serie A. Follow his statements live with the live text on MilanNews."
     },
     {
       "id": "ed917bb04920",
@@ -58,60 +242,12 @@
       "summary": "Pervis Estupinan is Football Italia’s Man of the Match in  Milan’s 1-0 win over Inter...."
     },
     {
-      "id": "e9b9142272d3",
-      "title": "LIVE MN - Chivu also speaks after the derby: read his words live here",
-      "url": "https://www.milannews.it/news/live-mn-parla-anche-chivu-dopo-il-derby-leggi-qui-le-sue-parole-in-diretta-609912",
-      "source": "milannews.it",
-      "date": "2026-03-08T22:05:37+00:00",
-      "summary": "Cristian Chivu, Inter coach, is present in the press conference at the end of Milan-Inter, a match valid for the 28th matchday of Serie A. Follow his statements live with the live text on MilanNews."
-    },
-    {
       "id": "eb658cda2f60",
       "title": "Player Ratings: AC Milan 1-0 Inter – Estupinan and Fofana the unexpected heroes",
       "url": "https://sempremilan.com/player-ratings-ac-milan-1-0-estupinan",
       "source": "sempremilan.com",
       "date": "2026-03-08T22:04:21+00:00",
       "summary": "AC Milan clinched all three points in the Derby della Madonnina and thus completed the double over Inter this season. There were two unexpected heroes and below are the player ratings for the Rossoneri.  If you haven’t already, make sure to check out how we decide the player ratings. From the scale "
-    },
-    {
-      "id": "2860729c7e6c",
-      "title": "LIVE MN - Read Allegri's conference live here after the derby",
-      "url": "https://www.milannews.it/news/live-mn-leggete-qui-in-diretta-la-conferenza-di-allegri-dopo-il-derby-609911",
-      "source": "milannews.it",
-      "date": "2026-03-08T22:04:14+00:00",
-      "summary": "Massimiliano Allegri, Milan coach, is present in the press conference at the end of Milan-Inter, a match valid for the 28th matchday of Serie A. Follow his statements live with the live text on MilanNews."
-    },
-    {
-      "id": "3ae3a80d6ff5",
-      "title": "Vieri: \"Championship reopened? In football we have seen that anything can happen\"",
-      "url": "https://www.milannews.it/news/vieri-campionato-riaperto-nel-calcio-abbiamo-visto-che-puo-succedere-di-tutto-609927",
-      "source": "milannews.it",
-      "date": "2026-03-08T22:03:48+00:00",
-      "summary": "Milan wins the derby and the question is obvious: will the championship be reopened? In the DAZN studies Vieri responds like this:\n\n“The championship has never been 10 points away, and now it's 7."
-    },
-    {
-      "id": "23c14c98d981",
-      "title": "Inter haven't won a derby against Milan for (almost) two years",
-      "url": "https://www.milannews.it/news/l-inter-non-vince-un-derby-contro-il-milan-da-quasi-due-anni-609926",
-      "source": "milannews.it",
-      "date": "2026-03-08T22:00:00+00:00",
-      "summary": "Milan beat Inter 1-0 and won the Derby della Madonnina: en-plein for the Rossoneri this season with the same result as the first leg, this time thanks to a goal from Pervis Estupinan, an unexpected protagonist."
-    },
-    {
-      "id": "5a1802fbbd38",
-      "title": "Milan wins the Derby! Three points that reopen the championship? The updated ranking",
-      "url": "https://www.milannews.it/news/il-milan-vince-il-derby-tre-punti-che-riaprono-il-campionato-la-classifica-aggiornata-609925",
-      "source": "milannews.it",
-      "date": "2026-03-08T21:49:03+00:00",
-      "summary": "Milan wins the Derby, their second of the season, thanks to Estupinan's goal and a great team performance! Inter crushed, the Rossoneri downright wasteful. Three points that give life, joy, energy."
-    },
-    {
-      "id": "88c65b53bf38",
-      "title": "Serie A, Milan-Inter 1-0: the Derby scoreboard",
-      "url": "https://www.milannews.it/i-tabellini/serie-a-milan-inter-1-0-il-tabellino-del-derby-609924",
-      "source": "milannews.it",
-      "date": "2026-03-08T21:47:32+00:00",
-      "summary": "This is the AC Milan-Inter scoreboard, a match valid for the twenty-eighth matchday of Serie A."
     },
     {
       "id": "61d6bc220e7b",
@@ -130,36 +266,12 @@
       "summary": "Milan have won both editions of the Derby della Madonnina, as the Pervis Estupian goal..."
     },
     {
-      "id": "dde6c683bea5",
-      "title": "LIVE MN - Milan-Inter (1-0): IT'S OVER! BACK TO BACK OF THE DEVIL!!!",
-      "url": "https://www.milannews.it/primo-piano/live-mn-milan-inter-1-0-e-finita-back-to-back-del-diavolo-609902",
-      "source": "milannews.it",
-      "date": "2026-03-08T21:44:00+00:00",
-      "summary": "90' + 5' | IT'S OVER! The derby once again belongs to Milan, which goes back to back. Rossoneri -7 from the top."
-    },
-    {
       "id": "2ae4a2a1e5b5",
       "title": "Inter and Italy defender Bastoni injured during Milan derby",
       "url": "https://football-italia.net/inter-italy-def-bastoni-injured-milan-derby/",
       "source": "football-italia.net",
       "date": "2026-03-08T21:34:38+00:00",
       "summary": "Inter and Italy defender Alessandro Bastoni was forced to be subbed off after suffering an..."
-    },
-    {
-      "id": "241cfa428fbf",
-      "title": "MIL-INT (1-0): Nkunku also enters for the final match. It ends with 5-4-1",
-      "url": "https://www.milannews.it/news/mil-int-1-0-entra-anche-nkunku-per-il-finale-di-partita-si-chiude-col-5-4-1-609923",
-      "source": "milannews.it",
-      "date": "2026-03-08T21:30:28+00:00",
-      "summary": "There are just over five minutes to go plus injury time, with Milan a goal ahead of Inter in the Derby against Inter."
-    },
-    {
-      "id": "d5c46e0e6262",
-      "title": "MIL-INT (1-0): double substitution, Fullkrug and Ricci enter. Leao out",
-      "url": "https://www.milannews.it/news/mil-int-1-0-doppio-cambio-entrano-fullkrug-e-ricci-fuori-leao-609922",
-      "source": "milannews.it",
-      "date": "2026-03-08T21:20:00+00:00",
-      "summary": "Milan-Inter 1-0, minute 73. The first changes arrive for Milan and for Massimiliano Allegri who, with just under 20 minutes left, decides to send Niclas Fullkrug and Samuele Ricci onto the field."
     },
     {
       "id": "a1a86acaff91",
@@ -170,60 +282,12 @@
       "summary": "Pervis Estupiñán could not pick a better game to score his first Milan goal as he..."
     },
     {
-      "id": "6d725e2642ad",
-      "title": "Serie A, Cremonese furious with refereeing and VAR: \"We feel robbed\"",
-      "url": "https://www.milannews.it/news/serie-a-la-cremonese-furiosa-con-arbitraggio-e-var-ci-sentiamo-derubati-609881",
-      "source": "milannews.it",
-      "date": "2026-03-08T21:00:00+00:00",
-      "summary": "(ANSA) - LECCE, 08 MAR - \"I'm not here to talk about the match from a technical-tactical point of view, but to claim the respect that Cremonese must have. We feel robbed of a penalty kick that would have been decisive."
-    },
-    {
-      "id": "fd9a0ba10e73",
-      "title": "Pervis Estupinan is unblocked in the Rossoneri: he hadn't scored for a year",
-      "url": "https://www.milannews.it/news/pervis-estupinan-si-sblocca-in-rossonero-non-segnava-da-un-anno-609919",
-      "source": "milannews.it",
-      "date": "2026-03-08T20:48:17+00:00",
-      "summary": "The first half of the Derby della Madonnina between Milan and Inter was unlocked by the most unexpected scorer: Pervis Estupinan."
-    },
-    {
-      "id": "57537ad33f3b",
-      "title": "MN - Modric spurs and encourages Leao as he returns to the changing rooms",
-      "url": "https://www.milannews.it/news/mn-modric-sprona-e-incoraggia-leao-rientrando-negli-spogliatoi-609921",
-      "source": "milannews.it",
-      "date": "2026-03-08T20:44:49+00:00",
-      "summary": "Luka Modric, in the first half of Milan-Inter which ended 1-0 for the Rossoneri with a goal from Pervis Estupinan, is playing yet another spectacular match of his season, not to mention his career: usual part ..."
-    },
-    {
-      "id": "3c91f3caf7ac",
-      "title": "MIL-INT (1-0): Interval. Rossoneri ahead with the least expected protagonist",
-      "url": "https://www.milannews.it/news/mil-int-1-0-intervallo-rossoneri-avanti-con-il-protagonista-meno-atteso-609920",
-      "source": "milannews.it",
-      "date": "2026-03-08T20:37:47+00:00",
-      "summary": "Milan are ahead in this derby at half-time. From what we saw in these first 45 minutes, the Rossoneri team deserved the lead, scored in the 35th minute by the least expected man of all: Pervis Estupinan."
-    },
-    {
-      "id": "ab42e19bd801",
-      "title": "Ambrosini: \"Allegri always thinks about having an alternative during the match, Chivu instead immediately goes with the two available attackers\"",
-      "url": "https://www.milannews.it/news/ambrosini-allegri-pensa-sempre-ad-avere-un-alternativa-a-partita-in-corso-chivu-invece-va-subito-con-i-due-attaccanti-disponibili-609896",
-      "source": "milannews.it",
-      "date": "2026-03-08T20:36:37+00:00",
-      "summary": "Cristian Chivu will have to do without Marcus Thuram and Lautaro Martinez for tonight's Derby. The Nerazzurri coach, perhaps a little surprisingly, fielded both available attackers from the first minute: Esposito and Bonny."
-    },
-    {
       "id": "4de16a8e0e86",
       "title": "Watch: Estupinan gives Milan the lead against Inter after lovely Fofana assist",
       "url": "https://sempremilan.com/watch-estupinan-goal-inter-fofana-assist",
       "source": "sempremilan.com",
       "date": "2026-03-08T20:31:58+00:00",
       "summary": "AC Milan took the lead in the Derby della Madonnina against Inter, and the goal came from the rather unlikely source of Pervis Estupinan. Moments before the goal, Mkhitaryan had missed a huge chance to put Inter ahead as he strolled through one on one but shot straight at Mike Maignan. Then, at the "
-    },
-    {
-      "id": "510c3c20e843",
-      "title": "Allegri: \"Pulisic is improving his condition: he will be fundamental for us\"",
-      "url": "https://www.milannews.it/news/allegri-pulisic-sta-migliorando-la-condizione-sara-fondamentale-per-noi-609907",
-      "source": "milannews.it",
-      "date": "2026-03-08T20:24:23+00:00",
-      "summary": "Rossoneri coach Massimiliano Allegri was interviewed by DAZN shortly before the kick-off of Milan-Inter, the Derby which closes the Sunday of the 28th matchday of the Serie A championship."
     },
     {
       "id": "92438e4b4e33",
@@ -378,52 +442,12 @@
       "summary": "AC Milan and Inter will do battle for the second and final time this season tonight at San Siro, and the visions of the two ownerships has been compared. Calciomercato.com report that Milan and Inter ‘are experiencing an era of incredibly similar financial objectives’. Both are owned by North Americ"
     },
     {
-      "id": "b000734b02e9",
-      "title": "Sky: Modric buys 60 tickets for friends and family ahead of potential ‘final’ derby",
-      "url": "https://sempremilan.com/modric-60-tickets-final-derby",
-      "source": "sempremilan.com",
-      "date": "2026-03-08T13:35:00+00:00",
-      "summary": "Luka Modric is one of the stars of tonight’s derby between AC Milan and Inter, and there will be a big contingent there to cheer him on. The anticipation is building ahead of what will be a record-breaking derby in terms of revenues, with just less than €9m the expected box office takings from the ["
-    },
-    {
-      "id": "5a4d50e7107d",
-      "title": "MN: Curva Sud will not unveil tifo vs. Inter despite submitting plan – the reasons",
-      "url": "https://sempremilan.com/curva-sud-no-tifo-inter-plan",
-      "source": "sempremilan.com",
-      "date": "2026-03-08T13:10:00+00:00",
-      "summary": "The Curva Sud Milano will not be performing a derby tifo this evening, and an explanation has emerged as to why. Contrary to some rumours circulating this morning, MilanNews report that the Curva haven’t abandoned their plans to do a display in their section. Instead, they simply decided not to prep"
-    },
-    {
-      "id": "f80f55a1a3fb",
-      "title": "The five key battles that could win or lose the game for Milan against Inter",
-      "url": "https://sempremilan.com/five-key-battles-ac-milan-inter-2026",
-      "source": "sempremilan.com",
-      "date": "2026-03-08T12:45:00+00:00",
-      "summary": "AC Milan and Inter will contest the second and final derby of the 2025-26 season at San Siro tonight, with plenty at stake. For a while it looked as though this could be a potentially huge game in the title race, but the Scudetto train has probably departed without Milan given that there is a […]\nTh"
-    },
-    {
       "id": "be9d95b0f4c2",
       "title": "Video: Tomori reveals what he told Lookman after failed Inter transfer",
       "url": "https://football-italia.net/tomori-what-told-lookman-failed-inter-transfer/",
       "source": "football-italia.net",
       "date": "2026-03-08T12:41:16+00:00",
       "summary": "Fikayo Tomori says Ademola Lookman is one of the toughest opponents he’s faced in Serie..."
-    },
-    {
-      "id": "51a500935b64",
-      "title": "CM: Mercato derbies brewing – Ordonez and Palestra among five targets Milan and Inter share",
-      "url": "https://sempremilan.com/ordonez-palestra-five-targets-milan-inter",
-      "source": "sempremilan.com",
-      "date": "2026-03-08T12:20:00+00:00",
-      "summary": "AC Milan and Inter will contest the derby on the field tonight, but away from the pitch they could also do battle for various targets. According to Calciomercato.com, there are five players that both the Milan and Inter management have on their lists as they look to strengthen in view of next season"
-    },
-    {
-      "id": "02bf1ea08b5f",
-      "title": "CorSport: Pulisic aims for more derby heroics – the intriguing comparison with November",
-      "url": "https://sempremilan.com/pulisic-derby-heroics-intriguing-comparison-november",
-      "source": "sempremilan.com",
-      "date": "2026-03-08T11:55:00+00:00",
-      "summary": "Christian Pulisic was the hero of the last derby against Inter, scoring the winner, and he hopes to repeat that feat tonight. This morning’s edition of Corriere dello Sport (via MilanPress) makes an interesting comparison between the current moment and the one a few months ago. The derby on 23 Novem"
     },
     {
       "id": "946fa8c63a95",
@@ -456,30 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-08T08:27:50+00:00",
       "summary": "La Gazzetta dello Sport Magical derby Inter to kill off the season, Milan to keep..."
-    },
-    {
-      "id": "01005733d527",
-      "title": "Why Milan vs. Inter could be decided by dead ball situations",
-      "url": "https://football-italia.net/why-milan-inter-could-be-decided-by-dead-ball/",
-      "source": "football-italia.net",
-      "date": "2026-03-07T22:37:55+00:00",
-      "summary": "The statistics point to a worrying strength on one side and weakness on the other,..."
-    },
-    {
-      "id": "9e6559054cd6",
-      "title": "Milan winger Saelemaekers reveals Allegri’s nickname for him ahead of derby clash",
-      "url": "https://football-italia.net/milan-saelemaekers-reveals-allegri-nickname/",
-      "source": "football-italia.net",
-      "date": "2026-03-07T20:28:12+00:00",
-      "summary": "Alexis Saelemaekers has offered a warm and revealing insight into life under Massimiliano Allegri ahead..."
-    },
-    {
-      "id": "b6d9c49e9e6f",
-      "title": "Capello hails ‘intelligent’ Inter coach Chivu & says Allegri ‘still one of the best’ ahead of Milan derby",
-      "url": "https://football-italia.net/capello-hails-inter-milan-chivu-allegri/",
-      "source": "football-italia.net",
-      "date": "2026-03-07T19:54:55+00:00",
-      "summary": "Fabio Capello has offered a ringing endorsement of both head coaches ahead of Sunday’s Milan..."
     }
   ]
 }
