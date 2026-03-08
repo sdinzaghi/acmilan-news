@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-03-08T08:29:31.713613+00:00",
+  "lastUpdated": "2026-03-08T09:28:13.894357+00:00",
   "articles": [
+    {
+      "id": "40e7e4b04b28",
+      "title": "GdS: Taboos, set-pieces and eyes on Leao – how Milan and Inter approach decisive derby",
+      "url": "https://sempremilan.com/how-milan-inter-approach-decisive-derby",
+      "source": "sempremilan.com",
+      "date": "2026-03-08T09:25:25+00:00",
+      "summary": "AC Milan and Inter are getting ready to renew hostilities again, in a derby that could decide whether the title race is open or over. As La Gazzetta dello Sport (seen below) write this morning, tonight’s Milan-Inter match will break the Serie A box office record, set by the first leg of the derby: €"
+    },
+    {
+      "id": "be3f474b7a44",
+      "title": "Shevchenko: \"Allegri is a guarantee. If Milan win today, the championship is reopened\"",
+      "url": "https://www.milannews.it/gli-ex/shevchenko-allegri-una-garanzia-se-il-milan-vince-oggi-il-campionato-e-riaperto-609844",
+      "source": "milannews.it",
+      "date": "2026-03-08T09:12:46+00:00",
+      "summary": "Interviewed this morning by the notebooks of La Gazzetta dello Sport, former Milan number 7 Andriy Shevchenko presented the derby scheduled for this evening at San Siro, a match which during his Rossoneri career he decided, played and won ..."
+    },
+    {
+      "id": "a28bb69f7166",
+      "title": "Allegri to DAZN: \"Inter is a difficult horse to catch at 10 points ahead. We have to do our part and think about the present\"",
+      "url": "https://www.milannews.it/primo-piano/allegri-a-dazn-l-inter-e-un-cavallo-difficile-da-prendere-a-10-lunghezze-di-vantaggio-noi-dobbiamo-fare-il-nostro-e-pensare-al-presente-609859",
+      "source": "milannews.it",
+      "date": "2026-03-08T09:00:00+00:00",
+      "summary": "On the eve of AC Milan-Inter, a derby valid for the 28th matchday of Serie A Enilive, Massimiliano Allegri spoke to DAZN to present this important derby, which could have an important specific impact on the ..."
+    },
+    {
+      "id": "8ca34961eb45",
+      "title": "Gallery: ‘A Scudetto derby’, ‘Milan believe’ – Today’s front pages in Italy",
+      "url": "https://sempremilan.com/front-pages-8-march-milan-inter",
+      "source": "sempremilan.com",
+      "date": "2026-03-08T09:00:00+00:00",
+      "summary": "It’s the big one tonight at San Siro: AC Milan against Inter at the San Siro, with bragging rights in the city at stake. The Scudetto train has probably departed without Milan, but tonight is very much last chance saloon if a comeback is to be even a remote possibility. However, Massimiliano Allegri"
+    },
+    {
+      "id": "c37f65967fbf",
+      "title": "Serie A: Milan vs. Inter – probable line-ups, where to watch on TV",
+      "url": "https://football-italia.net/milan-v-inter-probable-line-ups-where-watch-tv/",
+      "source": "football-italia.net",
+      "date": "2026-03-08T08:57:12+00:00",
+      "summary": "Milan will look to Rafael Leao and Christian Pulisic in the Derby della Madonnina against..."
+    },
+    {
+      "id": "bafd26d5e581",
+      "title": "In the left lane. CorSport: \"Estupinan favorite over Bartesaghi\"",
+      "url": "https://www.milannews.it/rassegna-stampa/sulla-corsia-di-sinistra-il-corsport-estupinan-favorito-su-bartesaghi-609843",
+      "source": "milannews.it",
+      "date": "2026-03-08T08:48:27+00:00",
+      "summary": "On the occasion of this evening's derby Massimiliano Allegri will confirm 10/11 for the team that won at the \"Zini\" against Davide Nicola's Cremonese last Sunday."
+    },
+    {
+      "id": "8aaa60093372",
+      "title": "Live or die? La Repubblica: \"Milan and the scudetto derby which seems like a tragedy\"",
+      "url": "https://www.milannews.it/rassegna-stampa/vivere-o-morire-la-repubblica-milano-e-il-derby-scudetto-che-sembra-una-tragedia-609842",
+      "source": "milannews.it",
+      "date": "2026-03-08T08:36:01+00:00",
+      "summary": "This evening Milan and Inter will close the Sunday Serie A program with a derby which could have a very important specific impact on the fate of this championship."
+    },
     {
       "id": "816370b393b8",
       "title": "Today’s Papers – Magical derby, Yildiz’s mark",
@@ -16,14 +72,6 @@
       "source": "milannews.it",
       "date": "2026-03-08T08:24:43+00:00",
       "summary": "Inter couldn't have arrived at this derby better, while Milan would certainly have preferred a closer distance to the first."
-    },
-    {
-      "id": "a28bb69f7166",
-      "title": "Allegri to DAZN: \"Inter is a difficult horse to catch at 10 points ahead. We have to do our part and think about the present\"",
-      "url": "https://www.milannews.it/primo-piano/allegri-a-dazn-l-inter-e-un-cavallo-difficile-da-prendere-a-10-lunghezze-di-vantaggio-noi-dobbiamo-fare-il-nostro-e-pensare-al-presente-609859",
-      "source": "milannews.it",
-      "date": "2026-03-08T08:24:00+00:00",
-      "summary": "On the eve of AC Milan-Inter, a derby valid for the 28th matchday of Serie A Enilive, Massimiliano Allegri spoke to DAZN to present this important derby, which could have an important specific impact on the ..."
     },
     {
       "id": "c3061a5e49c7",
@@ -87,11 +135,11 @@
       "url": "https://www.milannews.it/news/serie-a-questa-sera-il-derby-la-probabile-formazione-dei-rossoneri-609831",
       "source": "milannews.it",
       "date": "2026-03-08T06:48:00+00:00",
-      "summary": "After the disheartening news of Matteo Gabbia's operation at the beginning of the week, Allegri can smile at having also recovered Davide Bartesaghi, who left Cremona in a bad way, among those who can be recruited."
+      "summary": "After the disheartening news of Matteo Gabbia's operation at the beginning of the week, Allegri can smile at having also included Davide Bartesaghi, who left Cremona in a bad way, among those who can be recruited."
     },
     {
       "id": "2bcc3c726c0d",
-      "title": "Milan Futuro, today we return to the pitch: the match against Oltrepò at 2.30pm",
+      "title": "Milan Futuro, today we return to the pitch: the match against Oltrepò at 2.30 pm",
       "url": "https://www.milannews.it/milan-futuro/milan-futuro-oggi-si-torna-in-campo-alle-14-30-la-sfida-all-oltrepo-609829",
       "source": "milannews.it",
       "date": "2026-03-08T06:24:00+00:00",
@@ -131,7 +179,7 @@
     },
     {
       "id": "7d66b1841216",
-      "title": "Serie B reintroduces the green card for the virtuous behavior of players",
+      "title": "Serie B reintroduces the green card for the virtuous behavior of footballers",
       "url": "https://www.milannews.it/news/la-serie-b-reintroduce-il-cartellino-verde-per-i-comportamenti-virtuosi-dei-calciatori-609756",
       "source": "milannews.it",
       "date": "2026-03-07T23:24:49+00:00",
@@ -139,27 +187,11 @@
     },
     {
       "id": "d10b8f21a73c",
-      "title": "Sport and solidarity: a football school for children with families in difficulty is born in Rome",
+      "title": "Sport and solidarity: the football school for children with families in difficulty is born in Rome",
       "url": "https://www.milannews.it/news/sport-e-solidarieta-a-roma-nasce-la-scuola-calcio-per-bambini-con-famiglie-in-difficolta-609789",
       "source": "milannews.it",
       "date": "2026-03-07T23:12:00+00:00",
       "summary": "(ANSA) - ROME, MARCH 07 - A football school, completely free, to allow children between 7 and 14 years old with families in complicated economic conditions or social difficulties to play sport."
-    },
-    {
-      "id": "4098cacd0221",
-      "title": "It's not a scudetto derby. So many regrets. Milan, it doesn't work like this!",
-      "url": "https://www.milannews.it/editoriale/non-e-derby-scudetto-quanti-rimpianti-milan-cosi-non-funzioni-609821",
-      "source": "milannews.it",
-      "date": "2026-03-07T23:00:01+00:00",
-      "summary": "Derby between first and second, but without the charm of the championship challenge. Even in the event of a Rossoneri success, it would still be almost impossible for Milan to recover 7 points with 30 available."
-    },
-    {
-      "id": "ce9f96fbd2fd",
-      "title": "Saelemaekers towards Derby: \"There will always be a rivalry between Milan and Inter. Before a match like this there is so much concentration that no one talks\"",
-      "url": "https://www.milannews.it/news/saelemaekers-verso-il-derby-rivalita-tra-milan-e-inter-ci-sara-sempre-prima-di-una-partita-cosi-c-e-talmente-tanta-concentrazione-che-nessuno-parla-609795",
-      "source": "milannews.it",
-      "date": "2026-03-07T22:48:00+00:00",
-      "summary": "(ANSA) - MILAN, MAR 06 - \"The Milan-Inter rivalry will always be there. As soon as the derby week starts you always think about it."
     },
     {
       "id": "01005733d527",
@@ -168,14 +200,6 @@
       "source": "football-italia.net",
       "date": "2026-03-07T22:37:55+00:00",
       "summary": "The statistics point to a worrying strength on one side and weakness on the other,..."
-    },
-    {
-      "id": "f84646743c7a",
-      "title": "Milan, San Siro pain? Only one point in the last two home matches",
-      "url": "https://www.milannews.it/news/milan-mal-di-san-siro-solo-un-punto-nelle-ultime-due-sfide-in-casa-609793",
-      "source": "milannews.it",
-      "date": "2026-03-07T22:36:00+00:00",
-      "summary": "We are getting ever closer to the most important match of the season. The Derby."
     },
     {
       "id": "9e6559054cd6",
@@ -386,22 +410,6 @@
       "summary": "AC Milan will set a new box office record in Serie A thanks to the derby tomorrow, expected to collect €8.7m from ticket sales.  Over the years, Milan and Inter have both increased their ticket prices by quite a lot, especially for the big games. The derby clashes in the Champions League semi-final "
     },
     {
-      "id": "3ac2b3991610",
-      "title": "GdS: Predicted XIs for Milan vs. Inter – Estupinan the only standout choice",
-      "url": "https://sempremilan.com/gds-xis-milan-inter-estupinan-standout",
-      "source": "sempremilan.com",
-      "date": "2026-03-07T10:40:00+00:00",
-      "summary": "Pervis Estupinan is currently in pole position for a starting spot in AC Milan’s big game against Inter tomorrow, according to a report.  Milan are under pressure to clinch all three points on Sunday, currently two points behind their city rivals in the standings. A defeat would be disastrous as Int"
-    },
-    {
-      "id": "836536323fc0",
-      "title": "CorSport: Bartesaghi recovers just in time to avoid defensive crisis for Milan-Inter",
-      "url": "https://sempremilan.com/corsport-bartesaghi-avoid-crisis-milan-inter",
-      "source": "sempremilan.com",
-      "date": "2026-03-07T10:15:00+00:00",
-      "summary": "Davide Bartesaghi has recovered just in time for tomorrow’s Derby della Madonnina, and while he might not play from start, he will still be crucial for AC Milan.  It was at the end of the game against Cremonese that Bartesaghi had to come off with a muscle problem. The timing couldn’t have been any "
-    },
-    {
       "id": "0dfa0924a754",
       "title": "Vieri claims four Milan players would get into Inter’s best starting 11",
       "url": "https://football-italia.net/vieri-four-milan-players-would-start-for-inter/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-05T18:13:37+00:00",
       "summary": "Sunday’s Milan derby carries enormous weight at both ends of the table, but Inter will..."
-    },
-    {
-      "id": "a4969523d7f3",
-      "title": "Rabiot reveals what it is like playing with Modric at Milan & what Allegri brings to the club",
-      "url": "https://football-italia.net/rabiot-reveals-modric-milan-surprise/",
-      "source": "football-italia.net",
-      "date": "2026-03-05T17:36:07+00:00",
-      "summary": "Adrien Rabiot has established himself as one of Milan’s most important players this season, and..."
     }
   ]
 }
