@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-03-14T17:25:05.485113+00:00",
+  "lastUpdated": "2026-03-14T18:36:32.572503+00:00",
   "articles": [
+    {
+      "id": "5f81f49c9cb1",
+      "title": "From Spain nostalgia for Modric: \"There is a bit of repentance, a bit of regret\"",
+      "url": "https://www.milannews.it/news/dalla-spagna-nostalgia-di-modric-c-e-un-po-di-pentimento-un-po-di-rimpianto-610565",
+      "source": "milannews.it",
+      "date": "2026-03-14T18:25:45+00:00",
+      "summary": "Fernando Sanchez Tavero, journalist for AS, a Spanish sports newspaper, expressed himself to MilanVibes about Luka Modric: \"There is a bit of repentance, a bit of regret."
+    },
+    {
+      "id": "3525379b92da",
+      "title": "Script now flipped: Allegri does to Bartesaghi what he did to Estupinan",
+      "url": "https://sempremilan.com/script-flipped-allegri-bartesaghi-estupinan",
+      "source": "sempremilan.com",
+      "date": "2026-03-14T18:20:00+00:00",
+      "summary": "Pervis Estupinan is set to get the chance once again tomorrow, starting in Lazio-Milan, and it’s a turn of events that we saw at the start of the season with Davide Bartesaghi.  When Milan announced the arrival of Estupinan from Brighton in the summer, everyone expected him to be the Theo Hernandez "
+    },
+    {
+      "id": "4b01204a0402",
+      "title": "MN - Llorente: \"If Inter starts to drop points, you never know... Allegri is managing very well\"",
+      "url": "https://www.milannews.it/news/mn-llorente-se-l-inter-comincia-a-lasciare-punti-non-si-sa-mai-allegri-sta-gestendo-molto-bene-610604",
+      "source": "milannews.it",
+      "date": "2026-03-14T18:12:00+00:00",
+      "summary": "Second day of the World Legends Padel Tour 2026 in Milan, many other former footballers spoke on the playing field and at the microphones to talk about football current affairs."
+    },
+    {
+      "id": "6813e9a8a2a3",
+      "title": "United swoop in on Tonali: he is their main target for the summer",
+      "url": "https://www.milannews.it/gli-ex/lo-united-piomba-su-tonali-e-l-obiettivo-principale-per-l-estate-610527",
+      "source": "milannews.it",
+      "date": "2026-03-14T18:00:14+00:00",
+      "summary": "Many times, since he left Milan and since he returned from his suspension for football betting, there has been talk of Sandro Tonali's possible return to Italy."
+    },
+    {
+      "id": "e9d14dc015c4",
+      "title": "MN EXCLUSIVE - Sciarrone, between PK and his Milan: \"With the first money from Mickey Mouse I gave the San Siro season ticket to my dad\"",
+      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-sciarrone-tra-pk-e-il-suo-milan-con-i-primi-soldi-di-topolino-ho-regalato-l-abbonamento-a-san-siro-a-mio-papa-610603",
+      "source": "milannews.it",
+      "date": "2026-03-14T18:00:00+00:00",
+      "summary": "Milan won the derby and potentially reopened the championship, moving to -7 behind leaders Inter who drew with Atalanta this afternoon."
+    },
+    {
+      "id": "239ff928df83",
+      "title": "Action-packed day for Milan on Sunday: First team, Women, Futuro and Primavera",
+      "url": "https://sempremilan.com/actioned-packed-sunday-all-teams-march",
+      "source": "sempremilan.com",
+      "date": "2026-03-14T17:54:54+00:00",
+      "summary": "It will be a packed day for AC Milan tomorrow as not just the first team is playing, but also the Women’s team, the Futuro, and the Primavera.  Last weekend ended on a high note as Milan prevailed against Inter on Sunday evening. They will be hoping for a repeat tomorrow as Lazio are up […]\nThe post"
+    },
+    {
+      "id": "39ba79bb88b3",
+      "title": "MN - Guidi: \"Tomorrow won't be easy regardless: Lazio recovering\"",
+      "url": "https://www.milannews.it/news/mn-guidi-domani-non-facile-a-prescindere-lazio-in-ripresa-610600",
+      "source": "milannews.it",
+      "date": "2026-03-14T17:48:12+00:00",
+      "summary": "During the usual appointment with the video on the MilanNews YouTube channel."
+    },
+    {
+      "id": "83f384a828b2",
+      "title": "Lazio is the team that has won the most duels in this Serie A, but Milan is second. Inter third",
+      "url": "https://www.milannews.it/news/la-lazio-e-la-squadra-che-ha-vinto-piu-duelli-in-questa-serie-a-ma-il-milan-e-secondo-terza-l-inter-610548",
+      "source": "milannews.it",
+      "date": "2026-03-14T17:36:17+00:00",
+      "summary": "Milan (52.9%) and Lazio (52."
+    },
+    {
+      "id": "13ad9de6fdf4",
+      "title": "Zazzaroni on the award to Bastoni: \"It does nothing but certify his mistake, sublimating it\"",
+      "url": "https://www.milannews.it/news/zazzaroni-sul-premio-a-bastoni-non-fa-altro-che-certificare-il-suo-errore-sublimandolo-610528",
+      "source": "milannews.it",
+      "date": "2026-03-14T17:24:00+00:00",
+      "summary": "The news that the Regional Council of Lombardy would have proposed to reward the Nerazzurri and national team defender Alessandro Bastoni with the \"Rosa Camuna\" recognition, the highest honor at regional level ..."
+    },
     {
       "id": "c14ea52af704",
       "title": "PROBABLE LINEUP - Towards Lazio-Milan, Allegri chooses Pervis again. Ballot in midfield",
@@ -75,7 +147,7 @@
     },
     {
       "id": "6ef206e54ceb",
-      "title": "Serie A, the updated rankings: Inter at +8 on Milan",
+      "title": "Serie A, the updated ranking: Inter at +8 on Milan",
       "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-inter-a-8-sul-milan-610572",
       "source": "milannews.it",
       "date": "2026-03-14T16:12:00+00:00",
@@ -154,36 +226,12 @@
       "summary": "During the usual appointment with the video on the MilanNews YouTube channel."
     },
     {
-      "id": "e3af597485fb",
-      "title": "Costacurta: \"Modric and Rabiot are the best in the championship together with Lautaro and Paz\"",
-      "url": "https://www.milannews.it/news/costacurta-modric-e-rabiot-i-migliori-del-campionato-insieme-a-lautaro-e-paz-610529",
-      "source": "milannews.it",
-      "date": "2026-03-14T14:48:48+00:00",
-      "summary": "Alessandro Costacurta, former Rossoneri defender, also spoke during the opening day of the World Legends Padel Tour 2026 in Milan. An extract of his statements to the press including the MilanNews correspondent."
-    },
-    {
       "id": "b864aa849431",
       "title": "Ceccarini claims Lazio will demand ‘€25-30m’ for Milan target despite contract deadline",
       "url": "https://sempremilan.com/ceccarini-lazio-25-30m-milan-target-contract",
       "source": "sempremilan.com",
       "date": "2026-03-14T14:45:00+00:00",
       "summary": "Mario Gila has ended up on AC Milan’s radar ahead of the summer, but according to a journalist, a pretty hefty offer will be needed to secure his services.  Milan are already thinking about potential reinforcements for the 2026-27 season, and despite having the best defence in Europe right now, that"
-    },
-    {
-      "id": "8f10336d1d7d",
-      "title": "Napoli, Juan Jesus believes in the scudetto: \"I want to try. We are not far from Milan\"",
-      "url": "https://www.milannews.it/news/napoli-juan-jesus-crede-nello-scudetto-voglio-provarci-non-siamo-lontani-dal-milan-610535",
-      "source": "milannews.it",
-      "date": "2026-03-14T14:36:00+00:00",
-      "summary": "Colleagues from TMW reported the interview that Juan Jesus, defender of Napoli, gave to Canale 8. Below is an extract of the Brazilian's statements."
-    },
-    {
-      "id": "ea6dc3cf1898",
-      "title": "Sarri in view of Milan: \"What do I have to envy Allegri? The turnover\"",
-      "url": "https://www.milannews.it/l-avversario/sarri-in-vista-del-milan-cosa-ho-da-invidiare-ad-allegri-il-fatturato-610597",
-      "source": "milannews.it",
-      "date": "2026-03-14T14:24:34+00:00",
-      "summary": "On the eve of Lazio-Milan, Maurizio Sarri spoke at the press conference to present the match scheduled for tomorrow against Massimiliano Allegri's team, valid for the 29th matchday of Serie A Enilive."
     },
     {
       "id": "56214e5b1521",
@@ -194,44 +242,12 @@
       "summary": "AC Milan are preparing to face Lazio as we speak, this time at Stadio Olimpico after winning the reverse fixture at San Siro by the odd goal. It was a game that offered us an iconic VAR moment, some would say. Milan and Lazio have faced each other twice this season and both games ended […]\nThe post "
     },
     {
-      "id": "12c9bb348f61",
-      "title": "Pellegatti: \"Furlani's farewell is a recurring theme of possible organizational changes, especially after Elliott's exit\"",
-      "url": "https://www.milannews.it/news/pellegatti-l-addio-di-furlani-e-un-tema-questo-degli-eventuali-cambi-di-organigramma-che-ricorre-soprattutto-dopo-l-uscita-di-elliott-610570",
-      "source": "milannews.it",
-      "date": "2026-03-14T14:12:11+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti commented on Ivan Zazzaroni's words regarding Giorgio Furlani's possible farewell next year."
-    },
-    {
-      "id": "c4265797cdd2",
-      "title": "Shevckenko's wish for the next World Cup: Italy and Ukraine qualify together",
-      "url": "https://www.milannews.it/news/l-augurio-di-shevckenko-per-il-prossimo-mondiale-italia-e-ucraina-qualificate-assieme-610523",
-      "source": "milannews.it",
-      "date": "2026-03-14T14:00:00+00:00",
-      "summary": "Today the World Legends Padel Tour 2026 takes place in Milan, an event that has brought together many former football champions in the city and beyond: among these also the former Rossoneri striker Andriy Shevchenko who this morning also visited the s ..."
-    },
-    {
-      "id": "bdf9c2e31483",
-      "title": "Dida: \"Leao is great: he must find his space and believe in it more\"",
-      "url": "https://www.milannews.it/news/dida-leao-e-un-grandissimo-deve-trovare-i-suoi-spazi-e-crederci-di-piu-610533",
-      "source": "milannews.it",
-      "date": "2026-03-14T13:48:31+00:00",
-      "summary": "Today the World Legends Padel Tour 2026 takes place in Milan, an event that has brought together many former football champions in the city and beyond: among these also the former Rossoneri striker Andriy Shevchenko who this morning also visited the s ..."
-    },
-    {
       "id": "aab9bf7a85d6",
       "title": "Sarri discusses ‘very difficult’ tactical battle with Allegri in Lazio-Milan",
       "url": "https://sempremilan.com/sarry-very-difficult-allegri-lazio-milan",
       "source": "sempremilan.com",
       "date": "2026-03-14T13:46:01+00:00",
       "summary": "On the eve of Lazio-Milan, Maurizio Sarri shared his thoughts on the Rossoneri and what will be needed from his side to clinch all three points.  After a tough season so far, definitely held back by the transfer ban in the summer, Sarri and Lazio need to turn things around with what would be a […]\nT"
-    },
-    {
-      "id": "4e2b7fee62e2",
-      "title": "Milan, the last defeat in the championship at Lazio dates back three years ago",
-      "url": "https://www.milannews.it/news/milan-l-ultima-sconfitta-in-campionato-in-casa-della-lazio-risale-a-tre-anni-fa-610448",
-      "source": "milannews.it",
-      "date": "2026-03-14T13:36:00+00:00",
-      "summary": "Ten days from the end of this championship, after winning the derby against Inter, Massimiliano Allegri's Milan will return to the pitch on Sunday evening at the Olimpico against Lazio."
     },
     {
       "id": "a7f0da4ff90e",
@@ -338,14 +354,6 @@
       "summary": "Ardon Jashari will seemingly be given the massive responsibility of replacing Adrien Rabiot in Lazio-Milan tomorrow, with Massimiliano Allegri having high hopes.  As the pink newspaper starts (see photo at the bottom), Milan have been a completely different side with Rabiot on the pitch this season."
     },
     {
-      "id": "b10a67208c44",
-      "title": "Gallery: ‘Jashari as Rabiot’, ‘Will Milan slow down?’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/gallery-jashari-rabiot-milan-papers-italy",
-      "source": "sempremilan.com",
-      "date": "2026-03-14T09:00:00+00:00",
-      "summary": "Ardon Jashari should get the chance from start in AC Milan’s clash against Lazio, replacing the suspended and important Adrien Rabiot, as highlighted by the papers this morning.  Due to the yellow card that he picked up against Inter, Rabiot will be serving a one-game suspension against Lazio tomorr"
-    },
-    {
       "id": "0837dd7d1c59",
       "title": "Today’s Papers: Inter nerves, last call for David, new Roma stadium",
       "url": "https://football-italia.net/today-papers-inter-nerves-david-last-call/",
@@ -368,14 +376,6 @@
       "source": "football-italia.net",
       "date": "2026-03-13T21:06:25+00:00",
       "summary": "Milan are pushing ahead with plans to extend Fikayo Tomori’s contract, with transfer expert Matteo..."
-    },
-    {
-      "id": "8de315f70749",
-      "title": "Shevchenko discusses emotional Milanello return, Leao’s role, Allegri and Modric",
-      "url": "https://sempremilan.com/shevchenko-milan-return-leao-modric-allegri",
-      "source": "sempremilan.com",
-      "date": "2026-03-13T20:33:17+00:00",
-      "summary": "Andriy Shevchenko has admitted that he felt strong emotions returning to Milanello today to meet the rest of the squad. Earlier today, Milan posted images of the legendary striker at the training ground. He greeted all the squad members, from Rafael Leao and Luka Modric, to the manager Massimiliano "
     },
     {
       "id": "f8bfd2eecef9",
