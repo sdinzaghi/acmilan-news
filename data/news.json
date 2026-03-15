@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-03-15T15:27:39.283704+00:00",
+  "lastUpdated": "2026-03-15T16:30:40.707176+00:00",
   "articles": [
+    {
+      "id": "a025e1c83c30",
+      "title": "Milan Futuro, Oddo after the victory over Oltrepò: \"We were good and concrete, success strongly desired\"",
+      "url": "https://www.milannews.it/milan-futuro/milan-futuro-oddo-dopo-la-vittoria-sull-oltrepo-siamo-stati-bravi-e-concreti-successo-voluto-fortemente-610677",
+      "source": "milannews.it",
+      "date": "2026-03-15T16:24:00+00:00",
+      "summary": "On the sidelines of Milan Futuro's victory against Oltrepò, the Rossoneri coach Massimo Oddo spoke like this at the end of the match."
+    },
+    {
+      "id": "989559774851",
+      "title": "Pisa pride: 3-1 victory of character against Cagliari",
+      "url": "https://www.milannews.it/news/orgoglio-pisa-vittoria-di-carattere-per-3-1-contro-il-cagliari-610668",
+      "source": "milannews.it",
+      "date": "2026-03-15T16:12:06+00:00",
+      "summary": "Pisa isn't giving up yet! Coach Hiljemark won his first victory on the Tuscan bench today: 3-1 against Cagliari."
+    },
+    {
+      "id": "185c65e95305",
+      "title": "Serie A Liveblog including Como vs. Roma and Lazio vs. Milan",
+      "url": "https://football-italia.net/serie-a-liveblog-inc-como-v-roma-lazio-v-milan/",
+      "source": "football-italia.net",
+      "date": "2026-03-15T16:10:51+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "911ac04c911e",
+      "title": "Warning for Inter in Serie A title race: ‘Drained and fearful’",
+      "url": "https://football-italia.net/warning-inter-title-race-drained-fearful/",
+      "source": "football-italia.net",
+      "date": "2026-03-15T16:10:38+00:00",
+      "summary": "Referee decisions in a 1-1 draw against Atalanta on Saturday infuriated Inter, but Italian newspaper..."
+    },
+    {
+      "id": "ac650345788f",
+      "title": "LIVE MN - Towards Lazio-Milan: Allegri has chosen Estupinan and Jashari. Pulisic-Leao forward",
+      "url": "https://www.milannews.it/primo-piano/live-mn-verso-lazio-milan-allegri-ha-scelto-estupinan-e-jashari-in-avanti-pulisic-leao-610653",
+      "source": "milannews.it",
+      "date": "2026-03-15T16:10:00+00:00",
+      "summary": "This is Milan's probable lineup: (3-5-2) Maignan; Tomori, De Winter, Pavlovic: Saelemaekers, Fofana, Modric, Jashari, Estupinan; Leao, Pulisic.\n\n17."
+    },
+    {
+      "id": "5a6235ccd71f",
+      "title": "Juventus 0-1: AC Milan Women: Champions League pursuit alive after huge win",
+      "url": "https://sempremilan.com/juventus-0-1-ac-milan-women-match-report",
+      "source": "sempremilan.com",
+      "date": "2026-03-15T16:02:18+00:00",
+      "summary": "AC Milan Women secured a huge three points on Sunday afternoon as they beat Juventus away from home. Going into the game, the Milan Women had won only six of their 16 games, putting them down in eighth position. Juventus meanwhile were on 28 points from 15 games, still harbouring hopes of catching I"
+    },
+    {
+      "id": "457960154c78",
+      "title": "Bologna wins again: Dallinga is enough to defeat Sassuolo",
+      "url": "https://www.milannews.it/news/il-bologna-torna-a-vincere-basta-dallinga-per-piegare-il-sassuolo-610667",
+      "source": "milannews.it",
+      "date": "2026-03-15T16:00:53+00:00",
+      "summary": "After last week's defeat against Hellas Verona, Bologna raises its head and takes home three important points away from the Mapei Stadium, home of Sassuolo."
+    },
+    {
+      "id": "99a798c007bf",
+      "title": "Milan Futuro wins away: first Rossoneri goal for Jacopo Sardo",
+      "url": "https://www.milannews.it/milan-futuro/il-milan-futuro-vince-in-trasferta-primo-gol-rossonero-per-jacopo-sardo-610671",
+      "source": "milannews.it",
+      "date": "2026-03-15T15:48:57+00:00",
+      "summary": "Milan Futuro enjoyed their Sunday with an important away win: the Rossoneri won narrowly at the home of Oltrepò BFC with a goal arriving about a quarter of an hour from the end."
+    },
+    {
+      "id": "fd62d7e56bc3",
+      "title": "GdS: Similar journeys, different styles – why Allegri and Sarri are ‘diametrically opposed’",
+      "url": "https://sempremilan.com/why-allegri-sarri-are-diametrically-opposed",
+      "source": "sempremilan.com",
+      "date": "2026-03-15T15:37:53+00:00",
+      "summary": "Maurizio Sarri and Massimiliano Allegri are no strangers at this point, and their philosophies when it comes to football remain largely different. As La Gazzetta dello Sport (seen below) write, the last two coaches who led Juventus to the Scudetto meet tonight in a match that, for different reasons,"
+    },
+    {
+      "id": "2d02b6a30695",
+      "title": "AC Milan women, big blow at Juventus: three important points",
+      "url": "https://www.milannews.it/milan-femminile/milan-femminile-colpaccio-in-casa-della-juventus-tre-punti-pesanti-610670",
+      "source": "milannews.it",
+      "date": "2026-03-15T15:36:33+00:00",
+      "summary": "Bad luck for the Milan Femminile who this afternoon, on the occasion of the 16th round of the Serie A Women championship, went on to win in Biella, at the home of Juventus, with a result of 0-1."
+    },
     {
       "id": "4da5e62f10ca",
       "title": "Capello on Inter: \"It seems to me that Chivu is a bit confused\"",
@@ -24,14 +104,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-15T15:06:19+00:00",
       "summary": "Milan Primavera took an early lead against Bologna on Sunday afternoon but they were unable to see out the win, eventually drawing 1-1. The Primavera came into the game off the back of a damning week in their push for the play-offs. It began with 2-0 home defeat to Cremonese on Thursday, meaning Gio"
-    },
-    {
-      "id": "185c65e95305",
-      "title": "Serie A Liveblog including Como vs. Roma and Lazio vs. Milan",
-      "url": "https://football-italia.net/serie-a-liveblog-inc-como-v-roma-lazio-v-milan/",
-      "source": "football-italia.net",
-      "date": "2026-03-15T15:00:51+00:00",
-      "summary": "{rsn-live-v2}"
     },
     {
       "id": "05d3b95016e3",
@@ -72,14 +144,6 @@
       "source": "milannews.it",
       "date": "2026-03-15T14:24:18+00:00",
       "summary": "After the successes against Cremonese and Inter in the league, both without conceding a goal, Milan can record three consecutive victories without conceding a goal in Serie A for the first time since last September (in that case against Lecce, Bologna and ..."
-    },
-    {
-      "id": "ac650345788f",
-      "title": "LIVE MN - Towards Lazio-Milan: Allegri has chosen Estupinan and Jashari. Pulisic-Leao forward",
-      "url": "https://www.milannews.it/primo-piano/live-mn-verso-lazio-milan-allegri-ha-scelto-estupinan-e-jashari-in-avanti-pulisic-leao-610653",
-      "source": "milannews.it",
-      "date": "2026-03-15T14:21:37+00:00",
-      "summary": "This is Milan's probable lineup: (3-5-2) Maignan; Tomori, De Winter, Pavlovic: Saelemaekers, Fofana, Modric, Jashari, Estupinan; Leao, Pulisic.\n\n15."
     },
     {
       "id": "be7662e81f29",
@@ -170,14 +234,6 @@
       "summary": "Speaking to Gazzetta dello Sport, Luciano Chiarugi, former Rossoneri striker, said: \"What relationship did I have with Liedholm at Fiorentina? We never had one. He didn't speak to me and when he did he called me \"lei\"."
     },
     {
-      "id": "c47a5d98ac0c",
-      "title": "Serie D, the official lineups of Oltrepò-Milan Futuro",
-      "url": "https://www.milannews.it/milan-futuro/serie-d-le-formazioni-ufficiali-di-oltrepo-milan-futuro-610659",
-      "source": "milannews.it",
-      "date": "2026-03-15T12:46:49+00:00",
-      "summary": "These are the official lineups for Oltrepò-Milan Futuro, a match valid for the tenth return day of Group B of Serie D."
-    },
-    {
       "id": "e3284a3188fe",
       "title": "The five key battles that could win or lose the game for Milan against Lazio",
       "url": "https://sempremilan.com/five-key-battles-lazio-ac-milan-2026",
@@ -186,44 +242,12 @@
       "summary": "AC Milan take on Lazio at the Stadio Olimpico on Sunday night with one mission in mind: to make it a five-point gap at the top. Rewinding exactly one week, Milan were 10 points behind their city rivals Inter, with the title race looking over. After beating them in the derby and then the Nerazzurri’s"
     },
     {
-      "id": "cc2d2f22ed03",
-      "title": "Serie A Women, the official lineups of Juventus-Milan",
-      "url": "https://www.milannews.it/milan-femminile/serie-a-femminile-le-formazioni-ufficiali-di-juventus-milan-610658",
-      "source": "milannews.it",
-      "date": "2026-03-15T12:35:50+00:00",
-      "summary": "These are the official lineups for Juventus Women-Milan Women, a match valid for the sixteenth matchday of Serie A Women with kick-off at 2.00 pm."
-    },
-    {
-      "id": "5459abd7606e",
-      "title": "MN - Serie A Women: the AC Milan Women's medical bulletin",
-      "url": "https://www.milannews.it/milan-femminile/mn-serie-a-women-il-bollettino-medico-del-milan-femminile-610657",
-      "source": "milannews.it",
-      "date": "2026-03-15T12:23:43+00:00",
-      "summary": "This afternoon, at 2pm, Milan Women will face Juventus Women in a match valid for the sixteenth matchday of Serie A Women."
-    },
-    {
       "id": "4692409bca2d",
       "title": "Sky journalist addresses Furlani exit talk and insists Allegri ‘must be given carte blanche’",
       "url": "https://sempremilan.com/furlani-exit-allegri-given-carte-blanche",
       "source": "sempremilan.com",
       "date": "2026-03-15T12:20:00+00:00",
       "summary": "Sky journalist Peppe Di Stefano has added his voice to the list of those calling for the AC Milan management to back Massimiliano Allegri. As we wrote in a Devil’s Advocate column during the week, there is a growing tide of opinion that the work Allegri has done since taking over is so positive that"
-    },
-    {
-      "id": "4a692e038271",
-      "title": "Milan Women, Coach Bakker's words in view of Juventus",
-      "url": "https://www.milannews.it/milan-femminile/milan-femminile-le-parole-di-coach-bakker-in-vista-della-juventus-610648",
-      "source": "milannews.it",
-      "date": "2026-03-15T12:12:57+00:00",
-      "summary": "In view of Juventus-Milan valid for the 16th matchday of the Women's Serie A, the official Rossoneri website explained how the Rossonere arrive at this match: \"Juventus-Milan is upon us, the 16th matchday of the Serie A Women."
-    },
-    {
-      "id": "a8384a05c7bb",
-      "title": "Women's Serie A, today at 2pm there is Juventus-Milan",
-      "url": "https://www.milannews.it/milan-femminile/serie-a-femminile-oggi-alle-14-c-e-juventus-milan-610647",
-      "source": "milannews.it",
-      "date": "2026-03-15T12:00:35+00:00",
-      "summary": "Results of the 16th matchday of Serie A Athora 2025/26\n\nParma-Genoa 1-1\n23' Rabot (P), 62' Vigilucci (G)\nNapoli Women-Lazio 0-1\n68' Monnecchi (L)\n\nSunday 12.30pm (live DAZN)\n\nComo Women-Ternana Women\n\nSunday..."
     },
     {
       "id": "0f10062a893b",
@@ -354,22 +378,6 @@
       "summary": "Pervis Estupinan is set to get the chance once again tomorrow, starting in Lazio-Milan, and it’s a turn of events that we saw at the start of the season with Davide Bartesaghi.  When Milan announced the arrival of Estupinan from Brighton in the summer, everyone expected him to be the Theo Hernandez "
     },
     {
-      "id": "239ff928df83",
-      "title": "Action-packed day for Milan on Sunday: First team, Women, Futuro and Primavera",
-      "url": "https://sempremilan.com/actioned-packed-sunday-all-teams-march",
-      "source": "sempremilan.com",
-      "date": "2026-03-14T17:54:54+00:00",
-      "summary": "It will be a packed day for AC Milan tomorrow as not just the first team is playing, but also the Women’s team, the Futuro, and the Primavera.  Last weekend ended on a high note as Milan prevailed against Inter on Sunday evening. They will be hoping for a repeat tomorrow as Lazio are up […]\nThe post"
-    },
-    {
-      "id": "c1338ff0af03",
-      "title": "Opposition insight for Lazio-Milan: Form, injuries, predicted XI and more",
-      "url": "https://sempremilan.com/opposition-insight-lazio-milan-2025-26",
-      "source": "sempremilan.com",
-      "date": "2026-03-14T17:20:00+00:00",
-      "summary": "Lazio will host Milan at Stadio Olimpico tomorrow with the goal of clinching an important win, although the Rossoneri are also eager to get their hands on the three points.  Maurizio Sarri and his men could use a good win to gain some confidence for the season, having struggled on multiple fronts in"
-    },
-    {
       "id": "f866e35ffbe9",
       "title": "Agent: Tonali is the ‘most valuable’ Italian player, Man City and Arsenal links ‘the goal’",
       "url": "https://football-italia.net/agent-tonali-the-most-valuable-italian-player/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-12T15:58:15+00:00",
       "summary": "Giampaolo Pazzini has hailed Massimiliano Allegri’s tactical preparation after Milan’s derby victory over Inter, while..."
-    },
-    {
-      "id": "a5bb990245fb",
-      "title": "Milan still keen on Fiorentina forward Kean: the three factors that could convince him",
-      "url": "https://football-italia.net/milan-still-keen-on-fiorentina-forward-kean/",
-      "source": "football-italia.net",
-      "date": "2026-03-12T14:31:09+00:00",
-      "summary": "Moise Kean’s future at Fiorentina looks increasingly uncertain, and Milan are firmly positioned to take..."
     }
   ]
 }
