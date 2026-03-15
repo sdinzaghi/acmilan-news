@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-03-15T19:27:24.690135+00:00",
+  "lastUpdated": "2026-03-15T20:27:53.688033+00:00",
   "articles": [
+    {
+      "id": "4ebb9c08e7ad",
+      "title": "Caressa: \"After Inter's draw against Atalanta, Milan sees the possibility of reducing the gap in the standings\"",
+      "url": "https://www.milannews.it/news/caressa-dopo-il-pari-dell-inter-contro-l-atalanta-il-milan-intravede-la-possibilita-di-ridurre-il-gap-in-classifica-610697",
+      "source": "milannews.it",
+      "date": "2026-03-15T20:24:15+00:00",
+      "summary": "During the pre-match of Lazio-Milan, a match valid for the 29th matchday of Serie A Enilive, Fabio Caressa briefly presented the match at the Olimpico stadium, focusing in particular on the mood of the Rossoneri team, who h ..."
+    },
+    {
+      "id": "6e42438982cf",
+      "title": "LIVE MN - Lazio-Milan (1-0): Rossoneri in confusion, Maldini close to scoring",
+      "url": "https://www.milannews.it/primo-piano/live-mn-lazio-milan-1-0-rossoneri-in-confusione-maldini-vicino-al-gol-610684",
+      "source": "milannews.it",
+      "date": "2026-03-15T20:22:00+00:00",
+      "summary": "36' De Winter loses another melee with Maldini who takes flight but luckily shoots Maignan in the mouth\n\n33' Lazio is dangerous again: this time Estupinan makes a good diagonal pass and closes the cross for Isaksen\n\n30' Milan or ..."
+    },
+    {
+      "id": "47cd2b5b38d9",
+      "title": "LAZ-MIL (1-0): mistake by Estupinan, Isaksen gives Lazio the lead",
+      "url": "https://www.milannews.it/news/laz-mil-1-0-sbavatura-di-estupinan-isaksen-porta-in-vantaggio-la-lazio-610702",
+      "source": "milannews.it",
+      "date": "2026-03-15T20:14:31+00:00",
+      "summary": "On a long throw from the defense, Pervis Estupinan loses balance and contact with the ball in the duel with Gustav Isaksen, who opens the left side in front of Maignan and makes no mistake, taking Lazio ahead."
+    },
+    {
+      "id": "9724e69bd289",
+      "title": "Ambrosini on Jashari: \"He doesn't cover all the field that Rabiot covers. He's much more play-driven\"",
+      "url": "https://www.milannews.it/news/ambrosini-su-jashari-non-copre-tutto-quel-campo-che-copre-rabiot-e-molto-piu-play-610698",
+      "source": "milannews.it",
+      "date": "2026-03-15T20:12:38+00:00",
+      "summary": "Lazio-Milan will be played without Adrien Rabiot, who is disqualified: Mister Allegri has chosen Ardon Jashari in his place."
+    },
+    {
+      "id": "5f7f0e9f88bc",
+      "title": "MN - Immobile's background: \"In the past I was close to Milan, I stayed at Lazio out of a heartfelt choice\"",
+      "url": "https://www.milannews.it/news/mn-il-retroscena-di-immobile-in-passato-fui-vicino-al-milan-rimasi-alla-lazio-per-una-scelta-di-cuore-610680",
+      "source": "milannews.it",
+      "date": "2026-03-15T20:00:00+00:00",
+      "summary": "After the first part of the season played with the shirt of Bologna, the Italian striker Ciro Immobile moved to France to the newly promoted Paris FC in January."
+    },
+    {
+      "id": "8bf42d5f3796",
+      "title": "Hernanes' chess returns: \"Modric is the horse, Rabiot is up to his neck. He's like the queen with his head\"",
+      "url": "https://www.milannews.it/news/tornano-gli-scacchi-di-hernanes-modric-il-cavallo-rabiot-lo-e-fino-al-collo-di-testa-e-come-la-regina-610690",
+      "source": "milannews.it",
+      "date": "2026-03-15T19:48:03+00:00",
+      "summary": "In the DAZN studios, during the pre-match of Lazio-Milan, Hernanes repeats the chess comparison for the AC Milan players:\n\n“If we go back to the comparison with chess, Pulisic is the queen, because she knows how to do everything."
+    },
+    {
+      "id": "185c65e95305",
+      "title": "Serie A Liveblog including Como vs. Roma and Lazio vs. Milan",
+      "url": "https://football-italia.net/serie-a-liveblog-inc-como-v-roma-lazio-v-milan/",
+      "source": "football-italia.net",
+      "date": "2026-03-15T19:41:51+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "fd0e7666ebe8",
+      "title": "Caressa: \"After the derby the mood around Milanello changed\"",
+      "url": "https://www.milannews.it/news/caressa-dopo-il-derby-e-cambiato-l-umore-dalle-parti-di-milanello-610696",
+      "source": "milannews.it",
+      "date": "2026-03-15T19:36:10+00:00",
+      "summary": "During the pre-match of Lazio-Milan, a match valid for the 29th matchday of Serie A Enilive, Fabio Caressa briefly presented the match at the Olimpico stadium, focusing in particular on the mood of the Rossoneri team, who h ..."
+    },
+    {
+      "id": "ef066a6bb0b8",
+      "title": "Tare: ‘Milan know season is full of surprises, Modric loves us’",
+      "url": "https://football-italia.net/tare-milan-know-season-full-surprises-modric/",
+      "source": "football-italia.net",
+      "date": "2026-03-15T19:33:31+00:00",
+      "summary": "Milan director Igli Tare brushes off Moise Kean talk, is confident Luka Modric will extend..."
+    },
+    {
+      "id": "6d18cc67df11",
+      "title": "Tare answers questions on Moise Kean links, Modric’s future and idea of ‘Scudetto race’",
+      "url": "https://sempremilan.com/tare-moise-kean-modric-scudetto-race",
+      "source": "sempremilan.com",
+      "date": "2026-03-15T19:29:26+00:00",
+      "summary": "AC Milan sporting director Igli Tare refused to be drawn on the Moise Kean speculation, also commenting on Luka Modric’s future. While the main objective remains getting a top four finish – especially after Como beat Roma to compact things even more – there is also the feeling that tonight’s game at"
+    },
+    {
+      "id": "a6bdc1885d18",
+      "title": "Future Modric, Tare: \"There is an option, but he must decide with serenity. One thing is certain: Luka loves Milan so much and Milan loves Luka so much\"",
+      "url": "https://www.milannews.it/news/futuro-modric-tare-c-e-un-opzione-ma-deve-decidere-lui-con-serenita-una-cosa-e-certa-luka-ama-tanto-il-milan-ed-il-milan-ama-tanto-luka-610695",
+      "source": "milannews.it",
+      "date": "2026-03-15T19:26:44+00:00",
+      "summary": "Igli Tare spoke to DAZN in the pre-match of Lazio-Milan."
+    },
     {
       "id": "cc959963dbc7",
       "title": "Ambrosini: \"Rabiot has unique characteristics. Jashari could free up some space for Modric, but he is different from the Frenchman\"",
@@ -82,14 +170,6 @@
       "summary": "Strahinja Pavlovic spoke to the media just a few minutes ago and admitted that tonight’s clash against Lazio is ‘a great opportunity’ for AC Milan.  As a result of Inter’s draw against Atalanta on Saturday afternoon, Milan could reduce the gap once again tonight. A win against the Biancocelesti woul"
     },
     {
-      "id": "185c65e95305",
-      "title": "Serie A Liveblog including Como vs. Roma and Lazio vs. Milan",
-      "url": "https://football-italia.net/serie-a-liveblog-inc-como-v-roma-lazio-v-milan/",
-      "source": "football-italia.net",
-      "date": "2026-03-15T18:56:51+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
       "id": "7f9735e28745",
       "title": "Lazio, Provstgaard: \"It's a very important match for us. Our fans are there, they give us a lot of motivation\"",
       "url": "https://www.milannews.it/l-avversario/lazio-provstgaard-e-una-partita-importantissima-per-noi-ci-sono-i-nostri-tifosi-ci-danno-tanta-motivazione-610687",
@@ -154,52 +234,12 @@
       "summary": "Everything is ready at the Olympic stadium where, in a few minutes, the game will be played between Lazio and Milan, a match valid for the 29th day of the Enilive Serie A championship which will start at 8.45pm."
     },
     {
-      "id": "d5768def2e48",
-      "title": "Towards Lazio-Milan, Marchetti: \"Two teams with opposite moods. The return of the fans is decisive\"",
-      "url": "https://www.milannews.it/news/verso-lazio-milan-marchetti-due-squadre-con-umori-opposti-ritorno-dei-tifosi-determinante-610675",
-      "source": "milannews.it",
-      "date": "2026-03-15T18:24:14+00:00",
-      "summary": "On the occasion of this evening's match between Lazio and Milan, which will be played at 8pm."
-    },
-    {
-      "id": "adff46feb645",
-      "title": "VIDEO MN - Milan's arrival at the Olympic stadium, soon the match against Lazio",
-      "url": "https://www.milannews.it/news/video-mn-l-arrivo-del-milan-allo-stadio-olimpico-tra-poco-la-sfida-contro-la-lazio-610683",
-      "source": "milannews.it",
-      "date": "2026-03-15T18:15:00+00:00",
-      "summary": "As reported by our correspondents on site, the AC Milan bus has just arrived at the Olympic stadium, the venue this evening for Lazio-Milan, the Sunday postponement of the 29th matchday of the championship. Kick-off scheduled for 8pm."
-    },
-    {
-      "id": "d7b420c2defe",
-      "title": "Pancaro: \"Leao is this now. Modric? The champions have no age\"",
-      "url": "https://www.milannews.it/news/pancaro-leao-ormai-e-questo-modric-i-fuoriclasse-non-hanno-eta-610674",
-      "source": "milannews.it",
-      "date": "2026-03-15T18:12:46+00:00",
-      "summary": "Double ex of the match between Lazio and Milan, the defender Giuseppe Pancaro was interviewed by colleagues from Gazzetta.it on the day of the match between his two former teams."
-    },
-    {
-      "id": "ac650345788f",
-      "title": "LIVE MN - Towards Lazio-Milan: Allegri has chosen Estupinan and Jashari. Pulisic-Leao forward",
-      "url": "https://www.milannews.it/primo-piano/live-mn-verso-lazio-milan-allegri-ha-scelto-estupinan-e-jashari-in-avanti-pulisic-leao-610653",
-      "source": "milannews.it",
-      "date": "2026-03-15T18:05:00+00:00",
-      "summary": "This is Milan's probable lineup: (3-5-2) Maignan; Tomori, De Winter, Pavlovic: Saelemaekers, Fofana, Modric, Jashari, Estupinan; Leao, Pulisic.\n\n19."
-    },
-    {
       "id": "f5d3223fafc4",
       "title": "CM: A Maldini against Milan – Daniel crosses paths again with the team of his heart",
       "url": "https://sempremilan.com/maldini-against-milan-daniel-lazio",
       "source": "sempremilan.com",
       "date": "2026-03-15T18:05:00+00:00",
       "summary": "Daniel Maldini will line up against AC Milan tonight for Lazio at the Stadio Olimpico, which will be a strange feeling for him. As Calciomercato.com report, the history of the Maldini family is closely tied to Milan. Cesare, who passed away in 2016, was a defender for Milan in the 1950s and 1960s, a"
-    },
-    {
-      "id": "06fa5f4f81e0",
-      "title": "UEFA, the Grand Final between Spain and Argentina in Qatar has been cancelled",
-      "url": "https://www.milannews.it/news/uefa-cancellata-la-finalissima-tra-spagna-e-argentina-in-qatar-610662",
-      "source": "milannews.it",
-      "date": "2026-03-15T18:00:39+00:00",
-      "summary": "After long discussions between UEFA and the organizing authorities in Qatar, it was announced today that, due to the current political situation in the region, the Grand Final between the winners of UEFA EURO 2024, Spain, and the champions ..."
     },
     {
       "id": "c72ecea09d7d",
@@ -210,36 +250,12 @@
       "summary": "Ciro Immobile has revealed that AC Milan made a serious attempt to sign him during..."
     },
     {
-      "id": "5664a042838b",
-      "title": "MN - Immobile on Lazio-Milan: \"The Biancocelesti can annoy anyone...\"",
-      "url": "https://www.milannews.it/news/mn-immobile-su-lazio-milan-i-biancocelesti-possono-dare-fastidio-a-chiunque-610679",
-      "source": "milannews.it",
-      "date": "2026-03-15T17:48:00+00:00",
-      "summary": "After the first part of the season played with the shirt of Bologna, the Italian striker Ciro Immobile moved to France to the newly promoted Paris FC in January."
-    },
-    {
-      "id": "fe077f822404",
-      "title": "Towards Lazio-Milan, the official precedents between the two teams in Rome are 92: the balance",
-      "url": "https://www.milannews.it/news/verso-lazio-milan-i-precedenti-ufficiali-tra-le-due-squadre-a-roma-sono-92-il-bilancio-610649",
-      "source": "milannews.it",
-      "date": "2026-03-15T17:36:12+00:00",
-      "summary": "In view of Lazio-Milan this evening, the Lega Calcio Serie A website reports these statistics on the two teams: \n\n\"The official precedents between the two teams in Rome are 92: Lazio's record of 25 victories (last 1-0, Cup ..."
-    },
-    {
       "id": "6c9c94792804",
       "title": "Immobile admits Milan move appealed to him while at Lazio: “Well, who wouldn’t?”",
       "url": "https://sempremilan.com/immobile-milan-move-who-wouldnt-lazio",
       "source": "sempremilan.com",
       "date": "2026-03-15T17:33:07+00:00",
       "summary": "Ciro Immobile has admitted that he would have liked to have played for AC Milan, and was close to joining on multiple occasions. After spending the first half of the season with Bologna, Immobile moved to France to join newly promoted Paris FC in January. He is coming towards the end of his career n"
-    },
-    {
-      "id": "2f4f3dcefa8e",
-      "title": "Allegri or Sarri? Pancaro: \"Both two greats. Allegri chases victory in a practical way\"",
-      "url": "https://www.milannews.it/news/allegri-o-sarri-pancaro-entrambi-due-grandi-allegri-insegue-la-vittoria-in-maniera-pratica-610673",
-      "source": "milannews.it",
-      "date": "2026-03-15T17:24:13+00:00",
-      "summary": "Double ex of the match between Lazio and Milan, the defender Giuseppe Pancaro was interviewed by colleagues from Gazzetta.it on the day of the match between his two former teams."
     },
     {
       "id": "ab998b5beb15",
@@ -370,14 +386,6 @@
       "summary": "AC Milan are interested in signing Mario Gila from Lazio, Matteo Moretto has confirmed, but there are no ongoing talks at the moment. Of all of the central defenders that Milan have been linked with over the past few months, Gila’s is perhaps the name that has been mentioned the most. Sporting direc"
     },
     {
-      "id": "ed3eeea95683",
-      "title": "GdS: Predicted XIs for Lazio vs. AC Milan – Allegri makes his final choices",
-      "url": "https://sempremilan.com/gds-predicted-xis-lazio-milan-15-march",
-      "source": "sempremilan.com",
-      "date": "2026-03-15T10:40:00+00:00",
-      "summary": "AC Milan will make the trip to the capital to face Lazio tonight, and Massimiliano Allegri has made his selection choices. The win against Inter in the derby has definitely boosted Milan’s confidence, and if that reopened the title discussions then the Nerazzurri’s draw against Atalanta has added a "
-    },
-    {
       "id": "88c20f34481e",
       "title": "Inter fear Bastoni chaos sparked controversial referee decisions",
       "url": "https://football-italia.net/inter-fear-bastoni-chaos-referee-decisions/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-13T17:50:26+00:00",
       "summary": "Gennaro Gattuso has less than a week to go before he is expected to announce..."
-    },
-    {
-      "id": "ea17dd049ded",
-      "title": "Revealed: What needs to happen for Serie A to secure a fifth Champions League spot",
-      "url": "https://football-italia.net/scenario-serie-a-champions-league-spot/",
-      "source": "football-italia.net",
-      "date": "2026-03-13T17:37:57+00:00",
-      "summary": "Italian football’s hopes of securing a fifth Champions League place next season remain alive, just,..."
     }
   ]
 }
