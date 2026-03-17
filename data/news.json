@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-03-17T07:13:10.173423+00:00",
+  "lastUpdated": "2026-03-17T08:52:21.733070+00:00",
   "articles": [
+    {
+      "id": "df6c235ef82a",
+      "title": "Milan, Leao's attitude didn't go down well with anyone but he won't be fined",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-l-atteggiamento-di-leao-non-e-andato-giu-a-nessuno-ma-non-sara-multato-610879",
+      "source": "milannews.it",
+      "date": "2026-03-17T08:39:27+00:00",
+      "summary": "Among the most sensational flops in Milan's defeat at Lazio was certainly Rafael Leao."
+    },
+    {
+      "id": "e7796b244cb6",
+      "title": "CorSport returns to Branchini's words: \"Max? Never thought about the scudetto\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-torna-sulle-parole-di-branchini-max-mai-pensato-allo-scudetto-610863",
+      "source": "milannews.it",
+      "date": "2026-03-17T08:30:00+00:00",
+      "summary": "Has Massimiliano Allegri really ever thought about the scudetto? Today's edition of Corriere dello Sport returns to the words of its agent, Giovanni Branchini, released on the \"Radio Anch'io Sport\" broadcast, on Rad ..."
+    },
+    {
+      "id": "26a42938c715",
+      "title": "Gazzetta: \"Rafa and Pulisic: tension also in the locker room. Max intervenes\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-rafa-e-pulisic-tensione-anche-nello-spogliatoio-interviene-max-610875",
+      "source": "milannews.it",
+      "date": "2026-03-17T08:19:19+00:00",
+      "summary": "\"Rafa and Pulisic: tension in the locker room too."
+    },
+    {
+      "id": "80c180ecc50f",
+      "title": "CorSera on Leao: \"In recent weeks, in recent days, even on the eve of the match in Rome, they say that Rafa was not 100% concentrated\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsera-su-leao-nelle-ultime-settimane-negli-ultimi-giorni-anche-alla-vigilia-della-partita-di-roma-raccontano-che-rafa-non-fosse-concentrato-al-10-610870",
+      "source": "milannews.it",
+      "date": "2026-03-17T08:09:35+00:00",
+      "summary": "The Corriere della Sera on newsstands this morning writes about Rafael Leao: \"In the last few weeks, in the last few days, even on the eve of the match in Rome, they say that Rafa was not one hundred percent concentrated."
+    },
+    {
+      "id": "857034b89289",
+      "title": "CorSport on Rafa Leao: \"New stumble\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-su-rafa-leao-nuovo-inciampo-610862",
+      "source": "milannews.it",
+      "date": "2026-03-17T08:00:00+00:00",
+      "summary": "In Milan who lost 1-0 against Lazio, the most significant summary of the match is Rafa Leao's performance. Today's edition of Corriere dello Sport talks about it, with the headline: \"Leao, new stumble\"."
+    },
+    {
+      "id": "540786b0f0b3",
+      "title": "CorSera: \"Milan, Leao becomes a case again. Renewal frozen, doubts about the future\"",
+      "url": "https://www.milannews.it/rassegna-stampa/corsera-milan-leao-torna-a-essere-un-caso-rinnovo-congelato-i-dubbi-sul-futuro-610869",
+      "source": "milannews.it",
+      "date": "2026-03-17T07:50:46+00:00",
+      "summary": "Today's edition of Corriere della Sera headlines this morning: \"Milan, Leao becomes a case again. Renewal frozen, doubts about the future\"."
+    },
+    {
+      "id": "96240d87fe7f",
+      "title": "The opening QS: \"Another Milan, same Leao\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-qs-in-apertura-altro-milan-stesso-leao-610860",
+      "source": "milannews.it",
+      "date": "2026-03-17T07:40:00+00:00",
+      "summary": "These are difficult days for Milan, after the away defeat at the Olimpico against Lazio which almost extinguished their championship dreams. As if that wasn't enough, Massimiliano Allegri has to manage the situation relating to Rafa Leao."
+    },
+    {
+      "id": "0a8a85967214",
+      "title": "Tuttosport on Milan: \"From the dream to the great nightmare\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-sul-milan-dal-sogno-al-grande-incubo-610861",
+      "source": "milannews.it",
+      "date": "2026-03-17T07:30:00+00:00",
+      "summary": "Complicated days for Milan after Rome. Today's edition of Tuttosport talks about it, with the headline: \"From the dream to the great nightmare\"."
+    },
+    {
+      "id": "8dc6b1a4d7b5",
+      "title": "CorSport opens on Milan: \"Leao's pain\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-in-apertura-sul-milan-i-dolori-di-leao-610859",
+      "source": "milannews.it",
+      "date": "2026-03-17T07:20:00+00:00",
+      "summary": "Complicated week for Milan, who after the narrow defeat against Lazio are moving further and further away from first place in the standings."
+    },
     {
       "id": "bff6e070b4f0",
       "title": "La Gazzetta on the front page on Leao: \"Too much tension. Milan is fed up and Rafa ends up on the market\"",
@@ -88,78 +160,6 @@
       "source": "milannews.it",
       "date": "2026-03-16T23:40:04+00:00",
       "summary": "Present in the Pressing studios, Riccardo Trevisani commented on Rafael Leao's performance against Lazio as follows: \"Leao's performance was not positive, but I find it hard to blame just one player."
-    },
-    {
-      "id": "e8c6005d06cd",
-      "title": "Fabregas: \"No hand from Gasperini? A question of respect\"",
-      "url": "https://www.milannews.it/l-avversario/fabregas-niente-mano-da-parte-di-gasperini-questione-di-rispetto-610791",
-      "source": "milannews.it",
-      "date": "2026-03-16T23:30:00+00:00",
-      "summary": "(ANSA) - MILAN, MARCH 15 - \"Angry or happy, lost or won or expelled, I never left without shaking hands with the coach. It seems like a sporting thing to me, the way I grew up."
-    },
-    {
-      "id": "292f1ad6c9bb",
-      "title": "Marinozzi: \"Milan, a step backwards compared to the match against Inter. First explanation: Rabiot's absence\"",
-      "url": "https://www.milannews.it/news/marinozzi-milan-passo-indietro-rispetto-alla-gara-con-l-inter-prima-spiegazione-l-assenza-di-rabiot-610844",
-      "source": "milannews.it",
-      "date": "2026-03-16T23:20:50+00:00",
-      "summary": "There are many hot topics to address at home in Milan after the disappointing performance of the Olimpico against Lazio - 1-0 defeat - which led Massimiliano Allegri's team to their first defeat in the league away from San S ..."
-    },
-    {
-      "id": "a06af3c62877",
-      "title": "Calvarese on the referee class: \"Technology today is indispensable and helps referees, but...\"",
-      "url": "https://www.milannews.it/news/calvarese-sulla-classe-arbitrale-la-tecnologia-oggi-e-indispensabile-e-aiuta-gli-arbitri-ma-610775",
-      "source": "milannews.it",
-      "date": "2026-03-16T23:10:00+00:00",
-      "summary": "Gianpaolo Calvarese, in today's columns of the Gazzetta dello Sport, spoke thus of the latest refereeing controversies: \"The referee is paid to make decisions under pressure, it's part of our job."
-    },
-    {
-      "id": "3a52c5d7a67c",
-      "title": "Immediate shock. Big doubts about the Leao-Pulisic agreement. Now lock down the Champions League then 4 serious blows",
-      "url": "https://www.milannews.it/editoriale/scossa-immediata-grossi-dubbi-sull-intesa-leao-pulisic-ora-blindare-la-champions-poi-4-colpi-seri-610817",
-      "source": "milannews.it",
-      "date": "2026-03-16T23:00:56+00:00",
-      "summary": "It went badly. Unfortunately, Milan made a mistake in one of the most important matches of the season, and they did so on multiple fronts."
-    },
-    {
-      "id": "4f0f99faa01f",
-      "title": "Women's football, Gravina: \"Clubs are making incredible sacrifices\"",
-      "url": "https://www.milannews.it/news/calcio-femminile-gravina-i-club-stanno-facendo-sacrifici-incredibili-610841",
-      "source": "milannews.it",
-      "date": "2026-03-16T22:50:18+00:00",
-      "summary": "The president of the FIGC Gabriele Gravina spoke from the stage of the Women4Football event and spoke about the women's football movement in Italy. His words collected by colleagues at Tuttomercatoweb."
-    },
-    {
-      "id": "d32d3ade46f8",
-      "title": "Leao breaks the silence and quotes the Gospel: \"Do what is within your reach\"",
-      "url": "https://www.milannews.it/news/leao-rompe-il-silenzio-e-cita-il-vangelo-fa-cio-che-e-alla-tua-portata-610857",
-      "source": "milannews.it",
-      "date": "2026-03-16T22:40:00+00:00",
-      "summary": "Rafa Leao has been on everyone's lips in the last 24 hours, from the moment of his substitution last night until and throughout today. From his part, however, no declaration or no word, until now."
-    },
-    {
-      "id": "68ddab2d02c7",
-      "title": "Bertolucci: \"I didn't believe in the scudetto: the team didn't show up in the most important match\"",
-      "url": "https://www.milannews.it/news/bertolucci-non-credevo-nello-scudetto-la-squadra-non-si-e-presentata-nella-partita-piu-importante-610835",
-      "source": "milannews.it",
-      "date": "2026-03-16T22:30:43+00:00",
-      "summary": "The Milan left the Olimpico defeated against Lazio on Sunday evening, for the second time this season: there have been two away defeats this season, both in Rome against the Biancocelesti, the first in Co ..."
-    },
-    {
-      "id": "7b9f4cbcf9a2",
-      "title": "Serafini: \"I believe and hope that the center forward problem will be resolved in June\"",
-      "url": "https://www.milannews.it/news/serafini-credo-e-spero-che-a-giugno-il-problema-del-centravanti-venga-risolto-610852",
-      "source": "milannews.it",
-      "date": "2026-03-16T22:20:00+00:00",
-      "summary": "The defeat at the Olimpico of Milan against Lazio left a very bitter taste in the mouth: after the victory in the Derby against Inter, the Rossoneri fans hoped to be able to close on first place in the standings and reopen ..."
-    },
-    {
-      "id": "8703bbdeb219",
-      "title": "André's agents visited Casa Milan ten days ago: the photos",
-      "url": "https://www.milannews.it/news/gli-agenti-di-andre-in-visita-a-casa-milan-dieci-giorni-fa-le-foto-610856",
-      "source": "milannews.it",
-      "date": "2026-03-16T22:10:45+00:00",
-      "summary": "The deal that Milan had set up for André, a young Brazilian talent from Corinthians, is currently at a standstill."
     },
     {
       "id": "011c8fd3260e",
