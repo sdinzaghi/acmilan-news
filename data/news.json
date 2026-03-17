@@ -1,141 +1,165 @@
 {
-  "lastUpdated": "2026-03-17T05:58:21.251349+00:00",
+  "lastUpdated": "2026-03-17T07:13:10.173423+00:00",
   "articles": [
     {
+      "id": "bff6e070b4f0",
+      "title": "La Gazzetta on the front page on Leao: \"Too much tension. Milan is fed up and Rafa ends up on the market\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-prima-pagina-su-leao-troppe-tensioni-il-milan-e-stufo-e-rafa-finisce-sul-mercato-610858",
+      "source": "milannews.it",
+      "date": "2026-03-17T07:10:00+00:00",
+      "summary": "The week didn't start in the best way for Milan, after the away win against Lazio which pushed Inter up to +8."
+    },
+    {
+      "id": "a37a11a81984",
+      "title": "Leao, this isn't the case: Milan will listen to the offers that arrive. Nusa is among the possible successors",
+      "url": "https://www.milannews.it/primo-piano/leao-cosi-non-va-il-milan-ascoltera-le-offerte-che-arriveranno-c-e-nusa-tra-i-possibili-successori-610868",
+      "source": "milannews.it",
+      "date": "2026-03-17T07:00:39+00:00",
+      "summary": "For months there has been talk of a new Rafael Leao, more continuous, more mature and more of a leader, but now it has become a coincidence again."
+    },
+    {
+      "id": "64d91eaff0b8",
+      "title": "Today the Champions League returns: in two days the picture of the quarterfinals will take shape",
+      "url": "https://www.milannews.it/news/oggi-torna-la-champions-league-in-due-giorni-si-delinea-il-quadro-dei-quarti-610840",
+      "source": "milannews.it",
+      "date": "2026-03-17T06:50:40+00:00",
+      "summary": "The Champions League returns this evening: just one week after the first legs, the return matches of the round of 16 will be played this evening and tomorrow."
+    },
+    {
+      "id": "66fe765286b1",
+      "title": "Last shift before the break: the program for the next day",
+      "url": "https://www.milannews.it/news/ultimo-turno-prima-della-sosta-il-programma-della-prossima-giornata-610839",
+      "source": "milannews.it",
+      "date": "2026-03-17T06:40:04+00:00",
+      "summary": "The 29th day of the Enilive Serie A championship ended with the match between Cremonese and Fiorentina."
+    },
+    {
+      "id": "a2c1845602e6",
+      "title": "Youth sector: the results of the weekend",
+      "url": "https://www.milannews.it/settore-giovanile/settore-giovanile-i-risultati-del-weekend-610814",
+      "source": "milannews.it",
+      "date": "2026-03-17T06:30:10+00:00",
+      "summary": "The official AC Milan website reports the results of the weekend of the AC Milan youth sector teams: \"The Rossoneri youth sector emerges reinvigorated from the last weekend of matches, recording only victories and draws as regards ..."
+    },
+    {
+      "id": "1e738e83de96",
+      "title": "Milan must look behind them: the Serie A standings after 29 matches",
+      "url": "https://www.milannews.it/news/il-milan-si-deve-guardare-alle-spalle-la-classifica-di-serie-a-dopo-29-gare-610838",
+      "source": "milannews.it",
+      "date": "2026-03-17T06:20:30+00:00",
+      "summary": "The Serie A Enilive table has been redesigned this time too, both at the top and bottom: and if a week ago Milan was smiling, today the Rossoneri are licking their wounds."
+    },
+    {
+      "id": "008262a68ec6",
+      "title": "The 29th round of Serie A ends with the victory of Fiorentina: all the results",
+      "url": "https://www.milannews.it/news/si-conclude-il-29-turno-di-serie-a-con-la-vittoria-della-fiorentina-tutti-i-risultati-610837",
+      "source": "milannews.it",
+      "date": "2026-03-17T06:10:14+00:00",
+      "summary": "The 29th round of the Enilive Serie A championship ended yesterday evening."
+    },
+    {
+      "id": "67df86e2daf9",
+      "title": "After the day off, Milan returns to training today: head to Torino",
+      "url": "https://www.milannews.it/news/dopo-il-giorno-di-pausa-il-milan-torna-oggi-ad-allenarsi-testa-al-torino-610836",
+      "source": "milannews.it",
+      "date": "2026-03-17T06:00:00+00:00",
+      "summary": "How things change in seven days."
+    },
+    {
       "id": "5bb50d31b18a",
-      "title": "M.Orlando: \"Non contesto che Leao giochi punta ma che non salti più l'uomo\"",
+      "title": "M.Orlando: \"I don't dispute that Leao plays a tip but that he no longer jumps the man\"",
       "url": "https://www.milannews.it/news/m-orlando-non-contesto-che-leao-giochi-punta-ma-che-non-salti-piu-l-uomo-610823",
       "source": "milannews.it",
       "date": "2026-03-17T00:00:17+00:00",
-      "summary": "C'è sicuramente grandissima amarezza in casa Milan per la sconfitta maturata allo stadio Olimpico contro la Lazio domenica sera: i rossoneri hanno messo in scena forse la prestazione peggiore della stagione nel momento  ..."
+      "summary": "There is certainly great bitterness at home in Milan over the defeat at the Olympic stadium against Lazio on Sunday evening: the Rossoneri put on perhaps their worst performance of the season at the moment..."
     },
     {
       "id": "abfed56940f8",
-      "title": "Serafini: \"Leao lo specchio di questo Milan: mai maturato fino alla fine\"",
+      "title": "Serafini: \"Leao is the mirror of this Milan: he never matured until the end\"",
       "url": "https://www.milannews.it/news/serafini-leao-lo-specchio-di-questo-milan-mai-maturato-fino-alla-fine-610853",
       "source": "milannews.it",
       "date": "2026-03-16T23:50:39+00:00",
-      "summary": "La sconfitta all'Olimpico del Milan contro la Lazio ha lasciato molto amaro in bocca: dopo la vittoria nel Derby contro l'Inter, i tifosi rossoneri si auguravano di poter accorciare sul primo posto in classifica e riaprire ..."
+      "summary": "The defeat at the Olimpico of Milan against Lazio left a very bitter taste in the mouth: after the victory in the Derby against Inter, the Rossoneri fans hoped to be able to close on first place in the standings and reopen ..."
     },
     {
       "id": "0732ee369f5c",
-      "title": "Trevisani su Pulisic: \"Ha un atteggiamento che fa incazzare di meno rispetto a quello di Leao, ma il suo rendimento negli ultimi mesi è drammatico\"",
+      "title": "Trevisani on Pulisic: \"He has an attitude that is less infuriating than Leao's, but his performance in recent months has been dramatic\"",
       "url": "https://www.milannews.it/news/trevisani-su-pulisic-ha-un-atteggiamento-che-fa-incazzare-di-meno-rispetto-a-quello-di-leao-ma-il-suo-rendimento-negli-ultimi-mesi-e-drammatico-610800",
       "source": "milannews.it",
       "date": "2026-03-16T23:40:04+00:00",
-      "summary": "Presente negli studi di Pressing, Riccardo Trevisani ha commentato così la prestazione di Rafael Leao contro la Lazio: \"La prestazione di Leao non è stata positiva, ma faccio fatica a prendermela solo con un giocatore."
+      "summary": "Present in the Pressing studios, Riccardo Trevisani commented on Rafael Leao's performance against Lazio as follows: \"Leao's performance was not positive, but I find it hard to blame just one player."
     },
     {
       "id": "e8c6005d06cd",
-      "title": "Fabregas: \"Niente mano da parte di Gasperini? Questione di rispetto\"",
+      "title": "Fabregas: \"No hand from Gasperini? A question of respect\"",
       "url": "https://www.milannews.it/l-avversario/fabregas-niente-mano-da-parte-di-gasperini-questione-di-rispetto-610791",
       "source": "milannews.it",
       "date": "2026-03-16T23:30:00+00:00",
-      "summary": "(ANSA) - MILANO, 15 MAR - \"Arrabbiato o contento, perso o vinto o espulso, non sono mai andato via senza dare la mano al mister. Mi sembra una cosa sportiva, per come sono cresciuto io."
+      "summary": "(ANSA) - MILAN, MARCH 15 - \"Angry or happy, lost or won or expelled, I never left without shaking hands with the coach. It seems like a sporting thing to me, the way I grew up."
     },
     {
       "id": "292f1ad6c9bb",
-      "title": "Marinozzi: \"Milan, passo indietro rispetto alla gara con l'Inter. Prima spiegazione: l'assenza di Rabiot\"",
+      "title": "Marinozzi: \"Milan, a step backwards compared to the match against Inter. First explanation: Rabiot's absence\"",
       "url": "https://www.milannews.it/news/marinozzi-milan-passo-indietro-rispetto-alla-gara-con-l-inter-prima-spiegazione-l-assenza-di-rabiot-610844",
       "source": "milannews.it",
       "date": "2026-03-16T23:20:50+00:00",
-      "summary": "Sono tanti i temi caldi da affrontare in casa Milan dopo la deludente prestazione dell'Olimpico contro la Lazio - sconfitta per 1-0 - che ha portato la squadra di Massimiliano Allegri al primo ko in campionato lontano da San S ..."
+      "summary": "There are many hot topics to address at home in Milan after the disappointing performance of the Olimpico against Lazio - 1-0 defeat - which led Massimiliano Allegri's team to their first defeat in the league away from San S ..."
     },
     {
       "id": "a06af3c62877",
-      "title": "Calvarese sulla classe arbitrale: \"La tecnologia oggi è indispensabile e aiuta gli arbitri, ma...\"",
+      "title": "Calvarese on the referee class: \"Technology today is indispensable and helps referees, but...\"",
       "url": "https://www.milannews.it/news/calvarese-sulla-classe-arbitrale-la-tecnologia-oggi-e-indispensabile-e-aiuta-gli-arbitri-ma-610775",
       "source": "milannews.it",
       "date": "2026-03-16T23:10:00+00:00",
-      "summary": "Gianpaolo Calvarese, sulle colonne odierna della Gazzetta dello Sport, ha parlato così delle ultime polemiche arbitrali: \"L’arbitro è pagato per prendere decisioni sotto pressione, fa parte del nostro lavoro."
+      "summary": "Gianpaolo Calvarese, in today's columns of the Gazzetta dello Sport, spoke thus of the latest refereeing controversies: \"The referee is paid to make decisions under pressure, it's part of our job."
     },
     {
       "id": "3a52c5d7a67c",
-      "title": "Scossa immediata. Grossi dubbi sull’intesa Leao-Pulisic. Ora blindare la Champions poi 4 colpi seri",
+      "title": "Immediate shock. Big doubts about the Leao-Pulisic agreement. Now lock down the Champions League then 4 serious blows",
       "url": "https://www.milannews.it/editoriale/scossa-immediata-grossi-dubbi-sull-intesa-leao-pulisic-ora-blindare-la-champions-poi-4-colpi-seri-610817",
       "source": "milannews.it",
       "date": "2026-03-16T23:00:56+00:00",
-      "summary": "E’ andata male. Purtroppo il Milan ha sbagliato una delle partite più importanti della stagione, e lo ha fatto su più fronti."
+      "summary": "It went badly. Unfortunately, Milan made a mistake in one of the most important matches of the season, and they did so on multiple fronts."
     },
     {
       "id": "4f0f99faa01f",
-      "title": "Calcio femminile, Gravina: \"I club stanno facendo sacrifici incredibili\"",
+      "title": "Women's football, Gravina: \"Clubs are making incredible sacrifices\"",
       "url": "https://www.milannews.it/news/calcio-femminile-gravina-i-club-stanno-facendo-sacrifici-incredibili-610841",
       "source": "milannews.it",
       "date": "2026-03-16T22:50:18+00:00",
-      "summary": "Il presidente della FIGC Gabriele Gravina è intervenuto dal palco dell'evento Women4Football e ha parlato del movimento calcistico femminile in Italia. Le sue parole raccolte dai colleghi di Tuttomercatoweb."
+      "summary": "The president of the FIGC Gabriele Gravina spoke from the stage of the Women4Football event and spoke about the women's football movement in Italy. His words collected by colleagues at Tuttomercatoweb."
     },
     {
       "id": "d32d3ade46f8",
-      "title": "Leao rompe il silenzio e cita il Vangelo: \"Fa ciò che è alla tua portata\"",
+      "title": "Leao breaks the silence and quotes the Gospel: \"Do what is within your reach\"",
       "url": "https://www.milannews.it/news/leao-rompe-il-silenzio-e-cita-il-vangelo-fa-cio-che-e-alla-tua-portata-610857",
       "source": "milannews.it",
       "date": "2026-03-16T22:40:00+00:00",
-      "summary": "Rafa Leao è stato sulla bocca di tutti nelle ultime 24 ore, dal momento della sua sostituzione di ieri sera fino e per tutta la giornata di oggi. Da parte sua, però, nessuna dichiarazione o nessuna parola, fino ad adesso."
+      "summary": "Rafa Leao has been on everyone's lips in the last 24 hours, from the moment of his substitution last night until and throughout today. From his part, however, no declaration or no word, until now."
     },
     {
       "id": "68ddab2d02c7",
-      "title": "Bertolucci: \"Non credevo nello scudetto: la squadra non si è presentata nella partita più importante\"",
+      "title": "Bertolucci: \"I didn't believe in the scudetto: the team didn't show up in the most important match\"",
       "url": "https://www.milannews.it/news/bertolucci-non-credevo-nello-scudetto-la-squadra-non-si-e-presentata-nella-partita-piu-importante-610835",
       "source": "milannews.it",
       "date": "2026-03-16T22:30:43+00:00",
-      "summary": "Il Milan è uscito sconfitto dall'Olimpico contro la Lazio domenica sera, per la seconda volta in questa stagione: sono arrivate due sconfitte in trasferta in stagione, entrambe a Roma contro i biancocelesti, prima in Co ..."
+      "summary": "The Milan left the Olimpico defeated against Lazio on Sunday evening, for the second time this season: there have been two away defeats this season, both in Rome against the Biancocelesti, the first in Co ..."
     },
     {
       "id": "7b9f4cbcf9a2",
-      "title": "Serafini: \"Credo e spero che a giugno il problema del centravanti venga risolto\"",
+      "title": "Serafini: \"I believe and hope that the center forward problem will be resolved in June\"",
       "url": "https://www.milannews.it/news/serafini-credo-e-spero-che-a-giugno-il-problema-del-centravanti-venga-risolto-610852",
       "source": "milannews.it",
       "date": "2026-03-16T22:20:00+00:00",
-      "summary": "La sconfitta all'Olimpico del Milan contro la Lazio ha lasciato molto amaro in bocca: dopo la vittoria nel Derby contro l'Inter, i tifosi rossoneri si auguravano di poter accorciare sul primo posto in classifica e riaprire ..."
+      "summary": "The defeat at the Olimpico of Milan against Lazio left a very bitter taste in the mouth: after the victory in the Derby against Inter, the Rossoneri fans hoped to be able to close on first place in the standings and reopen ..."
     },
     {
       "id": "8703bbdeb219",
-      "title": "Gli agenti di André in visita a Casa Milan dieci giorni fa: le foto",
+      "title": "André's agents visited Casa Milan ten days ago: the photos",
       "url": "https://www.milannews.it/news/gli-agenti-di-andre-in-visita-a-casa-milan-dieci-giorni-fa-le-foto-610856",
       "source": "milannews.it",
       "date": "2026-03-16T22:10:45+00:00",
-      "summary": "L'affare che il Milan aveva messo in piedi per André, giovane talento brasiliano del Corinthians, al momento è in fase di stallo."
-    },
-    {
-      "id": "bdbf7effef12",
-      "title": "Serie A, la classifica aggiornata: la Viola respira, la Cremo non vince dal 7 dicembre",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-la-viola-respira-la-cremo-non-vince-dal-7-dicembre-610825",
-      "source": "milannews.it",
-      "date": "2026-03-16T22:00:44+00:00",
-      "summary": "Una vittoria cruciale quella ottenuta dalla Fiorentina nel posticipo della 29^ giornata di Serie A Enilive a Cremona: i viola hanno battuto senza appello la Cremonese con il risultato di 1-4."
-    },
-    {
-      "id": "c08af7648fc0",
-      "title": "La Fiorentina domina lo spareggio salvezza contro la Cremonese",
-      "url": "https://www.milannews.it/news/la-fiorentina-domina-lo-spareggio-salvezza-contro-la-cremonese-610824",
-      "source": "milannews.it",
-      "date": "2026-03-16T21:50:22+00:00",
-      "summary": "Non c'è stata storia nello spareggio salvezza che si è giocato questa sera tra Cremonese e Fiorentina, gara che ha chiuso il programma della 29^ giornata del campionato di Serie A Enilive."
-    },
-    {
-      "id": "4b0e827acd75",
-      "title": "Pazzini e la crisi di Pulisic: \"Si vede che non sta bene, ma lo vedi più vivo di Leao\"",
-      "url": "https://www.milannews.it/gli-ex/pazzini-e-la-crisi-di-pulisic-si-vede-che-non-sta-bene-ma-lo-vedi-piu-vivo-di-leao-610799",
-      "source": "milannews.it",
-      "date": "2026-03-16T21:40:00+00:00",
-      "summary": "L'ex attaccante rossonero Giampaolo Pazzini è intervenuto a Pressing e su Lazio-Milan ha dichiarato: \"Quando sei obbligato a vincere e vedi la possibilità di riaprire il campionato hai più pressione e questo potrebbe ave ..."
-    },
-    {
-      "id": "5037273cadf8",
-      "title": "Milan, sconfitta in trasferta senza gol dopo un anno: l'ultima volta nel gennaio 2025",
-      "url": "https://www.milannews.it/news/milan-sconfitta-in-trasferta-senza-gol-dopo-un-anno-l-ultima-volta-nel-gennaio-2025-610796",
-      "source": "milannews.it",
-      "date": "2026-03-16T21:30:00+00:00",
-      "summary": "Roma fatale per il Milan, che esce sconfitto nella serata della 29ª giornata di Serie A: all'Olimpico la Lazio si impone per 1-0 grazie al gol al 26' di Isaksen, a premiare un maggiore cinismo dei biancocele ..."
-    },
-    {
-      "id": "957805556395",
-      "title": "Serafini: \"Pulisic il lontano parente di quello conosciuto in questi anni e in autunno\"",
-      "url": "https://www.milannews.it/news/serafini-pulisic-il-lontano-parente-di-quello-conosciuto-in-questi-anni-e-in-autunno-610851",
-      "source": "milannews.it",
-      "date": "2026-03-16T21:20:00+00:00",
-      "summary": "La sconfitta all'Olimpico del Milan contro la Lazio ha lasciato molto amaro in bocca: dopo la vittoria nel Derby contro l'Inter, i tifosi rossoneri si auguravano di poter accorciare sul primo posto in classifica e riaprire ..."
+      "summary": "The deal that Milan had set up for André, a young Brazilian talent from Corinthians, is currently at a standstill."
     },
     {
       "id": "011c8fd3260e",
@@ -144,30 +168,6 @@
       "source": "football-italia.net",
       "date": "2026-03-16T21:16:06+00:00",
       "summary": "Como are currently in fourth place and would right now be qualified for the Champions..."
-    },
-    {
-      "id": "4333cc884e36",
-      "title": "Marinozzi amaro: \"Un'altra partita non buona di Pulisic\"",
-      "url": "https://www.milannews.it/news/marinozzi-amaro-un-altra-partita-non-buona-di-pulisic-610845",
-      "source": "milannews.it",
-      "date": "2026-03-16T21:10:00+00:00",
-      "summary": "Sono tanti i temi caldi da affrontare in casa Milan dopo la deludente prestazione dell'Olimpico contro la Lazio - sconfitta per 1-0 - che ha portato la squadra di Massimiliano Allegri al primo ko in campionato lontano da San S ..."
-    },
-    {
-      "id": "07fd1db9373f",
-      "title": "Minutaggio di italiani in Serie A: Milan quintultimo, Como ultimissimo",
-      "url": "https://www.milannews.it/news/minutaggio-di-italiani-in-serie-a-milan-quintultimo-como-ultimissimo-610827",
-      "source": "milannews.it",
-      "date": "2026-03-16T21:00:00+00:00",
-      "summary": "La piattaforma Kickest sulla sua pagina Instagram ha riportato un dato relativo all'impiego dei calciatori italiani nel corso di questa stagione di Serie A Enilive."
-    },
-    {
-      "id": "11a702acee8e",
-      "title": "“Una Grande Visione”, il sogno rossonero di Giuseppe Cassinari diventa un libro",
-      "url": "https://www.milannews.it/news/una-grande-visione-il-sogno-rossonero-di-giuseppe-cassinari-diventa-un-libro-610815",
-      "source": "milannews.it",
-      "date": "2026-03-16T20:50:07+00:00",
-      "summary": "Una storia di passione, determinazione e fede rossonera lunga una vita."
     },
     {
       "id": "da74151b2e1f",
