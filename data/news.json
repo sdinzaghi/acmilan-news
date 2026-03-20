@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-03-20T10:36:30.027329+00:00",
+  "lastUpdated": "2026-03-20T11:30:13.015430+00:00",
   "articles": [
+    {
+      "id": "c869fe221a25",
+      "title": "LIVE MN - Allegri: \"Let's forget about what happened, we have to be focused on tomorrow. Gimenez is fine, he will be called up tomorrow\"",
+      "url": "https://www.milannews.it/primo-piano/live-mn-allegri-lasciamo-perdere-quello-che-e-successo-dobbiamo-essere-concentrati-su-domani-gimenez-sta-bene-domani-sara-convocato-611242",
+      "source": "milannews.it",
+      "date": "2026-03-20T11:22:00+00:00",
+      "summary": "Friends of MilanNews.it, welcome back."
+    },
+    {
+      "id": "a7bffd27b9ce",
+      "title": "Gimenez returns, Allegri: \"He's fine, he'll be called up tomorrow\"",
+      "url": "https://www.milannews.it/news/torna-gimenez-allegri-sta-bene-domani-sara-convocato-611245",
+      "source": "milannews.it",
+      "date": "2026-03-20T11:20:00+00:00",
+      "summary": "These are the statements of Massimiliano Allegri during the press conference towards Milan-Turin."
+    },
+    {
+      "id": "2bd5983fb01c",
+      "title": "Official: Tomori returns to England squad but ‘benefits’ from Chelsea defender’s injury",
+      "url": "https://football-italia.net/tomori-returns-england-tuchel-chelsea-injury/",
+      "source": "football-italia.net",
+      "date": "2026-03-20T11:15:18+00:00",
+      "summary": "Fikayo Tomori has been included in the England squad for friendly games in March, but..."
+    },
+    {
+      "id": "507a11826aab",
+      "title": "Allegri praises Modric: \"He has a passion and love for what he does that is incredible\"",
+      "url": "https://www.milannews.it/news/allegri-elogia-modric-ha-una-passione-e-un-amore-per-quello-che-fa-e-incredibile-611244",
+      "source": "milannews.it",
+      "date": "2026-03-20T11:10:00+00:00",
+      "summary": "These are the statements of Massimiliano Allegri during the press conference towards Milan-Turin.\n\nLuka Modric brought his 2018 Ballon d'Or to Casa Milan."
+    },
+    {
+      "id": "868f421c42dd",
+      "title": "‘I turned down Milan for Bolton’ – Dzemaili recalls ‘stupid’ Premier League decision",
+      "url": "https://sempremilan.com/i-turned-down-milan-for-bolton-dzemaili-recalls",
+      "source": "sempremilan.com",
+      "date": "2026-03-20T11:05:00+00:00",
+      "summary": "Blerim Dzemaili is a name known to Serie A fans, given he spent almost 10 years representing different clubs. However, he never represented AC Milan, which haunts him. The lure of the Premier League is substantial, and for many, it is the pinnacle of football, at least in a club sense. Nevertheless,"
+    },
+    {
+      "id": "3cba7fe4a292",
+      "title": "Scaroni: \"The new stadium can generate over 4.5 billion in economic impact during the construction phase and over 3 billion per year when fully operational\"",
+      "url": "https://www.milannews.it/news/scaroni-il-nuovo-stadio-puo-generare-oltre-4-5-miliardi-di-impatto-economico-nella-fase-di-costruzione-e-oltre-3-miliardi-all-anno-a-regime-611239",
+      "source": "milannews.it",
+      "date": "2026-03-20T11:01:37+00:00",
+      "summary": "Paolo Scaroni, Rossoneri president, returned to talk about the new stadium that Milan will build with Inter and he did so during the Milanese stage of \"Motore Italia\", the Milano Finanza roadshow."
+    },
+    {
+      "id": "37fdd6aecc67",
+      "title": "Simone on Milan-Turin: \"Rossoneri favourites, I think they will prevail\"",
+      "url": "https://www.milannews.it/gli-ex/simone-su-milan-torino-rossoneri-favoriti-credo-che-avranno-la-meglio-611231",
+      "source": "milannews.it",
+      "date": "2026-03-20T10:50:09+00:00",
+      "summary": "Interviewed by Tuttosport, former Rossoneri striker Marco Simone spoke like this about tomorrow's match at San Siro between Milan and Torino: \"Torino, in my eyes, will never be a second-tier team, they maintain that coat of arms..."
+    },
+    {
+      "id": "96dc79610e9a",
+      "title": "Trevisani: \"Milan play badly, but Allegri is guaranteed to end up in the top 4, just as he is almost guaranteed to play badly\"",
+      "url": "https://www.milannews.it/news/trevisani-il-milan-gioca-male-ma-allegri-e-garanzia-di-fare-alla-fine-top-4-cosi-come-e-quasi-una-garanzia-di-giocare-male-611216",
+      "source": "milannews.it",
+      "date": "2026-03-20T10:40:25+00:00",
+      "summary": "Riccardo Trevisani, journalist, expressed himself as follows to Cronache di Spogliatoio on the championship: \"Napoli have 0 chances for the Scudetto, but yes, there is a chance for second place."
+    },
+    {
+      "id": "a4334a8a22df",
+      "title": "GdS: ‘Modric’s heart at Milan’ – agreement in place for exhibition to stay on one condition",
+      "url": "https://sempremilan.com/modric-heart-milan-exhibition-agreement-in-place",
+      "source": "sempremilan.com",
+      "date": "2026-03-20T10:40:00+00:00",
+      "summary": "Since the first weeks of his arrival, AC Milan have been clear: they want Luka Modric to stay, and after the opening of his exhibition, those hopes have been added to.  The future of Milan and Modric is a difficult one to assess. Ultimately, very little has filtered out about his future. All that is"
+    },
     {
       "id": "c699477d26f3",
       "title": "Can Gimenez help out in this season finale? Simone: \"It could be an important resource\"",
@@ -146,54 +218,6 @@
       "summary": "In the interview given to Tuttosport, Marco Simone, former AC Milan striker, spoke thus about Rafael Leao, Chrstian Pulisic and Santiago Gimenez: \"What does Leao want to do when he grows up? This makes me smile... My opinion on Leao ..."
     },
     {
-      "id": "6dd3116c44cf",
-      "title": "Milan, Rabiot is back against Torino. Ricci-Fofana ballot",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-riecco-rabiot-contro-il-torino-ballottaggio-ricci-fofana-611223",
-      "source": "milannews.it",
-      "date": "2026-03-20T08:09:57+00:00",
-      "summary": "In the Milan that will face Torino at San Siro tomorrow there will be an important return in the middle of the pitch where Adrien Rabiot, absent last Sunday against Lazio due to suspension, will be seen again."
-    },
-    {
-      "id": "a472fad23b8c",
-      "title": "CorSport: \"Treasury loans: over 100 million potential for the new market\"",
-      "url": "https://www.milannews.it/rassegna-stampa/corsport-tesoro-prestiti-oltre-100-milioni-potenziali-per-il-nuovo-mercato-611225",
-      "source": "milannews.it",
-      "date": "2026-03-20T07:59:03+00:00",
-      "summary": "The Corriere dello Sport on newsstands this morning has the following headline on Milan: \"Loan treasure: over 100 million potential for the new market\"."
-    },
-    {
-      "id": "3958c1e5be76",
-      "title": "Milan, comforting news from Loftus-Cheek: the Englishman aims to be available again in Naples",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-notizie-confortanti-da-loftus-cheek-l-inglese-punta-a-tornare-a-disposizione-a-napoli-611222",
-      "source": "milannews.it",
-      "date": "2026-03-20T07:50:02+00:00",
-      "summary": "As La Gazzetta dello Sport reported this morning, comforting news has arrived on the recovery of Ruben Loftus-Cheek, who was out of the match against Parma in which he suffered a fracture of the alveolar process of his jaw after a very hard blow ..."
-    },
-    {
-      "id": "a09e85c26536",
-      "title": "The QS headline: \"Baker's priority: Inter lock him up, Milan look for him\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-qs-titola-priorita-bomber-l-inter-lo-blinda-il-milan-lo-cerca-611220",
-      "source": "milannews.it",
-      "date": "2026-03-20T07:40:02+00:00",
-      "summary": "\"The bomber's priority: Inter are locking him up, Milan are looking for him\": this is the headline in the Quotidiano Sportivo this morning, which explains that the Nerazzurri are working to renew his contract and thus lock down Pio Esposito, while the Rossoneri ..."
-    },
-    {
-      "id": "9a5f99b86f81",
-      "title": "Towards Milan-Turin, Gazzetta: \"Bartesaghi is back on the wing. Allegri is thinking of Fullkrug to give weight to the attack\"",
-      "url": "https://www.milannews.it/rassegna-stampa/verso-milan-torino-gazzetta-in-fascia-riecco-bartesaghi-allegri-pensa-a-fullkrug-per-dare-peso-all-attacco-611221",
-      "source": "milannews.it",
-      "date": "2026-03-20T07:30:20+00:00",
-      "summary": "In view of Milan-Turin tomorrow at 6pm at San Siro, La Gazzetta dello Sport has this morning's headline on Max Allegri's possible choices: \"Bartesaghi is back on the flank."
-    },
-    {
-      "id": "22d823dacc67",
-      "title": "Tuttosport opens with the words of Marco Simone: \"Dear Toro, Milan wins\"",
-      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-apre-con-le-parole-di-marco-simone-caro-toro-vince-il-milan-611219",
-      "source": "milannews.it",
-      "date": "2026-03-20T07:20:12+00:00",
-      "summary": "Tuttosport on newsstands this morning opens on the front pages with the words of Marco Simone: \"Dear Toro, Milan wins\"."
-    },
-    {
       "id": "6b31e45f2fe8",
       "title": "Guaranteed relief vs. tempting fate: Milan’s worrying imbalance between halves",
       "url": "https://sempremilan.com/are-milan-first-half-scoring-statistics-worrying",
@@ -320,22 +344,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-19T13:12:23+00:00",
       "summary": "AC Milan will once again be backed by another big crowd on Saturday night as they look to bounce back with a win against Torino. Even though the defeat against Lazio at the Stadio Olimpico on Sunday night has dampened Milan’s dreams of catching Inter, the Rossoneri fans are not giving up on the team"
-    },
-    {
-      "id": "1b3fc1ce4249",
-      "title": "‘We had already closed a deal’ – Boban makes Milan revelation about Liverpool star Szoboszlai",
-      "url": "https://sempremilan.com/boban-milan-liverpool-szoboszlai-closed-deal",
-      "source": "sempremilan.com",
-      "date": "2026-03-19T12:45:00+00:00",
-      "summary": "Zvonimir Boban has once again claimed that AC Milan were very close to signing Dominik Szoboszlai, before he ended up on a different path to Liverpool. Szoboszlai first emerged as a reported target for Milan nearly six years ago. It was towards the end of the 2019-20 season under Stefano Pioli, who "
-    },
-    {
-      "id": "39a7973de3e2",
-      "title": "GdS: Milan considering Sassuolo star if exits materialise amid brilliant debut season",
-      "url": "https://sempremilan.com/milan-sassuolo-kone-exits-brilliant-season",
-      "source": "sempremilan.com",
-      "date": "2026-03-19T12:20:00+00:00",
-      "summary": "A new name has emerged on AC Milan’s radar as they assess potential midfield signings for the summer, a report claims. According to La Gazzetta dello Sport this morning, Massimiliano Allegri would like a new starting-calibre central defender and central midfielder, in addition of course to the big i"
     },
     {
       "id": "a07ee74a8f34",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-16T10:29:49+00:00",
       "summary": "Paolo Di Canio has taken a damning stance on Milan after their 1-0 loss against..."
-    },
-    {
-      "id": "d7fd74738ddb",
-      "title": "Costacurta: Leao was more angry at Pulisic than at substitution in Lazio 1-0 Milan",
-      "url": "https://football-italia.net/costacurta-leao-more-angry-at-pulisic-than-sub/",
-      "source": "football-italia.net",
-      "date": "2026-03-16T09:02:20+00:00",
-      "summary": "Rossoneri legend Alessandro Costacurta says that Rafael Leao was more angry at Christian Pulisic than..."
     }
   ]
 }
