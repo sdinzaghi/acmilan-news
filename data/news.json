@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-03-21T13:41:25.319186+00:00",
+  "lastUpdated": "2026-03-21T14:25:29.494757+00:00",
   "articles": [
     {
+      "id": "54351ea6f870",
+      "title": "Primavera, comeback draw against Juventus: 1-1 in Vinovo",
+      "url": "https://www.milannews.it/la-primavera/primavera-pareggio-in-rimonta-contro-la-juventus-a-vinovo-finisce-1-1-611343",
+      "source": "milannews.it",
+      "date": "2026-03-21T14:11:38+00:00",
+      "summary": "Giovanni Renna's Primavera drew 1-1 at Juventus. In Vinovo everything happens in the first half: the Bianconeri take the lead with Bellino, then Domnitei responds with a penalty."
+    },
+    {
+      "id": "41e68ba5ab0c",
+      "title": "Home solidity and worrying trends: All the key stats ahead of Milan vs. Torino",
+      "url": "https://sempremilan.com/all-key-stats-milan-torino-2025-2026",
+      "source": "sempremilan.com",
+      "date": "2026-03-21T14:10:00+00:00",
+      "summary": "The pressure is mounting on AC Milan, following the defeat last time out, and they will now need to get back to basics against Torino at San Siro.  The clash will be the 202nd meeting between Milan and Torino, with the Rossoneri only having faced Roma, Juventus and Inter more times in their history."
+    },
+    {
+      "id": "a249462a7868",
+      "title": "Premier League, extended price cap agreement for away sectors. AC Milan's proposal is being examined in Serie A",
+      "url": "https://www.milannews.it/news/premier-league-accordo-prolungato-per-il-tetto-al-prezzo-per-i-settori-ospiti-in-serie-a-al-vaglio-la-proposta-del-milan-611336",
+      "source": "milannews.it",
+      "date": "2026-03-21T14:00:00+00:00",
+      "summary": "In recent days, the Premier League clubs have extended the agreement that regulates the cap on the price of tickets for all away sectors in English stadiums for another two seasons."
+    },
+    {
+      "id": "b12b8b0117c8",
+      "title": "Serie A Liveblog: Juventus vs. Sassuolo, Milan vs. Torino, Parma vs. Cremonese",
+      "url": "https://football-italia.net/serie-a-live-juventus-sassuolo-milan-torino/",
+      "source": "football-italia.net",
+      "date": "2026-03-21T13:58:43+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "119c5c108b43",
+      "title": "Adani: \"When Leao had to make the leap in quality there was a decrease\"",
+      "url": "https://www.milannews.it/news/adani-nel-momento-in-cui-leao-doveva-fare-il-salto-di-qualita-c-e-stata-una-decrescita-611335",
+      "source": "milannews.it",
+      "date": "2026-03-21T13:48:01+00:00",
+      "summary": "Difficult season for Rafa Leao, today in the pits due to the usual groin pain. The Portuguese is often at the center of criticism despite the fact that, even in an unlucky year like this, he is Milan's top scorer while also playing out of position."
+    },
+    {
       "id": "eb90443945c9",
-      "title": "Watch: “I think we might collapse” – Score predictions for Milan vs. Torino",
+      "title": "Watch: “I think we might collapse” – Score predictions for Milan-Torino",
       "url": "https://sempremilan.com/might-collapse-score-predictions-milan-torino",
       "source": "sempremilan.com",
       "date": "2026-03-21T13:40:00+00:00",
@@ -39,7 +79,7 @@
       "url": "https://www.milannews.it/gli-ex/reijnders-in-calo-al-city-l-olandese-e-lontano-dal-livello-mostrato-al-milan-611331",
       "source": "milannews.it",
       "date": "2026-03-21T13:12:00+00:00",
-      "summary": "His experience started off well, only to decline. We are talking about Tijjani Reijnders: the former AC Milan midfielder, now at Manchester City, is experiencing a negative period with the Citizens shirt."
+      "summary": "His experience started well, only to decline. We are talking about Tijjani Reijnders: the former AC Milan midfielder, now at Manchester City, is experiencing a negative period with the Citizens shirt."
     },
     {
       "id": "5ec43068f716",
@@ -48,14 +88,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-21T13:10:00+00:00",
       "summary": "Tonight’s game against Torino is a must-win for AC Milan and as always, there are a couple of individual battles that, if won, could make life a whole lot easier for the Rossoneri.  The defeat to Lazio certainly brought the Scudetto ambitions to a halt for Milan, now even leapfrogged by Napoli after"
-    },
-    {
-      "id": "b12b8b0117c8",
-      "title": "Serie A Liveblog: Juventus vs. Sassuolo, Milan vs. Torino, Parma vs. Cremonese",
-      "url": "https://football-italia.net/serie-a-live-juventus-sassuolo-milan-torino/",
-      "source": "football-italia.net",
-      "date": "2026-03-21T13:06:43+00:00",
-      "summary": "{rsn-live-v2}"
     },
     {
       "id": "e611a7628777",
@@ -95,7 +127,7 @@
       "url": "https://www.milannews.it/news/croazia-i-convocati-per-le-amichevoli-contro-colombia-e-brasile-c-e-modric-611339",
       "source": "milannews.it",
       "date": "2026-03-21T12:35:37+00:00",
-      "summary": "In view of the summer World Cup, Croatia will face two friendly matches in the next few days, against Colombia and Brazil. Coach Dalic has released the list of players called up and obviously Luka Modric is also there."
+      "summary": "In view of the summer World Cup, Croatia will play two friendly matches in the next few days, against Colombia and Brazil. Coach Dalic has released the list of players called up and obviously Luka Modric is also there."
     },
     {
       "id": "5845e8c1dc35",
@@ -226,36 +258,12 @@
       "summary": "Massimiliano Allegri is expected to make three changes to the starting XI for tonight’s game between AC Milan and Torino, with one big rotation up front.  Milan need to bounce back with a win tonight, following the disappointing defeat against Lazio, but it won’t be an easy task as Torino have been "
     },
     {
-      "id": "9a9afa430ff3",
-      "title": "Towards Milan-Turin, the last of the lineup: mandatory defense for Allegri",
-      "url": "https://www.milannews.it/news/verso-milan-torino-le-ultime-di-formazione-difesa-obbligata-per-allegri-611313",
-      "source": "milannews.it",
-      "date": "2026-03-21T10:12:00+00:00",
-      "summary": "This afternoon Milan will host Torino at San Siro. The Rossoneri's objective is to get closer to Inter and at the same time respond to Napoli."
-    },
-    {
-      "id": "310d0ea05bee",
-      "title": "Milan, pay attention to Zapata: the Colombian's numbers need to be monitored",
-      "url": "https://www.milannews.it/l-avversario/milan-attenzione-a-zapata-i-numeri-del-colombiano-sono-da-monitorare-611325",
-      "source": "milannews.it",
-      "date": "2026-03-21T10:00:00+00:00",
-      "summary": "This evening Milan will challenge Torino at San Siro. Among the Granata, pay attention to Duvan Zapata."
-    },
-    {
       "id": "9fd59e3c92c7",
       "title": "Tuttosport: Modric and Tare spotted having dinner as Milan push for the renewal",
       "url": "https://sempremilan.com/tuttosport-modric-tare-dinner-milan-renewal",
       "source": "sempremilan.com",
       "date": "2026-03-21T09:50:00+00:00",
       "summary": "Igli Tare and Luka Modric reportedly had dinner together on Thursday evening, with AC Milan hoping that the veteran will agree to a renewal in the coming months.  It has been a tremendous season for Modric so far, not only racking up 27 league games from start, but also making a difference for the R"
-    },
-    {
-      "id": "4a3b496ab8cd",
-      "title": "Milan must dispel the San Siro taboo: negative numbers against medium-small teams",
-      "url": "https://www.milannews.it/news/il-milan-deve-sfatare-il-tabu-san-siro-numeri-negativi-contro-le-squadre-medio-piccole-611318",
-      "source": "milannews.it",
-      "date": "2026-03-21T09:48:00+00:00",
-      "summary": "This afternoon Milan will host Torino at San Siro, and the Rossoneri will have to dispel this taboo."
     },
     {
       "id": "bdeece454741",
@@ -352,14 +360,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-20T16:30:00+00:00",
       "summary": "Gerry Cardinale doesn’t speak to the media often, but ahead of the Derby della Madonnina, he spoke to a journalist about the game and his time working with AC Milan so far. There are few figures more polarising than Cardinale in the Milan space. The American has certainly had a difficult time since "
-    },
-    {
-      "id": "2395e743d12d",
-      "title": "Opposition insight for Milan-Torino: Form, injuries, predicted XI and more",
-      "url": "https://sempremilan.com/opposition-insight-milan-torino-25-26",
-      "source": "sempremilan.com",
-      "date": "2026-03-20T16:00:00+00:00",
-      "summary": "AC Milan host Torino at San Siro tomorrow night, and their opponents do not come into this game looking vulnerable. Indeed, they will be ready for the challenge. This morning, Massimiliano Allegri spoke about this weekend’s game emphasising that his side needs to focus if they want to qualify for th"
     },
     {
       "id": "285a20825a80",
