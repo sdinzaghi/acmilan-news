@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-03-20T23:27:18.717601+00:00",
+  "lastUpdated": "2026-03-21T01:52:40.847299+00:00",
   "articles": [
+    {
+      "id": "89fc5da933e5",
+      "title": "Order: \"Milan would have been enough to score six points against Parma...\"",
+      "url": "https://www.milannews.it/news/ordine-al-milan-sarebbe-bastato-fare-sei-punti-con-il-parma-611296",
+      "source": "milannews.it",
+      "date": "2026-03-21T00:00:00+00:00",
+      "summary": "AC Milan is preparing to face Torino on the 30th matchday of the Enilive Serie A championship: yet the defeat suffered at the Olimpico against Lazio six days ago is still fresh in the memory, which is why the g ..."
+    },
+    {
+      "id": "61cfbdc74cdf",
+      "title": "Simone: \"For me Simeone and Zapata could play for today's Milan\"",
+      "url": "https://www.milannews.it/gli-ex/simone-per-me-simeone-e-zapata-potrebbero-giocare-nel-milan-di-oggi-611232",
+      "source": "milannews.it",
+      "date": "2026-03-20T23:50:52+00:00",
+      "summary": "Marco Simone, former Rossoneri striker, commented on Milan's match against Torino tomorrow as follows: \"Torino, in my eyes, will never be a second-tier team, they maintain that historic coat of arms that will never be ..."
+    },
+    {
+      "id": "12fa9c0233cc",
+      "title": "Pellegatti: \"Allegri has already informed the managers on what type of players should be included in the future Milan\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pellegatti-allegri-ha-gia-informato-i-dirigenti-su-quale-debba-essere-la-tipologia-dei-giocatori-da-inserire-nel-futuro-milan-611199",
+      "source": "milannews.it",
+      "date": "2026-03-20T23:40:53+00:00",
+      "summary": "During his editorial for MilanNews."
+    },
+    {
+      "id": "56a1dc3f37dd",
+      "title": "Turin: D'Aversa: \"Three games don't erase the past\"",
+      "url": "https://www.milannews.it/news/torino-d-aversa-tre-partite-non-cancellano-il-passato-611290",
+      "source": "milannews.it",
+      "date": "2026-03-20T23:30:00+00:00",
+      "summary": "(ANSA) - TURIN, MARCH 20 - \"We must not transform enthusiasm into euphoria, we haven't done anything yet: three matches don't erase the past and we still have to reach our goal\": thus Torino coach Roberto D& ..."
+    },
     {
       "id": "222332ccb6e0",
       "title": "Liberali and the relationship with Camarda: \"We talk often, I met him recently\"",
@@ -130,44 +162,12 @@
       "summary": "Duván Zapata has scored eight goals against Milan in Serie A - only against Sassuolo has he done better (10) - including those in the last three meetings of the competition (May and August 2024, as well as December 2025); only three players in ..."
     },
     {
-      "id": "ad2b8aa3644b",
-      "title": "Padovano: \"Leao is a man who scores 20 goals a year and never scores them: he must be angry with himself\"",
-      "url": "https://www.milannews.it/news/padovano-leao-e-uomo-da-20-gol-l-anno-e-non-li-fa-mai-deve-essere-arrabbiato-con-se-stesso-611292",
-      "source": "milannews.it",
-      "date": "2026-03-20T20:30:00+00:00",
-      "summary": "Rafael Leao does not stop causing discussion, even after his absence for the match against Torino on Saturday at 6pm was announced."
-    },
-    {
       "id": "1a401fe280c7",
       "title": "Milan owner Cardinale has big plans for Serie A: ‘Let’s make it one of Italy’s greatest exports’",
       "url": "https://football-italia.net/milan-owner-cardinale-big-plans-for-serie-a/",
       "source": "football-italia.net",
       "date": "2026-03-20T20:21:45+00:00",
       "summary": "Gerry Cardinale has outlined an ambitious vision for Italian football, expressing his desire to meet..."
-    },
-    {
-      "id": "22df19f1759c",
-      "title": "Liberali and the adventure in Catanzaro: \"It's going well, I hope to continue like this\"",
-      "url": "https://www.milannews.it/news/liberali-e-l-avventura-a-catanzaro-sta-andando-bene-spero-di-continuare-cosi-611264",
-      "source": "milannews.it",
-      "date": "2026-03-20T20:20:00+00:00",
-      "summary": "Mattia Liberali, interviewed by GOAL, spoke like this about his experience at Catanzaro. This is an extract from the statements of the player on loan from Milan: “From my personal point of view it is going very well."
-    },
-    {
-      "id": "746b4b16578b",
-      "title": "Bianchin: \"Modric once again seemed the most determined against Lazio and this is not normal\"",
-      "url": "https://www.milannews.it/news/bianchin-modric-e-sembrato-ancora-una-volta-il-piu-determinato-contro-la-lazio-e-questo-non-e-normale-611192",
-      "source": "milannews.it",
-      "date": "2026-03-20T20:10:42+00:00",
-      "summary": "Luca Bianchin, journalist, expressed himself as follows in La Gazzetta dello Sport about Milan: \"Sometimes they apply a writing on the rear-view mirrors: “The objects in the mirrors are closer than they appear” ..."
-    },
-    {
-      "id": "901d83e51958",
-      "title": "MN - Dalla Bona in defense of Leao: \"He made a mistake in Rome, but it could also have been a positive signal to continue playing and bring about something good\".",
-      "url": "https://www.milannews.it/news/mn-dalla-bona-a-difesa-di-leao-a-roma-ha-sbagliato-poteva-pero-anche-essere-un-segnale-positivo-per-continuare-a-giocare-e-determinare-qualcosa-di-buo-611275",
-      "source": "milannews.it",
-      "date": "2026-03-20T20:00:00+00:00",
-      "summary": "The journalist Alessandro Schiavone has interviewed the former AC Milan player Samuele Dalla Bona exclusively for MilanNews.it."
     },
     {
       "id": "03b5346c0431",
