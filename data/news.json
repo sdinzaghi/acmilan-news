@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-03-21T20:25:28.385871+00:00",
+  "lastUpdated": "2026-03-21T21:23:55.952347+00:00",
   "articles": [
+    {
+      "id": "9125ba8e7f1f",
+      "title": "Brocchi: \"Fofana is completing himself. You can see that he is keen to take this step forward\"",
+      "url": "https://www.milannews.it/news/brocchi-fofana-si-sta-completando-si-vede-che-ci-tiene-a-fare-questo-step-in-avanti-611409",
+      "source": "milannews.it",
+      "date": "2026-03-21T21:11:00+00:00",
+      "summary": "Positive performance from Fofana, with a goal, after the Frenchman, in an interview with L'Equipe, had confessed to \"suffering\" playing out of position."
+    },
+    {
+      "id": "cd98d2afeb6d",
+      "title": "Milan today and a year ago, the ranking on matchday 30: +16 for Max Allegri",
+      "url": "https://www.milannews.it/news/milan-oggi-e-un-anno-fa-la-classifica-alla-30-giornata-16-per-max-allegri-611403",
+      "source": "milannews.it",
+      "date": "2026-03-21T21:00:45+00:00",
+      "summary": "With this evening's victory, the Rossoneri move back into second place in the standings and reach 63 points."
+    },
+    {
+      "id": "db2343bf57f6",
+      "title": "After the break Napoli, Allegri: \"It will be a beautiful evening of football and sport, the second against the third in the table\"",
+      "url": "https://www.milannews.it/news/dopo-la-sosta-il-napoli-allegri-sara-una-bella-serata-di-calcio-e-di-sport-la-seconda-contro-la-terza-in-classifica-611412",
+      "source": "milannews.it",
+      "date": "2026-03-21T20:48:12+00:00",
+      "summary": "Milan wins against Torino and overtakes Napoli, who won against Cagliari yesterday. Mister Allegri, after the break, will find the team coached by Antonio Conte: this is his thoughts on Maradona's match on DAZN."
+    },
+    {
+      "id": "b12b8b0117c8",
+      "title": "Serie A Liveblog: Juventus vs. Sassuolo, Milan vs. Torino, Parma vs. Cremonese",
+      "url": "https://football-italia.net/serie-a-live-juventus-sassuolo-milan-torino/",
+      "source": "football-italia.net",
+      "date": "2026-03-21T20:39:43+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "91c9b51f0f4c",
+      "title": "Fofana-Pavlovic, short scene talking about the Eurogol. Youssouf: \"It's not luck, he shoots everywhere in training\"",
+      "url": "https://www.milannews.it/news/fofana-pavlovic-siparietto-parlando-dell-eurogol-youssouf-non-e-fortuna-in-allenamento-tira-dappertutto-611402",
+      "source": "milannews.it",
+      "date": "2026-03-21T20:35:59+00:00",
+      "summary": "Strahinja Pavlovic, scorer of a sensational goal, spoke to DAZN after the Milan-Turin match. His words:\n\n“Today I did everything, great goal, penalty… But today the MVP belongs to Fofana”."
+    },
+    {
+      "id": "a4c34385287a",
+      "title": "Milan 3-2 Torino – Pavlovic on ‘lucky’ goal; Fofana explains his celebration",
+      "url": "https://football-italia.net/milan-torino-pavlovic-lucky-fofana-celebration/",
+      "source": "football-italia.net",
+      "date": "2026-03-21T20:27:38+00:00",
+      "summary": "Strahinja Pavlovic and Youssouf Fofana were both in good spirits after Milan’s hard-fought victory over..."
+    },
     {
       "id": "096c92203390",
       "title": "Watch: “These wins are crucial” – Stefano’s instant reaction to AC Milan 3-2 Torino",
@@ -8,6 +56,14 @@
       "source": "sempremilan.com",
       "date": "2026-03-21T20:23:50+00:00",
       "summary": "Stefano recorded his reaction straight after the full-time whistle of AC Milan’s 3-2 win against Torino, praising the team for getting the necessary job done.  It started out as a rather nervy game for Milan, as they made many mistakes in the build-up and allowed Torino to create quite a lot of mome"
+    },
+    {
+      "id": "19521cf6dfe4",
+      "title": "Penalty Torino, Calvarese: \"We can't understand anything anymore. There isn't a single image that unequivocally demonstrates the contact\"",
+      "url": "https://www.milannews.it/news/rigore-torino-calvarese-ormai-non-si-capisce-piu-nulla-non-c-e-una-sola-immagine-che-dimostri-in-modo-inequivocabile-il-contatto-611407",
+      "source": "milannews.it",
+      "date": "2026-03-21T20:23:05+00:00",
+      "summary": "Big protests from Milan for the penalty awarded to Torino for an alleged blow by Pavlovic on Simeone."
     },
     {
       "id": "67b4093210ab",
@@ -43,7 +99,7 @@
     },
     {
       "id": "898209f39178",
-      "title": "LIVE MN - D'Aversa: \"Thanks to Maignan they brought home the victory: the numbers show us having done better than Milan\"",
+      "title": "LIVE MN - D'Aversa: \"Thanks to Maignan they bring home the victory: the numbers show us having done better than Milan\"",
       "url": "https://www.milannews.it/news/live-mn-d-aversa-per-merito-di-maignan-portano-la-vittoria-a-casa-i-numeri-ci-vedono-aver-fatto-meglio-del-milan-611390",
       "source": "milannews.it",
       "date": "2026-03-21T19:55:00+00:00",
@@ -99,19 +155,11 @@
     },
     {
       "id": "b0b5378a711d",
-      "title": "Allegri to Milan TV: \"Today, winning wasn't easy. However, this group is extraordinary and deserves applause.\"",
+      "title": "Allegri on Milan TV: \"Today, winning wasn't easy. However, this group is extraordinary and deserves applause.\"",
       "url": "https://www.milannews.it/news/allegri-a-milan-tv-oggi-vincere-non-era-facile-questo-gruppo-comunque-e-straordinario-e-merita-applausi-611393",
       "source": "milannews.it",
       "date": "2026-03-21T19:45:01+00:00",
       "summary": "After the Milan-Turin match, a match which saw the Rossoneri beat the Granata 3-2, Massimiliano Allegri spoke to Milan TV to comment on the performance of his players."
-    },
-    {
-      "id": "b12b8b0117c8",
-      "title": "Serie A Liveblog: Juventus vs. Sassuolo, Milan vs. Torino, Parma vs. Cremonese",
-      "url": "https://football-italia.net/serie-a-live-juventus-sassuolo-milan-torino/",
-      "source": "football-italia.net",
-      "date": "2026-03-21T19:41:43+00:00",
-      "summary": "{rsn-live-v2}"
     },
     {
       "id": "80b07156ae0a",
@@ -186,28 +234,12 @@
       "summary": "Hernanes analyzes Milan's victory against Torino on DAZN. After a decidedly bad first half, Allegri's team fired up in the second half with the switch to 4-3-3."
     },
     {
-      "id": "f9b16604cec9",
-      "title": "Milan wins despite VAR and returns to second place: the updated rankings",
-      "url": "https://www.milannews.it/news/il-milan-vince-nonostante-il-var-e-torna-al-secondo-posto-la-classifica-aggiornata-611385",
-      "source": "milannews.it",
-      "date": "2026-03-21T19:02:00+00:00",
-      "summary": "Despite a rather self-defeating first half and a refereeing class that was absolutely not up to the standard of Serie A, Milan returned to winning ways and overtook Napoli in the standings, regaining second place! With Torino it ends 3-2, Pav decides ..."
-    },
-    {
       "id": "c962f9bbe06a",
       "title": "Serie A | Milan 3-2 Torino – Player Ratings as Pavlovic & Rabiot instrumental for Rossoneri",
       "url": "https://football-italia.net/milan-torino-player-ratings-pavlovic-rabiot/",
       "source": "football-italia.net",
       "date": "2026-03-21T19:00:45+00:00",
       "summary": "Milan scored a quick fire double early into the second half to secure a 3-2..."
-    },
-    {
-      "id": "632b14b16da0",
-      "title": "Serie A, Milan-Turin 3-2: the match scoreboard",
-      "url": "https://www.milannews.it/i-tabellini/serie-a-milan-torino-3-2-il-tabellino-del-match-611384",
-      "source": "milannews.it",
-      "date": "2026-03-21T19:00:00+00:00",
-      "summary": "This is the scoreboard for Milan-Turin, a match valid for the thirtieth matchday of Serie A.\n\nMILAN-TORINO 3-2\nScorers: 37' Pavlovic, 44' Simeone, 54' Rabiot, 56' Fofana, 83' Vlasic."
     },
     {
       "id": "488cca1f9fa9",
@@ -224,30 +256,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-21T18:57:05+00:00",
       "summary": "AC Milan played out a game of two halves at San Siro on Saturday evening, as they beat Torino 3-2. However, it was not a performance without flaws… Massimiliano Allegri has certainly not had the easiest week of preparation, given he has had to firefight a situation between Christian Pulisic and Rafa"
-    },
-    {
-      "id": "488b170d62df",
-      "title": "LIVE MN - Milan-Turin (3-2): IT'S OVER! The Devil beats the Bull and regains second place",
-      "url": "https://www.milannews.it/primo-piano/live-mn-milan-torino-3-2-e-finita-il-diavolo-batte-il-toro-e-si-riprende-il-secondo-posto-611357",
-      "source": "milannews.it",
-      "date": "2026-03-21T18:57:00+00:00",
-      "summary": "90' + 5' | IT'S OVER! Milan returns to victory after the defeat in Rome and regains second place. \n\n90' + 5' | Santiago Gimenez is booked for stopping Saul Coco's counterattack."
-    },
-    {
-      "id": "d37e624a9f13",
-      "title": "MIL-TOR (3-2): last substitution for Allegri, Odogu on",
-      "url": "https://www.milannews.it/news/mil-tor-3-2-ultimo-cambio-per-allegri-dentro-odogu-611383",
-      "source": "milannews.it",
-      "date": "2026-03-21T18:51:50+00:00",
-      "summary": "Allegri runs for cover and in injury time returns to five behind: Saelemaekers comes out and the young Odogu comes in, who goes on to play the right-hander."
-    },
-    {
-      "id": "c2f9715573e4",
-      "title": "Turin penalty, Allegri snaps at Doveri: \"I try to stay calm but you make me lose my desire. I'll stop coaching\"",
-      "url": "https://www.milannews.it/news/rigore-torino-allegri-sbotta-con-doveri-io-ci-provo-a-stare-calmo-ma-cosi-mi-fate-passare-la-voglia-io-smetto-di-allenare-611382",
-      "source": "milannews.it",
-      "date": "2026-03-21T18:46:49+00:00",
-      "summary": "\"I try to stay calm but you make me lose my desire. I'll stop training.\""
     },
     {
       "id": "ced9993bb8b6",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-19T09:51:14+00:00",
       "summary": "La Gazzetta dello Sport reports that Milan are ready to offer Leon Goretzka a €5m-a-year..."
-    },
-    {
-      "id": "34e71ad68447",
-      "title": "Today’s Papers – Big Milan market, Tonali anxiety for Italy",
-      "url": "https://football-italia.net/todays-papers-big-milan-market-tonali-injury/",
-      "source": "football-italia.net",
-      "date": "2026-03-19T08:26:27+00:00",
-      "summary": "La Gazzetta dello Sport Chivu and Spalletti move Inter, assault on Vicario Juve, Kolo with..."
     }
   ]
 }
