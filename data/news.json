@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-03-22T16:29:06.276074+00:00",
+  "lastUpdated": "2026-03-22T17:24:26.671327+00:00",
   "articles": [
+    {
+      "id": "22bd9a6a22da",
+      "title": "Another record for Allegri's Milan, this time concerning defeats in the first 30 matchdays",
+      "url": "https://www.milannews.it/news/altro-record-del-milan-di-allegri-questa-volta-riguarda-le-sconfitte-nelle-prime-30-giornate-611473",
+      "source": "milannews.it",
+      "date": "2026-03-22T17:12:06+00:00",
+      "summary": "As reported by Opta, with the Rossoneri's 3-2 victory over Torino, Milan reached a record that until now belonged to Ancelotti."
+    },
+    {
+      "id": "176b42204439",
+      "title": "Lent is fine, but this goal fast is scary. The blame is all on Leao, but his teammates do much worse",
+      "url": "https://www.milannews.it/primo-piano/va-bene-la-quaresima-ma-questo-digiuno-da-gol-fa-spavento-la-croce-e-tutta-su-leao-pero-i-compagni-di-reparto-fanno-decisamente-peggio-611489",
+      "source": "milannews.it",
+      "date": "2026-03-22T17:00:00+00:00",
+      "summary": "It's Lent time, okay. But the Rossoneri attackers' lack of goals is difficult to explain."
+    },
+    {
+      "id": "31ddcd95c286",
+      "title": "Milan Futuro 2-2 Nuova Sondrio: Lead surrendered twice in frustrating draw",
+      "url": "https://sempremilan.com/milan-futuro-2-2-nuova-sondrio-match-report",
+      "source": "sempremilan.com",
+      "date": "2026-03-22T17:00:00+00:00",
+      "summary": "Milan Futuro twice led against Nuova Sondrio at the Stadio Felice Chinetti in Solbiate Arno, but were forced to settle for a 2-2 draw. The Futuro got back to winning ways last Sunday afternoon as they edged past Oltrepò BFC 1-0 thanks to a second half goal from winter signing Jacopo Sardo. That mean"
+    },
+    {
+      "id": "1d60c430f9b0",
+      "title": "Oddo after the draw against Nuova Sondrio: \"The team played a very good match. We would have deserved the victory\"",
+      "url": "https://www.milannews.it/milan-futuro/oddo-dopo-il-pari-con-la-nuova-sondrio-la-squadra-ha-fatto-una-buonissima-partita-avremmo-meritato-la-vittoria-611493",
+      "source": "milannews.it",
+      "date": "2026-03-22T16:48:40+00:00",
+      "summary": "After the Milan Futuro-Nuova Sondrio match, a match which the Rossoneri won with a 2-2 draw, coach Massimo Oddo spoke to Milan TV to comment on the performance of his players."
+    },
+    {
+      "id": "f44549f4299d",
+      "title": "Serie A: the updated standings after the afternoon matches",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-dopo-le-gare-del-pomeriggio-611491",
+      "source": "milannews.it",
+      "date": "2026-03-22T16:36:46+00:00",
+      "summary": "This afternoon in Serie A, Lazio continued their victory against Milan by beating Bologna away, while Atalanta narrowly beat Hellas Verona thanks to Zappacosta's goal."
+    },
+    {
+      "id": "f2c4e2298b36",
+      "title": "Photos: Milan players react to Torino win on social media – “Back on track!”",
+      "url": "https://sempremilan.com/social-media-reaction-milan-3-2-torino",
+      "source": "sempremilan.com",
+      "date": "2026-03-22T16:30:00+00:00",
+      "summary": "AC Milan came out on top in a five-goal thriller at San Siro on Saturday night, moving back second in the Serie A table. After a poor start from Milan, Strahinja Pavlovic broke the deadlock with a looping shot from 30 yards that went in off the crossbar. Simeone equalised, but Adrien Rabiot and Yous"
+    },
+    {
+      "id": "e9a27529d3c2",
+      "title": "Serie A: Lazio also wins in Bologna, Zappacosta is enough for Atalanta",
+      "url": "https://www.milannews.it/news/serie-a-la-lazio-vince-anche-a-bologna-all-atalanta-basta-zappacosta-611490",
+      "source": "milannews.it",
+      "date": "2026-03-22T16:24:13+00:00",
+      "summary": "This Sunday afternoon in Serie A, two very important matches were played for the balance of the championship."
+    },
     {
       "id": "2398119d1ab5",
       "title": "Milan, at San Siro against Torino it's always a victory: incredible numbers for the Rossoneri in Serie A",
@@ -162,14 +218,6 @@
       "summary": "Journalist Matteo Moretto spoke on his YouTube channel about Milan's possible choices in the summer."
     },
     {
-      "id": "1695ec273dfc",
-      "title": "Serie A, the updated ranking: Como wins and leads Juventus",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-como-vince-e-stacca-la-juve-611481",
-      "source": "milannews.it",
-      "date": "2026-03-22T13:36:00+00:00",
-      "summary": "Below is the updated Serie A standings after Como-Pisa:\n\nSERIES A, THE UPDATED RANKING\n\nInter 68\nMilan 63\nNaples 62\nComo 57\nJuventus 54\nRome 51\nAtalanta 47\nBologna 42\nLazio 40\nUdinese 39\nSassuolo 39\nParma 34\nGeno..."
-    },
-    {
       "id": "15dd93d1d8b9",
       "title": "MN: Pressure and peace – three reasons why Milan’s win over Torino was vital",
       "url": "https://sempremilan.com/three-reasons-milan-torino-win-vital",
@@ -178,44 +226,12 @@
       "summary": "AC Milan were perhaps not at their best in certain aspects of their performance against Torino, but the result was vital. Milan managed to get over the line against a Torino side that actually came out on top in a few different statistics. Strahinja Pavlovic opened the scoring with a beautiful goal "
     },
     {
-      "id": "e57944ce42c7",
-      "title": "Serie A, Fabregas' Como overwhelming 5-0 over Pisa",
-      "url": "https://www.milannews.it/news/serie-a-il-como-di-fabregas-travolgente-5-0-sul-pisa-611482",
-      "source": "milannews.it",
-      "date": "2026-03-22T13:24:00+00:00",
-      "summary": "A clear victory for Como, which overcomes the weak obstacle Pisa 5-0. For Fabregas' team Diao and Douvikas scored in the first half."
-    },
-    {
-      "id": "18c90c7c3047",
-      "title": "Ravezzani asks himself: “Milan at +9 on Juventus, but is there all this difference on paper?”",
-      "url": "https://www.milannews.it/news/ravezzani-si-chiede-milan-a-9-sulla-juventus-ma-c-e-tutta-questa-differenza-sulla-carta-611449",
-      "source": "milannews.it",
-      "date": "2026-03-22T13:12:45+00:00",
-      "summary": "On the QSVS YouTube channel, director Fabio Ravezzani commented post-match on the Rossoneri's victory over Torino."
-    },
-    {
       "id": "88842f3c8cb1",
       "title": "Defensa Central: Aston Villa join Milan and Chelsea in race for Lazio star – €30m bid ready",
       "url": "https://sempremilan.com/aston-villa-chelsea-milan-inter-gila-lazio",
       "source": "sempremilan.com",
       "date": "2026-03-22T13:10:00+00:00",
       "summary": "AC Milan face Premier League competition if they are to complete the signing of Mario Gila from Lazio, a report claims. Milan have been linked with a move for Gila for months now, hoping to leverage the fact that sporting director Igli Tare knows the Spaniard well having brought him to Lazio from Re"
-    },
-    {
-      "id": "09ca65dd5d82",
-      "title": "Serie D, the official lineups of Milan Futuro-Nuova Sondrio",
-      "url": "https://www.milannews.it/milan-futuro/serie-d-le-formazioni-ufficiali-di-milan-futuro-nuova-sondrio-611480",
-      "source": "milannews.it",
-      "date": "2026-03-22T13:00:00+00:00",
-      "summary": "Below are the official lineups of Milan Futuro-Nuova Sondrio, match valid for the 28th matchday of Serie D\n\nTHE OFFICIAL LINEUPS\n\nMILAN FUTURE - Torriani, Cappelletti, Karaca, Sala, Vladimirov, Zukic, Branca, Geroli, Magrassi, Sardo, Tr ..."
-    },
-    {
-      "id": "c3a17e781fd8",
-      "title": "Maignan is also a leader on social media: “Together” is the post-match comment",
-      "url": "https://www.milannews.it/news/maignan-leader-anche-sui-social-insieme-e-il-commento-post-partita-611460",
-      "source": "milannews.it",
-      "date": "2026-03-22T12:48:18+00:00",
-      "summary": "Performance once again as a true leader and as a great goalkeeper, always ready when called into action despite the bad luck on the first goal conceded due to a carom born between Mike and the post which in the end served Simeone the most sem..."
     },
     {
       "id": "4890ffe3aca3",
@@ -328,22 +344,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-21T20:23:50+00:00",
       "summary": "Stefano recorded his reaction straight after the full-time whistle of AC Milan’s 3-2 win against Torino, praising the team for getting the necessary job done.  It started out as a rather nervy game for Milan, as they made many mistakes in the build-up and allowed Torino to create quite a lot of mome"
-    },
-    {
-      "id": "d426aa139cc9",
-      "title": "Pavlovic discusses ‘lucky’ goal and unfortunate penalty incident: “It’s not luck”",
-      "url": "https://sempremilan.com/pavlovic-discuss-lucky-goal-unfortunate-penalty",
-      "source": "sempremilan.com",
-      "date": "2026-03-21T20:05:09+00:00",
-      "summary": "Although he gave away a penalty, Strahinja Pavlovic will not be too frustrated after scoring one of the goals of the season for AC Milan against Torino. This season, Pavlovic has established himself as one of the better forward-thinking defenders in Italy, perhaps even beyond that. Indeed, in the wi"
-    },
-    {
-      "id": "5ef0fbc288df",
-      "title": "Allegri discusses Pavlovic’s goal, ‘getting older’ and end of season challenges: “It was not easy”",
-      "url": "https://sempremilan.com/allegri-discusses-pavlovic-goal-and-end-of-season-challenges",
-      "source": "sempremilan.com",
-      "date": "2026-03-21T19:54:58+00:00",
-      "summary": "Massimiliano Allegri has spoken to the media after his AC Milan side beat Torino 3-2, in a slightly unconvincing manner. Another three points were added, though, which is what matters. It was certainly not a vintage Milan performance at San Siro on Saturday night. Indeed, there were plenty of moment"
     },
     {
       "id": "b32ad46bd008",
