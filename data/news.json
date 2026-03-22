@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-03-22T17:24:26.671327+00:00",
+  "lastUpdated": "2026-03-22T18:35:29.659658+00:00",
   "articles": [
+    {
+      "id": "5b74735b4987",
+      "title": "GdS: Fofana fixes three problems for Milan with one goal after intriguing comments",
+      "url": "https://sempremilan.com/fofana-fixes-three-problems-for-milan",
+      "source": "sempremilan.com",
+      "date": "2026-03-22T18:34:59+00:00",
+      "summary": "Among the stand-out performers in AC Milan’s win over Torino was Youssouf Fofana, who is justifying Massimiliano Allegri’s repeated faith. La Gazzetta dello Sport write that Fofana’s one goal ‘fixed three situations’. There are no ordinary goals in football, but Fofana’s was particularly significant"
+    },
+    {
+      "id": "c3ad5650d0d7",
+      "title": "Milan, Allegri like Ancelotti: Max equals a record dating back to 2004/2005",
+      "url": "https://www.milannews.it/news/milan-allegri-come-ancelotti-max-eguaglia-un-record-risalente-al-2004-2005-611486",
+      "source": "milannews.it",
+      "date": "2026-03-22T18:24:00+00:00",
+      "summary": "Milan won an important victory against Turin with a 3-2 at San Siro. The Rossoneri opened the scoring with Pavlović in the 36th minute, followed by goals from Rabiot and Fofana in the second half."
+    },
+    {
+      "id": "97faaf7acf01",
+      "title": "Penalty Pavlovic, Ravezzani: \"It was right to give it against Milan, just as I found the one given by Gimenez against Fiorentina was right\"",
+      "url": "https://www.milannews.it/news/rigore-pavlovic-ravezzani-giusto-darlo-contro-il-milan-cosi-come-avevo-trovato-giusto-quello-avuto-da-gimenez-con-la-fiorentina-611476",
+      "source": "milannews.it",
+      "date": "2026-03-22T18:12:00+00:00",
+      "summary": "Fabio Ravezzani, journalist and television director spoke like this on his \"X\" account After Milan-Turin 3-2."
+    },
+    {
+      "id": "c07842ee41ee",
+      "title": "550 times Luka Modric: the incredible goal achieved in Milan-Turin",
+      "url": "https://www.milannews.it/news/550-volte-luka-modric-l-incredibile-traguardo-raggiunto-in-milan-torino-611468",
+      "source": "milannews.it",
+      "date": "2026-03-22T18:00:00+00:00",
+      "summary": "As reported by Opta, with last night's ownership of Luka Modric, the irreplaceable maestro of the entire Rossoneri orchestra, he crossed the finish line of 550 appearances in the top 5 European championships: since his debut season in this ..."
+    },
+    {
+      "id": "749df8a64d3d",
+      "title": "AC Milan 3-2 Torino: Five things we learned – stepping in, stepping up and stealing the show",
+      "url": "https://sempremilan.com/ac-milan-3-2-torino-five-things-we-learned",
+      "source": "sempremilan.com",
+      "date": "2026-03-22T18:00:00+00:00",
+      "summary": "AC Milan ensured they will go into the final international break of the season in positive spirits after beating Torino at San Siro on Saturday night. Milan needed to bounce back after losing 1-0 to Lazio last weekend, and after a slow start against Torino the game burst into life as Strahinja Pavlo"
+    },
+    {
+      "id": "edaafc3c2393",
+      "title": "Borghi analyzes ahead of Napoli-Milan: “Rossoneri in decline, Napoli on the rise”",
+      "url": "https://www.milannews.it/news/borghi-analizza-in-vista-di-napoli-milan-rossoneri-in-flessione-napoli-in-ascesa-611447",
+      "source": "milannews.it",
+      "date": "2026-03-22T17:48:23+00:00",
+      "summary": "In his YouTube channel, Stefano Borghi commented on the next big match that will see the Rossoneri face Napoli."
+    },
+    {
+      "id": "05a1722bb3e0",
+      "title": "Pellegatti rejoices: “Dragged by Rabiot, architect of this victory”",
+      "url": "https://www.milannews.it/news/pellegatti-esulta-trascinati-da-rabiot-architetto-di-questa-vittoria-611450",
+      "source": "milannews.it",
+      "date": "2026-03-22T17:36:00+00:00",
+      "summary": "In the post-match of Milan-Turin, Carlo Pellegatti commented on the match as follows on his YouTube channel:\n\n\"Driven by a great Rabiot, the architect of this 3-2 victory over Torino."
+    },
+    {
+      "id": "2ccb56ce1f92",
+      "title": "Moretto: Serie A return likely for Kessie – ‘several big Italian clubs’ interested",
+      "url": "https://sempremilan.com/serie-a-return-likely-kessie-several-interested",
+      "source": "sempremilan.com",
+      "date": "2026-03-22T17:30:00+00:00",
+      "summary": "Franck Kessie could well return to Serie A in the summer, with ‘several big Italian clubs’ keen on signing him. Kessie was one of the stars of Milan’s rebirth under Stefano Pioli, one that culminated with the Scudetto win in 2021-22. His last action for the club was to score the third goal in the […"
+    },
+    {
+      "id": "5c01b48282e4",
+      "title": "MN - Serie A Women: the AC Milan Women's medical bulletin",
+      "url": "https://www.milannews.it/milan-femminile/mn-serie-a-women-il-bollettino-medico-del-milan-femminile-611495",
+      "source": "milannews.it",
+      "date": "2026-03-22T17:24:45+00:00",
+      "summary": "Milan Femminile is currently on the pitch against Como for the seventeenth matchday of Serie A Women. Below is the medical bulletin of the women's team with the currently injured players."
+    },
     {
       "id": "22bd9a6a22da",
       "title": "Another record for Allegri's Milan, this time concerning defeats in the first 30 matchdays",
@@ -147,19 +219,11 @@
     },
     {
       "id": "4f93573720a3",
-      "title": "Milan, Allegri admits: \"Protests over the penalty? I wouldn't want my heart to give in..\"",
+      "title": "Milan, Allegri admits: \"Protests about the penalty? I wouldn't want my heart to give in..\"",
       "url": "https://www.milannews.it/news/milan-allegri-ammette-proteste-sul-rigore-non-vorrei-che-il-cuore-cedesse-611466",
       "source": "milannews.it",
       "date": "2026-03-22T14:48:00+00:00",
-      "summary": "(ANSA) - MILAN, MARCH 21 - \"It's the heat of the moment. I'm starting to get on with age, I don't want my heart to give in."
-    },
-    {
-      "id": "b349f61547f4",
-      "title": "Pellegatti rejoices: “Perfect 3-2, Milan, very light penalty”",
-      "url": "https://www.milannews.it/news/pellegatti-esulta-sul-3-2-milan-perfetto-rigore-molto-leggero-611452",
-      "source": "milannews.it",
-      "date": "2026-03-22T14:36:01+00:00",
-      "summary": "In the post-match of Milan-Turin, Carlo Pellegatti commented on the match as follows on his YouTube channel:\n\n\"After the lead the game was on track, Milan were in control, then a lack of attention on the right wing allowed the ..."
+      "summary": "(ANSA) - MILAN, MARCH 21 - \"It's the heat of the moment. I'm starting to get ahead with age, I don't want my heart to give in."
     },
     {
       "id": "c37b0806eea8",
@@ -170,52 +234,12 @@
       "summary": "There was an important meeting between the AC Milan leadership regarding planning for the future, it is claimed. Milan immediately returned to winning ways on Saturday night at San Siro, beating Torino 3-2. It is a victory that allows Massimiliano Allegri and the entire team to head into the break w"
     },
     {
-      "id": "e2e9ae8056a9",
-      "title": "Ex Milan, Moretto confirms: \"Kessi is close to a return to Serie A, several big names interested\"",
-      "url": "https://www.milannews.it/gli-ex/ex-milan-moretto-conferma-kessie-vicino-a-un-ritorno-in-serie-a-diverse-big-interessate-611484",
-      "source": "milannews.it",
-      "date": "2026-03-22T14:24:00+00:00",
-      "summary": "Matteo Moretto, journalist and negotiation expert, spoke about the future of former Milan midfielder Franck Kessiè.\n\n\"Juventus is one of the teams that is very interested in him, but there are also other clubs."
-    },
-    {
-      "id": "b0bca40db0be",
-      "title": "Borghi comments: “Determinant victory, but disturbing first 20 minutes”",
-      "url": "https://www.milannews.it/news/borghi-commenta-vittoria-determinante-ma-primi-20-minuti-inquietanti-611456",
-      "source": "milannews.it",
-      "date": "2026-03-22T14:12:39+00:00",
-      "summary": "In his YouTube channel, Stefano Borghi spoke about the Rossoneri's victory against Torino."
-    },
-    {
-      "id": "29f4f10b5454",
-      "title": "With 8 days to go, Milan have the same points they obtained last year at the end of the championship",
-      "url": "https://www.milannews.it/news/a-8-giornate-dal-termine-il-milan-ha-gli-stessi-punti-ottenuti-l-anno-scorso-a-fine-campionato-611464",
-      "source": "milannews.it",
-      "date": "2026-03-22T14:00:01+00:00",
-      "summary": "The figure of Massimiliano Allegri, now also due to biases and philosophies that were born in the football undergrowth, is one of the most polarizing on the Italian scene: the Livorno coach tends to either idolize him or ..."
-    },
-    {
       "id": "1ab7283b1d38",
       "title": "Gimenez sheds light on recovery, pressure and Allegri’s advice after making return",
       "url": "https://sempremilan.com/santiago-gimenez-recovery-pressure-allegri-advice",
       "source": "sempremilan.com",
       "date": "2026-03-22T14:00:00+00:00",
       "summary": "Santiago Gimenez made his return during last night’s win over Torino, and he believes he can make a contribution in AC Milan’s season finale. Gimenez hadn’t played a competitive match since 28 October 2025, in Bergamo against Atalanta, 144 days ago. After an operation to fix an ankle issue that woul"
-    },
-    {
-      "id": "55c7d3e090bf",
-      "title": "Modric satisfied: \"Important victory before the break, let's move forward together!\"",
-      "url": "https://www.milannews.it/news/modric-soddisfatto-vittoria-importante-prima-della-sosta-avanti-insieme-611477",
-      "source": "milannews.it",
-      "date": "2026-03-22T13:48:00+00:00",
-      "summary": "Luka Modric rejoices like this after the beautiful victory against Torino. The words of the Croatian champion posted on the Instagram account profile."
-    },
-    {
-      "id": "86f65bbdbdbb",
-      "title": "Milan transfer market, is Gerard Martin leaving? Moretto: \"Rossoneri interested, but the boy is very close to Barça\"",
-      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-gerard-martin-si-allontana-moretto-rossoneri-interessati-ma-il-ragazzo-e-legatissimo-al-barca-611485",
-      "source": "milannews.it",
-      "date": "2026-03-22T13:40:00+00:00",
-      "summary": "Journalist Matteo Moretto spoke on his YouTube channel about Milan's possible choices in the summer."
     },
     {
       "id": "15dd93d1d8b9",
@@ -298,22 +322,6 @@
       "summary": "If any indication was needed as to the importance of the win over Torino, Massimiliano Allegri’s reaction said it all. Milan did what they needed to do in front of their own fans on Saturday night as they emerged 3-2 winners against Torino in an entertaining contest. Strahinja Pavlovic opened the sc"
     },
     {
-      "id": "0af534df2b86",
-      "title": "GdS: A game that summed up the season – how Milan got past Torino in rollercoaster encounter",
-      "url": "https://sempremilan.com/how-milan-got-past-torino-rollercoaster",
-      "source": "sempremilan.com",
-      "date": "2026-03-22T09:25:00+00:00",
-      "summary": "AC Milan secured three important points as they scored three times against Torino at San Siro, but it was not a straightforward night. As La Gazzetta dello Sport (seen below) write this morning, Milan bounced back after their defeat to Lazio and can enjoy the international break a bit more. They mov"
-    },
-    {
-      "id": "8e63b096db5b",
-      "title": "Gallery: ‘The Diavolo’s shadow’, ‘Milan return to second’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/front-pages-italy-milan-3-2-torino",
-      "source": "sempremilan.com",
-      "date": "2026-03-22T09:00:00+00:00",
-      "summary": "AC Milan did what they needed to do in front of their own fans on Saturday night, beating Torino 3-2 at San Siro. Strahinja Pavlovic struck first in the five-goal thriller with a beauty from 25 yards that dipped violently and went in off the crossbar. Simeone equalised, but Adrien Rabiot and Youssou"
-    },
-    {
       "id": "5c46a86c5741",
       "title": "Today’s Papers: Milan shadow Inter, Juventus crash, Como and Roma opportunity",
       "url": "https://football-italia.net/today-papers-milan-shadow-inter-juve-slip/",
@@ -336,14 +344,6 @@
       "source": "football-italia.net",
       "date": "2026-03-21T20:27:38+00:00",
       "summary": "Strahinja Pavlovic and Youssouf Fofana were both in good spirits after Milan’s hard-fought victory over..."
-    },
-    {
-      "id": "096c92203390",
-      "title": "Watch: “These wins are crucial” – Stefano’s instant reaction to AC Milan 3-2 Torino",
-      "url": "https://sempremilan.com/stefanos-instant-reaction-milan-3-2-torino-2026",
-      "source": "sempremilan.com",
-      "date": "2026-03-21T20:23:50+00:00",
-      "summary": "Stefano recorded his reaction straight after the full-time whistle of AC Milan’s 3-2 win against Torino, praising the team for getting the necessary job done.  It started out as a rather nervy game for Milan, as they made many mistakes in the build-up and allowed Torino to create quite a lot of mome"
     },
     {
       "id": "b32ad46bd008",
