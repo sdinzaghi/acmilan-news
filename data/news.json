@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-03-22T07:37:31.318005+00:00",
+  "lastUpdated": "2026-03-22T08:33:05.158853+00:00",
   "articles": [
+    {
+      "id": "e9bfe1031cbb",
+      "title": "Allegri's restlessness at the end, CorSport: \"Accelerated beats\"",
+      "url": "https://www.milannews.it/rassegna-stampa/l-irrequietezza-di-allegri-nel-finale-il-corsport-battiti-accelerati-611437",
+      "source": "milannews.it",
+      "date": "2026-03-22T08:24:29+00:00",
+      "summary": "As has often happened this year, Milan built its victory yesterday afternoon against Torino, thanks to a disruptive start to the second half: two goals in three minutes, from Rabiot and Fofana, who swept a first half..."
+    },
+    {
+      "id": "e52728f93d6a",
+      "title": "Future Modric, Romano: \"Playing the Champions League with the Rossoneri tempts Luka: courtship of the club, Allegri and his teammates\"",
+      "url": "https://www.milannews.it/news/futuro-modric-romano-giocare-la-champions-in-rossonero-tenta-luka-corteggiamento-di-club-allegri-e-compagni-611436",
+      "source": "milannews.it",
+      "date": "2026-03-22T08:12:47+00:00",
+      "summary": "As the end of the season approaches, the issue linked to Luka Modric's future also begins to become increasingly central: the footballer can decide whether to trigger the one-year option provided for in his agreement with the ..."
+    },
+    {
+      "id": "379130f01d02",
+      "title": "Order finds a lowest common denominator in Milan in the last month: \"First half marked by technical errors\"",
+      "url": "https://www.milannews.it/news/ordine-trova-un-minimo-comune-denominatore-nel-milan-dell-ultimo-mese-primo-tempo-scandito-da-errori-tecnici-611435",
+      "source": "milannews.it",
+      "date": "2026-03-22T08:00:15+00:00",
+      "summary": "Franco Ordine, a journalist who has been following AC Milan for a long time, spoke on Corriere dello Sport this morning with a piece of commentary on the moment that the Rossoneri are experiencing at the end of February and March..."
+    },
+    {
+      "id": "98a0b5aef31c",
+      "title": "The Devil reacts, the Gazzetta headlines: \"Milan shaken, night -5 from Inter\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-diavolo-reagisce-la-gazzetta-titola-scossa-milan-notte-a-5-dall-inter-611434",
+      "source": "milannews.it",
+      "date": "2026-03-22T07:48:17+00:00",
+      "summary": "At Milan we were asking for a reaction and a reaction actually arrived: it wasn't easy yesterday afternoon at San Siro against Turin, also due to a confused and not very courageous approach from the Devil, but in the end..."
+    },
+    {
+      "id": "dbe3e6d16866",
+      "title": "CorSport judges Fourneau: \"OFR limit: De Winter's arm no penalty\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-giudica-fourneau-ofr-limite-braccio-de-winter-no-rigore-611432",
+      "source": "milannews.it",
+      "date": "2026-03-22T07:36:19+00:00",
+      "summary": "Even in the 3-2 victory achieved for Milan at San Siro yesterday against Turin, there were still some refereeing decisions that caused discussion and which could have proved decisive."
+    },
     {
       "id": "f165723e3f39",
       "title": "In the end Adrien always thinks about it, Tuttosport headlines: \"Rabiot Effect\"",
@@ -16,6 +56,14 @@
       "source": "milannews.it",
       "date": "2026-03-22T07:12:54+00:00",
       "summary": "It won't be easy, especially after Roma's misstep, but Milan tries to put pressure on Inter again."
+    },
+    {
+      "id": "e9a0117ecd01",
+      "title": "The background from San Siro: Allegri's punch in the locker room tunnel after Milan-Turin. Because he did it",
+      "url": "https://www.milannews.it/primo-piano/il-retroscena-da-san-siro-il-pugno-di-allegri-nel-tunnel-degli-spogliatoi-dopo-milan-torino-perche-l-ha-fatto-611433",
+      "source": "milannews.it",
+      "date": "2026-03-22T07:00:08+00:00",
+      "summary": "The full importance of Milan's victory last night was felt with extreme concreteness a few seconds from the final whistle, when Massimiliano Allegri, always accustomed to leaving the pitch before the end of the match ..."
     },
     {
       "id": "5530a56a155d",
@@ -55,7 +103,7 @@
       "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-milan-a-9-dalla-juventus-611417",
       "source": "milannews.it",
       "date": "2026-03-22T06:00:14+00:00",
-      "summary": "Below is the updated Serie A standings after Saturday's matches:\n\nSERIES A, THE UPDATED RANKING\n\nInter 68\nMilan 63\nNaples 62\nLike 54\nJuventus 54\nAtalanta 47\nBologna 42\nLazio 40\nUdinese 39\nSassuolo 39\nParma 34\nG..."
+      "summary": "Below is the updated Serie A standings after Saturday's matches:\n\nSERIES A, THE UPDATED RANKING\n\nInter 68\nMilan 63\nNaples 62\nLike 54\nJuventus 54\nRome 51\nAtalanta 47\nBologna 42\nLazio 40\nUdinese 39\nSassuolo 39\nPa..."
     },
     {
       "id": "7580b94699d4",
@@ -112,54 +160,6 @@
       "source": "milannews.it",
       "date": "2026-03-21T23:00:01+00:00",
       "summary": "3 very precious points, of vital importance for the Champions League. A draw would have had very serious consequences on the standings and the lead."
-    },
-    {
-      "id": "364542c8099b",
-      "title": "Compagnoni: “Future evaluations need to be made on Leao, Pulisic in difficulty due to injuries”",
-      "url": "https://www.milannews.it/news/compagnoni-da-fare-valutazioni-future-su-leao-pulisic-in-difficolta-per-gli-infortuni-611361",
-      "source": "milannews.it",
-      "date": "2026-03-21T22:48:12+00:00",
-      "summary": "Maurizio Compagnoni, in the pre-match of Milan-Turin, spoke thus about Leao and Pulisic on Sky Sport."
-    },
-    {
-      "id": "399598233430",
-      "title": "Daniel Maldini: \"I always had the idea of ​​coming to Lazio as soon as they contacted me\"",
-      "url": "https://www.milannews.it/gli-ex/daniel-maldini-ho-sempre-avuto-l-idea-di-venire-alla-lazio-appena-mi-hanno-contattato-611368",
-      "source": "milannews.it",
-      "date": "2026-03-21T22:36:07+00:00",
-      "summary": "Former Rossoneri player Daniel Maldini spoke to DAZN about his first months at Lazio: \"My integration process with the team is going very well, I got on well with my teammates and the environment straight away."
-    },
-    {
-      "id": "076a46e13b7c",
-      "title": "Allegri: \"From March onwards we need to think about looking at the standings, there's no more time to fix it\"",
-      "url": "https://www.milannews.it/news/allegri-da-marzo-in-poi-bisogna-pensare-a-guardare-la-classifica-non-c-e-piu-tempo-per-sistemarla-611414",
-      "source": "milannews.it",
-      "date": "2026-03-21T22:23:01+00:00",
-      "summary": "Mister Massimiliano Allegri spoke to DAZN after the 3-2 win against Torino this afternoon\n\nWhat was in the final celebration?\n\n“The importance of the match, we are at the end of the season."
-    },
-    {
-      "id": "006447ea908b",
-      "title": "Juventus draws with Sassuolo, Milan +9 in fifth place",
-      "url": "https://www.milannews.it/news/la-juventus-pareggia-col-sassuolo-milan-a-9-sul-quinto-posto-611424",
-      "source": "milannews.it",
-      "date": "2026-03-21T22:13:12+00:00",
-      "summary": "For now it has been a positive championship day for Milan, who won at San Siro against Torino and also extended their lead to fifth place: after Juventus' draw against Sassuolo the Rossoneri find themselves +9 on fifth place oc..."
-    },
-    {
-      "id": "b0ae5984613f",
-      "title": "Milan Futuro, tomorrow there is Nuova Sondrio. The referee team is designated",
-      "url": "https://www.milannews.it/milan-futuro/milan-futuro-domani-c-e-la-nuova-sondrio-designata-la-squadra-arbitrale-611345",
-      "source": "milannews.it",
-      "date": "2026-03-21T22:11:19+00:00",
-      "summary": "After the success in the last round against Oltrepò, which earned the Rossoneri second place in the standings, Milan Futuro returns to the field on Sunday 22 March at 2.30 pm, at the Felice Chinetti stadium in Solbiate Arno, against Nuova ..."
-    },
-    {
-      "id": "83ecd21c08b1",
-      "title": "Primavera, Renna: \"High level performance, we tried to come here to play good football\"",
-      "url": "https://www.milannews.it/la-primavera/primavera-renna-prestazione-di-alto-livello-abbiamo-cercato-di-venire-qui-a-fare-un-buon-calcio-611347",
-      "source": "milannews.it",
-      "date": "2026-03-21T22:00:00+00:00",
-      "summary": "Mister Giovanni Renna spoke after today's Primavera draw against Juventus. These are his words after the match in Vinovo, a match that ended 1-1 with a goal from Domnitei:\n\nAbout the match:\n\n“High level performance."
     },
     {
       "id": "b12b8b0117c8",
