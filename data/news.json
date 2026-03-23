@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-03-23T20:36:38.886907+00:00",
+  "lastUpdated": "2026-03-23T21:35:48.047887+00:00",
   "articles": [
+    {
+      "id": "1050bc763ec8",
+      "title": "Italy, Gattuso: \"Why is Chiesa gone? The players' heads are not all the same\"",
+      "url": "https://www.milannews.it/gli-ex/italia-gattuso-perche-chiesa-via-le-teste-dei-giocatori-non-sono-tutte-uguali-611582",
+      "source": "milannews.it",
+      "date": "2026-03-23T21:20:00+00:00",
+      "summary": "(ANSA) - FLORENCE, MARCH 23 - ''Why did some players choose to stay in Coverciano and Chiesa didn't? Players' heads are not all the same."
+    },
+    {
+      "id": "5ba2b3a003c2",
+      "title": "Condò on Milan's shortcomings: \"The Rossoneri's early days always seem like bad digestion\"",
+      "url": "https://www.milannews.it/news/condo-sui-difetti-del-milan-i-primi-tempi-dei-rossoneri-sembrano-sempre-cattive-digestioni-611589",
+      "source": "milannews.it",
+      "date": "2026-03-23T21:10:00+00:00",
+      "summary": "Paolo Condò, on the pages of Corriere della Sera, spoke thus of the championship race between Inter, Milan and Napoli."
+    },
+    {
+      "id": "952f98d8a38e",
+      "title": "Gattuso thus charges Italy ahead of the playoffs to go to the World Cup",
+      "url": "https://www.milannews.it/news/gattuso-carica-cosi-l-italia-in-vista-dei-playoff-per-andare-ai-mondiali-611576",
+      "source": "milannews.it",
+      "date": "2026-03-23T21:00:00+00:00",
+      "summary": "(ANSA) - FLORENCE, MARCH 23 - \"We don't think about whether we could have done more or something else, no alibis, the calendars are known, there's no time to think about anything else, my staff and I have worked so hard, now let's move on to Thursday, ..."
+    },
+    {
+      "id": "913b9c9ae776",
+      "title": "Towards Napoli-Milan, Bucchioni: \"I don't expect a draw\"",
+      "url": "https://www.milannews.it/news/verso-napoli-milan-bucchioni-non-mi-aspetto-un-pareggio-611585",
+      "source": "milannews.it",
+      "date": "2026-03-23T20:50:00+00:00",
+      "summary": "Enzo Bucchioni, in his usual editorial on TMW, spoke like this about the big Easter Monday match between Napoli and Milan: \"Napoli and Milan will also face each other in the next match, it doesn't seem like a draw to me."
+    },
+    {
+      "id": "6a98564f8dab",
+      "title": "The municipality of San Donato is asking Milan for reimbursement for the costs of the stadium which will not be built",
+      "url": "https://www.milannews.it/news/il-comune-di-san-donato-chiede-il-rimborso-al-milan-per-i-costi-dello-stadio-che-non-si-fara-611603",
+      "source": "milannews.it",
+      "date": "2026-03-23T20:40:51+00:00",
+      "summary": "Milan and Inter have decided to proceed together towards the construction of a new stadium in the San Siro area."
+    },
     {
       "id": "1b431577f5e6",
       "title": "Maignan and Rabiot in the United States: the departure of the French national team tomorrow morning",
@@ -23,7 +63,7 @@
       "url": "https://www.milannews.it/news/il-milan-tornera-in-australia-per-la-tournee-estiva-perth-la-candidata-principale-611625",
       "source": "milannews.it",
       "date": "2026-03-23T20:10:00+00:00",
-      "summary": "The season is still long, after this national break, it will resume with the championship which will reach the end with its last 8 days."
+      "summary": "The season is still long, after this national break, it will resume with the championship reaching the end with its last 8 matchdays."
     },
     {
       "id": "cf644a84336c",
@@ -154,14 +194,6 @@
       "summary": "Demetrio Albertini, historic former Rossoneri midfielder, spoke at the City Padel in Milan on the sidelines of the Legends Trophy event in Milan. This is an extract of his statements collected by the MilanNews correspondent."
     },
     {
-      "id": "a6dbe3774216",
-      "title": "Spezia, consensual separation with Donadoni: the press release",
-      "url": "https://www.milannews.it/news/spezia-separazione-consensuale-con-donadoni-il-comunicato-611579",
-      "source": "milannews.it",
-      "date": "2026-03-23T18:00:54+00:00",
-      "summary": "The news had already been in the air for a few hours, now the official announcement has also arrived: Roberto Donadoni is no longer the coach of Spezia."
-    },
-    {
       "id": "c69e508bf842",
       "title": "Il Giornale: San Donato asking for reimbursement after Milan opt against plan",
       "url": "https://sempremilan.com/san-donato-ask-reimbursement-milan-opt-against-stadium",
@@ -170,44 +202,12 @@
       "summary": "AC Milan were planning to build a new stadium in San Donato, but they eventually opted to move into a new San Siro with Inter. There were months of talk about the next home of Milan, and it seemed like the two Milanese clubs would split. Indeed, the Rossoneri were more than considering the San […]\nT"
     },
     {
-      "id": "45d2dece12cb",
-      "title": "MN - Llorente: \"Napoli-Milan and Inter-Roma will be decisive matches\"",
-      "url": "https://www.milannews.it/news/mn-llorente-napoli-milan-e-inter-roma-saranno-partite-decisive-611596",
-      "source": "milannews.it",
-      "date": "2026-03-23T17:50:59+00:00",
-      "summary": "Fernando Llorente, a former footballer who wore the shirts of Juventus, Napoli and Udinese in Italy, spoke at the City Padel in Milan about Demetrio Albertini on the sidelines of the Legends Trophy event in Milan."
-    },
-    {
-      "id": "21520988203e",
-      "title": "Milan, there are 13 Rossoneri players called up for this break",
-      "url": "https://www.milannews.it/news/milan-i-convocati-rossoneri-per-questa-sosta-sono-13-611599",
-      "source": "milannews.it",
-      "date": "2026-03-23T17:40:37+00:00",
-      "summary": "Last stop for the national teams this season: the last participants in the 2026 World Cup will be decided, which will be played next summer in North America between Canada, the United States and Mexico."
-    },
-    {
-      "id": "a6289fe08ff1",
-      "title": "MN - Sheva: \"Milan will put pressure on Inter: it will be decided game by game\"",
-      "url": "https://www.milannews.it/news/mn-sheva-il-milan-mettera-pressione-all-inter-si-decide-partita-per-partita-611604",
-      "source": "milannews.it",
-      "date": "2026-03-23T17:30:05+00:00",
-      "summary": "Andriy Shevchenko, AC Milan legend, expressed himself thus at Demetrio Albertini's City Padel in Milan on the sidelines of the Italian stage of the Legends Trophy, an international padel circuit that brings together some of the greatest ..."
-    },
-    {
       "id": "aa225ec1eb17",
       "title": "‘The greatest of all’ – Ferdinand admits two Milan defenders were better than him",
       "url": "https://sempremilan.com/ferdinand-admits-two-milan-defenders-better-him",
       "source": "sempremilan.com",
       "date": "2026-03-23T17:30:00+00:00",
       "summary": "AC Milan have had a number of strong defenders play for them across the years, and this is especially the case when you look at the Italian talent. Massimiliano Allegri is one of the finest defensive managers in modern football, and he has often built his defensive lines around experience. So, he ce"
-    },
-    {
-      "id": "56371918d2ad",
-      "title": "MN - Di Canio: \"Without Leao, Milan is more solid. Will he be angry with me? What do I care, he's not my cousin\"",
-      "url": "https://www.milannews.it/news/mn-di-canio-senza-leao-il-milan-e-piu-solido-si-arrabbiera-con-me-che-me-ne-frega-mica-e-mio-cugino-611612",
-      "source": "milannews.it",
-      "date": "2026-03-23T17:25:00+00:00",
-      "summary": "Even Paolo Di Canio, a former AC Milan footballer and commentator, spoke at the City Padel in Milan about Demetrio Albertini on the sidelines of the Legends Trophy, a Padel event for former football players held today in Milan."
     },
     {
       "id": "6f39ec58f3aa",
