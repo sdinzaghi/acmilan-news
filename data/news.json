@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-03-23T21:35:48.047887+00:00",
+  "lastUpdated": "2026-03-23T22:30:48.445324+00:00",
   "articles": [
+    {
+      "id": "3f2add9e8296",
+      "title": "Borussia Dortmund surprisingly sacks sporting director Sebastien Kehl",
+      "url": "https://www.milannews.it/news/il-borussia-dortmund-esonera-a-sorpresa-il-ds-sebastien-kehl-611597",
+      "source": "milannews.it",
+      "date": "2026-03-23T22:20:15+00:00",
+      "summary": "(ANSA) - ROME, MARCH 22 - Borussia Dortmund parts ways with one of its flags. The German club announced on its website the dismissal of Sebastian Kehl, the club's sporting director from 2022."
+    },
+    {
+      "id": "8cab664c274f",
+      "title": "Ferrara: “In Milan there is the feeling of a compact environment\"",
+      "url": "https://www.milannews.it/news/ferrara-nel-milan-c-e-la-sensazione-di-un-ambiente-compatto-611574",
+      "source": "milannews.it",
+      "date": "2026-03-23T22:10:00+00:00",
+      "summary": "Against Torino he hasn't found the goal yet, but at the moment of the substitution Christian Pulisic was still applauded with strength and conviction by everyone at San Siro."
+    },
+    {
+      "id": "ae59b5baad3a",
+      "title": "The 76th Viareggio tournament has ended: a team has won after 34 years",
+      "url": "https://www.milannews.it/news/terminato-il-76-torneo-di-viareggio-una-squadra-ha-vinto-dopo-34-anni-611620",
+      "source": "milannews.it",
+      "date": "2026-03-23T22:00:00+00:00",
+      "summary": "(ANSA) - VIAREGGIO (LUCCA), MARCH 23 - Fiorentina won the 76th Viareggio Cup world youth tournament by beating Rijeka 4-1 in the final played at the Stadio dei Pini. The purple team won after extra time."
+    },
+    {
+      "id": "8103efbc4248",
+      "title": "MN - Di Canio: \"I'm pissed off at Leao. Running ability, technique at the service of the team, but many times you say \"what are you thinking?\" In the recording room, why does he have to sing?\"",
+      "url": "https://www.milannews.it/news/mn-di-canio-io-sono-incazzato-con-leao-capacita-di-corsa-tecnica-al-servizio-della-squadra-pero-tante-volte-dici-che-sta-a-pensa-alla-sala-registrazio-611617",
+      "source": "milannews.it",
+      "date": "2026-03-23T21:50:00+00:00",
+      "summary": "Even Paolo Di Canio, a former AC Milan footballer and commentator, spoke on the sidelines of the Legends Trophy, a Padel event for former football players in Milan."
+    },
+    {
+      "id": "0df3b12b6b3e",
+      "title": "Rossoneri youth sector: all the results of the weekend",
+      "url": "https://www.milannews.it/settore-giovanile/settore-giovanile-rossonero-tutti-i-risultati-del-weekend-611600",
+      "source": "milannews.it",
+      "date": "2026-03-23T21:40:14+00:00",
+      "summary": "Weekend full of goals and positive results for the Rossoneri Youth Sector, between large victories and a lot of balance in the most delicate challenges."
+    },
+    {
+      "id": "0e3fa0922a38",
+      "title": "Leao speaks out on social media: \"Time is the answer\"",
+      "url": "https://www.milannews.it/news/leao-prende-parola-sui-social-il-tempo-e-la-risposta-611628",
+      "source": "milannews.it",
+      "date": "2026-03-23T21:30:50+00:00",
+      "summary": "Rafael Leao hasn't had an easy week: first the defeat against Lazio who was met with days full of criticism for the way he left the pitch at the Olimpico at the time of the substitution, very angry not with ..."
+    },
     {
       "id": "1050bc763ec8",
       "title": "Italy, Gattuso: \"Why is Chiesa gone? The players' heads are not all the same\"",
@@ -63,7 +111,7 @@
       "url": "https://www.milannews.it/news/il-milan-tornera-in-australia-per-la-tournee-estiva-perth-la-candidata-principale-611625",
       "source": "milannews.it",
       "date": "2026-03-23T20:10:00+00:00",
-      "summary": "The season is still long, after this national break, it will resume with the championship reaching the end with its last 8 matchdays."
+      "summary": "The season is still long, after this national break, it will resume with the championship which will reach the end with its last 8 days."
     },
     {
       "id": "cf644a84336c",
@@ -122,28 +170,12 @@
       "summary": "Demetrio Albertini, historic former Rossoneri midfielder, spoke on the sidelines of the Legends Trophy event in Milan. This is an extract of his statements collected by the MilanNews correspondent."
     },
     {
-      "id": "4a691f975f93",
-      "title": "Is the module change the real turning point for the season finale? Allegri thus reflects on the hypothetical 4-3-3 of his Milan",
-      "url": "https://www.milannews.it/primo-piano/il-cambio-modulo-la-vera-svolta-per-il-finale-di-stagione-allegri-riflette-cosi-sull-ipotetico-4-3-3-del-suo-milan-611581",
-      "source": "milannews.it",
-      "date": "2026-03-23T19:00:00+00:00",
-      "summary": "It is a Milan that is constantly evolving, from a physical but also tactical point of view. Massimiliano Allegri's team, after the painful fall in Rome, seems to have found rhythm and serenity again."
-    },
-    {
       "id": "c254c36610a2",
       "title": "From Orlando to Oslo: The 13 Milan players called up for international duty",
       "url": "https://sempremilan.com/13-milan-internationals-march-2026",
       "source": "sempremilan.com",
       "date": "2026-03-23T19:00:00+00:00",
       "summary": "The first international break of 2026 is here, and AC Milan have got several players representing them on a national level, leaving Milanello almost empty. It has been a pretty up and down run for Milan recently, but their win against Torino was strengthened by Inter’s inability to beat Fiorentina a"
-    },
-    {
-      "id": "7213de3af6b5",
-      "title": "MN - Di Canio: \"One 'but' in football is already too much: with Leao you always use five or six\"",
-      "url": "https://www.milannews.it/news/mn-di-canio-un-pero-nel-calcio-gia-e-troppo-con-leao-ne-usi-sempre-cinque-o-sei-611619",
-      "source": "milannews.it",
-      "date": "2026-03-23T18:50:00+00:00",
-      "summary": "Even Paolo Di Canio, a former AC Milan footballer and commentator, spoke at the City Padel in Milan about Demetrio Albertini on the sidelines of the Legends Trophy, a Padel event for former football players held today in Milan."
     },
     {
       "id": "bd6e27c3f4dc",
@@ -154,44 +186,12 @@
       "summary": "Andriy Shevchenko believes ‘anything can happen’ in the Scudetto race for Milan, but warns Rafael..."
     },
     {
-      "id": "dda1e81c785b",
-      "title": "What happens if Inter, Milan and Napoli finish tied in the standings?",
-      "url": "https://www.milannews.it/news/cosa-succede-se-inter-milan-e-napoli-arrivano-a-pari-merito-in-classifica-611621",
-      "source": "milannews.it",
-      "date": "2026-03-23T18:40:00+00:00",
-      "summary": "Even with the 1-1 draw in Florence, Inter remains with a comforting advantage over the competition represented by Milan, second at -6, and Napoli, third at -7, who among other things will compete on the day back from ..."
-    },
-    {
-      "id": "78b385fbef8c",
-      "title": "MN - Sheva: \"Leao now doesn't cover his natural role: he did well in some matches\"",
-      "url": "https://www.milannews.it/news/mn-sheva-leao-ora-non-copre-il-suo-ruolo-naturale-in-qualche-partita-ha-fatto-bene-611605",
-      "source": "milannews.it",
-      "date": "2026-03-23T18:30:23+00:00",
-      "summary": "Andriy Shevchenko, AC Milan legend, expressed himself thus at Demetrio Albertini's City Padel in Milan on the sidelines of the Italian stage of the Legends Trophy, an international padel circuit that brings together some of the greatest ..."
-    },
-    {
       "id": "3b2ee04a6c75",
       "title": "Shevchenko discusses Milan’s ‘only’ striker choice and Scudetto dream: “He’s the only one”",
       "url": "https://sempremilan.com/shevchenko-discusses-milan-striker-scudetto-dream",
       "source": "sempremilan.com",
       "date": "2026-03-23T18:30:00+00:00",
       "summary": "Andriy Shevchenko knows what it means to be a striker, and he also knows plenty about AC Milan and what it means to score important goals in big moments.  Few strikers can compare to Shevchenko, a Ballon d’Or winner, a Champions League winner and a Scudetto winner, amongst countless other awards. Sh"
-    },
-    {
-      "id": "a0d6e07efbd9",
-      "title": "MN - Di Canio: \"For Leao, football is normality: the real fun for him is the bare-breasted parades\"",
-      "url": "https://www.milannews.it/news/mn-di-canio-per-leao-il-calcio-e-normalita-il-vero-divertimento-per-lui-sono-le-sfilate-a-petto-nudo-611618",
-      "source": "milannews.it",
-      "date": "2026-03-23T18:20:00+00:00",
-      "summary": "Even Paolo Di Canio, a former AC Milan footballer and commentator, spoke on the sidelines of the Legends Trophy, a Padel event for former football players held today in Milan."
-    },
-    {
-      "id": "f8065693c2f6",
-      "title": "MN - Albertini on the Scudetto race: \"Inter has its destiny in its hands\"",
-      "url": "https://www.milannews.it/gli-ex/mn-albertini-sulla-corsa-scudetto-e-l-inter-che-ha-in-mano-il-suo-destino-611606",
-      "source": "milannews.it",
-      "date": "2026-03-23T18:10:00+00:00",
-      "summary": "Demetrio Albertini, historic former Rossoneri midfielder, spoke at the City Padel in Milan on the sidelines of the Legends Trophy event in Milan. This is an extract of his statements collected by the MilanNews correspondent."
     },
     {
       "id": "c69e508bf842",
