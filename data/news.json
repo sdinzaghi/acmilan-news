@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-03-24T14:57:11.151439+00:00",
+  "lastUpdated": "2026-03-24T16:07:59.932921+00:00",
   "articles": [
+    {
+      "id": "60cd9825f07b",
+      "title": "Double commitment for Pulisic with the United States: the calendar",
+      "url": "https://www.milannews.it/news/doppio-impegno-per-pulisic-con-gli-stati-uniti-il-calendario-611702",
+      "source": "milannews.it",
+      "date": "2026-03-24T16:00:14+00:00",
+      "summary": "The last stop of the 2025/2026 season is here: there are thirteen Rossoneri players busy with the selections of their respective countries and who will be called to play in the next few days."
+    },
+    {
+      "id": "2c85fe64a1f8",
+      "title": "CF: The ‘Strategic Environmental Assessment’ – why a crucial phase in stadium plan has begun",
+      "url": "https://sempremilan.com/why-crucial-phase-milan-inter-stadium-plan",
+      "source": "sempremilan.com",
+      "date": "2026-03-24T16:00:00+00:00",
+      "summary": "AC Milan and Inter’s process towards building their new stadium continues, and a new development has emerged today. According to Calcio e Finanza, the project has entered a very important new phase: the City of Milan has begun the Strategic Environmental Assessment (SEA) for the urban plan known as "
+    },
+    {
+      "id": "4f02c3dd75bc",
+      "title": "Galli says: \"Berlusconi saw Gullit at PSV and signed him the following year. Here's what he said to Rummenigge\"",
+      "url": "https://www.milannews.it/news/galli-racconta-berlusconi-vide-gullit-al-psv-e-l-anno-dopo-lo-prese-ecco-cosa-disse-a-rummenigge-611729",
+      "source": "milannews.it",
+      "date": "2026-03-24T15:50:02+00:00",
+      "summary": "Filippo Galli, former Rossoneri defender and former head of Milan's youth sector, was the protagonist of a long interview given to Gazzetta dello Sport."
+    },
+    {
+      "id": "7af04bc0d214",
+      "title": "MN - Falk reveals: \"Milan's interest in Goretzka is concrete. Allegri is a big fan of his\"",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-falk-rivela-l-interesse-del-milan-per-goretzka-e-concreto-allegri-e-un-suo-grande-fan-611733",
+      "source": "milannews.it",
+      "date": "2026-03-24T15:50:00+00:00",
+      "summary": "Is Leon Goretzka really a target for AC Milan? If so, what are the chances of seeing him in the Rossoneri starting next season? On the future of the German midfielder, who we remember is expiring with Bayern M..."
+    },
+    {
+      "id": "c42b9d085b5e",
+      "title": "Now the break, but the next three days of Serie A will be decisive: the calendar has been published",
+      "url": "https://www.milannews.it/news/ora-la-sosta-ma-le-prossime-tre-giornate-di-serie-a-saranno-decisive-pubblicato-il-calendario-611681",
+      "source": "milannews.it",
+      "date": "2026-03-24T15:41:16+00:00",
+      "summary": "(ANSA) - ROME, MARCH 20 - The definitive calendar for the 32nd, 33rd and 34th matchdays of Serie A has been released."
+    },
+    {
+      "id": "43e659cae33e",
+      "title": "Milan join West Ham and Nottingham Forest in race for Bologna’s €40m striker Castro",
+      "url": "https://football-italia.net/milan-join-west-ham-forest-bologna-castro/",
+      "source": "football-italia.net",
+      "date": "2026-03-24T15:33:41+00:00",
+      "summary": "Milan are plotting a significant summer overhaul, with sporting director Igli Tare already identifying targets..."
+    },
+    {
+      "id": "f38f1ef189cc",
+      "title": "Sabatini bluntly: \"Milan's victory over Torino was ridiculed towards the end by a penalty invented by VAR\"",
+      "url": "https://www.milannews.it/news/sabatini-senza-mezzi-termini-vittoria-del-milan-col-torino-ridicolizzata-verso-la-fine-da-un-rigore-inventato-dal-var-611658",
+      "source": "milannews.it",
+      "date": "2026-03-24T15:30:57+00:00",
+      "summary": "Sandro Sabatini, journalist, expressed himself as follows on calciomercato.com about Milan: \"Milan overtakes Napoli in second place and brings leaders Inter closer."
+    },
+    {
+      "id": "f46bd65c3115",
+      "title": "Report: Milan add Genoa star to summer wish list – good relations could help",
+      "url": "https://sempremilan.com/milan-genoa-norton-cuffy-good-relations",
+      "source": "sempremilan.com",
+      "date": "2026-03-24T15:30:00+00:00",
+      "summary": "AC Milan are looking at options to strengthen in the wing-back position ahead of next season, and Brooke Norton-Cuffy is on their list. According to what is being reported by Milanisti Channel – which is part of the La Gazzetta dello Sport network – Milan are thinking about the summer window already"
+    },
+    {
+      "id": "c148decdcfae",
+      "title": "Pellegatti: \"Despite some indiscretions, chances close to zero are filtering out from Milan, also due to his physical fragility, for Kean\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pellegatti-nonostante-alcune-indiscrezioni-dal-milan-filtrano-possibilita-vicine-allo-zero-anche-per-via-della-sua-fragilita-fisica-per-kean-611655",
+      "source": "milannews.it",
+      "date": "2026-03-24T15:20:30+00:00",
+      "summary": "Carlo Pellegatti, journalist, expressed himself as follows on his Youtube channel on the AC Milan transfer market in attack: \"Despite some indiscretions, possibilities close to zero are filtering out of AC Milan, also due to his ..."
+    },
+    {
+      "id": "6385ce3f090c",
+      "title": "Open VAR on Milan-Turin. First in the Pavlovic-Simone contact there is \"Little consistency\", then the review and the penalty awarded",
+      "url": "https://www.milannews.it/news/open-var-su-milan-torino-prima-nel-contatto-pavlovic-simone-c-e-poca-consistenza-poi-la-revisione-e-il-rigore-assegnato-611745",
+      "source": "milannews.it",
+      "date": "2026-03-24T15:10:00+00:00",
+      "summary": "Like every Tuesday, the new episode of \"Open VAR\" was released on DAZN, a program in which some refereeing episodes from the last day of Serie A are analysed."
+    },
+    {
+      "id": "e5689f51783f",
+      "title": "MN EXCLUSIVE - Falk (BILD): \"Milan have already contacted Goretzka. They like the idea of ​​playing in Italy\"",
+      "url": "https://www.milannews.it/primo-piano/esclusiva-mn-falk-bild-il-milan-ha-gia-contattato-goretzka-l-idea-di-giocare-in-italia-gli-piace-611731",
+      "source": "milannews.it",
+      "date": "2026-03-24T15:00:00+00:00",
+      "summary": "Is Leon Goretzka really a target for AC Milan? If so, what are the chances of seeing him in the Rossoneri starting next season? On the future of the German midfielder, who we remember is expiring with Bayern M..."
+    },
+    {
+      "id": "455f316aa863",
+      "title": "CorSport: Allegri prepares for Napoli game with reduced squad – the 11 players available",
+      "url": "https://sempremilan.com/allegri-reduced-squad-11-players-available",
+      "source": "sempremilan.com",
+      "date": "2026-03-24T15:00:00+00:00",
+      "summary": "The international break is upon us, which means a large number of AC Milan’s squad have jetted off around the globe. As we summarised last night, a total of 13 players left Milanello after the win over Torino on Saturday night because they have been called up by their respective national teams. The "
+    },
     {
       "id": "703cb8f9744c",
       "title": "Trevisani: \"Take away the two penalties saved by Maignan and add the two penalties missed by Juve and the two teams would be equal on points\"",
@@ -130,52 +226,12 @@
       "summary": "Christian Pulisic’s situation at AC Milan should be relatively straightforward, yet there are ongoing questions about the summer mercato. It has been a strange few months where Milan are concerned with Pulisic. Indeed, the American has struggled with injuries this season, and he started phenomenally"
     },
     {
-      "id": "637d0d3898c8",
-      "title": "New San Siro, the Strategic Environmental Assessment begins: what it is and why it is fundamental",
-      "url": "https://www.milannews.it/primo-piano/nuovo-san-siro-al-via-la-valutazione-ambientale-strategica-di-cosa-si-tratta-e-perche-e-fondamentale-611694",
-      "source": "milannews.it",
-      "date": "2026-03-24T13:00:51+00:00",
-      "summary": "The process of Milan and Inter for the construction of the new stadium continues."
-    },
-    {
-      "id": "23ad261b4876",
-      "title": "MN - Di Canio: \"Milan still with the Scudetto? With Inter like this it's right to hope. The next match will say a lot\"",
-      "url": "https://www.milannews.it/podcast-mn/mn-di-canio-milan-ancora-da-scudetto-con-l-inter-cosi-e-giusto-sperare-la-prossima-partita-dira-molto-611614",
-      "source": "milannews.it",
-      "date": "2026-03-24T12:50:00+00:00",
-      "summary": "Even Paolo Di Canio, a former AC Milan footballer and commentator, spoke on the sidelines of the Legends Trophy, a Padel event for former football players in Milan."
-    },
-    {
       "id": "158de288c646",
       "title": "‘Now or never’ – Vitiello states Milan are heading towards a crucial summer mercato",
       "url": "https://sempremilan.com/vitiello-states-milan-heading-towards-crucial-summer",
       "source": "sempremilan.com",
       "date": "2026-03-24T12:45:00+00:00",
       "summary": "This summer, AC Milan need to make steps forward, and if they fail to do so, they will only move backwards compared to their competition both domestically and continentally. There is a lot of pressure being put on the summer, and it is clear to see why. Ultimately, Milan must make the required steps"
-    },
-    {
-      "id": "e2dee0e55cc1",
-      "title": "Elkann reiterates his commitment to supporting Juve's sporting and financial success",
-      "url": "https://www.milannews.it/news/elkann-ribadisce-l-impegnon-a-sostenere-il-successo-sportivo-e-finanziario-della-juve-611649",
-      "source": "milannews.it",
-      "date": "2026-03-24T12:40:15+00:00",
-      "summary": "(ANSA) - TURIN, MARCH 23 - \"At the beginning of 2026, Juventus extended the contract of new generation talent Kenan Yildiz until 2030, reaffirming our commitment to developing and retaining the most promising ..."
-    },
-    {
-      "id": "b52205799473",
-      "title": "Pasotto points out: \"There is a question, obviously destined to remain unanswered, which will always hover over this Milan championship\"",
-      "url": "https://www.milannews.it/news/pasotto-fa-notare-c-e-una-domanda-destinata-ovviamente-a-restare-inevasa-che-aleggera-sempre-su-questo-campionato-del-milan-611651",
-      "source": "milannews.it",
-      "date": "2026-03-24T12:30:59+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport commenting on Milan-Turin: \"There is a question, obviously destined to remain unanswered, which will always hover over this Milan championship: c ..."
-    },
-    {
-      "id": "2f108626a47f",
-      "title": "In the top 5 European leagues, Modric is the second player with the most career appearances. Only Griezmann surpasses him",
-      "url": "https://www.milannews.it/news/nei-top-5-campionati-europei-modric-e-il-secondo-giocatore-con-piu-presenze-in-carriera-lo-supera-solo-griezmann-611673",
-      "source": "milannews.it",
-      "date": "2026-03-24T12:22:42+00:00",
-      "summary": "Luka Modrić has crossed the milestone of 550 appearances in the Big-5 European leagues: since his debut season in these tournaments (with Tottenham in 2008/09), only Antoine Griezmann (555) has played more than the Croatian in ..."
     },
     {
       "id": "23a41ee3ef3a",
@@ -186,36 +242,12 @@
       "summary": "AC Milan could well be back in the Scudetto race, thanks to some slips from the current leaders of Serie A, Inter. However, a lot must happen. If you had said after the loss to Parma that Milan would be back in the title race twice this season, most would laugh. However, the win against […]\nThe post"
     },
     {
-      "id": "8233a31dfeb5",
-      "title": "Pulisic: \"This break is the last chance to really prepare for the World Cup. It's something you've dreamed of since you were a child, and now to be there is truly incredible\"",
-      "url": "https://www.milannews.it/news/pulisic-questa-sosta-e-l-ultima-possibilita-per-prepararci-davvero-al-mondiale-e-qualcosa-che-sogni-fin-da-bambino-e-ora-essere-li-e-davvero-incredibi-611698",
-      "source": "milannews.it",
-      "date": "2026-03-24T12:10:22+00:00",
-      "summary": "Ahead of the friendly matches in Atlanta against Belgium (March 28) and Portugal (March 31), Men's Journal, an American newspaper, interviewed Christian Pulisic, AC Milan striker and star of the American national team."
-    },
-    {
-      "id": "6cb700876481",
-      "title": "Maignan and Rabiot playing with France in the United States: here's when they play",
-      "url": "https://www.milannews.it/news/maignan-e-rabiot-impegnati-con-la-francia-negli-stati-uniti-ecco-quando-giocano-611697",
-      "source": "milannews.it",
-      "date": "2026-03-24T12:00:36+00:00",
-      "summary": "The last stop of the 2025/2026 season is here: there are thirteen Rossoneri players busy with the selections of their respective countries and who will be called to play in the next few days."
-    },
-    {
       "id": "4ecc79bf9c01",
       "title": "Touchline: Modric ‘feels ready’ to continue with the elites – Milan could make renewal offer official soon",
       "url": "https://sempremilan.com/modric-ready-continue-elites-milan-official-offer-soon",
       "source": "sempremilan.com",
       "date": "2026-03-24T11:55:00+00:00",
       "summary": "AC Milan are desperately trying to get Luka Modric to renew his contract and they may have been given a golden opportunity to do so. There has been a lot said about Modric’s future since he joined, perhaps even before it. Either way, the midfielder has never had a moment’s peace about the situation."
-    },
-    {
-      "id": "b97dafa2fda4",
-      "title": "Bianchin: \"Allegri, against Torino, celebrated, suffered, shouted, became desperate, felt strong and weak, argued with the fourth official and threatened to change jobs\"",
-      "url": "https://www.milannews.it/news/bianchin-allegri-contro-il-torino-ha-esultato-sofferto-urlato-si-e-disperato-si-e-sentito-forte-e-debole-ha-litigato-col-quarto-uomo-e-minacciato-di-c-611652",
-      "source": "milannews.it",
-      "date": "2026-03-24T11:50:34+00:00",
-      "summary": "Luca Bianchin, journalist, expressed himself as follows in La Gazzetta dello Sport when describing Massimiliano Allegri's Milan-Turin: \"A quiet Saturday evening in Milan, right? All in all, in 90 minutes Allegri only rejoiced, suffered, ..."
     },
     {
       "id": "046354ad8ecb",
@@ -314,36 +346,12 @@
       "summary": "Andriy Shevchenko knows what it means to be a striker, and he also knows plenty about AC Milan and what it means to score important goals in big moments.  Few strikers can compare to Shevchenko, a Ballon d’Or winner, a Champions League winner and a Scudetto winner, amongst countless other awards. Sh"
     },
     {
-      "id": "c69e508bf842",
-      "title": "Il Giornale: San Donato asking for reimbursement after Milan opt against plan",
-      "url": "https://sempremilan.com/san-donato-ask-reimbursement-milan-opt-against-stadium",
-      "source": "sempremilan.com",
-      "date": "2026-03-23T18:00:00+00:00",
-      "summary": "AC Milan were planning to build a new stadium in San Donato, but they eventually opted to move into a new San Siro with Inter. There were months of talk about the next home of Milan, and it seemed like the two Milanese clubs would split. Indeed, the Rossoneri were more than considering the San […]\nT"
-    },
-    {
-      "id": "aa225ec1eb17",
-      "title": "‘The greatest of all’ – Ferdinand admits two Milan defenders were better than him",
-      "url": "https://sempremilan.com/ferdinand-admits-two-milan-defenders-better-him",
-      "source": "sempremilan.com",
-      "date": "2026-03-23T17:30:00+00:00",
-      "summary": "AC Milan have had a number of strong defenders play for them across the years, and this is especially the case when you look at the Italian talent. Massimiliano Allegri is one of the finest defensive managers in modern football, and he has often built his defensive lines around experience. So, he ce"
-    },
-    {
       "id": "6f39ec58f3aa",
       "title": "Report Chukwueze to Fulham will give Milan €24m windfall",
       "url": "https://football-italia.net/report-chukwueze-to-fulham-milan-e24m-windfall/",
       "source": "football-italia.net",
       "date": "2026-03-23T17:02:20+00:00",
       "summary": "There are reports Fulham have decided to activate their purchase option for Samuel Chukwueze, bringing..."
-    },
-    {
-      "id": "7bc595e516ca",
-      "title": "MN: ‘A player who is ready to go’ – why Milan will sign another midfielder despite current ranks",
-      "url": "https://sempremilan.com/why-milan-will-sign-another-midfielder-summer",
-      "source": "sempremilan.com",
-      "date": "2026-03-23T17:00:00+00:00",
-      "summary": "AC Milan have a pretty deep midfield currently; perhaps some may say that it is the strongest area of the squad. However, it is not complete. The current makeup of the Milan squad is certainly interesting. Indeed, there are stars across the field, but some areas feel a little weaker, even if there i"
     },
     {
       "id": "6beaa472578d",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-21T15:55:04+00:00",
       "summary": "Milan are feeling the pressure without Rafael Leao, so Niclas Fullkrug starts with Christian Pulisic..."
-    },
-    {
-      "id": "7b2cbd9a5604",
-      "title": "Milan receive good news on injured Leao after latest tests",
-      "url": "https://football-italia.net/milan-good-news-injured-leao-latest-tests/",
-      "source": "football-italia.net",
-      "date": "2026-03-21T12:39:52+00:00",
-      "summary": "Reports in Italy claim that the MRI scan Rafael Leao underwent on Saturday has ruled out..."
     }
   ]
 }
