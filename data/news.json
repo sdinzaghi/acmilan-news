@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-03-25T20:37:05.490681+00:00",
+  "lastUpdated": "2026-03-25T21:37:50.903446+00:00",
   "articles": [
+    {
+      "id": "e701fcc92ade",
+      "title": "Milan, Luke Baker new Director of Commercial Sponsorships",
+      "url": "https://www.milannews.it/news/milan-luke-baker-nuovo-direttore-delle-sponsorizzazioni-commerciali-611867",
+      "source": "milannews.it",
+      "date": "2026-03-25T21:30:45+00:00",
+      "summary": "Through his LinkedIn profile, Luke Baker announced his new work adventure at Milan as Director of Commercial Sponsorships, after having held the same role for nine years at Manchester United."
+    },
+    {
+      "id": "fb4b5447b5fe",
+      "title": "Bianchin: \"Leao was abroad, not on holiday but to treat the inflammation that has been limiting him since December\"",
+      "url": "https://www.milannews.it/news/bianchin-leao-e-stato-all-estero-non-in-vacanza-ma-per-curare-l-infiammazione-che-lo-limita-da-dicembre-611866",
+      "source": "milannews.it",
+      "date": "2026-03-25T21:19:57+00:00",
+      "summary": "Rafa Leao's season has been decidedly troubled from a physical point of view: first the injury to his soleus which caused him to miss two months of the championship, then a groin that comes and goes which obviously limits him from a physical point of view..."
+    },
+    {
+      "id": "dc4a128c1aed",
+      "title": "Pellegatti insists: \"This year is time for foundations, with the 4-3-3 we would never have scored 63 points\"",
+      "url": "https://www.milannews.it/news/pellegatti-insiste-quest-anno-tempo-delle-fondamenta-col-4-3-3-non-avremmo-mai-fatto-63-punti-611829",
+      "source": "milannews.it",
+      "date": "2026-03-25T21:10:26+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti spoke of a possible treasure deriving from loan redemptions and then responded to those who continue to ask for the 4-3-3 instead of the tried and tested 3-5-2."
+    },
+    {
+      "id": "33ebc1707822",
+      "title": "Leao denies Milan training ground argument with Allegri",
+      "url": "https://football-italia.net/leao-denies-milan-argument-with-allegri/",
+      "source": "football-italia.net",
+      "date": "2026-03-25T21:03:47+00:00",
+      "summary": "Rafael Leao used social media to deny a report he had clashed with Milan coach..."
+    },
+    {
+      "id": "343e6746c0a1",
+      "title": "Tomori returns to the national team: here are the two England commitments in the next few days",
+      "url": "https://www.milannews.it/news/tomori-torna-in-nazionale-ecco-i-due-impegni-dell-inghilterra-nei-prossimi-giorni-611705",
+      "source": "milannews.it",
+      "date": "2026-03-25T21:00:13+00:00",
+      "summary": "The last stop of the 2025/2026 season is here: there are thirteen Rossoneri players busy with the selections of their respective countries and who will be called to play in the next few days."
+    },
+    {
+      "id": "65a1f270fe03",
+      "title": "MN - Giustiniani on Modric: \"If he wanted to stay, give him a pen to sign immediately\"",
+      "url": "https://www.milannews.it/news/mn-giustiniani-su-modric-se-volesse-rimanere-dategli-subito-una-penna-per-firmare-611834",
+      "source": "milannews.it",
+      "date": "2026-03-25T20:50:38+00:00",
+      "summary": "Gabriele Giustiniani, journalist and commentator for DAZN spoke exclusively for the editorial staff of MilanNews.it."
+    },
+    {
+      "id": "8c5487dedcef",
+      "title": "Turci: \"Napoli-Milan will be immediately decisive. Once upon a time, with certain gaps, the championship was closed; today it is no longer like that\"",
+      "url": "https://www.milannews.it/news/turci-napoli-milan-sara-subito-decisiva-una-volta-con-certi-distacchi-il-campionato-era-chiuso-oggi-non-e-piu-cosi-611795",
+      "source": "milannews.it",
+      "date": "2026-03-25T20:40:49+00:00",
+      "summary": "Tommaso Turci, journalist for Dazn, expressed himself as follows on Radio Tutto Napoli about the Scudetto fight: \"The next two days will be decisive. The calendar matters a lot: there are important clashes and decisive matches."
+    },
     {
       "id": "2a49f5b70917",
       "title": "Serafini: \"Leao is not Gattuso, he is not a fighter, he is not even Balotelli, he is not even indolent, he is simply light\"",
@@ -8,6 +64,14 @@
       "source": "milannews.it",
       "date": "2026-03-25T20:30:44+00:00",
       "summary": "Luca Serafini, journalist, expressed himself as follows on Radio Tutto Napoli about Leao: \"It's a statement I've been making for years, that is, if Leao scores the next goal, which will be the tenth, it will be the first already..."
+    },
+    {
+      "id": "4e5d0e1a8446",
+      "title": "Leao denies the rumours: Rafa responds on social media and denies the reconstruction of the confrontation with Allegri",
+      "url": "https://www.milannews.it/news/leao-smentisce-le-voci-rafa-risponde-sui-social-e-nega-la-ricostruzione-sul-confronto-con-allegri-611865",
+      "source": "milannews.it",
+      "date": "2026-03-25T20:28:26+00:00",
+      "summary": "In the afternoon, the Gazzetta dello Sport published a reconstruction of what happened at Milanello before Milan-Turin, with Allegri reportedly asking Leao to be more incisive and help the team more."
     },
     {
       "id": "52bc67707603",
@@ -138,36 +202,12 @@
       "summary": "Ruben Loftus-Cheek returned to Milan training with the rest of the squad today and could..."
     },
     {
-      "id": "222056ba368f",
-      "title": "Scudetto play-off? What happens if you finish with equal points at the top",
-      "url": "https://www.milannews.it/news/spareggio-scudetto-cosa-succede-in-caso-di-arrivo-a-pari-punti-in-vetta-611818",
-      "source": "milannews.it",
-      "date": "2026-03-25T18:20:20+00:00",
-      "summary": "Even with the 1-1 draw in Florence, Inter remains with a comforting advantage over the competition represented by Milan, second at -6, and Napoli, third at -7, who among other things will compete on the day back from ..."
-    },
-    {
-      "id": "f6d05f62c8a9",
-      "title": "De Canio: “For me, Milan's quality of play has increased and it's thanks to Allegri\"",
-      "url": "https://www.milannews.it/news/de-canio-per-me-la-qualita-di-gioco-del-milan-e-aumentata-ed-e-merito-di-allegri-611804",
-      "source": "milannews.it",
-      "date": "2026-03-25T18:11:00+00:00",
-      "summary": "Gigi De Canio, during Maracanà on TMW Radio, spoke about Milan like this: \"It seems risky to say it. Instead I want to look at it from another aspect."
-    },
-    {
       "id": "b28a743ca268",
       "title": "Goretzka targeted by Napoli, Milan, Inter and more as free agent",
       "url": "https://football-italia.net/goretzka-targeted-by-napoli-milan-inter/",
       "source": "football-italia.net",
       "date": "2026-03-25T18:09:55+00:00",
       "summary": "Leon Goretzka will be a free agent this summer, so Napoli are the latest contenders..."
-    },
-    {
-      "id": "6e38941e3993",
-      "title": "Italy, Palestra reveals that he has always admired Tonali having often seen him with Milan",
-      "url": "https://www.milannews.it/news/italia-palestra-rivela-di-aver-sempre-ammirato-tonali-avendolo-visto-spesso-con-il-milan-611779",
-      "source": "milannews.it",
-      "date": "2026-03-25T18:00:53+00:00",
-      "summary": "(ANSA) - ROME, MARCH 24 - ''I didn't expect this call, but I hoped for it and obviously I'm happy to be in the national team. Everyone welcomed me very well, and coach Gattuso immediately put me at ease."
     },
     {
       "id": "7e0d871852ce",
@@ -178,44 +218,12 @@
       "summary": "Santiago Gimenez made his return after months on the sidelines during the win over Torino, and he is already winning people over. As La Gazzetta dello Sport recall, it was only 18 minutes – including injury time – that Gimenez got on Saturday night, but it gave off a good feeling. Above all, the imp"
     },
     {
-      "id": "67764ccbe4b5",
-      "title": "MN - Giustiniani: \"Allegri is truly phenomenal in managing a group\"",
-      "url": "https://www.milannews.it/news/mn-giustiniani-allegri-nella-gestione-di-un-gruppo-e-davvero-fenomenale-611831",
-      "source": "milannews.it",
-      "date": "2026-03-25T17:50:05+00:00",
-      "summary": "Gabriele Giustiniani, journalist and commentator for DAZN spoke exclusively for the editorial staff of MilanNews.it."
-    },
-    {
-      "id": "54efe269c03c",
-      "title": "Are Milan or Naples comebacks possible? Panucci thinks so",
-      "url": "https://www.milannews.it/news/rimonte-di-milan-o-napoli-possibili-panucci-la-pensa-cosi-611807",
-      "source": "milannews.it",
-      "date": "2026-03-25T17:40:15+00:00",
-      "summary": "Christian Panucci, also a former player of Milan, was the protagonist yesterday of the second day of the Legends Trophy of Padel, which was held in Milan."
-    },
-    {
-      "id": "dfc6c510baaf",
-      "title": "MN - Allegri awarded by the Minister of Health, ceremony in Rome this evening",
-      "url": "https://www.milannews.it/news/mn-allegri-premiato-dal-ministro-della-salute-questa-sera-la-cerimonia-a-roma-611861",
-      "source": "milannews.it",
-      "date": "2026-03-25T17:31:47+00:00",
-      "summary": "The MilanNews editorial team learns."
-    },
-    {
       "id": "9e685e5ed55e",
       "title": "CM: Shoots of recovery – more positivity surrounds Milan Futuro with promotion the aim",
       "url": "https://sempremilan.com/more-positivity-milan-futuro-promotion-aim",
       "source": "sempremilan.com",
       "date": "2026-03-25T17:30:00+00:00",
       "summary": "Milan Futuro suffered relegation in their first campaign, but they are having a much better second season and are vying for promotion. As Calciomercato.com recall, their last result was a draw at home against second-to-last Nuova Sondrio at the Chinetti stadium which left a bitter taste in their mou"
-    },
-    {
-      "id": "f1f63a20faf4",
-      "title": "Moretto on Andrè: \"I'm not saying it's a dead deal but it's close, and now Benfica and Atletico Madrid are strong on the player\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-su-andre-non-dico-trattativa-morta-ma-poco-ci-manca-e-adesso-benfica-e-atletico-madrid-sono-forti-sul-giocatore-611860",
-      "source": "milannews.it",
-      "date": "2026-03-25T17:29:00+00:00",
-      "summary": "On Fabrizio Romano's YouTube channel, Matteo Moretto spoke about the updates on the Andrè-Milan negotiation."
     },
     {
       "id": "aa1aa53fc500",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-03-21T20:39:43+00:00",
       "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "a4c34385287a",
-      "title": "Milan 3-2 Torino – Pavlovic on ‘lucky’ goal; Fofana explains his celebration",
-      "url": "https://football-italia.net/milan-torino-pavlovic-lucky-fofana-celebration/",
-      "source": "football-italia.net",
-      "date": "2026-03-21T20:27:38+00:00",
-      "summary": "Strahinja Pavlovic and Youssouf Fofana were both in good spirits after Milan’s hard-fought victory over..."
     }
   ]
 }
