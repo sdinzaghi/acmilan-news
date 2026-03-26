@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-03-26T05:04:41.796511+00:00",
+  "lastUpdated": "2026-03-26T07:05:41.380818+00:00",
   "articles": [
+    {
+      "id": "bc095a5f5d99",
+      "title": "Gabbia to Sky: \"I'm a little better. Scudetto? What comes will be what we deserve\"",
+      "url": "https://www.milannews.it/primo-piano/gabbia-a-sky-sto-un-pochino-meglio-scudetto-quello-che-verra-sara-quello-che-ci-saremo-meritati-611868",
+      "source": "milannews.it",
+      "date": "2026-03-26T07:00:00+00:00",
+      "summary": "Matteo Gabbia, AC Milan defender who is working to recover after the inguinal hernia operation at the beginning of March, was interviewed exclusively by Sky Sport."
+    },
+    {
+      "id": "e442bd5f0761",
+      "title": "Pellegatti takes stock: \"There are denials about Castro, Vlahovic must now be cancelled\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pellegatti-fa-il-punto-su-castro-arrivano-smentite-vlahovic-ormai-da-cancellare-611839",
+      "source": "milannews.it",
+      "date": "2026-03-26T06:50:12+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti talked about the Rossoneri transfer market and some names that have been circulating in recent days. These are his words:\n\n\"There have been some denials regarding Castro."
+    },
+    {
+      "id": "69cd43a3b7d8",
+      "title": "Milan, training Thursday without the national team. Separate work awaited for the injured",
+      "url": "https://www.milannews.it/news/milan-giovedi-di-allenamento-senza-i-nazionali-atteso-lavoro-a-parte-per-gli-infortunati-611822",
+      "source": "milannews.it",
+      "date": "2026-03-26T06:40:08+00:00",
+      "summary": "After resuming training yesterday, another session is scheduled for the Rossoneri group today at Milanello, without the players called up by their respective national teams, in preparation for the match against Napoli on Easter Monday."
+    },
+    {
+      "id": "ed14a8c180b0",
+      "title": "Probable Italy-Northern Ireland lineups: Tonali in the starting lineup, a couple of doubts",
+      "url": "https://www.milannews.it/news/probabili-formazioni-italia-irlanda-del-nord-tonali-titolarissimo-un-paio-di-dubbi-611820",
+      "source": "milannews.it",
+      "date": "2026-03-26T06:30:18+00:00",
+      "summary": "Below are the probable line-ups for Italy-Northern Ireland:\n\nITALY (3-5-2): Donnarumma; Mancini, Bastoni, Calafiori; Politano, Barella, Locatelli, Tonali, Dimarco; Kean, Retegui."
+    },
+    {
+      "id": "63e6506b6c6d",
+      "title": "How the World Cup playoffs work: Italy must win two. Here's who",
+      "url": "https://www.milannews.it/news/come-funzionano-i-playoff-per-i-mondiali-l-italia-ne-deve-vincere-due-ecco-contro-chi-611821",
+      "source": "milannews.it",
+      "date": "2026-03-26T06:20:32+00:00",
+      "summary": "To qualify for the 2026 World Cup, coach Rino Gattuso's Italy will have to play in a semi-final, which Italy will play at home against Northern Ireland today in Bergamo, 8pm."
+    },
+    {
+      "id": "a0ad7cfa54d1",
+      "title": "National teams, today we start: five Rossoneri players involved, from afternoon to night",
+      "url": "https://www.milannews.it/news/nazionali-oggi-si-parte-cinque-i-rossoneri-impegnati-dal-pomeriggio-alla-notte-611812",
+      "source": "milannews.it",
+      "date": "2026-03-26T06:10:00+00:00",
+      "summary": "The national team break officially begins tomorrow, with the first matches scheduled and consequently the first Rossoneri involved on the pitch."
+    },
+    {
+      "id": "796bd2e9b988",
+      "title": "Milan, all the commitments of the 13 Rossoneri players called up to the national team",
+      "url": "https://www.milannews.it/news/milan-tutti-gli-impegni-dei-13-calciatori-rossoneri-convocati-in-nazionale-611813",
+      "source": "milannews.it",
+      "date": "2026-03-26T06:00:19+00:00",
+      "summary": "Last stop of the 2025/26 season, the last occasion on which several Rossoneri will be absent from Milanello to respond to the call-ups of their respective national teams."
+    },
     {
       "id": "4f27b5343c5b",
       "title": "Cruciani on the attack: \"Who brought Rabiot to Milan? Get over it...\"",
@@ -40,14 +96,6 @@
       "source": "milannews.it",
       "date": "2026-03-25T23:20:20+00:00",
       "summary": "As reported by Sportmediaset, the announced appeal to the Court of Arbitration for Sport (CAS) has arrived in Lausanne."
-    },
-    {
-      "id": "c5bffc35fba3",
-      "title": "Pellegatti takes stock: \"There are denials about Castro, Vlahovic must now be cancelled\"",
-      "url": "https://www.milannews.it/news/pellegatti-fa-il-punto-su-castro-arrivano-smentite-vlahovic-ormai-da-cancellare-611839",
-      "source": "milannews.it",
-      "date": "2026-03-25T23:10:12+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti talked about the Rossoneri transfer market and some names that have been circulating in recent days. These are his words:\n\n\"There have been some denials regarding Castro."
     },
     {
       "id": "f2f3850c9a31",
@@ -103,7 +151,7 @@
       "url": "https://www.milannews.it/news/ordine-duro-criteri-per-arbitrare-non-stabiliti-dall-aia-o-dalla-can-se-la-fifa-interviene-per-correggere-significa-che-hai-falsato-il-campionato-611844",
       "source": "milannews.it",
       "date": "2026-03-25T22:00:00+00:00",
-      "summary": "During the last episode of QSVS, the journalist Franco Ordine spoke about some episodes that in a very short time have changed in evaluation, giving as an example the no foul called against Valenti for the block on M ..."
+      "summary": "During the last episode of QSVS, the journalist Franco Ordine spoke about some episodes that in a very short time have changed in evaluation, giving as an example the no foul called on Valenti for the block on M ..."
     },
     {
       "id": "8c067c45ed5a",
@@ -114,60 +162,12 @@
       "summary": "Milan has arrived at the break, the last of this season, and the situation is very clear: the Rossoneri remain 6 points behind leaders Inter with eight matchdays to go, with Napoli next up..."
     },
     {
-      "id": "c0d515c872bf",
-      "title": "Shevchenko: \"Leao is not a striker, he doesn't cover his natural role now\"",
-      "url": "https://www.milannews.it/news/shevchenko-leao-non-e-un-attaccante-non-copre-ora-il-suo-ruolo-naturale-611641",
-      "source": "milannews.it",
-      "date": "2026-03-25T21:40:00+00:00",
-      "summary": "For better or worse, at Milan we always talk about Rafa Leao."
-    },
-    {
-      "id": "e701fcc92ade",
-      "title": "Milan, Luke Baker new Director of Commercial Sponsorships",
-      "url": "https://www.milannews.it/news/milan-luke-baker-nuovo-direttore-delle-sponsorizzazioni-commerciali-611867",
-      "source": "milannews.it",
-      "date": "2026-03-25T21:30:45+00:00",
-      "summary": "Through his LinkedIn profile, Luke Baker announced his new work adventure at Milan as Director of Commercial Sponsorships, after having held the same role for nine years at Manchester United."
-    },
-    {
-      "id": "fb4b5447b5fe",
-      "title": "Bianchin: \"Leao was abroad, not on holiday but to treat the inflammation that has been limiting him since December\"",
-      "url": "https://www.milannews.it/news/bianchin-leao-e-stato-all-estero-non-in-vacanza-ma-per-curare-l-infiammazione-che-lo-limita-da-dicembre-611866",
-      "source": "milannews.it",
-      "date": "2026-03-25T21:19:57+00:00",
-      "summary": "Rafa Leao's season has been decidedly troubled from a physical point of view: first the injury to his soleus which caused him to miss two months of the championship, then a groin that comes and goes which obviously limits him from a physical point of view..."
-    },
-    {
-      "id": "dc4a128c1aed",
-      "title": "Pellegatti insists: \"This year is time for foundations, with the 4-3-3 we would never have scored 63 points\"",
-      "url": "https://www.milannews.it/news/pellegatti-insiste-quest-anno-tempo-delle-fondamenta-col-4-3-3-non-avremmo-mai-fatto-63-punti-611829",
-      "source": "milannews.it",
-      "date": "2026-03-25T21:10:26+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti spoke of a possible treasure deriving from loan redemptions and then responded to those who continue to ask for the 4-3-3 instead of the tried and tested 3-5-2."
-    },
-    {
       "id": "33ebc1707822",
       "title": "Leao denies Milan training ground argument with Allegri",
       "url": "https://football-italia.net/leao-denies-milan-argument-with-allegri/",
       "source": "football-italia.net",
       "date": "2026-03-25T21:03:47+00:00",
       "summary": "Rafael Leao used social media to deny a report he had clashed with Milan coach..."
-    },
-    {
-      "id": "343e6746c0a1",
-      "title": "Tomori returns to the national team: here are the two England commitments in the next few days",
-      "url": "https://www.milannews.it/news/tomori-torna-in-nazionale-ecco-i-due-impegni-dell-inghilterra-nei-prossimi-giorni-611705",
-      "source": "milannews.it",
-      "date": "2026-03-25T21:00:13+00:00",
-      "summary": "The last stop of the 2025/2026 season is here: there are thirteen Rossoneri players busy with the selections of their respective countries and who will be called to play in the next few days."
-    },
-    {
-      "id": "65a1f270fe03",
-      "title": "MN - Giustiniani on Modric: \"If he wanted to stay, give him a pen to sign immediately\"",
-      "url": "https://www.milannews.it/news/mn-giustiniani-su-modric-se-volesse-rimanere-dategli-subito-una-penna-per-firmare-611834",
-      "source": "milannews.it",
-      "date": "2026-03-25T20:50:38+00:00",
-      "summary": "Gabriele Giustiniani, journalist and commentator for DAZN spoke exclusively for the editorial staff of MilanNews.it."
     },
     {
       "id": "9a4ab328422c",
