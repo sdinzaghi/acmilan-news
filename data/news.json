@@ -1,13 +1,101 @@
 {
-  "lastUpdated": "2026-03-27T11:40:46.357352+00:00",
+  "lastUpdated": "2026-03-27T13:03:32.690031+00:00",
   "articles": [
+    {
+      "id": "f6a7fc0d489a",
+      "title": "MN - Ravezzani: \"When Milan approached Inter, two weeks ago, I said that I didn't believe in Milan winning the scudetto\"",
+      "url": "https://www.milannews.it/news/mn-ravezzani-quando-il-milan-si-e-avvicinato-all-inter-due-settimane-fa-avevo-detto-che-non-credevo-al-milan-che-vince-lo-scudetto-611905",
+      "source": "milannews.it",
+      "date": "2026-03-27T12:50:00+00:00",
+      "summary": "Fabio Ravezzani, director of TeleLombardia, was interviewed by MilanNews.it."
+    },
+    {
+      "id": "e67be88e4394",
+      "title": "French media praise ‘precious’ Rabiot and ‘alert’ Maignan after Brazil friendly win",
+      "url": "https://sempremilan.com/french-media-praise-precious-rabiot-maignan",
+      "source": "sempremilan.com",
+      "date": "2026-03-27T12:45:00+00:00",
+      "summary": "Mike Maignan and Adrien Rabiot played for France in the friendly against Brazil in the United States, and were on the winning side. Milan’s 13 internationals will rack up over 100,000km of travel during the international break, at least as per the estimates from La Gazzetta dello Sport. Massimiliano"
+    },
+    {
+      "id": "d66b8ee79e9a",
+      "title": "Pasotto: \"Allegri rightly underlines that Leao made himself available despite the obvious physical suffering\"",
+      "url": "https://www.milannews.it/news/pasotto-allegri-sottolinea-giustamente-che-leao-s-e-messo-a-disposizione-nonostante-l-evidente-sofferenza-fisica-611878",
+      "source": "milannews.it",
+      "date": "2026-03-27T12:40:51+00:00",
+      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on Rafael Leao: \"When the news of Rafa's knockout spread the day before, someone also thought of the most evil scenario: do you want to see..."
+    },
+    {
+      "id": "6199e85e9fb0",
+      "title": "Naples, the Lukaku case breaks out: the Belgian could end up out of the squad. The latest from Sky",
+      "url": "https://www.milannews.it/l-avversario/napoli-scoppia-il-caso-lukaku-il-belga-puo-finire-fuori-rosa-le-ultime-da-sky-612062",
+      "source": "milannews.it",
+      "date": "2026-03-27T12:30:09+00:00",
+      "summary": "In the last few hours, the Romelu Lukaku case broke out in Naples and he has not yet returned to Italy from Belgium."
+    },
+    {
+      "id": "f8f0694ab8d0",
+      "title": "MN - Milanello, Gabbia aside today too. The Rossoneri's program for the next few days",
+      "url": "https://www.milannews.it/da-milanello/mn-milanello-gabbia-a-parte-anche-oggi-il-programma-dei-prossimi-giorni-dei-rossoneri-612061",
+      "source": "milannews.it",
+      "date": "2026-03-27T12:20:59+00:00",
+      "summary": "Milan, without the internationals, trained this morning at Milanello: Matteo Gabbia, who is recovering after the operation at the beginning of March for an inguinal hernia, also worked separately today, while Rafael Leao was not present who ..."
+    },
+    {
+      "id": "34d14359363c",
+      "title": "CorSport: Two months, two missions – Gimenez fired up ahead of defining stretch",
+      "url": "https://sempremilan.com/two-months-two-missions-gimenez",
+      "source": "sempremilan.com",
+      "date": "2026-03-27T12:20:00+00:00",
+      "summary": "Santiago Gimenez made his return after over four months out, and he has two missions between now and the end of the season. As Corriere dello Sport (via MilanPress) report, Gimenez has two objectives in this final two months of the season: 1) play well enough to earn a stay at his beloved Milan and "
+    },
+    {
+      "id": "dd7d33a930f9",
+      "title": "PHOTO - The AC Milan players in pediatrics at the Del Ponte hospital in Varese: Gabbia and Loftus-Cheek also present",
+      "url": "https://www.milannews.it/news/foto-i-calciatori-del-milan-in-pediatria-all-ospedale-del-ponte-di-varese-presenti-anche-gabbia-e-loftus-cheek-612060",
+      "source": "milannews.it",
+      "date": "2026-03-27T12:10:48+00:00",
+      "summary": "Yesterday, two players from the Rossoneri first team, Matteo Gabbia and Ruben Loftus-Cheek, and two members of the Milan Futuro squad, Jacopo Sardo and Mattia Piermarini, visited the Pediatrics department of the Del Po Hospital..."
+    },
+    {
+      "id": "197fce10eabd",
+      "title": "Panichelli from stars to pain: Milan followed him, he played for Argentina. Yesterday he broke his cruciate (for the second time)",
+      "url": "https://www.milannews.it/news/panichelli-dalle-stelle-al-dolore-lo-seguiva-il-milan-giocava-per-l-argentina-ieri-si-e-rotto-il-crociato-per-la-seconda-volta-612042",
+      "source": "milannews.it",
+      "date": "2026-03-27T12:00:48+00:00",
+      "summary": "Extreme blow for Strasbourg and the Argentine national team: Joaquín Panichelli will have to give up his World Cup dream."
+    },
+    {
+      "id": "37f02cf783fa",
+      "title": "Reports: Tonali has conditional agreement to leave Newcastle – Milan return ‘complicated’",
+      "url": "https://sempremilan.com/tonali-agreement-leave-newcastle-milan-complicated",
+      "source": "sempremilan.com",
+      "date": "2026-03-27T11:55:00+00:00",
+      "summary": "Sandro Tonali has a concrete possibility of leaving Newcastle United in the summer, but a return to AC Milan seems unlikely. As Calciomercato.com write, the news is that Tonali has an agreement with Newcastle to leave in the summer, subject to certain conditions being met. The Shields Gazette report"
+    },
+    {
+      "id": "cf6d44a6487d",
+      "title": "Modric future in the national team? Coach Dalic: \"Luka knows what he will do and how he will continue. He is unique and unrepeatable\"",
+      "url": "https://www.milannews.it/news/futuro-modric-in-nazionale-il-ct-dalic-luka-sa-cosa-fara-e-come-proseguira-e-unico-e-irripetibile-612056",
+      "source": "milannews.it",
+      "date": "2026-03-27T11:50:00+00:00",
+      "summary": "On the Italian night between Thursday and Friday, Croatia took the field in Orlando, Florida, to challenge Colombia in a friendly match, which they beat with a result of 2-1."
+    },
+    {
+      "id": "c3eb44f01054",
+      "title": "From Milan to Mexico, Gimenez has two months to regain ownership",
+      "url": "https://www.milannews.it/news/dal-milan-al-messico-gimenez-ha-due-mesi-di-tempo-per-riprendersi-la-titolarita-612005",
+      "source": "milannews.it",
+      "date": "2026-03-27T11:40:00+00:00",
+      "summary": "After a long stop, Santiago Gimenez is back at AC Milan's disposal."
+    },
     {
       "id": "38646d5ad01d",
       "title": "Bucchioni on Leao: \"The issue that must be addressed, you can't still ask yourself what he will do\"",
       "url": "https://www.milannews.it/news/bucchioni-su-leao-tema-che-va-affrontato-non-puoi-chiederti-ancora-cosa-fara-612045",
       "source": "milannews.it",
       "date": "2026-03-27T11:30:00+00:00",
-      "summary": "Enzo Bucchioni, connected on TMW Radio, spoke about Rafa Leao like this: \"It's a topic that needs to be addressed. He's been playing for Milan for six-seven years, you still can't ask yourself what Leao will do, if he'll raise his performance.\""
+      "summary": "Enzo Bucchioni, live on TMW Radio, spoke about Rafa Leao like this: \"It's a topic that needs to be addressed. He's been playing for Milan for six-seven years, you still can't ask yourself what Leao will do, if he'll raise his performance.\""
     },
     {
       "id": "b58c181213c2",
@@ -146,14 +234,6 @@
       "summary": "On yesterday's Italian evening, equivalent to the afternoon in Boston, France played a luxury friendly against Brazil, in a highly valuable test match approaching the World Cup."
     },
     {
-      "id": "6cade90f9e4e",
-      "title": "Leao in doubt towards Napoli: here are the Portuguese's next plans",
-      "url": "https://www.milannews.it/news/leao-in-dubbio-verso-il-napoli-ecco-i-prossimi-piani-del-portoghese-612004",
-      "source": "milannews.it",
-      "date": "2026-03-27T09:30:00+00:00",
-      "summary": "At Milan it will be necessary to evaluate Rafa Leao's physical condition in view of the big match on Easter Monday against Napoli. As Corriere dello Sport recalls, the Portuguese is now in Portugal."
-    },
-    {
       "id": "6f73c332da3f",
       "title": "MN: Lazio star the ‘hottest name’ to bolster Milan’s defence – why he is an ideal fit",
       "url": "https://sempremilan.com/lazio-gila-hottest-name-milan-defence",
@@ -162,68 +242,12 @@
       "summary": "AC Milan are looking to add at least one centre-back to the squad this summer, and Mario Gila is reportedly the stand-out name. If we rewind the tape about a year, after 30 Serie A games Milan were sat in ninth with 47 points and 35 goals conceded. They had one of the worst defences […]\nThe post MN:"
     },
     {
-      "id": "3d2aa3100c7e",
-      "title": "Bartesaghi promoted with full marks with the U21: the Gazzetta report card",
-      "url": "https://www.milannews.it/news/bartesaghi-promosso-a-pieni-voti-con-l-u21-la-pagella-della-gazzetta-612028",
-      "source": "milannews.it",
-      "date": "2026-03-27T09:20:00+00:00",
-      "summary": "Truly a great performance, of a superior category, what Davide Bartesaghi gave yesterday afternoon with the Italy U21 shirt in the match that the Azzurrini of coach Silvio Baldini won by dominating against Macedonia from ..."
-    },
-    {
-      "id": "4a6181448380",
-      "title": "Milan and Fondazione Milan in New York to inspire new generations of diplomats",
-      "url": "https://www.milannews.it/news/milan-e-fondazione-milan-a-new-york-per-ispirare-le-nuove-generazioni-di-diplomatici-612051",
-      "source": "milannews.it",
-      "date": "2026-03-27T09:10:00+00:00",
-      "summary": "Rossoneri legend and ambassador of this institutional visit, Alexandre Pato met with over 4."
-    },
-    {
-      "id": "7bdc8156990a",
-      "title": "Milan on the talented 18-year-old Karetsas: lots of competition and high price",
-      "url": "https://www.milannews.it/primo-piano/il-milan-sul-talento-18enne-karetsas-tanta-concorrenza-e-prezzo-elevato-612049",
-      "source": "milannews.it",
-      "date": "2026-03-27T09:00:00+00:00",
-      "summary": "The national team break, especially the last one which is very close to the end of the season, is always a good opportunity to talk about the transfer market."
-    },
-    {
       "id": "1e971213db40",
       "title": "GdS: Leao returns to Portugal in recovery bid – why next two months are ‘crucial’ for his future",
       "url": "https://sempremilan.com/leao-portugal-next-two-months-crucial",
       "source": "sempremilan.com",
       "date": "2026-03-27T09:00:00+00:00",
       "summary": "Rafael Leao has flown to his homeland Portugal in the hopes of accelerating his recovery ahead of the Napoli game. La Gazzetta dello Sport (seen below) write this morning that ‘Rafa is returning home’. After Wednesday’s quick consultation with a specialist outside Italy, yesterday he went back to hi"
-    },
-    {
-      "id": "6ae42f1078fc",
-      "title": "CorSport on Leao: \"Rest and clinical tests in Portugal\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-su-leao-riposo-e-test-clinici-in-portogallo-612003",
-      "source": "milannews.it",
-      "date": "2026-03-27T08:50:00+00:00",
-      "summary": "For the big match on Easter Monday against Napoli, Milan hopes to also have Rafa Leao available. Corriere dello Sport talks about it this morning on newsstands: \"Rest and clinical tests in Portugal\"."
-    },
-    {
-      "id": "85e6c431076d",
-      "title": "The QS writes: \"Waiting for Leao and Lautaro. Milan and Inter, we need the big names\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-qs-scrive-attesa-per-leao-e-lautaro-milan-e-inter-servono-i-big-612021",
-      "source": "milannews.it",
-      "date": "2026-03-27T08:40:24+00:00",
-      "summary": "Milan and Inter right now have at least one thing in common: both number 10s are working hard during this break to become available again."
-    },
-    {
-      "id": "68000c218f12",
-      "title": "Tuttosport on Leao: \"At home but with Maradona in mind\"",
-      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-su-leao-a-casa-ma-con-la-testa-al-maradona-612009",
-      "source": "milannews.it",
-      "date": "2026-03-27T08:30:29+00:00",
-      "summary": "The situation of Rafael Leao is more delicate than could have been expected and will be the subject of careful evaluations during this break for the national teams, which is decisive for launching well on the final straight of the season..."
-    },
-    {
-      "id": "ef36232afafc",
-      "title": "Bologna raises the wall on Castro, CorSport: \"Untouchable for at least a year\"",
-      "url": "https://www.milannews.it/rassegna-stampa/bologna-alza-il-muro-su-castro-il-corsport-intoccabile-almeno-per-un-anno-612008",
-      "source": "milannews.it",
-      "date": "2026-03-27T08:20:16+00:00",
-      "summary": "One of the names that has been most strongly proposed in recent days as a serious candidate for Milan's attack is that of the Argentine centre-forward Santiago Castro, Bologna's 2004-born striker who this season is ..."
     },
     {
       "id": "f27ca91ad852",
@@ -306,36 +330,12 @@
       "summary": "Wednesday brought good news from Milanello as the AC Milan squad began preparing for the Easter Monday game against Napoli. Milan welcomed Ruben Loftus-Cheek back to training yesterday, finally following the serious injury he sustained against Parma in the clash with Corvi. The Englishman had suffer"
     },
     {
-      "id": "208bfbd80a42",
-      "title": "Gimenez reveals more on injury ordeal with Milan: “I couldn’t keep going, not even run”",
-      "url": "https://sempremilan.com/gimenez-reveals-more-injury-ordeal-milan",
-      "source": "sempremilan.com",
-      "date": "2026-03-26T14:12:00+00:00",
-      "summary": "Santiago Gimenez has lifted the lid on what his recovery from surgery was like, having just made his return to the field. Gimenez returned to the field against Torino after almost five months out (his last appearance was at the end of October). Having battled through pain for a while, he made the de"
-    },
-    {
-      "id": "111bf1911131",
-      "title": "Giroud thanks AC Milan for fourth shirt gift: “A big hug to all Milanisti”",
-      "url": "https://sempremilan.com/giroud-thanks-ac-milan-shirt-gift",
-      "source": "sempremilan.com",
-      "date": "2026-03-26T13:35:41+00:00",
-      "summary": "Olivier Giroud was gifted the new fourth shirt by AC Milan, and he posted a video showing it off on his social media. Giroud is remembered by many as the player who ‘broke the curse of the No.9’ at Milan. The Frenchman was a pivotal figure in the 2021-22 Scudetto win, scoring some important goals […"
-    },
-    {
       "id": "9b7591864ca2",
       "title": "Report Milan interested in Rashford as Barcelona future uncertain",
       "url": "https://football-italia.net/milan-interested-rashford-barcelona-uncertain/",
       "source": "football-italia.net",
       "date": "2026-03-26T13:26:04+00:00",
       "summary": "Milan and Paris Saint-Germain are reportedly interested in Manchester United-owned striker Marcus Rashford as Barcelona..."
-    },
-    {
-      "id": "fa680cc89425",
-      "title": "GdS: Over 100,000km of travel – Allegri’s concerns about Milan’s 13 internationals",
-      "url": "https://sempremilan.com/allegri-concerns-about-milan-13-internationals",
-      "source": "sempremilan.com",
-      "date": "2026-03-26T13:15:24+00:00",
-      "summary": "Several AC Milan players will jet off around the world during the international break to represent their national teams. As La Gazzetta dello Sport report, the 13 Milan squad members called up to their national teams during the break will travel over 100,000 kilometres. There are no statistics on in"
     },
     {
       "id": "33ebc1707822",
