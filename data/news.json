@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-03-30T19:57:23.535239+00:00",
+  "lastUpdated": "2026-03-30T20:50:55.253883+00:00",
   "articles": [
+    {
+      "id": "348f31a8b918",
+      "title": "There are four candidates for the Rossoneri MVP of the month of March",
+      "url": "https://www.milannews.it/news/sono-quattro-i-candidati-per-l-mvp-rossonero-del-mese-di-marzo-612336",
+      "source": "milannews.it",
+      "date": "2026-03-30T20:40:00+00:00",
+      "summary": "The month of March has officially gone to the archives, at least as far as Milan is concerned, who will play their next match upon returning from the break in April: Monday 6 April at Napoli, in ..."
+    },
+    {
+      "id": "2085306f293b",
+      "title": "Taibi: \"The best goalkeeper in Serie A? I really like Maignan, but I choose Carnesecchi\"",
+      "url": "https://www.milannews.it/gli-ex/taibi-il-miglior-portiere-della-serie-a-mi-piace-molto-maignan-ma-scelgo-carnesecchi-612325",
+      "source": "milannews.it",
+      "date": "2026-03-30T20:30:52+00:00",
+      "summary": "As reported by tuttonapoli."
+    },
+    {
+      "id": "b9524314e88a",
+      "title": "A survey reveals that English fans are against VAR",
+      "url": "https://www.milannews.it/news/un-sondaggio-svela-che-i-tifosi-inglesi-sono-contrari-al-var-612334",
+      "source": "milannews.it",
+      "date": "2026-03-30T20:20:04+00:00",
+      "summary": "VAR continues to fail to convince English fans."
+    },
+    {
+      "id": "f1e7f976aa34",
+      "title": "Gattuso: \"If we miss another World Cup it will be a blow and I will take responsibility\"",
+      "url": "https://www.milannews.it/news/gattuso-se-manchiamo-un-altro-mondiale-sara-una-mazzata-e-mi-assumero-le-responsabilita-612340",
+      "source": "milannews.it",
+      "date": "2026-03-30T20:10:13+00:00",
+      "summary": "(ANSA) - ZENICA, MARCH 30 - If Italy does not qualify for the World Cup for the third time in a row, for Rino Gattuso \"it will be a disappointment, it will certainly be a major blow."
+    },
+    {
+      "id": "7c4df025f64e",
+      "title": "Barça are waiting for Lewandowski who has many offers: Juve and Milan are also there",
+      "url": "https://www.milannews.it/calciomercato-milan/il-barca-aspetta-lewandowski-che-ha-tante-offerte-ci-sono-anche-juve-e-milan-612353",
+      "source": "milannews.it",
+      "date": "2026-03-30T20:00:00+00:00",
+      "summary": "This evening the Catalan sports newspaper Marca reports an update on the situation linked to the future of Robert Lewandowski, one of the strongest strikers of his generation who at the end of this season ..."
+    },
     {
       "id": "a8f99fae5e9a",
       "title": "Report Milan frustrated by Corinthians and abandon Andre pursuit",
@@ -39,7 +79,7 @@
       "url": "https://www.milannews.it/calciomercato-milan/romano-bernardo-silva-ha-deciso-di-lasciare-il-m-city-tante-squadre-su-di-lui-anche-in-italia-612350",
       "source": "milannews.it",
       "date": "2026-03-30T19:30:39+00:00",
-      "summary": "During a video published a few minutes ago by Fabrizio Romano on his YouTube channel, the transfer expert spoke about Berardi Silva's now definitive decision to leave Manchester City this summer."
+      "summary": "During a video published a few minutes ago by Fabrizio Romano on his YouTube channel, the transfer expert spoke about Berardo Silva's now definitive decision to leave Manchester City this summer."
     },
     {
       "id": "a2e6afd048ce",
@@ -146,52 +186,12 @@
       "summary": "Last stop of the 2025/26 season, the last occasion on which several Rossoneri will be absent from Milanello to respond to the call-ups of their respective national teams."
     },
     {
-      "id": "559d7ea48116",
-      "title": "Ancelotti: \"I hope Italy qualifies but I won't watch the match\"",
-      "url": "https://www.milannews.it/news/ancelotti-spero-che-l-italia-si-qualifichi-ma-non-vedro-la-partita-612316",
-      "source": "milannews.it",
-      "date": "2026-03-30T17:30:02+00:00",
-      "summary": "(ANSA) - SAO PAULO, MARCH 30 - \"I hope that Italy can qualify for the World Cup, but tomorrow I won't see the national team: we have to prepare well for our match against Croatia\"."
-    },
-    {
-      "id": "d36b05cdf89b",
-      "title": "Dhorasoo returns as protagonist: \"I want to start coaching, I aim to be number one\"",
-      "url": "https://www.milannews.it/news/dhorasoo-torna-protagonista-voglio-iniziare-ad-allenare-punto-ad-essere-il-numero-uno-612243",
-      "source": "milannews.it",
-      "date": "2026-03-30T17:20:11+00:00",
-      "summary": "In an interview with the French newspaper L'Equipe, Vikash Dhorasoo declared that he is ready to embark on a new path in the world of football."
-    },
-    {
-      "id": "df9114c353e6",
-      "title": "MN - Kostic to Milan, deal not at risk. Contracts signed and deposited",
-      "url": "https://www.milannews.it/primo-piano/mn-kostic-al-milan-affare-non-a-rischio-contratti-firmati-e-depositati-612324",
-      "source": "milannews.it",
-      "date": "2026-03-30T17:08:13+00:00",
-      "summary": "The editorial team of MilanNews.it has learned that the Kostic deal with Milan is not at risk despite the outburst of the vice-president of Partizan Belgrade."
-    },
-    {
-      "id": "e8c8ed02780a",
-      "title": "From fear to relief: Rabiot is there and Milan needs him in Naples",
-      "url": "https://www.milannews.it/primo-piano/dalla-paura-al-sollievo-rabiot-c-e-e-il-milan-a-napoli-ha-bisogno-di-lui-612283",
-      "source": "milannews.it",
-      "date": "2026-03-30T17:00:00+00:00",
-      "summary": "A sigh of relief after holding my breath. It must have been like this around Milanello after the news of the blow suffered by Adrien Rabiot against France."
-    },
-    {
       "id": "836f74dd4657",
       "title": "“Given what he had to give” – Longoni believes Leao’s Milan tenure is at ‘natural end’",
       "url": "https://sempremilan.com/longoni-leao-milan-natural-end",
       "source": "sempremilan.com",
       "date": "2026-03-30T17:00:00+00:00",
       "summary": "Journalist Andrea Longoni has suggested that Rafael Leao’s time at AC Milan may be reaching its ‘natural end’. Leao has been at Milan since 2019 which means that he is in his seventh season at the club. He has become one of the league’s cover men, amassing 80 goals and 64 assists in 284 appearances "
-    },
-    {
-      "id": "679685db0461",
-      "title": "MN - Turci on Leao: \"Future? There is a tactical theme to understand. Here's what\"",
-      "url": "https://www.milannews.it/news/mn-turci-su-leao-futuro-c-e-un-tema-tattico-da-capire-ecco-quale-612277",
-      "source": "milannews.it",
-      "date": "2026-03-30T16:50:00+00:00",
-      "summary": "The key period of the season, the one that can decide everything. Milan is still in the running for the scudetto, and the big match on Easter Monday against Napoli could further direct the Rossoneri's race."
     },
     {
       "id": "78368e488bd7",
