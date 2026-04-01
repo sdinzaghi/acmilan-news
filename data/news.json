@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2026-04-01T13:18:33.690598+00:00",
+  "lastUpdated": "2026-04-01T15:03:15.694547+00:00",
   "articles": [
+    {
+      "id": "1cab24963092",
+      "title": "Report: Milan scouted Bosnia’s penalty hero in Italy’s gut-wrenching play-off loss",
+      "url": "https://sempremilan.com/milan-scouted-bosnia-hero-bajraktarevic-italy",
+      "source": "sempremilan.com",
+      "date": "2026-04-01T15:00:00+00:00",
+      "summary": "Bosnia inflicted more World Cup heartbreak on Italy on Tuesday night, and AC Milan had a scout there to watch one of their rising stars. The eyes of a nation were on Zenica last night, where the Azzurri failed to qualify for the World Cup for the third consecutive edition. Many prominent figures wit"
+    },
+    {
+      "id": "1f7a475e5731",
+      "title": "MN - Ferrè: \"Milan are the anti-Inter? It depends on the Nerazzurri. If they beat Roma...\"",
+      "url": "https://www.milannews.it/news/mn-ferre-milan-l-anti-inter-dipende-dai-nerazzurri-se-battono-la-roma-612528",
+      "source": "milannews.it",
+      "date": "2026-04-01T14:50:00+00:00",
+      "summary": "After Italy's bitter elimination from the World Cup playoffs, Serie A will return this weekend and on Monday there will be great attention on the big match between Napoli and Milan. To address the topics of Diavolo, the MilanNews editorial team."
+    },
+    {
+      "id": "9f3e787c4474",
+      "title": "MN - Filming at Milanello, Furlani and Tare also present",
+      "url": "https://www.milannews.it/news/mn-ripresa-a-milanello-presenti-anche-furlani-e-tare-612578",
+      "source": "milannews.it",
+      "date": "2026-04-01T14:39:06+00:00",
+      "summary": "Milan restarts this afternoon: training has just started at Milanello, the first of the week which will then lead to the big match on Easter Monday against Napoli."
+    },
+    {
+      "id": "309a91c46bcd",
+      "title": "From Naples, Alvino: \"Inter will beat Roma 4-0. We have the obligation to win to overtake Milan\"",
+      "url": "https://www.milannews.it/news/da-napoli-alvino-l-inter-asfaltera-4-0-la-roma-noi-abbiamo-l-obbligo-di-vincere-per-scavalcare-il-milan-612513",
+      "source": "milannews.it",
+      "date": "2026-04-01T14:30:47+00:00",
+      "summary": "Carlo Alvino, a journalist of Neapolitan faith, spoke to Radio Crc about the Lukaku case and the moment that the Italian team is experiencing in the season: \"I only think about Napoli-Milan. The Italian team has the obligation to win to overtake ..."
+    },
+    {
+      "id": "7309cf2f7b07",
+      "title": "Schira: Milan could lose teenage goalkeeper to Premier League – Man City lead the race",
+      "url": "https://sempremilan.com/milan-longoni-premier-league-manchester-city",
+      "source": "sempremilan.com",
+      "date": "2026-04-01T14:30:00+00:00",
+      "summary": "AC Milan are currently poised to lose their promising young goalkeeper Alessandro Longoni, with Manchester City among the clubs keen. The Italian national team are going through a very difficult phase, having failed to make the World Cup for the third time in a row. However, there are some talents i"
+    },
+    {
+      "id": "cf19aee1ca90",
+      "title": "Trial of Italy after the World Cup failure. Zoff's accusations also arrive",
+      "url": "https://www.milannews.it/news/processo-all-italia-dopo-il-fallimento-mondiale-arrivano-anche-le-accuse-di-zoff-612538",
+      "source": "milannews.it",
+      "date": "2026-04-01T14:20:16+00:00",
+      "summary": "(ANSA) - ROME, APRIL 01 - \"The mood is like that of those who played yesterday. Unfortunately we are out, it's a setback for Italian football."
+    },
+    {
+      "id": "57f1f8be952f",
+      "title": "Order: \"Leao and Pulisic reduced by 30%. Let's reduce the performance of Lautaro and Thuram, or Hojlund and McTominay, to 30%, and imagine the ranking\"",
+      "url": "https://www.milannews.it/news/ordine-leao-e-pulisic-ridotti-del-30-riduciamo-al-30-il-rendimento-di-lautaro-e-thuram-oppure-di-hojlund-e-mctominay-e-immaginiamo-la-classifica-612515",
+      "source": "milannews.it",
+      "date": "2026-04-01T14:10:42+00:00",
+      "summary": "Franco Ordine, journalist, expressed himself as follows in the Corriere dello Sport regarding Napoli-Milan: \"Anyone who wears Max Allegri's tight shoes from today on should feel uncomfortable because we are exactly at the moment ..."
+    },
+    {
+      "id": "5e60e437911d",
+      "title": "MN EXCLUSIVE - Ferrè: \"Allegri has 75% of Milan's merits. Leao? I struggle to see him still in the Rossoneri\"",
+      "url": "https://www.milannews.it/primo-piano/esclusiva-mn-ferre-allegri-ha-il-75-dei-meriti-del-milan-leao-fatico-a-vederlo-ancora-in-rossonero-612526",
+      "source": "milannews.it",
+      "date": "2026-04-01T14:00:00+00:00",
+      "summary": "After Italy's bitter elimination from the World Cup playoffs, Serie A will return this weekend and on Monday there will be great attention on the big match between Napoli and Milan. To address the topics of Diavolo, the MilanNews editorial team."
+    },
+    {
+      "id": "0552a7b19ba6",
+      "title": "Savicevic denies contact with Milan over Kostic and suggests instant loan is needed",
+      "url": "https://sempremilan.com/savicevic-denies-contact-kostic-milan-loan",
+      "source": "sempremilan.com",
+      "date": "2026-04-01T14:00:00+00:00",
+      "summary": "Dejan Savicevic has denied that he spoke to anyone at AC Milan regarding their latest signing, striker Andrej Kostic. On Tuesday, Milan announced the signing of Kostic from Partizan Belgrade. He is certainly an exciting name for the future on paper, having score 11 goals so far this season across al"
+    },
+    {
+      "id": "72d103733e14",
+      "title": "MN - Today Maignan, Tomori and Leao returned to Milanello",
+      "url": "https://www.milannews.it/da-milanello/mn-oggi-sono-rientrati-a-milanello-maignan-tomori-e-leao-612573",
+      "source": "milannews.it",
+      "date": "2026-04-01T13:55:00+00:00",
+      "summary": "The Milan restarts this afternoon: training has just started at Milanello, the first of a series that will lead to the big match on Easter Monday that the Rossoneri will play at 8pm."
+    },
+    {
+      "id": "a01f9e3a98dd",
+      "title": "Compagnoni: \"I'm amazed by Lukaku. Two games are coming with which we will understand a lot about the fate of this championship\"",
+      "url": "https://www.milannews.it/news/compagnoni-sono-sbalordito-da-lukaku-arrivano-due-partite-con-cui-capiremo-molto-del-destino-di-questo-campionato-612512",
+      "source": "milannews.it",
+      "date": "2026-04-01T13:50:43+00:00",
+      "summary": "Maurizio Compagnoni, SkySport journalist, expressed himself as follows on Radio Marte on the Lukaku case towards Napoli-Milan: “I am stunned, because I am convinced that if Lukaku had spoken to Napoli, Napoli would not have ..."
+    },
+    {
+      "id": "01ef4874f357",
+      "title": "Magic moment for Pavlovic: after the goal against Turin comes the overhead kick against Saudi Arabia",
+      "url": "https://www.milannews.it/news/magic-moment-per-pavlovic-dopo-il-gol-al-torino-arriva-la-rovesciata-contro-l-arabia-saudita-612460",
+      "source": "milannews.it",
+      "date": "2026-04-01T13:40:00+00:00",
+      "summary": "A truly magical moment for Strahinja Pavlović, who yesterday scored a super overhead kick goal for his Serbia in the 2-1 friendly victory against Saudi Arabia."
+    },
+    {
+      "id": "471b10860ea0",
+      "title": "De Vecchi specifies: \"Bellanova went to Bordeaux for money. Now in Italy there aren't many fifths of his level\"",
+      "url": "https://www.milannews.it/calciomercato-milan/de-vecchi-precisa-bellanova-era-andato-al-bordeaux-per-soldi-ora-in-italia-non-ci-sono-molti-quinti-del-suo-livello-612511",
+      "source": "milannews.it",
+      "date": "2026-04-01T13:30:07+00:00",
+      "summary": "Walter De Vecchi, former AC Milan player and former coach of the Rossoneri youth sector, expressed himself thus on Radio Rossonera about Raoul Bellanova, an Atalanta footballer linked to AC Milan: \"So, Bellanova is a c ..."
+    },
+    {
+      "id": "068ef3731ffd",
+      "title": "Watch: Bartesaghi gets third assist of international break for Italy U21s vs. Sweden",
+      "url": "https://sempremilan.com/bartesaghi-third-assist-break-italy-u21-sweden",
+      "source": "sempremilan.com",
+      "date": "2026-04-01T13:30:00+00:00",
+      "summary": "Davide Bartesaghi’s fantastic form continues, as he racked up another assist for Italy U21s in their 4-0 rout of Sweden. A few days ago, Bartesaghi once again shone for the Azzurrini in a game against North Macedonia. The Milan academy graduate got a pair of assists on the night, the first of which "
+    },
+    {
+      "id": "73aa44b0de71",
+      "title": "Serie A, referee appointments for the 31st round: Sozza for Inter-Roma, Duties for Maradona",
+      "url": "https://www.milannews.it/news/serie-a-le-designazioni-arbitrali-per-il-31-turno-sozza-per-inter-roma-doveri-al-maradona-612552",
+      "source": "milannews.it",
+      "date": "2026-04-01T13:20:25+00:00",
+      "summary": "The complete referee designations for the 31st round of Serie A Enilive."
+    },
     {
       "id": "d82534bd75d4",
       "title": "Visnadi: \"Leao, with the 3-5-2, is constantly making a fool of himself and doesn't perform as well as he could in another context\"",
@@ -87,7 +207,7 @@
       "url": "https://www.milannews.it/primo-piano/fine-sosta-come-sono-andati-i-rossoneri-brillano-bartesaghi-e-pavlovic-612560",
       "source": "milannews.it",
       "date": "2026-04-01T12:00:00+00:00",
-      "summary": "Tonight, with some matches played overseas, the national team break came to an end, the last of this season."
+      "summary": "Tonight, with some matches played overseas, the international break, the last of this season, ended."
     },
     {
       "id": "2669cc4e302b",
@@ -106,52 +226,12 @@
       "summary": "AC Milan and Inter have been left surprised by the latest investigation into the stadium project, more specifically the sale of San Siro. The investigation by the Public Prosecutor’s Office casts doubt on the legality of the sale of the San Siro and the surrounding areas to the two clubs, something "
     },
     {
-      "id": "ee9e59caabbc",
-      "title": "Tare said in 2024 that Gila is, together with Bastoni, the most promising defender in Italy",
-      "url": "https://www.milannews.it/calciomercato-milan/tare-disse-nel-2024-che-gila-e-assieme-a-bastoni-il-difensore-di-maggior-prospettiva-che-c-e-in-italia-612502",
-      "source": "milannews.it",
-      "date": "2026-04-01T11:40:28+00:00",
-      "summary": "Elmar Bergonzini, journalist, expressed himself as follows in La Gazzetta dello Sport on Mario Gila: \"A bet won once. Which Igli Tare would like to confirm."
-    },
-    {
-      "id": "c5ee72e8bd90",
-      "title": "Pellegatti worried: \"A few months ago they told me: 'Be careful, they could ask Allegri to be Italy coach'\"",
-      "url": "https://www.milannews.it/news/pellegatti-preoccupato-qualche-mese-fa-mi-avevano-detto-attenzione-potrebbero-chiedere-ad-allegri-di-fare-il-ct-dell-italia-612524",
-      "source": "milannews.it",
-      "date": "2026-04-01T11:30:14+00:00",
-      "summary": "During his editorial for MilanNews.it, the journalist Carlo Pellegatti expressed himself as follows on the future of the Italian national team bench: \"I wrote the second part of this piece in the afternoon."
-    },
-    {
-      "id": "6031b1715372",
-      "title": "1st April, Rossoneri day: happy birthday to two AC Milan legends like Sacchi and Seedorf",
-      "url": "https://www.milannews.it/news/1-aprile-giorno-rossonero-tanti-auguri-a-due-leggende-milaniste-come-sacchi-e-seedorf-612548",
-      "source": "milannews.it",
-      "date": "2026-04-01T11:20:48+00:00",
-      "summary": "Every April 1st we celebrate at the Rossoneri. It is not the day of jokes but that of heavy birthdays, a bit like September 29th when the birth of Silvio Berlusconi and Andriy Shevchenko is celebrated."
-    },
-    {
       "id": "564b85f85f26",
       "title": "MN: ‘Perfect’ departing Real Madrid centre-back among four free agent ideas for Milan",
       "url": "https://sempremilan.com/rudiger-lewandowski-bernardo-goretzka-milan-ideas",
       "source": "sempremilan.com",
       "date": "2026-04-01T11:20:00+00:00",
       "summary": "AC Milan are always on the lookout for opportunities to strengthen the squad, and that especially includes free agents. In a feature earlier this week, we picked out five players who are on expiring contracts that could be of use for Milan. The management must address various gaps in the squad and b"
-    },
-    {
-      "id": "2639e966b10f",
-      "title": "Pasotto: \"It's difficult to imagine now whether Leao will be able to be called up for Napoli and, in turn, wear the starting shirt\"",
-      "url": "https://www.milannews.it/news/pasotto-difficile-immaginare-adesso-se-leao-potra-essere-convocato-per-napoli-e-a-cascata-indossare-la-maglia-da-titolare-612501",
-      "source": "milannews.it",
-      "date": "2026-04-01T11:10:35+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on Rafael Leao: \"Rafa in recent days had first had a consultation with a specialist and then, in fact, he had flown to Portugal."
-    },
-    {
-      "id": "d3cc3d83bdfe",
-      "title": "Gattuso, a man with dignity: he is moving towards resigning as coach of the national team",
-      "url": "https://www.milannews.it/news/gattuso-uomo-con-dignita-va-verso-le-dimissioni-da-ct-della-nazionale-612558",
-      "source": "milannews.it",
-      "date": "2026-04-01T11:02:30+00:00",
-      "summary": "According to what was reported by Il Messaggero, some sources close to Rino Gattuso have confirmed the intention of the current coach of the Italian national team to resign after the failure of the World Cup playoffs, which was..."
     },
     {
       "id": "efc83c0467c3",
@@ -162,52 +242,12 @@
       "summary": "There are likely to be big changes after Italy failed to qualify for another World Cup, and Massimiliano Allegri could be a target. Italy faced a do-or-die game against Bosnia and Herzegovina away from home on Tuesday night, knowing that they needed to win in order to book their place in the tournam"
     },
     {
-      "id": "9a90c945bb3a",
-      "title": "Renzi: \"In the federation as in some clubs we move forward between recommendations and friendships. Anyone who knows knows well what I'm referring to\"",
-      "url": "https://www.milannews.it/news/renzi-in-federazione-come-in-alcuni-club-si-va-avanti-tra-raccomandazioni-e-amichettismo-chi-conosce-sa-bene-a-cosa-mi-riferisco-612555",
-      "source": "milannews.it",
-      "date": "2026-04-01T10:50:20+00:00",
-      "summary": "Matteo Renzi, senator and number one of Italia Viva, expressed himself thus in his daily Enews on the failure of the Italian national team: \"Italy's third consecutive elimination from the football World Cup is not ..."
-    },
-    {
-      "id": "7a37bb38c88b",
-      "title": "The Minister of Sport points the finger at Gravina: \"It is incorrect to deny one's responsibilities, belittling other sports and attacking the institutions\"",
-      "url": "https://www.milannews.it/news/il-ministro-dello-sport-punta-il-dito-contro-gravina-scorretto-negare-le-proprie-responsabilita-sminuendo-gli-altri-sport-e-attaccando-le-istituzioni-612556",
-      "source": "milannews.it",
-      "date": "2026-04-01T10:39:08+00:00",
-      "summary": "Andrea Abodi, Minister of Sport, expressed himself as follows on the failure of the Italian national team: \"It is clear to everyone that Italian football must be re-founded and that this process must start again from a renewal of the top ..."
-    },
-    {
       "id": "fafc730ada1c",
       "title": "GdS: NBA derby brewing as AC Milan and Inter’s owners submit ‘expressions of interest’",
       "url": "https://sempremilan.com/nba-derby-milan-inter-expressions-interest",
       "source": "sempremilan.com",
       "date": "2026-04-01T10:30:00+00:00",
       "summary": "AC Milan and Inter are set to contest a derby away from the field. Not for a transfer target, but for a franchise in the NBA Europe league. According to La Gazzetta dello Sport, the deadline to submit non-binding expressions of interest to participate in the new NBA Europe was midnight last night. O"
-    },
-    {
-      "id": "6f00020afac7",
-      "title": "Baresi: \"All of Italian football must do mea culpa. Gattuso? It's not up to me to say whether he should continue or not, but he is among the least responsible\"",
-      "url": "https://www.milannews.it/news/baresi-tutto-il-calcio-italiano-deve-fare-mea-culpa-gattuso-non-spetta-a-me-dire-se-dovra-continuare-o-meno-ma-e-tra-i-meno-responsabili-612554",
-      "source": "milannews.it",
-      "date": "2026-04-01T10:27:21+00:00",
-      "summary": "Franco Baresi, honorary vice president of Milan, expressed himself thus on the failure of the Italian national team: \"Yesterday - reports Gazzetta."
-    },
-    {
-      "id": "fe56e09a6702",
-      "title": "Gravina arrives at the FIGC and answers the question like this: \"How am I? Good, good\"",
-      "url": "https://www.milannews.it/news/gravina-arriva-in-figc-e-risponde-cosi-alla-domanda-come-sto-bene-bene-612551",
-      "source": "milannews.it",
-      "date": "2026-04-01T10:18:45+00:00",
-      "summary": "(ANSA) - ROME, APRIL 01 - The president of the Football Federation, Gabriele Gravina, returned during the night from Zenica where Italy missed out on World Cup qualification and is now at the FIGC headquarters in Rome in Via Allegri."
-    },
-    {
-      "id": "e5f48d214616",
-      "title": "Napoli-Milan referee appointed: match entrusted to Doveri. At the Var Di Paolo with Mariani",
-      "url": "https://www.milannews.it/l-arbitro/designato-l-arbitro-di-napoli-milan-gara-affidata-a-doveri-al-var-di-paolo-con-mariani-612550",
-      "source": "milannews.it",
-      "date": "2026-04-01T10:09:00+00:00",
-      "summary": "Milan returns to training this afternoon at Milanello and will begin preparing for their return to the pitch, finally."
     },
     {
       "id": "bd3a2f4855d7",
@@ -224,14 +264,6 @@
       "source": "football-italia.net",
       "date": "2026-04-01T10:00:25+00:00",
       "summary": "Mario Balotelli’s goal against England on June 14, 2014, remains the last goal the Azzurri..."
-    },
-    {
-      "id": "df3b962dc206",
-      "title": "Rabiot makes Allegri smile. Today Leao returns, password: prudence",
-      "url": "https://www.milannews.it/primo-piano/rabiot-fa-sorridere-allegri-oggi-rientra-leao-parola-d-ordine-prudenza-612549",
-      "source": "milannews.it",
-      "date": "2026-04-01T10:00:00+00:00",
-      "summary": "This last break for the national teams, disastrous for Italian football, has also been put to rest, from this afternoon we can return to focusing on Milan at full capacity, with the Rossoneri returning to training at the centre..."
     },
     {
       "id": "af78ea39fc00",
@@ -296,38 +328,6 @@
       "source": "sempremilan.com",
       "date": "2026-03-31T18:00:00+00:00",
       "summary": "There could be a chance that AC Milan make a move for another of Massimiliano Allegri’s former players this summer.  Ahead of the mercato, it appears that the full-back situation will be assessed and there are a number of different options. However, buying a versatile wing-back could be the way forw"
-    },
-    {
-      "id": "9d0e93f0abff",
-      "title": "Watch: 16-year-old Milan starlet bags hat-trick for Italy U16 after urgent call-up",
-      "url": "https://sempremilan.com/16-yo-milan-starlet-bags-hat-trick-italy-u16",
-      "source": "sempremilan.com",
-      "date": "2026-03-31T17:30:00+00:00",
-      "summary": "There are certain ways to make yourself known, and one AC Milan youngster has done just that recently when playing for the Italian Under-16s. In football, you have to make an impact when given a chance. It may be your only one, so it is right to take advantage of moments. This is exactly what […]\nTh"
-    },
-    {
-      "id": "f8ccdc52138f",
-      "title": "TMW: Milan following PSV attacker compared to former target Zhegrova",
-      "url": "https://sempremilan.com/milan-following-psv-attacker-compared-former-interest",
-      "source": "sempremilan.com",
-      "date": "2026-03-31T17:00:00+00:00",
-      "summary": "AC Milan are considering a move for a youngster compared to Edon Zhegrova in the summer, according to a report today. In recent years, Milan have often looked to France as a talent hotspot. Of course, with their success there, it makes sense. However, some have felt it was a little excessive at time"
-    },
-    {
-      "id": "ac822c19b471",
-      "title": "Pellegatti admits €50m Vlahovic operation is unfeasible for Milan: “Out of reach”",
-      "url": "https://sempremilan.com/pellegatti-admits-50m-vlahovic-unfeasible-milan",
-      "source": "sempremilan.com",
-      "date": "2026-03-31T16:30:00+00:00",
-      "summary": "AC Milan will not sign Dusan Vlahovic this summer, it appears. Indeed, the Serbian who has been so close for a year, if not longer, will go elsewhere.  Perhaps even before Massimiliano Allegri arrived, Vlahovic was linked to Milan. He was seen as the elite striker who could fire the Rossoneri back t"
-    },
-    {
-      "id": "c79dad760cf6",
-      "title": "‘The moment of truth’ – Vitiello discusses the seriousness of Milan’s upcoming months",
-      "url": "https://sempremilan.com/vitiello-discusses-seriousness-milan-upcoming-weeks",
-      "source": "sempremilan.com",
-      "date": "2026-03-31T16:00:00+00:00",
-      "summary": "Over the next few months, the AC Milan project will be identifiable. It starts after the international break ends and from there, it will be a constant test.  The final months of the season are vital for Milan. Simply put, they will decide their own future in the last games of the season, whilst als"
     },
     {
       "id": "b4e09e07fa91",
