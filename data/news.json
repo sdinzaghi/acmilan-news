@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-04-02T20:33:53.517591+00:00",
+  "lastUpdated": "2026-04-02T21:36:13.803446+00:00",
   "articles": [
+    {
+      "id": "b82354a3693c",
+      "title": "Brambati on Italy's future: \"I suggest two names: Galliani flanked by Maldini\"",
+      "url": "https://www.milannews.it/news/brambati-sul-futuro-dell-italia-suggerisco-due-nomi-galliani-affiancato-da-maldini-612701",
+      "source": "milannews.it",
+      "date": "2026-04-02T21:30:22+00:00",
+      "summary": "Massimo Brambati, former footballer and prosecutor, spoke about the failure of Italian football and the possible figures who could restart it after yet another World Cup debacle. He spoke about it on TMW Radio."
+    },
+    {
+      "id": "c94d1e366d45",
+      "title": "The elections for the new positions in the FIGC will be called for June 22nd",
+      "url": "https://www.milannews.it/news/le-elezioni-per-le-nuove-cariche-in-figc-saranno-indette-per-il-22-giugno-612690",
+      "source": "milannews.it",
+      "date": "2026-04-02T21:20:18+00:00",
+      "summary": "(ANSA) - ROME, APRIL 02 - Gabriele Gravina announced his resignation as president of the FIGC during the summit with the federal components. The elections for the new positions will be called for June 22 (ANSA)."
+    },
+    {
+      "id": "29d34fd77853",
+      "title": "Pellegatti clear: \"We need to lock down Allegri. Let it not be taken as an excuse to let him go, we are not naive\"",
+      "url": "https://www.milannews.it/news/pellegatti-chiaro-bisogna-blindare-allegri-che-non-venga-presa-come-scusa-per-lasciarlo-andare-via-non-siamo-ingenui-612697",
+      "source": "milannews.it",
+      "date": "2026-04-02T21:10:12+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti spoke about the latest rumors linking Massimiliano Allegri to the national team and what Milan should do at this moment."
+    },
+    {
+      "id": "76a17262fa45",
+      "title": "Zoff harshly criticizes Italian football, focusing above all on the pace of the game",
+      "url": "https://www.milannews.it/news/zoff-critica-aspramente-il-calcio-italiano-soffermandosi-soprattutto-sui-ritmi-di-gioco-612651",
+      "source": "milannews.it",
+      "date": "2026-04-02T21:00:00+00:00",
+      "summary": "Dino Zoff, interviewed by Mattino di Padova, criticized Italian football: \"In Serie A we play slow football, with lots of referee whistles. The VAR intervenes as if it were raining, the rhythms are slow and the spectacle is affected."
+    },
+    {
+      "id": "5ac0976ce488",
+      "title": "Longhi sure: \"Napoli-Milan and Inter-Roma are not decisive but very indicative of the upcoming challenges\"",
+      "url": "https://www.milannews.it/news/longhi-sicuro-napoli-milan-e-inter-roma-non-sono-decisive-ma-molto-indicative-delle-prossime-sfide-612698",
+      "source": "milannews.it",
+      "date": "2026-04-02T20:50:49+00:00",
+      "summary": "Journalist Bruno Longhi spoke to the microphones of TMW Radio during Maracanà and, among other topics, also spoke about the two big matches of this weekend: Inter-Roma and Napoli-Milan."
+    },
+    {
+      "id": "759e15bdb194",
+      "title": "Who will be Italy's coach? Mancini-Conte duel, but there is also a sensational suggestion",
+      "url": "https://www.milannews.it/news/chi-sara-il-ct-dell-italia-duello-mancini-conte-ma-c-e-anche-una-clamorosa-suggestione-612655",
+      "source": "milannews.it",
+      "date": "2026-04-02T20:40:47+00:00",
+      "summary": "Fabio Licari, journalist, expressed himself as follows in La Gazzetta dello Sport on the future coach of the Italian national team: \"Head to head Mancini-Conte. With Mancini the closure was dramatic, with threats of court."
+    },
     {
       "id": "ba34b944a4d8",
       "title": "This is how Bartesaghi describes his first day at Milanello",
@@ -114,28 +162,12 @@
       "summary": "Davide Bartesaghi gave a long interview to the official AC Milan channels in the \"On the road\" format, during which he said: \n\nWhich match are you most fond of since you played in the first team at Milan?\n&ldq ..."
     },
     {
-      "id": "41385c0885aa",
-      "title": "Order: \"Whoever complained about the lack of presence of Milan players in the national team will certainly have changed their mind\"",
-      "url": "https://www.milannews.it/news/ordine-chi-si-fosse-lamentato-della-mancata-presenza-di-calciatori-del-milan-in-nazionale-avra-sicuramente-cambiato-idea-612631",
-      "source": "milannews.it",
-      "date": "2026-04-02T18:10:46+00:00",
-      "summary": "During his editorial for MilanNews."
-    },
-    {
       "id": "cfef05a0e6cc",
       "title": "Vlahovic eager for new Juventus contract, but significant problems remain",
       "url": "https://football-italia.net/vlahovic-eager-new-juventus-contract-problem/",
       "source": "football-italia.net",
       "date": "2026-04-02T18:08:43+00:00",
       "summary": "Dusan Vlahovic will be a free agent on July 1 unless he agrees a new..."
-    },
-    {
-      "id": "d8675c7d9c36",
-      "title": "Here Naples, 11 national teams returned today: the training report",
-      "url": "https://www.milannews.it/l-avversario/qui-napoli-oggi-sono-rientrati-11-nazionali-il-report-dell-allenamento-612709",
-      "source": "milannews.it",
-      "date": "2026-04-02T18:00:00+00:00",
-      "summary": "Even Napoli continues to work hard in view of Milan: the big match will be played at the \"Diego Armando Maradona\" stadium on Monday evening at 8.45pm on Easter Monday."
     },
     {
       "id": "dc970b1d0ed5",
@@ -146,44 +178,12 @@
       "summary": "The final international break of the season has been and gone, with AC Milan players returning from all around the globe. As we pointed out in our feature after the win over Torino, there were 13 members of the Milan squad summoned by their respective national teams, and 11 different assignments. On"
     },
     {
-      "id": "09a01fbe7829",
-      "title": "MN - Milan on Karetsas. Georgopoulos: \"He can leave Genk. The situation\"",
-      "url": "https://www.milannews.it/news/mn-milan-su-karetsas-georgopoulos-puo-lasciare-il-genk-la-situazione-612629",
-      "source": "milannews.it",
-      "date": "2026-04-02T17:50:00+00:00",
-      "summary": "Pitch and market, Milan continues to work on two parallel tracks. In recent weeks, the name of Konstantinos Karetsas, a Genk talent, has been linked to the Rossoneri."
-    },
-    {
-      "id": "89e1aaf3a047",
-      "title": "Gravina: \"I am saddened, but resignation is a confident choice..\"",
-      "url": "https://www.milannews.it/news/gravina-sono-amareggiato-ma-le-dimissioni-una-scelta-convinta-612717",
-      "source": "milannews.it",
-      "date": "2026-04-02T17:40:00+00:00",
-      "summary": "- ROME, 02 APR - \"After so many years there is great bitterness but also serenity, I thank the members who still today have shown me great closeness, esteem, support and also great insistence in continuing."
-    },
-    {
-      "id": "5810a3d23f0a",
-      "title": "Oddo: \"If you coach an U23 they don't ask you to save yourself or to win: but to raise the kids\"",
-      "url": "https://www.milannews.it/news/oddo-se-alleni-un-u23-non-ti-chiedono-ne-di-salvarti-ne-di-vincere-ma-di-crescere-i-ragazzi-612707",
-      "source": "milannews.it",
-      "date": "2026-04-02T17:30:00+00:00",
-      "summary": "Milan Futuro returned to the pitch this afternoon and drew 1-1 against Villa Valle at the \"Chinetti\" in Solbiate Arno on the 30th matchday of the Serie D championship, group B."
-    },
-    {
       "id": "06a3b524b803",
       "title": "Sky: Both Pulisic and Leao in doubt to start against Napoli – Allegri’s alternative options",
       "url": "https://sempremilan.com/pulisic-leao-doubt-napoli-allegri-options",
       "source": "sempremilan.com",
       "date": "2026-04-02T17:30:00+00:00",
       "summary": "Both Rafael Leao and Christian Pulisic are uncertain of having a starting spot on Monday night in the game against Napoli. For Massimiliano Allegri, there has very rarely been much peace when it comes to his attacking options. It is well known that he sees Leao and Pulisic as his first choice front "
-    },
-    {
-      "id": "c9bc16b4b96e",
-      "title": "Serie A, all the appointments for the 31st matchday: who will referee the two big matches?",
-      "url": "https://www.milannews.it/news/serie-a-tutte-le-designazione-della-31a-giornata-chi-arbitra-i-due-big-match-612667",
-      "source": "milannews.it",
-      "date": "2026-04-02T17:20:25+00:00",
-      "summary": "The complete referee designations for the 31st round of Serie A Enilive."
     },
     {
       "id": "75c8e22eb05a",
