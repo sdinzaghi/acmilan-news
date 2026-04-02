@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-04-02T21:36:13.803446+00:00",
+  "lastUpdated": "2026-04-02T22:29:38.753084+00:00",
   "articles": [
+    {
+      "id": "aee0b5bc58d4",
+      "title": "Scudetto fight, Longhi sees more Napoli than Milan: \"Azzurri favourites..\"",
+      "url": "https://www.milannews.it/news/lotta-scudetto-longhi-vede-piu-napoli-che-milan-azzurri-favoriti-612703",
+      "source": "milannews.it",
+      "date": "2026-04-02T22:20:00+00:00",
+      "summary": "Journalist Bruno Longhi spoke to the microphones of TMW Radio during Maracanà and, among other topics, also spoke about the two big matches of this weekend: Inter-Roma and Napoli-Milan."
+    },
+    {
+      "id": "603c8423a36d",
+      "title": "Italy, Abete: \"Me, FIGC president? A problem I don't ask myself..\"",
+      "url": "https://www.milannews.it/news/italia-abete-io-presidente-figc-un-problema-che-non-mi-pongo-612699",
+      "source": "milannews.it",
+      "date": "2026-04-02T22:10:00+00:00",
+      "summary": "- ROME, 02 APR - \"President Gravina has informed us of his resignation, now we will proceed with the renewal of the governing bodies and a process that includes the presentation of any candidatures."
+    },
+    {
+      "id": "3b4ec68983c7",
+      "title": "If we had gone to the World Cup, would everything have remained the same? And now, who changes what... Conte and Allegri, no derby for the national team. San Siro, the farce continues",
+      "url": "https://www.milannews.it/editoriale/fossimo-andati-ai-mondiali-sarebbe-rimasto-tutto-uguale-e-adesso-chi-cambia-cosa-conte-e-allegri-nessun-derby-per-la-nazionale-san-siro-la-farsa-conti-612694",
+      "source": "milannews.it",
+      "date": "2026-04-02T22:00:01+00:00",
+      "summary": "All against all is never a great solution, but the result of widespread anarchy in which many generally wallow."
+    },
+    {
+      "id": "26516d97cedc",
+      "title": "Calcagno (AIC president and FIGC vice president): “The conflict between the national team and the Club is unfortunate”",
+      "url": "https://www.milannews.it/news/calcagno-presidente-aic-e-vicepresidente-figc-spiace-la-contrapposizione-tra-nazionale-e-club-612702",
+      "source": "milannews.it",
+      "date": "2026-04-02T21:50:12+00:00",
+      "summary": "As reported by TMW, Umberto Calcagno, president of the Italian Footballers' Association and vice-president of the FIGC, spoke at the end of today's meeting, during which the resignation of Gabriele Gravina arrived as pr ..."
+    },
+    {
+      "id": "f70f4e4a398f",
+      "title": "Milan pressing on Goretzka: Allegri is pushing hard",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-in-pressing-su-goretzka-allegri-sta-spingendo-forte-612649",
+      "source": "milannews.it",
+      "date": "2026-04-02T21:40:20+00:00",
+      "summary": "In view of next season, Massimiliano Allegri was very clear with his managers: we need to raise the level of the squad and to do this we therefore need to insert profiles of experience and status."
+    },
     {
       "id": "b82354a3693c",
       "title": "Brambati on Italy's future: \"I suggest two names: Galliani flanked by Maldini\"",
@@ -120,46 +160,6 @@
       "source": "milannews.it",
       "date": "2026-04-02T19:11:00+00:00",
       "summary": "As reported by la Repubblica, it would be very hot hours for Rino Gattuso's new successor as the Azzurri coach."
-    },
-    {
-      "id": "de6f63e7cc70",
-      "title": "Vinicius is with Yamal: like the message against anti-Islam chants",
-      "url": "https://www.milannews.it/news/vinicius-sta-con-yamal-like-al-messaggio-contro-i-cori-anti-islam-612679",
-      "source": "milannews.it",
-      "date": "2026-04-02T19:00:28+00:00",
-      "summary": "(ANSA) - ROME, APRIL 02 - Vinicius is with Lamine Yamal."
-    },
-    {
-      "id": "ebd7ed8d3795",
-      "title": "MN - Georgopoulos on Karetsas, linked to Milan: \"Intelligent, he has great qualities. This is what he lacks\"",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-georgopoulos-su-karetsas-accostato-al-milan-intelligente-ha-grandi-qualita-ecco-cosa-gli-manca-612624",
-      "source": "milannews.it",
-      "date": "2026-04-02T18:50:00+00:00",
-      "summary": "Pitch and market, Milan continues to work on two parallel tracks. In recent weeks, the name of Konstantinos Karetsas, a Genk talent, has been linked to the Rossoneri."
-    },
-    {
-      "id": "5776c7e50b72",
-      "title": "The construction site of the new Pisa sports center has been inaugurated and will be ready in 2027",
-      "url": "https://www.milannews.it/news/inaugurato-il-cantiere-del-nuovo-centro-sportivo-del-pisa-pronto-nel-2027-612678",
-      "source": "milannews.it",
-      "date": "2026-04-02T18:40:01+00:00",
-      "summary": "(ANSA) - PISA, 02 APR - Inauguration ceremony, with the laying of the first plant, for the Pisa sports center, on the northern outskirts of the city."
-    },
-    {
-      "id": "e10e40ca2a43",
-      "title": "Bierhoff expresses himself harshly: \"Italy stopped in the 90s\"",
-      "url": "https://www.milannews.it/news/bierhoff-si-esprime-duramente-l-italia-si-e-fermata-agli-anni-90-612673",
-      "source": "milannews.it",
-      "date": "2026-04-02T18:30:00+00:00",
-      "summary": "Oliver Bierhoff, former Serie A and AC Milan footballer, also spoke out about the failure of the Italian national football team which will remain at home watching from the sofa for the third consecutive World Cup."
-    },
-    {
-      "id": "3cc9660dbefa",
-      "title": "This is how Bartesaghi describes his first goal with Milan at San Siro against Sassuolo",
-      "url": "https://www.milannews.it/news/bartesaghi-racconta-cosi-il-primo-gol-col-milan-a-san-siro-contro-il-sassuolo-612611",
-      "source": "milannews.it",
-      "date": "2026-04-02T18:20:43+00:00",
-      "summary": "Davide Bartesaghi gave a long interview to the official AC Milan channels in the \"On the road\" format, during which he said: \n\nWhich match are you most fond of since you played in the first team at Milan?\n&ldq ..."
     },
     {
       "id": "cfef05a0e6cc",
