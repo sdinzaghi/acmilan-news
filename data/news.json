@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-04-02T18:55:24.656050+00:00",
+  "lastUpdated": "2026-04-02T19:49:55.961596+00:00",
   "articles": [
+    {
+      "id": "e0b6abcd67b7",
+      "title": "Rivera: \"Football invaded by agents: many give up because their families don't have the money to pay them\"",
+      "url": "https://www.milannews.it/news/rivera-calcio-invaso-dai-procuratori-molti-rinunciano-perche-le-famiglie-non-hanno-i-soldi-per-pagarli-612718",
+      "source": "milannews.it",
+      "date": "2026-04-02T19:40:00+00:00",
+      "summary": "A few hours have passed since Gabriele Gravina's resignation as FIGC President and the first illustrious nominations are already arriving."
+    },
+    {
+      "id": "f13bbb689818",
+      "title": "Bergomi on Allegri, Italy coach: \"He has always talked about the fact that you need to know how to choose players, like a selector does\"",
+      "url": "https://www.milannews.it/news/bergomi-su-allegri-ct-dell-italia-ha-sempre-parlato-del-fatto-che-bisogna-saper-scegliere-i-giocatori-come-fa-un-selezionatore-612683",
+      "source": "milannews.it",
+      "date": "2026-04-02T19:30:10+00:00",
+      "summary": "Beppe Bergomi, commentator, expressed himself to SkySport as follows on the candidacies of Allegri and Conte for the bench of the Italian national team: \"Gattuso is the least guilty, but starting over with a coach who comes from a bankruptcy ..."
+    },
+    {
+      "id": "48aaa6d506e3",
+      "title": "Milan, watch out for Fenerbahce: the Turks are targeting Goretzka",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-occhio-al-fenerbahce-i-turchi-puntano-goretzka-612680",
+      "source": "milannews.it",
+      "date": "2026-04-02T19:21:31+00:00",
+      "summary": "For the summer, Milan already has some names on the list that they would like to try to sign to give Massimiliano Allegri a better squad than this season's."
+    },
+    {
+      "id": "64beb9c92a09",
+      "title": "Repubblica - The post-Gattuso match begins. For the Italian bench it's a challenge for Conte and Allegri",
+      "url": "https://www.milannews.it/news/repubblica-al-via-la-partita-per-il-post-gattuso-per-la-panchina-azzurra-e-sfida-conte-e-allegri-612721",
+      "source": "milannews.it",
+      "date": "2026-04-02T19:11:00+00:00",
+      "summary": "As reported by la Repubblica, it would be very hot hours for Rino Gattuso's new successor as the Azzurri coach."
+    },
+    {
+      "id": "de6f63e7cc70",
+      "title": "Vinicius is with Yamal: like the message against anti-Islam choirs",
+      "url": "https://www.milannews.it/news/vinicius-sta-con-yamal-like-al-messaggio-contro-i-cori-anti-islam-612679",
+      "source": "milannews.it",
+      "date": "2026-04-02T19:00:28+00:00",
+      "summary": "(ANSA) - ROME, APRIL 02 - Vinicius is with Lamine Yamal."
+    },
     {
       "id": "ebd7ed8d3795",
       "title": "MN - Georgopoulos on Karetsas, linked to Milan: \"Intelligent, he has great qualities. This is what he lacks\"",
@@ -162,30 +202,6 @@
       "summary": "The AC Milan squad were in training again on Thursday to continue preparing for the trip to face Napoli, and the group got even bigger. As MilanNews write, this was Milan’s second day of training at the Milanello training centre under the orders coach Massimiliano Allegri and his staff, after the te"
     },
     {
-      "id": "01e85bf05fcb",
-      "title": "Complaints from a Neapolitan journalist regarding the referee appointment for Napoli-Milan",
-      "url": "https://www.milannews.it/news/lamentele-da-un-giornalista-napoletano-per-la-designazione-arbitrale-per-napoli-milan-612642",
-      "source": "milannews.it",
-      "date": "2026-04-02T16:20:41+00:00",
-      "summary": "Carlo Alvino, a journalist of Neapolitan faith, expressed himself as follows on his social networks on the referee appointment for Napoli-Milan: \"Once again, when it comes to choosing who to appoint for a Napoli match, ..."
-    },
-    {
-      "id": "bdaef5165822",
-      "title": "Pasotto: \"When Deschamps spoke about Rabiot's injury, the shock came to Milan. But he will be there in Naples\"",
-      "url": "https://www.milannews.it/news/pasotto-quando-deschamps-ha-parlato-di-infortunio-per-rabiot-il-colpo-e-venuto-al-milan-ma-a-napoli-ci-sara-612627",
-      "source": "milannews.it",
-      "date": "2026-04-02T16:10:42+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on Adrien Rabiot: \"When Didier Deschamps the other day inserted the words Rabiot, knee and blow in the same sentence, the blow in reality..."
-    },
-    {
-      "id": "0b284dd198ec",
-      "title": "UEFA, Michele Uva appointed Executive Director of EURO 2032 Italy",
-      "url": "https://www.milannews.it/news/uefa-michele-uva-nominato-executive-director-of-euro-2032-italia-612659",
-      "source": "milannews.it",
-      "date": "2026-04-02T16:00:16+00:00",
-      "summary": "(ANSA) - ROME, APR 02 - Michele Uva has been appointed Executive Director of EURO 2032 Italy."
-    },
-    {
       "id": "76d03f1f2689",
       "title": "Milan Futuro 1-1 Villa Valle: Sardo’s late header earns important draw",
       "url": "https://sempremilan.com/milan-futuro-1-1-villa-valle-sardo",
@@ -194,28 +210,12 @@
       "summary": "Milan Futuro had to battle from behind to get a draw against Villa Valle at the Felice Chinetti stadium in Solbiate Arno. The game before the break was a frustrating one as the Futuro twice led against Nuova Sondrio at the Stadio Felice Chinetti in Solbiate Arno, but were forced to settle for a 2-2 "
     },
     {
-      "id": "9f355f4b0dc6",
-      "title": "MN - Milan like Karetsas. Georgopoulos: \"He has to adapt, but he can withstand the impact with the A\"",
-      "url": "https://www.milannews.it/news/mn-karetsas-piace-al-milan-georgopoulos-deve-adattarsi-ma-puo-reggere-l-impatto-con-la-a-612626",
-      "source": "milannews.it",
-      "date": "2026-04-02T15:50:00+00:00",
-      "summary": "Pitch and market, Milan continues to work on two parallel tracks. In recent weeks, the name of Konstantinos Karetsas, a Genk talent, has been linked to the Rossoneri."
-    },
-    {
       "id": "4d81026ea241",
       "title": "Milan team news: Leao & Pulisic a doubt for Napoli, Fullkrug & Nkunku ready to step up",
       "url": "https://football-italia.net/milan-team-news-leao-pulisic-doubt-for-napoli/",
       "source": "football-italia.net",
       "date": "2026-04-02T15:40:07+00:00",
       "summary": "Massimiliano Allegri faces a significant attacking headache ahead of Sunday’s crucial Serie A clash with..."
-    },
-    {
-      "id": "40a662247722",
-      "title": "The Spaniards chant against the Muslims. Yamal, a Spaniard of Islamic faith, condemns the chants",
-      "url": "https://www.milannews.it/news/gli-spagnoli-cantano-contro-i-musulmani-yamal-spagnolo-di-fede-islamica-condanna-i-cori-612620",
-      "source": "milannews.it",
-      "date": "2026-04-02T15:40:02+00:00",
-      "summary": "(ANSA) - ROME, APRIL 01 - \"I am a Muslim, Alhamdulillah. Yesterday at the stadium I heard the chorus 'he who doesn't jump is a Muslim'."
     },
     {
       "id": "8db88057285e",
