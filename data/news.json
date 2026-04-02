@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-04-02T08:54:55.274861+00:00",
+  "lastUpdated": "2026-04-02T10:00:43.456062+00:00",
   "articles": [
+    {
+      "id": "40514e86618f",
+      "title": "Allegri's moves towards Napoli: trident temptation for Max?",
+      "url": "https://www.milannews.it/news/verso-il-napoli-le-mosse-del-allegri-tentazione-tridente-per-max-612653",
+      "source": "milannews.it",
+      "date": "2026-04-02T09:50:34+00:00",
+      "summary": "In view of Milan's trip to Naples on Monday, La Gazzetta dello Sport headlined this morning: \"The Devil's moves. Max changes again: trident temptation\"."
+    },
+    {
+      "id": "0f8298a38be5",
+      "title": "Milan transfer market: negotiations for André from Corinthians have definitively collapsed. Benfica and Atletico Madrid are now on the Brazilian side",
+      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-saltata-definitivamente-la-trattativa-per-andre-del-corinthians-sul-brasiliano-ci-sono-ora-benfica-e-atletico-madrid-612643",
+      "source": "milannews.it",
+      "date": "2026-04-02T09:40:07+00:00",
+      "summary": "As anticipated in recent days by Milannews."
+    },
+    {
+      "id": "f07cd92d1b11",
+      "title": "Tuttosport: Milan listen to Allegri and push for departing Bayern Munich star – the situation",
+      "url": "https://sempremilan.com/milan-listen-allegri-push-goretzka-situation",
+      "source": "sempremilan.com",
+      "date": "2026-04-02T09:40:00+00:00",
+      "summary": "AC Milan head coach Massimiliano Allegri wants an experienced midfielder, and the leading name is Leon Goretzka. Goretzka’s name emerged as a target a few weeks ago, given that his contract with Bayern Munich expires at the end of the season meaning he would be available on a free transfer. He bring"
+    },
+    {
+      "id": "02af3ab3d940",
+      "title": "Abodi: \"Maldini is a good name for the FIGC? Paolo is a wonderful person, but there are many others. These choices are up to the football system\"",
+      "url": "https://www.milannews.it/news/abodi-maldini-nome-buono-per-la-figc-paolo-e-una-persona-meravigliosa-ma-ce-ne-sono-molti-altri-queste-scelte-spettano-al-sistema-calcio-612658",
+      "source": "milannews.it",
+      "date": "2026-04-02T09:30:49+00:00",
+      "summary": "The Minister of Sport, Andrea Abodi, spoke on RTL 102."
+    },
+    {
+      "id": "d7ae67594b01",
+      "title": "Ceferin: \"The elimination is absolutely not Gravina's responsibility. It won't be easy to find a gentleman who loves football and Italy so much\"",
+      "url": "https://www.milannews.it/news/ceferin-non-e-assolutamente-responsabilita-di-gravina-l-eliminazione-non-sara-facile-trovare-un-gentiluomo-che-ami-cosi-tanto-il-calcio-e-l-italia-612654",
+      "source": "milannews.it",
+      "date": "2026-04-02T09:20:05+00:00",
+      "summary": "Aleksander Ceferin, president of UEFA, defended Gabriele Gravina in an interview with La Gazzetta dello Sport: “The elimination at the hands of Bosnia is absolutely not Gravina's responsibility and I wouldn't allow myself ..."
+    },
+    {
+      "id": "b43493aa09bd",
+      "title": "GdS: Milan’s owners favourites over Inter to land NBA franchise – the reasons and question marks",
+      "url": "https://sempremilan.com/milan-favourites-inter-nba-reasons-questions",
+      "source": "sempremilan.com",
+      "date": "2026-04-02T09:15:00+00:00",
+      "summary": "The ownership groups of AC Milan and Inter are contesting a strange basketball derby, namely one to land an NBA Europe franchise. As La Gazzetta dello Sport report, Milan won both derbies on the field this season 1-0, but the owners of Inter and Milan have been rivals in recent weeks for another qui"
+    },
+    {
+      "id": "c1acc3811347",
+      "title": "NBA Europe, there is also an offer from RedBird for a team in Milan or Varese",
+      "url": "https://www.milannews.it/news/nba-europe-c-e-anche-l-offerta-di-redbird-per-una-squadra-a-milano-o-a-varese-612657",
+      "source": "milannews.it",
+      "date": "2026-04-02T09:10:29+00:00",
+      "summary": "As Repubblica reports, the NBA and its advisors, JP Morgan and Raine Group, have started examining the non-binding offers for the 12 permanent franchises of the new European basketball competition which should start in 2027."
+    },
+    {
+      "id": "cb958ac17d92",
+      "title": "De Laurentiis: \"Is it normal for Modric to come here at 40 and always start?\"",
+      "url": "https://www.milannews.it/news/de-laurentiis-e-normale-che-modric-venga-qui-a-40-a-giocare-sempre-titolare-612635",
+      "source": "milannews.it",
+      "date": "2026-04-02T09:00:00+00:00",
+      "summary": "Aurelio De Laurentiis, in the Corriere dello Sport, proposed an analysis on the state of Italian football taking into consideration Luka Modric: \"The world of football connects dots before everyone's eyes: it is normal that Modric - few ..."
+    },
     {
       "id": "d9b2f790588a",
       "title": "Bartesaghi discusses being a Milan fan, first steps at Milanello, Allegri and team-mates",
@@ -119,7 +183,7 @@
       "url": "https://www.milannews.it/rassegna-stampa/verso-napoli-milan-gabbia-non-ci-sara-ancora-in-dubbio-leao-612605",
       "source": "milannews.it",
       "date": "2026-04-02T06:59:30+00:00",
-      "summary": "Between today and tomorrow, all the Rossoneri players who have finished their commitments with their respective national teams will see each other again at Milanello: today Bartesaghi, Athekame and Rabiot will return, while tomorrow it will be the turn of Pulisic, De Winter, S ..."
+      "summary": "Between today and tomorrow, all the Rossoneri players who have finished their commitments with their respective national teams will see each other again at Milanello: today Bartesaghi, Athekame and Rabiot will return, while tomorrow it will be the turn of Pulisic, De Winter, S..."
     },
     {
       "id": "f9a6cc39b2d5",
@@ -136,54 +200,6 @@
       "source": "milannews.it",
       "date": "2026-04-02T06:40:28+00:00",
       "summary": "Today's edition of Corriere dello Sport headlines this morning on the front page: \"Pulisic mystery: Milan's wait\"."
-    },
-    {
-      "id": "93cd0348b26f",
-      "title": "Italy, Gattuso will no longer be coach. For Sky there are two names to replace him: Conte and Allegri",
-      "url": "https://www.milannews.it/news/italia-gattuso-non-sara-piu-ct-per-sky-ci-sono-due-nomi-per-sostituirlo-conte-e-allegri-612602",
-      "source": "milannews.it",
-      "date": "2026-04-02T06:30:33+00:00",
-      "summary": "Gennaro Gattuso will no longer be Italy's coach: the former Rossoneri player has in fact decided to leave the Azzurri bench after their elimination in the playoff against Bosnia on Tuesday evening."
-    },
-    {
-      "id": "10c670fd6b27",
-      "title": "Bartesaghi on Modric: \"Exceptional person as well as a great player. We need to learn a lot from him\"",
-      "url": "https://www.milannews.it/news/bartesaghi-su-modric-persona-eccezionale-oltre-che-grande-giocatore-bisogna-imparare-tanto-da-lui-612600",
-      "source": "milannews.it",
-      "date": "2026-04-02T06:20:20+00:00",
-      "summary": "Davide Bartesaghi gave a long interview to the official AC Milan channels in the \"On the road\" format, during which he said: \n\nHow is Modric?\n“He is an exceptional person, as well as a great ..."
-    },
-    {
-      "id": "e1e92ab87d4d",
-      "title": "FIGC, Gravina towards resignation. Who in his place? Fir and Malagò ideas",
-      "url": "https://www.milannews.it/news/figc-gravina-verso-le-dimissioni-chi-al-suo-posto-idee-abete-e-malago-612599",
-      "source": "milannews.it",
-      "date": "2026-04-02T06:10:39+00:00",
-      "summary": "Gabriele Gravina has decided to take a step back and is expected to resign as president of the FIGC in the next few hours."
-    },
-    {
-      "id": "06108822c945",
-      "title": "Bartesaghi: \"I saw Maldini on my first day at Vismara. Leao gave me a painting after the brace\"",
-      "url": "https://www.milannews.it/primo-piano/bartesaghi-ho-visto-maldini-al-mio-primo-giorno-al-vismara-leao-mi-ha-regalato-un-quadro-dopo-la-doppietta-612592",
-      "source": "milannews.it",
-      "date": "2026-04-02T06:00:00+00:00",
-      "summary": "On the day of his meeting with the fans at the Flagship Store in via Dante, a short time ago, Davide Bartesaghi also gave an interview to the club's official channels with the \"On the road\" format: all his statements:\n\nThe first ..."
-    },
-    {
-      "id": "487c94e9cdd0",
-      "title": "Amelia: \"I think Milan had a great season, but they must also have some regret for the points lost against the smaller teams\"",
-      "url": "https://www.milannews.it/news/amelia-credo-che-il-milan-abbia-fatto-una-grande-stagione-ma-deve-avere-anche-un-po-di-rammarico-per-i-punti-persi-contro-le-piccole-612452",
-      "source": "milannews.it",
-      "date": "2026-04-02T05:50:00+00:00",
-      "summary": "Can Milan still believe in the Scudetto? How important and decisive will the Easter Monday match against Napoli be from this point of view? He spoke exclusively about this topic to MilanNews..."
-    },
-    {
-      "id": "881f8b3a0590",
-      "title": "Chaos around the sale of San Siro: here's who the suspects are",
-      "url": "https://www.milannews.it/news/caos-intorno-alla-vendita-di-san-siro-ecco-chi-sono-gli-indagati-612497",
-      "source": "milannews.it",
-      "date": "2026-04-02T05:40:00+00:00",
-      "summary": "Yesterday's news is the chaos around the sale of San Siro with the searches by the Guardia di Finanza in the Municipality of Milan."
     },
     {
       "id": "9a65d8e79e73",
@@ -304,22 +320,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-01T11:20:00+00:00",
       "summary": "AC Milan are always on the lookout for opportunities to strengthen the squad, and that especially includes free agents. In a feature earlier this week, we picked out five players who are on expiring contracts that could be of use for Milan. The management must address various gaps in the squad and b"
-    },
-    {
-      "id": "efc83c0467c3",
-      "title": "Pellegatti worried Italy may try and appoint Milan boss Allegri: “A reason to sleep badly”",
-      "url": "https://sempremilan.com/pellegatti-worried-italy-try-allegri",
-      "source": "sempremilan.com",
-      "date": "2026-04-01T10:55:00+00:00",
-      "summary": "There are likely to be big changes after Italy failed to qualify for another World Cup, and Massimiliano Allegri could be a target. Italy faced a do-or-die game against Bosnia and Herzegovina away from home on Tuesday night, knowing that they needed to win in order to book their place in the tournam"
-    },
-    {
-      "id": "fafc730ada1c",
-      "title": "GdS: NBA derby brewing as AC Milan and Inter’s owners submit ‘expressions of interest’",
-      "url": "https://sempremilan.com/nba-derby-milan-inter-expressions-interest",
-      "source": "sempremilan.com",
-      "date": "2026-04-01T10:30:00+00:00",
-      "summary": "AC Milan and Inter are set to contest a derby away from the field. Not for a transfer target, but for a franchise in the NBA Europe league. According to La Gazzetta dello Sport, the deadline to submit non-binding expressions of interest to participate in the new NBA Europe was midnight last night. O"
     },
     {
       "id": "2f74f1345098",
