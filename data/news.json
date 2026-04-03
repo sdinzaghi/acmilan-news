@@ -1,13 +1,77 @@
 {
-  "lastUpdated": "2026-04-03T10:41:07.603602+00:00",
+  "lastUpdated": "2026-04-03T11:36:24.178794+00:00",
   "articles": [
+    {
+      "id": "b729fec2027f",
+      "title": "Pellegatti isn't on Allegri coach: \"Let's be clear straight away: we are not naive and they shouldn't play with our intelligence\"",
+      "url": "https://www.milannews.it/news/pellegatti-non-ci-sta-su-allegri-ct-parliamoci-subito-chiaro-non-siamo-ingenui-e-non-devono-giocare-con-la-nostra-intelligenza-612714",
+      "source": "milannews.it",
+      "date": "2026-04-03T11:30:00+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti spoke about the latest rumors linking Massimiliano Allegri to the national team and what Milan should do at this moment."
+    },
+    {
+      "id": "1ff98e583804",
+      "title": "Doveri will referee Napoli-Milan: his history with Milan",
+      "url": "https://www.milannews.it/news/doveri-arbitrera-napoli-milan-i-suoi-precedenti-con-il-milan-612708",
+      "source": "milannews.it",
+      "date": "2026-04-03T11:20:46+00:00",
+      "summary": "The big match between Napoli and Milan, the second and third forces in the championship, will be staged on Monday evening at the Maradona."
+    },
+    {
+      "id": "d3003b4a79a4",
+      "title": "CM: Good news continues for Tomori – international recall to be followed by new Milan deal",
+      "url": "https://sempremilan.com/tomori-international-recall-new-deal-milan",
+      "source": "sempremilan.com",
+      "date": "2026-04-03T11:20:00+00:00",
+      "summary": "Fikayo Tomori is experiencing a positive season so far for club and country, with a new contract expected to be one reward. After a couple of seasons with far more negative notes than positive, Tomori is bouncing back well under Massimiliano Allegri. He seems to have found an ideal role as the right"
+    },
+    {
+      "id": "27d86259a028",
+      "title": "Bianchin: \"The option on Modric's contract, foreseen in the contract signed in summer 2025, has no particular value: it will be a personal decision\"",
+      "url": "https://www.milannews.it/calciomercato-milan/bianchin-l-opzione-sul-contratto-di-modric-prevista-sul-contratto-firmato-nell-estate-2025-non-ha-particolare-valore-sara-una-decisione-personale-612749",
+      "source": "milannews.it",
+      "date": "2026-04-03T11:10:05+00:00",
+      "summary": "Luca Bianchin, journalist, expressed himself in La Gazzetta dello Sport on the future of Luka Modric: \"Luka decides. Milan not only wants him, if they could they would tie him to the right goal post at San Siro."
+    },
+    {
+      "id": "d0543ce0724b",
+      "title": "De Zerbi promises to stay at Tottenham regardless of the final result this year",
+      "url": "https://www.milannews.it/news/de-zerbi-promette-di-restare-al-tottenham-a-prescindere-dal-risultato-finale-di-quest-anno-612736",
+      "source": "milannews.it",
+      "date": "2026-04-03T11:00:00+00:00",
+      "summary": "(ANSA) - ROME, APRIL 02 - \"I will remain manager of Tottenham next year too, in any case\"."
+    },
+    {
+      "id": "e08ab8f1bd93",
+      "title": "Repubblica: Allegri part of four-way race for Italy job as casting process begins",
+      "url": "https://sempremilan.com/allegri-four-way-race-italy-job",
+      "source": "sempremilan.com",
+      "date": "2026-04-03T10:55:00+00:00",
+      "summary": "There are more reports this morning regarding Massimiliano Allegri being in the race to be the new Italy head coach. As reported by La Repubblica (via MilanNews), these are crucial hours for the Italian federation, with a big overhaul expected after Gabriele Gravina’s resignation. One of the topical"
+    },
+    {
+      "id": "b73c7e821913",
+      "title": "Rivera: \"Maximum three foreigners for each club. 3-5-2 a limit? It's not a question of formations\"",
+      "url": "https://www.milannews.it/news/rivera-massimo-tre-stranieri-per-ogni-club-3-5-2-un-limite-non-e-una-questione-di-moduli-612761",
+      "source": "milannews.it",
+      "date": "2026-04-03T10:50:19+00:00",
+      "summary": "Gianni Rivera, legend of Italian football and of Milan, former Ballon d'Or winner, has informally stepped forward as a candidate for the role of federal president."
+    },
+    {
+      "id": "73af4f9da253",
+      "title": "Gabbia sets the goal: to return after the trip to Naples",
+      "url": "https://www.milannews.it/news/gabbia-fissa-l-obiettivo-tornare-dopo-la-trasferta-di-napoli-612776",
+      "source": "milannews.it",
+      "date": "2026-04-03T10:40:16+00:00",
+      "summary": "Matteo Gabbia is excited but we still have to wait for his return to the field."
+    },
     {
       "id": "a0b8ed1e50b2",
       "title": "The Rossoneri fan Gherarducci: \"Who would buy someone like Leao?\"",
       "url": "https://www.milannews.it/news/il-tifoso-rossonero-gherarducci-chi-se-lo-compra-uno-come-leao-612752",
       "source": "milannews.it",
       "date": "2026-04-03T10:30:00+00:00",
-      "summary": "From comedy on television to the Milan-Inter Derby, within the Italian comedy trio of the Gialappa's Band a match is also played between the Rossoneri and Nerazzurri \"cousins\"."
+      "summary": "From comedy on television to the Milan-Inter Derby, within the Italian comedy trio of the Gialappa's Band a match between the Rossoneri and Nerazzurri \"cousins\" is also played."
     },
     {
       "id": "9da2d3d21548",
@@ -55,7 +119,7 @@
       "url": "https://www.milannews.it/news/il-nerazzurro-santin-partite-di-allegri-sono-la-morte-del-calcio-tra-lui-e-chivu-non-c-e-paragone-612742",
       "source": "milannews.it",
       "date": "2026-04-03T09:50:00+00:00",
-      "summary": "From comedy on television to the Milan-Inter Derby, within the Italian comedy trio of the Gialappa's Band a match is also played between the Rossoneri and Nerazzurri \"cousins\"."
+      "summary": "From comedy on television to the Milan-Inter Derby, within the Italian comedy trio of the Gialappa's Band a match between the Rossoneri and Nerazzurri \"cousins\" is also played."
     },
     {
       "id": "cc3ebf284668",
@@ -103,7 +167,7 @@
       "url": "https://www.milannews.it/news/il-rossonero-gherarducci-giocare-con-leao-al-50-non-te-lo-puoi-permettere-612741",
       "source": "milannews.it",
       "date": "2026-04-03T09:10:00+00:00",
-      "summary": "From comedy on television to the Milan-Inter Derby, within the Italian comedy trio of the Gialappa's Band a match is also played between the Rossoneri and Nerazzurri \"cousins\"."
+      "summary": "From comedy on television to the Milan-Inter Derby, within the Italian comedy trio of the Gialappa's Band a match between the Rossoneri and Nerazzurri \"cousins\" is also played."
     },
     {
       "id": "f0515d540a47",
@@ -119,7 +183,7 @@
       "url": "https://www.milannews.it/l-avversario/napoli-conte-pensa-ai-suoi-quattro-uomini-migliori-in-mezzo-al-campo-insieme-dall-inizio-612773",
       "source": "milannews.it",
       "date": "2026-04-03T09:00:00+00:00",
-      "summary": "The time of the match between Napoli and Milan is getting closer and closer, the big match that will close the 31st day of the Enilive Serie A championship on Easter Monday evening."
+      "summary": "The time of the match between Napoli and Milan is getting closer and closer, the big match that will close the 31st day of the Enilive Serie A championship, on Easter Monday evening."
     },
     {
       "id": "47f54e2c8785",
@@ -162,60 +226,12 @@
       "summary": "Christian Pulisic went through a period earlier in the season in which everything he hit seems to go in. Now, the opposite is true. As La Gazzetta dello Sport (seen below) report, Pulisic has scored 87 goals across his spells at Milan, Chelsea, and Borussia Dortmund, all more or less intentional. Th"
     },
     {
-      "id": "68bc1cd8f185",
-      "title": "Happy Birthday Crazy Horse! Adrien Rabiot turns 31",
-      "url": "https://www.milannews.it/news/tanti-auguri-cavallo-pazzo-adrien-rabiot-compie-31-anni-612769",
-      "source": "milannews.it",
-      "date": "2026-04-03T08:20:00+00:00",
-      "summary": "Today is the birthday of Adrien Rabiot, the Crazy Horse of Milan! Day of celebration in Milanello, three days after the important match of \"Maradona\" against Napoli: the French midfielder is celebrated, so much ..."
-    },
-    {
-      "id": "1a0e28276cf8",
-      "title": "Inter player Santin: \"Allegri's teams are unwatchable. We are only afraid of ourselves and the referees\"",
-      "url": "https://www.milannews.it/news/l-interista-santin-le-squadre-di-allegri-sono-inguardabili-abbiamo-paura-solo-di-noi-e-degli-arbitri-612740",
-      "source": "milannews.it",
-      "date": "2026-04-03T08:10:00+00:00",
-      "summary": "From comedy on television to the Milan-Inter Derby, within the Italian comedy trio of the Gialappa's Band a match is also played between the Rossoneri and Nerazzurri \"cousins\"."
-    },
-    {
-      "id": "2ef4802a8cf3",
-      "title": "Max finds Pulisic again today but will Pulisic find himself again? Dry for over 90 days",
-      "url": "https://www.milannews.it/primo-piano/max-oggi-ritrova-pulisic-ma-pulisic-ritrovera-se-stesso-a-secco-da-oltre-90-giorni-612766",
-      "source": "milannews.it",
-      "date": "2026-04-03T08:00:00+00:00",
-      "summary": "With today, Massimiliano Allegri and all his collaborators can smile: today the first training session of the week will take place with the squad complete again."
-    },
-    {
       "id": "de0b1148edae",
       "title": "CorSport: Trio compete for one place – Allegri ponders attack vs. Napoli with Leao a doubt",
       "url": "https://sempremilan.com/allegri-ponders-attack-napoli-leao-doubt",
       "source": "sempremilan.com",
       "date": "2026-04-03T08:00:00+00:00",
       "summary": "Rafael Leao is currently not expected to be able to start Monday night’s game against Napoli, forcing Massimiliano Allegri to change his plans. As Corriere dello Sport (via MilanNews) writes, positive signs arrived regarding Leao’s condition from Milanello on Thursday, but it’s not yet clear whether"
-    },
-    {
-      "id": "b58f6395da46",
-      "title": "Double decisive big match coming up, CorSera: \"Easter Scudetto\"",
-      "url": "https://www.milannews.it/rassegna-stampa/doppio-big-match-decisivo-in-arrivo-il-corsera-pasqua-scudetto-612750",
-      "source": "milannews.it",
-      "date": "2026-04-03T07:50:47+00:00",
-      "summary": "Here we are, the Enilive Serie A championship starts again tomorrow: we start again with the 31st matchday and we don't stop until the finishing line banner."
-    },
-    {
-      "id": "eb4b2222a7b7",
-      "title": "San Siro, Tuttosport reports the concern of the Municipality: \"So the investors will withdraw\"",
-      "url": "https://www.milannews.it/rassegna-stampa/san-siro-tuttosport-riporta-la-preoccupazione-del-comune-cosi-gli-investitori-si-ritireranno-612743",
-      "source": "milannews.it",
-      "date": "2026-04-03T07:40:00+00:00",
-      "summary": "In recent days, more precisely on Tuesday, the investigation was launched for bid rigging and revelation of official secrecy within the sale of San Siro by the Municipality of Milan to the clubs& ..."
-    },
-    {
-      "id": "91d0daa2e920",
-      "title": "Allegri in the national team? Gazzetta: \"The prospect is to consolidate the relationship with Milan\"",
-      "url": "https://www.milannews.it/rassegna-stampa/allegri-in-nazionale-gazzetta-la-prospettiva-e-consolidare-il-rapporto-col-milan-612746",
-      "source": "milannews.it",
-      "date": "2026-04-03T07:30:00+00:00",
-      "summary": "In the last hours of chatter and chaos that are involving Italian football, faced with yet another failure in its recent history, there are many names and rumors about the possible profiles that could bring La&nbs back into vogue..."
     },
     {
       "id": "cfef05a0e6cc",
@@ -320,22 +336,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-02T13:00:00+00:00",
       "summary": "The spending of Serie A clubs on agent services continued to grow, with the numbers for last year having been published. In recent days, the Italian Football Federation (FIGC) revealed the compensation figures for sports agents in Italy’s top division for 2025, broken down by club. Calcio e Finanza "
-    },
-    {
-      "id": "c1607044e0b2",
-      "title": "Pavlovic receives AC Milan’s MVP award for March – his highlights",
-      "url": "https://sempremilan.com/pavlovic-milan-mvp-award-march-highlights",
-      "source": "sempremilan.com",
-      "date": "2026-04-02T12:35:00+00:00",
-      "summary": "Strahinja Pavlovic has had a brilliant past few weeks, and he has been officially crowned the Player of the Month for March. Pavlovic has taken the limelight a few times in recent games, with his goals against Cremonese and Torino, along with his contribution to the clean sheet in the derby win agai"
-    },
-    {
-      "id": "1efc78c654df",
-      "title": "Paolo Maldini suggested for top FIGC role – Sport Minister Abodi’s response",
-      "url": "https://sempremilan.com/paolo-maldini-figc-abodi-response",
-      "source": "sempremilan.com",
-      "date": "2026-04-02T12:10:00+00:00",
-      "summary": "Paolo Maldini has been out of work since leaving AC Milan, but his name has been mentioned as a potential saviour for Italian football. Italy’s World Cup play-off loss to Bosnia has deepened the wounds as they have failed to qualify for the biggest tournament in football for the third time in a row."
     },
     {
       "id": "2f74f1345098",
