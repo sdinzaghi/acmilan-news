@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-04-03T05:03:23.878858+00:00",
+  "lastUpdated": "2026-04-03T07:05:41.854476+00:00",
   "articles": [
+    {
+      "id": "c42493d1182f",
+      "title": "National team, Tuttosport: \"Gattuso's farewell is awaited. Conte, Mancini and Allegri for the succession\"",
+      "url": "https://www.milannews.it/rassegna-stampa/nazionale-tuttosport-si-attende-l-addio-di-gattuso-per-la-successione-conte-mancini-e-allegri-612737",
+      "source": "milannews.it",
+      "date": "2026-04-03T07:00:00+00:00",
+      "summary": "Yesterday the long-awaited - and requested by many parts of public opinion - resignation of Gabriele Gravina as FIGC president arrived."
+    },
+    {
+      "id": "6b75522722c0",
+      "title": "Repubblica: \"Maldini's entry into the federal cadre does not seem feasible\"",
+      "url": "https://www.milannews.it/rassegna-stampa/repubblica-non-sembra-praticabile-l-ingresso-di-maldini-nei-quadri-federali-612745",
+      "source": "milannews.it",
+      "date": "2026-04-03T06:50:00+00:00",
+      "summary": "Italian football has officially entered a transition phase."
+    },
+    {
+      "id": "52e248f73f55",
+      "title": "Captain America to be found again, the Gazzetta: \"Pulisic looks for goals\"",
+      "url": "https://www.milannews.it/rassegna-stampa/capitan-america-da-ritrovare-la-gazzetta-pulisic-cerca-i-gol-612744",
+      "source": "milannews.it",
+      "date": "2026-04-03T06:40:39+00:00",
+      "summary": "Today, third day of training of the week for Milan in view of the big match they will play at Napoli on Monday at 8pm."
+    },
+    {
+      "id": "d0d7d63038e0",
+      "title": "Full devil in the middle of the pitch, CorSport: \"Rabiot ok, Loftus called up\"",
+      "url": "https://www.milannews.it/rassegna-stampa/diavolo-al-completo-in-mezzo-al-campo-il-corsport-rabiot-ok-loftus-convocato-612734",
+      "source": "milannews.it",
+      "date": "2026-04-03T06:30:41+00:00",
+      "summary": "For the first time after several matches, Massimiliano Allegri on Monday evening, in the big match against Napoli which will be played at 8pm."
+    },
+    {
+      "id": "f8895d66115b",
+      "title": "Allegri at work, Tuttosport: \"A cage to stop Hojlund\"",
+      "url": "https://www.milannews.it/rassegna-stampa/allegri-al-lavoro-tuttosport-una-gabbia-per-fermare-hojlund-612733",
+      "source": "milannews.it",
+      "date": "2026-04-03T06:20:00+00:00",
+      "summary": "Napoli and Milan have crossed paths this season already on two occasions: in the league, at the beginning of the year, Max Allegri won 2-1 at San Siro, with one of the best performances of the year; in the Italian Super Cup, in ..."
+    },
+    {
+      "id": "7a6f1b0a2385",
+      "title": "Gravina resigned: the front pages of the main sports newspapers",
+      "url": "https://www.milannews.it/rassegna-stampa/gravina-si-e-dimesso-le-prime-pagine-dei-principali-quotidiani-sportivi-612731",
+      "source": "milannews.it",
+      "date": "2026-04-03T06:10:00+00:00",
+      "summary": "The championship is approaching, tomorrow the 31st day will begin which will have its culmination on Monday evening on Easter Monday with the big match Napoli-Milan, yet even today Seria A is forgotten on the front pages of the main ..."
+    },
+    {
+      "id": "0ccac21ceecb",
+      "title": "Leao more no than yes in Naples: a place for three next to Pulisic",
+      "url": "https://www.milannews.it/primo-piano/leao-piu-no-che-si-a-napoli-un-posto-per-tre-accanto-a-pulisic-612732",
+      "source": "milannews.it",
+      "date": "2026-04-03T06:00:00+00:00",
+      "summary": "Yesterday some positive signals arrived from Rafael Leao but it is not yet known if they are conclusive."
+    },
+    {
+      "id": "d731eb6c9578",
+      "title": "Milan Futuro: the positive streak in the championship extends to six consecutive games",
+      "url": "https://www.milannews.it/news/milan-futuro-si-allunga-a-sei-partite-consecutive-la-striscia-positiva-in-campionato-612724",
+      "source": "milannews.it",
+      "date": "2026-04-03T05:50:00+00:00",
+      "summary": "Milan Futuro's positive streak in the league extends to six consecutive games, now divided equally between wins and draws."
+    },
+    {
+      "id": "68f3d91c9dd4",
+      "title": "Where to watch Napoli-Milan live on TV, streaming and on MilanNews.it",
+      "url": "https://www.milannews.it/news/dove-vedere-napoli-milan-in-diretta-tv-streaming-e-su-milannews-it-612725",
+      "source": "milannews.it",
+      "date": "2026-04-03T05:40:00+00:00",
+      "summary": "TOWARDS NAPLES-MILAN, ALL THE USEFUL INFORMATION\n\nTHE ALLEGRI CONFERENCE\n\nMax Allegri's press conference at Milanello is scheduled for tomorrow, Saturday 4 April at 2.30 pm."
+    },
+    {
+      "id": "ece73d9f7ca9",
+      "title": "Italy, casting for the new coach begins: Allegri and Conte the strongest names",
+      "url": "https://www.milannews.it/news/italia-al-via-il-casting-per-il-nuovo-ct-allegri-e-conte-i-nomi-piu-forti-612727",
+      "source": "milannews.it",
+      "date": "2026-04-03T05:30:00+00:00",
+      "summary": "As reported by la Repubblica, it would be very hot hours for Rino Gattuso's new successor at the Azzurri bench."
+    },
+    {
+      "id": "ab127f042d03",
+      "title": "Serie A, referee appointments for the 31st matchday: Napoli-Milan at Doveri",
+      "url": "https://www.milannews.it/news/serie-a-le-designazioni-arbitrali-per-la-31-giornata-napoli-milan-a-doveri-612726",
+      "source": "milannews.it",
+      "date": "2026-04-03T05:20:00+00:00",
+      "summary": "Referee Sozza from Seregno has been appointed to referee Inter-Roma, a big match on Easter day valid for the 31st matchday of Serie A, while the other top-ranking match, Napoli-Milan, which will be played on Easter Monday ..."
+    },
+    {
+      "id": "860d05f9eb2d",
+      "title": "From Milanello, the returns of Modric, Pulisic, Estupinan and the Belgians Saelemaekers and De Winter are scheduled for today",
+      "url": "https://www.milannews.it/news/da-milanello-previsti-per-oggi-i-rientri-di-modric-pulisic-estupinan-e-i-belgi-saelemaekers-e-de-winter-612723",
+      "source": "milannews.it",
+      "date": "2026-04-03T05:10:00+00:00",
+      "summary": "Yesterday was the second training session for Milan ahead of Napoli."
+    },
     {
       "id": "77dc99dde9d6",
       "title": "Serie A, matchday 31 starts tomorrow: the complete programme",
@@ -64,102 +160,6 @@
       "source": "milannews.it",
       "date": "2026-04-02T21:50:12+00:00",
       "summary": "As reported by TMW, Umberto Calcagno, president of the Italian Footballers' Association and vice-president of the FIGC, spoke at the end of today's meeting, during which the resignation of Gabriele Gravina arrived as pr ..."
-    },
-    {
-      "id": "f70f4e4a398f",
-      "title": "Milan pressing on Goretzka: Allegri is pushing hard",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-in-pressing-su-goretzka-allegri-sta-spingendo-forte-612649",
-      "source": "milannews.it",
-      "date": "2026-04-02T21:40:20+00:00",
-      "summary": "In view of next season, Massimiliano Allegri was very clear with his managers: we need to raise the level of the squad and to do this we therefore need to insert profiles of experience and status."
-    },
-    {
-      "id": "b82354a3693c",
-      "title": "Brambati on Italy's future: \"I suggest two names: Galliani flanked by Maldini\"",
-      "url": "https://www.milannews.it/news/brambati-sul-futuro-dell-italia-suggerisco-due-nomi-galliani-affiancato-da-maldini-612701",
-      "source": "milannews.it",
-      "date": "2026-04-02T21:30:22+00:00",
-      "summary": "Massimo Brambati, former footballer and prosecutor, spoke about the failure of Italian football and the possible figures who could restart it after yet another World Cup debacle. He spoke about it on TMW Radio."
-    },
-    {
-      "id": "c94d1e366d45",
-      "title": "The elections for the new positions in the FIGC will be called for June 22nd",
-      "url": "https://www.milannews.it/news/le-elezioni-per-le-nuove-cariche-in-figc-saranno-indette-per-il-22-giugno-612690",
-      "source": "milannews.it",
-      "date": "2026-04-02T21:20:18+00:00",
-      "summary": "(ANSA) - ROME, APRIL 02 - Gabriele Gravina announced his resignation as president of the FIGC during the summit with the federal components. The elections for the new positions will be called for June 22 (ANSA)."
-    },
-    {
-      "id": "29d34fd77853",
-      "title": "Pellegatti clear: \"We need to lock down Allegri. Let it not be taken as an excuse to let him go, we are not naive\"",
-      "url": "https://www.milannews.it/news/pellegatti-chiaro-bisogna-blindare-allegri-che-non-venga-presa-come-scusa-per-lasciarlo-andare-via-non-siamo-ingenui-612697",
-      "source": "milannews.it",
-      "date": "2026-04-02T21:10:12+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti spoke about the latest rumors linking Massimiliano Allegri to the national team and what Milan should do at this moment."
-    },
-    {
-      "id": "76a17262fa45",
-      "title": "Zoff harshly criticizes Italian football, focusing above all on the pace of the game",
-      "url": "https://www.milannews.it/news/zoff-critica-aspramente-il-calcio-italiano-soffermandosi-soprattutto-sui-ritmi-di-gioco-612651",
-      "source": "milannews.it",
-      "date": "2026-04-02T21:00:00+00:00",
-      "summary": "Dino Zoff, interviewed by Mattino di Padova, criticized Italian football: \"In Serie A we play slow football, with lots of referee whistles. The VAR intervenes as if it were raining, the rhythms are slow and the spectacle is affected."
-    },
-    {
-      "id": "5ac0976ce488",
-      "title": "Longhi sure: \"Napoli-Milan and Inter-Roma are not decisive but very indicative of the upcoming challenges\"",
-      "url": "https://www.milannews.it/news/longhi-sicuro-napoli-milan-e-inter-roma-non-sono-decisive-ma-molto-indicative-delle-prossime-sfide-612698",
-      "source": "milannews.it",
-      "date": "2026-04-02T20:50:49+00:00",
-      "summary": "Journalist Bruno Longhi spoke to the microphones of TMW Radio during Maracanà and, among other topics, also spoke about the two big matches of this weekend: Inter-Roma and Napoli-Milan."
-    },
-    {
-      "id": "759e15bdb194",
-      "title": "Who will be Italy's coach? Mancini-Conte duel, but there is also a sensational suggestion",
-      "url": "https://www.milannews.it/news/chi-sara-il-ct-dell-italia-duello-mancini-conte-ma-c-e-anche-una-clamorosa-suggestione-612655",
-      "source": "milannews.it",
-      "date": "2026-04-02T20:40:47+00:00",
-      "summary": "Fabio Licari, journalist, expressed himself as follows in La Gazzetta dello Sport on the future coach of the Italian national team: \"Head to head Mancini-Conte. With Mancini the closure was dramatic, with threats of court."
-    },
-    {
-      "id": "ba34b944a4d8",
-      "title": "This is how Bartesaghi describes his first day at Milanello",
-      "url": "https://www.milannews.it/news/bartesaghi-racconta-cosi-il-suo-primo-giorno-a-milanello-612613",
-      "source": "milannews.it",
-      "date": "2026-04-02T20:30:14+00:00",
-      "summary": "Davide Bartesaghi gave a long interview to the official AC Milan channels in the \"On the road\" format, during which he said: \n\nThe first thought when you enter the gates of Milanello?\n“Just the fact..."
-    },
-    {
-      "id": "f59861b4ee86",
-      "title": "Inter loses a starting central defender: he won't be there against Roma",
-      "url": "https://www.milannews.it/news/l-inter-perde-un-difensore-centrale-titolare-non-ci-sara-contro-la-roma-612686",
-      "source": "milannews.it",
-      "date": "2026-04-02T20:22:20+00:00",
-      "summary": "(ANSA) - MILAN, APRIL 02 - Inter lose Yann Bisseck. The German defender underwent clinical and instrumental tests this morning which highlighted a slight muscle strain in the flexors of his right thigh."
-    },
-    {
-      "id": "ae8d3af47807",
-      "title": "Sensational from France: according to L'Equipe, Didier Deschamps is also on the list for Italy's bench",
-      "url": "https://www.milannews.it/news/clamoroso-dalla-francia-secondo-l-equipe-anche-didier-deschamps-in-lista-per-la-panchina-dell-italia-612729",
-      "source": "milannews.it",
-      "date": "2026-04-02T20:10:00+00:00",
-      "summary": "As reported by the well-known French newspaper l'Equipe, the twist that could happen in the choice of the new Italy coach would be sensational, given the imminent resignation of Rino Gattuso."
-    },
-    {
-      "id": "17b9e12b04a1",
-      "title": "Milan transfer market, from Spain they are certain: the Rossoneri are interested in two talents from Real Madrid",
-      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-dalla-spagna-sono-sicuri-rossoneri-interessati-a-due-talenti-del-real-madrid-612730",
-      "source": "milannews.it",
-      "date": "2026-04-02T20:00:00+00:00",
-      "summary": "As reported by the Spanish newspaper AS, Milan would be looking for young, talented but ready profiles for the first team. In Spain in this case the soil is very fertile."
-    },
-    {
-      "id": "6f1782dfd83d",
-      "title": "Repice: \"Maldini as federal president has the strength and presence to impose himself. We need a figure of that type, a man in whom we recognize ourselves\"",
-      "url": "https://www.milannews.it/news/repice-maldini-come-presidente-federale-ha-la-forza-e-la-presenza-per-imporsi-c-e-bisogno-di-una-figura-di-quel-tipo-di-un-uomo-nel-quale-ci-si-ricono-612692",
-      "source": "milannews.it",
-      "date": "2026-04-02T19:50:53+00:00",
-      "summary": "Journalist Francesco Repice spoke on TMW Radio during Maracanà and spoke about the chaos in Italy: \"The match then went like this, everyone takes their responsibilities, Gravina is doing it and we'll see..."
     },
     {
       "id": "cfef05a0e6cc",
