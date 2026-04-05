@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-04-05T07:03:51.361316+00:00",
+  "lastUpdated": "2026-04-05T08:40:45.418808+00:00",
   "articles": [
+    {
+      "id": "4115b9b8a12e",
+      "title": "Bologna, Castro: \"Milan? I don't feel like saying 'I'll stay here for many more years' and acting like someone who talks just for the sake of talking.\"",
+      "url": "https://www.milannews.it/calciomercato-milan/bologna-castro-milan-non-mi-va-di-dire-restero-qui-ancora-tanti-anni-e-fare-eventuali-figure-di-chi-parla-tanto-per-parlare-612949",
+      "source": "milannews.it",
+      "date": "2026-04-05T08:28:09+00:00",
+      "summary": "Santiago Castro, Bologna striker who - according to some rumors - is also of interest to Milan, spoke to Gazzetta dello Sport about his future like this: \"There are two months left until the end of the season and I'm feeling great with Bologna, I feel like I'm in a ..."
+    },
+    {
+      "id": "dbdd9e9e4df7",
+      "title": "Bartesaghi discusses rise at Milan, guides within squad, Allegri’s advice and Futuro project",
+      "url": "https://sempremilan.com/bartesaghi-milan-rise-guides-allegri-futuro",
+      "source": "sempremilan.com",
+      "date": "2026-04-05T08:25:00+00:00",
+      "summary": "Davide Bartesaghi’s phenomenal season continues, and he has expressed gratitude towards several key figures at AC Milan. It has already been a very memorable campaign for Bartesaghi, who seized the opportunity and earned a starting spot at his boyhood club Milan. He scored his first goals in Serie A"
+    },
+    {
+      "id": "4573f82b3217",
+      "title": "Milan in Naples on Easter Monday. Tuttosport: \"Allegri shouts 'Scudetto? If Inter...'\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-a-napoli-nel-giorno-di-pasquetta-tuttosport-allegri-gufa-scudetto-se-l-inter-612995",
+      "source": "milannews.it",
+      "date": "2026-04-05T08:12:57+00:00",
+      "summary": "On Nabis Monday Milan will be guests of Napoli at the Diego Armando Maradona stadium for the 31st matchday of Serie A Enilive."
+    },
+    {
+      "id": "d53214b0c663",
+      "title": "Gallery: ‘Two careers worth 27 trophies’, ‘Allegri wants to stay’ – Today’s front pages in Italy",
+      "url": "https://sempremilan.com/front-pages-napoli-milan-5-april-allegri",
+      "source": "sempremilan.com",
+      "date": "2026-04-05T08:00:00+00:00",
+      "summary": "AC Milan might not take on Napoli at the Maradona until tomorrow night, but the newspapers this morning all reference the big game. It feels like a huge weekend in the title race, with Milan one point above Napoli and with eight games to go. The Rossoneri are currently second, six points behind Inte"
+    },
+    {
+      "id": "b94d1a6d1b00",
+      "title": "Biasin doesn't trust: \"Inter comes from a month of bad performances and a devastating World Cup disappointment\"",
+      "url": "https://www.milannews.it/news/biasin-non-si-fida-inter-arriva-da-un-mese-di-cattive-prestazioni-e-da-una-delusione-mondiale-devastante-612780",
+      "source": "milannews.it",
+      "date": "2026-04-05T07:56:00+00:00",
+      "summary": "During the show at the theater of L'ascia o doppia, a format of Cronache di Spogliatoio, Fabrizio Biasin commented on the match between Inter and Roma and how important it will be for the championship race and how the Nerazzurri will get there..."
+    },
+    {
+      "id": "1381d13e13df",
+      "title": "Napoli tries to overtake, Milan goes ahead. CorSport: \"Conte-Max Italian style\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-napoli-tenta-il-sorpasso-il-milan-l-allungo-il-corsport-conte-max-all-italiana-612994",
+      "source": "milannews.it",
+      "date": "2026-04-05T07:40:36+00:00",
+      "summary": "Tomorrow evening at the Diego Armando Maradona stadium the second big match of this 31st matchday of Serie A Enilive will be staged, i.e. Napoli-Milan."
+    },
+    {
+      "id": "7c18ba224680",
+      "title": "PROBABLE LINEUP - Towards Napoli-Milan: Leao is there. For Allegri only one run-off",
+      "url": "https://www.milannews.it/news/probabile-formazione-verso-napoli-milan-leao-c-e-per-allegri-un-solo-ballottaggio-612809",
+      "source": "milannews.it",
+      "date": "2026-04-05T07:30:35+00:00",
+      "summary": "AC MILAN'S PROBABLE LINE-UP\n\n16 Maignan\n\n23 Tomori 5 De Winter 31 Pavlovic\n\n56 Saelemaekers 19 Fofana 14 Modric 12 Rabiot 33 Bartesaghi\n\n11 Pulisic 18 Nkunku\n\nAvailable: 1 Terracciano, 37 Pittarella, 27&n ..."
+    },
+    {
+      "id": "a20ba1437958",
+      "title": "Del Piero comes down hard: \"Italy's third embarrassing flop, planning is needed\"",
+      "url": "https://www.milannews.it/news/del-piero-ci-va-giu-pesante-terzo-flop-dell-italia-imbarazzante-serve-progettualita-612797",
+      "source": "milannews.it",
+      "date": "2026-04-05T07:24:36+00:00",
+      "summary": "(ANSA) - ROME, APRIL 03 - \"There are many negative sensations: sadness, anger, disappointment and disbelief. The first time was a shock, the second a nightmare and the third embarrassing to justify.\""
+    },
+    {
+      "id": "f87a1445d545",
+      "title": "Bartesaghi: \"Napoli is fundamental for the end of the season. We will prepare it as it deserves\"",
+      "url": "https://www.milannews.it/primo-piano/bartesaghi-napoli-fondamentale-per-il-finale-di-stagione-la-prepareremo-come-merita-613006",
+      "source": "milannews.it",
+      "date": "2026-04-05T07:15:00+00:00",
+      "summary": "Interviewed by colleagues from La Gazzetta dello Sport on the eve of an important match like the one in Naples against Antonio Conte's team, Milan full-back Davide Bartesaghi obviously spoke about tomorrow's opponents..."
+    },
+    {
+      "id": "2def37becbdc",
+      "title": "Pastore: \"The Inter-Roma result will influence Napoli-Milan. If the Nerazzurri don't win the red alarm goes off\"",
+      "url": "https://www.milannews.it/news/pastore-risultato-inter-roma-influenzera-napoli-milan-se-i-nerazzurri-non-vincessero-scatta-l-allarme-rosso-612779",
+      "source": "milannews.it",
+      "date": "2026-04-05T07:08:18+00:00",
+      "summary": "During the show at the theater of L'ascia o Raddoppia, a format of Cronache di Spogliatoio, Giuseppe Pastore spoke about Inter-Roma and the importance of this match and the fact that its result will influence the pa ..."
+    },
     {
       "id": "9a16e1220f50",
       "title": "Whose \"bad Easter\"? Between today and tomorrow Milan, Inter, Naples and Roma will play the season",
@@ -32,14 +112,6 @@
       "source": "milannews.it",
       "date": "2026-04-05T06:04:09+00:00",
       "summary": "Just like Massimiliano Allegri, Antonio Conte will not give his team rest for Easter Sunday. Napoli, in view of tomorrow's match against Milan, will train in Castelvolturno with the classic eve of training."
-    },
-    {
-      "id": "7c18ba224680",
-      "title": "PROBABLE LINEUP - Towards Napoli-Milan: Leao is there. For Allegri only one run-off",
-      "url": "https://www.milannews.it/news/probabile-formazione-verso-napoli-milan-leao-c-e-per-allegri-un-solo-ballottaggio-612809",
-      "source": "milannews.it",
-      "date": "2026-04-05T06:00:35+00:00",
-      "summary": "AC MILAN'S PROBABLE LINE-UP\n\n16 Maignan\n\n23 Tomori 5 De Winter 31 Pavlovic\n\n56 Saelemaekers 19 Fofana 14 Modric 12 Rabiot 33 Bartesaghi\n\n11 Pulisic 18 Nkunku\n\nAvailable: 1 Terracciano, 37 Pittarella, 27&n ..."
     },
     {
       "id": "5d7a5a17dee2",
@@ -104,62 +176,6 @@
       "source": "milannews.it",
       "date": "2026-04-04T22:24:22+00:00",
       "summary": "During his editorial on MilanNews."
-    },
-    {
-      "id": "082fe40f1f5a",
-      "title": "Cuomo: \"Goretzka, Casemiro, Lewandowski, they are all names that could ideally be mixed with the various Gilas\"",
-      "url": "https://www.milannews.it/calciomercato-milan/cuomo-goretzka-casemiro-lewandowski-sono-tutti-nomi-che-idealmente-potrebbero-essere-mischiati-coi-vari-gila-612955",
-      "source": "milannews.it",
-      "date": "2026-04-04T22:12:17+00:00",
-      "summary": "Michael Cuomo, journalist, expressed himself thus to MilanVibes on Milan's transfer market: “Allegri asked for four Rabiot, one for each department."
-    },
-    {
-      "id": "14687ada8e36",
-      "title": "Crucial round. The Inter block and the non-block Milan. Will it be a new purchase?",
-      "url": "https://www.milannews.it/editoriale/turno-cruciale-il-blocco-inter-e-il-non-blocco-milan-sara-un-nuovo-acquisto-612953",
-      "source": "milannews.it",
-      "date": "2026-04-04T22:00:01+00:00",
-      "summary": "It is the eve of a very important match for Milan. The match against Napoli can really mean a lot, on multiple fronts."
-    },
-    {
-      "id": "c6346b683148",
-      "title": "De Paola: \"The prediction says Napoli, but let's remember that Milan...\"",
-      "url": "https://www.milannews.it/news/de-paola-il-pronostico-dice-napoli-ma-ricordiamoci-che-il-milan-612885",
-      "source": "milannews.it",
-      "date": "2026-04-04T21:48:00+00:00",
-      "summary": "Paolo De Paola, on TMW Radio, introduced Napoli-Milan as follows: \"The prediction says Napoli, there is great energy, the possibility of getting close to Inter."
-    },
-    {
-      "id": "cb31489c413c",
-      "title": "Serie A, Milan gained 12 points with goals scored beyond the 75th minute",
-      "url": "https://www.milannews.it/news/serie-a-il-milan-ha-guadagnato-12-punti-con-gol-segnati-oltre-il-75-612907",
-      "source": "milannews.it",
-      "date": "2026-04-04T21:36:26+00:00",
-      "summary": "In view of Napoli-Milan, the Lega Calcio Serie A website reports that the two teams \"know how to strike in decisive moments: Milan has gained 12 points with goals scored after the 75th minute, while Napoli is the team that has collected ..."
-    },
-    {
-      "id": "df3eba5367c9",
-      "title": "Modric presents his autobiography. \"I play\" available in bookstores",
-      "url": "https://www.milannews.it/news/modric-presenta-la-sua-autobiografia-io-gioco-disponibile-in-libreria-612991",
-      "source": "milannews.it",
-      "date": "2026-04-04T21:29:34+00:00",
-      "summary": "Luka Modric has many stories to tell about life, sport, defeats and incredible victories."
-    },
-    {
-      "id": "bac9ef21840c",
-      "title": "M.Orlando plays Napoli-Milan: \"The Rossoneri get results, but they don't drive me crazy\"",
-      "url": "https://www.milannews.it/news/m-orlando-gioca-napoli-milan-i-rossoneri-ottengono-risultati-ma-non-mi-fanno-impazzire-612873",
-      "source": "milannews.it",
-      "date": "2026-04-04T21:24:00+00:00",
-      "summary": "Massimo Orlando, on TMW Radio, introduced Napoli-Milan like this: \"Looking at the lineup, Napoli are complete and for this reason alone I say they are favourites. Milan doesn't drive me crazy, even if they get the results."
-    },
-    {
-      "id": "5c487cb10b53",
-      "title": "Gimenez: \"I feel very good. These last eight races are finals\"",
-      "url": "https://www.milannews.it/news/gimenez-mi-sento-molto-bene-queste-ultime-otto-gare-sono-finali-612887",
-      "source": "milannews.it",
-      "date": "2026-04-04T21:12:22+00:00",
-      "summary": "Interviewed by DAZN, Santiago Gimenez spoke like this about his moment and the ankle operation: \n\nOn his moment: “I feel very good, right now the most important thing is my ankle and being ..."
     },
     {
       "id": "a07a2d92c81d",
@@ -336,22 +352,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-04T10:30:00+00:00",
       "summary": "Robert Lewandowski is the ideal free agent striker signing for many and AC Milan are among the suitors. However, it will not be easy. Whilst the removal of a fee would be a big help for Milan, making the signing of Lewandowski an opportunity, there has been a big problem. It would not solve the […]\n"
-    },
-    {
-      "id": "5994257e7241",
-      "title": "GdS: ‘Why don’t you’ – Lukaku could help Napoli and Milan with mercato switch",
-      "url": "https://sempremilan.com/lukaku-could-help-napoli-milan-mercato-switch",
-      "source": "sempremilan.com",
-      "date": "2026-04-04T10:05:00+00:00",
-      "summary": "It has been well documented this season that AC Milan are without a ‘true’ striker. Someone who has always been a number nine and that will be solved in the summer. Throughout the past 12 months, who knows how many different strikers have been linked? There has been a constant conveyor belt of names"
-    },
-    {
-      "id": "3ab71f2e37af",
-      "title": "Photo: Curva Sud attend Milanello in their numbers to show support for Milan before Napoli trip",
-      "url": "https://sempremilan.com/curva-sud-attend-milanello-show-support-napoli",
-      "source": "sempremilan.com",
-      "date": "2026-04-04T09:40:00+00:00",
-      "summary": "In recent days, the Curva Sud announced plans to attend Milanello for this morning’s training session and they have done so, to support the AC Milan team. The restrictions against Milan fans for Monday’s game are ridiculous. They mean that there will be very little Milanese presence inside the Stadi"
     },
     {
       "id": "7b7c357b4c5f",
