@@ -1,6 +1,158 @@
 {
-  "lastUpdated": "2026-04-09T15:21:22.956177+00:00",
+  "lastUpdated": "2026-04-09T17:05:57.572237+00:00",
   "articles": [
+    {
+      "id": "bbc584f20783",
+      "title": "In terms of expected goals, there were two other matches in which Milan did worse than Napoli",
+      "url": "https://www.milannews.it/news/in-quanto-a-gol-attesi-ci-sono-state-altre-due-partite-in-cui-il-milan-ha-fatto-peggio-di-napoli-613376",
+      "source": "milannews.it",
+      "date": "2026-04-09T17:00:14+00:00",
+      "summary": "Milan produced just 0.47 as an Expected Goals value in this match: only against Roma in January 2026 and Atalanta in October 2025 have the Rossoneri done worse in this championship."
+    },
+    {
+      "id": "cd45bcfeb20d",
+      "title": "MN: ‘Everyone crazy about Alajbegovic’ – Milan to try snatch winger from Bayer Leverkusen",
+      "url": "https://sempremilan.com/everyone-crazy-alajbegovic-milan-snatch-leverkusen",
+      "source": "sempremilan.com",
+      "date": "2026-04-09T17:00:00+00:00",
+      "summary": "AC Milan are very interested in signing Kerim Alajbegovic and want to try land him, even if a tough pursuit awaits. According to MilanNews, Milan’s summer mercato will feature both experienced additions (as requested by Massimiliano Allegri) and signings for the future. Andrej Kostic was recently se"
+    },
+    {
+      "id": "8e38bf7594b1",
+      "title": "From Landucci's charge to Saelemaekers and Allegri's outburst: the behind the scenes of Napoli-Milan by BordoCam",
+      "url": "https://www.milannews.it/news/dalla-carica-di-landucci-allo-sfogo-di-saelemaekers-e-allegri-i-retroscena-di-napoli-milan-di-bordocam-613429",
+      "source": "milannews.it",
+      "date": "2026-04-09T16:50:13+00:00",
+      "summary": "A new episode of Bordocam has been released in these hours, the DAZN format edited by Davide Bernardi on the match that was played last Monday on Easter Monday between Napoli and Milan."
+    },
+    {
+      "id": "4bbd27799818",
+      "title": "San Siro chaos with motion to annul sale to Inter and Milan",
+      "url": "https://football-italia.net/san-siro-motion-to-annul-sale-to-inter-milan/",
+      "source": "football-italia.net",
+      "date": "2026-04-09T16:42:50+00:00",
+      "summary": "The biggest political party in Italy has presented a motion to annul the sale of..."
+    },
+    {
+      "id": "51da65b6ce65",
+      "title": "Donnarumma declares that the national team players have never asked for money to qualify",
+      "url": "https://www.milannews.it/news/donnarumma-dichiara-che-i-calciatori-della-nazionale-non-hanno-mai-chiesto-soldi-per-la-qualificazione-613374",
+      "source": "milannews.it",
+      "date": "2026-04-09T16:40:53+00:00",
+      "summary": "Gianluigi Donnarumma, speaking to Sky Sport, describes the post-Zenica post and the disappointment of the third Italian failure in this way: \"\"They were two very hard, tiring days."
+    },
+    {
+      "id": "d7399ac26595",
+      "title": "Udinese, Karlstrom: \"Milan have a good midfield and an attentive and organized defence. We recover Davis who is too strong\"",
+      "url": "https://www.milannews.it/news/udinese-karlstrom-il-milan-ha-un-bel-centrocampo-e-una-difesa-attenta-e-organizzata-noi-recuperiamo-davis-che-e-troppo-forte-613390",
+      "source": "milannews.it",
+      "date": "2026-04-09T16:30:45+00:00",
+      "summary": "Jesper Karlstrom, midfielder and captain of Udinese, Milan's next opponent in the championship, spoke to Gazzetta dello Sport in view of the match against the Rossoneri."
+    },
+    {
+      "id": "6246832cfe80",
+      "title": "GdS: Cardinale’s €1.5bn+ crossroads – why a crucial few months awaits Milan’s owner",
+      "url": "https://sempremilan.com/cardinale-1-5bn-crossroads-crucial-few-months",
+      "source": "sempremilan.com",
+      "date": "2026-04-09T16:30:00+00:00",
+      "summary": "A big summer is approaching for Gerry Cardinale, one that could potentially see him commit to a huge amount of investment. La Gazzetta dello Sport writes that the RedBird Capital No.1 will have ‘a billion and a half things’ on his mind. Indeed, Cardinale will have to make decisions in many areas in "
+    },
+    {
+      "id": "9ff5dab06b7a",
+      "title": "Report Lewandowski given strong Milan presentation",
+      "url": "https://football-italia.net/report-lewandowski-strong-milan-presentation/",
+      "source": "football-italia.net",
+      "date": "2026-04-09T16:27:52+00:00",
+      "summary": "Milan have reportedly intensified talks with the agent of Barcelona centre-forward Robert Lewandowski, who could..."
+    },
+    {
+      "id": "6a7d8b18d161",
+      "title": "Goretzka-Milan, the point: the Rossoneri working to try to ease the conditions of the German's salary",
+      "url": "https://www.milannews.it/calciomercato-milan/goretzka-milan-il-punto-rossoneri-al-lavoro-per-provare-ad-alleggerire-le-condizioni-dello-stipendio-del-tedesco-613427",
+      "source": "milannews.it",
+      "date": "2026-04-09T16:22:00+00:00",
+      "summary": "According to what Moretto and Romano reported, the Milan market (but not only) could take off with the possible arrival of Leon Goretzka in the summer. A negotiation that was not easy and which still has a lot to say today."
+    },
+    {
+      "id": "b761d0e8cb23",
+      "title": "Milan transfer market, Moretto on Gila: \"A popular name for the summer, but relations between Milan and Lazio today are lukewarm..\"",
+      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-moretto-su-gila-nome-che-piace-per-l-estate-ma-i-rapporti-tra-milan-e-lazio-oggi-sono-tiepidi-613426",
+      "source": "milannews.it",
+      "date": "2026-04-09T16:17:00+00:00",
+      "summary": "Matteo Moretto, a transfer expert journalist, spoke on his YouTube channel, analyzing and commenting on Milan's next possible transfer moves. The name for the defense always remains that of Mario Gila."
+    },
+    {
+      "id": "33eb2de82ec7",
+      "title": "Passerini: \"Until I see a 25-year-old striker worth 80 million arrive at Milan, I'll gladly take an option like Lewandowski's\"",
+      "url": "https://www.milannews.it/calciomercato-milan/passerini-finche-non-vedro-arrivare-un-attaccante-di-25-anni-da-80-milioni-al-milan-prendo-volentieri-una-opzione-come-quella-di-lewandowski-613366",
+      "source": "milannews.it",
+      "date": "2026-04-09T16:10:34+00:00",
+      "summary": "Carlos Passerini, journalist, expressed himself as follows on his YouTube channel on Milan's interest in Robert Lewandowski: \"There is a name that is circulating quite a bit at Milan: Lewandowski."
+    },
+    {
+      "id": "6ce972905039",
+      "title": "Camarda and Kostic, the future smiles at Milan. But what will happen in the summer? The possible scenarios",
+      "url": "https://www.milannews.it/primo-piano/camarda-e-kostic-il-futuro-sorride-al-milan-ma-cosa-succedera-in-estate-i-possibili-scenari-613384",
+      "source": "milannews.it",
+      "date": "2026-04-09T16:00:25+00:00",
+      "summary": "If Milan have not been able to find a prolific striker for years, for the future they can count on two of the most promising young players around: we are talking about Francesco Camarda and Andrej Kostic."
+    },
+    {
+      "id": "cd206ef74666",
+      "title": "Correct score odds Milan Udinese",
+      "url": "https://www.milannews.it/scommesse/pronostici/quote-risultato-esatto-milan-udinese-613300",
+      "source": "milannews.it",
+      "date": "2026-04-09T16:00:00+00:00",
+      "summary": "The defeat in Naples definitively removes Milan from the Scudetto race. The Rossoneri have slipped to third place in the standings and now all that remains is to defend the Champions League position: the lead is still good but not entirely reassuring."
+    },
+    {
+      "id": "03081f5d29d2",
+      "title": "CM: Milan intensify talks with agent of Barcelona striker Lewandowski – the situation",
+      "url": "https://sempremilan.com/milan-intensify-talks-agent-lewandowski-barcelona",
+      "source": "sempremilan.com",
+      "date": "2026-04-09T16:00:00+00:00",
+      "summary": "AC Milan’s hunt for a top striker continues, and they seem to be zoning in on attempts to convince Robert Lewandowski. Milan’s slump in terms of results has coincided with problems in their attack. Christian Pulisic hasn’t scored in the league since December 28th, Santiago Gimenez for 333 days, Nicl"
+    },
+    {
+      "id": "edf063099ddd",
+      "title": "Padovan: \"Where has the Milan that never lost gone? Allegri plays with two strikers who aren't strikers\"",
+      "url": "https://www.milannews.it/news/padovan-dov-e-finito-il-milan-che-non-perdeva-mai-allegri-gioca-con-due-punte-che-non-sono-punte-613393",
+      "source": "milannews.it",
+      "date": "2026-04-09T15:50:46+00:00",
+      "summary": "Giancarlo Padovan, journalist, expressed himself as follows on Radio Napoli Centrale about Serie A: \"Has Napoli returned to racing without the Champions League? Conte is a stage-racing coach."
+    },
+    {
+      "id": "b9c2a176c923",
+      "title": "According to Fabrizio Romano, Milan are not looking for buyers for Leao",
+      "url": "https://www.milannews.it/calciomercato-milan/secondo-fabrizio-romano-il-milan-non-sta-cercando-compratori-per-leao-613387",
+      "source": "milannews.it",
+      "date": "2026-04-09T15:40:02+00:00",
+      "summary": "During his daily video on his YouTube channel, Fabrizio Romano spoke thus about the Spanish indiscretion linking Leao to Barcelona: \n\n\"Today Sport, one of the most important newspapers in Spain near ..."
+    },
+    {
+      "id": "c35dbd2684a0",
+      "title": "McKennie says: \"We came back from the matches at three in the morning and Cristiano Ronaldo went for an ice cream bath instead of going home\"",
+      "url": "https://www.milannews.it/news/mckennie-racconta-tornavamo-alle-tre-di-notte-dalle-partite-e-cristiano-ronaldo-andava-a-farsi-un-bagno-gelato-invece-di-andare-a-casa-613386",
+      "source": "milannews.it",
+      "date": "2026-04-09T15:30:27+00:00",
+      "summary": "(ANSA) - ROME, APRIL 09 - \"Spalletti? I get along very well with him. I think that every player has different needs, there are different expectations on each of us."
+    },
+    {
+      "id": "3ebb48dbdf55",
+      "title": "CM.it: Milan targeting €30m-rated Bologna star to reinforce attack despite Rabiot bust-up",
+      "url": "https://sempremilan.com/milan-targeting-rowe-bologna-despite-rabiot",
+      "source": "sempremilan.com",
+      "date": "2026-04-09T15:30:00+00:00",
+      "summary": "AC Milan were able to sign Adrien Rabiot partly because of his bust-up at Marseille with Jonathan Rowe. Now, they could reunite the pair. On paper it doesn’t sound like the best idea, but Calciomercato.it report that Rowe is a target for Milan ahead of next season. The English winger is one of the n"
+    },
+    {
+      "id": "075117780a9e",
+      "title": "Next weekend we will remember Piermario Morosini, a footballer who passed away suddenly on 14 April 2012",
+      "url": "https://www.milannews.it/news/il-prossimo-weekend-si-ricordera-piermario-morosini-calciatore-venuto-a-mancare-improvvisamente-il-14-aprile-2012-613385",
+      "source": "milannews.it",
+      "date": "2026-04-09T15:22:45+00:00",
+      "summary": "(ANSA) - ROME, APRIL 09 - The Lega Serie B sides with Live Charity, a non-profit organization involved in various charitable projects, and the Morosini family to commemorate Piermario Morosini, a footballer who suddenly passed away on ..."
+    },
     {
       "id": "841991dc66d1",
       "title": "Bisantis: \"I don't agree with those who say that Napoli-Milan was bad. I prefer those fought to the end than those with defensive blunders\"",
@@ -34,12 +186,12 @@
       "summary": "During his editorial for MilanNews.it, the journalist Franco Ordine expressed himself as follows about Milan: \"I perfectly understand the depression that occurred in the Milan world after the defeat in Naples."
     },
     {
-      "id": "76b681052944",
-      "title": "PROBABLE LINE-UP - Towards Milan-Udinese: watch out for possible changes. Even in form?",
-      "url": "https://www.milannews.it/news/probabile-formazione-verso-milan-udinese-occhio-ai-cambi-possibili-anche-di-modulo-613251",
+      "id": "901171c8fe1e",
+      "title": "PROBABLE LINE-UP - Towards Milan-Udinese: watch out for possible changes. Cheerful towards the trident?",
+      "url": "https://www.milannews.it/news/probabile-formazione-verso-milan-udinese-occhio-ai-cambi-possibili-allegri-verso-il-tridente-613251",
       "source": "milannews.it",
       "date": "2026-04-09T14:50:00+00:00",
-      "summary": "PROBABLE MILAN LINEUP (3-5-2)\n\n16 Maignan\n\n23 Tomori 46 Cage 31 Pavlovic\n\n24 Athekame 8 Loftus-Cheek 14 Modric 12 Rabiot 33 Bartesaghi\n\n11 Pulisic 10 Leao\n\nAvailable: 1 Terracciano,&n ..."
+      "summary": "PROBABLE MILAN LINEUP (4-3-3)\n\n16 Maignan\n\n24 Athekame 46 Cage 31 Pavlovic 33 Bartesaghi \n\n8 Loftus-Cheek 14 Modric 12 Rabiot \n\n11 Pulisic 7 Gimenez 10 Leao\n\nAvailable: 1 Terracc ..."
     },
     {
       "id": "868e4c251716",
@@ -74,52 +226,12 @@
       "summary": "After Milan decided to return to the project of building their new stadium together with Inter in the current San Siro area, the question many have asked is: what will become of the San Francesco area in San Donato..."
     },
     {
-      "id": "d2ca74d920f8",
-      "title": "Chinellato: \"Milan's caution with Mateta was more than justified: he will play his fourth match since January against Fiorentina\"",
-      "url": "https://www.milannews.it/calciomercato-milan/chinellato-la-prudenza-del-milan-con-mateta-e-stata-piu-che-giustificata-con-la-fiorentina-giochera-la-quarta-partita-da-gennaio-613397",
-      "source": "milannews.it",
-      "date": "2026-04-09T14:10:12+00:00",
-      "summary": "Davide Chinellato, correspondent in London for La Gazzetta dello Sport, expressed himself as follows about Mateta: \"The Fiorentina fans who are most attentive to the transfer market, reading the Crystal Palace lineup tomorrow before the first leg ..."
-    },
-    {
-      "id": "01b24fbf8451",
-      "title": "MN - Everyone at Casa Milan is crazy about Alajbegovic. It won't be easy to snatch him from Leverkusen, but the Devil wants to try",
-      "url": "https://www.milannews.it/primo-piano/mn-a-casa-milan-tutti-pazzi-per-alajbegovic-non-sara-facile-strapparlo-al-leverkusen-ma-il-diavolo-ci-vuole-provare-613405",
-      "source": "milannews.it",
-      "date": "2026-04-09T14:00:17+00:00",
-      "summary": "Milan's summer transfer market will be characterized both by additions of experience and personality (as requested by Max Allegri) and by moves in perspective."
-    },
-    {
       "id": "e96b36ad4f56",
       "title": "Sky: Allegri tries three-man attack in training – the forward trio he tested",
       "url": "https://sempremilan.com/allegri-three-man-attack-training-udinese",
       "source": "sempremilan.com",
       "date": "2026-04-09T14:00:00+00:00",
       "summary": "After weeks of speculation about a possible change in formation, it looks like Massimiliano Allegri is seriously considering it. Milan’s Scudetto push has faltered as a result of losing three of their last six games in the league, and what will worry Allegri is that each of them came via a 1-0 score"
-    },
-    {
-      "id": "7800d9af15c1",
-      "title": "Pastore: \"Milan have created little in recent months and obtained very little from the attackers: a somewhat asphyxiated 3-5-2\"",
-      "url": "https://www.milannews.it/news/pastore-il-milan-degli-ultimi-mesi-crea-poco-e-ottiene-pochissimo-dagli-attaccanti-3-5-2-un-po-asfittico-613363",
-      "source": "milannews.it",
-      "date": "2026-04-09T13:50:16+00:00",
-      "summary": "Giuseppe Pastore, journalist for Cronache di Spogliatoio, expressed himself thus on Radio Tutto Napoli after Napoli-Milan, a match that definitively removed the Rossoneri from the Scudetto race."
-    },
-    {
-      "id": "86c0d84abdb3",
-      "title": "Udinese, Karlstrom hopes for a meeting with Ibra (and for him to recognize him)",
-      "url": "https://www.milannews.it/l-avversario/udinese-karlstrom-spera-nell-incontro-con-ibra-e-nel-fatto-che-lui-lo-riconosca-613388",
-      "source": "milannews.it",
-      "date": "2026-04-09T13:40:28+00:00",
-      "summary": "Jesper Karlstrom, midfielder and captain of Udinese, Milan's next opponent in the championship, spoke to Gazzetta dello Sport in view of the match against the Rossoneri."
-    },
-    {
-      "id": "3b647d1f2475",
-      "title": "Pellegatti is not giving up: \"Hearing Compagnoni's voice for Real-Bayern, teams often eliminated by Milan, must not become a habit\"",
-      "url": "https://www.milannews.it/news/pellegatti-non-si-rassegna-sentire-la-voce-di-compagnoni-per-real-bayern-squadre-eliminate-spesso-dal-milan-non-deve-diventare-un-abitudine-613357",
-      "source": "milannews.it",
-      "date": "2026-04-09T13:30:30+00:00",
-      "summary": "During his editorial for MilanNews.it, the journalist Carlo Pellegatti expressed himself as follows on Milan's historic moment: \"No, no, no, I'm not giving up."
     },
     {
       "id": "a445708c7a93",
@@ -130,30 +242,6 @@
       "summary": "Massimiliano Allegri plans to evaluate both Andrej Kostic and Francesco Camarda in preseason before deciding their fate for 2026-27. As Tuttosport (via MilanVibes) report this morning, Milan’s plan seems to be to mix youth with experience moving forward, as shown with signings like Adrien Rabiot and"
     },
     {
-      "id": "daa52808e588",
-      "title": "AC Milan singer-songwriter Giovanardi hopes that the Arabs' arrival will bring Guardiola to AC Milan with the return of Maldini",
-      "url": "https://www.milannews.it/news/il-cantautore-milanista-giovanardi-spera-che-arrivino-gli-arabi-portino-al-milan-guardiola-con-il-ritorno-di-maldini-613367",
-      "source": "milannews.it",
-      "date": "2026-04-09T13:22:51+00:00",
-      "summary": "Mauro Ermanno Giovanardi, singer-songwriter and great AC Milan fan, gave an interview to Tuttosport in which he revealed his dream for AC Milan: \"That the Arabs arrive and bring us Guardiola with the return of Maldini."
-    },
-    {
-      "id": "1e14d35d009a",
-      "title": "UEFA ranking: there is (almost) no hope left for Italy. Germany chases Spain",
-      "url": "https://www.milannews.it/news/ranking-uefa-per-l-italia-non-ci-sono-quasi-piu-speranze-la-germania-insegue-la-spagna-613371",
-      "source": "milannews.it",
-      "date": "2026-04-09T13:10:53+00:00",
-      "summary": "Spain inevitably gains ground on the competition, considering the derby between Barcelona and Atlético."
-    },
-    {
-      "id": "a862ee027d54",
-      "title": "Milan, towards Udinese: Allegri tried the trident. Pulisic and Leao outside, Gimenez favorite on Fullkrug",
-      "url": "https://www.milannews.it/da-milanello/milan-verso-l-udinese-allegri-ha-provato-il-tridente-pulisic-e-leao-esterni-gimenez-favorito-su-fullkrug-613401",
-      "source": "milannews.it",
-      "date": "2026-04-09T13:00:49+00:00",
-      "summary": "According to Sky reports, Milan continued their preparations today at Milanello in view of the home match on Saturday at 6pm against Udinese and in today's training Max Allegri also tested the trident in attack with ..."
-    },
-    {
       "id": "ee6ffebe312f",
       "title": "“He controls certain dynamics” – Bianchin reveals Allegri’s requests to Milan amid Italy rumours",
       "url": "https://sempremilan.com/bianchin-allegri-requests-milan-italy-speculation",
@@ -162,52 +250,12 @@
       "summary": "Massimiliano Allegri wants his say on the transfer plans at AC Milan amid speculation he could become the Italy head coach. In recent days, ever since Italy’s World Cup play-off defeat to Bosnia and the resignation of several key figures without the Federation, reports have been swirling suggesting "
     },
     {
-      "id": "9bf1b3e6fc6d",
-      "title": "Cattaneo: \"After the normalization period, there was nothing more at Milan than what he had done before\"",
-      "url": "https://www.milannews.it/news/cattaneo-superato-il-periodo-di-normalizzazione-al-milan-non-c-e-stato-niente-di-piu-rispetto-a-quello-che-aveva-fatto-prima-613362",
-      "source": "milannews.it",
-      "date": "2026-04-09T12:50:50+00:00",
-      "summary": "Marco Cattaneo, journalist, expressed himself as follows to Cronache di Spogliatoio on Milan's season: \"It seems to me that this Milan needed to normalize the situation at the beginning of the season, and it is ..."
-    },
-    {
-      "id": "29e1b8333a6a",
-      "title": "Milan interested in purchasing the Malpensa Fiere area? The Varese Chamber of Commerce denies Cardinale's contacts",
-      "url": "https://www.milannews.it/news/milan-interessato-all-acquisto-dell-area-malpensa-fiere-la-camera-di-commercio-di-varese-smentisce-contatti-cardinale-613395",
-      "source": "milannews.it",
-      "date": "2026-04-09T12:40:54+00:00",
-      "summary": "After Milan decided to return to the project of building their new stadium together with Inter in the current San Siro area, the question many have asked is: what will become of the San Francesco area in San Donato..."
-    },
-    {
       "id": "19c9e5baa293",
       "title": "GdS: ‘A golden sea of ​​over €100m’ – Milan hoping to cash in from sales of loanees",
       "url": "https://sempremilan.com/milan-cash-in-sales-loanees-sea-100m",
       "source": "sempremilan.com",
       "date": "2026-04-09T12:35:00+00:00",
       "summary": "As we head towards the end of the season, the situation regarding various players out on loan is beginning to become clearer. As La Gazzetta dello Sport report, in a couple of months Milan could be diving into ‘a golden sea of ​​over €100 million’. This potential figure is the accumulation of the ma"
-    },
-    {
-      "id": "a2805562aedd",
-      "title": "Cuomo reveals Allegri's requests on the market: \"Four Rabiot, one per department\"",
-      "url": "https://www.milannews.it/calciomercato-milan/cuomo-svela-le-richieste-di-allegri-sul-mercato-quattro-rabiot-uno-per-reparto-613358",
-      "source": "milannews.it",
-      "date": "2026-04-09T12:30:44+00:00",
-      "summary": "Michael Cuomo, journalist, expressed himself thus to MilanVibes on Milan's transfer market: “Allegri asked for four Rabiot, one for each department."
-    },
-    {
-      "id": "5638f5394f5f",
-      "title": "Milan doesn't give up on the Goretka track. Juve also asked for information on the German",
-      "url": "https://www.milannews.it/calciomercato-milan/il-milan-non-molla-la-pista-goretka-sul-tedesco-ha-chiesto-info-anche-la-juve-613399",
-      "source": "milannews.it",
-      "date": "2026-04-09T12:20:13+00:00",
-      "summary": "According to what was reported by Orazio Accomando, transfer journalist for Sportmediaset, Milan \"does not give up on the Goretzka track. The German midfielder will leave Bayern on a free transfer."
-    },
-    {
-      "id": "a7a896cbb124",
-      "title": "Kim: \"Return to Italy? Now I'm focused on Bayern: I have nothing else to add\"",
-      "url": "https://www.milannews.it/calciomercato-milan/kim-ritorno-in-italia-ora-sono-concentrato-sul-bayern-non-ho-altro-da-aggiungere-613389",
-      "source": "milannews.it",
-      "date": "2026-04-09T12:10:17+00:00",
-      "summary": "Kim Min-jae, defender of Bayern Munich, expressed himself thus on the sidelines of the match won against Real Madrid on Italian football: \"I'm really sorry."
     },
     {
       "id": "2c2332bbf6c5",
@@ -306,14 +354,6 @@
       "summary": "Fabio Paratici has confirmed that he had everything agreed to join AC Milan as their new sporting director, before the talks suddenly halted. Milan made the decision to hire a new director last summer, but the process was a farce. Igli Tare met with Gerry Cardinale and Zlatan Ibrahimovic in London, "
     },
     {
-      "id": "57c328d92e88",
-      "title": "GdS: Allegri’s request listened to – Milan offer €15m contract to Bayern Munich midfielder",
-      "url": "https://sempremilan.com/milan-offer-15m-goretzka-allegri-request",
-      "source": "sempremilan.com",
-      "date": "2026-04-09T08:00:00+00:00",
-      "summary": "AC Milan have made the decision to push strongly for Leon Goretzka, a report claims, under the request of Massimiliano Allegri. According to La Gazzetta dello Sport, Milan are looking for ‘another Rabiot, perhaps a couple or even three’. While the team are busy trying to lock up a Champions League s"
-    },
-    {
       "id": "78ed9526acbc",
       "title": "Today’s Papers: Spalletti has signed, Premier League clashes in Europe",
       "url": "https://football-italia.net/todays-papers-spalletti-has-signed-juventus/",
@@ -336,30 +376,6 @@
       "source": "football-italia.net",
       "date": "2026-04-08T19:48:00+00:00",
       "summary": "Rafael Leao’s name has resurfaced at Barcelona once again, with Spanish newspaper Sport reporting fresh..."
-    },
-    {
-      "id": "f59bca19bb04",
-      "title": "‘The new Musiala’ – Palma suggests Milan have Germany wonderkid on their radar",
-      "url": "https://sempremilan.com/palma-suggests-milan-new-musiala-on-radar",
-      "source": "sempremilan.com",
-      "date": "2026-04-08T19:00:00+00:00",
-      "summary": "AC Milan have been considering a few attacking midfielders recently and today, they have been linked to a new option from Germany.  In the past few years, Milan have had an obsession with signing talents from France. However, things may not be changing with the uprise in reports about interests in t"
-    },
-    {
-      "id": "9ea80e37b35f",
-      "title": "Romano states Barca’s Leao interest depends on Rashford: “Laporta has wanted Leao”",
-      "url": "https://sempremilan.com/romano-states-barca-leao-interest-depends-rashford",
-      "source": "sempremilan.com",
-      "date": "2026-04-08T18:30:00+00:00",
-      "summary": "This summer, it seems Rafael Leao could be a player with a lot of attention, with AC Milan reportedly willing to consider offers of €50 million or more. Today, it was reported that Milan are considering parting ways with Leao for a never seen before price. In previous years, they have referred to th"
-    },
-    {
-      "id": "638048dac111",
-      "title": "Conte’s moves stifle Allegri’s attempted combinations: Tactical analysis of Napoli 1-0 AC Milan",
-      "url": "https://sempremilan.com/tactical-analysis-of-napoli-1-0-ac-milan",
-      "source": "sempremilan.com",
-      "date": "2026-04-08T18:00:00+00:00",
-      "summary": "AC Milan suffered their most damaging defeat of the season so far on Monday night, losing to Napoli at the Stadio Diego Armando Maradona. Going into the game, the pressure was on for Milan to win and try keep up with Inter, who had moved nine points ahead after their 5-2 demolition of Roma the […]\nT"
     },
     {
       "id": "c0a472ab8b41",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-04-06T18:33:40+00:00",
       "summary": "Napoli director Giovanni Manna explains Romelu Lukaku will face ‘consequences’ for his refusal to return..."
-    },
-    {
-      "id": "5b4498afa385",
-      "title": "Tare: ‘Milan have many great strikers, Leao important for us’",
-      "url": "https://football-italia.net/tare-milan-many-great-strikers-leao-important/",
-      "source": "football-italia.net",
-      "date": "2026-04-06T18:19:38+00:00",
-      "summary": "Milan director Igli Tare explains the surprising new strike partnership against Napoli and insists Rafael..."
-    },
-    {
-      "id": "8db44fcaa401",
-      "title": "Serie A official line-ups: Napoli vs. Milan",
-      "url": "https://football-italia.net/serie-a-official-line-ups-napoli-vs-milan-2/",
-      "source": "football-italia.net",
-      "date": "2026-04-06T17:38:14+00:00",
-      "summary": "It’s a huge Scudetto battle between third and second, as Napoli lose Rasmus Hojlund, so..."
     }
   ]
 }
