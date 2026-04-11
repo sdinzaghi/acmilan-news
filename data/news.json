@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-04-11T19:34:10.859430+00:00",
+  "lastUpdated": "2026-04-11T20:31:16.252534+00:00",
   "articles": [
+    {
+      "id": "bb1bbb195918",
+      "title": "Rabiot to TL: \"We are in a moment of difficulty, we must get out of it together, find serenity and stay focused on the goal\"",
+      "url": "https://www.milannews.it/news/rabiot-a-tl-siamo-in-un-momento-di-difficolta-dobbiamo-uscirne-insieme-trovare-serenita-e-rimanere-concentrati-sull-obiettivo-613682",
+      "source": "milannews.it",
+      "date": "2026-04-11T20:25:36+00:00",
+      "summary": "At the end of Milan-Udinese 0-3 Adrien Rabiot, in the mix zone, was interviewed by TeleLombardia."
+    },
+    {
+      "id": "942fabe27f22",
+      "title": "Milan was \"not very present\" by his own admission: the words after the match were more worrying than the performance",
+      "url": "https://www.milannews.it/primo-piano/milan-poco-presente-per-sua-stessa-ammissione-le-parole-nel-post-gara-piu-preoccupanti-della-prestazione-613681",
+      "source": "milannews.it",
+      "date": "2026-04-11T20:24:00+00:00",
+      "summary": "Easter week continues to cause sporting suffering for Milan."
+    },
+    {
+      "id": "da957b537750",
+      "title": "Hernanes: \"Milan were empty. We couldn't recover Leao, and it's a shame\"",
+      "url": "https://www.milannews.it/news/hernanes-il-milan-era-svuotato-non-si-riesce-a-recuperare-leao-ed-e-un-peccato-613655",
+      "source": "milannews.it",
+      "date": "2026-04-11T20:12:16+00:00",
+      "summary": "Milan lost badly against Udinese and Hernanes, from the DAZN studios, commented thus on the 0-3 at San Siro.\n\n“It's a difficult time."
+    },
+    {
+      "id": "e0b4f3f6d78f",
+      "title": "Massara: \"With the same Pulisic as before the injury, Milan could have aspired to something more than third place\"",
+      "url": "https://www.milannews.it/news/massara-con-lo-stesso-pulisic-del-pre-infortunio-il-milan-poteva-ambire-a-qualcosa-di-piu-del-terzo-posto-613632",
+      "source": "milannews.it",
+      "date": "2026-04-11T20:00:06+00:00",
+      "summary": "In the pre-match of Milan-Udinese, a match valid for the 32nd matchday of Serie A Enilive, Dario Massara spoke in the Sky Sport studios to talk about Massimiliano Allegri's team, focusing in particular on Pulisic..."
+    },
+    {
+      "id": "a270953d3fb6",
+      "title": "Allegri: \"Little to say, a lot to work on. We wanted to overdo it and we got stuck\"",
+      "url": "https://www.milannews.it/news/allegri-poco-da-dire-molto-da-lavorare-abbiamo-voluto-strafare-e-ci-siamo-imbottigliati-613673",
+      "source": "milannews.it",
+      "date": "2026-04-11T19:48:00+00:00",
+      "summary": "Massimiliano Allegri, Milan coach, is present in the press conference at the end of Milan-Udinese, a match valid for the 32nd matchday of Serie A. Follow his statements live with the live text on MilanNews."
+    },
+    {
+      "id": "5e17066c43d8",
+      "title": "Udinese, Zaniolo: \"We know that if we play like today we can put everyone in difficulty\"",
+      "url": "https://www.milannews.it/l-avversario/udinese-zaniolo-sappiamo-che-se-giochiamo-come-oggi-possiamo-mettere-tutti-in-difficolta-613665",
+      "source": "milannews.it",
+      "date": "2026-04-11T19:36:32+00:00",
+      "summary": "Nicolò Zaniolo, author of a great performance at San Siro, spoke after Milan-Udinese 0-3. His words:\n\nWhat team are you?\n\n“We are a strong team."
+    },
     {
       "id": "25cf4bce926d",
       "title": "Rabiot admits Milan are suffering ‘decline’ but was ‘disappointed’ by Leao jeers: “We need to help him”",
@@ -8,6 +56,14 @@
       "source": "sempremilan.com",
       "date": "2026-04-11T19:32:02+00:00",
       "summary": "Adrien Rabiot has admitted that AC Milan did not keep a level head during their loss to Udinese, but hit back at the boos towards Rafael Leao. Udinese ran out 3-0 winners at San Siro as a result of an unfortunate own-goal from Davide Bartesaghi, a header from Ekkelenkamp and a final blow in the […]\n"
+    },
+    {
+      "id": "24492db08743",
+      "title": "Allegri to Sky: \"Disappointed about tonight. Worried? The objective can also be achieved on the last day\"",
+      "url": "https://www.milannews.it/news/allegri-a-sky-dispiaciuto-per-stasera-preoccupato-l-obiettivo-si-puo-raggiungere-anche-all-ultima-giornata-613678",
+      "source": "milannews.it",
+      "date": "2026-04-11T19:30:54+00:00",
+      "summary": "After the Milan-Udinese match, Massimiliano Allegri commented on his team's heavy defeat to Sky Sport. \n\nHas the little arm come to Milan?\n\n“Now you can say everything and the opposite of everything."
     },
     {
       "id": "0c364b066261",
@@ -39,7 +95,7 @@
       "url": "https://www.milannews.it/news/rabiot-a-sky-oggi-siamo-stati-poco-lucidi-capisco-i-fischi-dei-tifosi-pero-mi-hanno-deluso-quelli-a-leao-613675",
       "source": "milannews.it",
       "date": "2026-04-11T19:10:00+00:00",
-      "summary": "After the Milan-Udinese match, Adrien Rabiot commented on his team's defeat to Sky Sport. Below are his statements."
+      "summary": "After the Milan-Udinese match Adrien Rabiot commented on his team's defeat to Sky Sport. Below are his statements."
     },
     {
       "id": "1227f9ca4605",
@@ -170,68 +226,12 @@
       "summary": "At the end of Milan-Udinese 0-3, the Rossoneri's worst match of the season, midfielder Samuele Ricci spoke to Milan TV. His statements."
     },
     {
-      "id": "8976399d571d",
-      "title": "Ricci: \"It could be 352 or 433, you have to see how you are on the pitch. Today we were there but we weren't there\"",
-      "url": "https://www.milannews.it/news/ricci-puo-essere-352-o-433-bisogna-vedere-come-stai-in-campo-oggi-c-eravamo-ma-non-c-eravamo-613657",
-      "source": "milannews.it",
-      "date": "2026-04-11T18:26:00+00:00",
-      "summary": "Samuele Ricci, today's starter, spoke to DAZN after Milan-Udinese 0-3. These are the midfielder's words on the bad defeat at San Siro:\n\nWhat did you suffer from Udinese this evening?\n\n“A match that wasn't easy to analyze."
-    },
-    {
-      "id": "cbadd6d40357",
-      "title": "Condò on Milan's defeat: \"Red alert, or rather, Rossoneri\"",
-      "url": "https://www.milannews.it/news/condo-sulla-sconfitta-del-milan-allarme-rosso-anzi-rossonero-613649",
-      "source": "milannews.it",
-      "date": "2026-04-11T18:24:58+00:00",
-      "summary": "After the Milan-Udinese match, a match which saw the Friulians clearly prevail with a result of 0-3, Paolo Condò, speaking in the Sky Sport studios, commented on the bad defeat of Massimiliano Allegri's team: \"B ..."
-    },
-    {
-      "id": "0f2fcb3f488d",
-      "title": "Udinese, Runjaic: \"Maybe Milan didn't expect this type of energy from us. But it was a hard-fought match even if it didn't seem that way\"",
-      "url": "https://www.milannews.it/l-avversario/udinese-runjaic-forse-il-milan-non-si-aspettava-questo-tipo-di-energia-da-parte-nostra-ma-e-stata-una-partita-combattuta-anche-se-non-sembra-cosi-613654",
-      "source": "milannews.it",
-      "date": "2026-04-11T18:19:11+00:00",
-      "summary": "Kosta Runjaić spoke to DAZN after the Milan-Udinese 0-3 match. His words:\n\nIs this your best Udinese?\n\n“I am very happy."
-    },
-    {
       "id": "c4c7a4370bdc",
       "title": "Player Ratings: AC Milan 0-3 Udinese – Leao jeered; questions for Allegri",
       "url": "https://sempremilan.com/player-ratings-ac-milan-0-3-udinese-leao",
       "source": "sempremilan.com",
       "date": "2026-04-11T18:18:37+00:00",
       "summary": "AC Milan suffered a massive defeat on their home turf, conceding three against Udinese, and the player ratings aren’t exactly filled with positive comments this evening.  Milan desperately needed to win after the defeat against Napoli on Easter Monday, which suddenly brought the top-four race back i"
-    },
-    {
-      "id": "9e2e013f89c4",
-      "title": "For the third time Milan loses with a three-goal difference with Allegri on the bench",
-      "url": "https://www.milannews.it/news/per-la-terza-volta-il-milan-perde-con-tre-gol-di-scarto-con-allegri-in-panchina-613648",
-      "source": "milannews.it",
-      "date": "2026-04-11T18:12:26+00:00",
-      "summary": "Horrible afternoon for Massimiliano Allegri's Milan who will now have to think seriously so as not to miss out on the Champions League goal which, until a few weeks ago, seemed on ice."
-    },
-    {
-      "id": "359b792f9e96",
-      "title": "MN - Chants against Maignan from Udinese fans: \"UH-UH-Udine\"",
-      "url": "https://www.milannews.it/news/mn-cori-contro-maignan-da-parte-dei-tifosi-dell-udinese-uh-uh-udine-613647",
-      "source": "milannews.it",
-      "date": "2026-04-11T18:00:28+00:00",
-      "summary": "Years later, the relationship between Maignan and the Udinese fans continues to not be the best."
-    },
-    {
-      "id": "7aa98d560a68",
-      "title": "Serie A, the updated standings. Milan remains third, but for how long? Disaster at San Siro",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-milan-rimane-terzo-ma-per-quanto-disastro-a-san-siro-613646",
-      "source": "milannews.it",
-      "date": "2026-04-11T18:00:00+00:00",
-      "summary": "Milan collapsed against Udinese: at San Siro it ended 3-0 for the Bianconeri, with the stadium swamped with boos for the team at the end of the match."
-    },
-    {
-      "id": "97963f3a7a3c",
-      "title": "Milan-Udinese 0-3, votes and report cards: 4 and 4.5 are pouring in. A total disaster",
-      "url": "https://www.milannews.it/pagelle/milan-udinese-0-3-voti-e-pagelle-fioccano-i-4-e-i-4-5-un-disastro-totale-613643",
-      "source": "milannews.it",
-      "date": "2026-04-11T17:58:01+00:00",
-      "summary": "Milan-Udinese 0-3."
     },
     {
       "id": "254ba9e08a5c",
