@@ -1,17 +1,105 @@
 {
-  "lastUpdated": "2026-04-12T07:12:13.995689+00:00",
+  "lastUpdated": "2026-04-12T08:45:33.162610+00:00",
   "articles": [
+    {
+      "id": "f3dfab4511d3",
+      "title": "Order: \"Can you perfect the mechanics of the new scheme in just one week of testing?\"",
+      "url": "https://www.milannews.it/news/ordine-puoi-perfezionare-i-meccanismi-del-nuovo-schema-in-una-sola-settimana-di-prove-613703",
+      "source": "milannews.it",
+      "date": "2026-04-12T08:36:40+00:00",
+      "summary": "Bad, if not horrible, performance by Milan yesterday afternoon at San Siro: Rossoneri defeated at home 0-3 by Udinese, definitively distancing themselves from Inter and Napoli, allowing them to get dangerously close to Juventus and ..."
+    },
+    {
+      "id": "445f494d609e",
+      "title": "GdS: Champions League now at risk as alarm bells are ringing at Milan",
+      "url": "https://sempremilan.com/gds-champions-league-risk-alarm-milan",
+      "source": "sempremilan.com",
+      "date": "2026-04-12T08:25:00+00:00",
+      "summary": "AC Milan have put themselves in a rather difficult situation in this finale, now at risk of missing out on the Champions League after all.  Another defeat, their third in four games, has given Juventus and Como a real chance of snatching the final spots for the competition. Considering that qualific"
+    },
+    {
+      "id": "4270635a734e",
+      "title": "CorSport report cards: no passing grade, the worst is De Winter",
+      "url": "https://www.milannews.it/news/le-pagelle-del-corsport-nessuna-sufficienza-il-peggiore-e-de-winter-613706",
+      "source": "milannews.it",
+      "date": "2026-04-12T08:24:44+00:00",
+      "summary": "Milan's disasterclass at San Siro: a lesson in attitude and football from Udinese who won 0-3, giving the Rossoneri back the result achieved in the first leg."
+    },
+    {
+      "id": "4f12a2599d62",
+      "title": "Calamai: \"I am convinced that Leao will no longer be part of the project. Faded talent\"",
+      "url": "https://www.milannews.it/news/calamai-sono-convinto-che-leao-non-fara-piu-parte-del-progetto-talento-sbiadito-613697",
+      "source": "milannews.it",
+      "date": "2026-04-12T08:12:00+00:00",
+      "summary": "In the aftermath of the match against Udinese, lost badly by Milan at San Siro 0-3, the thud of Massimiliano Allegri's team makes even more noise, also accentuated by the victory of Juventus in Bergamo c ..."
+    },
+    {
+      "id": "fdb3860f7a57",
+      "title": "Leao-Milan, compromised relationship: disastrous afternoon for Rafa, uncertain future",
+      "url": "https://www.milannews.it/primo-piano/leao-milan-rapporto-compromesso-pomeriggio-disastroso-per-rafa-futuro-incerto-613714",
+      "source": "milannews.it",
+      "date": "2026-04-12T08:00:00+00:00",
+      "summary": "On an afternoon in which Milan – everything from the goalkeeper to the coach, passing through the reserves and staff – plays their worst match of the year, the image of the next day is still that of Rafael Leao coming out to ..."
+    },
+    {
+      "id": "01aac24db287",
+      "title": "Gallery: ‘Shock for Milan’, ‘Allegri presses alarm button’ – Today’s front pages in Italy",
+      "url": "https://sempremilan.com/gallery-shock-milan-allegri-papers-italy",
+      "source": "sempremilan.com",
+      "date": "2026-04-12T08:00:00+00:00",
+      "summary": "AC Milan suffered a huge defeat on Saturday evening, conceding three against Udinese in front of their home crowd, and the papers had a field day this morning.  It was a game that Massimiliano Allegri’s men needed to win, given the defeat to Napoli earlier in the week, but instead they got the exact"
+    },
+    {
+      "id": "05580ba3faad",
+      "title": "Rabiot: \"Lack of determination to score goals. It's important to stay compact\"",
+      "url": "https://www.milannews.it/news/rabiot-mancata-la-determinazione-di-andare-a-fare-gol-importante-rimanere-compatti-613690",
+      "source": "milannews.it",
+      "date": "2026-04-12T07:48:20+00:00",
+      "summary": "Adrien Rabiot, AC Milan midfielder and leader of the AC Milan dressing room, appeared in the mixed area last night to talk about the painful and heavy defeat against Udinese at San Siro with the result 0-3."
+    },
+    {
+      "id": "74925d4eb682",
+      "title": "Today’s Papers – Shocking Milan, Juventus celebrate",
+      "url": "https://football-italia.net/todays-papers-shock-milan-juventus-celebrate/",
+      "source": "football-italia.net",
+      "date": "2026-04-12T07:45:47+00:00",
+      "summary": "La Gazzetta dello Sport Inter in Como for the Scudetto. Pio must do a Lautaro..."
+    },
+    {
+      "id": "d7e96bfa0780",
+      "title": "Leao in football, CorSport headlines: \"Rafa confusion, the stadium boos him\"",
+      "url": "https://www.milannews.it/rassegna-stampa/leao-nel-pallone-il-corsport-titola-confusione-rafa-lo-stadio-lo-fischia-613708",
+      "source": "milannews.it",
+      "date": "2026-04-12T07:36:53+00:00",
+      "summary": "The emblematic scene of yesterday afternoon's defeat of Milan at home against Udinese, 0-3 the final result, is certainly that of the exit of Rafael Leao, AC Milan's number 10 and most ..."
+    },
+    {
+      "id": "20bf1d16a578",
+      "title": "CorSera's comment: \"Now it's the Devil who is afraid\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-commento-del-corsera-adesso-e-il-diavolo-ad-avere-paura-613711",
+      "source": "milannews.it",
+      "date": "2026-04-12T07:24:19+00:00",
+      "summary": "The saying \"football is the Devil's sport\" certainly cannot be considered valid if you look at the line of AC Milan's last seven matches: only 3 victories for the Rossoneri, compared to 4 defeats for you..."
+    },
+    {
+      "id": "54f394bfe5a3",
+      "title": "Devil disheartened by his fans, Il Giornale: \"San Siro leaves Milan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/diavolo-sfiduciato-dal-suo-pubblico-il-giornale-san-siro-molla-il-milan-613710",
+      "source": "milannews.it",
+      "date": "2026-04-12T07:12:40+00:00",
+      "summary": "Despite the ugly and uninspiring defeat at the home of Napoli on Easter Monday evening, the second consecutive away match after the one against Lazio, yesterday afternoon the Milan fans were present and showed up at the g ..."
+    },
     {
       "id": "bc4f3a4ebdd6",
       "title": "Rafa's loneliness, la Gazzetta: \"Leao under accusation and contested\"",
       "url": "https://www.milannews.it/rassegna-stampa/la-solitudine-di-rafa-la-gazzetta-leao-sotto-accusa-e-contestato-613709",
       "source": "milannews.it",
       "date": "2026-04-12T07:00:00+00:00",
-      "summary": "The Gazzetta dello Sport this morning dedicates an entire piece to Rafael Leao, erected as a symbol of the Rossoneri's collapse by the Devil's fans as the highest paid player and on whom everyone places the highest expectations ..."
+      "summary": "The Gazzetta dello Sport this morning dedicates an entire piece to Rafael Leao, erected as a symbol of the Rossoneri's collapse by the Devil's fans as the highest paid player and on whom everyone places the highest expectations..."
     },
     {
       "id": "895fd136727e",
-      "title": "Allegri to Sportmediaset: \"The defeat must make us raise our antennas, those behind are traveling and are getting closer\"",
+      "title": "Allegri to Sportmediaset: \"The defeat must make us raise our antennas, those behind are traveling and getting closer\"",
       "url": "https://www.milannews.it/news/allegri-a-sportmediaset-la-sconfitta-ci-deve-far-rialzare-le-antenne-quelli-dietro-stanno-viaggiando-e-si-stanno-avvicinando-613694",
       "source": "milannews.it",
       "date": "2026-04-12T06:48:00+00:00",
@@ -47,7 +135,7 @@
       "url": "https://www.milannews.it/primo-piano/in-un-mese-il-milan-si-e-sgretolato-dal-sogno-scudetto-alla-champions-in-bilico-613700",
       "source": "milannews.it",
       "date": "2026-04-12T06:00:00+00:00",
-      "summary": "Only a month ago, Milan celebrated their second victory of the year against Inter: it was March 8 and the Rossoneri won the Derby 1-0, the same result as the first leg, closing the gap to -7 behind the Nerazzurri at the top of the league ..."
+      "summary": "Only a month ago Milan celebrated their second victory of the year against Inter: it was March 8th and the Rossoneri won the Derby 1-0, the same result as the first leg, closing the gap to -7 behind the Nerazzurri at the top of the league ..."
     },
     {
       "id": "3431322e44d2",
@@ -59,7 +147,7 @@
     },
     {
       "id": "16dbca863528",
-      "title": "Today at 3pm it's Milan Futuro's turn again: the Rossoneri away",
+      "title": "Today at 3pm it's Milan Futuro's turn again: the Rossoneri are away",
       "url": "https://www.milannews.it/milan-futuro/oggi-alle-15-tocca-di-nuovo-a-milan-futuro-rossoneri-in-trasferta-613695",
       "source": "milannews.it",
       "date": "2026-04-12T05:36:45+00:00",
@@ -87,7 +175,7 @@
       "url": "https://www.milannews.it/news/sabato-da-incubo-per-il-milan-la-juve-ora-e-a-3-la-classifica-aggiornata-613691",
       "source": "milannews.it",
       "date": "2026-04-12T05:00:00+00:00",
-      "summary": "Simply, a nightmare Saturday for Milan. Everything that could go wrong went exactly wrong, with the Rossoneri having a lot of blame, no one excluded, not even Massimiliano Allegri."
+      "summary": "Simply, a nightmare Saturday for Milan. Everything that could go wrong went exactly wrong, with the Rossoneri bearing a lot of blame, without exception, not even Massimiliano Allegri."
     },
     {
       "id": "189f4e3b577f",
@@ -98,46 +186,6 @@
       "summary": "Carlo Pellegatti, at the end of the bad match for Milan at San Siro, defeated 0-3 by Udinese, expressed his immediate comment, published on his personal profile on Instagram."
     },
     {
-      "id": "1263f75672de",
-      "title": "Rabiot: \"Form? It has nothing to do with it: it's the desire of the players on the pitch, to run after the opponent\"",
-      "url": "https://www.milannews.it/news/rabiot-modulo-non-c-entra-e-la-voglia-dei-giocatori-in-campo-di-correre-dietro-l-avversario-613696",
-      "source": "milannews.it",
-      "date": "2026-04-11T22:48:00+00:00",
-      "summary": "Adrien Rabiot, AC Milan midfielder and leader of the AC Milan dressing room, appeared in the mixed area last night to talk about the painful and heavy defeat against Udinese at San Siro with the result 0-3."
-    },
-    {
-      "id": "d5dc0b817b3e",
-      "title": "Costacurta: \"The performances of Leao and Pulisic were not up to par\"",
-      "url": "https://www.milannews.it/news/costacurta-le-prestazioni-di-leao-e-pulisic-non-sono-state-all-altezza-613671",
-      "source": "milannews.it",
-      "date": "2026-04-11T22:36:14+00:00",
-      "summary": "In the post-match of Milan-Udinese, a match which saw the Friulians prevail with a clear 0-3, Alessandro Costacurta spoke in the Sky Sport studios to comment on the bad defeat of Massimiliano Allegri's team: “I ..."
-    },
-    {
-      "id": "91f341a19a75",
-      "title": "Condò: \"Milan took a very, very strong blow\"",
-      "url": "https://www.milannews.it/news/condo-il-milan-ha-preso-una-botta-molto-molto-forte-613652",
-      "source": "milannews.it",
-      "date": "2026-04-11T22:24:21+00:00",
-      "summary": "In the post-match of Milan-Udinese, a match which saw the Friulians clearly prevail with the result of 0-3, Paolo Condò, speaking in the Sky Sport studios, commented on the bad defeat of Massimiliano Allegri's team: \"B ..."
-    },
-    {
-      "id": "6363768a029f",
-      "title": "Borghi on Milan: \"It's no longer that safe team of the first 3-4 months\"",
-      "url": "https://www.milannews.it/news/borghi-sul-milan-non-e-piu-quella-squadra-sicura-dei-primi-3-4-mesi-613653",
-      "source": "milannews.it",
-      "date": "2026-04-11T22:12:00+00:00",
-      "summary": "In the post-match of Milan-Udinese, a match which saw the Friulians clearly prevail with the result of 0-3, Paolo Condò, speaking in the Sky Sport studios, commented on the bad defeat of Massimiliano Allegri's team: \"B ..."
-    },
-    {
-      "id": "3e8b5e2848f7",
-      "title": "Milan disaster. Team in disarray. Deafening alarm",
-      "url": "https://www.milannews.it/editoriale/disastro-milan-squadra-allo-sbando-allarme-assordante-613684",
-      "source": "milannews.it",
-      "date": "2026-04-11T22:00:01+00:00",
-      "summary": "A sensational, incredible splash, difficult to explain. Milan today seems like a team in free fall."
-    },
-    {
       "id": "4f4777a0bcdc",
       "title": "Milan anxiety growing as just six points separate third from sixth",
       "url": "https://football-italia.net/milan-anxiety-growing-six-points-third-sixth/",
@@ -146,32 +194,8 @@
       "summary": "The sudden Milan collapse means the race for the top four is more open than..."
     },
     {
-      "id": "ec4067697e32",
-      "title": "Juventus, Spalletti: \"Take over Milan? It's worth thinking about it\"",
-      "url": "https://www.milannews.it/news/juventus-spalletti-riprendere-il-milan-giusto-farci-un-pensierino-613693",
-      "source": "milannews.it",
-      "date": "2026-04-11T21:48:00+00:00",
-      "summary": "Juventus is forcefully back in the running for a Champions League placement: the Bianconeri have officially reopened all discussions by taking advantage of AC Milan's slip-up at home against Udinese and going on to win..."
-    },
-    {
-      "id": "ccd36fd7587b",
-      "title": "Udinese, Atta: \"Maybe after the injury I was afraid of having a relapse but the team helped me\"",
-      "url": "https://www.milannews.it/news/udinese-atta-forse-dopo-l-infortunio-ho-avuto-paura-di-avere-una-ricaduta-ma-la-squadra-mi-ha-aiutato-613667",
-      "source": "milannews.it",
-      "date": "2026-04-11T21:36:46+00:00",
-      "summary": "Arthur Atta, author of a goal and a great performance at San Siro, was interviewed by DAZN after Milan-Udinese 0-3. His words:\n\nIs the first one your goal or an own goal?\n\n“It's a goal, it's a goal."
-    },
-    {
-      "id": "80d442669ef7",
-      "title": "Allegri: \"We went from chasing the Scudetto to being at risk of the Champions League\"",
-      "url": "https://www.milannews.it/news/allegri-siamo-passati-da-una-rincorsa-allo-scudetto-ad-un-rischio-champions-613686",
-      "source": "milannews.it",
-      "date": "2026-04-11T21:24:57+00:00",
-      "summary": "At the end of Milan-Udinese 0-3 Massimiliano Allegri, in the mix zone, was interviewed by TeleLombardia."
-    },
-    {
       "id": "25cf4bce926d",
-      "title": "Rabiot admits Milan are suffering ‘decline’ but was ‘disappointed’ by Leao jeers: “We need to help him”",
+      "title": "Rabiot admits Milan are suffering ‘decline’ but was ‘disappointed’ by Leao jeers: “Need to help him”",
       "url": "https://sempremilan.com/rabiot-milan-decline-disappointed-leao-jeers",
       "source": "sempremilan.com",
       "date": "2026-04-11T19:32:02+00:00",
@@ -386,22 +410,6 @@
       "summary": "AC Milan have a game against Juventus on the horizon, but before they face them there are six huge points up for grabs. Tuttosport (via MilanPress) writes how Milan are preparing for eight days that could jeopardise qualification for next season’s Champions League or almost wrap it up. Udinese and H"
     },
     {
-      "id": "5ba425ce2fbf",
-      "title": "The five key battles that could win or lose the game for Milan against Udinese",
-      "url": "https://sempremilan.com/five-key-battles-milan-udinese-2026",
-      "source": "sempremilan.com",
-      "date": "2026-04-11T10:55:00+00:00",
-      "summary": "AC Milan will play in front of a sold out San Siro again this evening, and they need the backing from the fans to return to winning ways against Udinese. Milan must once again rebound after a negative result, but the most recent is perhaps the most damaging of all. The loss to Napoli on Easter […]\nT"
-    },
-    {
-      "id": "788f03e9bcb3",
-      "title": "CorSera: Milan consider move for Eintracht Frankfurt sensation – auction could arise",
-      "url": "https://sempremilan.com/milan-consider-move-eintracht-frankfurt-uzun",
-      "source": "sempremilan.com",
-      "date": "2026-04-11T10:30:00+00:00",
-      "summary": "Another source has linked AC Milan with a move for Eintracht Frankfurt midfielder Can Uzun, after reports first emerged in Germany. During the summer mercato, the management are aiming to strengthen the squad available to Massimiliano Allegri with both experienced players and also some exciting youn"
-    },
-    {
       "id": "f975853ebfad",
       "title": "From Pulisic to Lewandowski: Milan’s transfer plans depend on Champions League",
       "url": "https://football-italia.net/pulisic-lewandowski-milan-transfer-champions/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-04-09T11:16:53+00:00",
       "summary": "Thursday’s reports suggest that Crystal Palace will hand a starting opportunity to striker Jean-Phillipe Mateta..."
-    },
-    {
-      "id": "eb4d035fd9dd",
-      "title": "How Milan plan to beat Juventus to Bayern Munich’s Goretzka",
-      "url": "https://football-italia.net/how-milan-plan-to-beat-juve-bayerns-goretzka/",
-      "source": "football-italia.net",
-      "date": "2026-04-09T10:53:43+00:00",
-      "summary": "Germany international Leon Goretzka continues to be linked with moves to both Milan and Juventus..."
     }
   ]
 }
