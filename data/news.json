@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-04-12T05:22:10.516557+00:00",
+  "lastUpdated": "2026-04-12T07:12:13.995689+00:00",
   "articles": [
+    {
+      "id": "bc4f3a4ebdd6",
+      "title": "Rafa's loneliness, la Gazzetta: \"Leao under accusation and contested\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-solitudine-di-rafa-la-gazzetta-leao-sotto-accusa-e-contestato-613709",
+      "source": "milannews.it",
+      "date": "2026-04-12T07:00:00+00:00",
+      "summary": "The Gazzetta dello Sport this morning dedicates an entire piece to Rafael Leao, erected as a symbol of the Rossoneri's collapse by the Devil's fans as the highest paid player and on whom everyone places the highest expectations ..."
+    },
+    {
+      "id": "895fd136727e",
+      "title": "Allegri to Sportmediaset: \"The defeat must make us raise our antennas, those behind are traveling and are getting closer\"",
+      "url": "https://www.milannews.it/news/allegri-a-sportmediaset-la-sconfitta-ci-deve-far-rialzare-le-antenne-quelli-dietro-stanno-viaggiando-e-si-stanno-avvicinando-613694",
+      "source": "milannews.it",
+      "date": "2026-04-12T06:48:00+00:00",
+      "summary": "After the defeat against Udinese, a resounding 0-3 at San Siro, coach Massimiliano Allegri was interviewed by Sportmediaset."
+    },
+    {
+      "id": "0c9acb7b5156",
+      "title": "Milan sinks, Tuttosport: \"This risks everything\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-milan-cola-a-picco-tuttosport-cosi-rischia-tutto-613702",
+      "source": "milannews.it",
+      "date": "2026-04-12T06:36:08+00:00",
+      "summary": "Milan sank."
+    },
+    {
+      "id": "6d7f91bc04aa",
+      "title": "Milan shuts down, CorSport headlines: \"Darkness at San Siro\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-milan-si-spegne-il-corsport-titola-buio-a-san-siro-613701",
+      "source": "milannews.it",
+      "date": "2026-04-12T06:24:30+00:00",
+      "summary": "No lights yesterday at San Siro: not after Milan were defeated 0-3 by Udinese in front of their own fans, offering in all likelihood the worst performance of the year."
+    },
+    {
+      "id": "a81510e1b3ef",
+      "title": "Rain of boos on Milan and Leao: the front pages of the main sports newspapers",
+      "url": "https://www.milannews.it/rassegna-stampa/pioggia-di-fischi-sul-milan-e-leao-le-prime-pagine-dei-principali-quotidiani-sportivi-613699",
+      "source": "milannews.it",
+      "date": "2026-04-12T06:12:53+00:00",
+      "summary": "The Rossoneri's Saturday was characterized by boos."
+    },
+    {
+      "id": "7ffcb564f48a",
+      "title": "In a month, Milan has crumbled: from the Scudetto dream to the Champions League in the balance",
+      "url": "https://www.milannews.it/primo-piano/in-un-mese-il-milan-si-e-sgretolato-dal-sogno-scudetto-alla-champions-in-bilico-613700",
+      "source": "milannews.it",
+      "date": "2026-04-12T06:00:00+00:00",
+      "summary": "Only a month ago, Milan celebrated their second victory of the year against Inter: it was March 8 and the Rossoneri won the Derby 1-0, the same result as the first leg, closing the gap to -7 behind the Nerazzurri at the top of the league ..."
+    },
+    {
+      "id": "3431322e44d2",
+      "title": "Rabiot: \"If Leao is booed it's as if I were booed. We have to trust him, including the fans\"",
+      "url": "https://www.milannews.it/news/rabiot-se-leao-viene-fischiato-e-come-se-venissi-fischiato-io-dobbiamo-dargli-fiducia-anche-i-tifosi-613689",
+      "source": "milannews.it",
+      "date": "2026-04-12T05:48:00+00:00",
+      "summary": "Adrien Rabiot, AC Milan midfielder and leader of the AC Milan dressing room, appeared in the mixed area last night to talk about the painful and heavy defeat against Udinese at San Siro with the result 0-3."
+    },
+    {
+      "id": "16dbca863528",
+      "title": "Today at 3pm it's Milan Futuro's turn again: the Rossoneri away",
+      "url": "https://www.milannews.it/milan-futuro/oggi-alle-15-tocca-di-nuovo-a-milan-futuro-rossoneri-in-trasferta-613695",
+      "source": "milannews.it",
+      "date": "2026-04-12T05:36:45+00:00",
+      "summary": "Third match in ten days for Massimo Oddo's Milan Futuro who today, at 3pm, will take to the pitch for the 32nd day of the Serie D championship, group B."
+    },
+    {
+      "id": "91aada7a9028",
+      "title": "Allegri: \"It's a bad moment but it's not a question of form\"",
+      "url": "https://www.milannews.it/news/allegri-e-un-momento-no-ma-non-e-questione-di-modulo-613677",
+      "source": "milannews.it",
+      "date": "2026-04-12T05:24:00+00:00",
+      "summary": "(ANSA) - MILAN, APRIL 11 - \"The change in formation has absolutely nothing to do with it. It's a bad moment for the team."
+    },
     {
       "id": "8ddd09070f3a",
       "title": "Serie A, the 32nd round continues today: Napoli at Parma and Inter at Como",
@@ -15,7 +87,7 @@
       "url": "https://www.milannews.it/news/sabato-da-incubo-per-il-milan-la-juve-ora-e-a-3-la-classifica-aggiornata-613691",
       "source": "milannews.it",
       "date": "2026-04-12T05:00:00+00:00",
-      "summary": "Simply, a nightmare Saturday for Milan. Everything that could go wrong went exactly wrong, with the Rossoneri bearing a lot of blame, without exception, not even Massimiliano Allegri."
+      "summary": "Simply, a nightmare Saturday for Milan. Everything that could go wrong went exactly wrong, with the Rossoneri having a lot of blame, no one excluded, not even Massimiliano Allegri."
     },
     {
       "id": "189f4e3b577f",
@@ -47,15 +119,15 @@
       "url": "https://www.milannews.it/news/condo-il-milan-ha-preso-una-botta-molto-molto-forte-613652",
       "source": "milannews.it",
       "date": "2026-04-11T22:24:21+00:00",
-      "summary": "After the Milan-Udinese match, a match which saw the Friulians clearly prevail with a result of 0-3, Paolo Condò, speaking in the Sky Sport studios, commented on the bad defeat of Massimiliano Allegri's team: \"B ..."
+      "summary": "In the post-match of Milan-Udinese, a match which saw the Friulians clearly prevail with the result of 0-3, Paolo Condò, speaking in the Sky Sport studios, commented on the bad defeat of Massimiliano Allegri's team: \"B ..."
     },
     {
       "id": "6363768a029f",
-      "title": "Borghi on Milan: \"It's no longer the safe team it was in the first 3-4 months\"",
+      "title": "Borghi on Milan: \"It's no longer that safe team of the first 3-4 months\"",
       "url": "https://www.milannews.it/news/borghi-sul-milan-non-e-piu-quella-squadra-sicura-dei-primi-3-4-mesi-613653",
       "source": "milannews.it",
       "date": "2026-04-11T22:12:00+00:00",
-      "summary": "After the Milan-Udinese match, a match which saw the Friulians clearly prevail with a result of 0-3, Paolo Condò, speaking in the Sky Sport studios, commented on the bad defeat of Massimiliano Allegri's team: \"B ..."
+      "summary": "In the post-match of Milan-Udinese, a match which saw the Friulians clearly prevail with the result of 0-3, Paolo Condò, speaking in the Sky Sport studios, commented on the bad defeat of Massimiliano Allegri's team: \"B ..."
     },
     {
       "id": "3e8b5e2848f7",
@@ -91,83 +163,11 @@
     },
     {
       "id": "80d442669ef7",
-      "title": "Allegri: \"We went from chasing the scudetto to being at risk of the Champions League\"",
+      "title": "Allegri: \"We went from chasing the Scudetto to being at risk of the Champions League\"",
       "url": "https://www.milannews.it/news/allegri-siamo-passati-da-una-rincorsa-allo-scudetto-ad-un-rischio-champions-613686",
       "source": "milannews.it",
       "date": "2026-04-11T21:24:57+00:00",
       "summary": "At the end of Milan-Udinese 0-3 Massimiliano Allegri, in the mix zone, was interviewed by TeleLombardia."
-    },
-    {
-      "id": "f1802a386124",
-      "title": "Alarming words from Rabiot: \"I've lost the desire to work for my teammate, to come back and fight all together\"",
-      "url": "https://www.milannews.it/news/parole-di-rabiot-allarmanti-perso-la-voglia-di-lavorare-per-il-compagno-di-tornare-e-battagliare-tutti-insieme-613687",
-      "source": "milannews.it",
-      "date": "2026-04-11T21:12:00+00:00",
-      "summary": "Adrien Rabiot, AC Milan midfielder and leader of the AC Milan dressing room, appeared in the mixed area last night to talk about the painful and heavy defeat against Udinese at San Siro with the result 0-3."
-    },
-    {
-      "id": "a8d719230b3c",
-      "title": "Serie A, the updated ranking: Juve is now -3 behind Milan. The direct clash is on the 26th",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-ora-la-juve-e-a-3-dal-milan-il-26-lo-scontro-diretto-613669",
-      "source": "milannews.it",
-      "date": "2026-04-11T21:00:00+00:00",
-      "summary": "The nightmares of Milan materialized on this spring evening of April 11th."
-    },
-    {
-      "id": "ee600c467d59",
-      "title": "Here is Juve's victory: in Bergamo a goal from Boga is enough to bring Milan closer",
-      "url": "https://www.milannews.it/news/ecco-la-vittoria-della-juve-a-bergamo-basta-un-gol-di-boga-per-avvicinare-il-milan-613666",
-      "source": "milannews.it",
-      "date": "2026-04-11T20:47:00+00:00",
-      "summary": "AC Milan's nightmare Saturday is now complete."
-    },
-    {
-      "id": "6b78737d64df",
-      "title": "Allegri on Milan TV: \"Accident. We know we have to work hard\"",
-      "url": "https://www.milannews.it/news/allegri-a-milan-tv-incidente-di-percorso-sappiamo-che-dobbiamo-fare-fatica-613683",
-      "source": "milannews.it",
-      "date": "2026-04-11T20:36:03+00:00",
-      "summary": "Massimiliano Allegri, Milan coach, spoke to the microphones of Milan TV after the match of the sensational defeat at San Siro 0-3 against Udinese. His statements."
-    },
-    {
-      "id": "bb1bbb195918",
-      "title": "Rabiot to TL: \"We are in a moment of difficulty, we must get out of it together, find serenity and stay focused on the goal\"",
-      "url": "https://www.milannews.it/news/rabiot-a-tl-siamo-in-un-momento-di-difficolta-dobbiamo-uscirne-insieme-trovare-serenita-e-rimanere-concentrati-sull-obiettivo-613682",
-      "source": "milannews.it",
-      "date": "2026-04-11T20:25:36+00:00",
-      "summary": "At the end of Milan-Udinese 0-3 Adrien Rabiot, in the mix zone, was interviewed by TeleLombardia."
-    },
-    {
-      "id": "942fabe27f22",
-      "title": "Milan was \"not very present\" by his own admission: the words after the match were more worrying than the performance",
-      "url": "https://www.milannews.it/primo-piano/milan-poco-presente-per-sua-stessa-ammissione-le-parole-nel-post-gara-piu-preoccupanti-della-prestazione-613681",
-      "source": "milannews.it",
-      "date": "2026-04-11T20:24:00+00:00",
-      "summary": "Easter week continues to cause sporting suffering for Milan."
-    },
-    {
-      "id": "da957b537750",
-      "title": "Hernanes: \"Milan were empty. We couldn't recover Leao, and it's a shame\"",
-      "url": "https://www.milannews.it/news/hernanes-il-milan-era-svuotato-non-si-riesce-a-recuperare-leao-ed-e-un-peccato-613655",
-      "source": "milannews.it",
-      "date": "2026-04-11T20:12:16+00:00",
-      "summary": "Milan lost badly against Udinese and Hernanes, from the DAZN studios, commented thus on the 0-3 at San Siro.\n\n“It's a difficult time."
-    },
-    {
-      "id": "e0b4f3f6d78f",
-      "title": "Massara: \"With the same Pulisic as before the injury, Milan could have aspired to something more than third place\"",
-      "url": "https://www.milannews.it/news/massara-con-lo-stesso-pulisic-del-pre-infortunio-il-milan-poteva-ambire-a-qualcosa-di-piu-del-terzo-posto-613632",
-      "source": "milannews.it",
-      "date": "2026-04-11T20:00:06+00:00",
-      "summary": "In the pre-match of Milan-Udinese, a match valid for the 32nd matchday of Serie A Enilive, Dario Massara spoke in the Sky Sport studios to talk about Massimiliano Allegri's team, focusing in particular on Pulisic..."
-    },
-    {
-      "id": "a270953d3fb6",
-      "title": "Allegri: \"Little to say, a lot to work on. We wanted to overdo it and we got stuck\"",
-      "url": "https://www.milannews.it/news/allegri-poco-da-dire-molto-da-lavorare-abbiamo-voluto-strafare-e-ci-siamo-imbottigliati-613673",
-      "source": "milannews.it",
-      "date": "2026-04-11T19:48:00+00:00",
-      "summary": "Massimiliano Allegri, Milan coach, is present in the press conference at the end of Milan-Udinese, a match valid for the 32nd matchday of Serie A. Follow his statements live with the live text on MilanNews."
     },
     {
       "id": "25cf4bce926d",
