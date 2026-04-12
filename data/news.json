@@ -1,13 +1,77 @@
 {
-  "lastUpdated": "2026-04-12T17:33:22.686457+00:00",
+  "lastUpdated": "2026-04-12T18:45:54.878557+00:00",
   "articles": [
+    {
+      "id": "63229b73c5ae",
+      "title": "Pedulla advises: \"Don't think about the pros and cons of Allegri, we need to settle the fundamental issues once and for all\"",
+      "url": "https://www.milannews.it/news/pedulla-consiglia-non-pensare-ai-pro-e-contro-allegri-bisogna-mettere-una-volta-su-tutte-il-punto-su-questioni-fondamentali-613741",
+      "source": "milannews.it",
+      "date": "2026-04-12T18:36:22+00:00",
+      "summary": "In his YouTube channel, Alfredo Pedulla spoke about Milan's problems and what the Rossoneri club must do once and for all to start again next year with important objectives."
+    },
+    {
+      "id": "fdbcb8146b42",
+      "title": "Sky: Leao ‘really upset’ and unlikely to use jeers from San Siro crowd as fuel",
+      "url": "https://sempremilan.com/sky-leao-really-upset-jeers-milan",
+      "source": "sempremilan.com",
+      "date": "2026-04-12T18:27:24+00:00",
+      "summary": "Rafael Leao was really upset by the jeers he received from the AC Milan fans after exiting the game against Udinese, according to a report.  Leao didn’t exactly have the best evening, named as the flop by most newspapers and also by us, with basically nothing going his way. He struggled with his pos"
+    },
+    {
+      "id": "3fd8bfe0b089",
+      "title": "Serie A, the ranking updated after the results at 6.00pm",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-dopo-i-risultati-delle-18-00-613763",
+      "source": "milannews.it",
+      "date": "2026-04-12T18:24:00+00:00",
+      "summary": "Below is the updated Serie A standings:\n\n1. Inter 72 points (31 games played)\n2."
+    },
+    {
+      "id": "b9093b2bbed0",
+      "title": "Serie A, everything easy for Bologna: 2-0 victory over Lecce",
+      "url": "https://www.milannews.it/news/serie-a-tutto-facile-per-il-bologna-vittoria-per-2-0-sul-lecce-613762",
+      "source": "milannews.it",
+      "date": "2026-04-12T18:12:00+00:00",
+      "summary": "Vincenzo Italiano's Bologna only needed one goal per valid half to regulate Lecce, dominating far and wide. It ends 2-0."
+    },
+    {
+      "id": "c12f22a13b5a",
+      "title": "Milan-Udinese 0-3, for Modric it is the fourth defeat in his career with this result",
+      "url": "https://www.milannews.it/news/milan-udinese-0-3-per-modric-e-la-quarta-sconfitta-in-carriera-con-questo-risultato-613749",
+      "source": "milannews.it",
+      "date": "2026-04-12T18:00:37+00:00",
+      "summary": "Milan collapsed against Udinese and collapsed badly."
+    },
+    {
+      "id": "79e994c14555",
+      "title": "AC Milan 0-3 Udinese: Five things we learned – Leao’s new low and UCL at risk",
+      "url": "https://sempremilan.com/ac-milan-0-3-udinese-five-things-learned-2026",
+      "source": "sempremilan.com",
+      "date": "2026-04-12T18:00:10+00:00",
+      "summary": "It ended up being a very tough Saturday evening to swallow for AC Milan and the fans, as Udinese scored three goals and also clinched all three points.  Milan headed into the clash with a willingness to bounce back from the Napoli defeat on Easter Monday. However, it’s possible that this was just th"
+    },
+    {
+      "id": "eefb598f345c",
+      "title": "Galliani rejects the candidacy for president: \"Honoured, but I don't accept. The best is Malagò\"",
+      "url": "https://www.milannews.it/news/galliani-rifiuta-la-candidatura-a-presidente-onorato-ma-non-accetto-il-migliore-e-malago-613739",
+      "source": "milannews.it",
+      "date": "2026-04-12T17:48:11+00:00",
+      "summary": "In recent hours, according to what was reported by various sports and non-sports newspapers, Milan and Juventus had asked Adriano Galliani to take the field in order to be able to propose him as a candidate for the elections that will elect the new federal president."
+    },
+    {
+      "id": "7f33ec322d8f",
+      "title": "Ravezzani harsh: \"Cardinal doesn't want to win, he just wants to earn. Scudetto? Yes, the one in the balance sheet\"",
+      "url": "https://www.milannews.it/news/ravezzani-duro-cardinale-non-vuole-vincere-vuole-solo-guadagnare-scudetto-si-quello-del-bilancio-613738",
+      "source": "milannews.it",
+      "date": "2026-04-12T17:36:12+00:00",
+      "summary": "On the QSVS YouTube channel, director Fabio Ravezzani spoke about the problems underlying Milan and which lead them to have a team not ready to win the scudetto."
+    },
     {
       "id": "1c4ef5303bf1",
       "title": "Gabbia's absence is also worrying beyond the data: Milan lack players who think and lead their teammates",
       "url": "https://www.milannews.it/primo-piano/l-assenza-di-gabbia-preoccupa-anche-oltre-i-dati-al-milan-mancano-giocatori-pensanti-e-che-guidino-i-compagni-613753",
       "source": "milannews.it",
       "date": "2026-04-12T17:24:40+00:00",
-      "summary": "Matteo Gabbia hasn't played an official match with Milan since February 18th: at San Siro the Rossoneri faced Como and the match ended in a 1-1 draw which left a bit of bitterness."
+      "summary": "Matteo Gabbia hasn't played an official match with Milan since February 18th: at San Siro the Rossoneri faced Como and the match ended in a 1-1 draw which left some disappointment."
     },
     {
       "id": "8e7dc69be367",
@@ -146,22 +210,6 @@
       "summary": "AC Milan will be back at the training ground tomorrow to begin preparations for Verona-Milan, the importance of which is now like a final.  It was a heavy Saturday evening for Milan, as Udinese found the back of the net three times and also managed to keep a clean sheet at San Siro. The top-four […]"
     },
     {
-      "id": "3145e9162ec1",
-      "title": "Calamai: \"I wouldn't want Allegri to be distracted from the national team: entering the Champions League is fundamental for the future\"",
-      "url": "https://www.milannews.it/news/calamai-non-vorrei-che-allegri-fosse-distratto-dalla-nazionale-entrare-in-champions-e-basilare-per-il-futuro-613698",
-      "source": "milannews.it",
-      "date": "2026-04-12T14:48:29+00:00",
-      "summary": "In the aftermath of the match against Udinese, lost badly by Milan at San Siro 0-3, the thud of Massimiliano Allegri's team makes even more noise, also accentuated by the victory of Juventus in Bergamo c ..."
-    },
-    {
-      "id": "230fbeeef407",
-      "title": "Padovano praises Bartesaghi: \"Excellent profile, strong, who is imposing himself in an important way\"",
-      "url": "https://www.milannews.it/news/padovano-elogia-bartesaghi-ottimo-profilo-forte-che-si-sta-imponendo-in-maniera-importante-613631",
-      "source": "milannews.it",
-      "date": "2026-04-12T14:36:07+00:00",
-      "summary": "In the pre-match of Milan-Udinese, a match valid for the 32nd matchday of Serie A Enilive lost 0-3 by the Rossoneri, Michele Padovano spoke in the Sky Sport studios to talk about Massimiliano Allegri's team, focusing ..."
-    },
-    {
       "id": "9c2c52c4dd11",
       "title": "The numbers behind Milan’s crisis with Champions League spot at risk",
       "url": "https://football-italia.net/numbers-milan-crisis-champions-league-risk/",
@@ -170,28 +218,12 @@
       "summary": "Milan have lost four of their last seven Serie A games and are slipping dangerously..."
     },
     {
-      "id": "0111a7fbcc6c",
-      "title": "2026 World Cup, possible repechage for Italy? The situation",
-      "url": "https://www.milannews.it/news/mondiale-2026-possibile-ripescaggio-dell-italia-la-situazione-613606",
-      "source": "milannews.it",
-      "date": "2026-04-12T14:24:00+00:00",
-      "summary": "Italy was eliminated from the 2026 World Cup after the defeat against Bosnia, but in recent days rumors have circulated about a possible repechage."
-    },
-    {
       "id": "d8e8af245e59",
       "title": "Skill and end product: Perfect audition for Milan-linked Zaniolo in Udinese win",
       "url": "https://sempremilan.com/perfect-audition-milan-linked-zaniolo-udinese",
       "source": "sempremilan.com",
       "date": "2026-04-12T14:20:00+00:00",
       "summary": "Nicolo Zaniolo played a huge part in Udinese’s big win against AC Milan on Saturday evening, and given the links with the Rossoneri, you could say that it was a perfect audition.  Right at the start of the season, Udinese secured Zaniolo’s services on loan from Galatasaray, where the winger had move"
-    },
-    {
-      "id": "10d6d071b0fe",
-      "title": "Di Francesco on Camarda: \"Some say he hasn't played much. Do you know he had shoulder surgery?\"",
-      "url": "https://www.milannews.it/news/di-francesco-su-camarda-qualcuno-dice-che-ha-giocato-poco-sapete-che-si-e-operato-alla-spalla-613605",
-      "source": "milannews.it",
-      "date": "2026-04-12T14:12:00+00:00",
-      "summary": "Eusebio Di Francesco, in the press conference, spoke about Francesco Camarda like this: \"Today I hear someone say that he hasn't played much."
     },
     {
       "id": "c7b0ca3f2f5c",
@@ -208,22 +240,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-12T13:50:00+00:00",
       "summary": "AC Milan’s defeat to Udinese has certainly made things very interesting for the top-four race, with both Juventus and Como now feeling that they can clinch the final two spots.  Milan needed to come away with all three points from their game against Udinese last night, but in the end, they got zero."
-    },
-    {
-      "id": "4adcf6c800a8",
-      "title": "Agresti: \"Result of the 4-3-3? The attack continues not to score and the defense has melted\"",
-      "url": "https://www.milannews.it/news/agresti-risultato-del-4-3-3-l-attacco-continua-a-non-segnare-e-la-difesa-si-e-squagliata-613718",
-      "source": "milannews.it",
-      "date": "2026-04-12T13:48:00+00:00",
-      "summary": "Milan disastrous at San Siro, Rossoneri defeated 0-3 by Udinese and the whole Champions League discussion reopened."
-    },
-    {
-      "id": "4632bf543e88",
-      "title": "Massara: \"Bartesaghi is part of the very few products that the championship has given to the national team\"",
-      "url": "https://www.milannews.it/news/massara-bartesaghi-fa-parte-dei-pochissimi-prodotti-che-il-campionato-ha-regalato-alla-nazionale-613633",
-      "source": "milannews.it",
-      "date": "2026-04-12T13:36:36+00:00",
-      "summary": "In the pre-match of Milan-Udinese, a match valid for the 32nd matchday of Serie A Enilive lost 0-3 by the Rossoneri, Dario Massara spoke in the Sky Sport studios to talk about Massimiliano Allegri's team, focusing on ..."
     },
     {
       "id": "03cd7247832c",
@@ -330,14 +346,6 @@
       "summary": "AC Milan have put themselves in a rather difficult situation in this finale, now at risk of missing out on the Champions League after all.  Another defeat, their third in four games, has given Juventus and Como a real chance of snatching the final spots for the competition. Considering that qualific"
     },
     {
-      "id": "01aac24db287",
-      "title": "Gallery: ‘Shock for Milan’, ‘Allegri presses alarm button’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/gallery-shock-milan-allegri-papers-italy",
-      "source": "sempremilan.com",
-      "date": "2026-04-12T08:00:00+00:00",
-      "summary": "AC Milan suffered a huge defeat on Saturday evening, conceding three against Udinese in front of their home crowd, and the papers had a field day this morning.  It was a game that Massimiliano Allegri’s men needed to win, given the defeat to Napoli earlier in the week, but instead they got the exact"
-    },
-    {
       "id": "74925d4eb682",
       "title": "Today’s Papers – Shocking Milan, Juventus celebrate",
       "url": "https://football-italia.net/todays-papers-shock-milan-juventus-celebrate/",
@@ -352,14 +360,6 @@
       "source": "football-italia.net",
       "date": "2026-04-11T21:59:30+00:00",
       "summary": "The sudden Milan collapse means the race for the top four is more open than..."
-    },
-    {
-      "id": "25cf4bce926d",
-      "title": "Rabiot admits Milan are suffering ‘decline’ but was ‘disappointed’ by Leao jeers: “Need to help him”",
-      "url": "https://sempremilan.com/rabiot-milan-decline-disappointed-leao-jeers",
-      "source": "sempremilan.com",
-      "date": "2026-04-11T19:32:02+00:00",
-      "summary": "Adrien Rabiot has admitted that AC Milan did not keep a level head during their loss to Udinese, but hit back at the boos towards Rafael Leao. Udinese ran out 3-0 winners at San Siro as a result of an unfortunate own-goal from Davide Bartesaghi, a header from Ekkelenkamp and a final blow in the […]\n"
     },
     {
       "id": "0c364b066261",
