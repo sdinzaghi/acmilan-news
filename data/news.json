@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2026-04-15T05:22:36.767564+00:00",
+  "lastUpdated": "2026-04-15T07:28:56.563805+00:00",
   "articles": [
+    {
+      "id": "3f8da12b23c8",
+      "title": "The national team looms, the Gazzetta headlines: \"Milan wants to lock down Allegri\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-nazionale-incombe-la-gazzetta-titola-il-milan-vuole-blindare-allegri-614035",
+      "source": "milannews.it",
+      "date": "2026-04-15T07:20:39+00:00",
+      "summary": "In recent weeks, ever since Italy sensationally missed the appointment with the third World Cup in a row, rumors about the possible new coach have chased each other, including denials, half-rumors and declarations from direct officials ..."
+    },
+    {
+      "id": "8a8e9461b6b3",
+      "title": "Risk of warnings for Milan, Tuttosport: \"In Verona, yellow scares the Devil\"",
+      "url": "https://www.milannews.it/rassegna-stampa/rischio-diffidati-per-il-milan-tuttosport-a-verona-il-giallo-fa-paura-al-diavolo-614034",
+      "source": "milannews.it",
+      "date": "2026-04-15T07:10:00+00:00",
+      "summary": "The match that Milan will face this weekend will be anything but simple, for many reasons."
+    },
+    {
+      "id": "d1a75bd05d6c",
+      "title": "Marcolin trusts Max: \"He reaches his goal: either he finds the road or he builds it\"",
+      "url": "https://www.milannews.it/news/marcolin-si-fida-di-max-al-suo-obiettivo-arriva-o-trova-la-strada-o-la-costruisce-614033",
+      "source": "milannews.it",
+      "date": "2026-04-15T07:00:00+00:00",
+      "summary": "Milan finds itself at the most critical moment of the season: two consecutive defeats, four in total in the last seven and a match against Verona that must not be missed to arrive in the best possible condition for the big match at San Siro..."
+    },
+    {
+      "id": "1f014325efd1",
+      "title": "Leao, another chance. La Gazzetta: \"Still starter in Verona\"",
+      "url": "https://www.milannews.it/rassegna-stampa/leao-un-altra-chance-la-gazzetta-a-verona-ancora-titolare-614032",
+      "source": "milannews.it",
+      "date": "2026-04-15T06:50:00+00:00",
+      "summary": "It is not a happy period for Rafael Leao, from a sporting point of view: it can actually be said that it is the worst moment since he arrived at Milan, now in the distant summer of 2019."
+    },
+    {
+      "id": "a4b6d4156387",
+      "title": "CorSera's transfer rumor: \"Dybala likes Milan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/l-indiscrezione-di-mercato-del-corsera-a-dybala-piace-il-milan-614031",
+      "source": "milannews.it",
+      "date": "2026-04-15T06:40:32+00:00",
+      "summary": "The future of many stars of the big Serie A teams hangs in the balance. Each team will have one of their champions - or highest paid player in the squad - on the starting line this summer."
+    },
+    {
+      "id": "0f83e49938bf",
+      "title": "Christian finds the victim of his last goal, CorSport: \"Charge Pulisic\"",
+      "url": "https://www.milannews.it/rassegna-stampa/christian-ritrova-la-vittima-del-suo-ultimo-gol-il-corsport-carica-pulisic-614030",
+      "source": "milannews.it",
+      "date": "2026-04-15T06:30:03+00:00",
+      "summary": "It was December 28, 2025 and Christian Pulisic bent Hellas Verona under his feet at San Siro: a goal in a match that the Rossoneri won 3-0, thanks also to Nkunku's brace."
+    },
+    {
+      "id": "e9c91657e0fd",
+      "title": "Capello: \"Allegri has something more in terms of communication: as coach it's very important\"",
+      "url": "https://www.milannews.it/news/capello-allegri-ha-qualcosa-in-piu-a-livello-comunicativo-da-ct-e-molto-importante-614029",
+      "source": "milannews.it",
+      "date": "2026-04-15T06:20:51+00:00",
+      "summary": "He has never sat on the bench of the Italian national team but Fabio Capello, historic coach also of Milan with whom he won practically everything, has great experience in this sense having been at the helm of both Na ..."
+    },
+    {
+      "id": "a7d66e541c17",
+      "title": "La Gazzetta on the front page on the future of Leao and Allegri",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-prima-pagina-sul-futuro-di-leao-e-allegri-614028",
+      "source": "milannews.it",
+      "date": "2026-04-15T06:10:00+00:00",
+      "summary": "The recent results have cast some small shadows on the future of Milan and in particular of some certainly very important protagonists."
+    },
+    {
+      "id": "5e247bc9f211",
+      "title": "A clear no never arrived, the precedence to Milan, June 22nd far away: Allegri's steps towards the choice",
+      "url": "https://www.milannews.it/primo-piano/un-no-secco-mai-arrivato-la-precedenza-al-milan-22-giugno-lontano-le-tappe-di-allegri-verso-la-scelta-614027",
+      "source": "milannews.it",
+      "date": "2026-04-15T06:00:09+00:00",
+      "summary": "Milan must not only be worried internally about what emerged in and from the two consecutive defeats against Napoli and Udinese."
+    },
+    {
+      "id": "add27068ac73",
+      "title": "Champions League, Atletico Madrid and PSG in the semi-finals. Barcelona and Liverpool out",
+      "url": "https://www.milannews.it/news/champions-league-atletico-madrid-e-psg-in-semifinale-fuori-barcellona-e-liverpool-614011",
+      "source": "milannews.it",
+      "date": "2026-04-15T05:50:37+00:00",
+      "summary": "(ANSA) - ROME, APRIL 14 - Paris Saint Germain and Atletico Madrid are the top two qualified for the Champions League semi-finals."
+    },
+    {
+      "id": "e41fb92eb95d",
+      "title": "Towards Milan-Atalanta: info and costs on ticket sales",
+      "url": "https://www.milannews.it/news/verso-milan-atalanta-info-e-costi-sulla-vendita-dei-biglietti-614004",
+      "source": "milannews.it",
+      "date": "2026-04-15T05:40:00+00:00",
+      "summary": "On the occasion of the first home match of the month of May, Milan will take the field against Atalanta in the match valid for the 36th matchday of the Serie A championship."
+    },
+    {
+      "id": "1b67b011f533",
+      "title": "Milan, travel ban to Verona for AC Milan fans residing in Lombardy? The latest updates",
+      "url": "https://www.milannews.it/news/milan-divieto-di-trasferta-a-verona-per-i-milanisti-residenti-in-lombardia-gli-ultimi-aggiornamenti-614005",
+      "source": "milannews.it",
+      "date": "2026-04-15T05:30:00+00:00",
+      "summary": "As we told you two days ago, the AIMC had an appeal ready against the decision of the prefect of Verona last 10 April which imposed a travel ban on AC Milan fans resident in Lombardy for the match ..."
+    },
+    {
+      "id": "2a922f481f01",
+      "title": "Serie A, the complete program of the 33rd matchday: Milan on the pitch after Inter and Napoli",
+      "url": "https://www.milannews.it/news/serie-a-il-programma-completo-della-33-giornata-milan-in-campo-dopo-inter-e-napoli-614003",
+      "source": "milannews.it",
+      "date": "2026-04-15T05:20:00+00:00",
+      "summary": "Below is the complete program of the 33rd matchday of Serie A:\n\nFRIDAY 17 APRIL\n\nSassuolo-Como 6.30pm\n\nInter-Cagliari 20."
+    },
     {
       "id": "ad585793cb67",
       "title": "Milan and Corpay Cross-Border together again: partnership renewed",
@@ -56,110 +160,6 @@
       "source": "milannews.it",
       "date": "2026-04-14T22:10:58+00:00",
       "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on Christian Pulisic: \"The hundred days have recently been passed, in a very personal battle that for the moment he is still unable to bring home."
-    },
-    {
-      "id": "d32f817b8672",
-      "title": "Totem and Tabu. Allegri's words. The silence of the NOT innocents. The empty seats, the empty seat",
-      "url": "https://www.milannews.it/editoriale/totem-e-tabu-le-parole-di-allegri-il-silenzio-dei-non-innocenti-i-posti-vuoti-il-posto-vuoto-614002",
-      "source": "milannews.it",
-      "date": "2026-04-14T22:00:01+00:00",
-      "summary": "Monday morning, Milanello. Igli Tare and all his staff were present, Massimiliano Allegri rallied the team after the terrible defeat against Udinese."
-    },
-    {
-      "id": "eafe1d87d100",
-      "title": "Going into the away match in Verona, Serginho is sure: \"Milan will not underestimate the commitment. I expect an angry team after Udinese\"",
-      "url": "https://www.milannews.it/gli-ex/verso-la-trasferta-di-verona-serginho-e-sicuro-il-milan-non-sottovalutera-l-impegno-mi-aspetto-una-squadra-arrabbiata-dopo-l-udinese-613951",
-      "source": "milannews.it",
-      "date": "2026-04-14T21:50:50+00:00",
-      "summary": "Interviewed by Gazzetta dello Sport, former Rossoneri player Serginho spoke thus about Allegri's Milan's next match against Hellas Verona: \"I don't think Milan will underestimate the match."
-    },
-    {
-      "id": "e3830146986e",
-      "title": "PSG still ahead in the Champions League: the Parisians eliminate Liverpool and fly to the semi-finals",
-      "url": "https://www.milannews.it/news/psg-ancora-avanti-in-champions-i-parigini-eliminano-il-liverpool-e-volano-in-semifinale-613999",
-      "source": "milannews.it",
-      "date": "2026-04-14T21:40:00+00:00",
-      "summary": "After the 2-0 in Paris, Luis Enrique's PSG also wins in Liverpool and reaches another Champions League semi-final."
-    },
-    {
-      "id": "8316dd992240",
-      "title": "Bianchin: \"San Siro has run out of patience with Leao. The story is now in crisis: if it's over, we'll see\"",
-      "url": "https://www.milannews.it/calciomercato-milan/bianchin-san-siro-con-leao-ha-finito-la-pazienza-ormai-la-storia-e-in-crisi-se-finita-si-vedra-613929",
-      "source": "milannews.it",
-      "date": "2026-04-14T21:30:25+00:00",
-      "summary": "Luca Bianchin, journalist, expressed himself as follows in La Gazzetta dello Sport on Rafael Leao's future: \"San Siro has decided that enough is enough, they have run out of patience with Rafa Leao."
-    },
-    {
-      "id": "ccf48dc417d8",
-      "title": "Leao-Milan, Di Marzio has no doubts today: \"I don't see Rafa ready to accept an offer from Arabia..\"",
-      "url": "https://www.milannews.it/news/leao-milan-di-marzio-oggi-non-ha-dubbi-non-vedo-rafa-pronto-ad-accettare-un-offerta-dall-arabia-613997",
-      "source": "milannews.it",
-      "date": "2026-04-14T21:20:00+00:00",
-      "summary": "Gianluca Di Marzio, famous journalist and market expert, spoke thus to Sky Calcio-Mercato, l'Originale."
-    },
-    {
-      "id": "1932bd040da9",
-      "title": "Champions League, Atletico Madrid flies to the semi-finals by eliminating Barça: Ferran Torres and Yamal are not enough",
-      "url": "https://www.milannews.it/news/champions-l-atletico-madrid-vola-in-semifinale-eliminando-il-barca-ferran-torres-e-yamal-non-bastano-613998",
-      "source": "milannews.it",
-      "date": "2026-04-14T21:10:00+00:00",
-      "summary": "The first verdict of the Champions League evening. Atletico Madrid is in the semi-finals at the end of a crazy match played in the quarter-finals against Barcelona at the Metrpolitano."
-    },
-    {
-      "id": "100204e8f9e8",
-      "title": "MN - Efoku has no doubts: \"Someone like Osimhen would really help Milan\"",
-      "url": "https://www.milannews.it/news/mn-efoku-non-ha-dubbi-uno-come-osimhen-aiuterebbe-davvero-il-milan-613996",
-      "source": "milannews.it",
-      "date": "2026-04-14T21:00:00+00:00",
-      "summary": "The journalist Alessandro Schiavone interviewed for MilanNews.it the former Nigerian striker Efan Efoku, protagonist in the Premier League with the shirts of Norwich and Wimbledon in the Nineties."
-    },
-    {
-      "id": "f87efbfd9ca1",
-      "title": "Sassuolo, Berardi suspended for two matches: he will return with Milan",
-      "url": "https://www.milannews.it/news/sassuolo-berardi-squalificato-per-due-turni-rientrera-con-il-milan-613986",
-      "source": "milannews.it",
-      "date": "2026-04-14T20:40:14+00:00",
-      "summary": "Weekend to forget for Domenico Berardi who, in the Sunday lunch match that Sassuolo lost against Genoa at the Luigi Ferraris stadium, received a direct red card for a fight that broke out upon his return to ..."
-    },
-    {
-      "id": "a1921a513ee7",
-      "title": "Fabregas: \"I'm very attached to Como, it's difficult for him to leave\"",
-      "url": "https://www.milannews.it/l-avversario/fabregas-sono-molto-attaccato-al-como-difficile-che-vada-via-613864",
-      "source": "milannews.it",
-      "date": "2026-04-14T20:30:00+00:00",
-      "summary": "(ANSA) - ROME, APRIL 13 - \"I am very attached to this project, you can never tell but at the moment I think it is very difficult for him to leave Como."
-    },
-    {
-      "id": "3037e32b2a78",
-      "title": "Juventus, two players with a booking that risk missing out on Milan",
-      "url": "https://www.milannews.it/news/juventus-due-i-calciatori-diffidati-che-rischiano-di-saltare-il-milan-613964",
-      "source": "milannews.it",
-      "date": "2026-04-14T20:20:00+00:00",
-      "summary": "Much of Milan's season, and consequently the future of the team as well as many of its current members, will pass through the big match on April 26th against Juventus."
-    },
-    {
-      "id": "bb5be8dac4ab",
-      "title": "2007 Idrissi: \"Training with Modric is crazy: unique intelligence. Also with Thiago Silva a great experience\"",
-      "url": "https://www.milannews.it/news/il-2007-idrissi-allenarsi-con-modric-e-pazzesco-intelligenza-unica-anche-con-thiago-silva-una-grande-esperienza-613970",
-      "source": "milannews.it",
-      "date": "2026-04-14T20:10:00+00:00",
-      "summary": "Yahya Idrissi-Regragui is a young playmaker that Milan acquired for its youth sector and for the Milan Futuro project during the winter transfer market."
-    },
-    {
-      "id": "d3fb3315979f",
-      "title": "Milan, this attack is a flop. Gimenez and Nkunku failed investments, meanwhile Roma enjoys with Malen",
-      "url": "https://www.milannews.it/news/milan-questo-attacco-e-un-flop-gimenez-e-nkunku-investimenti-fallimentari-intanto-la-roma-gode-con-malen-613901",
-      "source": "milannews.it",
-      "date": "2026-04-14T20:00:00+00:00",
-      "summary": "Milan's attack is a serious problem. There was a lot of money invested in Gimenez and Nkunku, and the field has so far spoken of a flop."
-    },
-    {
-      "id": "4c9eff9ef83a",
-      "title": "MN - Ekoku: \"Osimhen can do well for Milan and any team\"",
-      "url": "https://www.milannews.it/news/mn-ekoku-osimhen-puo-fare-bene-al-milan-e-a-qualsiasi-squadra-613961",
-      "source": "milannews.it",
-      "date": "2026-04-14T19:50:00+00:00",
-      "summary": "The journalist Alessandro Schiavone interviewed for MilanNews.it the former Nigerian striker Efan Efoku, protagonist in the Premier League with the shirts of Norwich and Wimbledon in the Nineties."
     },
     {
       "id": "7acaa97ee61c",
