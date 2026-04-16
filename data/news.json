@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2026-04-16T05:29:41.792304+00:00",
+  "lastUpdated": "2026-04-16T07:43:27.872183+00:00",
   "articles": [
+    {
+      "id": "0de61449583a",
+      "title": "Today’s Papers – Allegri’s frosty relationship with Milan, Yildiz’s knee problems",
+      "url": "https://football-italia.net/todays-papers-allegri-frosty-milan-yildiz-knee/",
+      "source": "football-italia.net",
+      "date": "2026-04-16T07:35:52+00:00",
+      "summary": "La Gazzetta dello Sport Roma tension, Ranieri could even leave Gasp wants full trust Inter,..."
+    },
+    {
+      "id": "480464c656c0",
+      "title": "Towards Hellas Verona-Milan: Gabbia and Tomori return to defense from the 1st minute",
+      "url": "https://www.milannews.it/rassegna-stampa/verso-hellas-verona-milan-gabbia-e-tomori-tornano-dal-1-in-difesa-614146",
+      "source": "milannews.it",
+      "date": "2026-04-16T07:29:13+00:00",
+      "summary": "On Sunday against Hellas Verona, a match that Milan must win at all costs, Massimiliano Allegri returns to the past: the 4-3-3 that failed against Udinese will in fact leave room for the \"old\" 3-5-2, i.e. the current one..."
+    },
+    {
+      "id": "440ca23c67bb",
+      "title": "CorSport: \"Milan and Max at their lowest\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-milan-e-max-ai-minimi-614142",
+      "source": "milannews.it",
+      "date": "2026-04-16T07:20:00+00:00",
+      "summary": "Complicated moment for Milan, both for the final days of the championship and for a future to be deciphered. Today's edition of Corriere dello Sport provides an in-depth analysis of the Rossoneri, with the headline: \"Milan and Max at their lowest\"."
+    },
+    {
+      "id": "eaa7f89b52cf",
+      "title": "Tuttosport: \"This is how Allegri designs the Milan of the future. He has already met Furlani and Tare three times\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-cosi-allegri-disegna-il-milan-del-futuro-ha-gia-incontrato-tre-volte-furlani-e-tare-614136",
+      "source": "milannews.it",
+      "date": "2026-04-16T07:09:04+00:00",
+      "summary": "Today's edition of Tuttosport has the headline this morning: \"This is how Allegri designs the Milan of the future. He has already met Furlani and Tare three times\"."
+    },
+    {
+      "id": "25579743fa5f",
+      "title": "Milan transfer market, it's not just Vlahovic. Gazzetta: \"Lewandowski temptation. And watch out for Jackson\"",
+      "url": "https://www.milannews.it/rassegna-stampa/mercato-milan-non-c-e-solo-vlahovic-gazzetta-tentazione-lewandowski-e-occhio-a-jackson-614133",
+      "source": "milannews.it",
+      "date": "2026-04-16T06:59:46+00:00",
+      "summary": "Milan is always looking for a great center forward for next season."
+    },
+    {
+      "id": "f3bff9c4d635",
+      "title": "Doubts at Casa Milan. The QS headline: \"From Nkunku to Ricci: how many millions ended up on the bench\"",
+      "url": "https://www.milannews.it/rassegna-stampa/i-dubbi-in-casa-milan-il-qs-titola-da-nkunku-a-ricci-quanti-milioni-finiti-in-panchina-614129",
+      "source": "milannews.it",
+      "date": "2026-04-16T06:50:45+00:00",
+      "summary": "Regarding the doubts that exist at Casa Milan, the Quotidiano Sportivo on newsstands today has the following headline: \"From Nkunku to Ricci: how many millions ended up on the bench\"."
+    },
+    {
+      "id": "43945ae9d096",
+      "title": "Gazzetta: \"Vlahovic, Milan are trying (again). Nkunku is the key\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-vlahovic-il-milan-ci-ri-prova-nkunku-la-chiave-614127",
+      "source": "milannews.it",
+      "date": "2026-04-16T06:40:39+00:00",
+      "summary": "The Gazzetta dello Sport headline this morning: \"Vlahovic, Milan try (again). Nkunku the key\"."
+    },
+    {
+      "id": "297c936f8807",
+      "title": "CorSera: \"Milan's project passes through the Champions League. The Allegri variable\"",
+      "url": "https://www.milannews.it/rassegna-stampa/corsera-il-progetto-del-milan-passa-dalla-champions-la-variabile-allegri-614123",
+      "source": "milannews.it",
+      "date": "2026-04-16T06:30:20+00:00",
+      "summary": "\"Milan's project passes through the Champions League."
+    },
+    {
+      "id": "6200f6432182",
+      "title": "CorSport on the front page on Allegri's future: \"Gelo. Max and Milan are more distant. Complicated relationships with Furlani and Ibra\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-in-prima-pagina-sul-futuro-di-allegri-gelo-max-e-il-milan-sono-piu-distanti-rapporti-complicati-con-furlani-e-ibra-614118",
+      "source": "milannews.it",
+      "date": "2026-04-16T06:20:59+00:00",
+      "summary": "The Corriere dello Sport on newsstands this morning has this headline on Allegri's future: \"Gelo. Max and Milan are further apart."
+    },
+    {
+      "id": "9f7d74f69770",
+      "title": "The opening of the Gazzetta: \"Hell of a 9. Milan tries Vlahovic\"",
+      "url": "https://www.milannews.it/rassegna-stampa/l-apertura-della-gazzetta-diavolo-di-un-9-il-milan-tenta-vlahovic-614117",
+      "source": "milannews.it",
+      "date": "2026-04-16T06:10:16+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page: \"Hell of a 9. Milan tries Vlahovic\"."
+    },
+    {
+      "id": "14cbf7ce05d0",
+      "title": "Allegri, priority for Milan. But if he were to leave, who could the Devil focus on?",
+      "url": "https://www.milannews.it/primo-piano/allegri-priorita-al-milan-ma-se-dovesse-andare-via-su-chi-potrebbe-puntare-il-diavolo-614116",
+      "source": "milannews.it",
+      "date": "2026-04-16T06:00:48+00:00",
+      "summary": "Will Massimiliano Allegri's future still be at Milan? Ever since his name began to be linked to the Italian bench after the farewell of Rino Gattuso, this is the question that all AC Milan fans who ..."
+    },
+    {
+      "id": "9b740199eb00",
+      "title": "Tommasi: \"Am I a FIGC candidate and mayor? There are presidents who act as senators\"",
+      "url": "https://www.milannews.it/news/tommasi-io-candidato-figc-e-sindaco-ci-sono-presidenti-che-fanno-i-senatori-614114",
+      "source": "milannews.it",
+      "date": "2026-04-16T05:50:10+00:00",
+      "summary": "(ANSA) - ROME, APRIL 15 - \"I only read it in the newspapers, I had no inkling, unlike in politics it is the candidate who should run, accredited by someone.\""
+    },
+    {
+      "id": "d29cdc2f751f",
+      "title": "Milan Futuro, the match against Varesina on Sunday: the updated rankings",
+      "url": "https://www.milannews.it/milan-futuro/milan-futuro-domenica-la-sfida-contro-il-varesina-la-classifica-aggiornata-614108",
+      "source": "milannews.it",
+      "date": "2026-04-16T05:40:56+00:00",
+      "summary": "After the clear 4-0 success at Brusaporto, Milan Futuro returns to the field this Sunday against Varesina. Appointment on April 19th at the Felice Chinetti in Solbiate Arno starting from 3pm."
+    },
+    {
+      "id": "462df8c73999",
+      "title": "Milan and Corpay Cross-Border together again: partnership renewed",
+      "url": "https://www.milannews.it/news/milan-e-corpay-cross-border-ancora-insieme-rinnovata-la-partnership-614111",
+      "source": "milannews.it",
+      "date": "2026-04-16T05:30:58+00:00",
+      "summary": "AC Milan and Corpay, Inc."
+    },
     {
       "id": "dd1363fba36e",
       "title": "Serie A, the complete program of the 33rd matchday: Milan on the pitch after Inter and Napoli",
@@ -56,110 +168,6 @@
       "source": "milannews.it",
       "date": "2026-04-15T22:30:48+00:00",
       "summary": "In his YouTube channel, Carlo Pellegatti spoke about the transfer market from an attacking perspective, commenting on the news according to which Lewandowski's agent met with Igli Tare in recent days."
-    },
-    {
-      "id": "b75b79787a1c",
-      "title": "Bad injury for Ekitike: the World Cup is now at risk",
-      "url": "https://www.milannews.it/news/brutto-infortunio-per-ekitike-il-mondiale-ora-e-a-rischio-614055",
-      "source": "milannews.it",
-      "date": "2026-04-15T22:20:03+00:00",
-      "summary": "(ANSA) - ROME, APRIL 15 - \"It seems really serious\", in the words of Arne Slot, Liverpoool coach, the injury of Hugo Ekitike, the Reds' French striker, for whom the path to the World Cup is now complicated."
-    },
-    {
-      "id": "d5697327b94d",
-      "title": "Biasin: “The AC Milan fan wants to win, to do that you need planning on the first striker”",
-      "url": "https://www.milannews.it/news/biasin-il-tifoso-del-milan-vuole-vincere-per-farlo-serve-programmazione-sulla-prima-punta-614095",
-      "source": "milannews.it",
-      "date": "2026-04-15T22:10:19+00:00",
-      "summary": "During today's episode of È semper derby, Fabrizio Biasin spoke about the Rossoneri fans' ambitions for next year and what the club must do to try to satisfy them."
-    },
-    {
-      "id": "574a0bbc2673",
-      "title": "Few goals: lack of ideas or good feet? Milan (and Juve) late on Malagò. The own goal in the photo at Varese basketball",
-      "url": "https://www.milannews.it/editoriale/pochi-gol-mancano-idee-o-piedi-buoni-milan-e-juve-in-ritardo-su-malago-l-autogol-della-foto-al-basket-varese-614099",
-      "source": "milannews.it",
-      "date": "2026-04-15T22:00:01+00:00",
-      "summary": "Among the many analyzes published on Allegri's fourth 0 goal for Milan in the season, I chose the one signed by Massimo Ambrosini for a series of good reasons. Ambrosini says: “it is first and foremost a question of ideas”."
-    },
-    {
-      "id": "0ff695871707",
-      "title": "Gazzetta - Allegri and Milan, the coach asks for involvement in the transfer market. And the national team...",
-      "url": "https://www.milannews.it/news/gazzetta-allegri-ed-il-milan-il-tecnico-chiede-coinvolgimento-sul-mercato-e-la-nazionale-614115",
-      "source": "milannews.it",
-      "date": "2026-04-15T21:49:19+00:00",
-      "summary": "Massimiliano Allegri's future at Milan appears, at least for now, oriented towards continuity. All the parties involved seem to intend to continue together, we read in the gazette."
-    },
-    {
-      "id": "b5065249b477",
-      "title": "Modric on a warning, De Grandis: \"The important thing is not to lose him for the match against Juventus\"",
-      "url": "https://www.milannews.it/news/modric-in-diffida-de-grandis-l-importante-e-non-perderlo-per-la-sfida-contro-la-juventus-614102",
-      "source": "milannews.it",
-      "date": "2026-04-15T21:40:44+00:00",
-      "summary": "Speaking this afternoon in the studios of Sky Sport 24, my colleague Stefano De Grandis spoke about Milan in the aftermath of an important championship weekend considering the negative results from which Massimilian's team has returned ..."
-    },
-    {
-      "id": "03945a9d6093",
-      "title": "Champions League, the semi-finals: PSG-Bayern and Atletico-Arsenal",
-      "url": "https://www.milannews.it/news/champions-league-le-semifinali-psg-bayern-e-atletico-arsenal-614109",
-      "source": "milannews.it",
-      "date": "2026-04-15T21:29:35+00:00",
-      "summary": "The Champions League semi-finals have also been defined with Bayern Munich-Real Madrid 4-3 and Arsenal-Sporting Lisbon 0-0, which will be as follows:\n\nThe Champions League semi-finals\nParis Saint-Germain-Bayern Munich (28 April and 6 May)\nAt ..."
-    },
-    {
-      "id": "aee688c0181b",
-      "title": "Laporta tries again: \"We will make another appeal, VAR and the referee influenced the final result\"",
-      "url": "https://www.milannews.it/news/laporta-ci-riprova-faremo-un-altro-ricorso-var-e-arbitro-hanno-condizionato-il-risultato-finale-614096",
-      "source": "milannews.it",
-      "date": "2026-04-15T21:20:00+00:00",
-      "summary": "The Spanish derby between Atletico Madrid and Barcelona is not over yet, at least off the pitch."
-    },
-    {
-      "id": "2565113a945f",
-      "title": "Cruciani ironic: \"What was expected of Allegri, that he play like Como? The hatred towards him is incomprehensible\"",
-      "url": "https://www.milannews.it/news/cruciani-ironico-cosa-si-pretendeva-da-allegri-che-giocasse-come-il-como-astio-nei-suoi-confronti-incomprensibile-614090",
-      "source": "milannews.it",
-      "date": "2026-04-15T21:10:19+00:00",
-      "summary": "During the last episode of Numer1 podcast, Giuseppe Cruciani spoke about Massimiliano Allegri and the demands that the fans and professionals had for this season."
-    },
-    {
-      "id": "6e4ecadf7eaf",
-      "title": "Champions League, show in Bavaria. Bayern-Real Madrid 4-3",
-      "url": "https://www.milannews.it/news/champions-league-spettacolo-in-baviera-bayern-real-madrid-4-3-614106",
-      "source": "milannews.it",
-      "date": "2026-04-15T20:58:38+00:00",
-      "summary": "Entertainment in Germany in the return quarter-finals between Bayern Munich and Real Madrid: at the Allianz Arena it ends 4-3 and Kompany's team goes to the semi-finals, where they will meet Luis Enrique's super PSG."
-    },
-    {
-      "id": "3ec0f79ca9dd",
-      "title": "Apolloni on Allegri: \"Maybe he didn't give the team the right motivation\"",
-      "url": "https://www.milannews.it/news/apolloni-su-allegri-forse-non-ha-dato-la-giusta-motivazione-alla-squadra-614092",
-      "source": "milannews.it",
-      "date": "2026-04-15T20:50:26+00:00",
-      "summary": "During the usual appointment with Maracanà, a program broadcast on the frequencies of TMW Radio, former coach Luigi Apolloni spoke about Milan, focusing in particular on the judgment of Massimiliano Allegr's work..."
-    },
-    {
-      "id": "eb4958af9a6c",
-      "title": "Referee asks for residence permits from two migrant footballers: controversy in the Padua area",
-      "url": "https://www.milannews.it/news/arbitro-chiede-il-permesso-di-soggiorno-a-due-calciatori-migranti-polemiche-nel-padovano-614014",
-      "source": "milannews.it",
-      "date": "2026-04-15T20:40:49+00:00",
-      "summary": "(ANSA) - PADUA, APRIL 14 - A referee asks two young non-EU footballers for residence permits before taking to the pitch and controversy breaks out, involving the Venetian FIGC for an in-depth investigation into the case."
-    },
-    {
-      "id": "d8e848a5f088",
-      "title": "Bucchioni on Italy's next coach: \"Allegri doesn't seem oriented to me. I'm sticking with Conte\"",
-      "url": "https://www.milannews.it/news/bucchioni-sul-prossimo-ct-dell-italia-allegri-non-mi-sembra-orientato-io-rimango-su-conte-614089",
-      "source": "milannews.it",
-      "date": "2026-04-15T20:30:34+00:00",
-      "summary": "During the usual appointment with Maracanà, a program broadcast on the frequencies of TMW Radio, Enzo Bucchioni spoke about Milan, focusing in particular on the future of the Rossoneri bench, considering the rumors regarding the ..."
-    },
-    {
-      "id": "d7ebe5382eca",
-      "title": "Zazzaroni: \"Happy hero of the resistance, I would react differently. Sooner or later he will speak\"",
-      "url": "https://www.milannews.it/news/zazzaroni-allegri-eroe-della-resistenza-io-reagirei-in-maniera-diversa-prima-o-poi-parlera-614086",
-      "source": "milannews.it",
-      "date": "2026-04-15T20:20:07+00:00",
-      "summary": "During the last episode of the Numer1 podcast, the director of Corriere dello Sport Ivan Zazzaroni spoke about Massimiliano Allegri and his strength in maintaining calm despite all the rumors and criticisms made against him on a daily basis ..."
     },
     {
       "id": "0888acde22bb",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-04-13T12:36:40+00:00",
       "summary": "Paolo Di Canio argues that Rafael Leao’s movements are not suited to a centre-forward and..."
-    },
-    {
-      "id": "f6bfea7fb150",
-      "title": "Chivu saw ‘mature’ Inter comeback triumph, aims cheeky Scudetto jab at rivals",
-      "url": "https://football-italia.net/chivu-mature-inter-cheeky-scudetto-jab-rivals/",
-      "source": "football-italia.net",
-      "date": "2026-04-12T21:46:21+00:00",
-      "summary": "Cristian Chivu admits Inter ‘suffered’ to beat Como 4-3 and saw ‘maturity’ from his team..."
     }
   ]
 }
