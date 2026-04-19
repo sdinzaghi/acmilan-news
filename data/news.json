@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-04-19T17:35:16.505305+00:00",
+  "lastUpdated": "2026-04-19T18:48:57.318985+00:00",
   "articles": [
+    {
+      "id": "23b6ca8f8038",
+      "title": "Serie A Liveblog: Juventus vs. Bologna, Verona vs. Milan, Pisa vs. Genoa",
+      "url": "https://football-italia.net/serie-a-liveblog-juventus-bologna-verona-milan/",
+      "source": "football-italia.net",
+      "date": "2026-04-19T18:43:10+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "d9077fd9d822",
+      "title": "Verona: Gift Orban goes crazy and argues with a fan after the match against Milan",
+      "url": "https://www.milannews.it/l-avversario/verona-gift-orban-impazzisce-e-litiga-con-un-tifoso-dopo-la-gara-col-milan-614547",
+      "source": "milannews.it",
+      "date": "2026-04-19T18:36:00+00:00",
+      "summary": "Surreal scene after the Verona-Milan match. Yes, because as reported on video by Gianluca Di Marzio, a fight broke out between a fan and Gift Orban, Hellas striker, upon leaving the Bentegodi stadium."
+    },
+    {
+      "id": "c9939fd1b4fb",
+      "title": "Allegri to Telelombardia: \"Wonderful approach to the match, I asked for a performance with order and patience\"",
+      "url": "https://www.milannews.it/news/allegri-a-telelombardia-approccio-meraviglioso-alla-partita-avevo-chiesto-una-prestazione-con-ordine-e-pazienza-614546",
+      "source": "milannews.it",
+      "date": "2026-04-19T18:24:00+00:00",
+      "summary": "Massimiliano Allegri was thus intercepted on Telelombardia's microphones at the end of Verona-Milan."
+    },
+    {
+      "id": "3f2992524046",
+      "title": "Verona boss Sammarco bemoans ‘serious mistake’ that cost his side in Milan loss",
+      "url": "https://sempremilan.com/verona-sammarco-serious-mistake-milan",
+      "source": "sempremilan.com",
+      "date": "2026-04-19T18:14:03+00:00",
+      "summary": "Hellas Verona head coach Paolo Sammarco was happy with how his side played against AC Milan overall, but admitted they switched off at a key moment. Milan ended up emerging with three points from the Stadio MarcAntonio Bentegodi but they were made to work very hard for the win. The only bit of quali"
+    },
+    {
+      "id": "9e8a34184a79",
+      "title": "Serie A, former Milan player Colombo drags Genoa towards safety: 1-2 against Pisa",
+      "url": "https://www.milannews.it/news/serie-a-l-ex-milan-colombo-trascina-il-genoa-verso-la-salvezza-1-2-sul-pisa-614544",
+      "source": "milannews.it",
+      "date": "2026-04-19T18:12:00+00:00",
+      "summary": "De Rossi's Genoa is getting closer to salvation: it's not yet mathematics, but the success against a willing Pisa brings points that bring them closer to the goal."
+    },
+    {
+      "id": "10c91855f357",
+      "title": "MN - Dad Mbappé: \"My son Kylian to Milan one day? Only God knows, let's see\"",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-papa-mbappe-mio-figlio-kylian-al-milan-un-giorno-solo-dio-lo-sa-vediamo-614540",
+      "source": "milannews.it",
+      "date": "2026-04-19T17:59:46+00:00",
+      "summary": "Mbappé's father, Wilfried, was present at the match between Lille and Nice last night to see his son Ethan."
+    },
+    {
+      "id": "eb8ce33c3cdd",
+      "title": "Huge win to bounce back: Instant reaction to Verona 0-1 AC Milan",
+      "url": "https://sempremilan.com/instant-reaction-verona-0-1-ac-milan-2026",
+      "source": "sempremilan.com",
+      "date": "2026-04-19T17:50:00+00:00",
+      "summary": "Stefano has shared his reaction to AC Milan’s win against Hellas Verona, highlighting just how important it was for the Rossoneri to bounce back.  Milan travelled to Verona with a clear goal: to bounce back after two consecutive defeats with a win. While it was far from pretty, they managed to do so"
+    },
+    {
+      "id": "e8c029f752e3",
+      "title": "Future Modric, Fabrizio Romano: \"Luka wants a guarantee on Milan's competitiveness\"",
+      "url": "https://www.milannews.it/calciomercato-milan/futuro-modric-fabrizio-romano-luka-vuole-garanzia-sulla-competitivita-del-milan-614538",
+      "source": "milannews.it",
+      "date": "2026-04-19T17:48:04+00:00",
+      "summary": "What will happen for Luka Modric's future? Fabrizio Romano talks about it in a video published on his YouTube channel:\n\n\"In the meantime there is an option in his contract and therefore there is no need for negotiations to..."
+    },
+    {
+      "id": "767234928b36",
+      "title": "Maignan case, Allegri: \"Mike was good at ignoring them. Any form of racism must be fought\"",
+      "url": "https://www.milannews.it/news/caso-maignan-allegri-mike-e-stato-bravo-ad-ignorarli-qualunque-forma-di-razzismo-va-combattuta-614523",
+      "source": "milannews.it",
+      "date": "2026-04-19T17:36:04+00:00",
+      "summary": "Speaking at a press conference after the victory at Hellas Verona, Massimiliano Allegri released these words: \n\nWhen you replaced Leao you talked a bit, what did he tell you? What perception did you have at the beginning of..."
+    },
     {
       "id": "3c527cebf233",
       "title": "Fofana lifts lid on mood after Verona win and evolving role: “In the right space”",
@@ -23,11 +95,11 @@
       "url": "https://www.milannews.it/news/gabbia-a-sportmediaset-oggi-erano-fondamentali-i-tre-punti-champions-il-lavoro-non-e-ancora-finito-614537",
       "source": "milannews.it",
       "date": "2026-04-19T17:10:13+00:00",
-      "summary": "Matteo Gabbia commented on the victory in Verona to SportMediaset as follows: \"Today it was essential to win and put the last two defeats that hurt us behind us."
+      "summary": "Matteo Gabbia commented on the victory in Verona to SportMediaset: \"Today it was essential to win and put the last two defeats that hurt us behind us."
     },
     {
       "id": "65e81743176b",
-      "title": "Relegation attack, yet Milan are second. A half miracle that must be exploited",
+      "title": "Relegation attack, yet Milan are second. A half-miracle that must be exploited",
       "url": "https://www.milannews.it/primo-piano/attacco-da-retrocessione-eppure-il-milan-e-secondo-un-mezzo-miracolo-che-va-sfruttato-614528",
       "source": "milannews.it",
       "date": "2026-04-19T17:00:00+00:00",
@@ -122,14 +194,6 @@
       "summary": "Massimiliano Allegri has conceded that AC Milan weren’t at their best against Verona but banked an important win, while he responded again to the Italy speculation. Milan never really hit their full flow in truth and were made to wait until just before the break to open the scoring. Adrien Rabiot wa"
     },
     {
-      "id": "23b6ca8f8038",
-      "title": "Serie A Liveblog: Juventus vs. Bologna, Verona vs. Milan, Pisa vs. Genoa",
-      "url": "https://football-italia.net/serie-a-liveblog-juventus-bologna-verona-milan/",
-      "source": "football-italia.net",
-      "date": "2026-04-19T15:56:10+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
       "id": "e5c35d3ad5c6",
       "title": "LIVE MN - Sammarco: \"We made an obvious mistake on Rabiot's goal\"",
       "url": "https://www.milannews.it/l-avversario/live-mn-sammarco-sul-gol-di-rabiot-abbiamo-commesso-un-errore-evidente-614483",
@@ -155,35 +219,11 @@
     },
     {
       "id": "154ac3983183",
-      "title": "Pulisic, another game without a goal: we are at 15 in a row. Chelsea's negative record is close",
+      "title": "Pulisic, another match without goals: we are at 15 in a row. Chelsea's negative record is close",
       "url": "https://www.milannews.it/news/pulisic-ancora-una-partita-senza-gol-siamo-a-15-consecutive-vicino-il-record-negativo-del-chelsea-614513",
       "source": "milannews.it",
       "date": "2026-04-19T15:48:08+00:00",
       "summary": "From Verona to Verona? No. The last goal scored by Pulisic remains the one scored at San Siro against the Scaligeri at the end of December."
-    },
-    {
-      "id": "d395c199d1db",
-      "title": "LIVE MN - Nelsson: \"We regret having played on par against Milan\"",
-      "url": "https://www.milannews.it/l-avversario/live-mn-nelsson-c-e-rammarico-per-aver-giocato-alla-pari-contro-il-milan-614485",
-      "source": "milannews.it",
-      "date": "2026-04-19T15:41:13+00:00",
-      "summary": "Victor Nelsson, Hellas Verona player, spoke in a press conference after this afternoon's match against Milan.\n\nVerona didn't deserve to lose, yet they lost\n\"Good question."
-    },
-    {
-      "id": "8ed0e435d244",
-      "title": "Verona, Sammarco: \"We work for our people who were splendid today too\"",
-      "url": "https://www.milannews.it/l-avversario/verona-sammarco-lavoriamo-per-la-nostra-gente-che-anche-oggi-e-stata-splendida-614512",
-      "source": "milannews.it",
-      "date": "2026-04-19T15:39:24+00:00",
-      "summary": "Verona coach Paolo Sammarco spoke to DAZN after this afternoon's defeat against Milan."
-    },
-    {
-      "id": "724910ad3658",
-      "title": "Allegri to MTV: \"The important thing was to bring home the result. Returning to the Champions League would be fundamental for us\"",
-      "url": "https://www.milannews.it/news/allegri-a-mtv-l-importante-era-portare-a-casa-il-risultato-tornare-in-champions-sarebbe-fondamentale-per-noi-614511",
-      "source": "milannews.it",
-      "date": "2026-04-19T15:38:52+00:00",
-      "summary": "After the success at Hellas Verona, Massimiliano Allegri told Milan TV: \"Today was one of the most important matches of the season, after two knockouts in a row you are afraid of not reaching the goal..."
     },
     {
       "id": "1026ff104d95",
@@ -200,30 +240,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-19T15:37:30+00:00",
       "summary": "Adrien Rabiot has admitted AC Milan could have played better in their win over Hellas Verona, even if three points are what matters. There is rarely such a thing as an easy three points in Serie A, but Milan could have made things easier for themselves than they did against Verona, who are joint-bot"
-    },
-    {
-      "id": "e5a9bf6d1807",
-      "title": "Do you want Allegri at Milan again next year? Rabiot's response leaves no doubt",
-      "url": "https://www.milannews.it/news/volete-allegri-al-milan-anche-l-anno-prossimo-la-risposta-di-rabiot-non-lascia-dubbi-614508",
-      "source": "milannews.it",
-      "date": "2026-04-19T15:28:54+00:00",
-      "summary": "Are you Allegri's Milan? Do you want it again next year? Adrien Rabiot, speaking to Dazn, responded like this:\n\n\"Yes, it's not even a question. Then I don't know what the coach will do, only he can say."
-    },
-    {
-      "id": "207129860c37",
-      "title": "Allegri to DAZN: \"We are at the end of the season, the result goes beyond the good game. Future? My thoughts are on Milan. We will continue together\"",
-      "url": "https://www.milannews.it/primo-piano/allegri-a-dazn-siamo-a-fine-stagione-il-risultato-va-oltre-il-bel-gioco-futuro-il-mio-pensiero-e-sul-milan-proseguiremo-insieme-614509",
-      "source": "milannews.it",
-      "date": "2026-04-19T15:27:37+00:00",
-      "summary": "Mister Massimiliano Allegri was interviewed by DAZN at the end of Verona-Milan 0-1. The Rossoneri are winning again, the table is smiling a little, and there is more serenity."
-    },
-    {
-      "id": "132f6207f344",
-      "title": "Tomori: \"At this point of the season the important thing is to score points\"",
-      "url": "https://www.milannews.it/news/tomori-a-questo-punto-della-stagione-la-cosa-importante-e-fare-punti-614506",
-      "source": "milannews.it",
-      "date": "2026-04-19T15:24:04+00:00",
-      "summary": "Fikayo Tomori spoke to DAZN at the end of Verona-Milan. The words of the English defender:\n\nIs Rabiot right when he says you could have done more?\n\n“Yes, we know."
     },
     {
       "id": "77fe235fcab3",
@@ -352,22 +368,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-19T10:05:00+00:00",
       "summary": "AC Milan will make the two-hour journey to the Stadio MarcAntonio Bentegodi to face Hellas Verona, hoping for a big three points. One week ago it was all doom and gloom as Milan had just lost 3-0 to Udinese at home, with their Scudetto hopes finally ended and second place surrendered to Napoli. Not "
-    },
-    {
-      "id": "b36a3d576076",
-      "title": "GdS: Predicted XIs for Hellas Verona vs. Milan – changes all over the park",
-      "url": "https://sempremilan.com/gazzetta-predicted-xis-verona-milan-changes",
-      "source": "sempremilan.com",
-      "date": "2026-04-19T09:40:00+00:00",
-      "summary": "AC Milan head coach Massimiliano Allegri has settled on the team that he will field against Hellas Verona this afternoon, it is claimed. Against Udinese last Saturday, Allegri decided it was time to try out a new system. He went with a 4-3-3 to try and unlock the attack, but instead what happened is"
-    },
-    {
-      "id": "36073f68b0ac",
-      "title": "Verona boss Sammarco expects ‘angry’ Milan and recalls Primavera past: “I was lucky”",
-      "url": "https://sempremilan.com/verona-sammarco-angry-milan-primavera-past",
-      "source": "sempremilan.com",
-      "date": "2026-04-19T09:15:00+00:00",
-      "summary": "Hellas Verona coach Paolo Sammarco has recalled his past with AC Milan, claiming the club was ‘different’ when he was there. Milan will be visiting the Stadio MarcAntonio Bentegodi this afternoon, where they will face a Verona side that are level with Pisa at the bottom of the Serie A standings. It "
     },
     {
       "id": "92fcba6f0b78",
