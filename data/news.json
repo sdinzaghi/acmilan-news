@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2026-04-20T05:39:04.489408+00:00",
+  "lastUpdated": "2026-04-20T08:04:24.733819+00:00",
   "articles": [
+    {
+      "id": "d5e4dfdc4004",
+      "title": "Gallery: ‘Champions League, here we are’, ‘Rabiot makes Max smile’ – Today’s front pages in Italy",
+      "url": "https://sempremilan.com/front-pages-italy-verona-0-1-milan",
+      "source": "sempremilan.com",
+      "date": "2026-04-20T08:00:00+00:00",
+      "summary": "AC Milan were not at their best against Hellas Verona, but they did just about enough to win at the Bentegodi on Sunday. Milan travelled to Veneto with a clear aim in mind: to win and reclaim second place in the table, especially after back-to-back defeats. While it was far from pretty, they managed"
+    },
+    {
+      "id": "30757e1da03d",
+      "title": "Moviola CorSport on Hellas Verona-Milan: SAOT canceled out Gabbia's goal. The reason",
+      "url": "https://www.milannews.it/rassegna-stampa/moviola-corsport-su-hellas-verona-milan-il-saot-ha-annullato-il-gol-di-gabbia-il-motivo-614586",
+      "source": "milannews.it",
+      "date": "2026-04-20T07:49:30+00:00",
+      "summary": "Very calm match yesterday at the Bentegodi between Hellas Verona and Milan, so much so that there was no disputed arbitration case."
+    },
+    {
+      "id": "cd0ca81b65be",
+      "title": "Racist boos to Leao and Maignan: the FIGC prosecutor's office and the referee would not have reported particularly serious situations in their dossiers",
+      "url": "https://www.milannews.it/rassegna-stampa/buu-razzisti-a-leao-e-maignan-la-procura-figc-e-l-arbitro-non-avrebbero-segnalato-situazioni-particolarmente-gravi-nei-loro-dossier-614578",
+      "source": "milannews.it",
+      "date": "2026-04-20T07:39:59+00:00",
+      "summary": "Yesterday's match between Hellas Verona and Milan was unfortunately tainted by some racist boos that the fans of the yellow and blue team directed at two Rossoneri players, namely Mike Maignan and Rafael Leao."
+    },
+    {
+      "id": "4a74996cfc7a",
+      "title": "The QS headlines on Milan: \"Rabiot brings a smile back to Max. Diavolo at +8 in fifth place\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-qs-titola-sul-milan-rabiot-riporta-il-sorriso-a-max-diavolo-a-8-sul-quinto-posto-614585",
+      "source": "milannews.it",
+      "date": "2026-04-20T07:29:19+00:00",
+      "summary": "The Quotidiano Sportivo on newsstands today has the following headline this morning on Milan who beat Hellas Verona 1-0 yesterday: \"Rabiot brings a smile back to Max. Diavolo at +8 in fifth place\"."
+    },
+    {
+      "id": "c1b2aef4570f",
+      "title": "Milan, here are Allegri's requests: Max wants four reinforcements \"Rabiot-style\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-ecco-le-richieste-di-allegri-max-vuole-quattro-rinforzi-alla-rabiot-614583",
+      "source": "milannews.it",
+      "date": "2026-04-20T07:19:29+00:00",
+      "summary": "Yesterday after the victory against Hellas Verona, which brought Milan significantly closer to qualifying for the next Champions League, Massimiliano Allegri declared on his future: \"If a call from the national team could make me nervous..."
+    },
+    {
+      "id": "92ccd6d6ca09",
+      "title": "Milan, Pulisic fails again: the American's incredible decline",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-pulisic-stecca-ancora-l-incredibile-involuzione-dell-americano-614576",
+      "source": "milannews.it",
+      "date": "2026-04-20T07:09:23+00:00",
+      "summary": "Not even yesterday's match against the bottom team in the standings helped Christian Pulisic to get unblocked in this cursed 2026: the American striker, still without a goal in the new year, also disappointed at Bentegodi, making mistakes in ..."
+    },
+    {
+      "id": "722aa6619541",
+      "title": "\"Why always me?\". Ordine \"answers\" Leao: \"Because if that is his contribution with Milan, which began to suffer from Verona's return in the second half, then something else is needed\"",
+      "url": "https://www.milannews.it/rassegna-stampa/perche-sempre-io-ordine-risponde-a-leao-perche-se-quello-e-il-suo-contributo-con-il-milan-che-nella-ripresa-comincia-a-soffrire-il-ritorno-del-verona-614581",
+      "source": "milannews.it",
+      "date": "2026-04-20T06:59:16+00:00",
+      "summary": "Franco Ordine spoke like this on the pages of Corriere dello Sport about Rafael Leao who didn't take the change very well yesterday during Hellas Verona-Milan: \"To tell the truth there wouldn't even have been a need to explain, with a few simple ..."
+    },
+    {
+      "id": "fd2e387a8348",
+      "title": "Milan, Allegri reassures AC Milan fans about his future. But he wants an ambitious Devil",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-allegri-rassicura-i-tifosi-milanisti-sul-suo-futuro-ma-vuole-un-diavolo-ambizioso-614577",
+      "source": "milannews.it",
+      "date": "2026-04-20T06:50:29+00:00",
+      "summary": "After weeks in which he never gave a precise indication on his future, Massimiliano Allegri, in the post-match of Hellas Verona-Milan, finally gave some more reassurance on his future which will still be with the Rossoneri..."
+    },
+    {
+      "id": "987236824f04",
+      "title": "Gazzetta: \"Leao without peace. Whistle, boo and then the change. Rafa can't turn\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-leao-senza-pace-fischi-buu-e-poi-il-cambio-rafa-non-riesce-a-svoltare-614575",
+      "source": "milannews.it",
+      "date": "2026-04-20T06:40:43+00:00",
+      "summary": "The Gazzetta dello Sport headline this morning: \"Leao without peace. Boos, boos and then the change."
+    },
+    {
+      "id": "5d6db43c42fd",
+      "title": "Tuttosport on the front page: \"Milan, 2nd place and new storms\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-in-prima-pagina-milan-2-posto-e-nuove-bufere-614573",
+      "source": "milannews.it",
+      "date": "2026-04-20T06:30:34+00:00",
+      "summary": "\"Milan, 2nd place and new storms\": this is the headline on the front page this morning of today's edition of Tuttosport which explains that thanks to yesterday's 1-0 success at Hellas Verona the Devil has taken three important steps ..."
+    },
+    {
+      "id": "554aededdb16",
+      "title": "CorSport headlines on Milan: \"Max, the snout in the Champions League\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-titola-sul-milan-max-il-muso-in-champions-614572",
+      "source": "milannews.it",
+      "date": "2026-04-20T06:20:16+00:00",
+      "summary": "The Corriere dello Sport on newsstands this morning has the headline on Milan who won 1-0 on the Hellas Verona pitch yesterday afternoon: \"Max, the snout in the Champions League\"."
+    },
+    {
+      "id": "d51258e9a039",
+      "title": "The opening of the Gazzetta on Milan and Juventus: \"Champions, here we are\"",
+      "url": "https://www.milannews.it/rassegna-stampa/l-apertura-della-gazzetta-su-milan-e-juventus-champions-eccoci-614571",
+      "source": "milannews.it",
+      "date": "2026-04-20T06:10:26+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page about Milan and Juventus: \"Champions, here we are\"."
+    },
+    {
+      "id": "cb93c990795f",
+      "title": "Milan, another narrow victory: three steps towards the Champions League. But the attack remains a huge problem",
+      "url": "https://www.milannews.it/primo-piano/milan-altra-vittoria-di-corto-muso-tre-passi-verso-la-champions-ma-l-attacco-resta-un-problema-enorme-614570",
+      "source": "milannews.it",
+      "date": "2026-04-20T06:00:46+00:00",
+      "summary": "Victory had to be and victory was: without enchanting and with great effort, Milan returned to success yesterday after two knockouts in a row and conquered the Hellas Verona pitch already destined for Serie B for now ..."
+    },
+    {
+      "id": "99623e9c43ab",
+      "title": "Serie A: calendars compared between those involved in the Champions League race",
+      "url": "https://www.milannews.it/news/serie-a-calendari-a-confronto-tra-chi-e-impegnato-nella-corsa-champions-614566",
+      "source": "milannews.it",
+      "date": "2026-04-20T05:50:00+00:00",
+      "summary": "The victory in Verona yesterday afternoon puts Milan in good stead in the next Champions League. By arithmetic, according to today's standings, 7 points are needed in the next 5 games."
+    },
+    {
+      "id": "1422bc6fd8fb",
+      "title": "Modric, Fabrizio Romano reveals the Croatian's possible future",
+      "url": "https://www.milannews.it/news/modric-fabrizio-romano-svela-il-possibile-futuro-del-croato-614559",
+      "source": "milannews.it",
+      "date": "2026-04-20T05:40:00+00:00",
+      "summary": "What will happen for the future of Luka Modric? Fabrizio Romano talks about it in a video published on his YouTube channel."
+    },
     {
       "id": "2c448ed0d2ba",
       "title": "The arithmetic data: how many points are Milan missing for the Champions League",
@@ -48,118 +168,6 @@
       "source": "milannews.it",
       "date": "2026-04-19T22:36:00+00:00",
       "summary": "(ANSA) - ROME, APRIL 19 - In the most awaited match of the football weekend, Manchester City beats Arsenal 2-1 and completely reopens the Premier League games, moving to -3 behind the Gunners and with a match against Crystal Palac ..."
-    },
-    {
-      "id": "e80eb13bc678",
-      "title": "Villas-Boas on Leao: \"As a talent he is second to none. I hope he is a protagonist at the World Cup\"",
-      "url": "https://www.milannews.it/news/villas-boas-su-leao-come-talento-non-e-secondo-a-nessuno-mi-auguro-sia-protagonista-al-mondiale-614470",
-      "source": "milannews.it",
-      "date": "2026-04-19T22:23:35+00:00",
-      "summary": "André Villas-Boas, president of Porto, spoke thus to the Gazzetta dello Sport about Rafael Leao: \"As a talent, Leao is second to none."
-    },
-    {
-      "id": "a6a0ebf209b3",
-      "title": "Serie D, Milan Futuro defeated 1-0 by Varesina",
-      "url": "https://www.milannews.it/milan-futuro/serie-d-milan-futuro-sconfitto-1-0-dalla-varesina-614507",
-      "source": "milannews.it",
-      "date": "2026-04-19T22:12:00+00:00",
-      "summary": "In addition to Max Allegri's Futuro first team, which won 1-0 at Hellas Verona, Milan Futuro also took to the field this afternoon and were defeated at the Chinetti stadium in Solbiate Arno against Varesina in ..."
-    },
-    {
-      "id": "b1dd45dfe186",
-      "title": "Modric-Milan: here are the conditions to stay. Cheerful totems. Attack to be redone",
-      "url": "https://www.milannews.it/editoriale/modric-milan-ecco-le-condizioni-per-rimanere-allegri-totem-attacco-da-rifare-614541",
-      "source": "milannews.it",
-      "date": "2026-04-19T22:00:01+00:00",
-      "summary": "Luka Modric and Milan, a marriage that should continue for next year but under certain conditions."
-    },
-    {
-      "id": "ae79e963fe21",
-      "title": "Milan, Hellas Verona and Chievo are the only teams against which the Rossoneri have won more than 10 matches in a row in Serie A",
-      "url": "https://www.milannews.it/news/milan-hellas-verona-e-chievo-sono-le-uniche-squadre-contro-cui-i-rossoneri-hanno-vinto-piu-di-10-match-di-fila-in-serie-a-614533",
-      "source": "milannews.it",
-      "date": "2026-04-19T21:47:27+00:00",
-      "summary": "Milan's official website reports this statistic after Hellas Verona-Milan, a match won 1-0 by the Rossoneri thanks to a goal by Adrien Rabiot assisted by Rafael Leao: \"Against no one, Milan can boast such an open streak of success..."
-    },
-    {
-      "id": "a6247df649a4",
-      "title": "Braida: \"Loved Milan with all my heart. Istanbul the greatest bitterness\"",
-      "url": "https://www.milannews.it/news/braida-amato-il-milan-con-tutto-me-stesso-istanbul-l-amarezza-maggiore-614447",
-      "source": "milannews.it",
-      "date": "2026-04-19T21:36:27+00:00",
-      "summary": "In two days, on April 21st, Ariedo Braida will celebrate 80 years."
-    },
-    {
-      "id": "8c5b3bd6b4ec",
-      "title": "Ravezzani on Allegri's Milan: \"The Champions League is a great achievement\"",
-      "url": "https://www.milannews.it/news/ravezzani-sul-milan-di-allegri-la-champions-e-un-gran-traguardo-614526",
-      "source": "milannews.it",
-      "date": "2026-04-19T21:24:43+00:00",
-      "summary": "Fabio Ravezzani, director of Telelombardia, in a post on"
-    },
-    {
-      "id": "4622f907b933",
-      "title": "Malagò tomorrow in the Serie A and B League. Then official meetings with other members",
-      "url": "https://www.milannews.it/news/malago-domani-in-lega-di-serie-a-e-b-poi-incontri-ufficiali-con-altre-componenti-614460",
-      "source": "milannews.it",
-      "date": "2026-04-19T21:12:00+00:00",
-      "summary": "(ANSA) - MILAN, APRIL 19 - Giovanni Malagò is ready to officially meet the federal components towards the elections for president of the FIGC on June 22nd."
-    },
-    {
-      "id": "de54f882ee06",
-      "title": "Serie A, the updated ranking: Juve at -3 from Milan and Napoli",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-juve-a-3-da-milan-e-napoli-614562",
-      "source": "milannews.it",
-      "date": "2026-04-19T21:00:00+00:00",
-      "summary": "Serie A, this is the updated ranking after today's results:\n\nInter 78\n\nMilan 66\n\nNaples 66\n\nJuventus 63\n\nComo 58\n\nRome 58\n\nAtalanta 54\n\nBologna 48\n\nLazio 47\n\nSassuolo 45\n\nUdinese 43\n\nTurin 40\n\nGenoa 39\n\nParma 39\n\r ..."
-    },
-    {
-      "id": "1859e1f08c16",
-      "title": "Serie A, Juve wins 2-0 over Bologna and secures fourth place",
-      "url": "https://www.milannews.it/news/serie-a-la-juve-vince-2-0-sul-bologna-e-blinda-il-quarto-posto-614563",
-      "source": "milannews.it",
-      "date": "2026-04-19T20:48:00+00:00",
-      "summary": "Three important points for Juventus with a view to the Champions League. The Bianconeri secure fourth place, moving up to +5 on Como by beating Bologna with a goal in each half."
-    },
-    {
-      "id": "24d1a76af992",
-      "title": "Allegri after the 1-0 in Verona: \"It was one of the most important matches of the season\"",
-      "url": "https://www.milannews.it/news/allegri-dopo-l-1-0-di-verona-era-una-delle-partite-piu-importanti-della-stagione-614516",
-      "source": "milannews.it",
-      "date": "2026-04-19T20:36:00+00:00",
-      "summary": "After the success at Hellas Verona, Massimiliano Allegri told Milan TV: \"Today was one of the most important matches of the season, after two knockouts in a row you are afraid of not reaching the goal..."
-    },
-    {
-      "id": "2a6c8029cc03",
-      "title": "Rabiot-goal in Verona: the Frenchman scored more than 5 goals in a single season of the Top-5 European leagues for the third time in his career",
-      "url": "https://www.milannews.it/news/rabiot-gol-a-verona-il-francese-ha-realizzato-piu-di-5-gol-in-una-singola-stagione-dei-top-5-campionati-europei-per-la-terza-volta-in-carriera-614530",
-      "source": "milannews.it",
-      "date": "2026-04-19T20:24:53+00:00",
-      "summary": "Milan's official website reports this statistic after Hellas Verona-Milan, a match won 1-0 by the Rossoneri thanks to a goal by Adrien Rabiot assisted by Rafael Leao: \n\n\"Adrien Rabiot (6) has scored more than 5 goals in a single ..."
-    },
-    {
-      "id": "7553d90accb7",
-      "title": "Victory had to be and victory was, but what an effort: the numbers of Hellas Verona-Milan",
-      "url": "https://www.milannews.it/news/vittoria-doveva-essere-e-vittoria-e-stata-ma-che-fatica-i-numeri-di-hellas-verona-milan-614510",
-      "source": "milannews.it",
-      "date": "2026-04-19T20:12:31+00:00",
-      "summary": "After two knockouts in a row and with Como's defeat and Roma's draw, Milan had only one objective at the Bentegodi against Hellas Verona, that is, victory."
-    },
-    {
-      "id": "b10427e6e5eb",
-      "title": "Allegri is satisfied: \"This victory brings us closer to the Champions League even if the math doesn't reward us yet\"",
-      "url": "https://www.milannews.it/news/allegri-e-soddisfatto-questa-vittoria-ci-avvicina-alla-champions-anche-se-la-matematica-non-ci-premia-ancora-614522",
-      "source": "milannews.it",
-      "date": "2026-04-19T20:00:35+00:00",
-      "summary": "Speaking at a press conference after the victory at Hellas Verona, Massimiliano Allegri spoke about his future like this: \n\nAbout his future\n\"In grammar when there is a period there is a period, then yes..."
-    },
-    {
-      "id": "1ae5f50db9dd",
-      "title": "Cage, how unfortunate! Second goal disallowed of the season after Lecce",
-      "url": "https://www.milannews.it/news/gabbia-che-sfortuna-secondo-gol-annullato-in-stagione-dopo-lecce-614497",
-      "source": "milannews.it",
-      "date": "2026-04-19T19:48:59+00:00",
-      "summary": "Half an hour into the second half, Milan had found the second goal with Matteo Gabbia developing free kicks."
     },
     {
       "id": "59a8c6d7e591",
@@ -368,14 +376,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-19T10:55:00+00:00",
       "summary": "There could soon be big news on the Robert Lewandowski front, with his agent due in Italy to meet AC Milan and Juventus. La Gazzetta dello Sport (seen below) report that the ‘race for Lewandowski’ precedes next Sunday’s Milan-Juventus match at San Siro. Before the Rossoneri and Bianconeri face off o"
-    },
-    {
-      "id": "4e8ed2007e61",
-      "title": "CM: Allegri ‘leads the way’ as Milan plan squad reshaping – who should stay and who can go",
-      "url": "https://sempremilan.com/milan-allegri-squad-reshaping-stay-go",
-      "source": "sempremilan.com",
-      "date": "2026-04-19T10:30:00+00:00",
-      "summary": "With just six games to go in the season and a top four spot to secure, the AC Milan management are busy planning for the future. As Calciomercato.com recall, Massimiliano Allegri spoke at a press conference on the eve of the match and focused on three key themes: restoring harmony, earning a place i"
     },
     {
       "id": "92fcba6f0b78",
