@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-04-20T19:07:38.395597+00:00",
+  "lastUpdated": "2026-04-20T20:43:12.458572+00:00",
   "articles": [
+    {
+      "id": "718b8e4e87b0",
+      "title": "MN - Serafini on the attacker: \"Only two names: Vlahovic or Osimhen. Lewandowski? I'll explain how I see it\"",
+      "url": "https://www.milannews.it/news/mn-serafini-sull-attaccante-solo-due-nomi-vlahovic-o-osimhen-lewandowski-vi-spiego-come-la-vedo-614621",
+      "source": "milannews.it",
+      "date": "2026-04-20T20:30:00+00:00",
+      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the centre-forward."
+    },
+    {
+      "id": "820e09211c70",
+      "title": "Sabatini confident: \"Substandard match made up for with the result. Rabiot best on the pitch\"",
+      "url": "https://www.milannews.it/news/sabatini-sicuro-partita-sottotono-rimediata-col-risultato-rabiot-migliore-in-campo-614642",
+      "source": "milannews.it",
+      "date": "2026-04-20T20:20:40+00:00",
+      "summary": "On his YouTube channel, Sandro Sabatini commented post-match on Milan's victory over Verona, a fundamental victory for the Champions League race that came after a less than brilliant performance."
+    },
+    {
+      "id": "c7801ce2ae9e",
+      "title": "Pellegatti smiles: \"Mission accomplished! Pretty bad match but now the result counts\"",
+      "url": "https://www.milannews.it/news/pellegatti-sorride-missione-compiuta-partita-piuttosto-brutta-ma-ora-conta-il-risultato-614641",
+      "source": "milannews.it",
+      "date": "2026-04-20T20:10:13+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti commented post-match on Verona's fundamental victory which came despite a less than positive performance."
+    },
+    {
+      "id": "6d62efdc2693",
+      "title": "Ricci traces the path: \"All together towards our goal\"",
+      "url": "https://www.milannews.it/news/ricci-traccia-la-strada-tutti-insieme-verso-il-nostro-obiettivo-614554",
+      "source": "milannews.it",
+      "date": "2026-04-20T20:00:00+00:00",
+      "summary": "Samuele Ricci wrote this on his Instagram profile after the 1-0 victory on the Verona pitch. This is the brief comment of the Italian midfielder."
+    },
+    {
+      "id": "827b347ac359",
+      "title": "Burglary in Zaniolo's house: \"Cowards, just because I wasn't present\"",
+      "url": "https://www.milannews.it/news/furto-in-casa-di-zaniolo-codardi-solo-perche-non-ero-presente-614644",
+      "source": "milannews.it",
+      "date": "2026-04-20T19:51:54+00:00",
+      "summary": "(ANSA) - UDINE, APRIL 20 - Harsh message on social media from Udinese footballer Nicolò Zaniolo, who reported a nocturnal intrusion into his home."
+    },
+    {
+      "id": "ac8924e3eb52",
+      "title": "Offensive department increasingly in difficulty: fasting days for each attacker",
+      "url": "https://www.milannews.it/news/reparto-offensivo-sempre-piu-in-difficolta-i-giorni-di-digiuno-di-ciascun-attaccante-614639",
+      "source": "milannews.it",
+      "date": "2026-04-20T19:50:02+00:00",
+      "summary": "Despite Milan's fundamental 1-0 victory at Verona, the Rossoneri attackers' starvation continues as the winning goal was scored by Adrien Rabiot, who has reached six goals this season."
+    },
+    {
+      "id": "521e9d1171b1",
+      "title": "Gullit advises Italy: \"The DNA of good defenders must return, tiki-taka is not for everyone\"",
+      "url": "https://www.milannews.it/news/gullit-consiglia-l-italia-deve-ritornare-il-dna-dei-buoni-difensori-il-tiki-taka-non-e-per-tutti-614638",
+      "source": "milannews.it",
+      "date": "2026-04-20T19:40:50+00:00",
+      "summary": "On Sky Sport Ruud Gullit commented on Italy's failure to qualify for the World Cup, expressing his opinion on what Italian football should do at the moment."
+    },
+    {
+      "id": "d605a81f6738",
+      "title": "Kalulu ready to return to San Siro: \"I'm happy to be back. It's always special to play against Milan\"",
+      "url": "https://www.milannews.it/gli-ex/kalulu-pronto-al-ritorno-a-san-siro-sono-contento-di-tornare-e-sempre-particolare-giocare-contro-il-milan-614637",
+      "source": "milannews.it",
+      "date": "2026-04-20T19:30:54+00:00",
+      "summary": "On Sunday evening San Siro will dress as on special occasions, also because Milan-Juventus will be staged, a match valid for the 34th matchday of Serie A Enilive."
+    },
+    {
+      "id": "03613affe6bf",
+      "title": "Lukaku meets Conte and Manna in Naples, but returns to Belgium for treatment",
+      "url": "https://www.milannews.it/news/lukaku-a-napoli-incontra-conte-e-manna-ma-torna-in-belgio-per-curarsi-614625",
+      "source": "milannews.it",
+      "date": "2026-04-20T19:20:43+00:00",
+      "summary": "(ANSA) - NAPLES, APRIL 20 - A meeting at Castel Volturno between Lukaku, the coach Conte and the Italian sporting director Giovanna Manna which seems to have eliminated the tension between the Belgian striker and the club managers."
+    },
+    {
+      "id": "e33996b38a7f",
+      "title": "MN - Serafini underlines: \"3-5-2 forced choice given the squad. Targeted choices are needed\"",
+      "url": "https://www.milannews.it/news/mn-serafini-sottolinea-3-5-2-scelta-obbligata-vista-la-rosa-servono-scelte-mirate-614620",
+      "source": "milannews.it",
+      "date": "2026-04-20T19:10:00+00:00",
+      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the centre-forward."
+    },
     {
       "id": "1edb046945ea",
       "title": "Ronaldinho: \"It was a wonderful period at Milan, we were a group of champions\"",
@@ -39,7 +119,7 @@
       "url": "https://www.milannews.it/news/mn-serafini-marzo-e-aprile-mesi-decisivi-a-detta-di-allegri-perche-siamo-crollati-proprio-li-614619",
       "source": "milannews.it",
       "date": "2026-04-20T18:30:00+00:00",
-      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the center forward."
+      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the centre-forward."
     },
     {
       "id": "95f5eb30646d",
@@ -106,60 +186,12 @@
       "summary": "Mario Gila’s agent has seemingly denied any notion that there is an agreement in place with AC Milan, or that talks are advanced. Gila is set to be among the most talked-about defenders in the upcoming summer transfer window. His contract expires in 2027 and there seems to be no chance of a renewal "
     },
     {
-      "id": "aa04249df02d",
-      "title": "Bucchioni disappointed by Leao: \"The central striker experiment didn't work\"",
-      "url": "https://www.milannews.it/news/bucchioni-deluso-da-leao-l-esperimento-punta-centrale-non-ha-funzionato-614594",
-      "source": "milannews.it",
-      "date": "2026-04-20T17:20:20+00:00",
-      "summary": "During the usual appointment with his editorial for TMW, Enzo Bucchioni spoke about Milan, focusing in particular on the future of Massimiliano Allegri ​​​​​​​(and not only), who yesterday between the mixed zone and the conference was ..."
-    },
-    {
-      "id": "335720bb5ec5",
-      "title": "MN - Serafini is with Allegri: \"I absolutely confirm Allegri, even if the aesthetics...\"",
-      "url": "https://www.milannews.it/news/mn-serafini-sta-con-allegri-confermo-assolutamente-allegri-anche-se-l-estetica-614618",
-      "source": "milannews.it",
-      "date": "2026-04-20T17:10:00+00:00",
-      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the center forward."
-    },
-    {
-      "id": "7cf9399862bf",
-      "title": "MN - Bartesaghi talks about Allegri: \"He was fundamental, because he always gave me confidence\"",
-      "url": "https://www.milannews.it/news/mn-bartesaghi-parla-di-allegri-e-stato-fondamentale-perche-mi-ha-sempre-dato-fiducia-614632",
-      "source": "milannews.it",
-      "date": "2026-04-20T17:00:07+00:00",
-      "summary": "AC Milan full-back Davide Bartesaghi spoke to MilanNews.it on the sidelines of the presentation of the Mcl-Ussi-Entel \"Inside the Sport 2026\" awards in Coverciano."
-    },
-    {
       "id": "5e99f4e3b61f",
       "title": "Bartesaghi discusses ‘fundamental’ Allegri, looking up to Theo and season finale",
       "url": "https://sempremilan.com/bartesaghi-fundamental-allegri-theo-season-finale",
       "source": "sempremilan.com",
       "date": "2026-04-20T17:00:00+00:00",
       "summary": "AC Milan defender Davide Bartesaghi has named Theo Hernandez among the full-backs he looks up to, and praised Massimiliano Allegri. It has been a whirlwind season for Bartesaghi, who expected to be the back-up to Theo before he was sold to Al-Hilal, and then became the deputy to new signing Pervis E"
-    },
-    {
-      "id": "5c0bad526118",
-      "title": "Mauro on Modric: \"He's fantastic, but he can't make you make the leap in quality\"",
-      "url": "https://www.milannews.it/news/mauro-su-modric-e-fantastico-ma-non-ti-puo-far-fare-il-salto-di-qualita-614617",
-      "source": "milannews.it",
-      "date": "2026-04-20T16:50:43+00:00",
-      "summary": "Massimo Mauro, a former player, speaking to Pressing, declared on Milan: \"Reaching the Champions League will raise the level of the whole of Milan and the same goes for Juventus too."
-    },
-    {
-      "id": "4213db152e06",
-      "title": "Bergomi: \"3-5-2... But do we want to grow? I understand our tactics, but let's put the players in the best conditions\"",
-      "url": "https://www.milannews.it/news/bergomi-3-5-2-ma-vogliamo-crescere-capisco-il-nostro-tatticismo-ma-mettiamo-i-calciatori-nelle-condizioni-migliori-614627",
-      "source": "milannews.it",
-      "date": "2026-04-20T16:40:24+00:00",
-      "summary": "Milan win again, but aren't very convincing. The performances of the Rossoneri center forwards continue to be discussed, as they are in extreme difficulty in 2026."
-    },
-    {
-      "id": "ee150ef32450",
-      "title": "Cheerful CT? Malagò: \"I read 6-7 names but I still don't know if I will apply\"",
-      "url": "https://www.milannews.it/news/allegri-ct-malago-leggo-6-7-nomi-ma-non-so-ancora-se-mi-candidero-614634",
-      "source": "milannews.it",
-      "date": "2026-04-20T16:30:53+00:00",
-      "summary": "After meeting the main representatives of the 20 Serie A teams at the Lega headquarters in via Rossellini, the main candidate for the presidency of the FIGC Giovanni Malagò spoke at a press conference to answer the questions ..."
     },
     {
       "id": "da2c42ce4bc2",
@@ -170,44 +202,12 @@
       "summary": "Massimiliano Allegri has all of his forwards fit and available, yet none of them seem to be able to get firing in the season finale. As La Gazzetta dello Sport write, the last goal scored by a Milan forward was on March 1 in the win against Cremonese, with Rafael Leao tapping in from Christopher […]"
     },
     {
-      "id": "a84db9f0b0a0",
-      "title": "Bucchioni on Milan's season: \"The analysis leads to an absolute objective: we need a great center forward\"",
-      "url": "https://www.milannews.it/news/bucchioni-sulla-stagione-del-milan-l-analisi-porta-a-un-obiettivo-assoluto-serve-un-grande-centravanti-614593",
-      "source": "milannews.it",
-      "date": "2026-04-20T16:20:09+00:00",
-      "summary": "During the usual appointment with his editorial for TMW, Enzo Bucchioni spoke about Milan, focusing in particular on the future of Massimiliano Allegri (and not only), who yesterday, between the mixed zone and the press conference, launched some ..."
-    },
-    {
-      "id": "a3ca725808e4",
-      "title": "MN - Serafini has no doubts: \"As long as Leao goes I'll keep him close, so many indolent people have moved to Milan\"",
-      "url": "https://www.milannews.it/news/mn-serafini-non-ha-dubbi-finche-va-leao-me-lo-tengo-stretto-tanti-indolenti-passati-al-milan-614616",
-      "source": "milannews.it",
-      "date": "2026-04-20T16:10:00+00:00",
-      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the center forward."
-    },
-    {
-      "id": "f9661d14d832",
-      "title": "It's not at the top but it still has an impact: Leao's assist to Rabiot in the most important moment",
-      "url": "https://www.milannews.it/primo-piano/non-e-al-top-ma-incide-lo-stesso-l-assist-di-leao-a-rabiot-nel-momento-piu-importante-614557",
-      "source": "milannews.it",
-      "date": "2026-04-20T16:00:00+00:00",
-      "summary": "Leao, always Leao. The hottest topic this early spring."
-    },
-    {
       "id": "b531a4621589",
       "title": "Agent of Dinamo Zagreb defender reveals Milan interest and asking price",
       "url": "https://sempremilan.com/agent-dinamo-valincic-milan-interest-price",
       "source": "sempremilan.com",
       "date": "2026-04-20T16:00:00+00:00",
       "summary": "The agent of Moris Valincic has claimed that AC Milan are interesting in signing the Dinamo Zagreb defender this summer. Valincic signed for Dinamo last summer from NK Istra, in the same window that Ismael Bennacer made the move from Milan to Croatia. He has played 28 times this season with three as"
-    },
-    {
-      "id": "a2f634e5a198",
-      "title": "MN - Bartesaghi sounds the charge: \"We are focused on these missing matches. We want to do the best we can\"",
-      "url": "https://www.milannews.it/news/mn-bartesaghi-suona-la-carica-siamo-concentrati-su-queste-partite-che-mancano-vogliamo-fare-il-meglio-possibile-614631",
-      "source": "milannews.it",
-      "date": "2026-04-20T15:50:36+00:00",
-      "summary": "AC Milan full-back Davide Bartesaghi spoke to MilanNews.it on the sidelines of the presentation of the Mcl-Ussi-Entel \"Inside the Sport 2026\" awards in Coverciano."
     },
     {
       "id": "9f0ce0d7d683",
