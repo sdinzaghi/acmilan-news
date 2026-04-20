@@ -1,13 +1,61 @@
 {
-  "lastUpdated": "2026-04-20T20:43:12.458572+00:00",
+  "lastUpdated": "2026-04-20T21:44:28.801049+00:00",
   "articles": [
+    {
+      "id": "b68df954a1c0",
+      "title": "MN - Serafini explains: \"The ownership thinks in a certain way. The administrative part must not interfere in the sporting part\"",
+      "url": "https://www.milannews.it/news/mn-serafini-spiega-la-proprieta-ragiona-in-un-certo-modo-la-parte-amministrativa-non-deve-intromettersi-in-quella-sportiva-614622",
+      "source": "milannews.it",
+      "date": "2026-04-20T21:30:00+00:00",
+      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the center forward."
+    },
+    {
+      "id": "f426a92ad5be",
+      "title": "Ronaldinho on arriving at Milan: \"We were the Galacticos of Italy, a dream I had as a child\"",
+      "url": "https://www.milannews.it/news/ronaldinho-sull-arrivo-al-milan-eravamo-i-galacticos-d-italia-un-sogno-che-avevo-da-bambino-614649",
+      "source": "milannews.it",
+      "date": "2026-04-20T21:20:33+00:00",
+      "summary": "Ronaldinho, in his Netflix TV series \"Ronaldinho, the inimitable\" commented on his arrival in AC Milan in the summer of 2008."
+    },
+    {
+      "id": "605ea85fe2bd",
+      "title": "Pellegatti analyses: “Lack of effectiveness in the last pass, Maignan almost never worried”",
+      "url": "https://www.milannews.it/news/pellegatti-analizza-mancata-efficacia-nell-ultimo-passaggio-maignan-quasi-mai-impensierito-614648",
+      "source": "milannews.it",
+      "date": "2026-04-20T21:10:16+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti commented post-match on Verona's fundamental victory which came despite a less than positive performance."
+    },
+    {
+      "id": "c4858e323712",
+      "title": "Borghi analyzes Milan: \"The first part of the season was done well, after Lazio it got bogged down\"",
+      "url": "https://www.milannews.it/news/borghi-analizza-il-milan-prima-parte-di-stagione-fatta-bene-dopo-la-lazio-si-e-impantanato-614646",
+      "source": "milannews.it",
+      "date": "2026-04-20T21:00:23+00:00",
+      "summary": "In his YouTube channel, Stefano Borghi commented on the day in Serie A and in doing so he spoke about the Rossoneri's 1-0 victory on the Verona pitch. These are his words:\n\n\"Milan had problems that came to a head."
+    },
+    {
+      "id": "1ae481f989d5",
+      "title": "Serie A, matchday 33 ends with Lecce-Fiorentina 1-1: the updated standings",
+      "url": "https://www.milannews.it/news/serie-a-termina-la-33a-giornata-con-lecce-fiorentina-1-1-la-classifica-aggiornata-614647",
+      "source": "milannews.it",
+      "date": "2026-04-20T20:50:12+00:00",
+      "summary": "The salvation match between Lecce and Fiorentina ends 1-1, with the Salento team remaining 18th in the standings at 28 points, tied with fourth-last Cremonese."
+    },
+    {
+      "id": "012795040bda",
+      "title": "Caressa disappointed: \"I was very bored, Milan took a step back\"",
+      "url": "https://www.milannews.it/news/caressa-deluso-mi-sono-molto-annoiato-passo-indietro-del-milan-614645",
+      "source": "milannews.it",
+      "date": "2026-04-20T20:40:12+00:00",
+      "summary": "In his YouTube channel, Fabio Caressa commented on the day in Serie A and in doing so he also spoke about Massimiliano Allegri's Milan and the victory achieved at the Bentegodi against Verona."
+    },
     {
       "id": "718b8e4e87b0",
       "title": "MN - Serafini on the attacker: \"Only two names: Vlahovic or Osimhen. Lewandowski? I'll explain how I see it\"",
       "url": "https://www.milannews.it/news/mn-serafini-sull-attaccante-solo-due-nomi-vlahovic-o-osimhen-lewandowski-vi-spiego-come-la-vedo-614621",
       "source": "milannews.it",
       "date": "2026-04-20T20:30:00+00:00",
-      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the centre-forward."
+      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the center forward."
     },
     {
       "id": "820e09211c70",
@@ -35,7 +83,7 @@
     },
     {
       "id": "827b347ac359",
-      "title": "Burglary in Zaniolo's house: \"Cowards, just because I wasn't present\"",
+      "title": "Burglary in Zaniolo's house: \"Cowards, just because I wasn't there\"",
       "url": "https://www.milannews.it/news/furto-in-casa-di-zaniolo-codardi-solo-perche-non-ero-presente-614644",
       "source": "milannews.it",
       "date": "2026-04-20T19:51:54+00:00",
@@ -71,7 +119,7 @@
       "url": "https://www.milannews.it/news/lukaku-a-napoli-incontra-conte-e-manna-ma-torna-in-belgio-per-curarsi-614625",
       "source": "milannews.it",
       "date": "2026-04-20T19:20:43+00:00",
-      "summary": "(ANSA) - NAPLES, APRIL 20 - A meeting at Castel Volturno between Lukaku, the coach Conte and the Italian sporting director Giovanna Manna which seems to have eliminated the tension between the Belgian striker and the club managers."
+      "summary": "(ANSA) - NAPLES, APRIL 20 - A meeting in Castel Volturno between Lukaku, the coach Conte and the Italian sporting director Giovanna Manna which seems to have eliminated the tension between the Belgian striker and the club managers."
     },
     {
       "id": "e33996b38a7f",
@@ -79,7 +127,7 @@
       "url": "https://www.milannews.it/news/mn-serafini-sottolinea-3-5-2-scelta-obbligata-vista-la-rosa-servono-scelte-mirate-614620",
       "source": "milannews.it",
       "date": "2026-04-20T19:10:00+00:00",
-      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the centre-forward."
+      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the center forward."
     },
     {
       "id": "1edb046945ea",
@@ -119,31 +167,7 @@
       "url": "https://www.milannews.it/news/mn-serafini-marzo-e-aprile-mesi-decisivi-a-detta-di-allegri-perche-siamo-crollati-proprio-li-614619",
       "source": "milannews.it",
       "date": "2026-04-20T18:30:00+00:00",
-      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the centre-forward."
-    },
-    {
-      "id": "95f5eb30646d",
-      "title": "Marchegiani: \"It seems like blasphemy, but for me Milan's problem is the midfield\"",
-      "url": "https://www.milannews.it/news/marchegiani-sembra-una-bestemmia-ma-per-me-il-problema-del-milan-e-il-centrocampo-614628",
-      "source": "milannews.it",
-      "date": "2026-04-20T18:20:01+00:00",
-      "summary": "The extreme difficulty of Milan's attackers this year is there for all to see: the last goal scored by a Rossoneri center forward was that of Leao, which dates back to March 1st against Cremonese."
-    },
-    {
-      "id": "b2ed8f017002",
-      "title": "MN - Who inspires Bartesaghi? Three names mentioned by the Rossoneri: \"Theo, Spinazzola and Palestra\"",
-      "url": "https://www.milannews.it/news/mn-a-chi-si-ispira-bartesaghi-tre-i-nomi-fatti-dal-rossonero-theo-spinazzola-e-palestra-614633",
-      "source": "milannews.it",
-      "date": "2026-04-20T18:10:56+00:00",
-      "summary": "AC Milan full-back Davide Bartesaghi spoke to MilanNews.it on the sidelines of the presentation of the Mcl-Ussi-Entel \"Inside the Sport 2026\" awards in Coverciano."
-    },
-    {
-      "id": "95b39523fc92",
-      "title": "Happy the certainty from which to start again, but this time listen to it. The Champions League is the key to making a true Milan transfer market",
-      "url": "https://www.milannews.it/primo-piano/allegri-la-certezza-da-cui-ripartire-ma-questa-volta-ascoltatelo-la-champions-la-chiave-per-fare-un-mercato-da-vero-milan-614636",
-      "source": "milannews.it",
-      "date": "2026-04-20T18:00:00+00:00",
-      "summary": "Allegri is the right confirmation from which to start again stronger. Yes, because if Milan have (almost) reached their Champions League goal they owe it above all to Massimiliano Allegri."
+      "summary": "Many themes have emerged in view of the next season and the summer transfer market which is ever closer: from the situation of Leao and Massimiliano Allegri up to the question of the center forward."
     },
     {
       "id": "e5299b199081",
@@ -152,30 +176,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-20T18:00:00+00:00",
       "summary": "AC Milan have seemingly set their asking price for Rafael Leao ahead of the summer transfer window, at least according to Matteo Moretto. Leao’s career at Milan to this point has been a strange one, alternating seasons of stardom like his Serie A MVP in the 2021-22 title-winning campaign with much m"
-    },
-    {
-      "id": "9c8c45a5b885",
-      "title": "Serie A, against nobody Milan boasts such an open streak of successes with a clean sheet attached than against Hellas Verona",
-      "url": "https://www.milannews.it/news/serie-a-contro-nessuno-il-milan-vanta-una-striscia-cosi-aperta-di-successi-con-annesso-clean-sheet-che-contro-l-hellas-verona-614531",
-      "source": "milannews.it",
-      "date": "2026-04-20T17:50:41+00:00",
-      "summary": "Milan's official website reports this statistic after Hellas Verona-Milan, a match won 1-0 by the Rossoneri thanks to a goal by Adrien Rabiot assisted by Rafael Leao: \"Against no one, Milan can boast such an open streak of success..."
-    },
-    {
-      "id": "50c6d222418a",
-      "title": "Braida: \"I will always be grateful to Galliani and President Berlusconi for their trust\"",
-      "url": "https://www.milannews.it/news/braida-saro-sempre-grato-a-galliani-e-al-presidente-berlusconi-per-la-fiducia-614454",
-      "source": "milannews.it",
-      "date": "2026-04-20T17:40:00+00:00",
-      "summary": "In two days, on April 21st, Ariedo Braida will celebrate 80 years."
-    },
-    {
-      "id": "ca1c7596504a",
-      "title": "Sabatini warns: \"If Allegri left, Maignan, Modric and Rabiot would also leave..\"",
-      "url": "https://www.milannews.it/news/sabatini-avvisa-se-allegri-andasse-via-lascerebbero-anche-maignan-modric-e-rabiot-614635",
-      "source": "milannews.it",
-      "date": "2026-04-20T17:30:00+00:00",
-      "summary": "Sandro Sabatini spoke like this in the talk \"Numeri1Podcast\"."
     },
     {
       "id": "74ef51fc6784",
