@@ -1,6 +1,150 @@
 {
-  "lastUpdated": "2026-04-21T11:05:24.302476+00:00",
+  "lastUpdated": "2026-04-21T13:23:07.828211+00:00",
   "articles": [
+    {
+      "id": "8c5c79737af8",
+      "title": "Di Stefano: \"To understand Allegri's future there are two bases: an existing contract and his desire to stay at Milan\"",
+      "url": "https://www.milannews.it/news/di-stefano-per-capire-il-futuro-di-allegri-ci-sono-due-basi-un-contratto-in-essere-e-la-sua-volonta-di-restare-al-milan-614701",
+      "source": "milannews.it",
+      "date": "2026-04-21T13:11:13+00:00",
+      "summary": "Peppe Di Stefano, journalist, expressed himself to SkySport on Massimiliano Allegri's future: \"I believe that the game is still open. Starting from two bases: an existing contract and Allegri's desire to stay."
+    },
+    {
+      "id": "1da9c576c0d2",
+      "title": "Serafini is critical: \"In the second round Milan had a relegation attack\"",
+      "url": "https://www.milannews.it/news/serafini-e-critico-nel-girone-di-ritorno-il-milan-ha-avuto-un-attacco-da-retrocessione-614734",
+      "source": "milannews.it",
+      "date": "2026-04-21T13:00:56+00:00",
+      "summary": "Present in Sportitalia's studies, Luca Serafini commented on the difficulties of Milan's attack: \"Milan, Napoli and Juventus have rarely played well in this championship, but they have three coaches who have done this ..."
+    },
+    {
+      "id": "b88a3debde59",
+      "title": "GdS: Ups, downs, doubts and concerns – why all parties are considering a Leao sale",
+      "url": "https://sempremilan.com/why-all-parties-considering-milan-leao-sale",
+      "source": "sempremilan.com",
+      "date": "2026-04-21T13:00:00+00:00",
+      "summary": "Rafael Leao is the talk of the town once again when it comes to AC Milan, and not for his decisive assist against Hellas Verona. La Gazzetta dello Sport report that Leao’s afternoon in Verona epitomised his rollercoaster season. At the Bentegodi, he produced the game’s only bit of quality: the perfe"
+    },
+    {
+      "id": "274a1b8dc58a",
+      "title": "Bonucci: \"Allegri is very close to the Real Madrid style: I would see him clearly, he is similar to Ancelotti\"",
+      "url": "https://www.milannews.it/news/bonucci-allegri-molto-vicino-allo-stile-real-madrid-lo-vedrei-bene-e-simile-ad-ancelotti-614728",
+      "source": "milannews.it",
+      "date": "2026-04-21T12:50:12+00:00",
+      "summary": "The former Juventus player, who also had an unhappy stint at Milan as captain, Leonardo Bonucci, took part in the Laureus Awards yesterday evening in Madrid."
+    },
+    {
+      "id": "329b267bb048",
+      "title": "FIGC elections: Malagò announces that he does not intend to dissolve the reservations before May 13th",
+      "url": "https://www.milannews.it/news/elezioni-figc-malago-annuncia-di-non-voler-sciogliere-le-riserve-prima-del-13-maggio-614674",
+      "source": "milannews.it",
+      "date": "2026-04-21T12:40:13+00:00",
+      "summary": "(ANSA) - MILAN, APRIL 20 - \"I don't think I will resolve my reservations within the week. I will finish the week and also collect my ideas, it will be important to meet President Abete, I have to make a plan."
+    },
+    {
+      "id": "bbdfc5dc306a",
+      "title": "Di Marzio: Milan ‘one of the teams most interested’ in star Lecce defender",
+      "url": "https://sempremilan.com/milan-most-interested-lecce-tiago-gabriel",
+      "source": "sempremilan.com",
+      "date": "2026-04-21T12:35:00+00:00",
+      "summary": "AC Milan are one of the teams to look out for when it comes to the future of Lecce star Tiago Gabriel, Gianluca Di Marzio reports. Di Marzio has spoken this morning on Caffè Di Marzio (via MilanVibes), a podcast in collaboration between TuttoMercatoWeb.com and Gianlucadimarzio.com. He gave an update"
+    },
+    {
+      "id": "b9b85c0a96ea",
+      "title": "Ramazzotti says: \"Before leaving the pitch, Leao threw a couple of perplexed looks at Allegri and asked him the reason for the change\"",
+      "url": "https://www.milannews.it/news/ramazzotti-racconta-prima-di-lasciare-il-campo-leao-ha-lanciato-un-paio-di-occhiate-cariche-di-perplessita-ad-allegri-e-gli-ha-chiesto-il-motivo-del-c-614693",
+      "source": "milannews.it",
+      "date": "2026-04-21T12:30:03+00:00",
+      "summary": "Andrea Ramazzotti, journalist, expressed himself as follows in La Gazzetta dello Sport on Leao's substitution: \"Another unwanted substitution, in another match without goals and with a chiaroscuro performance, saved only by ..."
+    },
+    {
+      "id": "bad01919fd47",
+      "title": "Matri is sure: \"I would see Lewandowski at Milan well. In Serie A he can still make the difference like Modric does\"",
+      "url": "https://www.milannews.it/gli-ex/matri-e-sicuro-vedrei-bene-lewandowski-al-milan-in-a-puo-fare-ancora-la-differenza-come-la-fa-modric-614732",
+      "source": "milannews.it",
+      "date": "2026-04-21T12:19:37+00:00",
+      "summary": "Alessandro Matri, former Rossoneri striker, commented to DAZN on the difficult moment of Rafael Leao and Christian Pulisic: \"I don't know how much market Leao and Pulisic have after a season like this."
+    },
+    {
+      "id": "1b23b7a46eb4",
+      "title": "Sabatini: \"If the club buys him a high-quality defender, midfielder and center forward, Allegri will stay\"",
+      "url": "https://www.milannews.it/news/sabatini-se-la-societa-gli-compra-difensore-centrocampista-e-centravanti-di-livello-allegri-resta-614699",
+      "source": "milannews.it",
+      "date": "2026-04-21T12:10:55+00:00",
+      "summary": "Sandro Sabatini, journalist, expressed himself as follows to Number1 Podcast on the future of Massimiliano Allegri: \"If Allegri the club buys him a high-level defender, midfielder and centre-forward, it will move forward."
+    },
+    {
+      "id": "2329153dfc47",
+      "title": "Kaka backing Gimenez despite ‘difficulties’ at Milan: “Allegri has faith in him”",
+      "url": "https://sempremilan.com/kaka-backing-santiago-gimenez-allegri-milan",
+      "source": "sempremilan.com",
+      "date": "2026-04-21T12:10:00+00:00",
+      "summary": "Ricardo Kaka has voiced his support for Santiago Gimenez, revealing his belief that he can still return to his best form with AC Milan. It has been a difficult campaign for Gimenez, who played for the first few weeks through pain in his ankle which then required surgery as a more long-term fix. He r"
+    },
+    {
+      "id": "ce50e754ac6c",
+      "title": "Milan on Haaland's \"big brother\": is Sorloth the striker who can keep Allegri staying?",
+      "url": "https://www.milannews.it/primo-piano/il-milan-sul-fratello-maggiore-di-haaland-sorloth-e-la-punta-che-puo-far-restare-allegri-614735",
+      "source": "milannews.it",
+      "date": "2026-04-21T12:00:00+00:00",
+      "summary": "Let's be clear, the fact that Alexander Sorloth is defined here as the \"older brother\" of Erling Braut Haaland is absolutely not intended to be a yardstick for comparison with the two players who, numbers in hand, are mo ..."
+    },
+    {
+      "id": "a9d352ea4760",
+      "title": "Pasotto: \"There's no point in being picky: the show offered by Milan was once again below expectations. But now the substance counts\"",
+      "url": "https://www.milannews.it/news/pasotto-inutile-mettersi-a-fare-gli-schizzinosi-lo-spettacolo-offerto-dal-milan-e-stato-anche-stavolta-al-di-sotto-delle-attese-ma-ora-conta-la-sostan-614694",
+      "source": "milannews.it",
+      "date": "2026-04-21T11:50:09+00:00",
+      "summary": "Marco Pasotto, journalist, expressed himself in La Gazzetta dello Sport on Milan's victory in Verona: \"It is, objectively, a half match point that Milan manages to bring home, and this is the only good one..."
+    },
+    {
+      "id": "e478c966cce3",
+      "title": "Sky Germany: Lewandowski could snub Milan and others for Barcelona stay – the situation",
+      "url": "https://sempremilan.com/lewandowski-could-snub-milan-barcelona-situation",
+      "source": "sempremilan.com",
+      "date": "2026-04-21T11:45:00+00:00",
+      "summary": "Where will Robert Lewandowski play next season? That is the question everyone wants to know the answer to, with AC Milan in the running. His agent Pini Zahavi is working on several fronts. According to Sky Germany, the striker has an offer from Saudi Arabia and one from the MLS, while Milan and Juve"
+    },
+    {
+      "id": "5b4e223b546a",
+      "title": "Lukaku's quick return to Naples (without seeing Conte). But he has already left for Belgium",
+      "url": "https://www.milannews.it/news/rientro-lampo-a-napoli-di-lukaku-senza-vedere-conte-ma-e-gia-ripartito-per-il-belgio-614673",
+      "source": "milannews.it",
+      "date": "2026-04-21T11:40:04+00:00",
+      "summary": "(by Francesco Tedesco) (ANSA) - NAPLES, APRIL 20 - The long farewell between Lukaku and Napoli is taking place, in a climate of distance that is now difficult to recover, in the name of eloquent gestures such as that of a quick return to the city, ..."
+    },
+    {
+      "id": "53025bb66db2",
+      "title": "The club's comment on Verona-Milan: \"Ultimately, the result counts: three important points also in light of the missteps of Napoli and Como\"",
+      "url": "https://www.milannews.it/news/il-commento-del-club-a-verona-milan-in-fondo-conta-il-risultato-tre-punti-pesanti-anche-alla-luce-dei-passi-falsi-di-napoli-e-como-614691",
+      "source": "milannews.it",
+      "date": "2026-04-21T11:30:42+00:00",
+      "summary": "Below is AC Milan's comment, via the club's official website, on Hellas Verona-Milan (0-1):\n\n\"Milan returns to victory by beating Hellas Verona 1-0."
+    },
+    {
+      "id": "9dc7a8155bf2",
+      "title": "Bonucci: \"I would see Allegri at Real Madrid because he is very similar to Ancelotti in the way he manages the dressing room\"",
+      "url": "https://www.milannews.it/gli-ex/bonucci-vedrei-bene-allegri-al-real-madrid-perche-e-molto-simile-ad-ancelotti-nel-modo-di-gestire-lo-spogliatoio-614730",
+      "source": "milannews.it",
+      "date": "2026-04-21T11:20:30+00:00",
+      "summary": "Leonardo Bonucci, former Juventus and Milan defender, spoke in Madrid on the sidelines of the Laureus awards and on his former coach Massimiliano Allegri who in Spain is often compared to the Real Madrid bench, declared: \"If Allegri would be ..."
+    },
+    {
+      "id": "207bd9323d64",
+      "title": "“Looking for an apartment” – Simic and Rakitic fuel rumours of Modric staying at Milan",
+      "url": "https://sempremilan.com/simic-rakitic-fuel-rumours-modric-stay",
+      "source": "sempremilan.com",
+      "date": "2026-04-21T11:20:00+00:00",
+      "summary": "The chances of Luka Modric remaining at AC Milan for another year appear to be on the up, at least if two people he knows well are to be believed. Modric joined Milan on a free transfer from Real Madrid last summer and has already made an enormous impact. Massimiliano Allegri opted to put him […]\nTh"
+    },
+    {
+      "id": "82759871e8fb",
+      "title": "Passerini: \"In Milan there are those who are convinced that the separation from Leao would be good for everyone: he is on the market\"",
+      "url": "https://www.milannews.it/calciomercato-milan/passerini-nel-milan-c-e-chi-e-convinto-che-la-separazione-da-leao-farebbe-bene-a-tutti-e-sul-mercato-614698",
+      "source": "milannews.it",
+      "date": "2026-04-21T11:10:07+00:00",
+      "summary": "Carlos Passerini, journalist, expressed himself in the Corriere della Sera on the future of Rafael Leao: \"Leao on the market in the summer, but only with noteworthy offers: the Premier League or Saudi Arabia are the possible destinations."
+    },
     {
       "id": "d1cb46f8a0d0",
       "title": "Premier League, Wolverhampton is the first team to be relegated",
@@ -90,44 +234,12 @@
       "summary": "At the Rossoneri, for a change, Rafael Leao is always at the center of the conversation, whose future at Milan is far from certain."
     },
     {
-      "id": "22332e285c85",
-      "title": "Rakitic: \"Modric? I hope he continues for another 2-3 seasons. The conditions are all there at Milan\"",
-      "url": "https://www.milannews.it/news/rakitic-modric-mi-auguro-continui-per-altre-2-3-stagioni-al-milan-le-condizioni-ci-sono-tutte-614720",
-      "source": "milannews.it",
-      "date": "2026-04-21T09:50:08+00:00",
-      "summary": "Ivan Rakitic, former Barcelona and Croatia player, spoke thus to Repubblica about his compatriot and friend Luka Modric: \"I hope he continues for another 2-3 seasons, he will decide."
-    },
-    {
-      "id": "a86b784acddc",
-      "title": "Allegri future, Capello has no doubts: \"If I were in Milan I would blind Max\"",
-      "url": "https://www.milannews.it/gli-ex/futuro-allegri-capello-non-ha-dubbi-fossi-nel-milan-blinderei-max-614722",
-      "source": "milannews.it",
-      "date": "2026-04-21T09:40:14+00:00",
-      "summary": "Fabio Capello, former Rossoneri coach, interviewed by the Gazzetta dello Sport, spoke thus about Max Allegri's future: \"If I were in Milan I would blind Max: he has done an excellent job and next season he would start again with the advantage of knowing ..."
-    },
-    {
       "id": "6ecd92e6f4ac",
       "title": "Ronaldinho recalls ‘dream’ Milan move from Barcelona: “The Galacticos of Italy”",
       "url": "https://sempremilan.com/ronaldinho-dream-milan-move-galacticos-italy",
       "source": "sempremilan.com",
       "date": "2026-04-21T09:40:00+00:00",
       "summary": "Ronaldinho has shed a bit of light on his decision to join AC Milan from Barcelona back in 2008 in his Netflix documentary. A player who needs very little introduction, Ronaldinho won the FIFA World Cup, the Champions League, then Copa Libertadores and the Ballon d’Or among many other honours. His s"
-    },
-    {
-      "id": "9f9e5fe6a85f",
-      "title": "Braida on the current Milan: \"I see a team perpetually searching for a precise identity, but which hasn't been found yet\"",
-      "url": "https://www.milannews.it/gli-ex/braida-sul-milan-attuale-vedo-una-squadra-perennemente-alla-ricerca-di-un-identita-precisa-ma-che-ancora-non-e-stata-trovata-614711",
-      "source": "milannews.it",
-      "date": "2026-04-21T09:30:54+00:00",
-      "summary": "Regarding the current AC Milan, Ariedo Braida, former Rossoneri manager, explained to Il Giorno: \"What I have in my head was the AC Milan of Berlusconi and Galliani, champions."
-    },
-    {
-      "id": "57726f4e3016",
-      "title": "Leao-Barcelona, ​​Moretto reveals: \"Even in recent weeks he has been proposed again to the Spaniards, but Rafa does not generate total consensus\"",
-      "url": "https://www.milannews.it/calciomercato-milan/leao-barcellona-moretto-rivela-anche-nelle-ultime-settimane-e-stato-proposto-nuovamente-agli-spagnoli-ma-rafa-non-genera-una-totalita-di-consensi-614667",
-      "source": "milannews.it",
-      "date": "2026-04-21T09:20:05+00:00",
-      "summary": "Matteo Moretto, in a video published on Fabrizio Romano's YouTube channel, gave this update on Barcelona's interest in Rafael Leao: \"In the past, Barcelona has thought more than once about signing Leao who is ..."
     },
     {
       "id": "19998df94dc8",
@@ -138,22 +250,6 @@
       "summary": "Despite Sunday’s win at Hellas Verona bringing AC Milan closer to qualifying for next season’s Champions League, it wasn’t all good news. As Corriere della Sera (via MilanNews) recall this morning, Rafael Leao – who provided the assist for Adrien Rabiot’s winning goal at the Stadio Bentegodi – remai"
     },
     {
-      "id": "54a056433cd0",
-      "title": "Il Giornale: \"Max care and Pavlovic becomes irreplaceable\". Are you ready for renewal until 2031?",
-      "url": "https://www.milannews.it/calciomercato-milan/il-giornale-cura-max-e-pavlovic-diventa-insostituibile-pronto-il-rinnovo-fino-al-2031-614721",
-      "source": "milannews.it",
-      "date": "2026-04-21T09:10:25+00:00",
-      "summary": "Today's edition of Il Giornale headlines this morning: \"Max cures and Pavlovic becomes irreplaceable\"."
-    },
-    {
-      "id": "1ee375ca676c",
-      "title": "CorSera writes about Leao: \"There are those in the club who are convinced that the separation would be good for everyone, first and foremost the player\"",
-      "url": "https://www.milannews.it/calciomercato-milan/il-corsera-scrive-su-leao-nel-club-c-e-chi-e-convinto-che-la-separazione-farebbe-bene-a-tutti-in-primis-al-giocatore-614703",
-      "source": "milannews.it",
-      "date": "2026-04-21T09:00:29+00:00",
-      "summary": "The Corriere della Sera on newsstands today writes this about Rafael Leao who is on the market and could leave Milan in the summer: \"Even in the club, there are those who are convinced that the separation would be good for everyone."
-    },
-    {
       "id": "b64143c1120c",
       "title": "TMW: Milan could have signed Man City star Cherki for €2m – why the deal collapsed",
       "url": "https://sempremilan.com/milan-could-manchester-city-cherki-2m",
@@ -162,68 +258,12 @@
       "summary": "AC Milan had the chance to sign Rayan Cherki before he became a star for Manchester City, but they walked away from the deal. As TMW recall, Cherki was the man who scored the goal which unlocked the game for City in their huge title six-pointer against Arsenal, with a solo run that was almost […]\nTh"
     },
     {
-      "id": "14bac40c4fe3",
-      "title": "Milan, resumption of training today: Fofana to be evaluated",
-      "url": "https://www.milannews.it/news/milan-oggi-la-ripresa-degli-allenamenti-da-valutare-fofana-614719",
-      "source": "milannews.it",
-      "date": "2026-04-21T08:48:17+00:00",
-      "summary": "As La Gazzetta dello Sport reported this morning, today Milan will resume training at Milanello after the day of rest granted yesterday by Max Allegri to his team."
-    },
-    {
-      "id": "426e56e367e3",
-      "title": "Leao away in the summer? Premier League and Saudi Arabia the most likely destinations",
-      "url": "https://www.milannews.it/calciomercato-milan/leao-via-in-estate-premier-league-e-arabia-saudita-le-destinazioni-piu-probabili-614671",
-      "source": "milannews.it",
-      "date": "2026-04-21T08:38:45+00:00",
-      "summary": "Rafael Leao could leave Milan in the summer. The Portuguese is on the market and if offers of 40-50 million euros arrive in via Aldo Rossi, the Portuguese striker will be sold during the next summer transfer market."
-    },
-    {
-      "id": "d61e45e6bc19",
-      "title": "Braida reveals: \"The most important blows to Milan? Sheva and Van Basten. I'll explain why\"",
-      "url": "https://www.milannews.it/gli-ex/braida-rivela-i-colpi-piu-importanti-al-milan-sheva-e-van-basten-vi-spiego-perche-614710",
-      "source": "milannews.it",
-      "date": "2026-04-21T08:28:53+00:00",
-      "summary": "Speaking to Il Giorno, Ariedo Braida, former Rossoneri manager, talked about some of the transfer deals that were closed when he was at Milan: \"The most important move? Not just one but two."
-    },
-    {
       "id": "ea10bf909a6c",
       "title": "Capello explains why Juventus are in better form than Milan and suggests three signings",
       "url": "https://sempremilan.com/capello-juventus-better-milan-three-signings",
       "source": "sempremilan.com",
       "date": "2026-04-21T08:25:00+00:00",
       "summary": "Fabio Capello has previewed the big upcoming game between AC Milan and Juventus, while offering some advice ahead of the summer. Milan and Juventus are both on course to do what they set out to at the beginning of the season: to qualify for the Champions League. The Rossoneri have an eight-point cus"
-    },
-    {
-      "id": "4f5ea11cdd51",
-      "title": "Milan over Sorloth? Lewandowski and Vlahovic are asking for salaries outside the parameters of the Rossoneri club",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-su-sorloth-lewandowski-e-vlahovic-chiedono-ingaggi-fuori-dai-parametri-del-club-rossonero-614700",
-      "source": "milannews.it",
-      "date": "2026-04-21T08:18:15+00:00",
-      "summary": "As La Gazzetta dello Sport reported this morning, Alexander Sorloth, Atletico Madrid's 1995-born striker, is climbing positions in Milan's list, which is always looking for a great center forward for next season."
-    },
-    {
-      "id": "3cef0ef7eb95",
-      "title": "It will be a revolution in attack again. Redbird change registry because it doesn't work that way.",
-      "url": "https://www.milannews.it/editoriale/sara-di-nuovo-rivoluzione-in-attacco-redbird-cambi-registro-perche-cosi-non-funziona-614643",
-      "source": "milannews.it",
-      "date": "2026-04-21T08:08:53+00:00",
-      "summary": "The match against Verona was one of the worst in recent months, but it was essential to get the victory to get closer to qualifying for the Champions League."
-    },
-    {
-      "id": "755d1e23b1bd",
-      "title": "Moretto is sure: \"Leao is a name to take into consideration for Milan's outgoing transfer market\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-e-sicuro-leao-e-un-nome-da-tenere-in-considerazione-per-il-mercato-in-uscita-del-milan-614668",
-      "source": "milannews.it",
-      "date": "2026-04-21T08:08:48+00:00",
-      "summary": "Matteo Moretto, in a video published on Fabrizio Romano's YouTube channel, gave this update on Rafael Leao's future: \"Leao's future at Milan remains uncertain."
-    },
-    {
-      "id": "69d22b4749fc",
-      "title": "Milan transfer market: Sorloth overtakes Lewandowski and Vlahovic. This is why Allegri likes it",
-      "url": "https://www.milannews.it/primo-piano/mercato-milan-sorloth-sorpassa-lewandowski-e-vlahovic-ecco-perche-piace-ad-allegri-614697",
-      "source": "milannews.it",
-      "date": "2026-04-21T08:00:54+00:00",
-      "summary": "The ever-closer return to the Champions League will bring several millions into Milan's coffers, resources that will then be used on the transfer market where the big objective in the summer will be to sign a great center forward."
     },
     {
       "id": "f1c8cb810dbc",
@@ -296,46 +336,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-20T15:30:00+00:00",
       "summary": "Massimiliano Allegri has confirmed that he and the AC Milan management are in the planning phase for next season and beyond. The past few days have been dominated by media headlines suggesting that Allegri is tempted by the idea of taking the Italy job if it is offered to him, due to apparent disagr"
-    },
-    {
-      "id": "b89e9f90f764",
-      "title": "GdS: Milan to evaluate €30m/yr PUMA deal as Nike and Adidas circle",
-      "url": "https://sempremilan.com/milan-evaluate-puma-nike-adidas-circle",
-      "source": "sempremilan.com",
-      "date": "2026-04-20T15:00:00+00:00",
-      "summary": "AC Milan will pause and consider the deal that they have with PUMA to be the official kit supplier, a report claims. La Gazzetta dello Sport (seen below) dedicated a space in their double-page spread on Milan to an off-field discussion that could gain momentum in the coming months. Milan must consid"
-    },
-    {
-      "id": "0d6031f9afe2",
-      "title": "Milan Futuro 0-1 Varesina: Play-off place still not confirmed after harsh defeat",
-      "url": "https://sempremilan.com/milan-futuro-0-1-varesina-match-report",
-      "source": "sempremilan.com",
-      "date": "2026-04-20T14:30:00+00:00",
-      "summary": "Milan Futuro suffered defeat in round 32 on Sunday, as they were beaten 1-0 by Varesina and missed the chance to seal a play-off spot. Hopes were high for the Futuro as they secured a big 4-0 win in their game against Brusaporto last weekend. Minotti, Sardo, Magrassi and Traorè all got on the scores"
-    },
-    {
-      "id": "c8297e8f76bd",
-      "title": "CorFiorentino: Milan’s concerns about Fiorentina star Kean grow for two reasons",
-      "url": "https://sempremilan.com/milan-concerns-kean-grow-two-reasons",
-      "source": "sempremilan.com",
-      "date": "2026-04-20T14:00:00+00:00",
-      "summary": "AC Milan can start planning for a 2026-27 season which will almost certainly feature European football, with a striker being the big signing planned. The win over Verona on Sunday saw Milan take a big step towards a return to the Champions League, with the gap to fifth place having been widened to e"
-    },
-    {
-      "id": "c86d23905ff6",
-      "title": "The Gabbia factor: Numbers highlight talismanic presence of Italian defender",
-      "url": "https://sempremilan.com/gabbia-factor-numbers-talismanic-presence",
-      "source": "sempremilan.com",
-      "date": "2026-04-20T13:30:00+00:00",
-      "summary": "Matteo Gabbia went back into the side on Sunday afternoon as AC Milan won and kept a clean sheet against Hellas Verona. Milan returned to winning ways at the Stadio Bentegodi after two defeats in a row against Napoli and Udinese, with zero goals scored and four conceded. The three points earned coin"
-    },
-    {
-      "id": "f85b8fee1b0c",
-      "title": "Akanji revisits snubbing AC Milan to join Inter from Man City: “The choice worked out”",
-      "url": "https://sempremilan.com/akanji-snubbing-milan-inter-manchester-city",
-      "source": "sempremilan.com",
-      "date": "2026-04-20T13:00:00+00:00",
-      "summary": "Manuel Akanji has confirmed that he could have joined AC Milan in the summer, but opted to join their rivals Inter instead. In the summer both Milanese clubs were chasing a centre-back and both went in for Akanji. Milan were the first to make their interest known, but the Swiss apparently rejected t"
     },
     {
       "id": "f5edd95e3f9e",
