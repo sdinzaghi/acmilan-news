@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-04-21T20:02:32.847979+00:00",
+  "lastUpdated": "2026-04-21T21:43:09.756368+00:00",
   "articles": [
+    {
+      "id": "bfb1f4d6a417",
+      "title": "Only McTominay and Nico Paz have scored more away goals than Rabiot",
+      "url": "https://www.milannews.it/news/solo-mctominay-e-nico-paz-hanno-segnato-piu-gol-in-trasferta-di-rabiot-614684",
+      "source": "milannews.it",
+      "date": "2026-04-21T21:40:56+00:00",
+      "summary": "Among midfielders in this Serie A season, only Scott McTominay and Nico Paz (six both) have scored more away goals than Adrien Rabiot (five). Opta reports it."
+    },
+    {
+      "id": "ff96405d948f",
+      "title": "Roberto Mancini excited by the rumors about the national team: he doesn't close the doors to a return",
+      "url": "https://www.milannews.it/news/roberto-mancini-emozionato-dalle-voci-sulla-nazionale-non-chiude-le-porte-ad-un-ritorno-614675",
+      "source": "milannews.it",
+      "date": "2026-04-21T21:30:09+00:00",
+      "summary": "- FLORENCE, 20 APR - \"Returning as coach of the national team? It's always an emotion to return to Coverciano. I'm here for the prize."
+    },
+    {
+      "id": "2544c0d55750",
+      "title": "Capello towards Milan-Juve: \"The Bianconeri traditionally don't suffer at San Siro..\"",
+      "url": "https://www.milannews.it/gli-ex/capello-verso-milan-juve-i-bianconeri-per-tradizione-non-soffrono-san-siro-614742",
+      "source": "milannews.it",
+      "date": "2026-04-21T21:20:00+00:00",
+      "summary": "Fabio Capello, former Milan and Juventus manager, was interviewed in this way by the Gazzetta dello Sport."
+    },
+    {
+      "id": "a0288b69abfa",
+      "title": "MN - Giroud remembers his best goal with the Milan shirt",
+      "url": "https://www.milannews.it/news/mn-giroud-ricorda-il-suo-gol-piu-bello-con-la-maglia-del-milan-614757",
+      "source": "milannews.it",
+      "date": "2026-04-21T21:10:00+00:00",
+      "summary": "It is difficult to quantify how much the Rossoneri fans love Olivier Giroud. The derby catchphrase, the championship won, the decisive plays even as a goalkeeper."
+    },
+    {
+      "id": "8752b06d7868",
+      "title": "Italian Cup, Inter-Como 3-2: the Nerazzurri recover and go to the final",
+      "url": "https://www.milannews.it/news/coppa-italia-inter-como-3-2-i-nerazzurri-rimontano-e-vanno-in-finale-614766",
+      "source": "milannews.it",
+      "date": "2026-04-21T21:00:02+00:00",
+      "summary": "The return match between Inter and Como in the semi-final of the Italian Cup has just ended."
+    },
+    {
+      "id": "1975cda19722",
+      "title": "Rafa Leao's numbers: he scored more than 60 assists for the Rossoneri",
+      "url": "https://www.milannews.it/news/i-numeri-di-rafa-leao-in-rossonero-ha-messo-a-segno-piu-di-60-assist-614747",
+      "source": "milannews.it",
+      "date": "2026-04-21T20:50:00+00:00",
+      "summary": "Leao, always Leao. The hottest topic this early spring."
+    },
+    {
+      "id": "8ca905658772",
+      "title": "Bonucci admits: \"I see Allegri as very similar to Carlo Ancelotti\"",
+      "url": "https://www.milannews.it/news/bonucci-ammette-vedo-allegri-molto-simile-a-carlo-ancelotti-614745",
+      "source": "milannews.it",
+      "date": "2026-04-21T20:40:00+00:00",
+      "summary": "Leonardo Bonucci spoke like this yesterday evening in Madrid at the Laureus Awards. The former defender was interviewed by the press present and also spoke about current affairs."
+    },
+    {
+      "id": "258cd07bea97",
+      "title": "Figc: Marani, the \"Zola reform\" is important for the Lega Pro",
+      "url": "https://www.milannews.it/news/figc-marani-per-la-lega-pro-importante-la-riforma-zola-614744",
+      "source": "milannews.it",
+      "date": "2026-04-21T20:30:23+00:00",
+      "summary": "(ANSA) - ROME, APRIL 21 - The president of the Lega Pro, Matteo Marani, met in Rome with the two \"possible\" candidates for the presidency of the FIGC, Giancarlo Abete and Giovanni Malagò."
+    },
+    {
+      "id": "bb48037c53a5",
+      "title": "Hellas Verona failed to score any goals for four consecutive matches against Milan for the first time in history",
+      "url": "https://www.milannews.it/news/l-hellas-verona-non-e-riuscito-a-segnare-alcun-gol-per-quattro-partite-consecutive-contro-il-milan-per-la-prima-volta-nella-storia-614688",
+      "source": "milannews.it",
+      "date": "2026-04-21T20:20:43+00:00",
+      "summary": "Hellas Verona failed to score any goals for four consecutive matches against Milan in Serie A for the first time in their history. Opta reports it."
+    },
+    {
+      "id": "f663703fe7c8",
+      "title": "MN - Giroud defends Milan's current attack: \"It's essential to have a team that makes the difference, an attacker can't do everything alone\"",
+      "url": "https://www.milannews.it/news/mn-giroud-difende-l-attuale-attacco-del-milan-fondamentale-avere-una-squadra-che-faccia-la-differenza-un-attaccante-non-puo-fare-tutto-da-solo-614754",
+      "source": "milannews.it",
+      "date": "2026-04-21T20:10:00+00:00",
+      "summary": "It is difficult to quantify how much the Rossoneri fans love Olivier Giroud. The derby catchphrase, the championship won, the decisive plays even as a goalkeeper."
+    },
+    {
+      "id": "e29197814fe0",
+      "title": "Capello: \"I would think carefully about Lewandowski: his instinct for goal is not lost, but his strength is. And he is approaching 40\"",
+      "url": "https://www.milannews.it/news/capello-su-lewandowski-ragionerei-attentamente-il-fiuto-del-gol-non-si-perde-ma-la-forza-si-e-si-avvicina-ai-40-614708",
+      "source": "milannews.it",
+      "date": "2026-04-21T20:00:01+00:00",
+      "summary": "Coach Fabio Capello was interviewed in today's La Gazzetta dello Sport about Lewandowski: \"I would think carefully: the eye for goal is not lost, but the strength is."
+    },
     {
       "id": "2ad1c098066f",
       "title": "Even in view of Milan-Juventus, the Rossoneri remain within five suspensions",
@@ -90,60 +178,12 @@
       "summary": "This week, it has been reported that Adrien Rabiot has been subject to an offer from a Saudi Arabian club. However, he does not plan to leave Milan. It emerged earlier this week that Rabiot had been made an offer by a Saudi Arabian club, as Nicolo Schira reported. However, little was known about the"
     },
     {
-      "id": "76154625afe4",
-      "title": "At Juve it was Locatelli and Chiesa, at Milan Leao: at least two assists in the season served to Rabiot",
-      "url": "https://www.milannews.it/news/alla-juve-erano-stati-locatelli-e-chiesa-al-milan-leao-almeno-due-assist-in-stagione-serviti-a-rabiot-614687",
-      "source": "milannews.it",
-      "date": "2026-04-21T18:20:32+00:00",
-      "summary": "Rafael Leão is only the third player capable of providing more than one assist to Adrien Rabiot in Serie A (v Como and Hellas Verona), after Federico Chiesa (two in 2020/21) and Manuel Locatelli (two in 2023/24) - both the latter ..."
-    },
-    {
-      "id": "452b228d6207",
-      "title": "Only Napoli have won more matches than Milan with a single goal margin this season",
-      "url": "https://www.milannews.it/news/solo-il-napoli-ha-vinto-piu-partite-del-milan-con-un-solo-gol-di-scarto-in-questa-stagione-614679",
-      "source": "milannews.it",
-      "date": "2026-04-21T18:10:18+00:00",
-      "summary": "Considering the five major European leagues, only Napoli (14) have won more matches with a single goal difference this season than Milan (13)."
-    },
-    {
       "id": "857eba3c0985",
       "title": "A transactional performance with one moment: Tactical analysis of Hellas Verona 0-1 AC Milan",
       "url": "https://sempremilan.com/tactical-analysis-hellas-verona-0-1-milan",
       "source": "sempremilan.com",
       "date": "2026-04-21T18:00:00+00:00",
       "summary": "AC Milan took a big step towards sealing a top four spot as they squeaked past a struggling Hellas Verona side on Sunday. In what was a game that was lacking in clear-cut chances and quality play generally, the one crucial moment came came from Milan as Adrien Rabiot slotted Rafael Leao’s through ba"
-    },
-    {
-      "id": "9cf3a2237a6a",
-      "title": "Bianchin: \"In Verona, classic AC Milan, ugly but victorious, and classic Allegri enraged by too many risks in the final\"",
-      "url": "https://www.milannews.it/news/bianchin-a-verona-classico-milan-brutto-ma-vincente-e-classico-allegri-infuriato-per-i-troppi-rischi-nel-finale-614692",
-      "source": "milannews.it",
-      "date": "2026-04-21T17:50:09+00:00",
-      "summary": "Luca Bianchin, journalist, expressed himself as follows in La Gazzetta dello Sport on Milan's victory in Verona: \"Duke Rabiot, on an April afternoon, decided to get his elegant white suit dirty and decide on a Verona-Milan ..."
-    },
-    {
-      "id": "f5baa3bbad77",
-      "title": "MN - Giroud in love with Milan: \"I have a lot of nostalgia, I hope the club returns to the Champions League\"",
-      "url": "https://www.milannews.it/news/mn-giroud-innamorato-del-milan-ho-tanta-nostalgia-spero-che-il-club-torni-in-champions-614752",
-      "source": "milannews.it",
-      "date": "2026-04-21T17:40:00+00:00",
-      "summary": "It is difficult to quantify how much the Rossoneri fans love Olivier Giroud. The derby catchphrase, the championship won, the decisive plays even as a goalkeeper."
-    },
-    {
-      "id": "bffb31da3b9e",
-      "title": "Towards Milan-Juventus, the former Capello double speaks: \"I don't expect a biscuit...\"",
-      "url": "https://www.milannews.it/gli-ex/verso-milan-juventus-parla-il-doppio-ex-capello-non-mi-aspetto-un-biscotto-614724",
-      "source": "milannews.it",
-      "date": "2026-04-21T17:30:12+00:00",
-      "summary": "Fabio Capello, former Rossoneri coach, interviewed by the Gazzetta dello Sport, spoke thus about Max Allegri's future: \"If I were in Milan I would blind Max: he has done an excellent job and next season he would start again with the advantage of knowing ..."
-    },
-    {
-      "id": "d978fd2780b5",
-      "title": "Verona, land of conquests: Milan have always beaten Hellas in the last 11 matches and Chievo in the last 13",
-      "url": "https://www.milannews.it/news/verona-terra-di-conquiste-il-milan-ha-sempre-battuto-nelle-ultime-11-sfide-l-hellas-e-nelle-ultime-13-il-chievo-614686",
-      "source": "milannews.it",
-      "date": "2026-04-21T17:22:51+00:00",
-      "summary": "Hellas Verona (11) is only one of the two teams, together with Chievo (13), against which Milan have won more than 10 consecutive Serie A matches. Opta reports this."
     },
     {
       "id": "ce05e73f95b2",
@@ -154,52 +194,12 @@
       "summary": "Since Olivier Giroud left AC Milan, they have struggled to find a striker that has offered them the same quality up front. Perhaps that issue was even present before he joined. There have been few attackers in recent years to offer the same amount that Giroud did in the Milan shirt. A consistent goa"
     },
     {
-      "id": "2f237ceaf7e6",
-      "title": "Braida: \"I will always be grateful to Galliani and president Berlusconi\"",
-      "url": "https://www.milannews.it/news/braida-saro-sempre-grato-a-galliani-e-al-presidente-berlusconi-614713",
-      "source": "milannews.it",
-      "date": "2026-04-21T17:10:55+00:00",
-      "summary": "Ariedo Braida, former AC Milan manager, gave a long interview to Il Giorno in which he spoke about his relationship with Adriano Galliani as follows: \"Since I met him in Monza my life has changed, because m ..."
-    },
-    {
-      "id": "d222be7da8f1",
-      "title": "MN EXCLUSIVE - Giroud: \"Milan, so nostalgic. I miss you so much and I hope you'll return to the Champions League. The brace against Inter is the best, that's where Giroud was born\"",
-      "url": "https://www.milannews.it/primo-piano/esclusiva-mn-giroud-milan-che-nostalgia-mi-manchi-tanto-e-spero-che-tornerai-in-champions-league-la-doppietta-all-inter-il-top-li-e-nato-si-e-girato-g-614741",
-      "source": "milannews.it",
-      "date": "2026-04-21T17:00:00+00:00",
-      "summary": "It is difficult to quantify how much the Rossoneri fans love Olivier Giroud. The derby catchphrase, the championship won, the decisive plays even as a goalkeeper."
-    },
-    {
       "id": "0adde3f6592c",
       "title": "‘His desire to stay’ – Di Stefano states that there are ‘two things to consider’ about Allegri’s future",
       "url": "https://sempremilan.com/di-stefano-two-things-consider-allegri-future-milan",
       "source": "sempremilan.com",
       "date": "2026-04-21T17:00:00+00:00",
       "summary": "Massimiliano Allegri’s future is a big topic of discussion currently and there is a possibility that he could leave AC Milan.  A lot has been said about Allegri and what will happen in the next few months. Like they say, there is no smoke without fire. However, there have been plenty of occasions wh"
-    },
-    {
-      "id": "aa61a01e3a60",
-      "title": "Pastore: \"Several criticisms of Leao after Verona. But he provides the assist, Pulisic doesn't even do that. And zero goals in 2026\"",
-      "url": "https://www.milannews.it/news/pastore-diverse-critiche-a-leao-dopo-verona-pero-lui-fa-l-assist-pulisic-neanche-quello-e-zero-gol-nel-2026-614717",
-      "source": "milannews.it",
-      "date": "2026-04-21T16:51:04+00:00",
-      "summary": "Giuseppe Pastore, journalist, expressed himself as follows on Cronache di Spogliatoio on Milan's attack: “I heard several criticisms in the post-Verona analyzes towards Leao."
-    },
-    {
-      "id": "f9d6c6dfbdd9",
-      "title": "Romania has chosen its coach: Gheorghe Hagi is Lucescu's successor",
-      "url": "https://www.milannews.it/news/la-romania-ha-scelto-il-ct-gheorghe-hagi-e-il-successore-di-lucescu-614676",
-      "source": "milannews.it",
-      "date": "2026-04-21T16:40:18+00:00",
-      "summary": "(ANSA) - ROME, APRIL 20 - Gheorghe Hagi is the new coach of Romania."
-    },
-    {
-      "id": "2c23e6d9a05a",
-      "title": "Cuomo: \"Allegri and Furlani will talk to each other soon. The hope is that the agreements and promises made in the conversation will then be preserved and not like last year...\"",
-      "url": "https://www.milannews.it/news/cuomo-allegri-e-furlani-si-parleranno-tra-poco-la-speranza-e-che-si-conservino-poi-i-patti-e-le-promesse-fatte-nel-colloquio-e-non-come-l-anno-scorso-614760",
-      "source": "milannews.it",
-      "date": "2026-04-21T16:32:58+00:00",
-      "summary": "Michael Cuomo, journalist, expressed himself to Radio Sportiva on the management of Milan: \"The journalistic indiscretions of the last few days correspond to the reality of the facts."
     },
     {
       "id": "bddbe52bafa7",
