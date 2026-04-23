@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2026-04-23T05:28:50.744105+00:00",
+  "lastUpdated": "2026-04-23T07:49:27.799608+00:00",
   "articles": [
+    {
+      "id": "fd9971a30001",
+      "title": "Towards Milan-Juventus, Tuttosport: \"Allegri, two more strikers. It's Leao's turn with Pulisic\"",
+      "url": "https://www.milannews.it/rassegna-stampa/verso-milan-juventus-tuttosport-allegri-ancora-due-punte-tocca-a-leao-con-pulisic-614888",
+      "source": "milannews.it",
+      "date": "2026-04-23T07:39:54+00:00",
+      "summary": "In view of Milan-Juventus on Sunday evening, today's edition of Tuttosport headlines as follows on the possible formation choices in the Devil: \"Allegri, two more strikers. It's Leao's turn with Pulisic\"."
+    },
+    {
+      "id": "25761c125c7b",
+      "title": "Milan, eyes on Ismael Koné of Sassuolo. Fofana out: liked in the Premier League and in Türkiye",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-occhi-su-ismael-kone-del-sassuolo-in-uscita-fofana-piace-in-premier-e-in-turchia-614887",
+      "source": "milannews.it",
+      "date": "2026-04-23T07:29:56+00:00",
+      "summary": "While waiting to find the great striker who is right for Milan, in via Aldo Rossi they are now concentrating on the midfield."
+    },
+    {
+      "id": "99683598d946",
+      "title": "MN - Milan, there will also be some exits in the middle of the pitch: here's who is on the list of starters",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-milan-ci-saranno-anche-delle-uscite-in-mezzo-al-campo-ecco-chi-e-sulla-lista-dei-partenti-614883",
+      "source": "milannews.it",
+      "date": "2026-04-23T07:19:53+00:00",
+      "summary": "The temperature is starting to rise around the Milan transfer market in view of next summer."
+    },
+    {
+      "id": "51aa51b97821",
+      "title": "Gazzetta: \"Goretzka is approaching. The German opens the doors, Milan wants the shot\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-goretzka-si-avvicina-il-tedesco-apre-le-porte-il-milan-vuole-lo-scatto-614886",
+      "source": "milannews.it",
+      "date": "2026-04-23T07:09:36+00:00",
+      "summary": "Regarding the Devil's transfer market, La Gazzetta dello Sport headlined this morning: \"Goretzka is approaching. The German opens the doors, Milan wants the shot\"."
+    },
+    {
+      "id": "e869b8c56619",
+      "title": "MN - Milan Market: Fagioli is a name very much liked by Max Allegri",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-mercato-milan-fagioli-e-un-nome-molto-gradito-a-max-allegri-614882",
+      "source": "milannews.it",
+      "date": "2026-04-23T06:59:49+00:00",
+      "summary": "The temperature is starting to rise around the Milan transfer market in view of next summer."
+    },
+    {
+      "id": "757f084b73cb",
+      "title": "CorSport on the front page: \"Milan calls Goretzka\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-in-prima-pagina-il-milan-chiama-goretzka-614884",
+      "source": "milannews.it",
+      "date": "2026-04-23T06:50:33+00:00",
+      "summary": "Corriere dello Sport writes on the front page today: \"Milan calls Goretzka\"."
+    },
+    {
+      "id": "2b9e3846e72a",
+      "title": "MN - Milan market: constant contacts for Goretzka. That's when I lunge",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-mercato-milan-contatti-costanti-per-goretzka-ecco-quando-l-affondo-614881",
+      "source": "milannews.it",
+      "date": "2026-04-23T06:40:34+00:00",
+      "summary": "The temperature is starting to rise around the Milan transfer market in view of next summer."
+    },
+    {
+      "id": "f020e0a39a78",
+      "title": "Tuttosport opens with Pavlovic's words: \"My friend Vlahovic is number 1. Allegri must stay\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-apre-con-le-parole-di-pavlovic-il-mio-amico-vlahovic-e-il-numero-1-allegri-deve-restare-614885",
+      "source": "milannews.it",
+      "date": "2026-04-23T06:30:49+00:00",
+      "summary": "\"My friend Vlahovic is number 1."
+    },
+    {
+      "id": "9c00885c9943",
+      "title": "MN - Milan, a new name appears for the midfield: Mijnans of AZ Alkmaar seen",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-milan-spunta-un-nuovo-nome-per-il-centrocampo-visionato-mijnans-dell-az-alkmaar-614880",
+      "source": "milannews.it",
+      "date": "2026-04-23T06:20:08+00:00",
+      "summary": "The temperature is starting to rise around the Milan transfer market in view of next summer."
+    },
+    {
+      "id": "726e2647b90a",
+      "title": "La Gazzetta opening: \"Milan, Goretzka move. A three-year contract for the German\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-apertura-milan-mossa-goretzka-un-triennale-per-il-tedesco-614879",
+      "source": "milannews.it",
+      "date": "2026-04-23T06:10:23+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page: \"Milan, Goretzka move. A three-year contract for the German\"."
+    },
+    {
+      "id": "28b5f4068abc",
+      "title": "MN - Transfer market maneuvers: progress on Goretzka, Mijnans examined. We are also working on transfers",
+      "url": "https://www.milannews.it/primo-piano/mn-manovre-di-calciomercato-si-avanza-su-goretzka-visionato-mijnans-si-lavora-anche-alle-cessioni-614845",
+      "source": "milannews.it",
+      "date": "2026-04-23T06:00:01+00:00",
+      "summary": "The temperature is starting to rise around the Milan transfer market in view of next summer."
+    },
+    {
+      "id": "ef135ebe862b",
+      "title": "Serie A 2026/2027: calendar draw on 5 June in Parma",
+      "url": "https://www.milannews.it/news/serie-a-2026-2027-sorteggio-del-calendario-il-5-giugno-a-parma-614867",
+      "source": "milannews.it",
+      "date": "2026-04-23T05:50:08+00:00",
+      "summary": "On 5, 6 and 7 June the Serie A Festival returns to Parma, three days for fans and football enthusiasts created to tell the uniqueness of the top Italian football championship through meetings and workshops with protagonists, professionals ..."
+    },
+    {
+      "id": "f16cf11a17b4",
+      "title": "Serie A, the program of the 34th matchday. Napoli opens, Milan-Juve on Sunday evening",
+      "url": "https://www.milannews.it/news/serie-a-il-programma-della-34-giornata-apre-il-napoli-milan-juve-di-domenica-sera-614875",
+      "source": "milannews.it",
+      "date": "2026-04-23T05:40:36+00:00",
+      "summary": "This is the complete program of the 34th matchday of Serie A.\n\nFRIDAY 24 APRIL 2026\nNapoli-Cremonese 20."
+    },
+    {
+      "id": "1a230b2a4057",
+      "title": "Towards Milan-Juve, the last 10 previous matches at San Siro: the Rossoneri must reverse course",
+      "url": "https://www.milannews.it/news/verso-milan-juve-gli-ultimi-10-precedenti-a-san-siro-i-rossoneri-devono-invertire-la-rotta-614865",
+      "source": "milannews.it",
+      "date": "2026-04-23T05:30:15+00:00",
+      "summary": "There is less and less left until Sunday evening's big match between Milan and Juventus which will be played at Milan's San Siro at 8.45pm."
+    },
     {
       "id": "09563cd6c6a6",
       "title": "Milan Futuro, the updated rankings after the latest defeat",
@@ -48,118 +160,6 @@
       "source": "milannews.it",
       "date": "2026-04-22T22:40:21+00:00",
       "summary": "Salvatore Simeone is an Italian-Venezuelan manager who is well disengaging as sporting director of Inter Bogotà, in Colombia, and spoke on Tuttomercatoweb."
-    },
-    {
-      "id": "06de02d2281d",
-      "title": "Atelli: \"More clarity is needed on the financial indicators of the federations\"",
-      "url": "https://www.milannews.it/news/atelli-sugli-indicatori-finanziari-delle-federazioni-serve-piu-chiarezza-614863",
-      "source": "milannews.it",
-      "date": "2026-04-22T22:30:54+00:00",
-      "summary": "(ANSA) - ROME, APRIL 22 - \"Today, the rule that regulates the responsibilities of our commission is very broad and clear on some functions, but less so on the power to indicate changes in indicators to the Federations."
-    },
-    {
-      "id": "39ce43a233d9",
-      "title": "Towards the World Cup, Pulisic: I want to make the American people proud\"",
-      "url": "https://www.milannews.it/news/verso-il-mondiale-pulisic-voglio-rendere-orgoglioso-il-popolo-americano-614878",
-      "source": "milannews.it",
-      "date": "2026-04-22T22:20:43+00:00",
-      "summary": "Christian Pulisic, interviewed by Reuters, spoke about the World Cup and the expectations on the USA, which has gone through a particularly difficult moment in recent months:\n\nIs this the best team you've been a part of?\n“I think s..."
-    },
-    {
-      "id": "ea1f38de2904",
-      "title": "MN - Reyes: \"A matter of time before Gimenez proves his worth\"",
-      "url": "https://www.milannews.it/news/mn-reyes-questione-di-tempo-prima-che-gimenez-dimostri-il-suo-valore-614830",
-      "source": "milannews.it",
-      "date": "2026-04-22T22:10:27+00:00",
-      "summary": "Arriving amidst many (and very high) expectations, in this first year and a half at Milan Santiago Gimenez was unable to meet even one of them."
-    },
-    {
-      "id": "ddc6ec5ebb5f",
-      "title": "Champions market: some debt is needed. If Milan doesn't count, they always stay behind. Does Leao realize what he has become?",
-      "url": "https://www.milannews.it/editoriale/mercato-champions-serve-qualche-debito-se-il-milan-non-conta-resta-sempre-dietro-leao-si-rende-conto-di-cosa-e-diventato-614853",
-      "source": "milannews.it",
-      "date": "2026-04-22T22:00:01+00:00",
-      "summary": "Every day interviews with AC Milan players and former Rossoneri players emerge which highlight and underline the work done by Max Allegri this season."
-    },
-    {
-      "id": "df42846a881e",
-      "title": "Italian Cup, Lazio in the final. Goddess disastrous on penalties, Motta phenomenal",
-      "url": "https://www.milannews.it/news/coppa-italia-lazio-in-finale-dea-disastrosa-ai-rigori-motta-fenomenale-614877",
-      "source": "milannews.it",
-      "date": "2026-04-22T21:49:39+00:00",
-      "summary": "Lazio is the second finalist of the Italian Cup. Sarri's team beat Atalanta on penalties with goalkeeper Motta the absolute protagonist: 4 penalties saved out of the 5 kicked by the Goddess."
-    },
-    {
-      "id": "149f4e623c16",
-      "title": "The second part tomorrow, in the meantime reread Giroud's statements to MilanNews",
-      "url": "https://www.milannews.it/news/domani-la-seconda-parte-intanto-rileggi-le-dichiarazioni-di-giroud-a-milannews-614872",
-      "source": "milannews.it",
-      "date": "2026-04-22T21:40:32+00:00",
-      "summary": "It is difficult to quantify how much the Rossoneri fans love Olivier Giroud. The derby catchphrase, the championship won, the decisive plays even as a goalkeeper."
-    },
-    {
-      "id": "5cd65ae6e79b",
-      "title": "Atletico Madrid defeated against Elche: a brace from former Rossoneri player André Silva decides",
-      "url": "https://www.milannews.it/gli-ex/atletico-madrid-sconfitto-contro-l-elche-decide-una-doppietta-dell-ex-rossonero-andre-silva-614870",
-      "source": "milannews.it",
-      "date": "2026-04-22T21:30:04+00:00",
-      "summary": "The European chase no longer seems to be in question, but Atletico Madrid's momentum continues to be negative."
-    },
-    {
-      "id": "af8b6e41ff79",
-      "title": "German Cup: Kane and Diaz drag Bayern to the final",
-      "url": "https://www.milannews.it/dall-estero/coppa-di-germania-kane-e-diaz-trascinano-il-bayern-in-finale-614876",
-      "source": "milannews.it",
-      "date": "2026-04-22T21:19:23+00:00",
-      "summary": "(ANSA) - ROME, APRIL 22 - Six years later, Bayern Munich will return to the Olympiastadion in Berlin for the German Cup final, after the victory (2-0) in the semi-final in Leverkusen. Harry Kane and Luis Diaz scored."
-    },
-    {
-      "id": "8892a3bd3879",
-      "title": "Neymar case, the final ruling arrives: no fraud in the transfer to Barcelona",
-      "url": "https://www.milannews.it/dall-estero/caso-neymar-arriva-la-sentenza-definitiva-nessuna-frode-nel-trasferimento-al-barcellona-614871",
-      "source": "milannews.it",
-      "date": "2026-04-22T21:10:59+00:00",
-      "summary": "The final word has arrived on one of the most discussed cases of recent years in the panorama of the international transfer market."
-    },
-    {
-      "id": "6b1e68abc8a3",
-      "title": "According to Sportico, Milan is the second most valuable Italian club",
-      "url": "https://www.milannews.it/news/secondo-sportico-il-milan-e-il-secondo-club-italiano-piu-prezioso-614868",
-      "source": "milannews.it",
-      "date": "2026-04-22T21:00:55+00:00",
-      "summary": "Sportico's ranking of the 50 most valuable clubs in the world clearly confirms the economic dominance of European football, specifically English and Spanish football, on the global scene."
-    },
-    {
-      "id": "935aa1ff8b81",
-      "title": "Women, Milan-Napoli at the Puma House of Football: info on tickets",
-      "url": "https://www.milannews.it/milan-femminile/femminile-milan-napoli-al-puma-house-of-footbal-info-sui-biglietti-614862",
-      "source": "milannews.it",
-      "date": "2026-04-22T20:50:18+00:00",
-      "summary": "An important match, again on our favorite pitch."
-    },
-    {
-      "id": "1f564b9c0bd8",
-      "title": "Iran may not go to the World Cup: the words of the Minister of Sports",
-      "url": "https://www.milannews.it/dall-estero/l-iran-potrebbe-non-andare-ai-mondiali-le-parole-del-ministro-dello-sport-614826",
-      "source": "milannews.it",
-      "date": "2026-04-22T20:40:42+00:00",
-      "summary": "Iran's participation in the 2026 World Cup, which will take place between the United States, Canada and Mexico this summer, is far from a given."
-    },
-    {
-      "id": "8cfe81eed685",
-      "title": "Milan-Juve, Thuram could have worn the Rossoneri shirt. Wanted by Moncada, then the Rossoneri went for Fofana",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-juve-thuram-avrebbe-potuto-vestire-la-maglia-rossonera-voluto-da-moncada-poi-i-rossoneri-andarono-su-fofana-614852",
-      "source": "milannews.it",
-      "date": "2026-04-22T20:30:18+00:00",
-      "summary": "In another life, Inter-Milan could have been transformed into the Thuram brothers' derby."
-    },
-    {
-      "id": "96d5717d7726",
-      "title": "Milan, the Prosecutor's Office considers hearing from the footballers who are clients of the escorts",
-      "url": "https://www.milannews.it/news/milano-la-procura-valuta-di-sentire-i-calciatori-clienti-delle-escort-614859",
-      "source": "milannews.it",
-      "date": "2026-04-22T20:20:46+00:00",
-      "summary": "The Milan Prosecutor's Office is evaluating whether to summon, in the coming weeks, some Serie A and international footballers as witnesses in the investigation into the MA events agency."
     },
     {
       "id": "e1ee56a2d43f",
