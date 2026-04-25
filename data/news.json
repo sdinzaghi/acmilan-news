@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-04-25T05:10:11.910653+00:00",
+  "lastUpdated": "2026-04-25T07:13:18.155394+00:00",
   "articles": [
+    {
+      "id": "35622972128e",
+      "title": "Pulisic and Leao looking for the winning shot. CorSport: \"Goal hunting\"",
+      "url": "https://www.milannews.it/rassegna-stampa/pulisic-e-leao-alla-ricerca-del-colpo-vincente-il-corsport-caccia-al-gol-615112",
+      "source": "milannews.it",
+      "date": "2026-04-25T07:00:00+00:00",
+      "summary": "The Champions League is there, at 7 points, even if Milan plans to complete the qualification in the shortest time possible, obviously counting on the help of its best men, Rafael Leao and Christian Pulisic, who lately have not been ..."
+    },
+    {
+      "id": "cf28be596255",
+      "title": "Gabbia al CorSera: \"Allegri is fundamental, we want him to stay. The goal next year must be the second star\"",
+      "url": "https://www.milannews.it/primo-piano/gabbia-al-corsera-allegri-fondamentale-vogliamo-che-resti-l-obiettivo-l-anno-prossimo-deve-essere-la-seconda-stella-615132",
+      "source": "milannews.it",
+      "date": "2026-04-25T06:48:55+00:00",
+      "summary": "Interviewed by his colleague from Il Corriere della Sera Carlos Passerini, Matteo Gabbia spoke about the missed championship, about childhood memories but also about the difficult moment that Italian football is going through."
+    },
+    {
+      "id": "463e573e1f69",
+      "title": "From the Devil to the Red Devils. Tuttosport: \"Leao under fire\"",
+      "url": "https://www.milannews.it/rassegna-stampa/dal-diavolo-ai-red-devils-tuttosport-leao-sotto-tiro-615105",
+      "source": "milannews.it",
+      "date": "2026-04-25T06:36:58+00:00",
+      "summary": "The undisputed protagonist of this season finale will certainly be Rafael Leao, who has ended up at the center of a series of transfer rumors that would see him far from Milan and Serie A."
+    },
+    {
+      "id": "f14187f06796",
+      "title": "Towards Milan-Juve, CorSport on the front page: \"Max-Lucio, the beauty of opposites\"",
+      "url": "https://www.milannews.it/rassegna-stampa/verso-milan-juve-il-corsport-in-prima-pagina-max-lucio-il-bello-degli-opposti-615104",
+      "source": "milannews.it",
+      "date": "2026-04-25T06:24:00+00:00",
+      "summary": "Tomorrow Milan will host Juventus at the San Siro for the big match of the 34th matchday of Serie A. A big match that could say a lot, if not everything, with a view to qualifying for the next edition of the Champions League."
+    },
+    {
+      "id": "17e188450147",
+      "title": "Off to the revolution to win. La Gazzetta: \"Sorloth, yes to Milan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/via-alla-rivoluzione-per-vincere-la-gazzetta-sorloth-si-al-milan-615103",
+      "source": "milannews.it",
+      "date": "2026-04-25T06:12:25+00:00",
+      "summary": "In the summer, Milan will move a lot on the transfer market front to be able to provide Massimiliano Allegri with a strong, competitive team, capable of fighting on multiple national and international fronts."
+    },
+    {
+      "id": "8d452bf4446c",
+      "title": "Milan-Juventus is also Allegri against Spalletti: two different worlds but the same solidity",
+      "url": "https://www.milannews.it/primo-piano/milan-juventus-e-anche-allegri-contro-spalletti-due-mondi-diversi-ma-stessa-solidita-615101",
+      "source": "milannews.it",
+      "date": "2026-04-25T06:00:00+00:00",
+      "summary": "Allegri and Spalletti are often described as polar opposite coaches, almost symbols of two opposing ideas of football."
+    },
+    {
+      "id": "e3d39cbc9591",
+      "title": "Serie A, referee appointments for the 34th matchday",
+      "url": "https://www.milannews.it/news/serie-a-le-designazioni-arbitrali-per-la-34-giornata-615095",
+      "source": "milannews.it",
+      "date": "2026-04-25T05:48:00+00:00",
+      "summary": "Tomorrow there is the big match between Milan and Juventus: the match will be refereed by Simone Sozza from the Seregno section who has only met the Devil once this season, that is in the first leg derby of approximately ..."
+    },
+    {
+      "id": "f59271ce6d25",
+      "title": "Sozza will direct Milan-Juventus: the complete refereeing team",
+      "url": "https://www.milannews.it/news/sozza-dirigera-milan-juventus-la-terna-arbitrale-completa-615093",
+      "source": "milannews.it",
+      "date": "2026-04-25T05:36:00+00:00",
+      "summary": "The referee for tomorrow evening's match at 8pm has been appointed."
+    },
+    {
+      "id": "e321cfdbe561",
+      "title": "Tomorrow is Milan-Juve, today Allegri in conference: what time does the Rossoneri coach speak",
+      "url": "https://www.milannews.it/news/domani-c-e-milan-juve-oggi-allegri-in-conferenza-a-che-ora-parla-il-tecnico-rossonero-615096",
+      "source": "milannews.it",
+      "date": "2026-04-25T05:24:00+00:00",
+      "summary": "We find ourselves on the eve of one of the most important matches of the season for Milan. Tomorrow the Rossoneri return to San Siro, where they were defeated 0-3 by Udinese last time, to host at 8pm."
+    },
+    {
+      "id": "f66119cf26bb",
+      "title": "Towards Milan-Juventus, the precedents of the two teams: here's who is ahead",
+      "url": "https://www.milannews.it/news/verso-milan-juventus-i-precedenti-delle-due-squadre-ecco-chi-e-in-vantaggio-615091",
+      "source": "milannews.it",
+      "date": "2026-04-25T05:12:00+00:00",
+      "summary": "There is less and less left until tomorrow evening's big match between Milan and Juventus which will be played at San Siro at 8.45pm."
+    },
     {
       "id": "db9c567ad101",
       "title": "Serie A, the program of the 34th matchday: today three matches, tomorrow Milan-Juve",
@@ -80,86 +160,6 @@
       "source": "milannews.it",
       "date": "2026-04-24T21:30:00+00:00",
       "summary": "After the victory in Verona, Massimiliano Allegri's Milan want to continue their march towards the Champions League goal, which is now ever closer."
-    },
-    {
-      "id": "d266b6ab1b90",
-      "title": "Gimenez still on the bench on Sunday, but the anniversary is near: he hasn't scored in the league for almost a year",
-      "url": "https://www.milannews.it/news/gimenez-ancora-in-panchina-domenica-ma-l-anniversario-e-vicino-non-segna-da-quasi-un-anno-in-campionato-615029",
-      "source": "milannews.it",
-      "date": "2026-04-24T21:20:00+00:00",
-      "summary": "After the first months of settling in from January to May 2025, many were convinced that this could be the season of Santiago Gimenez's explosion in the Rossoneri."
-    },
-    {
-      "id": "d812ed8ccef4",
-      "title": "Serafini: \"There is talk of Tare-Allegri-Furlani meetings for the transfer market. The first two must take care of it: they are the sporting area, they are the experts, they are the competent ones\"",
-      "url": "https://www.milannews.it/news/serafini-si-parla-di-incontri-tare-allegri-furlani-per-il-mercato-se-ne-devono-occupare-i-primi-due-sono-loro-l-area-sportiva-sono-loro-gli-esperti-so-615019",
-      "source": "milannews.it",
-      "date": "2026-04-24T21:11:53+00:00",
-      "summary": "During his editorial for MilanNews.it, the journalist Luca Serafini expressed himself as follows on the management of Milan: \"There is talk of repeated meetings between Allegri, Tare and Furlani for the next transfer market."
-    },
-    {
-      "id": "a3cfa9246bb3",
-      "title": "Maldini's surprise at Costacurta for his 60th birthday: many anecdotes on Sky between the two friends and former Rossoneri teammates",
-      "url": "https://www.milannews.it/news/la-sorpresa-di-maldini-a-costacurta-per-i-suoi-60-anni-a-sky-tanti-aneddoti-tra-i-due-amici-ed-ex-compagni-rossoneri-615100",
-      "source": "milannews.it",
-      "date": "2026-04-24T21:04:57+00:00",
-      "summary": "On his sixtieth birthday, the Sky Sport 24 studio prepared a nice surprise for Alessandro Billy Costacurta, the Rossoneri legend."
-    },
-    {
-      "id": "3e51387eb332",
-      "title": "Rabiot (almost) record-breaking: against Juventus he could achieve a new personal best",
-      "url": "https://www.milannews.it/news/rabiot-quasi-da-record-contro-la-juve-potrebbe-realizzare-un-nuovo-primato-personale-615081",
-      "source": "milannews.it",
-      "date": "2026-04-24T21:00:00+00:00",
-      "summary": "After the victory in Verona, Massimiliano Allegri's Milan want to continue their march towards the Champions League goal, which is now ever closer."
-    },
-    {
-      "id": "28894df91225",
-      "title": "Serie A, Napoli-Cremonese 4-0: the Neapolitans lead Milan in the standings",
-      "url": "https://www.milannews.it/news/serie-a-napoli-cremonese-4-0-i-partenopei-staccano-il-milan-in-classifica-615099",
-      "source": "milannews.it",
-      "date": "2026-04-24T20:58:03+00:00",
-      "summary": "Napoli jokes with Cremonese, increasingly embroiled in the battle for survival, and leaves Maradona with 3 points and a clear 4-0."
-    },
-    {
-      "id": "9c4baa3e3617",
-      "title": "Milan-Juventus: Tomori's curious record against the Bianconeri",
-      "url": "https://www.milannews.it/news/milan-juventus-il-curioso-record-di-tomori-contro-i-bianconeri-615076",
-      "source": "milannews.it",
-      "date": "2026-04-24T20:50:00+00:00",
-      "summary": "After the victory in Verona, Massimiliano Allegri's Milan want to continue their march towards the Champions League goal, which is now ever closer."
-    },
-    {
-      "id": "efb71982444c",
-      "title": "Away goals in Serie A: Rabiot is on the podium of the midfielders who have scored the most",
-      "url": "https://www.milannews.it/news/gol-in-trasferta-in-serie-a-rabiot-e-sul-podio-dei-centrocampisti-che-hanno-segnato-di-piu-615023",
-      "source": "milannews.it",
-      "date": "2026-04-24T20:40:01+00:00",
-      "summary": "Among midfielders in this Serie A season, only Scott McTominay and Nico Paz (six both) have scored more away goals than Adrien Rabiot (five). Opta reports it."
-    },
-    {
-      "id": "e001f2f420d0",
-      "title": "Bianchin on the market: \"Gila and Goretzka more than possible, but there are difficulties...\"",
-      "url": "https://www.milannews.it/calciomercato-milan/bianchin-sul-mercato-gila-e-goretzka-piu-che-possibili-ma-ci-sono-delle-difficolta-615067",
-      "source": "milannews.it",
-      "date": "2026-04-24T20:30:36+00:00",
-      "summary": "Gazzetta dello Sport colleague Luca Bianchin was a guest on Andrea Longoni's YouTube channel, Milan Hello, who spoke about various issues related to the Rossoneri."
-    },
-    {
-      "id": "f111d47e0734",
-      "title": "Marotta confident: \"The quality of the players has declined since 2006. Malagò? Serie A must be listened to\"",
-      "url": "https://www.milannews.it/news/marotta-sicuro-dal-2006-calo-di-qualita-nei-giocatori-malago-la-serie-a-deve-essere-ascoltata-615073",
-      "source": "milannews.it",
-      "date": "2026-04-24T20:20:24+00:00",
-      "summary": "In the next few days, an interview with Inter president Giuseppe Marotta will be broadcast on DAZN channels in which he discussed various topics."
-    },
-    {
-      "id": "34ffca921005",
-      "title": "Nesta: \"Milan was magical: everyone paid twice as much as everyone else. Gardener, waiter, cook...\"",
-      "url": "https://www.milannews.it/news/nesta-il-milan-era-magico-tutti-andavano-al-doppio-degli-altri-giardiniere-cameriere-cuoco-615064",
-      "source": "milannews.it",
-      "date": "2026-04-24T20:10:00+00:00",
-      "summary": "On the occasion of his 50th birthday, celebrated during the month of March, the legendary AC Milan and Italian national team defender Alessandro Nesta was the protagonist of an interview on the DAZN channels, in particular in ..."
     },
     {
       "id": "ec5d821b841f",
