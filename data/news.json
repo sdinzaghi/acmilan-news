@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-04-26T16:40:21.238747+00:00",
+  "lastUpdated": "2026-04-26T17:37:24.857146+00:00",
   "articles": [
+    {
+      "id": "0cf40e9a4436",
+      "title": "MN - Gerry Cardinale present at San Siro for Milan-Juventus",
+      "url": "https://www.milannews.it/news/mn-gerry-cardinale-presente-a-san-siro-per-milan-juventus-615267",
+      "source": "milannews.it",
+      "date": "2026-04-26T17:30:11+00:00",
+      "summary": "For this evening's Milan-Juventus, a match valid for the thirty-fourth matchday of Serie A, the editorial team of MilanNews.it learns that Gerry Cardinale, founder and managing partner of RedBird, is also present at San Siro."
+    },
+    {
+      "id": "8c351729fa56",
+      "title": "VIDEO MN - The arrival of the Rossoneri bus at San Siro from above. At 8.45pm Milan-Juve",
+      "url": "https://www.milannews.it/news/video-mn-l-arrivo-dall-alto-del-pullman-rossonero-a-san-siro-alle-20-45-milan-juve-615266",
+      "source": "milannews.it",
+      "date": "2026-04-26T17:24:58+00:00",
+      "summary": "The AC Milan bus has just arrived at San Siro, welcomed as always by a good number of Rossoneri fans: the match against Juventus is at 8.45pm."
+    },
+    {
+      "id": "7f65d0969588",
+      "title": "Calamai: \"Allegri is more of a selector than Conte: what it takes to be a coach\"",
+      "url": "https://www.milannews.it/news/calamai-allegri-e-piu-selezionatore-di-conte-quello-che-serve-per-fare-il-ct-615212",
+      "source": "milannews.it",
+      "date": "2026-04-26T17:24:00+00:00",
+      "summary": "Luca Calamai, in his editorial on TMW, spoke thus of the names eligible for the role of coach of the national team: \"It is said that the hottest names are those of Allegri and Conte. I would focus on the current Milan coach."
+    },
+    {
+      "id": "3d5cd9ff08cc",
+      "title": "Gabbia remembers Villarreal: \"A period abroad improves you: you mature, you change patterns\"",
+      "url": "https://www.milannews.it/news/gabbia-ricorda-villarreal-un-periodo-all-estero-ti-migliora-maturi-cambi-schemi-615163",
+      "source": "milannews.it",
+      "date": "2026-04-26T17:11:00+00:00",
+      "summary": "Interviewed by his colleague from Il Corriere della Sera Carlos Passerini, Matteo Gabbia spoke about the missed championship, about childhood memories but also about the difficult moment that Italian football is going through."
+    },
+    {
+      "id": "d45cf06c4e47",
+      "title": "Allegri and the positive tradition against the big teams: his numbers against the top six in the table",
+      "url": "https://www.milannews.it/news/allegri-e-la-tradizione-positiva-contro-le-big-i-suoi-numeri-contro-le-prime-sei-della-classifica-615218",
+      "source": "milannews.it",
+      "date": "2026-04-26T17:00:00+00:00",
+      "summary": "Everything is ready for the match between Milan and Juve, scheduled for tonight. Max Allegri against his past: the coach from Livorno arrives at tonight's match with an excellent tradition against the big teams in this championship."
+    },
+    {
+      "id": "aea1cd16fdb9",
+      "title": "Maldini: \"Tabarez, who was a great gentleman, arrived in a very difficult moment, the failure is not so much his, but the whole environment's\"",
+      "url": "https://www.milannews.it/news/maldini-tabarez-che-era-un-grandissimo-signore-e-arrivato-in-un-momento-difficilissimo-il-fallimento-non-e-tanto-suo-ma-era-di-tutto-l-ambiente-615249",
+      "source": "milannews.it",
+      "date": "2026-04-26T16:48:07+00:00",
+      "summary": "In recent days, Sky Sport organized a nice \"carrambata\" for Costacurta's 60th birthday."
+    },
     {
       "id": "d52afda71f38",
       "title": "Lega Serie A: \"A warranty notice does not call into question a system\"",
@@ -162,22 +210,6 @@
       "summary": "Lorenzo and Stefano discussed the future of Massimiliano Allegri in their latest Pub Chat episode, highlighting why he must stay despite some doubts.  It has been a lively few weeks as far as Allegri’s future is concerned. After Italy failed to qualify for the World Cup, he was named as the primary "
     },
     {
-      "id": "48abeaeb5bac",
-      "title": "Referee storm, Rocca wrote \"Napoli were favoured in Inter-Roma\"",
-      "url": "https://www.milannews.it/news/bufera-arbitri-rocca-scrisse-su-inter-roma-fu-favorito-il-napoli-615259",
-      "source": "milannews.it",
-      "date": "2026-04-26T14:11:36+00:00",
-      "summary": "(ANSA) \"Why in Inter-Roma, matchday supervisor Gervasoni doesn't 'knock' at the VAR to get a clear penalty kick awarded (."
-    },
-    {
-      "id": "e377166184e5",
-      "title": "Towards Milan-Juve, five players within the Rossoneri are within a booking of a booking: here's who they are",
-      "url": "https://www.milannews.it/news/verso-milan-juve-cinque-diffidati-tra-i-rossoneri-ecco-di-chi-si-tratta-615221",
-      "source": "milannews.it",
-      "date": "2026-04-26T14:00:00+00:00",
-      "summary": "Everything is ready for Milan-Juve, scheduled for tonight. A fundamental match for Champions League qualification, Max Allegri will challenge his past."
-    },
-    {
       "id": "4bf20a6e9b49",
       "title": "No goals for the Rossoneri since 2023: All the key stats ahead of Milan vs. Juventus",
       "url": "https://sempremilan.com/all-key-stats-milan-juventus-2025-26",
@@ -186,44 +218,12 @@
       "summary": "AC Milan and Juventus will battle it out in front of a big crowd at San Siro tonight. While precedents would suggest that a draw is on the cards, it’s not something either side will be super happy with. As things stand, only three points separate the two sides in the standings. Considering that the "
     },
     {
-      "id": "bc3c61ca9491",
-      "title": "Chaos referees, Codacons: \"Italian football cannot afford new shadows after the scandals of the past. Evaluating will revoke any titles\"",
-      "url": "https://www.milannews.it/news/caos-arbitri-codacons-il-calcio-italiano-non-puo-permettersi-nuove-ombre-dopo-gli-scandali-del-passato-valutare-revoca-eventuali-titoli-615258",
-      "source": "milannews.it",
-      "date": "2026-04-26T13:47:11+00:00",
-      "summary": "Great turmoil in Italian football due to the notice of investigation received by the referee Rocchi, who is under investigation for complicity in sports fraud."
-    },
-    {
-      "id": "d99ec2568078",
-      "title": "MN - Renna: \"Excellent performance, guys who were very good at reacting. It's important to grow, even by making mistakes\"",
-      "url": "https://www.milannews.it/la-primavera/mn-renna-prestazione-eccellente-ragazzi-bravissimi-a-reagire-importante-crescere-anche-sbagliando-615257",
-      "source": "milannews.it",
-      "date": "2026-04-26T13:35:43+00:00",
-      "summary": "Milan Primavera comesback to win against Cagliari: at the Puma House of Football it ends 2-1 for the Rossoneri. The MilanNews correspondent."
-    },
-    {
-      "id": "c5fb19aa68e0",
-      "title": "Serie A, Fiorentina-Sassuolo 0-0: the updated standings",
-      "url": "https://www.milannews.it/news/serie-a-fiorentina-sassuolo-0-0-la-classifica-aggiornata-615256",
-      "source": "milannews.it",
-      "date": "2026-04-26T13:23:08+00:00",
-      "summary": "Fiorentina-Sassuolo ends 0-0. Goalless between the two teams who, with four days to go, barely move the table."
-    },
-    {
       "id": "e5b32acc89d9",
       "title": "Milan Primavera 2-1 Cagliari: Domnitei and Scotti secure comeback win",
       "url": "https://sempremilan.com/milan-primavera-2-1-cagliari-domnitei-scotti",
       "source": "sempremilan.com",
       "date": "2026-04-26T13:21:36+00:00",
       "summary": "Milan Primavera clinched three very important points against Cagliari this afternoon, coming back from behind with a strong performance.  After the draw against Sassuolo last time out, which kept them in 14th place, Giovanni Renna headed into today’s game with the need to win to keep the play-offs c"
-    },
-    {
-      "id": "051c69a70c42",
-      "title": "Costacurta: \"Zaccheroni is the most underrated coach. The worst? In a certain respect Terim...\"",
-      "url": "https://www.milannews.it/news/costacurta-zaccheroni-l-allenatore-piu-sottovalutato-il-peggiore-sotto-un-certo-aspetto-terim-615247",
-      "source": "milannews.it",
-      "date": "2026-04-26T13:12:21+00:00",
-      "summary": "In recent days, Sky Sport organized a nice \"carrambata\" for Costacurta's 60th birthday."
     },
     {
       "id": "145a80c5033e",
