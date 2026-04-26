@@ -1,33 +1,113 @@
 {
-  "lastUpdated": "2026-04-26T11:38:29.661628+00:00",
+  "lastUpdated": "2026-04-26T13:03:15.599232+00:00",
   "articles": [
     {
-      "id": "d1c83aaa8256",
-      "title": "LIVE MN - Primavera, Milan-Cagliari (0-1): Sardinian crossbar",
-      "url": "https://www.milannews.it/la-primavera/live-mn-primavera-milan-cagliari-0-1-traversa-dei-sardi-615244",
+      "id": "3f1666d2356b",
+      "title": "From Gullit to Thiem: San Siro is filled with stars for Milan-Juve",
+      "url": "https://www.milannews.it/news/da-gullit-a-thiem-san-siro-si-riempie-di-stelle-per-milan-juve-615216",
       "source": "milannews.it",
-      "date": "2026-04-26T11:37:00+00:00",
-      "summary": "35' CAGLIARI CROSSBALL! Great counterattack by the Sardinians, with Sugamele serving on the edge of the area and releasing a shot that went off Bouyer's crossbar."
+      "date": "2026-04-26T13:00:00+00:00",
+      "summary": "Everything is ready for Milan-Juve, a big match that could prove fundamental for Champions League qualification. As reported in today's edition of Corriere dello Sport, there will be no shortage of VIP guests."
     },
     {
-      "id": "2800a377b32a",
-      "title": "Costacurta: \"Contained celebrations over the years? Characteristic...\". Maldini: \"Special character but we are not bigots\"",
-      "url": "https://www.milannews.it/news/costacurta-festeggiamenti-contenuti-negli-anni-caratteriale-maldini-carattere-particolare-ma-non-siamo-bacchettoni-615246",
+      "id": "db0080491cf1",
+      "title": "LIVE MN - Primavera, Milan-Cagliari (2-1): nice victory for the Rossoneri",
+      "url": "https://www.milannews.it/la-primavera/live-mn-primavera-milan-cagliari-2-1-bella-vittoria-dei-rossoneri-615244",
       "source": "milannews.it",
-      "date": "2026-04-26T11:36:00+00:00",
-      "summary": "In recent days, Sky Sport organized a nice \"carrambata\" for Costacurta's 60th birthday."
+      "date": "2026-04-26T12:55:00+00:00",
+      "summary": "Excellent victory for the Rossoneri, who did well to stay in the game after Cagliari's lead at the start of the match."
+    },
+    {
+      "id": "145a80c5033e",
+      "title": "Longoni urges Milan to push for Goretzka: “It would be a real coup”",
+      "url": "https://sempremilan.com/longoni-urges-milan-push-goretzka",
+      "source": "sempremilan.com",
+      "date": "2026-04-26T12:50:00+00:00",
+      "summary": "Leon Goretzka has ended up at the top of AC Milan’s wish list, with an offer already tabled, and the journalist Andrea Longoni has urged them to go through with the deal.  Although there are still five games left of the season, Milan have already begun planning for the summer mercato and the 2026-27"
+    },
+    {
+      "id": "8d4d785dc84c",
+      "title": "Jugovic: \"In my time the real problem was finishing in second place and not first\"",
+      "url": "https://www.milannews.it/news/jugovic-ai-miei-tempi-il-vero-problema-era-chiudere-al-secondo-posto-e-non-al-primo-615232",
+      "source": "milannews.it",
+      "date": "2026-04-26T12:48:34+00:00",
+      "summary": "A match like Milan-Juventus escapes any type of prediction and mood situation on the eve: let alone if it is played with five matchdays to go with very important points for qualification for the Champions League."
+    },
+    {
+      "id": "2940a893790c",
+      "title": "Rocchi case, Chinè: \"Truthful and imaginative news, investigated following rules\"",
+      "url": "https://www.milannews.it/news/caso-rocchi-chine-notizie-veritiere-e-fantasiose-indagato-seguendo-regole-615253",
+      "source": "milannews.it",
+      "date": "2026-04-26T12:35:34+00:00",
+      "summary": "The FIGC prosecutor Giuseppe Chinè intervenes with a note on the affair which sees the referee Rocchi under investigation for sports fraud in the competition: \"Since in these last hours some press organs are spreading news ..."
+    },
+    {
+      "id": "86c066b0574f",
+      "title": "The five key battles that could win or lose the game for Milan against Juventus",
+      "url": "https://sempremilan.com/five-key-battles-milan-juventus-2025-26",
+      "source": "sempremilan.com",
+      "date": "2026-04-26T12:24:59+00:00",
+      "summary": "It’s a big one at San Siro! AC Milan are up against Juventus and as you would expect, there are several interesting player battles to delve into.  Milan bounced back with a crucial win against Hellas Verona last weekend, following two consecutive defeats. Currently, they are three points ahead of Ju"
+    },
+    {
+      "id": "fc440b053cda",
+      "title": "Rocchi case, Simonelli: \"Avoid exploitation that only generates misinformation. It is never allowed to question the credibility of the system and the regularity of the championship\"",
+      "url": "https://www.milannews.it/news/caso-rocchi-simonelli-evitare-strumentalizzazioni-che-generano-solo-disinformazione-giammai-e-consentito-mettere-in-dubbio-la-credibilita-del-sistema-615254",
+      "source": "milannews.it",
+      "date": "2026-04-26T12:23:24+00:00",
+      "summary": "Ezio Simonelli, president of the Lega Calcio Serie A, intervened regarding the notice of guarantee delivered to the designator Gianluca Rocchi."
+    },
+    {
+      "id": "25b4bf4f58ae",
+      "title": "Raimondi towards Milan-Juve: \"Only one doubt at Milanello and it will be resolved this afternoon\"",
+      "url": "https://www.milannews.it/news/raimondi-verso-milan-juve-a-milanello-solo-un-dubbio-e-verra-sciolto-questo-pomeriggio-615252",
+      "source": "milannews.it",
+      "date": "2026-04-26T12:11:51+00:00",
+      "summary": "Bartesaghi yes or Bartesaghi no? In recent days the left side has not been at his best and therefore Allegri is inclined to start Estupinan from the start this evening against Juventus."
     },
     {
       "id": "b50711a6c7c8",
       "title": "LIVE MN - Towards Milan-Juve: Estupinan returns to the starting line-up, up front with Leao and Pulisic",
       "url": "https://www.milannews.it/primo-piano/live-mn-verso-milan-juve-estupinan-torna-titolare-davanti-con-leao-e-pulisic-615240",
       "source": "milannews.it",
-      "date": "2026-04-26T11:30:00+00:00",
-      "summary": "PROBABLE MILAN LINE-UP (3-5-2): Maignan; Tomori, Gabbia, Pavlovic; Saelemaekers, Fofana, Modric, Rabiot, Estupinan; Leao, Pulisic.\n\n13."
+      "date": "2026-04-26T12:01:00+00:00",
+      "summary": "PROBABLE MILAN LINE-UP (3-5-2): Maignan; Tomori, Gabbia, Pavlovic; Saelemaekers, Fofana, Modric, Rabiot, Estupinan; Leao, Pulisic.\n\n14."
+    },
+    {
+      "id": "d16335dd52ed",
+      "title": "Simone: \"Milan forwards are not real strikers. Leao eternal Peter Pan\"",
+      "url": "https://www.milannews.it/news/simone-attaccanti-del-milan-non-sono-veri-attaccanti-leao-eterno-peter-pan-615233",
+      "source": "milannews.it",
+      "date": "2026-04-26T12:00:00+00:00",
+      "summary": "Today, Milan hopes to find the goals of its attackers again against Juventus, in a big match that could define the Rossoneri's season."
+    },
+    {
+      "id": "3b114fe44ad2",
+      "title": "GdS: David for Juve, Leao and Pulisic for Milan – players with a point to prove",
+      "url": "https://sempremilan.com/gds-david-juve-leao-pulisic-milan-point",
+      "source": "sempremilan.com",
+      "date": "2026-04-26T11:51:34+00:00",
+      "summary": "AC Milan and Juventus are both experiencing issues in the final third, which makes tonight’s clash at San Siro all the more interesting.  After finding the back of the net against Mainz yesterday, Harry Kane’s tally increased to 53 goals for the season: that is as many goals as Milan have scored in "
+    },
+    {
+      "id": "f67fffffc831",
+      "title": "Serie A: Juve leaving for Milan, Yildiz recovers and Vlahovic returns",
+      "url": "https://www.milannews.it/l-avversario/serie-a-juve-in-partenza-per-milano-recupera-yildiz-e-torna-vlahovic-615250",
+      "source": "milannews.it",
+      "date": "2026-04-26T11:48:46+00:00",
+      "summary": "(ANSA) - TURIN, APRIL 26 - Juventus is leaving for Milan and the group also includes Kenan Yildiz and Dusan Vlahovic."
+    },
+    {
+      "id": "2800a377b32a",
+      "title": "Costacurta: \"Constrained celebrations over the years? Characteristic...\". Maldini: \"Special character but we are not bigots\"",
+      "url": "https://www.milannews.it/news/costacurta-festeggiamenti-contenuti-negli-anni-caratteriale-maldini-carattere-particolare-ma-non-siamo-bacchettoni-615246",
+      "source": "milannews.it",
+      "date": "2026-04-26T11:36:00+00:00",
+      "summary": "In recent days, Sky Sport organized a nice \"carrambata\" for Costacurta's 60th birthday."
     },
     {
       "id": "5c625b7e3771",
-      "title": "Italy out of the World Cup, Gabbia: \"I feel responsible like the boys who were in Bosnia\"",
+      "title": "Italy out of the World Cup, Gabbia: \"I feel responsible like the guys who were in Bosnia\"",
       "url": "https://www.milannews.it/news/italia-fuori-dai-mondiali-gabbia-mi-sento-responsabile-come-i-ragazzi-che-erano-in-bosnia-615166",
       "source": "milannews.it",
       "date": "2026-04-26T11:24:20+00:00",
@@ -103,7 +183,7 @@
       "url": "https://www.milannews.it/la-primavera/primavera-milan-cagliari-le-formazioni-ufficiali-615242",
       "source": "milannews.it",
       "date": "2026-04-26T10:12:26+00:00",
-      "summary": "Today the Milan Primavera team returns to the pitch: the match against Cagliari will kick off at 1pm. These are the official choices of Mister Giovanni Renna."
+      "summary": "Today Milan Primavera returns to the pitch: the match against Cagliari will kick off at 1pm. These are the official choices of Mister Giovanni Renna."
     },
     {
       "id": "a1d0a81fa3ec",
@@ -119,7 +199,7 @@
       "url": "https://www.milannews.it/news/vaciago-come-si-puo-non-pensare-a-calciopoli-con-un-designatore-accusato-di-scegliere-arbitri-graditi-all-inter-615237",
       "source": "milannews.it",
       "date": "2026-04-26T09:48:00+00:00",
-      "summary": "The notice of guarantee delivered to Gianluca Rocchi, referee designator of Serie A and B, and Andrea Gervasoni, VAR supervisor, could be yet another counterweight that risks further sinking Italian football."
+      "summary": "The notice of guarantee delivered to Gianluca Rocchi, referee designator of Serie A and B, and Andrea Gervasoni, VAR supervisor, may be yet another counterweight that risks further sinking Italian football."
     },
     {
       "id": "1d2359b41f79",
@@ -154,22 +234,6 @@
       "summary": "Calcio is in shock after reports revealing that Gianluca Rocchi and Andrea Gervasoni are under investígation for influencing the officiating in various ways.  Today’s edition of Gazzetta dello Sport (see photo at the bottom) has taken a closer look at the five games that are mentioned in the investi"
     },
     {
-      "id": "271e28c190cb",
-      "title": "Simone: \"I thought Milan would have managed to annoy Inter more\"",
-      "url": "https://www.milannews.it/news/simone-pensavo-che-il-milan-sarebbe-riuscito-a-dare-piu-fastidio-all-inter-615229",
-      "source": "milannews.it",
-      "date": "2026-04-26T09:12:00+00:00",
-      "summary": "Today, Milan hopes to find the goals of its attackers again against Juventus, in a big match that could define the Rossoneri's season."
-    },
-    {
-      "id": "088539406d04",
-      "title": "Fofana can finance Goretzka: two French clubs interested",
-      "url": "https://www.milannews.it/calciomercato-milan/fofana-puo-finanziare-goretzka-due-club-francesi-interessati-615228",
-      "source": "milannews.it",
-      "date": "2026-04-26T09:00:04+00:00",
-      "summary": "The match between Milan and Juventus will be played on the pitch tonight but could also be played on the transfer market negotiation tables."
-    },
-    {
       "id": "68d8116c8fcb",
       "title": "GdS: Parallel paths, obvious stars, but different tactics – Milan vs. Juve provides great storyline",
       "url": "https://sempremilan.com/gds-parallel-stars-tactics-milan-juventus",
@@ -178,52 +242,12 @@
       "summary": "Tonight’s clash between AC Milan and Juventus is a big one for the Champions League race, with the Rossoneri aiming to secure their spot sooner rather than later.  As highlighted by today’s edition of Gazzetta dello Sport, Milan-Juventus will also be a battle between two very different managers. Mas"
     },
     {
-      "id": "a728fe123175",
-      "title": "Giaccherini: \"Juve are the best team in Italy at the moment. Milan are back, they will close\"",
-      "url": "https://www.milannews.it/news/giaccherini-al-momento-la-juve-e-la-squadra-migliore-di-italia-milan-indietro-si-chiudera-615224",
-      "source": "milannews.it",
-      "date": "2026-04-26T08:48:22+00:00",
-      "summary": "This evening we finally take to the field for Milan-Juventus, a crucial match in terms of the chase to the Champions League, even more so after Roma defeated Bologna yesterday and therefore got closer to the ..."
-    },
-    {
-      "id": "bba409cb4010",
-      "title": "Rocchi under investigation: the FIGC Prosecutor's Office requests the documents in Milan",
-      "url": "https://www.milannews.it/news/rocchi-indagato-la-procura-figc-chiede-gli-atti-a-milano-615207",
-      "source": "milannews.it",
-      "date": "2026-04-26T08:36:20+00:00",
-      "summary": "(ANSA) - ROME, APRIL 25 - The Federal Prosecutor's Office, ANSA learns from Federcalcio sources, requested the documents from the Milan Public Prosecutor's Office this morning on the Gianluca Rocchi case, \"even before this request was requested by the ..."
-    },
-    {
       "id": "31c6455a2c60",
       "title": "Tuttosport: One Milan game involved as Rocchi is investigated for Inter favouritism",
       "url": "https://sempremilan.com/tuttosport-one-milan-game-rocchi-inter-favouritism",
       "source": "sempremilan.com",
       "date": "2026-04-26T08:25:00+00:00",
       "summary": "The man in charge of assigning the referees to Serie A games, Gianluca Rocchi, is under investigation for sporting fraud and there is a risk that the matter will escalate.  Yesterday, as was very clearly highlighted on today’s front pages, the news dropped like a bomb: Rocchi, head of AIA’s CAN A-B,"
-    },
-    {
-      "id": "f3a94b739f96",
-      "title": "Towards Milan-Juve, the probable Rossoneri lineup: only one change compared to Verona",
-      "url": "https://www.milannews.it/news/verso-milan-juve-la-probabile-formazione-rossonera-un-solo-cambio-rispetto-a-verona-615220",
-      "source": "milannews.it",
-      "date": "2026-04-26T08:24:00+00:00",
-      "summary": "Everything is ready for Milan-Juve, a watershed match for Champions League qualification. As reported by Corriere dello Sport, Max Allegri will dress his Devil in the most used outfit during this season: the 3-5-2."
-    },
-    {
-      "id": "31cda39ba55c",
-      "title": "Zazzaroni: \"A nice way has been found to celebrate twenty years of Calciopoli\"",
-      "url": "https://www.milannews.it/news/zazzaroni-e-stato-trovato-un-simpatico-modo-per-festeggiare-i-vent-anni-di-calciopoli-615236",
-      "source": "milannews.it",
-      "date": "2026-04-26T08:12:00+00:00",
-      "summary": "A new possible scandal casts shadows on Italian football, already undermined by the poor results on the pitch of the national team and its representatives in European competitions."
-    },
-    {
-      "id": "8792460b10e5",
-      "title": "Midfield intrigue: how Modric can stay and how Fofana can leave",
-      "url": "https://www.milannews.it/primo-piano/intrighi-di-centrocampo-come-puo-restare-modric-e-come-puo-partire-fofana-615235",
-      "source": "milannews.it",
-      "date": "2026-04-26T08:00:00+00:00",
-      "summary": "Among all the departments of the Rossoneri squad, perhaps that of the midfield was the most solid in the AC Milan season. Basically there are two very simple answers: Luka Modric and Adrien Rabiot."
     },
     {
       "id": "2a03291540ee",
@@ -314,14 +338,6 @@
       "summary": "Tomorrow evening, AC Milan will host Juventus at San Siro with the hopes of further securing their Champions League place.  It has not been a game without frustration from a Milan fan perspective. Indeed, the Curva Sud have been rather vocal about the ticket pricing for this fixture and have asked f"
     },
     {
-      "id": "4a06346ea457",
-      "title": "Chivu opposes Allegri and Corto Muso style during press conference: “The days when best defences win”",
-      "url": "https://sempremilan.com/chivu-opposes-allegri-corto-muso-style",
-      "source": "sempremilan.com",
-      "date": "2026-04-25T14:30:00+00:00",
-      "summary": "This season, AC Milan have played a very Allegrian defensive game, as was expected. However, not everyone is too keen on it. Massimiliano Allegri’s football is not for everyone. In fact, it is not even for some Milan fans, who have questioned his long-term position at the football club. However, it "
-    },
-    {
       "id": "99e8ff3f82e2",
       "title": "Report Rocchi accused of removing referee Doveri, who was not liked by Inter",
       "url": "https://football-italia.net/report-rocchi-accused-removing-referee-doveri/",
@@ -330,28 +346,12 @@
       "summary": "There are allegations that refereeing chief designator Gianluca Rocchi is under investigation for sporting fraud..."
     },
     {
-      "id": "16edac32006c",
-      "title": "CorSport: Milan expecting to hear offers in excess of €70m for Nkunku and Gimenez",
-      "url": "https://sempremilan.com/milan-expecting-offers-70m-nkunku-gimenez",
-      "source": "sempremilan.com",
-      "date": "2026-04-25T14:00:00+00:00",
-      "summary": "This summer, AC Milan are expecting offers to arrive for two of their recent mercato disappointments: Santiago Gimenez and Christopher Nkunku. In recent seasons, Milan have had some desperate luck in the mercato. There have, of course, been some good additions. However, there have been far too many "
-    },
-    {
       "id": "993b168415a9",
       "title": "Bremer: ‘Juventus must win and cannot keep coasting for 6 years’",
       "url": "https://football-italia.net/bremer-juventus-must-win-cannot-keep-coasting/",
       "source": "football-italia.net",
       "date": "2026-04-25T13:55:22+00:00",
       "summary": "Gleison Bremer has warned Juventus ‘have been just coasting along for six years and this..."
-    },
-    {
-      "id": "ed62342dcef9",
-      "title": "GdS: Milan content with Futuro staying in Serie D despite repechage rankings",
-      "url": "https://sempremilan.com/milan-futuro-content-staying-serie-d-despite-rankings",
-      "source": "sempremilan.com",
-      "date": "2026-04-25T13:30:00+00:00",
-      "summary": "The Milan Futuro project has not blown many away at this point, however, the club are very pleased with the situation as it is. When the Futuro got relegated last season, there were talks of what Milan would do moving forward. After all, they invested heavily and the immediate showing was not positi"
     },
     {
       "id": "98720e346119",
