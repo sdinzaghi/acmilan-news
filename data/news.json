@@ -1,21 +1,85 @@
 {
-  "lastUpdated": "2026-04-26T18:52:34.128324+00:00",
+  "lastUpdated": "2026-04-26T19:44:50.363618+00:00",
   "articles": [
     {
+      "id": "2e475bddb741",
+      "title": "Serie A Liveblog: Inter vs. Torino and Milan vs. Juventus",
+      "url": "https://football-italia.net/serie-a-liveblog-inter-torino-milan-juventus/",
+      "source": "football-italia.net",
+      "date": "2026-04-26T19:40:47+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "c3dd679d93e7",
+      "title": "Compagnoni: \"Juve is better than Milan. The Rossoneri don't have a center forward, too many mistakes on the market: money almost thrown out the window\"",
+      "url": "https://www.milannews.it/news/compagnoni-arriva-meglio-la-juve-del-milan-i-rossoneri-non-hanno-un-centravanti-troppi-errori-sul-mercato-soldi-quasi-buttati-dalla-finestra-615251",
+      "source": "milannews.it",
+      "date": "2026-04-26T19:36:18+00:00",
+      "summary": "Milan-Juve, great Serie A classic and challenge for a place in the Champions League."
+    },
+    {
+      "id": "796b0c517522",
+      "title": "LIVE MN - Milan-Juventus (0-0): the first half ends",
+      "url": "https://www.milannews.it/primo-piano/live-mn-milan-juventus-0-0-termina-il-primo-tempo-615260",
+      "source": "milannews.it",
+      "date": "2026-04-26T19:35:00+00:00",
+      "summary": "END OF THE FIRST HALF - A first half of the game with a slow pace initially, with the two teams intent on studying each other for most of the first half."
+    },
+    {
+      "id": "18c76450a3c8",
+      "title": "Milan looking for a striker. Vieri: \"Lewandowski? I wouldn't take him for a question of age, we need a young man\"",
+      "url": "https://www.milannews.it/gli-ex/milan-a-caccia-di-un-attaccante-vieri-lewandowski-io-non-lo-prenderei-per-una-questione-di-eta-serve-un-giovane-615273",
+      "source": "milannews.it",
+      "date": "2026-04-26T19:24:25+00:00",
+      "summary": "Christian Vieri, present in the DAZN studios, spoke thus about the future of Massimiliano Allegri and Milan's attack: \"If I were Allegri I wouldn't go to the national team, but I would stay at Milan."
+    },
+    {
+      "id": "3bea66f4b2d0",
+      "title": "Simone: \"I heard that a draw is convenient for both of us, but I don't think we'll go out on the pitch for a 0-0 draw\"",
+      "url": "https://www.milannews.it/news/simone-ho-sentito-dire-che-a-entrambe-il-pari-fa-comodo-ma-non-credo-si-scenda-in-campo-per-lo-0-0-615279",
+      "source": "milannews.it",
+      "date": "2026-04-26T19:12:54+00:00",
+      "summary": "Today, Milan hopes to find the goals of its attackers again against Juventus, in a big match that could define the Rossoneri's season."
+    },
+    {
+      "id": "e58dd4a6330c",
+      "title": "How Inter could celebrate Scudetto triumph next week",
+      "url": "https://football-italia.net/how-inter-could-celebrate-scudetto-triumph/",
+      "source": "football-italia.net",
+      "date": "2026-04-26T19:02:05+00:00",
+      "summary": "Inter were held to a 2-2 draw by Torino and saw their lead at the..."
+    },
+    {
+      "id": "79e3cda3fbaf",
+      "title": "MN - Davide Calabria was also present at San Siro for Milan-Juventus",
+      "url": "https://www.milannews.it/news/mn-presente-a-san-siro-per-milan-juventus-anche-davide-calabria-615282",
+      "source": "milannews.it",
+      "date": "2026-04-26T19:00:07+00:00",
+      "summary": "Not only Gerry Cardinale and Ruud Gullit on the occasion of his inclusion in the Milan Hall of Fame. The MilanNews editorial team learns."
+    },
+    {
+      "id": "1f240a57653d",
+      "title": "Milan-Juventus, the number of spectators present at San Siro: 75,681",
+      "url": "https://www.milannews.it/news/milan-juventus-il-dato-degli-spettatori-presenti-a-san-siro-75-681-615286",
+      "source": "milannews.it",
+      "date": "2026-04-26T18:55:36+00:00",
+      "summary": "Milan has communicated the definitive figure of the spectators present this evening at San Siro for the match against Juventus, valid for the 34th matchday of Serie A: there are 75,681 people in the stands of the Milanese stadium."
+    },
+    {
+      "id": "d7e01ab591b2",
+      "title": "Allegri: \"Here's what we have to do tonight against Juventus\"",
+      "url": "https://www.milannews.it/news/allegri-ecco-cosa-dovremo-fare-stasera-contro-la-juventus-615277",
+      "source": "milannews.it",
+      "date": "2026-04-26T18:48:18+00:00",
+      "summary": "Before the championship match against Juventus at San Siro, Massimiliano Allegri released these words to DAZN: \"It's always Milan-Juventus, it will be a good match."
+    },
+    {
       "id": "92ec57570651",
-      "title": "MN - Surprise controversial choreography of the Curva Sud before Milan-Juventus",
+      "title": "MN - Surprise polemical choreography of the Curva Sud before Milan-Juventus",
       "url": "https://www.milannews.it/news/mn-coreografia-polemica-a-sorpresa-della-curva-sud-prima-di-milan-juventus-615284",
       "source": "milannews.it",
       "date": "2026-04-26T18:42:29+00:00",
       "summary": "A few minutes after the kick-off of Milan-Juventus, the Curva Sud \"honoured\" San Siro with a polemical choreography towards the club."
-    },
-    {
-      "id": "e255dfe6a7e3",
-      "title": "LIVE MN - Milan-Juventus (0-0): kick-off soon",
-      "url": "https://www.milannews.it/primo-piano/live-mn-milan-juventus-0-0-a-breve-il-calcio-d-inizio-615260",
-      "source": "milannews.it",
-      "date": "2026-04-26T18:40:00+00:00",
-      "summary": "Friends of MilanNews.it, it's matchday! Despite everything that is being said off the pitch, the Rossoneri's race towards the Champions League remains of primary importance."
     },
     {
       "id": "6a5ece4abaef",
@@ -24,14 +88,6 @@
       "source": "milannews.it",
       "date": "2026-04-26T18:36:29+00:00",
       "summary": "In the pre-match of Milan-Juventus, a match valid for the 34th matchday of Serie A Enilive, Ruud Gullit was awarded in a red-black San Siro for his entry into the Milan Hall of Fame."
-    },
-    {
-      "id": "2e475bddb741",
-      "title": "Serie A Liveblog: Inter vs. Torino and Milan vs. Juventus",
-      "url": "https://football-italia.net/serie-a-liveblog-inter-torino-milan-juventus/",
-      "source": "football-italia.net",
-      "date": "2026-04-26T18:34:47+00:00",
-      "summary": "{rsn-live-v2}"
     },
     {
       "id": "b94f418521ac",
@@ -192,54 +248,6 @@
       "source": "sempremilan.com",
       "date": "2026-04-26T17:43:23+00:00",
       "summary": "Massimiliano Allegri has named his starting XI for Milan-Juventus and compared to the win last time out, he has made one change.  Milan and Juventus are both keen on cementing themselves in the top four spot, and tonight, a lot is at stake in that sense. With just three points separating the two sid"
-    },
-    {
-      "id": "435968ac5a18",
-      "title": "Giaccherini: \"Milan have to rebuild themselves a bit: they don't have the same certainties as Juve\"",
-      "url": "https://www.milannews.it/news/giaccherini-il-milan-si-deve-ricostruire-un-po-non-ha-le-stesse-certezze-della-juve-615225",
-      "source": "milannews.it",
-      "date": "2026-04-26T17:36:09+00:00",
-      "summary": "This evening we finally take to the field for Milan-Juventus, a crucial match in terms of the chase to the Champions League, even more so after Roma defeated Bologna yesterday and therefore got closer to the ..."
-    },
-    {
-      "id": "0dfe437198a0",
-      "title": "Milan-Juventus, the official lineups. Bartesaghi makes it, Yldiz on the bench",
-      "url": "https://www.milannews.it/primo-piano/milan-juventus-le-formazioni-ufficiali-bartesaghi-ce-la-fa-yldiz-in-panchina-615268",
-      "source": "milannews.it",
-      "date": "2026-04-26T17:34:34+00:00",
-      "summary": "These are the official lineups for Milan-Juventus, a match valid for the 34th matchday of Serie A."
-    },
-    {
-      "id": "0cf40e9a4436",
-      "title": "MN - Gerry Cardinale present at San Siro for Milan-Juventus",
-      "url": "https://www.milannews.it/news/mn-gerry-cardinale-presente-a-san-siro-per-milan-juventus-615267",
-      "source": "milannews.it",
-      "date": "2026-04-26T17:30:11+00:00",
-      "summary": "For this evening's Milan-Juventus, a match valid for the thirty-fourth matchday of Serie A, the editorial team of MilanNews.it learns that Gerry Cardinale, founder and managing partner of RedBird, is also present at San Siro."
-    },
-    {
-      "id": "4269264eef4a",
-      "title": "LIVE MN - Towards Milan-Juve: Bartesaghi recovers. Also Cardinal at San Siro",
-      "url": "https://www.milannews.it/primo-piano/live-mn-verso-milan-juve-bartesaghi-recupera-anche-cardinale-a-san-siro-615240",
-      "source": "milannews.it",
-      "date": "2026-04-26T17:30:00+00:00",
-      "summary": "THE OFFICIAL LINEUPS\n\nMILAN (3-5-2): Maignan; Tomori, Gabbia, Pavlovic; Saelemaekers, Fofana, Modric, Rabiot, Bartesaghi; Leao, Pulisic. Available"
-    },
-    {
-      "id": "8c351729fa56",
-      "title": "VIDEO MN - The arrival of the Rossoneri bus at San Siro from above. At 8.45pm Milan-Juve",
-      "url": "https://www.milannews.it/news/video-mn-l-arrivo-dall-alto-del-pullman-rossonero-a-san-siro-alle-20-45-milan-juve-615266",
-      "source": "milannews.it",
-      "date": "2026-04-26T17:24:58+00:00",
-      "summary": "The AC Milan bus has just arrived at San Siro, welcomed as always by a good number of Rossoneri fans: the match against Juventus is at 8.45pm."
-    },
-    {
-      "id": "7f65d0969588",
-      "title": "Calamai: \"Allegri is more of a selector than Conte: what it takes to be a coach\"",
-      "url": "https://www.milannews.it/news/calamai-allegri-e-piu-selezionatore-di-conte-quello-che-serve-per-fare-il-ct-615212",
-      "source": "milannews.it",
-      "date": "2026-04-26T17:24:00+00:00",
-      "summary": "Luca Calamai, in his editorial on TMW, spoke thus of the names eligible for the role of coach of the national team: \"It is said that the hottest names are those of Allegri and Conte. I would focus on the current Milan coach."
     },
     {
       "id": "8062fea73f3b",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-04-22T13:09:27+00:00",
       "summary": "Olivier Giroud has sent a heartfelt message to AC Milan, expressing his longing for the..."
-    },
-    {
-      "id": "0d738096ec12",
-      "title": "Milan and Allegri considering deal for former Juventus midfielder: The Pros and Cons",
-      "url": "https://football-italia.net/milan-consider-deal-for-ex-juventus-midfielder/",
-      "source": "football-italia.net",
-      "date": "2026-04-22T12:42:08+00:00",
-      "summary": "Reports in Italy claim that Milan are considering a potential summer transfer for Fiorentina midfielder..."
     }
   ]
 }
