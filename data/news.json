@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-05-02T17:41:58.307000+00:00",
+  "lastUpdated": "2026-05-02T18:56:52.600496+00:00",
   "articles": [
+    {
+      "id": "514e74731ad6",
+      "title": "MN - Mastroianni sharp on the future: \"Signings? I think we need to have clear ideas, something I didn't see in the construction of the squad last summer\"",
+      "url": "https://www.milannews.it/news/mn-mastroianni-pungente-sul-futuro-acquisti-penso-ci-sia-bisogno-di-avere-idee-chiare-cosa-che-non-ho-visto-nella-costruzione-della-rosa-la-scorsa-est-615649",
+      "source": "milannews.it",
+      "date": "2026-05-02T18:47:00+00:00",
+      "summary": "Dario Mastroianni, journalist and commentator for DAZN was interviewed exclusively by the editorial staff of MilanNews.it."
+    },
+    {
+      "id": "246695fb7f9d",
+      "title": "Serie A, Como and Napoli don't get hurt: it's 0-0 at Sinigaglia",
+      "url": "https://www.milannews.it/news/serie-a-como-e-napoli-non-si-fanno-male-e-0-0-al-sinigaglia-615961",
+      "source": "milannews.it",
+      "date": "2026-05-02T18:36:44+00:00",
+      "summary": "The match between Como and Napoli ends in a goalless draw. Good game, with chances on both sides, which however both teams were unable to convert into goals."
+    },
+    {
+      "id": "e3b8553e0b22",
+      "title": "MN: Predicted Milan XI vs. Sassuolo – Allegri makes three changes",
+      "url": "https://sempremilan.com/predicted-milan-xi-sassuolo-allegri-three-changes",
+      "source": "sempremilan.com",
+      "date": "2026-05-02T18:30:00+00:00",
+      "summary": "On Sunday afternoon, AC Milan will travel to face Sassuolo at the Stadium MAPEI. It could be a turning point for the club with three points.  Sunday’s trip to the MAPEI has significant potential. Results elsewhere could bring Champions League football back to San Siro, which is a must for the future"
+    },
+    {
+      "id": "c82c9bcba0bc",
+      "title": "Adli and the choice of the national team: \"I am an Algeria fan, but as a player I chose France for the high level\"",
+      "url": "https://www.milannews.it/gli-ex/adli-e-la-scelta-della-nazionale-sono-un-tifoso-dell-algeria-ma-come-giocatore-ho-scelto-la-francia-per-l-alto-livello-615911",
+      "source": "milannews.it",
+      "date": "2026-05-02T18:24:37+00:00",
+      "summary": "Yacine Adli, former AC Milan midfielder who now plays for Al-Shabab, spoke again about his choice to play for France and not Algeria in an interview with the Algerian media SporTeam."
+    },
+    {
+      "id": "4b7f8e790a9a",
+      "title": "Why Inter cannot now win the Scudetto without playing",
+      "url": "https://football-italia.net/why-inter-cannot-win-scudetto-without-playing/",
+      "source": "football-italia.net",
+      "date": "2026-05-02T18:20:47+00:00",
+      "summary": "Inter can no longer win the Scudetto without setting foot on the field tomorrow, but..."
+    },
+    {
+      "id": "8a0436039004",
+      "title": "Perinetti: \"Milan is a team that must define itself and could fight, market permitting, for the scudetto next year\"",
+      "url": "https://www.milannews.it/news/perinetti-il-milan-e-una-squadra-che-deve-definirsi-e-potrebbe-lottare-mercato-permettendo-per-lo-scudetto-l-anno-prossimo-615903",
+      "source": "milannews.it",
+      "date": "2026-05-02T18:12:15+00:00",
+      "summary": "Interviewed by TuttoMercatoWeb.com, Giorgio Perinetti spoke like this about the championship race in Serie A: \"What did Milan and Napoli do wrong? Nothing."
+    },
+    {
+      "id": "48cf93a75afc",
+      "title": "Probable Milan lineup: Jashari is with Sassuolo. Nkunku surpasses Pulisic",
+      "url": "https://www.milannews.it/primo-piano/probabile-formazione-milan-col-sassuolo-c-e-jashari-nkunku-supera-pulisic-615955",
+      "source": "milannews.it",
+      "date": "2026-05-02T18:00:00+00:00",
+      "summary": "Thirty-fifth matchday of Serie A, fourth to last of the championship: Milan goes to Reggio Emilia with \"only\" six points to win to have the arithmetic certainty of playing in the Champions League next season."
+    },
+    {
+      "id": "a2169b392f52",
+      "title": "Tuttosport: Jashari’s opportunity arrives in difficult circumstance – 34 million reasons to hope",
+      "url": "https://sempremilan.com/jashari-opportunity-arrives-difficult-circumstances",
+      "source": "sempremilan.com",
+      "date": "2026-05-02T18:00:00+00:00",
+      "summary": "Last summer, AC Milan invested €34 million into a young defensive midfielder from the Belgian league. Since then, little has been seen from Ardon Jashari, but that can change. This has not really been Jashari’s season on the face of it. However, when you look at the actual events of the year, it was"
+    },
+    {
+      "id": "85dd29e4e2a8",
+      "title": "Three defeats, then eight useful results in a row: Milan's balance sheet at Sassuolo",
+      "url": "https://www.milannews.it/news/tre-sconfitte-poi-otto-risultati-utili-di-fila-il-bilancio-del-milan-in-casa-del-sassuolo-615895",
+      "source": "milannews.it",
+      "date": "2026-05-02T17:48:26+00:00",
+      "summary": "Tomorrow afternoon will be the 12th match between Sassuolo and Milan on the neroverdi pitch."
+    },
     {
       "id": "c70e00c7d26b",
       "title": "Juve, Spalletti: \"At San Siro we adapted to Milan's rules and I don't like this. The next day I had a pit in my stomach\"",
@@ -35,7 +107,7 @@
     },
     {
       "id": "95a1a363e8b5",
-      "title": "2 May 1999: Ambrosini scores his first goal with the AC Milan shirt",
+      "title": "2 May 1999: Ambrosini scores his first goal for Milan",
       "url": "https://www.milannews.it/gli-ex/2-maggio-1999-ambrosini-segna-il-suo-primo-gol-con-la-maglia-del-milan-615910",
       "source": "milannews.it",
       "date": "2026-05-02T17:00:03+00:00",
@@ -146,44 +218,12 @@
       "summary": "The match against Juventus last Sunday was Massimiliano Allegri's 216th appearance on the AC Milan bench."
     },
     {
-      "id": "57c046af6f6d",
-      "title": "2 May 2004: Milan beat Roma and won their 17th scudetto",
-      "url": "https://www.milannews.it/news/2-maggio-2004-il-milan-batte-la-roma-e-vince-il-suo-17-scudetto-615907",
-      "source": "milannews.it",
-      "date": "2026-05-02T15:36:06+00:00",
-      "summary": "On 2 May 2004, exactly twenty-two years ago, Carlo Ancelotti's Milan won the seventeenth scudetto in its history, beating Roma at San Siro with a result of 1-0."
-    },
-    {
       "id": "fd88059c27e9",
       "title": "‘Five players from the Primavera’ – Allegri mentions Camarda and Comotto as 2026/27 additions",
       "url": "https://sempremilan.com/allegri-mentions-camarda-comotto-additions",
       "source": "sempremilan.com",
       "date": "2026-05-02T15:30:00+00:00",
       "summary": "Next season, AC Milan will almost definitely be playing Champions League football, and Massimiliano Allegri revealed how he will be helped through the campaign. Ahead of next year, there needs to be investment into the Milan squad, that much is known already. However, there may also be a lot of room"
-    },
-    {
-      "id": "9d670cae3290",
-      "title": "Capello: \"Goretzka-Milan? It's not very fast, but it would certainly add experience and personality. In Serie A the pace isn't that of the Bundesliga\"",
-      "url": "https://www.milannews.it/gli-ex/capello-goretzka-milan-non-e-velocissimo-ma-aggiungerebbe-di-sicuro-esperienza-e-personalita-in-serie-a-i-ritmi-non-sono-quelli-della-bundesliga-615918",
-      "source": "milannews.it",
-      "date": "2026-05-02T15:24:25+00:00",
-      "summary": "In addition to the attack, Milan will also have to strengthen the midfield and defense in the summer."
-    },
-    {
-      "id": "4b325914af78",
-      "title": "Milan looking for a striker. Ceccarini: \"Gabriel Jesus is also a hypothesis, Vlahovic and Kean are more distant\"",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-a-caccia-di-un-attaccante-ceccarini-anche-gabriel-jesus-e-un-ipotesi-piu-defilati-vlahovic-e-kean-615902",
-      "source": "milannews.it",
-      "date": "2026-05-02T15:12:23+00:00",
-      "summary": "In his editorial on tuttomercatoweb.com, Niccolò Ceccarini spoke thus of the Milan transfer market which is also working to strengthen the defense in view of next season: \"And we come to Milan."
-    },
-    {
-      "id": "993b2e11db3f",
-      "title": "MN - It's an almost zero attack, Mastroianni: \"It's the type of proposal that is out of place, in the second round the data is terrible\"",
-      "url": "https://www.milannews.it/news/mn-e-un-attacco-quasi-nullo-mastroianni-e-il-tipo-di-proposta-che-stona-nel-girone-di-ritorno-il-dato-e-terribile-615630",
-      "source": "milannews.it",
-      "date": "2026-05-02T15:00:00+00:00",
-      "summary": "Dario Mastroianni, journalist and commentator for DAZN was interviewed exclusively by the editorial staff of MilanNews.it."
     },
     {
       "id": "1994949bf3f1",
@@ -194,28 +234,12 @@
       "summary": "In recent seasons, AC Milan have made youth recruitment one of their biggest focuses and Tino Kusanovic could become the latest addition. RedBird’s focus on signing young players has been a heavy talking point of recent years. Under Massimiliano Allegri, it has been scaled down slightly. Yet, Milan "
     },
     {
-      "id": "585adf876b45",
-      "title": "Lega Calcio Serie A and AVIS together: great football takes to the field for plasma donation",
-      "url": "https://www.milannews.it/news/lega-calcio-serie-a-e-avis-insieme-il-grande-calcio-scende-in-campo-per-la-donazione-di-plasma-615896",
-      "source": "milannews.it",
-      "date": "2026-05-02T14:48:37+00:00",
-      "summary": "The Lega Calcio Serie A website reports that \"for the second consecutive year, Lega Calcio Serie A is alongside AVIS to bring its message of solidarity and social responsibility to Italian stadiums."
-    },
-    {
       "id": "07a20964f5a3",
       "title": "Spalletti: ‘No Juventus calculations, not happy with Milan performance’",
       "url": "https://football-italia.net/spalletti-no-juventus-calculations-not-happy/",
       "source": "football-italia.net",
       "date": "2026-05-02T14:40:41+00:00",
       "summary": "Luciano Spalletti warns Juventus must not ‘make calculations’ for a top four finish, gives a..."
-    },
-    {
-      "id": "be778316ecd3",
-      "title": "Women's Serie A, today the Milan derby: the words of the two coaches",
-      "url": "https://www.milannews.it/milan-femminile/serie-a-femminile-oggi-il-derby-di-milano-le-parole-dei-due-allenatori-615905",
-      "source": "milannews.it",
-      "date": "2026-05-02T14:36:57+00:00",
-      "summary": "Today at 6.30pm at the Arena Civica G."
     },
     {
       "id": "32923962e554",
@@ -338,22 +362,6 @@
       "summary": "Luka Modric’s future has been a topic since before the first game of the season. After signing a deal with an option to extend, AC Milan have been hoping he would since he was announced. With a player like Modric, Milan will always hope to have him. A star of the game and a star […]\nThe post ‘Optimi"
     },
     {
-      "id": "ef3dcbbdf4f0",
-      "title": "CM: Toulouse could act as development club for Milan – the three candidates so far",
-      "url": "https://sempremilan.com/toulouse-development-club-milan-three-candidates",
-      "source": "sempremilan.com",
-      "date": "2026-05-02T09:15:00+00:00",
-      "summary": "It is nothing new for clubs to have partnerships to develop players and AC Milan could make use of their RedBird links.  In recent years, there have been several cases of players developing on loan at a club regularly. For example, look at Chelsea. During the 2010s, they had a partnership with Vites"
-    },
-    {
-      "id": "d8e4b176432a",
-      "title": "Sky: Midfield changes expected from Allegri – Predicted Milan XI vs. Sassuolo",
-      "url": "https://sempremilan.com/midfield-changes-allegri-milan-predicted-xi-sassuolo",
-      "source": "sempremilan.com",
-      "date": "2026-05-02T08:50:00+00:00",
-      "summary": "Ahead of tomorrow’s game against Sassuolo, AC Milan are expected to make a few changes to their starting XI. The game against the Neroverdi could be a decider in the Champions League race. Results would need to go their way, of course. However, they can, at the very least, take a giant step closer t"
-    },
-    {
       "id": "0b7271b35487",
       "title": "Gabriel Jesus shares agent with Allegri as Arsenal striker offered to Milan",
       "url": "https://football-italia.net/gabriel-jesus-agent-allegri-arsenal-milan/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-04-29T11:45:47+00:00",
       "summary": "Rafael Leao commented on the epic Champions League semifinal between PSG and Bayern Munich with..."
-    },
-    {
-      "id": "4c0adfb8b887",
-      "title": "Jorge Mendes offers Manchester United midfielder to two Serie A giants – report",
-      "url": "https://football-italia.net/mendes-offers-man-utd-ugarte-2-serie-a-giants/",
-      "source": "football-italia.net",
-      "date": "2026-04-29T11:06:43+00:00",
-      "summary": "According to La Gazzetta dello Sport, Manuel Ugarte’s agent Jorge Mendes has offered the Manchester..."
     }
   ]
 }
