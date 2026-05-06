@@ -1,9 +1,89 @@
 {
-  "lastUpdated": "2026-05-06T20:20:44.286492+00:00",
+  "lastUpdated": "2026-05-06T21:56:21.170527+00:00",
   "articles": [
     {
+      "id": "ccce964358a2",
+      "title": "Meani on Radio CRC: \"The Rocchi case is a new Calciopoli? Let's not talk nonsense, we need proof\"",
+      "url": "https://www.milannews.it/news/meani-a-radio-crc-caso-rocchi-nuova-calciopoli-non-diciamo-scemenze-servono-le-prove-616407",
+      "source": "milannews.it",
+      "date": "2026-05-06T21:50:29+00:00",
+      "summary": "On CRC, radio partner of SSC Napoli, Edoardo Meani spoke during the broadcast \"A Lunch with Chiariello\"."
+    },
+    {
+      "id": "bca8603be2d5",
+      "title": "Costacurta recalls that in the finals lost against Milan he always started as the favourite",
+      "url": "https://www.milannews.it/news/costacurta-ricorda-che-nelle-finali-perse-col-milan-era-sempre-partito-da-favorito-616348",
+      "source": "milannews.it",
+      "date": "2026-05-06T21:40:24+00:00",
+      "summary": "Billy Costacurta, former AC Milan player, spoke to SkySport about the upcoming Champions League final, which will see Arsenal start as an underdog against PSG and Bayern Munich: “In the finals I have to ..."
+    },
+    {
+      "id": "a3433e888419",
+      "title": "FIGC, Bedin: \"Malagò-Abete? Now I'm talking to the club, we'll decide within the week\"",
+      "url": "https://www.milannews.it/news/figc-bedin-malago-abete-ora-parlo-con-club-entro-settimana-decideremo-616396",
+      "source": "milannews.it",
+      "date": "2026-05-06T21:30:10+00:00",
+      "summary": "- ROME, 06 MAY - \"Useful and positive day. Comparison always helps."
+    },
+    {
+      "id": "eed243b42dcd",
+      "title": "Serie A, referee appointments for the 36th matchday have been released: the choice for Milan-Atalanta",
+      "url": "https://www.milannews.it/news/serie-a-diramate-le-designazioni-arbitrali-per-la-36-giornata-la-scelta-per-milan-atalanta-616379",
+      "source": "milannews.it",
+      "date": "2026-05-06T21:20:00+00:00",
+      "summary": "The Hague has released the list of referee appointments for the 36th matchday of the 2025/2026 Serie A, the third to last of the season and with many verdicts still to be given both for the race for European competitions and for not re..."
+    },
+    {
+      "id": "44bd76e8b0bf",
+      "title": "Pellegatti underlines: \"The focus of the fans is Furlani, Cardinale is understanding it\"",
+      "url": "https://www.milannews.it/news/pellegatti-sottolinea-il-focus-dei-tifosi-e-furlani-cardinale-lo-sta-capendo-616394",
+      "source": "milannews.it",
+      "date": "2026-05-06T21:10:56+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti talked about the AC Milan fans' protest against Giorgio Furlani and possible summer corporate movements."
+    },
+    {
+      "id": "15885f9cb14f",
+      "title": "No fireworks in the return leg, Bayern-PSG 1-1. Allegri was right",
+      "url": "https://www.milannews.it/news/al-ritorno-niente-fuochi-d-artificio-bayern-psg-1-1-aveva-ragione-allegri-616412",
+      "source": "milannews.it",
+      "date": "2026-05-06T20:59:43+00:00",
+      "summary": "After the 5-4 in the first leg, the match at the Allianz Arena offers no fireworks, at least in terms of the score: Bayern-PSG ends 1-1."
+    },
+    {
+      "id": "e74085973e08",
+      "title": "The mayor of Madrid doesn't send word to her: \"I was thinking of playing against Arsenal, not against UEFA. They didn't want us in the final.\"",
+      "url": "https://www.milannews.it/dall-estero/il-sindaco-di-madrid-non-le-manda-a-dire-pensavo-di-giocare-contro-l-arsenal-non-contro-la-uefa-non-ci-volevano-in-finale-616399",
+      "source": "milannews.it",
+      "date": "2026-05-06T20:50:43+00:00",
+      "summary": "Arsenal beats Atletico Madrid and reaches the Champions League final on May 30th."
+    },
+    {
+      "id": "208bb9e9e79f",
+      "title": "Vernazza: \"Milan are exhausted and have lost orientation: the players no longer know which game to turn to\"",
+      "url": "https://www.milannews.it/news/vernazza-il-milan-e-spremuto-e-ha-perso-l-orientamento-i-giocatori-non-sanno-piu-a-che-gioco-votarsi-616332",
+      "source": "milannews.it",
+      "date": "2026-05-06T20:40:35+00:00",
+      "summary": "Sebastiano Vernazza, journalist, expressed himself as follows in the columns of the Gazzetta dello Sport to comment on Milan's moment: \"Milan third on 67 and Juve fourth on 65 remain masters of their destiny."
+    },
+    {
+      "id": "20e31a3e7b27",
+      "title": "Caressa underlines: “I expected growth, difficult year for the strikers”",
+      "url": "https://www.milannews.it/news/caressa-sottolinea-mi-aspettavo-una-crescita-anno-difficile-per-le-punte-616387",
+      "source": "milannews.it",
+      "date": "2026-05-06T20:30:00+00:00",
+      "summary": "In his YouTube channel, Fabio Caressa talked about Milan's lack of growth in the second part of the season."
+    },
+    {
+      "id": "bad33104b455",
+      "title": "FIGC, Malagò: \"My presumed ineligibility? Better not to comment...\"",
+      "url": "https://www.milannews.it/news/figc-malago-la-mia-presunta-ineleggibilita-meglio-non-commentare-616395",
+      "source": "milannews.it",
+      "date": "2026-05-06T20:20:16+00:00",
+      "summary": "- ROME, 06 MAY - \"I think that in life there is nothing worse than responding to situations that are not worth commenting on.\""
+    },
+    {
       "id": "da4cc91615b4",
-      "title": "Pellegatti warns: \"Milan-Atalanta most important match for the next 3-4 years\"",
+      "title": "Pellegatti warns: “Milan-Atalanta most important match for the next 3-4 years”",
       "url": "https://www.milannews.it/news/pellegatti-avvisa-milan-atalanta-partita-piu-importante-per-i-prossimi-3-4-anni-616393",
       "source": "milannews.it",
       "date": "2026-05-06T20:10:38+00:00",
@@ -98,68 +178,12 @@
       "summary": "The adventure of Tijjani Reijnders with Manchester City, if we remove the Club World Cup which had a bit of an adaptation function, had started off in style with the Dutch ex-AC Milan midfielder who had immediately joined ..."
     },
     {
-      "id": "2299b351d297",
-      "title": "Juventus, Locatelli sounds the charge and calls his teammates to zero excuses for the Champions League",
-      "url": "https://www.milannews.it/l-avversario/juventus-locatelli-suona-la-carica-e-richiama-i-compagni-agli-zero-alibi-per-la-champions-616311",
-      "source": "milannews.it",
-      "date": "2026-05-06T18:30:21+00:00",
-      "summary": "(ANSA) - TURIN, 05 MAY - \"For the Champions League everything depends on us, we don't need to talk and we don't make calculations\": thus the Juventus midfielder and captain, Manuel Locatelli, in view of the last three championship matches."
-    },
-    {
       "id": "19b501ecae00",
       "title": "Report Milan want Xabi Alonso or Italiano if Allegri is fired",
       "url": "https://football-italia.net/report-milan-want-xabi-alonso-italiano-allegri/",
       "source": "football-italia.net",
       "date": "2026-05-06T18:28:16+00:00",
       "summary": "There are reports Max Allegri won’t stay, so Milan could look towards ex-Real Madrid boss..."
-    },
-    {
-      "id": "532706a4d837",
-      "title": "Fabrizio Romano: \"Zahavi in ​​Italy, but in Milan there is a sort of internal division over Lewandowski\"",
-      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-zahavi-in-italia-ma-nel-milan-c-e-una-sorta-di-divisione-interna-su-lewandowski-616402",
-      "source": "milannews.it",
-      "date": "2026-05-06T18:18:38+00:00",
-      "summary": "As announced by Fabrizio Romano a few days ago, Robert Lewandowski's agent was in Italy to talk about the future of his client."
-    },
-    {
-      "id": "7033da2f9809",
-      "title": "The FIGC pays tribute to Beccalossi: \"Football enthusiast, reference for young people\"",
-      "url": "https://www.milannews.it/news/la-figc-rende-omaggio-a-beccalossi-entusiasta-del-calcio-riferimento-per-i-giovani-616377",
-      "source": "milannews.it",
-      "date": "2026-05-06T18:10:00+00:00",
-      "summary": "(ANSA) - ROME, MAY 6 - \"He transmitted his love for football to young people\"."
-    },
-    {
-      "id": "1a630285f57d",
-      "title": "If it's that easy for Atletico, then bring Milan to Spain. No? The continuous disconnect between the Rossoneri management and current football events",
-      "url": "https://www.milannews.it/primo-piano/se-per-l-atletico-e-cosi-facile-allora-portate-il-milan-in-spagna-no-il-continuo-distacco-tra-la-dirigenza-rossonera-e-l-attualita-calcistica-616401",
-      "source": "milannews.it",
-      "date": "2026-05-06T18:00:00+00:00",
-      "summary": "Yesterday we reported in full the statements (HERE) of Stefano Cocirio, Chief Financial Officer of AC Milan, at the \"Merger & Acquisition Summit 2026\" event."
-    },
-    {
-      "id": "433bd45719b7",
-      "title": "MN - Is C or D better for Milan Futuro? De Vecchi: \"I would prefer C because it is more competitive\"",
-      "url": "https://www.milannews.it/news/mn-meglio-la-c-o-la-d-per-milan-futuro-de-vecchi-preferirei-la-c-perche-e-piu-competitiva-616369",
-      "source": "milannews.it",
-      "date": "2026-05-06T17:50:40+00:00",
-      "summary": "On the occasion of the presentation of Carlo Pellegatti's new book \"50 matches, infinite emotions. Milan\", the editorial staff of MilanNews."
-    },
-    {
-      "id": "856db44c4bd1",
-      "title": "Zufferli will referee Milan for the fourth time this year: the precedents are balanced",
-      "url": "https://www.milannews.it/news/zufferli-arbitrera-il-milan-per-la-quarta-volta-quest-anno-i-precedenti-sono-bilanciati-616376",
-      "source": "milannews.it",
-      "date": "2026-05-06T17:40:47+00:00",
-      "summary": "It will be Luca Zufferli from the Udine section who will referee the next match that Milan will play at San Siro, on Sunday evening at 8.45pm, against Atalanta."
-    },
-    {
-      "id": "3288ba8743dc",
-      "title": "Colombo on Milan: \"The march towards the Champions League has turned into a sort of via crucis\"",
-      "url": "https://www.milannews.it/news/colombo-sul-milan-la-marcia-verso-la-champions-si-e-trasformata-in-una-sorta-di-via-crucis-616356",
-      "source": "milannews.it",
-      "date": "2026-05-06T17:30:59+00:00",
-      "summary": "The Milan is succeeding in the difficult task of throwing away the good things done for two thirds of the season: the Rossoneri, who until just over a month ago had Champions League qualification in hand, today find themselves at ..."
     },
     {
       "id": "5db277cb4a7e",
@@ -170,36 +194,12 @@
       "summary": "One of the names that is on AC Milan’s radar if they have to make a managerial change is Xabi Alonso, Carlo Pellegatti claims. In this crucial season finale, there continues to be a lot of speculation about major changes at Milan. While the repeated meetings between Allegri and the management appear"
     },
     {
-      "id": "f2d949d96b56",
-      "title": "Pellegatti: \"Allegri won't stay if Furlani stays. The alternatives are Italian or Xabi Alonso\"",
-      "url": "https://www.milannews.it/news/pellegatti-allegri-non-resta-se-rimane-furlani-le-alternative-sono-italiano-o-xabi-alonso-616398",
-      "source": "milannews.it",
-      "date": "2026-05-06T17:20:30+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti talked about the corporate situation of Milan and Massimiliano Allegri. These are his words:\n\n\"We need to understand what Massimiliano Allegri will do."
-    },
-    {
       "id": "53f794d61b10",
       "title": "Lewandowski no longer targeted by Juventus as free agent",
       "url": "https://football-italia.net/lewandowski-no-longer-targeted-by-juventus/",
       "source": "football-italia.net",
       "date": "2026-05-06T17:12:57+00:00",
       "summary": "Robert Lewandowski’s agent met with several Italian clubs, including Milan and Juventus, but it’s reported..."
-    },
-    {
-      "id": "0d844d4abdc3",
-      "title": "Capuano criticizes Milan: \"The club's way of thinking leads nowhere\"",
-      "url": "https://www.milannews.it/news/capuano-critica-il-milan-il-modo-di-ragionare-della-societa-non-porta-da-nessuna-parte-616370",
-      "source": "milannews.it",
-      "date": "2026-05-06T17:10:58+00:00",
-      "summary": "Speaking in the Sportitalia studios, my colleague Giovanni Capuano spoke about Milan, focusing in particular on the words of CFO Cocirio (CLICK HERE to read them again) and more: \n\n\"I read the CFO, that is, the man who ..."
-    },
-    {
-      "id": "d3a1c9a00f45",
-      "title": "Passerini: \"This club is not obsessed with victory and becoming accustomed to the myth of fourth place leads to short circuits\"",
-      "url": "https://www.milannews.it/news/passerini-questa-societa-non-e-ossessionata-dalla-vittoria-e-l-assuefazione-al-mito-del-quarto-posto-comporta-cortocircuiti-616345",
-      "source": "milannews.it",
-      "date": "2026-05-06T17:00:09+00:00",
-      "summary": "Carlos Passerini, journalist, expressed himself as follows on his Youtube channel on the management of Milan: \"The problems are many and they start from the top, especially for those who say that the truth is not told about the actions of the ..."
     },
     {
       "id": "90f0c8e2320a",
