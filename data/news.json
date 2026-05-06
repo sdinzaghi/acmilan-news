@@ -1,13 +1,133 @@
 {
-  "lastUpdated": "2026-05-06T18:15:07.467325+00:00",
+  "lastUpdated": "2026-05-06T20:20:44.286492+00:00",
   "articles": [
+    {
+      "id": "da4cc91615b4",
+      "title": "Pellegatti warns: \"Milan-Atalanta most important match for the next 3-4 years\"",
+      "url": "https://www.milannews.it/news/pellegatti-avvisa-milan-atalanta-partita-piu-importante-per-i-prossimi-3-4-anni-616393",
+      "source": "milannews.it",
+      "date": "2026-05-06T20:10:38+00:00",
+      "summary": "On his YouTube channel, Carlo Pellegatti commented on Milan's next match which sees the Rossoneri host Palladino's Atalanta at San Siro. These are his words:\n\n\"It is, I would say, a decisive moment."
+    },
+    {
+      "id": "88d2b1c75be9",
+      "title": "Compagnoni: \"Milan is in free fall, but with a victory they will probably make it to the Champions League\"",
+      "url": "https://www.milannews.it/news/compagnoni-il-milan-e-in-caduta-libera-ma-con-una-vittoria-probabilmente-ce-la-fara-ad-andare-in-champions-616337",
+      "source": "milannews.it",
+      "date": "2026-05-06T20:00:35+00:00",
+      "summary": "Maurizio Compagnoni, journalist, expressed himself as follows on Radio Marte on the Champions League race: “I wouldn't believe it even if I saw it... I'm referring to Conte who accepts a project in Naples with investments in young people, older ..."
+    },
+    {
+      "id": "30ce0e75465f",
+      "title": "Pedullà criticizes Milan: \"Without a total feeling the problem is not just going to the Champions League (it already is...) but everything else..\"",
+      "url": "https://www.milannews.it/news/pedulla-critica-il-milan-senza-un-feeling-totale-il-problema-non-e-soltanto-andare-in-champions-gia-lo-e-ma-tutto-il-resto-616363",
+      "source": "milannews.it",
+      "date": "2026-05-06T19:50:00+00:00",
+      "summary": "The journalist Alfredo Pedullà spoke thus to Sportitalia. His words on the particular and controversial situation of Milan, increasingly in total chaos, especially off the pitch."
+    },
+    {
+      "id": "98fee7c8a064",
+      "title": "Order: \"Here is the leap of patriotic pride launched in the depressed Reggio Emilia locker room by Allegri\"",
+      "url": "https://www.milannews.it/news/ordine-ecco-il-soprassalto-di-orgoglio-patriottico-lanciato-nel-depresso-spogliatoio-di-reggio-emilia-da-allegri-616342",
+      "source": "milannews.it",
+      "date": "2026-05-06T19:40:00+00:00",
+      "summary": "Franco Ordine, journalist, expressed himself as follows in Il Giornale on Milan's moment: \"After the 4 slaps inflicted by Roma on Fiorentina on Monday evening, Milan's footballing-mathematical framework to reach the Cha quota ..."
+    },
+    {
+      "id": "09190c3a4ab5",
+      "title": "Caressa is sure: “Milan was overperforming, the decline is normal”",
+      "url": "https://www.milannews.it/news/caressa-e-sicuro-il-milan-stava-overperformando-il-calo-e-normale-616386",
+      "source": "milannews.it",
+      "date": "2026-05-06T19:30:00+00:00",
+      "summary": "On his YouTube channel, Fabio Caressa commented on the moment that Milan is experiencing at the end of the season, analyzing some interesting data."
+    },
+    {
+      "id": "15bddeb98ed8",
+      "title": "San Siro opens new Skywalk tour to see pitch from height of 55 metres",
+      "url": "https://football-italia.net/san-siro-opens-new-skywalk-tour-to-see-pitch/",
+      "source": "football-italia.net",
+      "date": "2026-05-06T19:24:51+00:00",
+      "summary": "There is a new way to experience San Siro before the iconic stadium gets torn..."
+    },
+    {
+      "id": "592cdffb0157",
+      "title": "Galliani remembers Beccalossi: \"He was a unique talent. I lose a friend\"",
+      "url": "https://www.milannews.it/news/galliani-ricorda-beccalossi-era-un-talento-unico-perdo-un-amico-616385",
+      "source": "milannews.it",
+      "date": "2026-05-06T19:20:49+00:00",
+      "summary": "Adriano Galliani wanted to remember Evaresti Beccalossi on the day he passed away."
+    },
+    {
+      "id": "a008d91b1245",
+      "title": "Google \"Favorite sources\", add MilanNews now and personalize your news",
+      "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-subito-milannews-e-personalizza-le-tue-notizie-616404",
+      "source": "milannews.it",
+      "date": "2026-05-06T19:10:51+00:00",
+      "summary": "Google has introduced a new function intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
+    },
+    {
+      "id": "a1cbf63665ef",
+      "title": "Beccalossi's death, Inter's message of condolence",
+      "url": "https://www.milannews.it/news/morte-beccalossi-il-messaggio-di-cordoglio-dell-inter-616358",
+      "source": "milannews.it",
+      "date": "2026-05-06T19:00:45+00:00",
+      "summary": "- MILAN, 06 MAY - \"It seems impossible to us. In the folds of memories and in everyday life, Evaristo was always one of us."
+    },
+    {
+      "id": "77d982e5a073",
+      "title": "Romano: Milan hold talks with Lewandowski’s agent despite ‘division’ as Juventus drop out",
+      "url": "https://sempremilan.com/milan-talks-lewandowski-juventus-drop-out",
+      "source": "sempremilan.com",
+      "date": "2026-05-06T18:54:19+00:00",
+      "summary": "Robert Lewandowski’s agent has been in Italy and he has held conversations with AC Milan over a potential move. It is no secret that Milan are in the market for a new centre-forward who offers more guarantees in terms of goal output compared to the present options. One of the names that has been lin"
+    },
+    {
+      "id": "ad03a69075c4",
+      "title": "Fabrizio Romano: \"Alaba has several surveys and information has also been obtained for Italy\"",
+      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-alaba-ha-diversi-sondaggi-e-anche-per-l-italia-sono-state-prese-informazioni-616403",
+      "source": "milannews.it",
+      "date": "2026-05-06T18:50:54+00:00",
+      "summary": "Fabrizio Romano, in a video on his YouTube channel, talks about Pini Zahavi's Italian mission in the last few days."
+    },
+    {
+      "id": "7d883d55ba63",
+      "title": "Reijnders' parable: only 299 minutes in the last two months",
+      "url": "https://www.milannews.it/gli-ex/la-parabola-di-reijnders-solo-299-minuti-negli-ultimi-due-mesi-616362",
+      "source": "milannews.it",
+      "date": "2026-05-06T18:40:00+00:00",
+      "summary": "The adventure of Tijjani Reijnders with Manchester City, if we remove the Club World Cup which had a bit of an adaptation function, had started off in style with the Dutch ex-AC Milan midfielder who had immediately joined ..."
+    },
+    {
+      "id": "2299b351d297",
+      "title": "Juventus, Locatelli sounds the charge and calls his teammates to zero excuses for the Champions League",
+      "url": "https://www.milannews.it/l-avversario/juventus-locatelli-suona-la-carica-e-richiama-i-compagni-agli-zero-alibi-per-la-champions-616311",
+      "source": "milannews.it",
+      "date": "2026-05-06T18:30:21+00:00",
+      "summary": "(ANSA) - TURIN, 05 MAY - \"For the Champions League everything depends on us, we don't need to talk and we don't make calculations\": thus the Juventus midfielder and captain, Manuel Locatelli, in view of the last three championship matches."
+    },
+    {
+      "id": "19b501ecae00",
+      "title": "Report Milan want Xabi Alonso or Italiano if Allegri is fired",
+      "url": "https://football-italia.net/report-milan-want-xabi-alonso-italiano-allegri/",
+      "source": "football-italia.net",
+      "date": "2026-05-06T18:28:16+00:00",
+      "summary": "There are reports Max Allegri won’t stay, so Milan could look towards ex-Real Madrid boss..."
+    },
+    {
+      "id": "532706a4d837",
+      "title": "Fabrizio Romano: \"Zahavi in ​​Italy, but in Milan there is a sort of internal division over Lewandowski\"",
+      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-zahavi-in-italia-ma-nel-milan-c-e-una-sorta-di-divisione-interna-su-lewandowski-616402",
+      "source": "milannews.it",
+      "date": "2026-05-06T18:18:38+00:00",
+      "summary": "As announced by Fabrizio Romano a few days ago, Robert Lewandowski's agent was in Italy to talk about the future of his client."
+    },
     {
       "id": "7033da2f9809",
       "title": "The FIGC pays tribute to Beccalossi: \"Football enthusiast, reference for young people\"",
       "url": "https://www.milannews.it/news/la-figc-rende-omaggio-a-beccalossi-entusiasta-del-calcio-riferimento-per-i-giovani-616377",
       "source": "milannews.it",
       "date": "2026-05-06T18:10:00+00:00",
-      "summary": "(ANSA) - ROME, MAY 06 - \"He transmitted his love for football to young people\"."
+      "summary": "(ANSA) - ROME, MAY 6 - \"He transmitted his love for football to young people\"."
     },
     {
       "id": "1a630285f57d",
@@ -90,60 +210,12 @@
       "summary": "Massimiliano Allegri has asked the AC Milan management to make an attempt for Roma midfielder Manu Kone, a report claims. In recent weeks, Milan have been linked with various midfield targets including Bayern Munich’s Leon Goretzka, Valencia’s Javi Guerra and another Kone: Ismael at Sassuolo. Now, t"
     },
     {
-      "id": "8a2b5e36434c",
-      "title": "MN - De Vecchi on Bartesaghi's exploits: \"I expected it. He and Palestra are the future of the national team\"",
-      "url": "https://www.milannews.it/news/mn-de-vecchi-sull-exploit-di-bartesaghi-me-lo-aspettavo-lui-e-palestra-il-futuro-della-nazionale-616368",
-      "source": "milannews.it",
-      "date": "2026-05-06T16:50:50+00:00",
-      "summary": "On the occasion of the presentation of Carlo Pellegatti's new book \"50 matches, infinite emotions. Milan\", the editorial staff of MilanNews."
-    },
-    {
-      "id": "6b551292818a",
-      "title": "Guidi: \"Now I struggle to see Milan winning against anyone. In fact, if you look, they took a risk against Verona too\"",
-      "url": "https://www.milannews.it/news/guidi-ora-fatico-a-vedere-il-milan-che-vince-con-chiunque-infatti-se-si-va-a-vedere-anche-col-verona-ha-rischiato-616324",
-      "source": "milannews.it",
-      "date": "2026-05-06T16:40:51+00:00",
-      "summary": "Marco Guidi, journalist, expressed himself in La Gazzetta dello Sport on Milan's moment: \"The anomaly is the first half of the season with 42 points."
-    },
-    {
-      "id": "1b221e215e29",
-      "title": "Milan, it's chaos! Pedullà: \"Everyone there thinks in their own way..\"",
-      "url": "https://www.milannews.it/news/milan-e-un-caos-pedulla-ognuno-li-ragiona-a-modo-suo-616361",
-      "source": "milannews.it",
-      "date": "2026-05-06T16:30:00+00:00",
-      "summary": "The journalist Alfredo Pedullà spoke thus to Sportitalia. His words on the particular and controversial situation of Milan, increasingly in total chaos, especially off the pitch."
-    },
-    {
       "id": "d26242803135",
       "title": "GdS: Numbers up there with Yamal – why Milan are excited to welcome Kostic",
       "url": "https://sempremilan.com/why-milan-excited-welcome-kostic-yamal",
       "source": "sempremilan.com",
       "date": "2026-05-06T16:30:00+00:00",
       "summary": "AC Milan’s strikers have struggled to score consistently this season. Well, all but one: Andrej Kostic, who will arrive in the summer. La Gazzetta dello Sport speak about a number nine, owned by Milan, playing in Belgrade, who has even reached double figures for league goals this season. His last go"
-    },
-    {
-      "id": "59b38da398be",
-      "title": "Real Madrid, Mbappè in the sights of the fans for a holiday in Sardinia",
-      "url": "https://www.milannews.it/dall-estero/real-madrid-mbappe-nel-mirino-dei-tifosi-per-una-vacanza-in-sardegna-616312",
-      "source": "milannews.it",
-      "date": "2026-05-06T16:20:00+00:00",
-      "summary": "(ANSA) - ROME, MAY 05 - While red and white Madrid dreams, a few hours before the semi-final return of the Champions League against Arsenal, the white Madrid is seething with tension: the objectives of the season, from the cups to the La Liga, are blurred and everything seems ..."
-    },
-    {
-      "id": "c39256e0cae5",
-      "title": "Biasin: \"If the AC Milan owners are happy with the Champions League placement, it means they don't understand what this club is\"",
-      "url": "https://www.milannews.it/news/biasin-se-la-proprieta-del-milan-e-contenta-del-piazzamento-champions-significa-che-non-ha-capito-cos-e-questo-club-616360",
-      "source": "milannews.it",
-      "date": "2026-05-06T16:10:48+00:00",
-      "summary": "During the usual appointment with his editorial for TMW, his colleague Fabrizio Biasin spoke about Milan and the delicate moment that Massimiliano Allegri's team is going through, which at this rate seriously risks ruining 1 ..."
-    },
-    {
-      "id": "ec80657a2e28",
-      "title": "Saelemaekers, where have you gone? Milan's involution also passes through you!",
-      "url": "https://www.milannews.it/primo-piano/saelemaekers-dove-sei-finito-l-involuzione-del-milan-passa-anche-da-te-616392",
-      "source": "milannews.it",
-      "date": "2026-05-06T16:00:00+00:00",
-      "summary": "There were many downgrades in the squad in the second part of the season."
     },
     {
       "id": "c635a7c1e49b",
@@ -154,60 +226,12 @@
       "summary": "Massimo Ambrosini has joined the crowd of pundits and journalists concerned about the direction of travel for AC Milan. It’s been a tough time AC Milan, who in these final three games of the season find themselves defending third place and consequently Champions League qualification, a goal that see"
     },
     {
-      "id": "7fc9aecdffde",
-      "title": "MN - De Vecchi's advice to the Milan management: \"Let's provide continuity, which has been lacking in recent years\"",
-      "url": "https://www.milannews.it/news/mn-il-consiglio-di-de-vecchi-alla-dirigenza-del-milan-diamo-continuita-che-negli-ultimi-anni-e-mancata-616367",
-      "source": "milannews.it",
-      "date": "2026-05-06T15:50:54+00:00",
-      "summary": "On the occasion of the presentation of Carlo Pellegatti's new book \"50 matches, infinite emotions. Milan\", the editorial staff of MilanNews."
-    },
-    {
-      "id": "e748235705d9",
-      "title": "The AIA towards the commissionership, the federal council will take place on May 13th. The situation",
-      "url": "https://www.milannews.it/news/l-aia-verso-il-commissariamento-il-13-maggio-ci-sara-il-consiglio-federale-la-situazione-616390",
-      "source": "milannews.it",
-      "date": "2026-05-06T15:40:42+00:00",
-      "summary": "As TMW reports, the future of the Italian Referees Association will be decided on May 13th."
-    },
-    {
-      "id": "3ee97cbe76ed",
-      "title": "Cruciani reveals: \"At Milan they bought players that Allegri didn't want\"",
-      "url": "https://www.milannews.it/news/cruciani-rivela-al-milan-hanno-comprato-dei-calciatori-che-allegri-non-voleva-616343",
-      "source": "milannews.it",
-      "date": "2026-05-06T15:30:44+00:00",
-      "summary": "Giuseppe Cruciani, journalist, expressed himself as follows to Number 1 Podcast on the management of Milan: “I'm not saying this to defend Allegri, they bought players as we all know that Allegri didn't want."
-    },
-    {
       "id": "c48ecbcf16ac",
       "title": "Tuttosport: Milan alerted as Juventus decide to sell defender but price is high",
       "url": "https://sempremilan.com/milan-alerted-juventus-gatti-price-high",
       "source": "sempremilan.com",
       "date": "2026-05-06T15:30:00+00:00",
       "summary": "Juventus are planning to sell a centre-back to help fund some new signings, with AC Milan alerted to the potential opportunity. To finance the entire revolution Luciano Spalletti has in mind, Juventus need money not only from Champions League qualification, but also from some of the players deemed n"
-    },
-    {
-      "id": "95259e92836c",
-      "title": "Biasin asks himself: \"Are the AC Milan owners enjoying their position or are they angry at not having done more?\"",
-      "url": "https://www.milannews.it/news/biasin-si-domanda-la-proprieta-del-milan-si-gode-il-piazzamento-o-e-infuriata-per-non-aver-fatto-di-piu-616359",
-      "source": "milannews.it",
-      "date": "2026-05-06T15:20:57+00:00",
-      "summary": "During the usual appointment with his editorial for TMW, his colleague Fabrizio Biasin spoke about Milan and the delicate moment that Massimiliano Allegri's team is going through, which at this rate seriously risks ruining 1 ..."
-    },
-    {
-      "id": "0a83a27f46da",
-      "title": "Baiocchini: \"Allegri's speech was useful, Gimenez and Loftus-Cheek towards a goal from the 1st minute against Atalanta\"",
-      "url": "https://www.milannews.it/news/baiocchini-il-discorso-di-allegri-e-servito-gimenez-e-loftus-cheek-verso-una-maglia-dal-1-contro-l-atalanta-616391",
-      "source": "milannews.it",
-      "date": "2026-05-06T15:10:04+00:00",
-      "summary": "Speaking live from Milanello, Sky Sport correspondent Manuele Baiocchini revealed the latest after training these two days after Sassuolo-Milan."
-    },
-    {
-      "id": "0c1d40798db9",
-      "title": "Malagò comments on the meeting with the Lega Serie B: \"Having examined the priorities, after the meeting with the Lega Pro I will decide\"",
-      "url": "https://www.milannews.it/news/malago-commenta-l-incontro-con-la-lega-serie-b-sviscerato-delle-priorita-dopo-l-incontro-con-la-lega-pro-decido-616388",
-      "source": "milannews.it",
-      "date": "2026-05-06T15:00:32+00:00",
-      "summary": "Giovanni Malagò, possible candidate for the presidency of the FIGC, responded to questions regarding the meeting that took place a short while ago with the Lega Serie B. Below are the words reported by Sportmediaset."
     },
     {
       "id": "8dbec2a07081",
@@ -346,14 +370,6 @@
       "summary": "Luka Modric’s injury saw Ardon Jashari get a chance as the deep-lying playmaker against Sassuolo, but it didn’t exactly go to plan. La Gazzetta dello Sport begin their analysis by recalling Massimiliano Allegri’s words on Jashari, the man that Milan agreed a fee worth over €35m to sign from Club Bru"
     },
     {
-      "id": "a08bf7cfe898",
-      "title": "CorSport: Money and status – why top four is crucial for Milan to sign Goretzka and others",
-      "url": "https://sempremilan.com/why-top-four-crucial-milan-goretzka",
-      "source": "sempremilan.com",
-      "date": "2026-05-06T08:50:00+00:00",
-      "summary": "AC Milan’s determination to take the top four race down to the wire is impacting their plans to sign targets like Leon Goretzka. Milan are having a difficult few weeks, and Sunday’s defeat in Reggio Emilia against Sassuolo has only further exacerbated a general mood that hasn’t been great around Mil"
-    },
-    {
       "id": "348e642cc476",
       "title": "Milan legend names possible 2026 World Cup ‘surprise’",
       "url": "https://football-italia.net/milan-legend-possible-2026-world-cup-surprise/",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-05-03T17:56:39+00:00",
       "summary": "Dusan Vlahovic came off the bench for his first goal of 2026 to rescue a..."
-    },
-    {
-      "id": "6c33ed32a1e4",
-      "title": "Allegri: ‘Milan approached both halves badly, stay calm, Champions League not at risk’",
-      "url": "https://football-italia.net/allegri-milan-approached-both-halves-badly/",
-      "source": "football-italia.net",
-      "date": "2026-05-03T15:54:37+00:00",
-      "summary": "Massimiliano Allegri says that he understands his fan’s frustrations, but has urged for calm after..."
-    },
-    {
-      "id": "bffbe12c471b",
-      "title": "Milan loudly jeered by supporters after 2-0 Sassuolo defeat",
-      "url": "https://football-italia.net/milan-jeered-by-supporters-after-sassuolo-loss/",
-      "source": "football-italia.net",
-      "date": "2026-05-03T15:31:53+00:00",
-      "summary": "It was an afternoon to forget for Milan, who fell to a 2-0 defeat away..."
     }
   ]
 }
