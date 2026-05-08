@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-05-08T04:15:33.941009+00:00",
+  "lastUpdated": "2026-05-08T06:51:21.742463+00:00",
   "articles": [
+    {
+      "id": "d4f1d96d7dd2",
+      "title": "Gazzetta: \"Nkunku is already saying goodbye. The agent is working on offers of 40 million\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-nkunku-e-gia-ai-saluti-l-agente-al-lavoro-per-offerte-da-40-milioni-616559",
+      "source": "milannews.it",
+      "date": "2026-05-08T06:50:05+00:00",
+      "summary": "\"Nkunku is already saying goodbye."
+    },
+    {
+      "id": "52b66833b5ea",
+      "title": "MN - Towards Milan-Atalanta: Max Allegri's press conference tomorrow at 12pm",
+      "url": "https://www.milannews.it/news/mn-verso-milan-atalanta-domani-alle-12-la-conferenza-stampa-di-max-allegri-616558",
+      "source": "milannews.it",
+      "date": "2026-05-08T06:40:10+00:00",
+      "summary": "Tomorrow, the day before Milan-Atalanta, a match valid for the 36th matchday of Serie A which will be played on Sunday at 8pm."
+    },
+    {
+      "id": "8c727b9fe2f9",
+      "title": "The opening of CorSport: \"Alaba offered! Manager Zahavi sees Milan and Juve\"",
+      "url": "https://www.milannews.it/rassegna-stampa/l-apertura-del-corsport-offerto-alaba-il-manager-zahavi-vede-milan-e-juve-616557",
+      "source": "milannews.it",
+      "date": "2026-05-08T06:30:39+00:00",
+      "summary": "The Corriere dello Sport on newsstands this morning has the front page headline: \"Alaba offered! Manager Zahavi sees Milan and Juve\"."
+    },
+    {
+      "id": "244d25b0f5e4",
+      "title": "Petition against Furlani, Serafini: \"The accusations made against the CEO are multiple\"",
+      "url": "https://www.milannews.it/news/petizione-contro-furlani-serafini-le-accuse-mosse-all-ad-sono-molteplici-616556",
+      "source": "milannews.it",
+      "date": "2026-05-08T06:20:29+00:00",
+      "summary": "In his editorial for Milannews."
+    },
+    {
+      "id": "e473c8e8e443",
+      "title": "La Gazzetta on the front page on Milan: \"Rabiot's sprint to keep himself cheerful\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-prima-pagina-sul-milan-lo-sprint-di-rabiot-per-tenersi-allegri-616555",
+      "source": "milannews.it",
+      "date": "2026-05-08T06:10:07+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page about Milan: \"Rabiot's sprint to keep Allegri\"."
+    },
+    {
+      "id": "e8890608cdb4",
+      "title": "Nkunku-Milan, it's already over: his agent is looking for offers of at least 40 million",
+      "url": "https://www.milannews.it/primo-piano/nkunku-milan-e-gia-finita-il-suo-agente-cerca-offerte-da-almeno-40-milioni-616554",
+      "source": "milannews.it",
+      "date": "2026-05-08T06:05:43+00:00",
+      "summary": "After a first part of the season with enormous difficulties and a farewell to January that seemed certain, Christopher Nkunku scored five goals between the end of December and mid-February which gave rise to hope for the rest of the season, but..."
+    },
+    {
+      "id": "874d362d5de6",
+      "title": "Milan, the attack is a flop: thrilling numbers in the second round",
+      "url": "https://www.milannews.it/news/milan-l-attacco-e-un-flop-numeri-da-brividi-nel-girone-di-ritorno-616553",
+      "source": "milannews.it",
+      "date": "2026-05-08T05:50:00+00:00",
+      "summary": "The decline of Milan in the second round is before his eyes and is well demonstrated by the Rossoneri's numbers compared to the first part of this championship: 42 points won in the first 19 games thanks to 12 victories, ..."
+    },
+    {
+      "id": "e97a6f79b8f0",
+      "title": "Milan-Atalanta: Zufferli referee, Di Paolo at VAR",
+      "url": "https://www.milannews.it/news/milan-atalanta-arbitra-zufferli-di-paolo-al-var-616552",
+      "source": "milannews.it",
+      "date": "2026-05-08T05:40:00+00:00",
+      "summary": "The big match of the 36th matchday of the Enilive Serie A championship will undoubtedly be Milan-Atalanta, a match that will be played on Sunday evening at 8pm."
+    },
+    {
+      "id": "60aaffdbdfc6",
+      "title": "Serie A, matchday 36 kicks off today: the complete programme",
+      "url": "https://www.milannews.it/news/serie-a-oggi-al-via-la-36-giornata-il-programma-completo-616551",
+      "source": "milannews.it",
+      "date": "2026-05-08T05:30:00+00:00",
+      "summary": "This is the complete programme, with times and live TV, of the thirty-sixth matchday of Serie A. All eyes on the Champions League race: Juve goes to play at the home of Lecce who are not yet safe, Milan hosts the Dea at San Siro."
+    },
+    {
+      "id": "02a4b0006b40",
+      "title": "Modric, the latest from Milanello: here's how the Croatian is",
+      "url": "https://www.milannews.it/news/modric-le-ultime-da-milanello-ecco-come-sta-il-croato-616550",
+      "source": "milannews.it",
+      "date": "2026-05-08T05:20:00+00:00",
+      "summary": "Another day of work in Milanello in view of the important match on Sunday evening at San Siro against Atalanta. The MilanNews editorial team learns."
+    },
+    {
+      "id": "0358b192ed5e",
+      "title": "Milan-Nkunku, the outgoing Frenchman: the meeting with the agent yesterday",
+      "url": "https://www.milannews.it/news/milan-nkunku-il-francese-in-uscita-ieri-l-incontro-con-l-agente-616549",
+      "source": "milannews.it",
+      "date": "2026-05-08T05:10:00+00:00",
+      "summary": "In recent days, Pini Zahavi carried out the Italian mission that had been announced in recent weeks, with the super agent who is looking, among other things, for the suitable project for the near future of Robert ..."
+    },
+    {
+      "id": "43cda12b8244",
+      "title": "Serie A, the standings with three days to go: hot Champions League race",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-a-tre-giornate-dal-termine-corsa-champions-bollente-616548",
+      "source": "milannews.it",
+      "date": "2026-05-08T05:00:00+00:00",
+      "summary": "The thirty-fifth matchday of Serie A 2025/26 has ended, a round which decreed the victory of the championship by Chivu's Inter and which added a lot of spice to the race for a Champions League place."
+    },
     {
       "id": "04e7ad3dacd0",
       "title": "Barsotti: \"I'm not a coach, but it's clear that Nkunku with his back to goal is in difficulty\"",
@@ -35,7 +131,7 @@
     },
     {
       "id": "c8b4f92f5940",
-      "title": "Piantanida: \"Milan don't score and it's no small feat. When they don't score, they lose\"",
+      "title": "Piantanida: \"Milan don't score and it's no small thing. When they don't score, they lose\"",
       "url": "https://www.milannews.it/news/piantanida-il-milan-non-segna-e-non-e-una-cosa-da-poco-quando-non-segna-perde-616516",
       "source": "milannews.it",
       "date": "2026-05-07T22:20:00+00:00",
@@ -66,38 +162,6 @@
       "summary": "Stefano Impallomeni, on TMW Radio, spoke about the Champions League race: \"Who risks the most? I would say Milan, seeing the last round. But imagining them losing another one seems difficult to me."
     },
     {
-      "id": "e33bc376c41e",
-      "title": "Bucchioni critical: \"The Milan club didn't understand, they made the wrong choices\"",
-      "url": "https://www.milannews.it/news/bucchioni-critico-la-societa-milan-non-ha-capito-ha-sbagliato-le-scelte-616511",
-      "source": "milannews.it",
-      "date": "2026-05-07T21:50:00+00:00",
-      "summary": "Enzo Bucchioni, on TMW Radio, spoke about Milan like this: \"The Milan club didn't understand, they made the wrong choices."
-    },
-    {
-      "id": "66cdb5bd677e",
-      "title": "Bartesaghi remembers the Super Cup: \"Moment I will never forget\"",
-      "url": "https://www.milannews.it/news/bartesaghi-ricorda-la-supercoppa-momento-che-non-dimentichero-mai-616527",
-      "source": "milannews.it",
-      "date": "2026-05-07T21:40:00+00:00",
-      "summary": "On Thursday afternoon, Milan on FanFest broadcast the live broadcast of the fifth episode of Off The Pitch, a double interview with a Rossoneri legend like Serginho and the current left back&n ..."
-    },
-    {
-      "id": "f28b2bd1afdc",
-      "title": "Mattioli: \"Leao? A champion, but he's always missing something to make the leap\"",
-      "url": "https://www.milannews.it/news/mattioli-leao-un-fuoriclasse-ma-gli-manca-sempre-qualcosa-per-fare-il-salto-616509",
-      "source": "milannews.it",
-      "date": "2026-05-07T21:30:00+00:00",
-      "summary": "Mario Mattioli, in today's connection on TMW Radio during Maracanà, expressed a brief opinion on Rafa Leao."
-    },
-    {
-      "id": "13a682ae05bd",
-      "title": "Caressa on Milan: \"In the second half he's doing a little less, but the average...\"",
-      "url": "https://www.milannews.it/news/caressa-sul-milan-nella-seconda-parte-ne-sta-facendo-un-po-di-meno-ma-la-media-616508",
-      "source": "milannews.it",
-      "date": "2026-05-07T21:20:00+00:00",
-      "summary": "Fabio Caressa expressed himself as follows on his Youtube channel about Milan's moment: “Milan has not grown, objectively it is very disappointing, it is a team that has not grown."
-    },
-    {
       "id": "9da432db1051",
       "title": "Pulisic on Milan slump, USMNT and Chelsea criticism: ‘I plan on scoring goals’",
       "url": "https://football-italia.net/pulisic-on-milan-slump-usmnt-chelsea-criticism/",
@@ -106,76 +170,12 @@
       "summary": "Christian Pulisic explains how he approached his Milan debut, dealing with the current crisis, his..."
     },
     {
-      "id": "432dff6bc669",
-      "title": "PSG in their second consecutive Champions League final. The record remains with Milan with three",
-      "url": "https://www.milannews.it/news/il-psg-alla-seconda-finale-di-champions-consecutiva-il-record-resta-del-milan-con-tre-616436",
-      "source": "milannews.it",
-      "date": "2026-05-07T21:10:01+00:00",
-      "summary": "Big celebration last night at Paris Saint-Germain, because with the draw obtained in the semi-final return against Bayern Munich, the French will qualify for the 2026 Champions League final, which will see them opposed to ..."
-    },
-    {
-      "id": "faaf04857bfa",
-      "title": "Pellegatti: \"Arab sirens for Leao according to the Gazzetta. Rafa won't be happy, why doesn't Milan deny it?\"",
-      "url": "https://www.milannews.it/calciomercato-milan/pellegatti-sirene-arabe-per-leao-secondo-la-gazzetta-rafa-non-sara-felice-perche-il-milan-non-smentisce-616505",
-      "source": "milannews.it",
-      "date": "2026-05-07T21:00:37+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti commented on the indiscretion from the Gazzetta dello sport regarding a possible interest from Al Hilal for Rafa Leao."
-    },
-    {
-      "id": "ac59f1ed2992",
-      "title": "Lecce, Banda and Veiga recovered for Juve. It will be sold-out at “Via del Mare”",
-      "url": "https://www.milannews.it/news/lecce-banda-e-veiga-recuperati-per-la-juve-sara-sold-out-al-via-del-mare-616502",
-      "source": "milannews.it",
-      "date": "2026-05-07T20:50:49+00:00",
-      "summary": "As reported by Sport Mediaset, this morning in the Martignano sports center, Eusebio di Francesco's Lecce trained to prepare for Saturday evening's match against Juventus."
-    },
-    {
-      "id": "3fc7ea8672a8",
-      "title": "Trevisani stings Allegri: \"Milan plays terrible football\"",
-      "url": "https://www.milannews.it/news/trevisani-punge-allegri-il-milan-gioca-un-calcio-terribile-616546",
-      "source": "milannews.it",
-      "date": "2026-05-07T20:40:00+00:00",
-      "summary": "It's a difficult moment for Milan. Little play, few ideas and above all very few points."
-    },
-    {
       "id": "54ee689739a5",
       "title": "Bartesaghi reveals Milan dream and surprising Rafael Leao gift",
       "url": "https://football-italia.net/bartesaghi-reveals-milan-dream-rafael-leao/",
       "source": "football-italia.net",
       "date": "2026-05-07T20:30:44+00:00",
       "summary": "Davide Bartesaghi admits it is ‘my dream to stay at Milan for as long as..."
-    },
-    {
-      "id": "1d9ac07f4561",
-      "title": "World Cup, even Trump impressed admits that he would not pay such high tickets",
-      "url": "https://www.milannews.it/news/mondiali-anche-trump-colpito-ammette-che-non-pagherebbe-biglietti-cosi-alti-616521",
-      "source": "milannews.it",
-      "date": "2026-05-07T20:30:00+00:00",
-      "summary": "(ANSA) - NEW YORK, 07 MAY - Donald Trump appears taken by surprise by the high price of tickets for the World Cup. In an interview with the New York Post he admits that he was not aware of the request until 1."
-    },
-    {
-      "id": "ce2485cc53b9",
-      "title": "Head injury for Valverde after the brawl with Tchouameni, he will miss the Clasico",
-      "url": "https://www.milannews.it/dall-estero/trauma-cranico-per-valverde-dopo-la-rissa-con-tchouameni-saltera-il-clasico-616547",
-      "source": "milannews.it",
-      "date": "2026-05-07T20:20:50+00:00",
-      "summary": "Updates arrive on Federico Valverde's condition after the brawl with his teammate Tchouameni."
-    },
-    {
-      "id": "2fe9f0b0babb",
-      "title": "Bartesaghi: \"I want to stay at Milan for as long as possible: magnificent club\"",
-      "url": "https://www.milannews.it/news/bartesaghi-voglio-restare-al-milan-piu-a-lungo-possibile-club-magnifico-616528",
-      "source": "milannews.it",
-      "date": "2026-05-07T20:10:00+00:00",
-      "summary": "On Thursday afternoon, Milan on FanFest broadcast the live broadcast of the fifth episode of Off The Pitch, a double interview with a Rossoneri legend like Serginho and the current left back&n ..."
-    },
-    {
-      "id": "4a59e662369a",
-      "title": "Corsa Champions, Milan and Juve: the statistics compared to the championship",
-      "url": "https://www.milannews.it/news/corsa-champions-milan-e-juve-le-statistiche-a-confronto-del-campionato-616500",
-      "source": "milannews.it",
-      "date": "2026-05-07T20:00:08+00:00",
-      "summary": "There are three games left until the end of the championship, three fundamental games that will tell which will be the other two teams (along with Napoli and Inter) that will play in the Champions League next year."
     },
     {
       "id": "49eea704b331",
