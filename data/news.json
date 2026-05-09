@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-05-09T04:21:34.477363+00:00",
+  "lastUpdated": "2026-05-09T07:05:52.235556+00:00",
   "articles": [
+    {
+      "id": "ec8cd9401b55",
+      "title": "CorSport headlines: \"The anti-Furlani petition reaches 37 thousand\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-titola-la-petizione-anti-furlani-tocca-i-37mila-616669",
+      "source": "milannews.it",
+      "date": "2026-05-09T06:59:45+00:00",
+      "summary": "The Corriere dello Sport headline this morning: \"The anti-Furlani petition reaches 37 thousand\". For a few days some AC Milan fans have launched a petition asking for the resignation of AC Milan CEO Giorgio Furlani."
+    },
+    {
+      "id": "c818e9f37286",
+      "title": "Tuttosport on Allegri and Milan: \"Brainwashing. Champions League objective\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-su-allegri-e-il-milan-lavaggio-di-cervello-obiettivo-champions-616668",
+      "source": "milannews.it",
+      "date": "2026-05-09T06:48:12+00:00",
+      "summary": "\"Brainwashing."
+    },
+    {
+      "id": "e56d6e0475b3",
+      "title": "Milan, important news in the middle of the pitch against Atalanta: chances for Ricci and Loftus-Cheek",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-novita-importanti-in-mezzo-al-campo-contro-l-atalanta-chance-per-ricci-e-loftus-cheek-616667",
+      "source": "milannews.it",
+      "date": "2026-05-09T06:36:52+00:00",
+      "summary": "In view of tomorrow night's match at San Siro against Atalanta, Massimiliano Allegri is thinking about some important changes in midfield where Luka Modric will once again be missing."
+    },
+    {
+      "id": "53e160518717",
+      "title": "CorSport on the front page: \"New sporting directors: D'Amico and Giuntoli, what an intrigue. Tony can go to Milan and leave Atalanta to Cristiano\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-in-prima-pagina-nuovi-ds-d-amico-e-giuntoli-che-intrigo-tony-puo-andare-al-milan-e-lasciare-l-atalanta-a-cristiano-616665",
+      "source": "milannews.it",
+      "date": "2026-05-09T06:24:05+00:00",
+      "summary": "The Corriere dello Sport on newsstands this morning has the front page headline: \"New sporting directors: D'Amico and Giuntoli, what an intrigue. Tony can go to Milan and leave Atalanta to Cristiano\"."
+    },
+    {
+      "id": "d6c7fb3b46fc",
+      "title": "Tomorrow Milan-Atalanta. La Gazzetta opening: \"Gimenez returns\"",
+      "url": "https://www.milannews.it/rassegna-stampa/domani-milan-atalanta-la-gazzetta-in-apertura-rispunta-gimenez-616664",
+      "source": "milannews.it",
+      "date": "2026-05-09T06:12:41+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page in view of Milan-Atalanta tomorrow evening at San Siro: \"Gimenez is back\"."
+    },
+    {
+      "id": "a6e99acc5894",
+      "title": "Tare in the balance and flashback for D'Amico? The Atalanta sporting director is very tempted by Milan",
+      "url": "https://www.milannews.it/primo-piano/tare-in-bilico-e-ritorno-di-fiamma-per-d-amico-il-ds-dell-atalanta-e-molto-tentato-dal-milan-616663",
+      "source": "milannews.it",
+      "date": "2026-05-09T06:00:09+00:00",
+      "summary": "At the moment everyone in the Rossoneri house is focused on qualifying for the Champions League because finishing in the top four is fundamental for Milan's near future."
+    },
+    {
+      "id": "c84e6feb5be2",
+      "title": "Serie B, Frosinone joins Venezia in Serie A. Comotto relegates with Spezia",
+      "url": "https://www.milannews.it/news/serie-b-il-frosinone-raggiunge-il-venezia-in-a-comotto-retrocede-con-lo-spezia-616630",
+      "source": "milannews.it",
+      "date": "2026-05-09T05:48:35+00:00",
+      "summary": "The Serie B regular season officially ended yesterday with the last big day issuing the final verdicts."
+    },
+    {
+      "id": "e1568b1ea949",
+      "title": "Milan Primavera, today the penultimate day against the second team in the class",
+      "url": "https://www.milannews.it/la-primavera/milan-primavera-oggi-la-penultima-giornata-contro-la-seconda-della-classe-616632",
+      "source": "milannews.it",
+      "date": "2026-05-09T05:36:00+00:00",
+      "summary": "Today, at 1pm, Mister Giovanni Renna's Milan Primavera will take to the field for the 37th and penultimate day of the Primavera 1 championship."
+    },
+    {
+      "id": "ada743850b50",
+      "title": "Serie A, the updated standings: Juve can overcome Milan tonight",
+      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-la-juve-stasera-puo-superare-il-milan-616629",
+      "source": "milannews.it",
+      "date": "2026-05-09T05:24:00+00:00",
+      "summary": "The 36th day of the Enilive Serie A championship began yesterday: Torino won against Sassuolo 2-1 in a comeback."
+    },
+    {
+      "id": "4e6bc7225dc9",
+      "title": "PROBABLE LINEUP - Towards Milan-Atalanta, changes in midfield: here are Ricci and Loftus",
+      "url": "https://www.milannews.it/news/probabile-formazione-verso-milan-atalanta-cambi-a-centrocampo-ecco-ricci-e-loftus-616627",
+      "source": "milannews.it",
+      "date": "2026-05-09T05:15:00+00:00",
+      "summary": "We are getting closer to Milan-Atalanta, a key match in this delicate moment of the season for the Rossoneri."
+    },
+    {
+      "id": "8c4141b56b6f",
+      "title": "The third to last day opened yesterday. Three matches today: Juventus play",
+      "url": "https://www.milannews.it/news/ieri-si-e-aperta-la-terzultima-giornata-oggi-tre-partite-gioca-la-juve-616628",
+      "source": "milannews.it",
+      "date": "2026-05-09T05:12:54+00:00",
+      "summary": "The third to last day of the Enilive Serie A championship officially opened yesterday."
+    },
+    {
+      "id": "0b38c933e069",
+      "title": "Eve of Milan-Atalanta: this is when Allegri speaks in the conference today",
+      "url": "https://www.milannews.it/news/vigilia-di-milan-atalanta-ecco-quando-parla-oggi-allegri-in-conferenza-616625",
+      "source": "milannews.it",
+      "date": "2026-05-09T05:00:44+00:00",
+      "summary": "It's a day of eve for Milan: tomorrow at San Siro, at 8.45pm, the Rossoneri face Atalanta on the occasion of the 36th and third to last day of the Serie A Enilive championship."
+    },
     {
       "id": "14880fcbdc49",
       "title": "MN - Bonfanti: \"Gila is a player that Milan has blocked for some time\"",
@@ -63,102 +159,6 @@
       "url": "https://www.milannews.it/news/mn-bonfanti-contro-allegri-ha-un-gioco-superato-noioso-vedo-pochissime-idee-616639",
       "source": "milannews.it",
       "date": "2026-05-08T21:50:00+00:00",
-      "summary": "Milan is desperately seeking qualification for the next Champions League, six points in the next three games would be enough, but the environment is in turmoil again: there is enormous intolerance towards Gerry Cardinale and Giorgi..."
-    },
-    {
-      "id": "5e700cee8077",
-      "title": "Theo decisive in the King's Cup: his goal gives the cup to Al Hilal",
-      "url": "https://www.milannews.it/gli-ex/theo-decisivo-in-king-s-cup-il-suo-gol-regala-la-coppa-all-al-hilal-616646",
-      "source": "milannews.it",
-      "date": "2026-05-08T21:40:14+00:00",
-      "summary": "Al Hilal won the King's Cup, the Saudi Arabian cup. In the final played this evening, Simone Inzaghi's team beaten Al-Kholood Club with a result of 2-1."
-    },
-    {
-      "id": "4e6bc7225dc9",
-      "title": "PROBABLE LINEUP - Towards Milan-Atalanta, changes in midfield: here are Ricci and Loftus",
-      "url": "https://www.milannews.it/news/probabile-formazione-verso-milan-atalanta-cambi-a-centrocampo-ecco-ricci-e-loftus-616627",
-      "source": "milannews.it",
-      "date": "2026-05-08T21:30:00+00:00",
-      "summary": "We are getting closer to Milan-Atalanta, a key match in this delicate moment of the season for the Rossoneri."
-    },
-    {
-      "id": "6c54b452ff55",
-      "title": "Guardiola: \"Women's football is the biggest step made in the last decade\"",
-      "url": "https://www.milannews.it/dall-estero/guardiola-calcio-femminile-il-passo-piu-grande-fatto-nell-ultimo-decennio-616596",
-      "source": "milannews.it",
-      "date": "2026-05-08T21:30:00+00:00",
-      "summary": "(ANSA) - ROME, MAY 08 - According to Manchester City coach Pep Guardiola, the growth of the women's movement \"is the biggest step that world football has taken in the last decade."
-    },
-    {
-      "id": "556ac3e08acb",
-      "title": "Serie A, the updated ranking: Torino legitimizes salvation",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-il-torino-legittima-la-salvezza-616618",
-      "source": "milannews.it",
-      "date": "2026-05-08T21:20:16+00:00",
-      "summary": "Torino's victory over Sassuolo 2-1 in the Friday preview of the 36th matchday of the Enilive Serie A championship."
-    },
-    {
-      "id": "ae588e42c2a9",
-      "title": "Allegri in the national team? Brambati: \"If Milan goes to the Champions League...\"",
-      "url": "https://www.milannews.it/news/allegri-in-nazionale-brambati-se-il-milan-va-in-champions-616601",
-      "source": "milannews.it",
-      "date": "2026-05-08T21:10:00+00:00",
-      "summary": "On TMW Radio, Massimo Brambati spoke thus of Max Allegri as a name for the national team: \"If Milan goes to the Champions League, he wants to return to that cup."
-    },
-    {
-      "id": "e6c5e0fe7ee3",
-      "title": "The Milan effect is already over: Sassuolo defeated by Torino",
-      "url": "https://www.milannews.it/news/gia-finito-l-effetto-milan-sassuolo-sconfitto-dal-torino-616617",
-      "source": "milannews.it",
-      "date": "2026-05-08T21:00:00+00:00",
-      "summary": "The Milan effect is already over for Sassuolo. Five days after having dominated Milan in Reggio Emilia, mister Fabio Grosso's neroverdi fell under the blows of mister Roberto D'Aversa's Torino."
-    },
-    {
-      "id": "13d2f4972241",
-      "title": "MN - Bonfanti: \"Milan, huge confusion from the club's point of view\"",
-      "url": "https://www.milannews.it/news/mn-bonfanti-milan-grandissima-confusione-dal-punto-di-vista-della-societa-616638",
-      "source": "milannews.it",
-      "date": "2026-05-08T20:50:00+00:00",
-      "summary": "Milan is desperately seeking qualification for the next Champions League, six points in the next three games would be enough, but the environment is in turmoil again: there is enormous intolerance towards Gerry Cardinale and Giorgi..."
-    },
-    {
-      "id": "c1ccfc9730a5",
-      "title": "Frosinone scores 5 and is promoted to Serie A! Comotto relegates with Spezia",
-      "url": "https://www.milannews.it/news/il-frosinone-ne-fa-5-ed-e-promosso-in-serie-a-retrocede-comotto-con-lo-spezia-616626",
-      "source": "milannews.it",
-      "date": "2026-05-08T20:40:02+00:00",
-      "summary": "The Serie B regular season ended this evening with the last big day issuing the final, important, verdicts."
-    },
-    {
-      "id": "27984d0a3015",
-      "title": "Milan, six warned against Atalanta: but only five risk disqualification",
-      "url": "https://www.milannews.it/news/milan-sei-diffidati-contro-l-atalanta-ma-solo-cinque-rischiano-la-squalifica-616619",
-      "source": "milannews.it",
-      "date": "2026-05-08T20:30:00+00:00",
-      "summary": "The next match for Milan is approaching and, on Sunday evening at 8.45pm, they will host Atalanta at San Siro in what is another crucial match for the Rossoneros' future."
-    },
-    {
-      "id": "d78b9a83404b",
-      "title": "Hubner reveals: \"Maldini asked me for my shirt, I thought he was making fun of me. Wonderful moment\"",
-      "url": "https://www.milannews.it/news/hubner-rivela-maldini-mi-chiese-la-maglia-pensavo-mi-prendesse-in-giro-momento-stupendo-616482",
-      "source": "milannews.it",
-      "date": "2026-05-08T20:20:00+00:00",
-      "summary": "During the last episode of the podcast Centrocampo, former Brescia striker (among others) Dario Hubner was a guest and talked about his entire career and the significant episodes that marked him."
-    },
-    {
-      "id": "858bdc4c73ac",
-      "title": "Rivera and Tardelli will participate in the 2026 Cesarini prize",
-      "url": "https://www.milannews.it/news/rivera-e-tardelli-parteciperanno-al-premio-cesarini-2026-616616",
-      "source": "milannews.it",
-      "date": "2026-05-08T20:10:05+00:00",
-      "summary": "(ANSA) - ROME, MAY 08 - The 'Renato Cesarini' award is also back, dedicated to the footballer of Marche origins famous for his late goals."
-    },
-    {
-      "id": "7339cf9efa90",
-      "title": "MN - Bonfanti: \"I point the finger simultaneously towards the club and the coach\"",
-      "url": "https://www.milannews.it/news/mn-bonfanti-punto-il-dito-simultaneamente-verso-societa-e-allenatore-616637",
-      "source": "milannews.it",
-      "date": "2026-05-08T20:00:00+00:00",
       "summary": "Milan is desperately seeking qualification for the next Champions League, six points in the next three games would be enough, but the environment is in turmoil again: there is enormous intolerance towards Gerry Cardinale and Giorgi..."
     },
     {
