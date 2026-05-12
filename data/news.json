@@ -1,13 +1,85 @@
 {
-  "lastUpdated": "2026-05-12T19:48:46.753112+00:00",
+  "lastUpdated": "2026-05-12T21:18:23.614505+00:00",
   "articles": [
+    {
+      "id": "f096e0dd635f",
+      "title": "Sabatini: \"Milan on the brink of the abyss, actually further down. This son of a market that isn't up to par\"",
+      "url": "https://www.milannews.it/news/sabatini-milan-sull-orlo-del-baratro-anzi-piu-giu-questo-figlio-di-un-mercato-non-all-altezza-616991",
+      "source": "milannews.it",
+      "date": "2026-05-12T21:10:06+00:00",
+      "summary": "On his YouTube channel, Sandro Sabatini commented on the defeat at the hands of Atalanta in Sunday evening's postponement at San Siro."
+    },
+    {
+      "id": "d965f46e401e",
+      "title": "Flick extends for another two years with Barcelona",
+      "url": "https://www.milannews.it/news/flick-prolunga-per-altri-due-anni-con-il-barcellona-617080",
+      "source": "milannews.it",
+      "date": "2026-05-12T21:00:24+00:00",
+      "summary": "(ANSA) - ROME, MAY 12 - Barcelona coach Hansi Flick has confirmed that he has signed a two-year contract extension with the Catalan club, with an option for a third."
+    },
+    {
+      "id": "142f419bb4dc",
+      "title": "De Paola: \"It makes you bewildered to see how Milan can't do even the most basic things\"",
+      "url": "https://www.milannews.it/news/de-paola-fa-rimanere-smarriti-vedere-come-il-milan-non-riesca-a-fare-neanche-le-cose-piu-basilari-617077",
+      "source": "milannews.it",
+      "date": "2026-05-12T20:50:00+00:00",
+      "summary": "Milan's moment is among the most difficult in recent years."
+    },
+    {
+      "id": "1ffe6a97840e",
+      "title": "Football Federation, Malagò dissolves his reservations: \"I will submit my candidacy tomorrow\"",
+      "url": "https://www.milannews.it/news/federcalcio-malago-scioglie-le-riserve-domani-deposito-la-mia-candidatura-617106",
+      "source": "milannews.it",
+      "date": "2026-05-12T20:40:50+00:00",
+      "summary": "(ANSA) - ROME, MAY 12 - \"I said it and I kept my word, out of institutional respect for the IOC president Coventry who was here in Rome and the members I always reiterated that I would dissolve the reservations immediately afterwards."
+    },
+    {
+      "id": "eb027beb2c45",
+      "title": "Canovi criticizes Milan: \"They have always played badly this year\"",
+      "url": "https://www.milannews.it/news/canovi-critica-il-milan-ha-giocato-sempre-male-quest-anno-617044",
+      "source": "milannews.it",
+      "date": "2026-05-12T20:30:10+00:00",
+      "summary": "Speaking to TuttoMercatoWeb.com, transfer operator Dario Canovi commented on Milan's crisis as follows: \"It's a team that in the last seven-eight games is capable of fighting for relegation."
+    },
+    {
+      "id": "2a6dcfdd70b0",
+      "title": "Nek will sing the Mameli Hymn before the final between Lazio and Inter",
+      "url": "https://www.milannews.it/news/nek-cantera-l-inno-di-mameli-prima-della-finale-tra-lazio-e-inter-617084",
+      "source": "milannews.it",
+      "date": "2026-05-12T20:22:22+00:00",
+      "summary": "(ANSA) - ROME, MAY 11 - Nek will sing the Mameli Anthem before the 2025/2026 Italian Cup Final between Lazio and Inter, scheduled for Wednesday 13 May at the Olympic stadium in Rome, at 9.00 pm."
+    },
+    {
+      "id": "7e0a0c135051",
+      "title": "Giannichedda: \"Is Allegri doing his best? With the attack he has...\"",
+      "url": "https://www.milannews.it/news/giannichedda-allegri-sta-facendo-il-massimo-con-l-attacco-che-ha-617076",
+      "source": "milannews.it",
+      "date": "2026-05-12T20:11:00+00:00",
+      "summary": "Milan's moment is among the most difficult in recent years."
+    },
+    {
+      "id": "1133cc48253c",
+      "title": "Weiss appointed Slovakia coach. He faced Milan last year with Slovan Bratislava",
+      "url": "https://www.milannews.it/news/weiss-nominato-ct-della-slovacchia-aveva-affrontato-il-milan-l-anno-scorso-con-lo-slovan-bratislava-617083",
+      "source": "milannews.it",
+      "date": "2026-05-12T20:00:48+00:00",
+      "summary": "(ANSA) - ROME, MAY 12 - Slovak coach Vladimir Weiss will return to coach his country's national team, succeeding Francesco Calzona who resigned last month, the football federation (Sfz) announced."
+    },
+    {
+      "id": "b39a3cb995b5",
+      "title": "MN - Vierchowod on Allegri: \"He tried to convey confidence, but in the last period...\"",
+      "url": "https://www.milannews.it/news/mn-vierchowod-su-allegri-ha-cercato-di-trasmettere-sicurezza-ma-nell-ultimo-periodo-617051",
+      "source": "milannews.it",
+      "date": "2026-05-12T19:50:53+00:00",
+      "summary": "Pietro Vierchowod, former Rossoneri defender, gave an exclusive interview to Milannews.it, in which he also commented on the Milan fans' protest against the club and Max Allegri's work."
+    },
     {
       "id": "888a5f960c81",
       "title": "Belgium, pre-summit squad for the World Cup listed: the decision on Saelemaekers and De Winter",
       "url": "https://www.milannews.it/news/belgio-elencati-i-pre-convocati-per-il-mondiale-la-decisione-su-saelemaekers-e-de-winter-617104",
       "source": "milannews.it",
       "date": "2026-05-12T19:40:00+00:00",
-      "summary": "As reported by the official website of the Belgian football federation, the coach of the Red Devils Rudi Garcia has confirmed the pre-summit squad for the next American World Cup, scheduled for this summer."
+      "summary": "As reported by the official website of the Belgian football federation, the coach of the Red Devils Rudi Garcia has confirmed the pre-summoned squad for the next American World Cup, scheduled for this summer."
     },
     {
       "id": "ca793d3b0844",
@@ -114,30 +186,6 @@
       "summary": "This summer, AC Milan could hire a new manager to replace Massimiliano Allegri and they may go to another name from the past.  Milan have had a number of greats to manage them in their recent history, but it is difficult to find someone more illustrious than Carlo Ancelotti. The Italian won everythi"
     },
     {
-      "id": "77de2f2ed2c0",
-      "title": "Sensational statement from the Lega Serie A against the Prefecture's decision for the five matches to be held at the same time",
-      "url": "https://www.milannews.it/news/clamoroso-comunicato-della-lega-serie-a-contro-la-decisione-della-prefettura-per-le-cinque-partite-in-contemporanea-617092",
-      "source": "milannews.it",
-      "date": "2026-05-12T17:48:02+00:00",
-      "summary": "The Lega Serie A, as the entity delegated by the FIGC to organize the relevant championship, has the primary and unfailing task of protecting the regularity of the championship itself, which has its cornerstone in the contemporaneity ..."
-    },
-    {
-      "id": "cc034b93a114",
-      "title": "Allegri's decision to withdraw is also to help the group regain some serenity as it will have to concentrate on its European objective.",
-      "url": "https://www.milannews.it/news/la-scelta-del-ritiro-presa-da-allegri-e-anche-per-far-ritrovare-un-po-di-serenita-al-gruppo-che-dovra-concentrarsi-sull-obbiettivo-europeo-617088",
-      "source": "milannews.it",
-      "date": "2026-05-12T17:40:00+00:00",
-      "summary": "(ANSA) - MILAN, MAY 12 - From next Thursday, Milan will go into retreat until the day of the away match in Genoa, the penultimate match of the championship and the decisive match for access to the Champions League."
-    },
-    {
-      "id": "5e888f29b017",
-      "title": "Cassano, harsh criticism of Tare: \"He arrived as the savior of the country and instead...\"",
-      "url": "https://www.milannews.it/news/cassano-dure-critiche-a-tare-e-arrivato-come-il-salvatore-della-patria-e-invece-617058",
-      "source": "milannews.it",
-      "date": "2026-05-12T17:30:16+00:00",
-      "summary": "Antonio Cassano, former Rossoneri striker, speaking on \"Viva El Futbol\", commented on Milan's crisis as follows: \"The two responsible for this disaster are Tare, who chose Allegri, they wanted to cover each other with the other ..."
-    },
-    {
       "id": "ca64caa23e9d",
       "title": "Sky: Tare and Furlani present to watch Milan training at Milanello ahead of Genoa",
       "url": "https://sempremilan.com/tare-furlani-present-watch-milan-training-genoa",
@@ -146,60 +194,12 @@
       "summary": "Ahead of this weekend’s game against Genoa, Giorgio Furlani has attended training at Milanello to offer support to the AC Milan team. In the Milan sphere, there are few people more polarising than Furlani. The CEO is certainly not the most popular member of the management and there are several calls"
     },
     {
-      "id": "cd996446d599",
-      "title": "MN - From Milanello: first training session towards Genoa. There is no Pulisic, but for management",
-      "url": "https://www.milannews.it/news/mn-da-milanello-primo-allenamento-verso-il-genoa-non-c-e-pulisic-ma-per-gestione-617090",
-      "source": "milannews.it",
-      "date": "2026-05-12T17:20:01+00:00",
-      "summary": "In today's training, the first of the week towards Genoa, Massimiliano Allegri had the whole group at his disposal, including Davide Bartesaghi, who came out of the match against Atalanta battered."
-    },
-    {
-      "id": "957066a7ace8",
-      "title": "Canovi: \"I don't understand why the club is blamed, it's not a team to win the Champions League but certainly to fight for the Scudetto yes\"",
-      "url": "https://www.milannews.it/news/canovi-non-capisco-perche-si-dia-la-colpa-alla-societa-non-e-una-squadra-per-vincere-la-champions-ma-sicuramente-per-lottare-per-lo-scudetto-si-617043",
-      "source": "milannews.it",
-      "date": "2026-05-12T17:11:18+00:00",
-      "summary": "Speaking to TuttoMercatoWeb.com, transfer operator Dario Canovi commented on Milan's crisis as follows: \"It's a team that in the last seven-eight games is capable of fighting for relegation."
-    },
-    {
       "id": "350aaa85947a",
       "title": "CM: Ibrahimovic adds Conte and van Bommel to Allegri replacement list",
       "url": "https://sempremilan.com/ibrahimovic-adds-conte-van-bommel-allegri-replacement",
       "source": "sempremilan.com",
       "date": "2026-05-12T17:00:00+00:00",
       "summary": "This summer, Massimiliano Allegri may leave AC Milan and if he does, there is no shortage of candidates to replace him. With Milan’s season crashing and burning, there are suggestions that the club may part ways with Allegri, regardless of what happens. Indeed, the Italian could leave with relations"
-    },
-    {
-      "id": "df93b280ba2a",
-      "title": "MN - Milan in retreat, but not from tomorrow. The program up to the match against Genoa",
-      "url": "https://www.milannews.it/news/mn-milan-in-ritiro-ma-non-da-domani-il-programma-fino-alla-sfida-col-genoa-617087",
-      "source": "milannews.it",
-      "date": "2026-05-12T16:59:08+00:00",
-      "summary": "According to what has been learned by the MilanNews editorial team."
-    },
-    {
-      "id": "e820137d1317",
-      "title": "MN - Vierchowod on Milan: \"I didn't expect the knockout against Atalanta. Something in the Rossoneri's game isn't working\"",
-      "url": "https://www.milannews.it/news/mn-vierchowod-sul-milan-non-mi-aspettavo-il-ko-contro-l-atalanta-qualcosa-nel-gioco-dei-rossoneri-non-sta-funzionando-617053",
-      "source": "milannews.it",
-      "date": "2026-05-12T16:50:51+00:00",
-      "summary": "Pietro Vierchowod, former Rossoneri defender, gave an exclusive interview to Milannews.it, in which he commented on the vertical collapse of Max Allegri's Milan which is in the midst of a crisis in performance and results."
-    },
-    {
-      "id": "fad30c8f9ed6",
-      "title": "The Lega Pro announces that it will not take sides in the FIGC elections until it receives the programmes",
-      "url": "https://www.milannews.it/news/la-lega-pro-fa-sapere-che-non-si-schierera-per-le-elezioni-in-figc-fin-quando-non-ricevera-i-programmi-617007",
-      "source": "milannews.it",
-      "date": "2026-05-12T16:40:04+00:00",
-      "summary": "(ANSA) - ROME, MAY 11 - \"We are waiting for the programmes, we have decided not to take sides now\"."
-    },
-    {
-      "id": "e7f7575b8f43",
-      "title": "Vincenzo Raiola in Corona: \"The agents pay bribes to the teams\"",
-      "url": "https://www.milannews.it/news/vincenzo-raiola-a-corona-i-procuratori-pagano-mazzette-alle-squadre-617086",
-      "source": "milannews.it",
-      "date": "2026-05-12T16:30:00+00:00",
-      "summary": "Fabrizio Corona is back with his Falsissimo format to address the topic relating to the role of agents in the world of Italian football."
     },
     {
       "id": "d0270033b2c2",
