@@ -1,6 +1,214 @@
 {
-  "lastUpdated": "2026-05-13T10:25:01.990875+00:00",
+  "lastUpdated": "2026-05-13T13:10:32.693510+00:00",
   "articles": [
+    {
+      "id": "07cfdfd1314a",
+      "title": "Serie B announces that it will vote for Malagò in the FIGC elections",
+      "url": "https://www.milannews.it/news/la-serie-b-annuncia-che-votera-malago-per-le-elezioni-della-figc-617119",
+      "source": "milannews.it",
+      "date": "2026-05-13T13:00:36+00:00",
+      "summary": "(ANSA) - ROME, MAY 12 - \"We have registered a clear orientation towards the figure of Giovanni Malagò, on which we intend to converge\"."
+    },
+    {
+      "id": "aa02a5c9e3da",
+      "title": "“Playing for €80m” – Sarri highlights why Genoa-Milan and other games should be moved",
+      "url": "https://sempremilan.com/sarry-why-genoa-milan-moved-monday",
+      "source": "sempremilan.com",
+      "date": "2026-05-13T13:00:00+00:00",
+      "summary": "Maurizio Sarri has added his thoughts to the debate about when the penultimate round of Serie A fixtures should be played. Lega Serie A like games in the final two rounds to kick-off at the same time if there are teams whose results impact each other, such as in the fight for the title (as […]\nThe p"
+    },
+    {
+      "id": "904b376838ca",
+      "title": "AIA Commissioner: opinion requested from the Sports Guarantee Board. The FIGC press release",
+      "url": "https://www.milannews.it/news/commissariamento-aia-chiesto-parere-al-collegio-di-garanzia-dello-sport-il-comunicato-della-figc-617168",
+      "source": "milannews.it",
+      "date": "2026-05-13T12:50:14+00:00",
+      "summary": "The meeting of the Federal Council took place today in the 'Paolo Rossi' room of the FIGC headquarters in Rome."
+    },
+    {
+      "id": "dc4cd8ac5244",
+      "title": "Referees investigation: no club managers to be heard and there is no new suspect",
+      "url": "https://www.milannews.it/news/inchiesta-arbitri-nessun-dirigente-di-club-da-sentire-e-non-c-e-nessun-nuovo-indagato-617089",
+      "source": "milannews.it",
+      "date": "2026-05-13T12:40:00+00:00",
+      "summary": "(ANSA) - MILAN, MAY 12 - There is no need, at the moment, to hear from club managers, nor to include other people in the register of suspects, in addition to the five referees and \"varists\" already under investigation, including ..."
+    },
+    {
+      "id": "964bb694fea1",
+      "title": "Sky Germany: Dortmund star Guirassy seeks exit – Milan and Spurs express interest",
+      "url": "https://sempremilan.com/dortmund-guirassy-exit-milan-spurs-interest",
+      "source": "sempremilan.com",
+      "date": "2026-05-13T12:35:00+00:00",
+      "summary": "Serhou Guirassy wants to leave Borussia Dortmund, a report claims, and AC Milan have been mentioned as a possible destination. Sky Germany claim that despite scoring 16 Bundesliga goals, Guirassy harbours ‘a certain degree of dissatisfaction’. He maintains a good relationship with coach Niko Kovac ,"
+    },
+    {
+      "id": "67cf9f796500",
+      "title": "Who deserves more to go to the Champions League between Milan and Roma? The double former Cafu speaks: \"I hope they both make it\"",
+      "url": "https://www.milannews.it/gli-ex/chi-merita-di-piu-di-andare-in-champions-tra-milan-e-roma-parla-il-doppio-ex-cafu-mi-auguro-che-entrambe-ce-la-facciano-617146",
+      "source": "milannews.it",
+      "date": "2026-05-13T12:30:30+00:00",
+      "summary": "Interviewed by Gazzetta dello Sport, Marcos Cafu, former AC Milan and Roma player, spoke thus of his two former teams who are both fighting for a place in the Champions League: \"Who deserves more to go to the Champions League between ..."
+    },
+    {
+      "id": "96df47ce69ba",
+      "title": "Romano: \"Lewandowski, goodbye to Barça closer. Italian clubs are also interested, but the deal is too expensive\"",
+      "url": "https://www.milannews.it/news/romano-lewandowski-addio-al-barca-piu-vicino-anche-club-italiani-interessati-ma-affare-troppo-costoso-617166",
+      "source": "milannews.it",
+      "date": "2026-05-13T12:20:12+00:00",
+      "summary": "Robert Lewandrowski's farewell to Barcelona is getting ever closer: as Fabrizio Romano reports on"
+    },
+    {
+      "id": "a9f3a1851a12",
+      "title": "Enzo Raiola: \"Busardò does many operations with Furlani at Milan.\" Waiting for documentary evidence...",
+      "url": "https://www.milannews.it/news/enzo-raiola-tante-operazioni-con-furlani-al-milan-le-fa-busardo-in-attesa-di-riscontri-documentali-617164",
+      "source": "milannews.it",
+      "date": "2026-05-13T12:10:00+00:00",
+      "summary": "A new episode of Falsissimo by Fabrizio Corona was released this week, all focused on the world of football and in particular relating to the world of prosecutors and agents."
+    },
+    {
+      "id": "939bd668329c",
+      "title": "CorSport: Man Utd poised as Milan would make €50m+ sacrifice without Champions League",
+      "url": "https://sempremilan.com/pavlovic-sacrifice-milan-manchester-united-poised",
+      "source": "sempremilan.com",
+      "date": "2026-05-13T12:10:00+00:00",
+      "summary": "If AC Milan do not get into the 2026-27 edition of the Champions League, it will have negative impacts on their future planning. It goes without saying that a top four spot is huge for any Italian club, but it is particularly true for Milan after a season without playing in any European competition."
+    },
+    {
+      "id": "5b1237c7018d",
+      "title": "Champions race: 5 teams for 3 places. What if we get equal points? Milan ahead in many of the 26 possible combinations",
+      "url": "https://www.milannews.it/primo-piano/corsa-champions-5-squadre-per-3-posti-e-se-si-arriva-a-pari-punti-milan-avanti-in-molte-delle-26-combinazioni-possibili-617160",
+      "source": "milannews.it",
+      "date": "2026-05-13T12:00:35+00:00",
+      "summary": "A crackling 180 minutes await in the race for the Champions League, for which five teams are fighting for three places. The current ranking says: Napoli 70 points, Juventus 68, Milan 67, Roma 67 and Como 65."
+    },
+    {
+      "id": "596bd4566fbd",
+      "title": "Conceicao: ‘It’s not easy to be the coach of Milan, rumours started after one draw’",
+      "url": "https://football-italia.net/conceicao-not-easy-to-be-the-coach-of-milan/",
+      "source": "football-italia.net",
+      "date": "2026-05-13T11:58:59+00:00",
+      "summary": "Sergio Conceicao admits that it is ‘not easy’ to be the head coach of Milan,..."
+    },
+    {
+      "id": "fb9074671a70",
+      "title": "Odds of Milan qualifying for the Champions League, the Rossoneri's chances for the Champions Cup",
+      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-milan-qualificato-in-champions-le-chance-dei-rossoneri-per-la-coppa-campioni-617054",
+      "source": "milannews.it",
+      "date": "2026-05-13T11:53:58+00:00",
+      "summary": "Five defeats in the last 8 games, a trend to fight against relegation."
+    },
+    {
+      "id": "ae1106b4065c",
+      "title": "Raimondo: Four possible scenarios regarding Furlani’s future as Milan CEO",
+      "url": "https://sempremilan.com/four-possible-scenarios-furlani-milan-ceo",
+      "source": "sempremilan.com",
+      "date": "2026-05-13T11:45:00+00:00",
+      "summary": "They lawyer and author Felice Raimondo has outlined four possible scenarios for the future of AC Milan’s CEO. Over the past few days, Furlani’s name has been in the headlines because of strong fan protests and stories that he may be a victim if Gerry Cardinale opts to make major changes in the club’"
+    },
+    {
+      "id": "d1fae5b89bd3",
+      "title": "Moggi: \"Tare, the best, was taken, but the others will take care of managing it: including the market\"",
+      "url": "https://www.milannews.it/news/moggi-e-stato-preso-tare-il-migliore-ma-a-gestire-ci-pensano-gli-altri-mercato-compreso-617162",
+      "source": "milannews.it",
+      "date": "2026-05-13T11:40:00+00:00",
+      "summary": "The future of Milan is uncertain. Like every month of May from after the conquest of the 19th Scudetto onwards."
+    },
+    {
+      "id": "cddcd1265374",
+      "title": "Lazio, Sarri: \"I believe that the four teams that are playing for 80 million with the Champions League should not do so at 12.30 in May\"",
+      "url": "https://www.milannews.it/news/lazio-sarri-credo-che-le-quattro-squadre-che-si-stanno-giocando-80-milioni-con-la-champions-non-debbano-farlo-alle-12-30-di-maggio-617125",
+      "source": "milannews.it",
+      "date": "2026-05-13T11:30:06+00:00",
+      "summary": "(ANSA) - ROME, MAY 12 - \"Better to play the derby on Monday. It's better for everyone and also for us who have 24 more hours of rest."
+    },
+    {
+      "id": "08f8918ec8ff",
+      "title": "Guirassy wants to leave Dortmund. Three clubs are interested: Milan is also there",
+      "url": "https://www.milannews.it/calciomercato-milan/guirassy-vuole-lasciare-il-dortmund-tre-club-interessati-c-e-anche-il-milan-617163",
+      "source": "milannews.it",
+      "date": "2026-05-13T11:20:00+00:00",
+      "summary": "In recent years there is a name that has cyclically returned to orbit around Milan, without the Rossoneri club ever actually being able to strike up a real negotiation to make him become the Rossoneri."
+    },
+    {
+      "id": "2e3ef4f7fcda",
+      "title": "GdS: ‘United for the Champions League’ – Milan management form pact before judgement day",
+      "url": "https://sempremilan.com/united-champions-league-milan-management-pact",
+      "source": "sempremilan.com",
+      "date": "2026-05-13T11:20:00+00:00",
+      "summary": "Amidst all of the external noise surrounding AC Milan’s future, in the present the management have made a pact to remain united. La Gazzetta dello Sport (seen below) write this morning that there is a goal that unites everyone, more important than any individual’s claims or the prospects of individu"
+    },
+    {
+      "id": "8c45a12046ef",
+      "title": "Ramazzotti: \"The feeling is that the revolution on the upper floors of Via Aldo Rossi could be total\"",
+      "url": "https://www.milannews.it/news/ramazzotti-la-sensazione-e-che-la-rivoluzione-ai-piani-alti-di-via-aldo-rossi-possa-essere-totale-617127",
+      "source": "milannews.it",
+      "date": "2026-05-13T11:10:36+00:00",
+      "summary": "Andrea Ramazzotti, journalist, expressed himself as follows in La Gazzetta dello Sport on Milan's moment: \"With two days to go before the end of the championship, this is not the time for trials."
+    },
+    {
+      "id": "4f09aed257b6",
+      "title": "Milan in the Champions League? Albertini: \"Emotionality will count a lot\"",
+      "url": "https://www.milannews.it/news/milan-in-champions-albertini-l-emotivita-contera-tantissimo-617156",
+      "source": "milannews.it",
+      "date": "2026-05-13T11:00:00+00:00",
+      "summary": "The Milan finds itself with its back against the wall two days before the end of the championship: first at the \"Luigi Ferraris\" against Genoa and then at the \"San Siro\" against Cagliari, the Rossoneri will necessarily need ..."
+    },
+    {
+      "id": "49809451444c",
+      "title": "Capello explains why Milan’s decline was predictable and accuses some players of not caring",
+      "url": "https://sempremilan.com/capello-milan-decline-players-not-caring",
+      "source": "sempremilan.com",
+      "date": "2026-05-13T10:55:00+00:00",
+      "summary": "Fabio Capello believes that AC Milan’s drop-off was something he could see coming, while he accused some players of not caring. The last couple of months could have gone better for Milan. They have won just two of their last eight games and have seen an eight-point gap over fifth place completely wi"
+    },
+    {
+      "id": "e32befe0f46a",
+      "title": "Moggi reveals: \"Allegri and Ibra argued and are no longer seeing each other\"",
+      "url": "https://www.milannews.it/news/moggi-rivela-allegri-e-ibra-hanno-litigato-e-non-si-frequentano-piu-617161",
+      "source": "milannews.it",
+      "date": "2026-05-13T10:50:00+00:00",
+      "summary": "Very troubled season finale for Milan. The results have not been coming for two months, with only 7 points in the last 8 days in the Serie A Enilive championship, and in general the corporate situation seems very unstable."
+    },
+    {
+      "id": "482cb69893ac",
+      "title": "FIGC Presidency: Giovanni Malagò has filed his candidacy",
+      "url": "https://www.milannews.it/news/presidenza-figc-giovanni-malago-ha-depositato-la-sua-candidatura-617158",
+      "source": "milannews.it",
+      "date": "2026-05-13T10:41:11+00:00",
+      "summary": "- ROME, MAY 13 - Giovanni Malagò, as he announced yesterday evening to ANSA, has filed his candidacy for the presidency of the Football Federation."
+    },
+    {
+      "id": "9919f6c32a50",
+      "title": "Lawyer Raimondo: \"Furlani and his future at Milan: four possible scenarios\"",
+      "url": "https://www.milannews.it/news/avv-raimondo-furlani-e-il-suo-futuro-al-milan-quattro-scenari-possibili-617151",
+      "source": "milannews.it",
+      "date": "2026-05-13T10:31:46+00:00",
+      "summary": "Speaking on his substack profile, the lawyer Felice Raimondo explained the four possible scenarios on the future of Giorgio Furlani, AC Milan CEO heavily contested by fans in recent weeks, whose position seems to be in ..."
+    },
+    {
+      "id": "2841c3beb796",
+      "title": "Reports: Vlahovic’s fate remains up in the air – Juventus set limit at Milan watch on",
+      "url": "https://sempremilan.com/vlahovic-juventus-set-limit-milan-watch",
+      "source": "sempremilan.com",
+      "date": "2026-05-13T10:30:00+00:00",
+      "summary": "Dusan Vlahovic’s future at Juventus remains up in the air, with AC Milan again mentioned as being a club in waiting. As things stand, Vlahovic’s contract will expire at the end of the season. There has been a lot of talk about negotiations with Juventus over a renewal, yet as of mid-May there is not"
+    },
+    {
+      "id": "0980689bfdbc",
+      "title": "Biasin on Milan: \"Player trading is fundamental, but it cannot ignore one thing\"",
+      "url": "https://www.milannews.it/news/biasin-sul-milan-il-player-trading-e-fondamentale-ma-non-puo-prescindere-da-una-cosa-617118",
+      "source": "milannews.it",
+      "date": "2026-05-13T10:21:00+00:00",
+      "summary": "Milan is going through one of the most complicated periods of recent years."
+    },
+    {
+      "id": "4830ec3f26cc",
+      "title": "Capello: ‘The blame at Milan has to be shared, all this does not surprise me’",
+      "url": "https://football-italia.net/capello-the-blame-at-milan-has-to-be-shared/",
+      "source": "football-italia.net",
+      "date": "2026-05-13T10:19:49+00:00",
+      "summary": "Fabio Capello is baffled as to why Milan can’t play like they did in the..."
+    },
     {
       "id": "2b4ab5d7b94d",
       "title": "Cafu: \"Pulisic and Leao's crisis in the second round is a mystery\"",
@@ -34,36 +242,12 @@
       "summary": "\"Now the candidacy is formally filed. A very long electoral campaign begins, forty days is a long time to discuss the problems of football.\""
     },
     {
-      "id": "d8028c4efea2",
-      "title": "Pavlovic leaving without Champions League? Milan wants to avoid what happened last year",
-      "url": "https://www.milannews.it/calciomercato-milan/pavlovic-in-uscita-senza-champions-il-milan-vuole-evitare-cosa-accadde-lo-scorso-anno-617117",
-      "source": "milannews.it",
-      "date": "2026-05-13T09:40:00+00:00",
-      "summary": "Milan is going through one of the most complicated periods of recent years."
-    },
-    {
       "id": "16dcbf66c68d",
       "title": "Cafu backs Milan to secure Champions League place and advocates Allegri staying",
       "url": "https://sempremilan.com/cafu-milan-champions-league-allegri-stay",
       "source": "sempremilan.com",
       "date": "2026-05-13T09:40:00+00:00",
       "summary": "AC Milan legend Cafu is convinced that the team will get the points needed for a top four finish and that Massimiliano Allegri will stay. After having an eight-point cushion over fifth place three games ago, Milan have seen their advantage completely eroded since. Amidst a run of two wins in eight, "
-    },
-    {
-      "id": "e75b2239a7e1",
-      "title": "Roma-Lazio postponed to Monday at 8.45pm. The prefect of Rome explains: \"Here are the four points that support our decision\"",
-      "url": "https://www.milannews.it/news/roma-lazio-posticipata-a-lunedi-alle-20-45-il-prefetto-di-roma-spiega-ecco-i-quattro-punti-che-supportano-la-nostra-decisione-617150",
-      "source": "milannews.it",
-      "date": "2026-05-13T09:30:18+00:00",
-      "summary": "The prefect of Rome Lamberto Giannini, interviewed by Corriere della Sera, explained why he decided to postpone the Roma-Lazio derby, which had been scheduled for Sunday at 12.30pm, to Monday at 8pm."
-    },
-    {
-      "id": "d4dddc028528",
-      "title": "Allegri at risk without Champions League? Cafu: \"The season must be analyzed as a whole and if we go back to just three or four weeks ago no one would have ever questioned Max\"",
-      "url": "https://www.milannews.it/gli-ex/allegri-a-rischio-senza-champions-cafu-la-stagione-va-analizzata-nel-suo-complesso-e-se-torniamo-solo-a-tre-o-quattro-settimane-fa-nessuno-avrebbe-mai-617142",
-      "source": "milannews.it",
-      "date": "2026-05-13T09:20:08+00:00",
-      "summary": "Interviewed by Gazzetta dello Sport, Marcos Cafu, former AC Milan and Roma player, spoke thus of his two former teams who are both fighting for a place in the Champions League: \"Who deserves more to go to the Champions League between ..."
     },
     {
       "id": "6d110e35df6f",
@@ -74,52 +258,12 @@
       "summary": "Some big decisions are coming for AC Milan at the end of another turbulent campaign, and one could be a change in sporting director. La Gazzetta dello Sport report that while Milan are waiting to determine their European destiny, the movement in the background continues. It’s not just about players "
     },
     {
-      "id": "88d7444aff60",
-      "title": "Milan, the Champions League is fundamental: that's why it shifts the balance",
-      "url": "https://www.milannews.it/news/milan-la-champions-e-fondamentale-ecco-perche-sposta-gli-equilibri-617116",
-      "source": "milannews.it",
-      "date": "2026-05-13T09:10:00+00:00",
-      "summary": "Milan is going through one of the most complicated periods of recent years."
-    },
-    {
-      "id": "7391a8e7f9c2",
-      "title": "Champions League race, Capello: \"It has become a difficult sprint for Milan, also because the competition has shifted into the right gear\"",
-      "url": "https://www.milannews.it/gli-ex/corsa-champions-capello-per-il-milan-e-diventata-una-volata-difficile-anche-perche-la-concorrenza-ha-ingranato-la-marcia-giusta-617147",
-      "source": "milannews.it",
-      "date": "2026-05-13T09:00:54+00:00",
-      "summary": "Regarding the Champions League race in which five teams (Napoli, Juventus, Milan, Roma and Como) are fighting for three places, former Rossoneri coach Fabio Capello spoke thus of Max Allegri's team which is going through a period ..."
-    },
-    {
       "id": "2b3656d07da4",
       "title": "Moretto: Allegri ‘certainly under scrutiny’ regardless of Milan’s Champions League fate",
       "url": "https://sempremilan.com/allegri-under-scrutiny-regardless-champions-league",
       "source": "sempremilan.com",
       "date": "2026-05-13T08:50:00+00:00",
       "summary": "Matteo Moretto has confirmed that Massimiliano Allegri’s job as the head coach of AC Milan is far from safe at the moment. With Milan having entered a crisis having won just two of their last eight games, the chances of a top four spot now hang by a thread. As a result, there is already […]\nThe post"
-    },
-    {
-      "id": "a31be1f80add",
-      "title": "Tuttosport: \"Ciak Furlani: the great uncertainty\". His position will also be examined by Cardinale",
-      "url": "https://www.milannews.it/news/tuttosport-ciak-furlani-la-grande-incertezza-anche-la-sua-posizione-sara-al-vaglio-di-cardinale-617148",
-      "source": "milannews.it",
-      "date": "2026-05-13T08:48:15+00:00",
-      "summary": "\"Ciak Furlani: the great uncertainty\": this is the headline given to Tuttosport this morning, explaining that everyone at Milan is under discussion, including Giorgio Furlani, whose position, like that of all the other Milan managers, will be ..."
-    },
-    {
-      "id": "f20904b46c50",
-      "title": "Milan, there is the Genoa threat: Allegri will have to give up three players",
-      "url": "https://www.milannews.it/news/milan-c-e-l-insidia-genoa-allegri-dovra-rinunciare-a-tre-calciatori-617115",
-      "source": "milannews.it",
-      "date": "2026-05-13T08:40:00+00:00",
-      "summary": "Milan is going through one of the most complicated periods of recent years."
-    },
-    {
-      "id": "cba5545e6ee0",
-      "title": "Modric wants to already be there in Genoa. Cafu praises him: \"Great example and great leader. If he gives me the availability, I would even let him play blindfolded\"",
-      "url": "https://www.milannews.it/gli-ex/modric-vuole-esserci-gia-a-genova-cafu-lo-esalta-grande-esempio-e-grande-leader-se-mi-da-la-disponibilita-io-lo-farei-giocare-anche-bendato-617141",
-      "source": "milannews.it",
-      "date": "2026-05-13T08:28:47+00:00",
-      "summary": "Regarding Milan's attackers, former Rossoneri full-back Marcos Cafu explained to Gazzetta dello Sport: \"The crisis of Pulisic and Leao in the second round? A mystery, but as in football they often happen."
     },
     {
       "id": "0a7a3a376250",
@@ -130,30 +274,6 @@
       "summary": "The signs are pointing more and more towards Rafael Leao’s time with AC Milan coming to an end, a report claims. According to Corriere dello Sport (via Calciomercato.com), vhe time may have truly come for Leao to say goodbye. After seven years with Milan, the Portuguese’s farewell is a scenario that"
     },
     {
-      "id": "9a90daa54a04",
-      "title": "Genoa-Milan on Monday evening? The Rossoneri training camp postponed until tomorrow",
-      "url": "https://www.milannews.it/news/genoa-milan-lunedi-sera-il-ritiro-dei-rossoneri-posticipato-a-domani-617138",
-      "source": "milannews.it",
-      "date": "2026-05-13T08:18:59+00:00",
-      "summary": "The Prefecture of Rome has decided in recent hours to move the derby between Rome and Lazio from Sunday at 12.30pm to Monday at 8pm."
-    },
-    {
-      "id": "2e9a1b2acb1e",
-      "title": "Towards Genoa-Milan, the Rossoneri will retreat to Milanello from tomorrow",
-      "url": "https://www.milannews.it/news/verso-genoa-milan-da-domani-i-rossoneri-in-ritiro-a-milanello-617114",
-      "source": "milannews.it",
-      "date": "2026-05-13T08:10:00+00:00",
-      "summary": "Milan is going through one of the most complicated periods of recent years."
-    },
-    {
-      "id": "2d1d1f94126f",
-      "title": "Leao-Milan and a farewell already written? There is Theo's Al-Hilal, but Rafa prefers the Premier League",
-      "url": "https://www.milannews.it/primo-piano/leao-milan-e-un-addio-gia-scritto-c-e-l-al-hilal-di-theo-ma-rafa-preferisce-la-premier-617135",
-      "source": "milannews.it",
-      "date": "2026-05-13T08:00:00+00:00",
-      "summary": "Rafael Leao has become the symbol of Milan's crisis, this is a fact."
-    },
-    {
       "id": "d9cd4f96d5e7",
       "title": "GdS: Why Allegri is expected to field Nkunku-Füllkrug pairing against Genoa",
       "url": "https://sempremilan.com/why-allegri-nkunku-fullkrug-pairing",
@@ -162,60 +282,12 @@
       "summary": "AC Milan cannot afford any more slip-ups in their pursuit of a top four spot, with Massimiliano Allegri plotting some attacking changes. La Gazzetta dello Sport (seen below) report this morning that Allegri feels he needs to restructure Milan’s attack for Monday’s match against Genoa (assuming it is"
     },
     {
-      "id": "892ed1180563",
-      "title": "Modric is already back with Genoa? The Croatian wants to try, but the doctors don't seem convinced",
-      "url": "https://www.milannews.it/rassegna-stampa/modric-rientra-gia-con-il-genoa-il-croato-ci-vuole-provare-ma-i-medici-non-sembrano-convinti-617139",
-      "source": "milannews.it",
-      "date": "2026-05-13T07:49:41+00:00",
-      "summary": "After the fractured cheekbone suffered against Juventus and the subsequent operation, Luka Modric's season with the AC Milan shirt seemed to have ended early."
-    },
-    {
       "id": "e88749cb8c5e",
       "title": "Today’s Papers: Coppa Italia final, Serie B play-offs, derby chaos",
       "url": "https://football-italia.net/today-papers-coppa-italia-final-derby-chaos/",
       "source": "football-italia.net",
       "date": "2026-05-13T07:46:13+00:00",
       "summary": "La Gazzetta dello Sport  My Cup  20.00: the Lazio-Inter final  Nerazzurri on for the double..."
-    },
-    {
-      "id": "0e0ac5d8f815",
-      "title": "Cafu focuses on Nkunku: \"He is in great shape and has all the qualities to take the team on his shoulders\"",
-      "url": "https://www.milannews.it/gli-ex/cafu-punta-su-nkunku-e-in-grande-forma-e-ha-tutte-le-qualita-per-prendersi-la-squadra-sulle-spalle-617145",
-      "source": "milannews.it",
-      "date": "2026-05-13T07:39:37+00:00",
-      "summary": "Regarding Milan's attackers, former Rossoneri full-back Marcos Cafu explained to Gazzetta dello Sport: \"The crisis of Pulisic and Leao in the second round? A mystery, but as in football they often happen."
-    },
-    {
-      "id": "26eed40ec3e3",
-      "title": "CorSport: \"Leao is at odds with the fans. Al Hilal is pressing, but the dream is the Premier League\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-leao-in-rotta-con-i-tifosi-l-al-hilal-in-pressing-ma-il-sogno-e-la-premier-617113",
-      "source": "milannews.it",
-      "date": "2026-05-13T07:30:00+00:00",
-      "summary": "Milan is going through one of the most complicated periods of recent years."
-    },
-    {
-      "id": "72067d0d5bb0",
-      "title": "Serie A, calendar chaos: when will the five matches of the Champions League race be played? The situation",
-      "url": "https://www.milannews.it/rassegna-stampa/serie-a-caos-calendario-quando-si-giocheranno-le-cinque-gare-della-corsa-champions-la-situazione-617140",
-      "source": "milannews.it",
-      "date": "2026-05-13T07:19:29+00:00",
-      "summary": "The Corriere della Sera headline this morning: \"The Rome derby causes Serie A and the prefect to argue. The date and time don't add up\"."
-    },
-    {
-      "id": "573a0c2e03bf",
-      "title": "Gazzetta: \"United for the Champions League. Furlani and Allegri common front: Milan, it is forbidden to fail the goal\"",
-      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-uniti-per-la-champions-furlani-e-allegri-fronte-comune-milan-vietato-fallire-l-obiettivo-617136",
-      "source": "milannews.it",
-      "date": "2026-05-13T07:09:05+00:00",
-      "summary": "Today's edition of the Gazzetta dello Sport has the headline this morning: \"United for the Champions League. Furlani and Allegri united front: Milan, it is forbidden to fail the goal\"."
-    },
-    {
-      "id": "a76da462d49e",
-      "title": "CorSport on Milan: \"No Champions, no top players\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-sul-milan-no-champions-no-top-player-617112",
-      "source": "milannews.it",
-      "date": "2026-05-13T07:00:00+00:00",
-      "summary": "Milan is going through one of the most complicated periods of recent years."
     },
     {
       "id": "eb6c50cba827",
@@ -274,30 +346,6 @@
       "summary": "While AC Milan suffer a relegation-worthy end to the season, there is nothing of assurance coming from the club’s top names.  There is a genuine chance that Milan will not qualify for the Champions League this season. What was a slight fear has grown into something much larger and the Rossoneri are "
     },
     {
-      "id": "3d532ebe4ecb",
-      "title": "Leonardo states it ‘hurts everyone’ to not have Maldini at Milan: “Makes people believe”",
-      "url": "https://sempremilan.com/leonardo-it-hurts-everyone-maldini-not-at-milan",
-      "source": "sempremilan.com",
-      "date": "2026-05-12T15:30:00+00:00",
-      "summary": "Ever since he left as a player, AC Milan have wanted Paolo Maldini back at the club. Since he left the second time, those wishes have grown in volume. For a player like Maldini, he will always have a home at Milan. The impact he had on the pitch is unwritable and those same players […]\nThe post Leon"
-    },
-    {
-      "id": "518b77386601",
-      "title": "Ordine states Genoa-Milan may now be played on Monday evening: “To safeguard contemporaneity”",
-      "url": "https://sempremilan.com/ordine-states-genoa-milan-may-move-monday",
-      "source": "sempremilan.com",
-      "date": "2026-05-12T15:00:00+00:00",
-      "summary": "The fixture this weekend between Genoa and AC Milan has been a topic of heavy conversation and it appears that it is going to continue that way. As we get to the decisive weeks of the Champions League race, Lega Serie A are trying to increase the drama of the game weeks and so the […]\nThe post Ordin"
-    },
-    {
-      "id": "0a7451036308",
-      "title": "SempreMilan Podcast: Episode 413 – Free Fall",
-      "url": "https://sempremilan.com/sempremilan-podcast-episode-413-free-fall",
-      "source": "sempremilan.com",
-      "date": "2026-05-12T14:30:00+00:00",
-      "summary": "Join Oli and Bdair as they rant about the loss to Atalanta, preview the must-win game in Genoa and assess the top four battle. This week’s topics include… ↳ Defence falls apart vs. Atalanta ↳ Palladino out-coaches Allegri ↳ Genoa (A) preview ↳ Champions League race down to the wire Want more Milan c"
-    },
-    {
       "id": "80ac00437978",
       "title": "Furlani, Tare, Ibrahimovic and Moncada futures called into question amid Milan crisis",
       "url": "https://football-italia.net/milan-directors-futures-called-into-question/",
@@ -306,44 +354,12 @@
       "summary": "Reports in Italy indicate that the futures of Milan executives Giorgio Furlani, Igli Tare, Zlatan..."
     },
     {
-      "id": "d5e7a01319ab",
-      "title": "GdS: Milan’s ‘only real certainty’ gone – Allegri’s defence crumbles in key moment",
-      "url": "https://sempremilan.com/milan-only-certainty-gone-allegri-defence-crumbles",
-      "source": "sempremilan.com",
-      "date": "2026-05-12T14:00:00+00:00",
-      "summary": "With the attack becoming even worse than it was previously, AC Milan needed the defence to carry them to the finish line and they aren’t.  It is simple, Milan needed the backline to offer a bit of assertion in the final weeks of the campaign. Continue what they had been doing all season and help […]"
-    },
-    {
-      "id": "ddfe4d987c3d",
-      "title": "‘What is your plan’ – Milan not alone as Toulouse continue RedBird protests",
-      "url": "https://sempremilan.com/milan-not-alone-toulouse-redbird-protests",
-      "source": "sempremilan.com",
-      "date": "2026-05-12T13:30:00+00:00",
-      "summary": "At San Siro, the Curva Sud held protests against RedBird and the management of AC Milan. However, they were not the only ones protesting this weekend. Around Milan, RedBird are not viewed positively. Since coming into the club, the Rossoneri have spiralled downwards with questionable decisions made "
-    },
-    {
       "id": "6e1842b55244",
       "title": "Milan director Furlani explains reaction to fans’ protest: ‘Stress’",
       "url": "https://football-italia.net/milan-director-furlani-reaction-fans-protest/",
       "source": "football-italia.net",
       "date": "2026-05-12T13:01:22+00:00",
       "summary": "Milan CEO Giorgio Furlani was spotted smiling during a protest staged by Rossoneri ultras on..."
-    },
-    {
-      "id": "de65640cdd56",
-      "title": "MN: Play-off loss changes little as Milan Futuro’s youth-drive plans remain",
-      "url": "https://sempremilan.com/play-off-loss-changes-little-milan-future-plan-remains",
-      "source": "sempremilan.com",
-      "date": "2026-05-12T13:00:00+00:00",
-      "summary": "After relegation to Serie D, AC Milan did not rip up the idea of the youth team. Instead, they doubled down and they will continue that plan next season. A loss in the play-offs is never easy to take, especially for a club like Milan who want to assert dominance at every level. However, there […]\nTh"
-    },
-    {
-      "id": "1e0fce409ab3",
-      "title": "GdS: The wall crumbles – how Milan’s biggest strength deserted them in a time of need",
-      "url": "https://sempremilan.com/milan-biggest-certainty-deserted-time-need",
-      "source": "sempremilan.com",
-      "date": "2026-05-12T12:35:00+00:00",
-      "summary": "AC Milan were a team that prided themselves on their defensive record for most of the campaign, yet that too has now crumbled. Milan’s attacking crisis is well known and has been going on for months. The defence – as La Gazzetta dello Sport report – was the only real certainty for Milan in the […]\nT"
     },
     {
       "id": "f7698f4d1c2b",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-05-11T07:31:20+00:00",
       "summary": "La Gazzetta dello Sport Historic Como: they are already in Europe Crazy Roma Super Malen:..."
-    },
-    {
-      "id": "d1800908569f",
-      "title": "Tare: ‘Milan lacking right attitude, no point denying it’",
-      "url": "https://football-italia.net/tare-milan-lack-right-attitude-no-denying-it/",
-      "source": "football-italia.net",
-      "date": "2026-05-10T21:55:27+00:00",
-      "summary": "Director of sport Igli Tare admits ‘there’s no point denying it, the right attention has..."
-    },
-    {
-      "id": "07ec3ba49028",
-      "title": "Allegri: ‘Milan must not seek blame, but focus on Champions League spot’",
-      "url": "https://football-italia.net/allegri-milan-not-seek-blame-champions-league/",
-      "source": "football-italia.net",
-      "date": "2026-05-10T21:39:01+00:00",
-      "summary": "Max Allegri insists Milan must ‘not try to lay blame’ and focus on locking down..."
     }
   ]
 }
