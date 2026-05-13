@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-05-13T22:09:47.179078+00:00",
+  "lastUpdated": "2026-05-13T23:56:09.992727+00:00",
   "articles": [
+    {
+      "id": "1701f69dd4e8",
+      "title": "Odine: \"Sorry for the delay. This is now the refrain that comes naturally when commenting on Milan's public outings\"",
+      "url": "https://www.milannews.it/news/odine-scusate-il-ritardo-e-ormai-questo-il-ritornello-che-viene-spontaneo-nel-commentare-le-uscite-pubblica-del-milan-617206",
+      "source": "milannews.it",
+      "date": "2026-05-13T22:50:32+00:00",
+      "summary": "During the usual appointment with his editorial for MilanNews."
+    },
+    {
+      "id": "e1b9ecb94c61",
+      "title": "Passerini on Milan's moment: \"Today everyone is questioning, and rightly so\"",
+      "url": "https://www.milannews.it/news/passerini-sul-momento-del-milan-oggi-tutti-sono-in-discussione-ed-e-giusto-cosi-617204",
+      "source": "milannews.it",
+      "date": "2026-05-13T22:40:00+00:00",
+      "summary": "During the usual appointment with the video on his YouTube channel, Carlos Passerini commented on the delicate moment that Massimiliano Allegri's Milan is going through, also having his say on the mess linked to the programming of the derb ..."
+    },
+    {
+      "id": "07397a2fe231",
+      "title": "Pazzini says he is absolutely surprised by Milan's collapse",
+      "url": "https://www.milannews.it/news/pazzini-si-dice-assolutamente-sorpreso-dal-crollo-del-milan-616930",
+      "source": "milannews.it",
+      "date": "2026-05-13T22:30:00+00:00",
+      "summary": "Former Rossoneri striker Giampaolo Pazzini, a guest in Pressing's studios, commented on Milan's vertical collapse in recent weeks: \"I didn't expect such a collapse given what he had shown for a long time..."
+    },
+    {
+      "id": "036b7a4392b9",
+      "title": "Zeroli has clear ideas: \"My goal and dream is to get to Milan and stay there\"",
+      "url": "https://www.milannews.it/news/zeroli-ha-le-idee-chiare-il-mio-obiettivo-e-sogno-e-arrivare-al-milan-e-rimanerci-617196",
+      "source": "milannews.it",
+      "date": "2026-05-13T22:20:00+00:00",
+      "summary": "In the post-match of Modena-Juve Stabia, a match which saw the team of former AC Milan Ignazio Abate reach the promotion playoff semi-finals, Kevin Zeroli, midfielder owned by the Rossoneri club and MVP of the match with a spl ..."
+    },
+    {
+      "id": "14a6272fde11",
+      "title": "Pellegatti: \"Allegri? He no longer trusts after what happened in January\"",
+      "url": "https://www.milannews.it/news/pellegatti-allegri-non-si-fida-piu-dopo-quello-che-e-successo-a-gennaio-617188",
+      "source": "milannews.it",
+      "date": "2026-05-13T22:10:00+00:00",
+      "summary": "During the usual appointment with the Aura Sport podcast, Carlo Pellegatti spoke about the future of the Milan bench, as Massimiliano Allegri is not so sure of continuing his experience in the Rossoneri also next season ..."
+    },
     {
       "id": "c169ebe43e2d",
       "title": "Unity, unity: wake up earlier, right? Frost from Ibra and absence of Moncada. The TAR is valid today, with Bologna-Milan not",
@@ -138,52 +178,12 @@
       "summary": "The Lega Serie A has now lodged an appeal to have Roma-Lazio, and therefore another..."
     },
     {
-      "id": "dfedd8d99489",
-      "title": "Biasin: \"Furlani seems to be unaware of the most important thing in sport: ambition\"",
-      "url": "https://www.milannews.it/news/biasin-furlani-sembra-non-avere-contezza-della-cosa-piu-importante-dello-sport-l-ambizione-617155",
-      "source": "milannews.it",
-      "date": "2026-05-13T19:30:00+00:00",
-      "summary": "In his usual Wednesday Editorial, published in the columns of Tuttomercatoweb.com, the journalist Fabrizio Biasin commented on Milan's current moment."
-    },
-    {
-      "id": "8fe0f4454f12",
-      "title": "Rome derby chaos, the Lega Serie A formalizes the appeal to the TAR",
-      "url": "https://www.milannews.it/news/caos-derby-di-roma-la-lega-serie-a-ufficializza-il-ricorso-al-tar-617195",
-      "source": "milannews.it",
-      "date": "2026-05-13T19:20:00+00:00",
-      "summary": "The Lega Serie A has made official the appeal to the TAR against the decision of the Prefecture of Rome to move the Roma-Lazio derby to Monday 18 May at 8.45pm."
-    },
-    {
-      "id": "6f554e2066d4",
-      "title": "According to ANSA, the League's hypothesis of anticipating Roma-Lazio is not viable",
-      "url": "https://www.milannews.it/news/secondo-l-ansa-l-ipotesi-della-lega-di-anticipare-roma-lazio-non-e-percorribile-617193",
-      "source": "milannews.it",
-      "date": "2026-05-13T19:10:33+00:00",
-      "summary": "According to what was reported by ANSA, the Lega Calcio's proposal to bring forward the derby between Roma and Lazio to 12.00 on Sunday would not be feasible."
-    },
-    {
-      "id": "03a2ad7f8099",
-      "title": "Simonelli on the Rome derby: \"The League is willing to bring it forward to 12. We need to know tomorrow maximum\"",
-      "url": "https://www.milannews.it/news/simonelli-sul-derby-di-roma-la-lega-e-disposto-ad-anticiparlo-alle-12-massimo-domani-dobbiamo-saperlo-617194",
-      "source": "milannews.it",
-      "date": "2026-05-13T19:00:36+00:00",
-      "summary": "In the pre-match of the Italian Cup final between Lazio and Inter, the president of the Lega Serie A Ezio Simonelli spoke to the microphones of his colleagues from Sportmediaset to comment on the problem relating to the dispute of the Rome derby, in pr ..."
-    },
-    {
       "id": "4bc049c7e447",
       "title": "Inter fans mock rivals Milan ahead of Coppa Italia Final",
       "url": "https://football-italia.net/inter-fans-mock-rival-milan-coppa-italia-final/",
       "source": "football-italia.net",
       "date": "2026-05-13T19:00:23+00:00",
       "summary": "Inter fans mocked the troubles of their rivals Milan ahead of the Coppa Italia Final..."
-    },
-    {
-      "id": "1cd1207c39ca",
-      "title": "MN - Vierchowod warns Milan: \"They must no longer make mistakes for the Champions League\"",
-      "url": "https://www.milannews.it/news/mn-vierchowod-avverte-il-milan-non-deve-piu-sbagliare-per-la-champions-617048",
-      "source": "milannews.it",
-      "date": "2026-05-13T18:50:27+00:00",
-      "summary": "Pietro Vierchowod, former Rossoneri defender, gave an exclusive interview to Milannews.it, in which he commented on the vertical collapse of Max Allegri's Milan which is in the midst of a crisis in performance and results."
     },
     {
       "id": "ca54a30d17f9",
