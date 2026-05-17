@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2026-05-17T17:01:36.603724+00:00",
+  "lastUpdated": "2026-05-17T19:06:02.985696+00:00",
   "articles": [
+    {
+      "id": "cefab885fcfd",
+      "title": "Tomori, reached his 100th victory in Serie A: only one Rossoneri has collected more",
+      "url": "https://www.milannews.it/news/tomori-raggiunta-la-100-vittoria-in-serie-a-solo-un-rossonero-ne-ha-collezionate-di-piu-617624",
+      "source": "milannews.it",
+      "date": "2026-05-17T19:00:03+00:00",
+      "summary": "This afternoon, at 12, the Rossoneri reached 70 points in the standings by beating Genoa at the Marassi."
+    },
+    {
+      "id": "6033fab79255",
+      "title": "Jashari: \"My best performance? No, I'm never happy. Fans, we need you on Sunday\"",
+      "url": "https://www.milannews.it/news/jashari-la-mia-miglior-prestazione-no-non-sono-mai-contento-tifosi-domenica-abbiamo-bisogno-di-voi-617629",
+      "source": "milannews.it",
+      "date": "2026-05-17T18:48:23+00:00",
+      "summary": "Ardon Jashari was interviewed by SportMediaset at the end of Genoa-Milan. These are his statements: \n\nWas today your best match since you joined Milan?\n\n\"No."
+    },
+    {
+      "id": "d0ff6770a499",
+      "title": "Serie A 10-game Liveblog Roma-Lazio, Juve-Fiorentina, Genoa-Milan, Pisa-Napoli",
+      "url": "https://football-italia.net/serie-a-10-game-liveblog-roma-lazio-juve-fio/",
+      "source": "football-italia.net",
+      "date": "2026-05-17T18:42:02+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "73ddba069a9c",
+      "title": "Athekame, the man you don't expect: the encouraging fact that places him second only to Palestra",
+      "url": "https://www.milannews.it/news/athekame-l-uomo-che-non-ti-aspetti-il-dato-incoraggiante-che-lo-pone-secondo-solo-a-palestra-617627",
+      "source": "milannews.it",
+      "date": "2026-05-17T18:36:16+00:00",
+      "summary": "This afternoon, at 12, the Rossoneri achieved a fundamental victory to reach the minimum seasonal objective of qualifying for the next Champions League."
+    },
+    {
+      "id": "cbbd420855ce",
+      "title": "Serie A, Bologna knocks out Atalanta: the updated rankings",
+      "url": "https://www.milannews.it/news/serie-a-il-bologna-stende-l-atalanta-la-classifica-aggiornata-617643",
+      "source": "milannews.it",
+      "date": "2026-05-17T18:24:00+00:00",
+      "summary": "Bologna's victory at Atalanta also ended the 6pm match this Sunday 16 May, which took place at 12pm."
+    },
+    {
+      "id": "b8be450edf20",
+      "title": "Pulisic, no goals but an assist scored: here is the record that makes him the best in Serie A from 2023",
+      "url": "https://www.milannews.it/news/pulisic-niente-gol-ma-assist-messo-a-segno-ecco-il-record-che-lo-rende-il-migliore-in-serie-a-dal-2023-617621",
+      "source": "milannews.it",
+      "date": "2026-05-17T18:12:53+00:00",
+      "summary": "It ends with a very important victory on a difficult pitch, that of Genoa, for the Rossoneri who, thanks to goals from Christopher Nkunku and Zachary Athekame, gained 3 fundamental points, but not yet enough, for qualification to the ..."
+    },
+    {
+      "id": "411461527f25",
+      "title": "Loftus-Cheek takes over in Genoa: 100 appearances for the Rossoneri reached",
+      "url": "https://www.milannews.it/news/loftus-cheek-subentra-a-genova-raggiunte-le-100-presenze-in-rossonero-617623",
+      "source": "milannews.it",
+      "date": "2026-05-17T18:00:27+00:00",
+      "summary": "As reported by Opta at the end of the match between Genoa and Milan, Loftus-Cheek, who came on in the 85th minute in place of Jashari, reached 100 appearances in all competitions with the Rossoneri shirt."
+    },
+    {
+      "id": "34dc0e1f8e63",
+      "title": "Genoa 1-2 AC Milan: Five things we learned – surprise duo steal show but same concerns remain",
+      "url": "https://sempremilan.com/genoa-1-2-milan-five-things-we-learned",
+      "source": "sempremilan.com",
+      "date": "2026-05-17T18:00:00+00:00",
+      "summary": "AC Milan went to Genoa knowing that they needed to win in their biggest game of the season so far. That mission was accomplished. The first half did not really go to plan as Genoa dominated the ball and the territory. However, in the second half Milan took the ascendancy, and they went ahead Christo"
+    },
+    {
+      "id": "9e0ef4577119",
+      "title": "Milan, 14th victory of the season with a one-goal difference: it is the 149th of Allegri's career",
+      "url": "https://www.milannews.it/news/milan-14-vittoria-stagionale-con-un-gol-di-scarto-e-la-149-in-carriera-per-allegri-617620",
+      "source": "milannews.it",
+      "date": "2026-05-17T17:48:33+00:00",
+      "summary": "A very hard-fought victory for the Rossoneri at the Marassi in Genoa."
+    },
+    {
+      "id": "5cb4de1a1e92",
+      "title": "Decisive Athekame! Second goal from the Swiss in this championship",
+      "url": "https://www.milannews.it/news/athekame-decisivo-secondo-gol-dello-svizzero-in-questo-campionato-617587",
+      "source": "milannews.it",
+      "date": "2026-05-17T17:36:00+00:00",
+      "summary": "Milan won a match with a very important specific weight: the team of Massimiliano Allegri won at the home of Genoa, a pitch that has always been difficult for everyone and historically for the Devil."
+    },
+    {
+      "id": "d4bd1a6e2a5e",
+      "title": "GdS: A message to the team and a future with Allegri – Cardinale’s six hours in Italy",
+      "url": "https://sempremilan.com/a-future-with-allegri-cardinale-italy",
+      "source": "sempremilan.com",
+      "date": "2026-05-17T17:30:00+00:00",
+      "summary": "Gerry Cardinale insisted on being there for AC Milan at all costs in the most crucial match of the season, even if it was a quick visit. La Gazzetta dello Sport write that Cardinale hadn’t officially announced his presence, but he had stressed to those closest to him that it was a real possibility. "
+    },
+    {
+      "id": "a3a2546055d7",
+      "title": "Now it's official, Xabi Alonso signs a four-year deal with Chelsea",
+      "url": "https://www.milannews.it/dall-estero/adesso-e-ufficiale-xabi-alonso-firma-un-quadriennale-con-il-chelsea-617617",
+      "source": "milannews.it",
+      "date": "2026-05-17T17:24:49+00:00",
+      "summary": "After the very insistent rumors of the last few days, today the official announcement arrived: Xabi Alonso, former manager of Los Blancos, is the new manager of Chelsea."
+    },
+    {
+      "id": "b784bbde5cce",
+      "title": "VIDEO - It's about Allegri's run at the final whistle of Genoa-Milan",
+      "url": "https://www.milannews.it/news/video-riguarda-la-corsa-di-allegri-al-fischio-finale-di-genoa-milan-617636",
+      "source": "milannews.it",
+      "date": "2026-05-17T17:11:54+00:00",
+      "summary": "Milan took away three points from Genoa, a minimum of rediscovered serenity and also the usual show from Massimiliano Allegri."
+    },
+    {
+      "id": "9ef8e9fd3b10",
+      "title": "Modric's Milanism, the absentees, Allegri's run, Cardinale's shoes: the best and worst of Genoa-Milan",
+      "url": "https://www.milannews.it/primo-piano/il-milanismo-di-modric-gli-assenti-la-corsa-di-allegri-le-scarpe-di-cardinale-il-meglio-ed-il-peggio-di-genoa-milan-617625",
+      "source": "milannews.it",
+      "date": "2026-05-17T17:00:00+00:00",
+      "summary": "For a week you can breathe again. In the setting of a Bombonera-style Luigi Ferraris, Milan overcame De Rossi's combative Genoa and returned to Milanello with three satisfying and important points."
+    },
     {
       "id": "6e3e2ff25f06",
       "title": "Paratici provides spiky response to rumours of potential Milan switch",
@@ -66,14 +178,6 @@
       "summary": "Yesterday Sky Sport declared that Gerry Cardinale could choose as new sporting director for next season in place of Tare Viktor Bezhani, currently at Toulouse."
     },
     {
-      "id": "d0ff6770a499",
-      "title": "Serie A 10-game Liveblog Roma-Lazio, Juve-Fiorentina, Genoa-Milan, Pisa-Napoli",
-      "url": "https://football-italia.net/serie-a-10-game-liveblog-roma-lazio-juve-fio/",
-      "source": "football-italia.net",
-      "date": "2026-05-17T16:00:02+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
       "id": "a5ef020115a5",
       "title": "Rome, Gasperini: \"The Champions League is in our hands, the last step is missing\"",
       "url": "https://www.milannews.it/news/roma-gasperini-la-champions-e-nelle-nostre-mani-manca-l-ultimo-passo-617606",
@@ -122,14 +226,6 @@
       "summary": "Chelsea have announced Xabi Alonso as their new manager from next season. As emerged yesterday after the FA Cup final lost against Manchester City, the Spanish manager signs a four-year contract."
     },
     {
-      "id": "dd9fe56e4ab9",
-      "title": "Cardinale's arrival, Nkunku's shock, Max's face: three images for three points worth a boulder",
-      "url": "https://www.milannews.it/primo-piano/l-arrivo-di-cardinale-la-scossa-di-nkunku-la-faccia-di-max-tre-immagini-per-tre-punti-che-valgono-un-macigno-617616",
-      "source": "milannews.it",
-      "date": "2026-05-17T15:00:00+00:00",
-      "summary": "There are three images that well describe the importance of Milan's victory today, 1-2 over Genoa: one for each point won which today, regardless of the other results at the same time, are worth like a mac ..."
-    },
-    {
       "id": "2fafbf70c17f",
       "title": "Nkunku believes Milan were ‘fantastic’ vs. Genoa and agrees with Cardinale’s top four assessment",
       "url": "https://sempremilan.com/nkunku-milan-fantastic-genoa-top-four",
@@ -144,46 +240,6 @@
       "source": "football-italia.net",
       "date": "2026-05-17T14:48:56+00:00",
       "summary": "Inter President Beppe Marotta has had an opportunity to respond to a dig made by..."
-    },
-    {
-      "id": "b2ae3b2dbb39",
-      "title": "Rabiot quotes and praises Athekame: \"He did well by scoring a heavy goal\"",
-      "url": "https://www.milannews.it/news/rabiot-cita-ed-elogia-athekame-ha-fatto-bene-segnando-un-gol-pesante-617596",
-      "source": "milannews.it",
-      "date": "2026-05-17T14:48:46+00:00",
-      "summary": "After the Genoa-Milan match, a match won by the Rossoneri thanks to goals from Nkunku and Athekame, Adrien Rabiot spoke to Milan TV to comment on his and his teammates' performance: \n\nHeavy match won well, ..."
-    },
-    {
-      "id": "07eca1b37bdf",
-      "title": "What did Cardinale say to the team? Allegri: \"He strengthened the closeness by wishing the boys good luck\"",
-      "url": "https://www.milannews.it/news/cosa-ha-detto-cardinale-alla-squadra-allegri-ha-rinforzato-la-vicinanza-facendo-un-grosso-in-bocca-al-lupo-ai-ragazzi-617602",
-      "source": "milannews.it",
-      "date": "2026-05-17T14:36:15+00:00",
-      "summary": "Massimiliano Allegri, Milan coach, is present in the press conference at the end of Genoa-Milan, a match valid for the 37th matchday of Serie A. Follow his statements live with the live text on MilanNews."
-    },
-    {
-      "id": "ea2ab2a875a2",
-      "title": "Di Stefano: \"Allegri today is a certainty in terms of experience\"",
-      "url": "https://www.milannews.it/news/di-stefano-allegri-oggi-e-una-certezza-in-termini-di-esperienza-617608",
-      "source": "milannews.it",
-      "date": "2026-05-17T14:24:50+00:00",
-      "summary": "The Milan breathes. The Rossoneri did it both on the pitch and in the standings, with a crucial victory obtained at Genoa and which put the Devil back in third place in the standings."
-    },
-    {
-      "id": "a11abd642c0b",
-      "title": "Allegri: \"Modric was eager to come in: it must be a lesson for everyone\"",
-      "url": "https://www.milannews.it/news/allegri-modric-fremeva-per-entrare-deve-essere-di-insegnamento-per-tutti-617603",
-      "source": "milannews.it",
-      "date": "2026-05-17T14:11:53+00:00",
-      "summary": "Today, Luka Modric returned to the squad but didn't have the chance to return to the pitch: nevertheless, it was certainly essential to get him back for the entire away match with the group and the cameras caught him..."
-    },
-    {
-      "id": "15fe1a0d7ff8",
-      "title": "Rabiot: \"Allegri good for 7 months. It's not that after a month and a half it's not good, it's poor... Maybe next year they'll change players\"",
-      "url": "https://www.milannews.it/news/rabiot-allegri-bene-per-7-mesi-non-e-che-dopo-un-mese-e-mezzo-non-buono-e-scarso-magari-l-anno-prossimo-cambieranno-giocatori-617601",
-      "source": "milannews.it",
-      "date": "2026-05-17T14:00:10+00:00",
-      "summary": "Adrien Rabiot, Milan midfielder, expressed himself in a press conference regarding the rumors outside the team: \"He has a vision of football and we have done it well for eight months."
     },
     {
       "id": "93c91526af10",
@@ -202,28 +258,12 @@
       "summary": "Juventus sit sixth in the Serie A table after a 2-0 loss against Fiorentina on..."
     },
     {
-      "id": "2718b720733e",
-      "title": "Nkunku: \"Penalty? Zero pressure. Without Champions League a failure\"",
-      "url": "https://www.milannews.it/news/nkunku-rigore-zero-pressione-senza-champions-un-fallimento-617615",
-      "source": "milannews.it",
-      "date": "2026-05-17T13:48:11+00:00",
-      "summary": "Christopher Nkunku, now MVP of Genoa-Milan, spoke to DAZN at the end of the season. These are his statements:\n\nHow much pressure was there on that penalty?\n\n“We played a fantastic match together."
-    },
-    {
       "id": "5ce467f0ee6b",
       "title": "MN: Cardinale and management in Milan dressing before and after Genoa win – what was said",
       "url": "https://sempremilan.com/cardinale-milan-dressing-room-genoa-win",
       "source": "sempremilan.com",
       "date": "2026-05-17T13:38:44+00:00",
       "summary": "AC Milan owner Gerry Cardinale chose to make his presence felt in the dressing room before and after the win over Genoa. As MilanNews report, after the final whistle sealed a 2-1 victory, the entire management left the stands where they had been watching the game. From there, they headed down to the"
-    },
-    {
-      "id": "3507dda8724b",
-      "title": "Jashari to TL: \"You will see the real Jashari when I have more pace and minutes. We felt the pressure\"",
-      "url": "https://www.milannews.it/news/jashari-a-tl-si-vedra-il-vero-jashari-quando-avro-piu-ritmo-e-minuti-abbiamo-sentito-la-pressione-617612",
-      "source": "milannews.it",
-      "date": "2026-05-17T13:36:53+00:00",
-      "summary": "Ardon Jashari, Swiss midfielder, started today in the middle of the field at Marassi in the 1-2 victory that Milan won against Genoa. The Swiss midfielder spoke to the microphones of TeleLombardia."
     },
     {
       "id": "934be3558576",
@@ -234,36 +274,12 @@
       "summary": "AC Milan took a big step towards securing a Champions League place as they beat Genoa 2-1 in their final away game of 2025-26. After a scrappy first half yielded no goals, but Milan’s moment to break things open came early in the second half. Christopher Nkunku latched onto a stray back pass and got"
     },
     {
-      "id": "360f27e43260",
-      "title": "MN - Modric was very happy with today's victory, but he warned everyone: here's what he said",
-      "url": "https://www.milannews.it/news/mn-modric-felicissimo-per-la-vittoria-di-oggi-ma-ha-avvisato-tutti-ecco-cos-ha-detto-617613",
-      "source": "milannews.it",
-      "date": "2026-05-17T13:25:20+00:00",
-      "summary": "The editorial staff of MilanNews.it has learned that despite not being on the pitch, Luka Modric was very happy with Milan's victory today."
-    },
-    {
-      "id": "ecd82547defd",
-      "title": "Allegri to TL: \"We are very happy that Cardinale came to talk to the team\"",
-      "url": "https://www.milannews.it/news/allegri-a-tl-siamo-molto-contenti-che-cardinale-sia-venuto-a-parlare-con-la-squadra-617610",
-      "source": "milannews.it",
-      "date": "2026-05-17T13:22:05+00:00",
-      "summary": "Massimiliano Allegri spoke to TeleLombardia at the end of Genoa-Milan 1-2."
-    },
-    {
       "id": "3a976ef95617",
       "title": "Rabiot reveals advice given to younger players and what Allegri asked of the team",
       "url": "https://sempremilan.com/rabiot-advice-younger-players-allegri-asked",
       "source": "sempremilan.com",
       "date": "2026-05-17T13:19:56+00:00",
       "summary": "Adrien Rabiot has revealed that he and the more experienced players told their AC Milan team-mates not to pay attention to outside noise. It took 100 minutes to secure the three points, but Milan managed to do so against Genoa on Sunday to take a big step towards a Champions League place. Goals from"
-    },
-    {
-      "id": "bdc5c0a9b449",
-      "title": "LIVE MN - Vasquez: \"I was joking with Gimenez and telling him that in Italy they would have marked him well and he would have struggled. But he works hard\"",
-      "url": "https://www.milannews.it/news/live-mn-vasquez-scherzavo-con-gimenez-e-gli-dicevo-che-in-italia-lo-avrebbero-marcato-bene-e-avrebbe-fatto-fatica-ma-s-impegna-tanto-617611",
-      "source": "milannews.it",
-      "date": "2026-05-17T13:17:13+00:00",
-      "summary": "Johan Vasquez, captain of Genoa, is present in the press conference at the end of Genoa-Milan, a match valid for the 37th matchday of Serie A. Follow his statements live with the live text on MilanNews."
     },
     {
       "id": "34b33f24da71",
@@ -362,28 +378,12 @@
       "summary": "Massimiliano Allegri spoke to the media just a few minutes ago ahead of Genoa-Milan, stating that the Rossoneri cannot afford to rush things.  After what can only be described as a collapse, Milan really need to bounce back with a win tonight. The Champions League rivals have been closing in and the"
     },
     {
-      "id": "9b9327986abd",
-      "title": "Genoa vs. AC Milan: Live updates and commentary from the Serie A clash",
-      "url": "https://sempremilan.com/genoa-vs-ac-milan-live-updates-2025-26",
-      "source": "sempremilan.com",
-      "date": "2026-05-17T09:15:00+00:00",
-      "summary": "{rsn-live-v2}\nThe post Genoa vs. AC Milan: Live updates and commentary from the Serie A clash appeared first on SempreMilan."
-    },
-    {
       "id": "1b48f340f200",
       "title": "Serie A official line-ups: Genoa vs. Milan",
       "url": "https://football-italia.net/serie-a-official-line-ups-genoa-vs-milan-wk37/",
       "source": "football-italia.net",
       "date": "2026-05-17T09:04:34+00:00",
       "summary": "Milan hope Santiago Gimenez and Christopher Nkunku can end the crisis, while Luka Modric is..."
-    },
-    {
-      "id": "6604429d7863",
-      "title": "Official: Genoa vs. AC Milan starting XIs – five changes from Atalanta loss",
-      "url": "https://sempremilan.com/official-genoa-ac-milan-starting-xis-2026",
-      "source": "sempremilan.com",
-      "date": "2026-05-17T08:58:20+00:00",
-      "summary": "Massimiliano Allegri has named the AC Milan team for the penultimate game of the 2025-26 season, at the Marassi against Genoa. Back-to-back defeats at the hands of Atalanta and Sassuolo have complicated the hopes of securing Champions League qualification. So, two wins from two are needed to guarant"
     },
     {
       "id": "69fe2b387b50",
