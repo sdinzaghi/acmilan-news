@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-05-17T02:53:53.768931+00:00",
+  "lastUpdated": "2026-05-17T06:21:45.009869+00:00",
   "articles": [
+    {
+      "id": "8b904df2c734",
+      "title": "LIVE MN - Towards Genoa-Milan: play at 12. Modric returns to the squad, ahead of Nkunku-Gimenez",
+      "url": "https://www.milannews.it/primo-piano/live-mn-verso-genoa-milan-si-gioca-alle-12-torna-modric-tra-i-convocati-davanti-nkunku-gimenez-617540",
+      "source": "milannews.it",
+      "date": "2026-05-17T06:20:00+00:00",
+      "summary": "PROBABLE MILAN LINE-UP (3-5-2): Maignan; Tomori, Gabbia, Pavlovic; Athekame, Fofana, Jashari, Rabiot, Bartesaghi; Nkunku, Gimenez\n\n8."
+    },
+    {
+      "id": "2c09d0422fbf",
+      "title": "The Champions League is played at the table: the front pages of the main sports newspapers",
+      "url": "https://www.milannews.it/rassegna-stampa/la-champions-si-gioca-a-tavola-le-prime-pagine-dei-principali-quotidiani-sportivi-617541",
+      "source": "milannews.it",
+      "date": "2026-05-17T06:12:34+00:00",
+      "summary": "The first of the two final stages of the Milan season has arrived."
+    },
+    {
+      "id": "653eaee7da3f",
+      "title": "Genoa-Milan goalscorer odds",
+      "url": "https://www.milannews.it/scommesse/pronostici/genoa-milan-quote-marcatore-617065",
+      "source": "milannews.it",
+      "date": "2026-05-17T06:00:00+00:00",
+      "summary": "After the defeat against Atalanta, Milan challenges Genoa in a match valid for the 37th matchday of Serie A."
+    },
+    {
+      "id": "acf3709901ce",
+      "title": "Genoa-Milan, at 12:00 we take to the pitch: the refereeing team who will referee the match",
+      "url": "https://www.milannews.it/news/genoa-milan-alle-12-00-si-scende-in-campo-la-squadra-arbitrale-che-dirigera-il-match-617523",
+      "source": "milannews.it",
+      "date": "2026-05-17T05:48:00+00:00",
+      "summary": "In a few hours Massimiliano Allegri's Rossoneri will take to the field against De Rossi's men for the match valid for the 37th and penultimate day of Serie A."
+    },
+    {
+      "id": "bbcfb08e7d70",
+      "title": "Allegri doesn't lose focus: \"With the past behind us, let's only think about tomorrow. We shouldn't be anxious or in a hurry\"",
+      "url": "https://www.milannews.it/news/allegri-non-perde-il-focus-passato-alle-spalle-pensiamo-solo-a-domani-non-dobbiamo-avere-ansia-e-fretta-617521",
+      "source": "milannews.it",
+      "date": "2026-05-17T05:36:00+00:00",
+      "summary": "In the pre-match press conference, Massimiliano Allegri, among the various questions regarding the rumors regarding possible changes at club level, obviously spoke about the match which will begin in a few hours at the Marassi stadium in Genoa ..."
+    },
+    {
+      "id": "27378c87426d",
+      "title": "Genoa-Milan, a few hours until kick-off: how is the Rossoneri's balance sheet at the Marassi?",
+      "url": "https://www.milannews.it/news/genoa-milan-poche-ore-al-fischio-d-inizio-com-e-il-bilancio-dei-rossoneri-al-marassi-617520",
+      "source": "milannews.it",
+      "date": "2026-05-17T05:24:00+00:00",
+      "summary": "In a few hours Milan will be guests of Genoa at the Marassi stadium for the match which will be the 37th matchday of Serie A."
+    },
+    {
+      "id": "5cf301257344",
+      "title": "Serie A, everyone on the pitch today: the complete programme, times and where to watch the matches",
+      "url": "https://www.milannews.it/news/serie-a-oggi-tutti-in-campo-il-programma-completo-orari-e-dove-vedere-le-partite-617519",
+      "source": "milannews.it",
+      "date": "2026-05-17T05:12:00+00:00",
+      "summary": "Today, in addition to the Rossoneri, all the other 19 Serie A teams will take to the field. Five matches at the same time at 12:00 and three at 20:45."
+    },
+    {
+      "id": "12f24a431be8",
+      "title": "At midday Genoa-Milan, the probable Rossoneri lineup: Modric back on the pitch?",
+      "url": "https://www.milannews.it/news/a-mezzogiorno-genoa-milan-la-probabile-formazione-rossonera-modric-torna-in-campo-617518",
+      "source": "milannews.it",
+      "date": "2026-05-17T05:00:00+00:00",
+      "summary": "This afternoon, at 12:00, the Rossoneri will face Daniele De Rossi's Genoa at the Marassi stadium. Below are the probable 11 chosen by Massimiliano Allegri who will start from 1'."
+    },
     {
       "id": "4b6cab5019b1",
       "title": "MN - Order: \"Now they send away Allegri, they will make the team Ibra, Furlani and Moncada, they will take another Fonseca, then another Conceiçao and carry on like this\"",
@@ -15,7 +79,7 @@
       "url": "https://www.milannews.it/dall-estero/media-inglesi-rivelano-xabi-alonso-e-chelsea-vicini-alla-firma-617533",
       "source": "milannews.it",
       "date": "2026-05-16T22:36:42+00:00",
-      "summary": "(ANSA) - ROME, MAY 16 - Chelsea is close to appointing Xabi Alonso as their new manager. The former Real Madrid and Bayer Leverkusen manager, 44, is expected to sign a four-year contract in the next few days, writes the BBC."
+      "summary": "(ANSA) - ROME, MAY 16 - Chelsea is close to appointing Xabi Alonso as new manager. The former Real Madrid and Bayer Leverkusen manager, 44, is expected to sign a four-year contract in the next few days, writes the BBC."
     },
     {
       "id": "6c76fb6f2fd7",
@@ -39,7 +103,7 @@
       "url": "https://www.milannews.it/editoriale/di-male-in-peggio-617506",
       "source": "milannews.it",
       "date": "2026-05-16T22:00:01+00:00",
-      "summary": "It was yet another nightmare week for Milan and the Rossoneri people. The atmosphere in which the team had to prepare for such an important match like today against Genoa is incredible."
+      "summary": "It was yet another nightmare week for Milan and the Rossoneri people. The atmosphere in which the team had to prepare for such an important match like today's against Genoa is incredible."
     },
     {
       "id": "541c5e563e1e",
@@ -95,39 +159,7 @@
       "url": "https://www.milannews.it/news/cardinale-in-trasferta-l-ultima-volta-fu-ad-agosto-2024-in-lazio-milan-617538",
       "source": "milannews.it",
       "date": "2026-05-16T20:48:51+00:00",
-      "summary": "We recently reported to you the exclusive launched by Sky Sport regarding the presence of Gerry Cardinale tomorrow at the Marassi in Genoa. The Milan owner evidently feels the delicate moment and has decided to remain close to the team."
-    },
-    {
-      "id": "4efc71cc0870",
-      "title": "Donati disconsolate: \"Cardinal criticizes everyone except Furlani, the dream of seeing him away from Milan will remain as such\"",
-      "url": "https://www.milannews.it/news/donati-sconsolato-cardinale-critica-tutti-tranne-furlani-il-sogno-di-vederlo-lontano-dal-milan-rimarra-tale-617527",
-      "source": "milannews.it",
-      "date": "2026-05-16T20:36:46+00:00",
-      "summary": "On his profile X, Telelombardia colleague Stefano Donati commented on the words of Gerry Cardinale released to Corriere della Sera and Gazzetta dello Sport. Below is the content of his tweet."
-    },
-    {
-      "id": "3da9e3e9db59",
-      "title": "According to Sky, tomorrow Gerry Cardinale will be present at the Marassi stadium for Genoa-Milan",
-      "url": "https://www.milannews.it/news/secondo-sky-domani-gerry-cardinale-sara-presente-allo-stadio-marassi-per-genoa-milan-617537",
-      "source": "milannews.it",
-      "date": "2026-05-16T20:33:00+00:00",
-      "summary": "Breaking news launched by Sky Sport just in these minutes."
-    },
-    {
-      "id": "5e7535a24b6a",
-      "title": "Ordine comments on Cardinale: “He reinvests everything, it's true, but he never builds the team”",
-      "url": "https://www.milannews.it/news/ordine-commenta-cardinale-reinveste-tutto-e-vero-ma-non-costruisce-mai-la-squadra-617525",
-      "source": "milannews.it",
-      "date": "2026-05-16T20:24:06+00:00",
-      "summary": "During an episode of QSVS, the well-known journalist Franco Ordine commented on Cardinale's words and identified the errors and \"merits\" of his management at the Rossoneri."
-    },
-    {
-      "id": "a135420692d2",
-      "title": "In Spain they are sure: Mourinho will be the next manager of Real Madrid",
-      "url": "https://www.milannews.it/news/in-spagna-sono-sicuri-mourinho-sara-il-prossimo-allenatore-del-real-madrid-617489",
-      "source": "milannews.it",
-      "date": "2026-05-16T20:12:58+00:00",
-      "summary": "(ANSA) - ROME, MAY 16 - \"Mourinho will be Real's coach\", headlines this morning the largest Spanish sports newspaper, Marca, which gives the agreement \"99.9%\" as fact."
+      "summary": "We recently reported to you the exclusive launched by Sky Sport regarding the presence of Gerry Cardinale tomorrow at the Marassi in Genoa. The AC Milan owner evidently feels the delicate moment and has decided to remain close to the team."
     },
     {
       "id": "2df691cca5cc",
@@ -136,38 +168,6 @@
       "source": "football-italia.net",
       "date": "2026-05-16T20:09:45+00:00",
       "summary": "Massimiliano Allegri is expected to shuffle his pack and leave Rafael Leao out of the..."
-    },
-    {
-      "id": "cbcdb910721a",
-      "title": "Rome, Gasperini: \"Chaos derby? Not an example of great planning\"",
-      "url": "https://www.milannews.it/news/roma-gasperini-caos-derby-non-un-esempio-di-grande-programmazione-617514",
-      "source": "milannews.it",
-      "date": "2026-05-16T20:00:21+00:00",
-      "summary": "(ANSA) - ROME, MAY 16 - \"Chaos derby? Considering that we are in a race we would have played at any time or day, but what happened certainly wasn't an example of great planning.\""
-    },
-    {
-      "id": "7c59949384de",
-      "title": "MN - Order: \"If I were Allegri I would try to perform this other miracle, then naturally I would say goodbye\"",
-      "url": "https://www.milannews.it/news/mn-ordine-se-fossi-allegri-proverei-a-fare-questo-altro-miracolo-poi-naturalmente-saluterei-617472",
-      "source": "milannews.it",
-      "date": "2026-05-16T19:48:09+00:00",
-      "summary": "Franco Ordine, journalist, gave an interview to MilanNews.it on the most delicate issues in the Milan world."
-    },
-    {
-      "id": "59cea2161b3f",
-      "title": "Ravezzani: \"Cardinal forgets that he made capital gains and collected more than anyone else\"",
-      "url": "https://www.milannews.it/news/ravezzani-cardinale-dimentica-che-ha-fatto-plusvalenze-e-incassato-piu-di-tutti-617385",
-      "source": "milannews.it",
-      "date": "2026-05-16T19:36:04+00:00",
-      "summary": "The statements of Gerry Cardinale, released this morning to colleagues from Gazzetta dello Sport and Corriere della Sera, clearly stole the show on the chaotic stage that today represents the Milan situation."
-    },
-    {
-      "id": "6f57755965de",
-      "title": "From Martin Experience to Keeto's Termonia: Haiti wants to get through the groups at the World Cup like this",
-      "url": "https://www.milannews.it/news/da-martin-experience-a-termonia-di-keeto-haiti-vuole-superare-i-gironi-ai-mondiali-cosi-617445",
-      "source": "milannews.it",
-      "date": "2026-05-16T19:24:05+00:00",
-      "summary": "(ANSA) - ROME, MAY 15 - Haiti returns to the World Cup for the first time since 1974 and has one objective: to get through the group stage. The coach, Sebastien Migne, says this during the presentation of the list of players called up."
     },
     {
       "id": "e71e37e9b5a8",
