@@ -1,6 +1,238 @@
 {
-  "lastUpdated": "2026-05-19T08:33:47.653254+00:00",
+  "lastUpdated": "2026-05-19T12:08:43.555531+00:00",
   "articles": [
+    {
+      "id": "5b5480a89b85",
+      "title": "Criticized and in silence, but Nkunku scores more than the starters: his future, however, remains a puzzle",
+      "url": "https://www.milannews.it/primo-piano/criticato-e-in-silenzio-ma-nkunku-segna-piu-dei-titolari-il-suo-futuro-pero-resta-un-rebus-617664",
+      "source": "milannews.it",
+      "date": "2026-05-19T12:00:00+00:00",
+      "summary": "Christopher Nkunku, in the silence of his work and the many criticisms he has suffered this season, has literally dragged Milan into this season finale. Two goals against Atalanta and Genoa with two penalties earned."
+    },
+    {
+      "id": "4d2012465b80",
+      "title": "Galliani linked with Milan return as Ibrahimovic and Furlani face uncertain future",
+      "url": "https://football-italia.net/galliani-milan-return-ibrahimovic-furlani/",
+      "source": "football-italia.net",
+      "date": "2026-05-19T11:54:13+00:00",
+      "summary": "Sources in Italy claim that Zlatan Ibrahimovic and Giorgio Furlani’s futures at Milan are not..."
+    },
+    {
+      "id": "b1f15c516888",
+      "title": "Milanello, both sporting director Tare and CEO Furlani present today",
+      "url": "https://www.milannews.it/da-milanello/milanello-presenti-oggi-sia-il-ds-tare-che-l-ad-furlani-617832",
+      "source": "milannews.it",
+      "date": "2026-05-19T11:50:48+00:00",
+      "summary": "After the day of rest granted yesterday by Massimiliano Allegri to his team, this afternoon Milan will resume training at Milanello in view of Sunday's match against Cagliari at San Siro, fundamental for winning the ..."
+    },
+    {
+      "id": "d957140c234c",
+      "title": "Dalic suggests Modric’s injury may help Croatia during World Cup: “In excellent shape”",
+      "url": "https://sempremilan.com/dalic-suggest-modric-injury-help-croatia-world-cup",
+      "source": "sempremilan.com",
+      "date": "2026-05-19T11:45:00+00:00",
+      "summary": "Unfortunately for AC Milan, Luka Modric has missed a lot of the season finale. However, it may be a good thing for the Croatian national team.  It has been a difficult few weeks for Milan and perhaps with Modric involved, things would have been easier. They cannot focus on maybes, though. Instead, t"
+    },
+    {
+      "id": "9c64ccdbfda4",
+      "title": "Brazil, Ancelotti summons Neymar for the World Cup. And the fans explode with joy",
+      "url": "https://www.milannews.it/news/brasile-ancelotti-convoca-neymar-per-i-mondiali-e-i-tifosi-esplodono-di-gioia-617781",
+      "source": "milannews.it",
+      "date": "2026-05-19T11:40:44+00:00",
+      "summary": "(ANSA) - SAO PAULO, MAY 18 - The coach of the Brazilian national team Carlo Ancelotti has called up Neymar for the next World Cup."
+    },
+    {
+      "id": "4784e3b75ff7",
+      "title": "Towards Cagliari: Milan could go into retreat again. The latest from Milanello",
+      "url": "https://www.milannews.it/da-milanello/verso-il-cagliari-il-milan-potrebbe-andare-ancora-in-ritiro-le-ultime-da-milanello-617831",
+      "source": "milannews.it",
+      "date": "2026-05-19T11:30:20+00:00",
+      "summary": "After the very important victory on Sunday in Genoa and the day of rest granted yesterday by Max Allegri to his players, the new week begins today for Milan who will return to training in the afternoon at Milanello starting from 3.30pm."
+    },
+    {
+      "id": "1ac5803faa82",
+      "title": "For Di Marzio, Furlani and Ibrahimovic's future at Milan is a question mark",
+      "url": "https://www.milannews.it/calciomercato-milan/per-di-marzio-il-futuro-al-milan-di-furlani-e-di-ibrahimovic-e-un-punto-interrogativo-617797",
+      "source": "milannews.it",
+      "date": "2026-05-19T11:20:13+00:00",
+      "summary": "Gianluca Di Marzio, journalist and market expert, expressed himself to SkySport on the future of Milan's managers: \"I'm not sure that Allegri will remain on the Milan bench, it's clear that he's a year older..."
+    },
+    {
+      "id": "112ef76d41f9",
+      "title": "CorSera: Gortezka and Vlahovic among Allegri’s requests – what else he asked for",
+      "url": "https://sempremilan.com/goretzka-vlahovic-allegri-requests-what-else",
+      "source": "sempremilan.com",
+      "date": "2026-05-19T11:20:00+00:00",
+      "summary": "This summer, Massimiliano Allegri could leave AC Milan. However, he will remain if certain demands are met by the management.  By now, it is no secret that Milan could lose Allegri in the summer. It has been reported heavily in the past few days and even earlier today, it was suggested that the club"
+    },
+    {
+      "id": "73a8585d3a01",
+      "title": "Pellegatti: “Ibra has gone crazy and Allegri doesn't trust Furlani”",
+      "url": "https://www.milannews.it/news/pellegatti-ibra-variabile-impazzita-e-allegri-non-si-fida-di-furlani-617766",
+      "source": "milannews.it",
+      "date": "2026-05-19T11:10:47+00:00",
+      "summary": "During the last episode of the Numer1 podcast, guest Carlo Pellegatti spoke about Massimo Calvelli, Zlatan Ibrahimovic and the future of Massimiliano Allegri. These are his words:\n\nCalvelli will not replace Furlani."
+    },
+    {
+      "id": "c580bb7e6c86",
+      "title": "Atalanta, Palladino praises Musah's performance as a left midfielder",
+      "url": "https://www.milannews.it/news/atalanta-palladino-elogia-la-prestazione-di-musah-da-esterno-sinistro-di-centrocampo-617709",
+      "source": "milannews.it",
+      "date": "2026-05-19T11:00:00+00:00",
+      "summary": "(ANSA) - BERGAMO, MAY 17 - \"When I arrived I had the aim of bringing Atalanta back to the European zone and I did it. It wasn't such an obvious result.\""
+    },
+    {
+      "id": "755d36f22b8a",
+      "title": "MN: Calvelli ‘increasingly central’ to Milan – meetings, accompanying Cardinale and the future",
+      "url": "https://sempremilan.com/calvelli-increasingly-central-milan-meetings-cardinale",
+      "source": "sempremilan.com",
+      "date": "2026-05-19T10:55:00+00:00",
+      "summary": "There are likely to be changes at AC Milan this summer and Massimo Calvelli could well be a big part of those changes, but to what degree is unknown.  Since arriving in November, Calvelli has taken on an increasingly larger role internally at Milan and he has certainly come more to the forefront of "
+    },
+    {
+      "id": "14033d174ed1",
+      "title": "Cassano again against Allegri: \"He's letting out certain things because he knows they'll kick him out. And Tare must go home with him because he chose him\"",
+      "url": "https://www.milannews.it/news/cassano-ancora-contro-allegri-sta-facendo-uscire-certe-cose-perche-sa-che-lo-cacceranno-e-con-lui-deve-andare-a-casa-tare-che-lo-ha-scelto-617828",
+      "source": "milannews.it",
+      "date": "2026-05-19T10:51:56+00:00",
+      "summary": "Speaking as always on \"Viva El Futbol\", Antonio Cassano, former Rossoneri striker, commented on the rumors according to which his phone calls with the Swede were also behind the argument between Max Allegri and Zlatan Ibrahimovic: ..."
+    },
+    {
+      "id": "3704a9cebd37",
+      "title": "Maran new coach of Albania: \"I will convey the great love for the shirt\"",
+      "url": "https://www.milannews.it/news/maran-nuovo-ct-dell-albania-trasmettero-il-grande-amore-per-la-maglia-617821",
+      "source": "milannews.it",
+      "date": "2026-05-19T10:41:53+00:00",
+      "summary": "(ANSA) - ROME, MAY 19 - Rolando Maran is the new coach of Albania."
+    },
+    {
+      "id": "438b62cd2c9a",
+      "title": "Serafini: \"When Tare arrives, Reijnders and Theo were already packaged and Ricci already purchased\"",
+      "url": "https://www.milannews.it/calciomercato-milan/serafini-quando-arriva-tare-reijnders-e-theo-erano-gia-impacchettati-e-ricci-gia-acquistato-617800",
+      "source": "milannews.it",
+      "date": "2026-05-19T10:31:38+00:00",
+      "summary": "Luca Serafini, journalist, expressed himself to MilanNews 24 on Milan's transfer market strategy in recent sessions: \"But the budget was absolutely zero."
+    },
+    {
+      "id": "e26661e1043a",
+      "title": "Tuttosport: Denials arrive from America as Ellison’s are linked to Milan – the latest",
+      "url": "https://sempremilan.com/denials-arrive-america-ellison-linked-milan",
+      "source": "sempremilan.com",
+      "date": "2026-05-19T10:30:00+00:00",
+      "summary": "Yesterday, it was suggested that Gerry Cardinale could sell a minority stake in AC Milan to the Ellison family. However, that may not be the case. There has been a lot said in recent years about Cardinale, his stake in the club and his future, too. Indeed, suggestions of him selling a stake in the ["
+    },
+    {
+      "id": "7c0d8675234a",
+      "title": "Milan, Gerry Cardinale greatly appreciated Max Allegri's words after Genoa",
+      "url": "https://www.milannews.it/news/milan-gerry-cardinale-ha-molto-apprezzato-le-parole-di-max-allegri-dopo-il-genoa-617826",
+      "source": "milannews.it",
+      "date": "2026-05-19T10:21:32+00:00",
+      "summary": "According to what Il Giornale reports on newsstands today, Gerry Cardinale, present on Sunday alongside the Rossoneri team in the important away match at Genoa which Milan won 2-1 thanks to goals from Nkunku from the penalty spot and Athekame, has very ..."
+    },
+    {
+      "id": "e06f852ca0a9",
+      "title": "Milan, the new home shirt for the 2026-2027 season will be revealed on Friday",
+      "url": "https://www.milannews.it/news/milan-venerdi-verra-svelata-la-nuova-prima-maglia-della-stagione-2026-2027-617825",
+      "source": "milannews.it",
+      "date": "2026-05-19T10:11:14+00:00",
+      "summary": "With a video published on its official Instagram profile, Milan announced that the new home shirt for the 2026-2027 season will be revealed on Friday 22 May."
+    },
+    {
+      "id": "e8fdebbac274",
+      "title": "CM: Vlahovic wants Champions League football with Juventus renewal further away than ever",
+      "url": "https://sempremilan.com/vlahovic-wants-champions-league-juventus-renewal-further",
+      "source": "sempremilan.com",
+      "date": "2026-05-19T10:05:00+00:00",
+      "summary": "Dusan Vlahovic has been a long-standing target of AC Milan and it appears the Serbian could eye a move to Milano, thanks to their positioning.  There have been links between Vlahovic and Milan for a significant period now and it is unlikely to change. A lot has relied on his situation with Juventus,"
+    },
+    {
+      "id": "d9301ea52e66",
+      "title": "Milan qualifies for the Champions League if... All combinations",
+      "url": "https://www.milannews.it/primo-piano/il-milan-si-qualifica-in-champions-league-se-tutte-le-combinazioni-617769",
+      "source": "milannews.it",
+      "date": "2026-05-19T10:00:00+00:00",
+      "summary": "As in the finale of the best Hollywood thrillers, this year the Champions League sprint will be decided on the final straight, on the last day of the 2025/2026 Enilive Serie A championship."
+    },
+    {
+      "id": "35ba8ae8319f",
+      "title": "Cassano and the phone calls with Ibra: \"Let's not talk about Allegri because he doesn't need me to say certain things. He says them to his face like he did as a footballer\"",
+      "url": "https://www.milannews.it/gli-ex/cassano-e-le-telefonate-con-ibra-non-parliamo-di-allegri-perche-non-ha-bisogno-di-me-per-dire-certe-cose-gliele-dice-in-faccia-come-faceva-da-calciato-617827",
+      "source": "milannews.it",
+      "date": "2026-05-19T09:50:49+00:00",
+      "summary": "Speaking as always on “Viva El Futbol”, Antonio Cassano, former Rossoneri striker, commented on the rumors according to which his phone calls with the Swede were also behind the argument between Max Allegri and Zlatan Ibrahimovic..."
+    },
+    {
+      "id": "3ae512db2c99",
+      "title": "Milan, the new 2026/27 Home Kit is available for pre-order",
+      "url": "https://www.milannews.it/news/milan-il-nuovo-home-kit-2026-27-e-disponibile-in-pre-order-617824",
+      "source": "milannews.it",
+      "date": "2026-05-19T09:40:34+00:00",
+      "summary": "As reported by AC Milan's official website, the new 2026/27 Home Kit is available for pre-order from Tuesday 19 May on the official Online Store of the Rossoneri club: \"AC Milan, together with PUMA, is ready to present ..."
+    },
+    {
+      "id": "5677d7bebbd3",
+      "title": "GdS: ‘Things could be different’ – Galliani could return to Milan regardless of Furlani’s position",
+      "url": "https://sempremilan.com/galliani-could-return-to-milan-regardless-furlani",
+      "source": "sempremilan.com",
+      "date": "2026-05-19T09:40:00+00:00",
+      "summary": "With the AC Milan CEO Giorgio Furlani facing heaps of criticism, there is talk of a former CEO returning to the club.  At present, Furlani’s role at Milan is in jeopardy. The Italian has never been further away from the fans and that feels almost impressive given the proximity has never been close i"
+    },
+    {
+      "id": "43262107609b",
+      "title": "Allegri-Ibra like Gasperini-Ranieri? Cardinal oriented to be on the coach's side. The Swede is increasingly on the margins",
+      "url": "https://www.milannews.it/news/allegri-ibra-come-gasperini-ranieri-cardinale-orientato-a-stare-dalla-parte-dell-allenatore-lo-svedese-e-sempre-piu-ai-margini-617823",
+      "source": "milannews.it",
+      "date": "2026-05-19T09:30:06+00:00",
+      "summary": "According to Il Giornale on newsstands this morning, there are similarities between the clash that took place at Milan between Massimiliano Allegri and Zlatan Ibrahimovic and the one that took place in Rome between Gian Piero Gasperini and Claudio Ranieri who ..."
+    },
+    {
+      "id": "2be90e5f2679",
+      "title": "Abodi: \"For the new Italy coach, start from the model and not from the names\"",
+      "url": "https://www.milannews.it/news/abodi-per-il-nuovo-ct-dell-italia-si-parta-dal-modello-e-non-dai-nomi-617822",
+      "source": "milannews.it",
+      "date": "2026-05-19T09:20:44+00:00",
+      "summary": "(ANSA) - ROME, MAY 19 - \"The priority is the Club Italia model because it is by starting from the model that the right interpreter can then be found."
+    },
+    {
+      "id": "d89d5cefedae",
+      "title": "‘I’ve found a family’ – Ricci admits move to Milan has gone how he had hoped",
+      "url": "https://sempremilan.com/ricci-admits-move-milan-gone-how-hoped",
+      "source": "sempremilan.com",
+      "date": "2026-05-19T09:15:00+00:00",
+      "summary": "Samuele Ricci joined AC Milan last summer and he has admitted that the things he was told before the move have come true.  It has probably not gone how Ricci would have hoped for Milan this season. In terms of game time, he has not been a regular starter. However, he has still made countless […]\nThe"
+    },
+    {
+      "id": "64d9f5bfd68b",
+      "title": "Towards Milan-Cagliari: Allegri finds Leao again. Will it be the Portuguese's last in the Rossoneri?",
+      "url": "https://www.milannews.it/news/verso-milan-cagliari-allegri-ritrova-leao-sara-l-ultima-in-rossonero-del-portoghese-617820",
+      "source": "milannews.it",
+      "date": "2026-05-19T09:10:08+00:00",
+      "summary": "After serving the one-day suspension against Genoa, on Sunday against Cagliari, Massimiliano Allegri will once again have Rafael Leao, Alexis Saelemaekers and Pervis Estupinan available."
+    },
+    {
+      "id": "2fb19f47e2a3",
+      "title": "Condò on Milan: \"After the derby win he only scored 10 points. A mystery\"",
+      "url": "https://www.milannews.it/news/condo-sul-milan-dopo-il-derby-vinto-ha-fatto-solo-10-punti-un-mistero-617819",
+      "source": "milannews.it",
+      "date": "2026-05-19T09:00:16+00:00",
+      "summary": "Paolo Condò, on the pages of today's edition of Corriere della Sera, commented on the championship of Inter's rivals who won the scudetto as follows: \"Given that we don't criticize on the basis of a 'match of ..."
+    },
+    {
+      "id": "05a88e29c2b3",
+      "title": "Vitiello: ‘Delegitimising your manager’ – Ibrahimovic guilty of ‘incredibly serious’ offence",
+      "url": "https://sempremilan.com/ibrahimovic-guilty-incredibly-serious-offence-milan",
+      "source": "sempremilan.com",
+      "date": "2026-05-19T08:50:00+00:00",
+      "summary": "There have been several members of the management critiqued this season and now Zlatan Ibrahimovic is facing the light at AC Milan.  This has not been a good season for management; it is another in a row. Indeed, they have once again faced heaps of criticism, whether due to their own relationships w"
+    },
+    {
+      "id": "c58f852ba218",
+      "title": "The QS headline: \"Allegri finds his Champions League Milan again\"",
+      "url": "https://www.milannews.it/news/il-qs-titola-allegri-ritrova-il-suo-milan-da-champions-617818",
+      "source": "milannews.it",
+      "date": "2026-05-19T08:48:13+00:00",
+      "summary": "The Quotidiano Sportivo on newsstands this morning has the headline: \"Allegri finds his AC Milan as Champions again\"."
+    },
     {
       "id": "ed1d1b4c7b10",
       "title": "Photo: ‘Love Milan’ – AC Milan tease 2026-27 home shirt as pre-order phase begins",
@@ -10,172 +242,12 @@
       "summary": "This morning, AC Milan began to tease the release of the new 2026/27 home shirt, with the pre-order phase beginning.  The summer is inching ever closer, with Milan beginning to tease the release of their new home kit. Of course, this means the mercato will follow shortly, but right now, the anticipa"
     },
     {
-      "id": "289aeffe8cbd",
-      "title": "Galliani's return to Milan would also be an important guarantee for Allegri",
-      "url": "https://www.milannews.it/news/il-ritorno-di-galliani-al-milan-sarebbe-una-garanzia-importante-anche-per-allegri-617816",
-      "source": "milannews.it",
-      "date": "2026-05-19T08:18:10+00:00",
-      "summary": "Giorgio Furlani's position is under examination and it is not excluded that the corporate renewal that Gerry Cardinale is planning could involve him too, provided that it is not the AC Milan player himself who decides to leave AC Milan to ..."
-    },
-    {
-      "id": "831410853fad",
-      "title": "In Spain they are sure: for Mourinho all that is missing for Real Madrid is the official announcement",
-      "url": "https://www.milannews.it/news/in-spagna-sono-sicuri-per-mourinho-al-real-madrid-manca-solo-l-ufficialita-617814",
-      "source": "milannews.it",
-      "date": "2026-05-19T08:08:33+00:00",
-      "summary": "(ANSA) - ROME, MAY 19 - Josè Mourinho is preparing to return to Madrid."
-    },
-    {
-      "id": "038c161e2acc",
-      "title": "Furlani away from Milan? The Galliani hypothesis emerges: the situation",
-      "url": "https://www.milannews.it/primo-piano/furlani-via-dal-milan-spunta-l-ipotesi-galliani-la-situazione-617813",
-      "source": "milannews.it",
-      "date": "2026-05-19T08:00:34+00:00",
-      "summary": "It is no mystery that there is once again an air of revolution in the Rossoneri house."
-    },
-    {
       "id": "a9942b95644e",
       "title": "GdS: ‘Max’s conditions’ – what Allegri has asked for to remain at Milan",
       "url": "https://sempremilan.com/what-allegri-asked-remain-at-milan",
       "source": "sempremilan.com",
       "date": "2026-05-19T08:00:00+00:00",
       "summary": "In the past few days, questions about Massimiliano Allegri have become louder than ever before and his future at AC Milan is not guaranteed. It is once again a case of the unknown for Milan as the summer approaches. What seemed like a long-term project is now being picked apart and there is a chance"
-    },
-    {
-      "id": "0b8568fa2f83",
-      "title": "Conte away from Naples? The two main candidates to replace him are Sarri and Allegri",
-      "url": "https://www.milannews.it/rassegna-stampa/conte-via-da-napoli-i-due-candidati-principali-per-sostituirlo-sono-sarri-e-allegri-617812",
-      "source": "milannews.it",
-      "date": "2026-05-19T07:49:03+00:00",
-      "summary": "There is an air of farewell between Napoli and Antonio Conte who, after having given the Azzurri qualification for the next Champions League, spoke thus of his future: \"The president knows very well what my thoughts are, l ..."
-    },
-    {
-      "id": "2f4b25c6fa56",
-      "title": "The Ellison family ready to join Milan? Denials are coming from New York",
-      "url": "https://www.milannews.it/rassegna-stampa/la-famiglia-ellison-pronta-ad-entrare-nel-milan-da-new-york-arrivano-smentite-617811",
-      "source": "milannews.it",
-      "date": "2026-05-19T07:39:42+00:00",
-      "summary": "In recent days, there has been a lot of talk about the possible sale by RedBird of a minority stake in Milan and a potential investor has also emerged, namely the family of David Ellison, founder of Skydance Media..."
-    },
-    {
-      "id": "fe16715010ee",
-      "title": "Milan revolution: Calvelli will have a key role in the reorganization",
-      "url": "https://www.milannews.it/rassegna-stampa/rivoluzione-milan-un-ruolo-chiave-nel-riassetto-lo-avra-calvelli-617807",
-      "source": "milannews.it",
-      "date": "2026-05-19T07:29:22+00:00",
-      "summary": "In the Rossoneri house there is a figure who is becoming more and more important and who is increasingly involved in Milan: it is Massimo Calvelli, member of the AC Milan board of directors, who will have a key role in the reorganization ..."
-    },
-    {
-      "id": "b330405a1461",
-      "title": "Something very serious happened. The Champions League does not erase mistakes. One step renewal. Then?",
-      "url": "https://www.milannews.it/editoriale/e-successo-una-cosa-gravissima-la-champions-non-cancella-gli-errori-rinnovo-ad-un-passo-poi-617763",
-      "source": "milannews.it",
-      "date": "2026-05-19T07:24:33+00:00",
-      "summary": "The final verdict will arrive on Sunday evening. Ninety minutes to establish the boundary between a barely sufficient season or a failure."
-    },
-    {
-      "id": "6a88d298d69c",
-      "title": "Gazzetta: \"And if Furlani takes a step back? There is the Galliani hypothesis\"",
-      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-e-se-furlani-fara-un-passo-indietro-c-e-l-ipotesi-galliani-617810",
-      "source": "milannews.it",
-      "date": "2026-05-19T07:19:27+00:00",
-      "summary": "\"And if Furlani takes a step back? There is the Galliani hypothesis\": this is the headline in La Gazzetta dello Sport this morning, explaining that Giorgio Furlani, like all AC Milan managers, ended up under ..."
-    },
-    {
-      "id": "802ccffad356",
-      "title": "Milan, even with the Champions League Allegri isn't sure he'll stay: here's what he's asking for",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-anche-con-la-champions-allegri-non-e-certo-di-restare-ecco-cosa-chiede-617806",
-      "source": "milannews.it",
-      "date": "2026-05-19T07:09:06+00:00",
-      "summary": "With a victory on Sunday at San Siro against Cagliari, Milan would gain a pass for the next Champions League."
-    },
-    {
-      "id": "24e2455e1bd4",
-      "title": "Towards Milan-Cagliari: will Saelemaekers and Leao return from the first minute or will they start from the bench?",
-      "url": "https://www.milannews.it/rassegna-stampa/verso-milan-cagliari-saelemaekers-e-leao-rientreranno-dal-primo-minuto-o-partiranno-dalla-panchina-617808",
-      "source": "milannews.it",
-      "date": "2026-05-19T06:59:25+00:00",
-      "summary": "Today Milan will resume training and begin preparing for the last match of the season against Cagliari, scheduled for Sunday at 8.45pm at San Siro."
-    },
-    {
-      "id": "76d3c0247718",
-      "title": "Milan, what will happen to Furlani? The CEO could leave to return to work in finance",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-che-fine-fara-furlani-l-ad-potrebbe-lasciare-per-tornare-a-lavorare-in-finanza-617805",
-      "source": "milannews.it",
-      "date": "2026-05-19T06:50:16+00:00",
-      "summary": "Gerry Cardinale was very clear in the interview released a few days ago in which he also spoke about the future of Milan: at the end of the season he will evaluate everything and everyone and therefore everyone in Via Aldo Rossi is under examination, including ..."
-    },
-    {
-      "id": "1a30d28bab9c",
-      "title": "CorSera on Milan: \"Allegri, the arguments with Ibra and the transfer strategies. It will be up to Cardinale to find a solution\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-corsera-sul-milan-allegri-le-liti-con-ibra-e-le-strategie-di-mercato-tocchera-a-cardinale-trovare-una-soluzione-617804",
-      "source": "milannews.it",
-      "date": "2026-05-19T06:40:56+00:00",
-      "summary": "Regarding Milan's moment, today's edition of Corriere della Sera headlines this morning: \"Allegri, the arguments with Ibra and the transfer strategies. It will be up to Cardinale to find a solution\"."
-    },
-    {
-      "id": "bfea18e7188d",
-      "title": "Tuttosport on the front page: \"Cardinal turning point. Milan, stop Ibra\"",
-      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-in-prima-pagina-svolta-cardinale-milan-stop-a-ibra-617803",
-      "source": "milannews.it",
-      "date": "2026-05-19T06:30:35+00:00",
-      "summary": "\"Cardinal Turning Point."
-    },
-    {
-      "id": "5be4b1bf95b0",
-      "title": "CorSport headlines on Milan: \"Allegri, three points worth 100 million\"",
-      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-titola-sul-milan-allegri-tre-punti-che-valgono-100-milioni-617802",
-      "source": "milannews.it",
-      "date": "2026-05-19T06:20:45+00:00",
-      "summary": "The Corriere dello Sport on newsstands today has this front page headline on Milan: \"Allegri, three points worth 100 million\"."
-    },
-    {
-      "id": "786220a0aa6a",
-      "title": "La Gazzetta opens on Allegri's future: \"Reinforcements from Milan, a united club and...Modric. Only in this way can he remain\"",
-      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-apertura-sul-futuro-di-allegri-rinforzi-da-milan-club-unito-e-modric-solo-cosi-puo-restare-617801",
-      "source": "milannews.it",
-      "date": "2026-05-19T06:10:47+00:00",
-      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on Max Allegri: \"Reinforcements from Milan, a united club and."
-    },
-    {
-      "id": "24beb306091f",
-      "title": "Milan, Allegri asks people like Goretzka and Vlahovic to stay. Coexistence with Ibra is difficult",
-      "url": "https://www.milannews.it/primo-piano/milan-allegri-chiede-gente-come-goretzka-e-vlahovic-per-restare-difficile-la-convivenza-con-ibra-617799",
-      "source": "milannews.it",
-      "date": "2026-05-19T06:00:26+00:00",
-      "summary": "The victory against Genoa, which arrived in front of owner Gerry Cardinale, brought Milan once again closer to qualifying for the next Champions League: with a victory on Sunday evening at San Siro against Cagliari, the Rossoneri will have the certainty ..."
-    },
-    {
-      "id": "fbb271184b04",
-      "title": "Google \"Favorite sources\", add MilanNews now and personalize your news",
-      "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-subito-milannews-e-personalizza-le-tue-notizie-617734",
-      "source": "milannews.it",
-      "date": "2026-05-19T05:50:34+00:00",
-      "summary": "Google has introduced a new function intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
-    },
-    {
-      "id": "769a38e395c0",
-      "title": "38th matchday of Serie A, back to action on Friday: 20 teams have been warned and disqualified",
-      "url": "https://www.milannews.it/news/38a-giornata-di-serie-a-venerdi-si-torna-in-campo-diffidati-e-squalificati-delle-20-squadre-617764",
-      "source": "milannews.it",
-      "date": "2026-05-19T05:30:14+00:00",
-      "summary": "This weekend the 2025/2026 championship will start for the last time. A fundamental day that will issue the verdicts on the Champions League and relegation to Serie B."
-    },
-    {
-      "id": "4ca32505687c",
-      "title": "Serie A, the updated ranking: four teams in two points for the Champions League",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-aggiornata-quattro-squadre-in-due-punti-per-la-champions-617752",
-      "source": "milannews.it",
-      "date": "2026-05-19T05:20:00+00:00",
-      "summary": "The last two places for the next edition of the Champions League will be assigned on the last day of the Enilive Serie A championship, the 38th which will be played between Friday 22nd and Sunday 24th May."
-    },
-    {
-      "id": "4dfc906f1c86",
-      "title": "Milan, from today the focus is on Cagliari: the Rossoneri return to training",
-      "url": "https://www.milannews.it/news/milan-da-oggi-la-testa-e-sul-cagliari-i-rossoneri-tornano-ad-allenarsi-617750",
-      "source": "milannews.it",
-      "date": "2026-05-19T05:10:00+00:00",
-      "summary": "The last week of the Rossoneri season officially begins today."
     },
     {
       "id": "50539a9b9029",
@@ -282,46 +354,6 @@
       "summary": "Join Oli and Bdair as they recap the huge win over Genoa, preview the season finale and predict how the top four race in Serie A will finish. This week’s topics include… ↳ Nkunku and Athekame secure big win ↳ Concerns about the performance ↳ Cagliari (H) preview ↳ Four team UCL battle Want more […]\n"
     },
     {
-      "id": "f35997716e6d",
-      "title": "Di Marzio suggests there’s been ‘no willingness’ to allow Tare to work: “There’s no trust”",
-      "url": "https://sempremilan.com/di-marzio-suggests-no-willingness-allow-tare-work",
-      "source": "sempremilan.com",
-      "date": "2026-05-18T14:00:00+00:00",
-      "summary": "Igli Tare is set to leave AC Milan in the summer, but did he ever really start? Well, questions are being asked.  There have been several questions asked of the Milan recruitment process recently and it appears that Tare is going to be scapegoated for yet another summer that has gone wrong. However,"
-    },
-    {
-      "id": "3f31fa0e3d84",
-      "title": "GdS: Nkunku flawless from the spot – why the goals could change his future",
-      "url": "https://sempremilan.com/nkunku-flawless-spot-goals-change-future",
-      "source": "sempremilan.com",
-      "date": "2026-05-18T13:30:00+00:00",
-      "summary": "Christopher Nkunku has spent a lot of the season viewed as a mistake by AC Milan. However, he is offering some consistency which hasn’t been seen. When looking at the players of this season, Nkunku has often gone under the radar. Indeed, the Frenchman was never celebrated upon arrival and he has bee"
-    },
-    {
-      "id": "537c17b4fd46",
-      "title": "Official: Alessandro Bonomi extends contract with AC Milan",
-      "url": "https://sempremilan.com/official-bonomi-extends-contract-ac-milan",
-      "source": "sempremilan.com",
-      "date": "2026-05-18T13:00:00+00:00",
-      "summary": "Alessandro Bonomi has put pen to paper on a new contract that will keep him at AC Milan, the club have confirmed. The official website have published a statement which reads as follows: “AC Milan is delighted to announce that Alessandro Bonomi has renewed his contract with the Club. “The 2006-born m"
-    },
-    {
-      "id": "b345e48d396f",
-      "title": "Raimondo: Ellison family could acquire Milan stake – their background and three hypotheses",
-      "url": "https://sempremilan.com/ellison-family-milan-stake-background-hypotheses",
-      "source": "sempremilan.com",
-      "date": "2026-05-18T12:35:00+00:00",
-      "summary": "The Ellison family are one of the most powerful names in global finance and entertainment, and rumours suggest they could become a part of AC Milan. This morning, Milano Finanza reported that Gerry Cardinale could sell a minority stake in Milan and that David Ellison family – the founder of Skydance"
-    },
-    {
-      "id": "ff7d9cce236d",
-      "title": "Photos: Milan players react to Genoa win on social media – “See you at San Siro”",
-      "url": "https://sempremilan.com/milan-players-social-media-genoa-1-2",
-      "source": "sempremilan.com",
-      "date": "2026-05-18T12:10:00+00:00",
-      "summary": "AC Milan secured a big three points at the Marassi on Sunday lunchtime, beating Genoa 2-1 to take a huge step towards top four. Milan went into the game with the pressure on after a run of one win in six, which had seen the eight-point gap to fifth place completely wiped out. After a […]\nThe post Ph"
-    },
-    {
       "id": "83389cf43024",
       "title": "Damning Leao stat that could lead to Milan sale: Scudetto form without him",
       "url": "https://football-italia.net/damning-leao-stat-could-lead-to-milan-sale/",
@@ -330,36 +362,12 @@
       "summary": "Rafael Leao is increasingly likely to be sold by Milan this summer according to various..."
     },
     {
-      "id": "8b04324f8ca0",
-      "title": "GdS: Furlani, Tare, Ibrahimovic and more – Cardinale to make big calls after Cagliari finale",
-      "url": "https://sempremilan.com/furlani-tare-ibrahimovic-cardinale-big-calls",
-      "source": "sempremilan.com",
-      "date": "2026-05-18T11:45:00+00:00",
-      "summary": "AC Milan had to win yesterday in Genoa and did so in front of Gerry Cardinale, who wanted to be close to the team and the management. As La Gazzetta dello Sport (via MilanNews) report, it was a quick visit for Cardinale who landed in Genoa in the morning from London and left immediately after […]\nTh"
-    },
-    {
       "id": "25f35e921161",
       "title": "Where Milan stand with Modric, Leao, Pulisic contracts and potential sales",
       "url": "https://football-italia.net/where-milan-stand-with-modric-leao-pulisic/",
       "source": "football-italia.net",
       "date": "2026-05-18T11:34:14+00:00",
       "summary": "Luka Modric, Rafael Leao and Christian Pulisic are among the players whose Milan futures remain..."
-    },
-    {
-      "id": "c4c3cb84b892",
-      "title": "Thuram and Calhanoglu poke fun at Milan during Inter’s Scudetto celebrations",
-      "url": "https://sempremilan.com/thuram-calhanoglu-poke-fun-milan-inter-celebrations",
-      "source": "sempremilan.com",
-      "date": "2026-05-18T11:20:00+00:00",
-      "summary": "After their final home game of the season, Inter’s Scudetto celebrations got properly underway outside the stadium. Inter were unable to give their fans the perfect day as they drew 1-1 with already-relegated Hellas Verona at San Siro. After the full-time whistle an open top bus parade got underway,"
-    },
-    {
-      "id": "a0f1d9bfa8d9",
-      "title": "Mazzara: Cardinale facing Allegri vs. Ibrahimovic choice after ‘breach of company secrets’",
-      "url": "https://sempremilan.com/cardinale-facing-allegri-ibrahimovic-choice",
-      "source": "sempremilan.com",
-      "date": "2026-05-18T10:55:00+00:00",
-      "summary": "The internal power struggle at AC Milan will lead Gerry Cardinale to make a choice between Massimiliano Allegri and Zlatan Ibrahimovic. In the past few days, reports have emerged suggesting that Ibrahimovic and Allegri are no longer on speaking terms. Sources have alleged that the senior advisor and"
     },
     {
       "id": "1197c1167fad",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-05-16T20:09:45+00:00",
       "summary": "Massimiliano Allegri is expected to shuffle his pack and leave Rafael Leao out of the..."
-    },
-    {
-      "id": "0b15ae1e70e3",
-      "title": "Report Xabi Alonso has agreed Chelsea terms after Milan interest",
-      "url": "https://football-italia.net/xabi-alonso-agreed-chelsea-milan-interest/",
-      "source": "football-italia.net",
-      "date": "2026-05-16T16:52:45+00:00",
-      "summary": "Xabi Alonso had been linked to Milan, but after the Italian reports he was close..."
     }
   ]
 }
