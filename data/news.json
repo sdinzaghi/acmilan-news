@@ -1,6 +1,134 @@
 {
-  "lastUpdated": "2026-05-20T19:23:29.018711+00:00",
+  "lastUpdated": "2026-05-20T21:51:32.379642+00:00",
   "articles": [
+    {
+      "id": "e3aebf5b422f",
+      "title": "Matri rates Milan's season: \"It wasn't an 8 on the report card, however..\"",
+      "url": "https://www.milannews.it/gli-ex/matri-vota-la-stagione-del-milan-non-e-stato-un-percorso-da-8-in-pagella-pero-617964",
+      "source": "milannews.it",
+      "date": "2026-05-20T21:50:00+00:00",
+      "summary": "Massimiliano Allegri's Milan is preparing for what, in principle, will be the most important and decisive match of the season."
+    },
+    {
+      "id": "1c7f050bc111",
+      "title": "Serie B playoffs: 2-0 is not enough for Palermo, Catanzaro in the playoff final against Monza",
+      "url": "https://www.milannews.it/news/playoff-serie-b-al-palermo-non-basta-il-2-0-catanzaro-in-finale-playoff-contro-il-monza-617995",
+      "source": "milannews.it",
+      "date": "2026-05-20T21:40:02+00:00",
+      "summary": "(ANSA) - ROME, MAY 20 - Palermo beat Catanzaro 2-0 (1-0) in the second leg of the Serie B playoff semi-final."
+    },
+    {
+      "id": "16aea4839cb3",
+      "title": "Emery king of Europe: Aston Villa dream, Freiburg beaten 3-0",
+      "url": "https://www.milannews.it/dall-estero/emery-re-d-europa-aston-villa-da-sogno-friburgo-battuto-3-0-617996",
+      "source": "milannews.it",
+      "date": "2026-05-20T21:30:14+00:00",
+      "summary": "Unai Emery strikes again and wins his fifth career Europa League. Aston Villa returns to win a European trophy after 44 years, beating Freiburg 3-0 in the final."
+    },
+    {
+      "id": "0186c9d845bf",
+      "title": "Tonali returned to Rigamonti in Brescia for the match between Union and Casarano",
+      "url": "https://www.milannews.it/gli-ex/tonali-e-tornato-al-rigamonti-di-brescia-per-la-sfida-tra-l-union-e-il-casarano-617994",
+      "source": "milannews.it",
+      "date": "2026-05-20T21:20:06+00:00",
+      "summary": "Sandro Tonali was also there at Rigamonti to support Brescia in the second leg of the quarter-finals of the Serie C playoffs against Casarano which ended 0-0, a result that qualifies the Lombard team which will face the winning team in the semi-finals ..."
+    },
+    {
+      "id": "3a97faaf831c",
+      "title": "Carnevali opens up to the sale of Koné: \"I would like him to stay in Sassuolo. I have some doubts\"",
+      "url": "https://www.milannews.it/calciomercato-milan/carnevali-apre-alla-cessione-di-kone-mi-piacerebbe-rimanesse-a-sassuolo-ho-qualche-dubbio-617987",
+      "source": "milannews.it",
+      "date": "2026-05-20T21:10:34+00:00",
+      "summary": "On the sidelines of the presentation of the Golden Boy in Solomeo, the CEO of Sassuolo Giovanni Carnevali not only spoke about the black and green season and the future of Fabio Grosso, but also that of Ismael Koné, midfield ..."
+    },
+    {
+      "id": "3bb3e0b9785e",
+      "title": "Galliani and the anecdote about the Athens '94 final: \"The cleaning lady threw the Cup in the garbage after our celebrations...\"",
+      "url": "https://www.milannews.it/gli-ex/galliani-e-l-aneddoto-sulla-finale-di-atene-94-la-signora-delle-pulizie-butto-la-coppa-nella-spazzatura-dopo-i-nostri-festeggiamenti-617981",
+      "source": "milannews.it",
+      "date": "2026-05-20T21:00:36+00:00",
+      "summary": "From the stage of the \"Global Launch of the 100's\" of the Euro Golden Boy which was held in Solomeo, the former CEO of Milan Adriano Galliani first told a curious anecdote about the Champions Cup final ..."
+    },
+    {
+      "id": "d7eead8b5bcc",
+      "title": "Sarri will decide his future on Monday: Atalanta ahead, Napoli at the window",
+      "url": "https://www.milannews.it/news/sarri-decidera-il-suo-futuro-lunedi-atalanta-avanti-napoli-alla-finestra-617993",
+      "source": "milannews.it",
+      "date": "2026-05-20T20:50:00+00:00",
+      "summary": "Maurizio Sarri will make a final decision on his future next Monday, after his meeting with Claudio Lotito."
+    },
+    {
+      "id": "b9554772002d",
+      "title": "Iuliano on Nkunku: \"He never held back, he always gave his contribution\"",
+      "url": "https://www.milannews.it/news/iuliano-su-nkunku-non-si-e-mai-tirato-indietro-ha-sempre-dato-il-suo-contributo-617976",
+      "source": "milannews.it",
+      "date": "2026-05-20T20:40:13+00:00",
+      "summary": "Speaking in the Radio TV Serie A studios, former Juventus player Mark Iuliano spoke about Christopher Nkunku, the AC Milan striker recovering from two convincing performances against Atalanta and Genoa, where in both cases he found his way to the goal:  ..."
+    },
+    {
+      "id": "c836251361b5",
+      "title": "Sabatini: \"For me Furlani is leaving. How can Ibra have full powers if he leaves in June and returns in August?\"",
+      "url": "https://www.milannews.it/news/sabatini-per-me-furlani-va-via-come-fa-ibra-ad-avere-pieni-poteri-se-va-via-a-giugno-e-torna-a-ferragosto-617951",
+      "source": "milannews.it",
+      "date": "2026-05-20T20:30:23+00:00",
+      "summary": "Sandri Sabatini, on Carlo Pellegatti's YouTube channel, spoke about Zlatan Ibrahimovic and what his future at Milan will be. These are his words."
+    },
+    {
+      "id": "89b98db2b7d5",
+      "title": "There is also Camarda among the 100 candidates for the Golden Boy 2026",
+      "url": "https://www.milannews.it/news/c-e-anche-camarda-tra-i-100-candidati-per-il-golden-boy-2026-617991",
+      "source": "milannews.it",
+      "date": "2026-05-20T20:20:40+00:00",
+      "summary": "During the event organized in Solomeo, Tuttosport released the list of the 100 candidates for the Golden Boy 2026 in collaboration with Transfermarkt."
+    },
+    {
+      "id": "07aa8d48747d",
+      "title": "Di Napoli's thoughts: \"Como is better in organization and quality than Milan\"",
+      "url": "https://www.milannews.it/news/il-pensiero-di-di-napoli-il-como-e-migliore-in-organizzazione-e-qualita-del-milan-617960",
+      "source": "milannews.it",
+      "date": "2026-05-20T20:10:56+00:00",
+      "summary": "During the usual appointment with Maracanà, a program broadcast on the frequencies of TMW Radio, the former striker Arturo Di Napoli spoke about Milan, focusing in particular on the work of Massimiliano Allegri."
+    },
+    {
+      "id": "7ba534f51a08",
+      "title": "Galliani jokes about Calciopoli: \"The only case in the world with the third becoming first\"",
+      "url": "https://www.milannews.it/news/galliani-ironizza-su-calciopoli-l-unico-caso-del-mondo-con-il-terzo-che-diventa-primo-617982",
+      "source": "milannews.it",
+      "date": "2026-05-20T20:00:05+00:00",
+      "summary": "From the stage of the \"Global Launch of the 100's\" of the Euro Golden Boy which was held in Solomeo, the former CEO of Milan Adriano Galliani first told a curious anecdote about the Champions Cup final ..."
+    },
+    {
+      "id": "854878227524",
+      "title": "MN - Judge: \"When Milan took Ibra, they did so to fill the void left by Paolo Maldini. But Zlatan never focused 24 hours a day on Milan\"",
+      "url": "https://www.milannews.it/news/mn-giudice-quando-il-milan-prese-ibra-lo-fece-per-colmare-il-vuoto-lasciato-da-paolo-maldini-ma-zlatan-non-si-e-mai-focalizzato-h24-sul-milan-617948",
+      "source": "milannews.it",
+      "date": "2026-05-20T19:50:13+00:00",
+      "summary": "Alessandro Giudice, manager, business consultant and commentator for Corriere dello Sport, gave an exclusive interview to MilanNews.it focusing on the corporate issues that have been fully involving Milan for weeks now."
+    },
+    {
+      "id": "c4d7c5c36cd6",
+      "title": "Farioli shuts down the rumors about Milan: \"I'm preparing to start my second consecutive season at Porto\"",
+      "url": "https://www.milannews.it/news/farioli-spegne-le-voci-sul-milan-mi-preparo-a-iniziare-la-mia-seconda-stagione-consecutiva-al-porto-617978",
+      "source": "milannews.it",
+      "date": "2026-05-20T19:40:28+00:00",
+      "summary": "Fresh winner of the championship in Portugal, Francesco Farioli gave an interview to his colleagues from TMW during which he also spoke about his possible future in Serie A, considering the fact that his name, right in the ..."
+    },
+    {
+      "id": "1687bbe008cb",
+      "title": "The Palermo fans paid homage to little Alessia La Rosa with a splendid choreography",
+      "url": "https://www.milannews.it/news/i-tifosi-del-palermo-hanno-omaggiato-la-piccola-alessia-la-rosa-con-una-splendida-coreografia-617988",
+      "source": "milannews.it",
+      "date": "2026-05-20T19:30:35+00:00",
+      "summary": "(ANSA) - PALERMO, MAY 20 - Special choreography in memory of little Alessia La Rosa tonight at the Barbera stadium in Palermo, just before the kick-off of the match between the rosanero and Catanzaro."
+    },
+    {
+      "id": "1f361ca2f24c",
+      "title": "Top & Flop: surprises and disappointments of the season. Pavlovic grows, Pulisic collapses",
+      "url": "https://www.milannews.it/news/top-flop-sorprese-e-delusioni-della-stagione-pavlovic-cresce-pulisic-crolla-617963",
+      "source": "milannews.it",
+      "date": "2026-05-20T19:20:00+00:00",
+      "summary": "Massimiliano Allegri's Milan is preparing for what, in principle, will be the most important and decisive match of the season."
+    },
     {
       "id": "589b2d63dec1",
       "title": "Biasin on Milan: \"It would make little sense not to give continuity to the technical guidance of a group that needs certainties\"",
@@ -50,36 +178,12 @@
       "summary": "Milan and Monza legend Adriano Galliani outlines the problems with Italian football and takes a..."
     },
     {
-      "id": "1d26bf700b2c",
-      "title": "Toni praises Allegri: \"With this club currently in the Champions League, not everyone would have made it\"",
-      "url": "https://www.milannews.it/news/toni-elogia-allegri-con-questa-societa-ad-oggi-e-in-champions-non-tutti-ce-l-avrebbero-fatta-617933",
-      "source": "milannews.it",
-      "date": "2026-05-20T18:30:25+00:00",
-      "summary": "During the last episode of the podcast Cose Scomode, the former striker Luca Toni expressed himself thus regarding Massimiliano Allegri and his work carried out this year despite the many corporate difficulties."
-    },
-    {
       "id": "7626cf949e91",
       "title": "MilanVibes: ‘Something is moving’ as Galliani has lunch with Cardinale – the latest",
       "url": "https://sempremilan.com/galliani-has-lunch-with-cardinale-latest",
       "source": "sempremilan.com",
       "date": "2026-05-20T18:30:00+00:00",
       "summary": "Adriano Galliani was spotted having lunch with Gerry Cardinale and his return to AC Milan could very well materialise. In the past couple of days, speculation has really ramped up suggesting that Galliani could come back to Milan a decade after he left. Last summer it was claimed that Il Condor had "
-    },
-    {
-      "id": "40d446fa18eb",
-      "title": "Ellison-Milan, Lawyer Raimondo: \"It would be more convenient for them to join the company immediately\"",
-      "url": "https://www.milannews.it/news/ellison-milan-l-avvocato-raimondo-per-loro-sarebbe-piu-conveniente-entrare-in-societa-subito-617956",
-      "source": "milannews.it",
-      "date": "2026-05-20T18:20:00+00:00",
-      "summary": "It's a Milan that is always evolving, every season. With a transfer market still in progress but which will inevitably undergo upheavals, the situation at the club also seems to be truly delicate."
-    },
-    {
-      "id": "c07d0b117541",
-      "title": "He spied on his rivals, Southampton excluded from the Championship play-offs",
-      "url": "https://www.milannews.it/dall-estero/spiava-i-rivali-il-southampton-escluso-dai-play-off-di-championship-617955",
-      "source": "milannews.it",
-      "date": "2026-05-20T18:10:00+00:00",
-      "summary": "(ANSA) - LONDON, MAY 20 - 'Spygate' overwhelms Southampton and sensationally rewrites the race for the Premier League."
     },
     {
       "id": "37f3a34235cc",
@@ -90,44 +194,12 @@
       "summary": "AC Milan are one of the teams interested in signing Bernardo Silva on a free transfer from Manchester City, it is claimed. As reported by the Spanish newspaper Marca (via MilanVibes), Milan are in the race for Bernardo Silva. After nine years at Manchester, he is preparing to leave and embark on a n"
     },
     {
-      "id": "c5c752a49cd7",
-      "title": "Allegri courted by Napoli. Max's condition and the jams on the benches",
-      "url": "https://www.milannews.it/primo-piano/allegri-corteggiato-dal-napoli-le-condizioni-di-max-e-gli-incastri-sulle-panchine-617973",
-      "source": "milannews.it",
-      "date": "2026-05-20T17:58:00+00:00",
-      "summary": "There is also Massimiliano Allegri on the list of potential Napoli coaches."
-    },
-    {
-      "id": "c1bb65aa6461",
-      "title": "MN - Judge: \"All the choices of the men, of the structure, such as the dismissal of Maldini himself, were made by Cardinal\"",
-      "url": "https://www.milannews.it/news/mn-giudice-tutte-le-scelte-degli-uomini-della-struttura-come-il-licenziamento-di-maldini-in-prima-persona-le-ha-fatte-cardinale-617946",
-      "source": "milannews.it",
-      "date": "2026-05-20T17:50:04+00:00",
-      "summary": "Alessandro Giudice, manager, business consultant and commentator for Corriere dello Sport, gave an exclusive interview to MilanNews.it focusing on the corporate issues that have been fully involving Milan for weeks now."
-    },
-    {
       "id": "edca09b13140",
       "title": "Report Leao rejected by Arsenal, Manchester United and Barcelona",
       "url": "https://football-italia.net/leao-rejected-arsenal-manchester-utd-barcelona/",
       "source": "football-italia.net",
       "date": "2026-05-20T17:41:06+00:00",
       "summary": "According to Italian reports, Milan offered Rafael Leao to Arsenal, Manchester United and Barcelona, but..."
-    },
-    {
-      "id": "54756cc8fbea",
-      "title": "Order on Allegri's future: \"Watch out for the national team but they tell me Napoli\"",
-      "url": "https://www.milannews.it/news/ordine-sul-futuro-di-allegri-occhio-alla-nazionale-ma-mi-dicono-napoli-617957",
-      "source": "milannews.it",
-      "date": "2026-05-20T17:40:16+00:00",
-      "summary": "During the usual appointment with Maracanà, a program broadcast on the frequencies of TMW Radio, Franco Ordine, historical signature of Il Giornale, spoke about the future of Massimiliano Allegri between Milan, the national team and."
-    },
-    {
-      "id": "1ef4ccb2f8a3",
-      "title": "Di Napoli on Allegri's work: \"He didn't have the team to fight for the Scudetto\"",
-      "url": "https://www.milannews.it/news/di-napoli-sul-lavoro-di-allegri-non-aveva-la-squadra-per-lottare-allo-scudetto-617958",
-      "source": "milannews.it",
-      "date": "2026-05-20T17:30:30+00:00",
-      "summary": "During the usual appointment with Maracanà, a program broadcast on the frequencies of TMW Radio, the former striker Arturo Di Napoli spoke about Milan, focusing in particular on the work of Massimiliano Allegri."
     },
     {
       "id": "2cf249591c2d",
@@ -138,60 +210,12 @@
       "summary": "Zlatan Ibrahimovic is never far away from the media spotlight, but the headlines surrounding him in recent days have been worrying. Firstly, it emerged from several sources that Massimiliano Allegri has fallen out with Ibrahimovic and that the pair are no longer on speaking terms. It stems from conv"
     },
     {
-      "id": "b3746a4b741f",
-      "title": "Fabregas, contrary to what many Italians do, does not underestimate Serie A",
-      "url": "https://www.milannews.it/news/fabregas-al-contrario-di-quanto-fanno-molti-italiani-non-sottovaluta-la-serie-a-617910",
-      "source": "milannews.it",
-      "date": "2026-05-20T17:20:44+00:00",
-      "summary": "(ANSA) - MILAN, MAY 17 - \"Behind Como's results there is a lot of work. There are magnificent players who believe in it a lot."
-    },
-    {
-      "id": "484d207bec51",
-      "title": "Matri sure: \"With the Champions League season worth 6.5. Allegri also has many merits off the pitch\"",
-      "url": "https://www.milannews.it/news/matri-sicuro-con-la-champions-stagione-da-6-5-allegri-ha-tanti-meriti-anche-fuori-dal-campo-617952",
-      "source": "milannews.it",
-      "date": "2026-05-20T17:10:00+00:00",
-      "summary": "During the episode of 4-3-2-1 broadcast on DAZN, Alessandro Matri gave his opinion on Milan's season in the event of qualification for the Champions League. These are his words."
-    },
-    {
-      "id": "88dfb6da43c2",
-      "title": "Napoli is moving for the future of the bench: Allegri is also on the list",
-      "url": "https://www.milannews.it/news/il-napoli-si-muove-per-il-futuro-della-panchina-in-lista-anche-allegri-617972",
-      "source": "milannews.it",
-      "date": "2026-05-20T17:00:47+00:00",
-      "summary": "Napoli is moving for the future of its bench."
-    },
-    {
       "id": "ca2e85e2a007",
       "title": "MN: Why Milan must take a leaf out of Arsenal’s book after €63m move",
       "url": "https://sempremilan.com/why-milan-leaf-arsenal-book-gyokeres",
       "source": "sempremilan.com",
       "date": "2026-05-20T17:00:00+00:00",
       "summary": "On Tuesday evening, despite not being on the field themselves, Arsenal were crowned champions of England for the first time in 22 years. As MilanNews write, the final whistle in Bournemouth’s 1-1 draw with Manchester City brought an end to a 22-year title drought for Arsenal, What does all this have"
-    },
-    {
-      "id": "a1d7d59c6a19",
-      "title": "MN - Judge: \"How can Ibra be the manager of Milan by staying out at a key moment?!\"",
-      "url": "https://www.milannews.it/news/mn-giudice-come-fa-ibra-a-fare-il-manager-del-milan-stando-fuori-in-un-momento-chiave-617945",
-      "source": "milannews.it",
-      "date": "2026-05-20T16:50:59+00:00",
-      "summary": "Alessandro Giudice, manager, business consultant and commentator for Corriere dello Sport, gave an exclusive interview to MilanNews.it focusing on the corporate issues that have been fully involving Milan for weeks now."
-    },
-    {
-      "id": "57dc27c87bb5",
-      "title": "For Zambrotta, Juventus is worse off than Milan in the race for the Champions League",
-      "url": "https://www.milannews.it/news/per-zambrotta-la-juventus-e-messa-peggio-del-milan-nella-corsa-alla-champions-league-617874",
-      "source": "milannews.it",
-      "date": "2026-05-20T16:40:00+00:00",
-      "summary": "Massimiliano Allegri's Milan is preparing for what, in principle, will be the most important and decisive match of the season."
-    },
-    {
-      "id": "35c00a0af660",
-      "title": "Pellegatti underlines: \"If it's the Champions League, work is done, Chivu only had to think about the Allegri pitch, no\"",
-      "url": "https://www.milannews.it/news/pellegatti-sottolinea-se-sara-champions-lavoro-compiuto-chivu-ha-dovuto-pensare-solo-al-campo-allegri-no-617938",
-      "source": "milannews.it",
-      "date": "2026-05-20T16:30:30+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti analyzed the work of Massimiliano Allegri carried out this season despite all the difficulties he had to face at a corporate level. These are his words."
     },
     {
       "id": "e88cb9a1ce53",
@@ -208,30 +232,6 @@
       "source": "football-italia.net",
       "date": "2026-05-20T16:22:26+00:00",
       "summary": "Bologna’s Jonathan Rowe has opened up about the fight he had with Milan’s Adrien Rabiot,..."
-    },
-    {
-      "id": "09c01b5e5f61",
-      "title": "From Germany: no world championship for Fullkrug? Coach Nagelsmann's decision",
-      "url": "https://www.milannews.it/news/dalla-germania-niente-mondiale-per-fullkrug-la-decisione-del-ct-nagelsmann-617879",
-      "source": "milannews.it",
-      "date": "2026-05-20T16:20:00+00:00",
-      "summary": "The news from Germany that we all seemed to be waiting for: the coach of the German national team, Julian Nagelsmann, would not be willing to call up Niclas Full in view of the upcoming World Cup scheduled for this summer in the USA..."
-    },
-    {
-      "id": "bbfe5f6d91ff",
-      "title": "Sabatini has no doubts: \"With the Champions Allegri more than enough, he also enhanced Bartesaghi and Athekame\"",
-      "url": "https://www.milannews.it/news/sabatini-non-ha-dubbi-con-la-champions-allegri-piu-che-sufficiente-ha-anche-valorizzato-bartesaghi-e-athekame-617950",
-      "source": "milannews.it",
-      "date": "2026-05-20T16:10:46+00:00",
-      "summary": "On Carlo Pellegatti's YouTube channel, Sandro Sabatini commented on Allegri's work up to this point, defining the work as more than sufficient in the event of qualification for the Champions League."
-    },
-    {
-      "id": "17cc4b0e8615",
-      "title": "Casa Milan, take example from Gyokeres. Arsenal won by buying a centre-forward with guaranteed goals",
-      "url": "https://www.milannews.it/primo-piano/casa-milan-prendi-esempio-da-gyokeres-l-arsenal-ha-vinto-comprando-un-centravanti-dai-gol-sicuri-617954",
-      "source": "milannews.it",
-      "date": "2026-05-20T16:00:00+00:00",
-      "summary": "On Tuesday evening, despite not taking to the pitch, Arsenal became English Champions for the first time in 22 years."
     },
     {
       "id": "10ae24520196",
