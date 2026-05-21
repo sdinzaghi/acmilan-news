@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-05-21T19:54:58.309632+00:00",
+  "lastUpdated": "2026-05-21T21:26:13.511436+00:00",
   "articles": [
+    {
+      "id": "1018d3f36b6c",
+      "title": "Pellegatti dreams of the 'perfect' management: \"Carnevali CEO with the inclusion of Galliani in the organization chart\"",
+      "url": "https://www.milannews.it/news/pellegatti-sogna-la-dirigenza-perfetta-carnevali-ad-con-l-inserimento-della-figura-di-galliani-nell-organigramma-618099",
+      "source": "milannews.it",
+      "date": "2026-05-21T21:20:13+00:00",
+      "summary": "During the usual appointment with the video on his YouTube channel, Carlo Pellegatti took stock of Milan's corporate situation, confirming MilanNews' anticipation."
+    },
+    {
+      "id": "1fd15aa31634",
+      "title": "Southampton's appeal rejected: out of the Premier League playoffs due to the spy case",
+      "url": "https://www.milannews.it/news/respinto-il-ricorso-del-southampton-fuori-dai-playoff-per-la-premier-per-il-caso-spia-617998",
+      "source": "milannews.it",
+      "date": "2026-05-21T21:10:53+00:00",
+      "summary": "(ANSA) - ROME, MAY 20 - Southampton's appeal against exclusion from the play-off final for access to the Premier League has been rejected. The club is accused of espionage."
+    },
+    {
+      "id": "2a3c284ae476",
+      "title": "Canovi: \"National bench? I'm thinking of Allegri, that's why\"",
+      "url": "https://www.milannews.it/news/canovi-panchina-nazionale-penso-ad-allegri-ecco-perche-618082",
+      "source": "milannews.it",
+      "date": "2026-05-21T21:00:00+00:00",
+      "summary": "Milan is preparing to experience a decisive evening for their future. In the last match of the championship, the Rossoneri will host Cagliari at San Siro with the aim of gaining access to the next Champions League."
+    },
+    {
+      "id": "afcfb1479c50",
+      "title": "Allegri, what will be your future? Iori: \"I don't know if the Champions League will be enough\"",
+      "url": "https://www.milannews.it/news/allegri-quale-sara-il-suo-futuro-iori-non-so-se-la-champions-bastera-618081",
+      "source": "milannews.it",
+      "date": "2026-05-21T20:50:00+00:00",
+      "summary": "Only one match separates Milan from a possible return to the Champions League."
+    },
+    {
+      "id": "fbf06d7ff2e7",
+      "title": "Towards Milan-Cagliari: in 2017 it was Pisacane who scored the Sardinians' last winning goal",
+      "url": "https://www.milannews.it/l-avversario/verso-milan-cagliari-nel-2017-fu-proprio-pisacane-a-segnare-l-ultimo-gol-vittoria-dei-sardi-618076",
+      "source": "milannews.it",
+      "date": "2026-05-21T20:40:00+00:00",
+      "summary": "Massimiliano Allegri's Milan is preparing for the last and decisive match of the championship, scheduled for Sunday evening at San Siro against Cagliari."
+    },
+    {
+      "id": "fd5509043871",
+      "title": "Marcello criticizes Allegri: \"Who is following in his footsteps and his way of playing?\"",
+      "url": "https://www.milannews.it/news/marcello-critica-allegri-chi-sta-seguendo-le-sue-orme-e-il-suo-modo-di-giocare-618080",
+      "source": "milannews.it",
+      "date": "2026-05-21T20:30:00+00:00",
+      "summary": "The decisive moment of the season has arrived for Milan."
+    },
+    {
+      "id": "07485d12d0cb",
+      "title": "Pellegatti on Ibrahimovic's future: \"His situation needs to be understood. Cardinale wants to reset everything\"",
+      "url": "https://www.milannews.it/news/pellegatti-sul-futuro-di-ibrahimovic-da-capire-la-sua-situazione-cardinale-vuole-azzerare-tutto-618100",
+      "source": "milannews.it",
+      "date": "2026-05-21T20:20:22+00:00",
+      "summary": "During the usual appointment with the video on his YouTube channel, Carlo Pellegatti took stock of Milan's corporate situation, confirming MilanNews' anticipation."
+    },
+    {
+      "id": "a4deafa8a552",
+      "title": "Piantanida: \"There is something strange at Milan. See Tare. And Allegri...\"",
+      "url": "https://www.milannews.it/news/piantanida-al-milan-c-e-qualcosa-di-strano-vedi-tare-e-allegri-618078",
+      "source": "milannews.it",
+      "date": "2026-05-21T20:10:00+00:00",
+      "summary": "Last match of the season and a goal still to be achieved for Milan."
+    },
+    {
+      "id": "07f4aa47d396",
+      "title": "Bortolazzi: \"Conte in Milan or Juve orbit? Here's where he will go in my opinion\"",
+      "url": "https://www.milannews.it/news/bortolazzi-conte-in-orbita-milan-o-juve-ecco-dove-andra-secondo-me-618069",
+      "source": "milannews.it",
+      "date": "2026-05-21T20:00:00+00:00",
+      "summary": "For Milan the moment of truth has arrived. In the last match of the season, the Rossoneri will face Cagliari at San Siro with only one objective: to qualify for the next Champions League."
+    },
     {
       "id": "145d3283270e",
       "title": "Thiago Silva-Milan? Romano: \"There are still no negotiations with any team, nor offers. It is in the process of personal evaluations\"",
@@ -98,52 +170,12 @@
       "summary": "(ANSA) - TURIN, MAY 20 - There is great anticipation for the Mole derby which will close the season of Turin and Juventus. The two teams will compete on Sunday at 8pm."
     },
     {
-      "id": "cc834be22d3e",
-      "title": "Nobody like Gimenez in the last 16 years: Milan expected a striker, but found a puzzle",
-      "url": "https://www.milannews.it/primo-piano/nessuno-come-gimenez-negli-ultimi-16-anni-il-milan-si-aspettava-un-bomber-ma-ha-trovato-un-rebus-618085",
-      "source": "milannews.it",
-      "date": "2026-05-21T18:00:00+00:00",
-      "summary": "The numbers, sometimes, are harder than any judgement. And those of Santiago Gimenez in his 890 minutes of this Serie A season describe an extremely disappointing start: 0 goals and 0 assists."
-    },
-    {
       "id": "321710de7580",
       "title": "A convenient figure to sacrifice: The alarm bells Tare’s potential sacking raises",
       "url": "https://sempremilan.com/convenient-sacrifice-tare-sacking-alarm-bells",
       "source": "sempremilan.com",
       "date": "2026-05-21T18:00:00+00:00",
       "summary": "Igli Tare was billed as the man to help AC Milan with a multi-year rebuild, yet his time at the club might not even last a year. Milan decided ahead of 2025-26 that the sporting director position was something that was missing from their hierarchy. After a rather long and confused casting process, t"
-    },
-    {
-      "id": "f8103c1e5530",
-      "title": "Pellegatti reveals: \"They tell me that Modric will remain with Allegri and the Champions League\"",
-      "url": "https://www.milannews.it/news/pellegatti-rivela-mi-dicono-che-con-allegri-e-con-la-champions-modric-rimane-618059",
-      "source": "milannews.it",
-      "date": "2026-05-21T17:50:32+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti spoke about Luka Modric's desire for next season. These are his words:\n\n\"Modric told me, they told me yesterday, that he would reveal his intention."
-    },
-    {
-      "id": "adaa29f407b4",
-      "title": "USA World Cup, Ebola concern for Congo: does the repechage scenario reopen?",
-      "url": "https://www.milannews.it/news/mondiali-usa-preoccupazione-ebola-per-il-congo-si-riapre-lo-scenario-del-ripescaggio-618058",
-      "source": "milannews.it",
-      "date": "2026-05-21T17:40:02+00:00",
-      "summary": "The Ebola epidemic is advancing ever more forcefully in the Democratic Republic of Congo and the concern of the organizers of the World Cup which will start in just under a month is increasingly high."
-    },
-    {
-      "id": "9201d1dda30b",
-      "title": "Marotta and the five lost European finals that burn. Second star ok (and calciopoli?), but you don't touch the history of Milan",
-      "url": "https://www.milannews.it/l-avversario/marotta-e-le-cinque-finali-europee-perse-che-bruciano-seconda-stella-ok-e-calciopoli-ma-non-tocchi-la-storia-di-milano-618093",
-      "source": "milannews.it",
-      "date": "2026-05-21T17:32:50+00:00",
-      "summary": "\"It's a special evening, we wanted to celebrate it in this Arena, because we are the city's team, the only one with two stars."
-    },
-    {
-      "id": "ceec6f689a18",
-      "title": "Champions sprint, last act: here are the referees who will lead the matches",
-      "url": "https://www.milannews.it/news/volata-champions-ultimo-atto-ecco-gli-arbitri-che-guideranno-i-match-618057",
-      "source": "milannews.it",
-      "date": "2026-05-21T17:30:29+00:00",
-      "summary": "The refereeing appointments have been released, the last of the year, for the ten matches of matchday number 38. Below are all the refereeing teams that will referee the matches of Milan, Como, Juventus and Roma."
     },
     {
       "id": "f3e19354cdac",
@@ -154,22 +186,6 @@
       "summary": "Manchester United’s interest in signing AC Milan star Rafael Leao is real and concrete, according to a report. Leao’s name remains at the centre of transfer rumours after a season with ups and downs, as Milan fans and the management have become accustomed to. There is talk that Sunday’s game against"
     },
     {
-      "id": "a05d8ce42bc1",
-      "title": "Abraham, you are in history! Only two have won all European competitions",
-      "url": "https://www.milannews.it/news/abraham-sei-nella-storia-solo-in-due-hanno-vinto-tutte-le-competizioni-europee-618056",
-      "source": "milannews.it",
-      "date": "2026-05-21T17:20:44+00:00",
-      "summary": "Last night Emery's Aston Villa, the expert of the competition, beat Freiburg in the final without too much effort and won the first Europa League in its history."
-    },
-    {
-      "id": "c060ab9405d9",
-      "title": "Colombo redeemed by Genoa: \"I'm happy to continue playing in the rossoblù shirt\"",
-      "url": "https://www.milannews.it/gli-ex/colombo-riscattato-dal-genoa-sono-felice-di-continuare-a-giocare-in-maglia-rossoblu-618052",
-      "source": "milannews.it",
-      "date": "2026-05-21T17:10:15+00:00",
-      "summary": "Genoa have redeemed Lorenzo Colombo who therefore officially leaves Milan and has become a new rossoblu player."
-    },
-    {
       "id": "d8534f886eb0",
       "title": "Milan defender Tomori left out of England 2026 World Cup squad",
       "url": "https://football-italia.net/milan-tomori-out-england-2026-world-cup-squad/",
@@ -178,28 +194,12 @@
       "summary": "Milan defender Fikayo Tomori is expected to miss out on the England squad for the..."
     },
     {
-      "id": "305f93ca75da",
-      "title": "Emery, what a specialist! He wins the Europa League with Aston Villa after having already won it with Sevilla and Villareal",
-      "url": "https://www.milannews.it/news/emery-che-specialista-vince-l-europa-league-con-l-aston-villa-dopo-averla-gia-alzata-con-siviglia-e-villareal-617999",
-      "source": "milannews.it",
-      "date": "2026-05-21T17:00:18+00:00",
-      "summary": "(ANSA) - ROME, MAY 20 - Aston Villa wins the Europa League."
-    },
-    {
       "id": "32c4fc0574b6",
       "title": "ESPN Brasil: AC Milan offer Thiago Silva chance to finish career in Italy",
       "url": "https://sempremilan.com/milan-offer-thiago-silva-chance-finish-italy",
       "source": "sempremilan.com",
       "date": "2026-05-21T17:00:00+00:00",
       "summary": "AC Milan are ready to offer Thiago Silva the chance to finish his career in Italy, according to a report from his home land. As a reminder, Thiago Silva was heavily linked with a move to the Rossoneri both last summer and ahead of the winter window. However, he chose to head to Portugal after […]\nTh"
-    },
-    {
-      "id": "35066ff26b6c",
-      "title": "Future Leao, Condò's doubt: \"It may be that the leap in quality will never be achieved, it may be that by changing the environment the click will be triggered, who knows?\"",
-      "url": "https://www.milannews.it/news/futuro-leao-il-dubbio-di-condo-puo-darsi-che-il-salto-di-qualita-non-si-compia-mai-puo-darsi-che-cambiando-ambiente-scatti-il-clic-chi-lo-sa-618028",
-      "source": "milannews.it",
-      "date": "2026-05-21T16:51:11+00:00",
-      "summary": "Paolo Condò, on the pages of Corriere della Sera, also spoke about the future of Rafael Leao who is no longer untransferable for Milan and could say goodbye to the Rossoneri club in the summer after seven years if an offer were to arrive..."
     },
     {
       "id": "3c4488c27532",
