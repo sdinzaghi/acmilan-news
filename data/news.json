@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-05-24T03:26:07.261536+00:00",
+  "lastUpdated": "2026-05-24T06:57:26.872042+00:00",
   "articles": [
+    {
+      "id": "b4a68c631b6a",
+      "title": "Last day of Serie A. Tuttosport on the front page of Milan and Roma: \"Allegri and Gasp: just win!\"",
+      "url": "https://www.milannews.it/news/ultima-giornata-di-serie-a-tuttosport-in-prima-pagina-su-milan-e-roma-allegri-e-gasp-vincere-e-basta-618316",
+      "source": "milannews.it",
+      "date": "2026-05-24T06:48:39+00:00",
+      "summary": "\"Allegri and Gasp: just win!\": this is the headline on the front page of Tuttosport this morning about Milan and Roma who are fighting for the last two places in the Champions League with Como and Juventus, but have their destiny in their hands because ..."
+    },
+    {
+      "id": "753e01995d4a",
+      "title": "Corsa Champions, CorSport: \"Without appeal. Milan, Roma, Como and Juve: only 2 pass the money\"",
+      "url": "https://www.milannews.it/rassegna-stampa/corsa-champions-corsport-senza-appello-milan-roma-como-e-juve-solo-2-passano-all-incasso-618315",
+      "source": "milannews.it",
+      "date": "2026-05-24T06:36:32+00:00",
+      "summary": "The Corriere dello Sport on newsstands this morning has a front page headline on the Champions League race that will be decided this evening: \"Without appeal. Milan, Roma, Como and Juve: only 2 pass through\"."
+    },
+    {
+      "id": "4130e150ac81",
+      "title": "The opening of the Gazzetta: \"Champions of my dreams. If Milan wins they will be back among the big names\"",
+      "url": "https://www.milannews.it/rassegna-stampa/l-apertura-della-gazzetta-champions-delle-mie-brame-il-milan-se-vince-torna-tra-i-big-618314",
+      "source": "milannews.it",
+      "date": "2026-05-24T06:24:28+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page: \"Champions of my dreams. If Milan wins they will return to the big leagues\"."
+    },
+    {
+      "id": "e43ecb4303c1",
+      "title": "Lazio, Sarri towards farewell: \"I'm not happy about many things, we will evaluate whether to continue with the club\"",
+      "url": "https://www.milannews.it/news/lazio-sarri-verso-l-addio-non-sono-felice-di-tante-cose-con-la-societa-valuteremo-se-andare-avanti-618312",
+      "source": "milannews.it",
+      "date": "2026-05-24T06:12:20+00:00",
+      "summary": "(ANSA) - ROME, MAY 23 - \"I have another two years on my contract. There will be the next few days where there will be discussions, I'm not happy with many things."
+    },
+    {
+      "id": "6f86c0608f09",
+      "title": "Milan, the night of the Champions League and the night of farewells: Furlani will be the first, but he won't be the only one",
+      "url": "https://www.milannews.it/primo-piano/milan-la-notte-della-champions-e-quella-degli-addii-furlani-sara-il-primo-ma-non-sara-l-unico-618313",
+      "source": "milannews.it",
+      "date": "2026-05-24T06:00:24+00:00",
+      "summary": "Yesterday in a press conference, Massimiliano Allegri rightly defined tonight's match against Cagliari as the most important match of the season because Milan will compete for access to the next Champions League."
+    },
+    {
+      "id": "56585b716ac1",
+      "title": "Milan-Cagliari, on the pitch this evening: the last 10 previous matches at San Siro",
+      "url": "https://www.milannews.it/news/milan-cagliari-questa-sera-in-campo-gli-ultimi-10-precedenti-a-san-siro-618303",
+      "source": "milannews.it",
+      "date": "2026-05-24T05:48:00+00:00",
+      "summary": "This evening Massimiliano Allegri's Milan will face Pisacane's Cagliari, who come to San Siro certain of playing in Serie A again next season given the mathematical salvation achieved, to try to make it official with a victory..."
+    },
+    {
+      "id": "31e1486993c3",
+      "title": "Allegri keeps his attention high: \"Main dangers? Attitude and superficiality, don't let your guard down\"",
+      "url": "https://www.milannews.it/news/allegri-tiene-alta-l-attenzione-pericoli-principali-atteggiamento-e-superficialita-guai-ad-abbassare-la-guardia-618302",
+      "source": "milannews.it",
+      "date": "2026-05-24T05:36:00+00:00",
+      "summary": "During the pre-match press conference, held yesterday afternoon in the Milanello sports centre, Rossoneri coach Massimiliano Allegri commented on this evening's match as follows."
+    },
+    {
+      "id": "c9fe7d61415c",
+      "title": "38th matchday of Serie A, the complete programme: it's the day of verdicts",
+      "url": "https://www.milannews.it/news/38a-giornata-di-serie-a-il-programma-completo-e-il-giorno-dei-verdetti-618300",
+      "source": "milannews.it",
+      "date": "2026-05-24T05:24:00+00:00",
+      "summary": "In addition to the AC Milan match against Cagliari, the other matches that will conclude the 2025/2026 Serie A championship will be played from 12.30pm."
+    },
+    {
+      "id": "6b146f452786",
+      "title": "Milan-Cagliari, yet another sold-out at San Siro: 74 thousand spectators expected to push the Rossoneri",
+      "url": "https://www.milannews.it/news/milan-cagliari-ennesimo-sold-out-a-san-siro-attesi-74-mila-spettatori-per-spingere-i-rossoneri-618299",
+      "source": "milannews.it",
+      "date": "2026-05-24T05:12:00+00:00",
+      "summary": "This evening Massimiliano Allegri's Rossoneri will face Fabio Pisacane's Cagliari at home."
+    },
+    {
+      "id": "44e17fd6ba9b",
+      "title": "This evening Milan-Cagliari, the probable lineup of the Rossoneri: Modric on the bench?",
+      "url": "https://www.milannews.it/news/questa-sera-milan-cagliari-la-probabile-formazione-dei-rossoneri-modric-in-panchina-618298",
+      "source": "milannews.it",
+      "date": "2026-05-24T05:00:00+00:00",
+      "summary": "The day of the last day of the championship has arrived, the Rossoneri will take to the field this evening to face Pisacane's Cagliari."
+    },
     {
       "id": "c8d0750c6a0e",
       "title": "Lazio says goodbye to Pedro, a tribute on the pitch after the match with Pisa",
@@ -90,92 +170,12 @@
       "summary": "The match between Maurizio Sarri's Lazio and Hiljemark's Pisa has just concluded, concluding its adventure in the top flight. Below is the updated ranking."
     },
     {
-      "id": "b1bb121c9707",
-      "title": "Serie A, Lazio-Pisa 2-1: Pedro wins the last match in biancoceleste",
-      "url": "https://www.milannews.it/news/serie-a-lazio-pisa-2-1-pedro-vince-l-ultima-in-biancoceleste-618305",
-      "source": "milannews.it",
-      "date": "2026-05-23T20:48:27+00:00",
-      "summary": "The season of Lazio and Pisa ended a few minutes ago in the match at the Olimpico won by the hosts 2-1."
-    },
-    {
-      "id": "df04be279f12",
-      "title": "Mancini: \"For Milan the Champions League is the natural habitat: it is essential to return there for the prestige\"",
-      "url": "https://www.milannews.it/news/mancini-per-il-milan-la-champions-e-l-habitat-naturale-fondamentale-tornarci-per-il-prestigio-618291",
-      "source": "milannews.it",
-      "date": "2026-05-23T20:36:07+00:00",
-      "summary": "Qualification for the Champions League has already been achieved by Inter and Napoli, tomorrow it will be their turn to occupy the last two places and there are as many as four teams dreaming of a place in the Europe that counts."
-    },
-    {
       "id": "51a328d65dbe",
       "title": "Thiago Silva drops hint on career path after Milan and Chelsea reports",
       "url": "https://football-italia.net/thiago-silva-drops-hint-career-milan-chelsea/",
       "source": "football-italia.net",
       "date": "2026-05-23T20:34:53+00:00",
       "summary": "Thiago Silva has been linked with a return to Milan or a new coaching role..."
-    },
-    {
-      "id": "1d79dfa426a8",
-      "title": "Milan and the times they played at San Siro on the last day: the data is positive",
-      "url": "https://www.milannews.it/news/il-milan-e-le-volte-che-ha-giocato-a-san-siro-all-ultima-giornata-il-dato-e-positivo-618169",
-      "source": "milannews.it",
-      "date": "2026-05-23T20:24:00+00:00",
-      "summary": "Massimiliano Allegri's Milan is preparing for the last and decisive match of the championship, scheduled for Sunday evening at San Siro against Cagliari."
-    },
-    {
-      "id": "13a95147bba0",
-      "title": "Bianchin: \"Sources close to the ownership categorically deny the possibility of a minority investor joining Milan\"",
-      "url": "https://www.milannews.it/news/bianchin-fonti-vicine-alla-proprieta-smentiscono-categoricamente-la-possibilita-di-un-ingresso-di-un-investitore-di-minoranza-nel-milan-618226",
-      "source": "milannews.it",
-      "date": "2026-05-23T20:12:00+00:00",
-      "summary": "Luca Bianchin, journalist, expressed himself in La Gazzetta dello Sport on the future of AC Milan's ownership and the rumors of possible new investors: \"Sources close to the ownership categorically deny the possibility ..."
-    },
-    {
-      "id": "865996fc2b41",
-      "title": "Milan, Allegri: \"Before Genoa we were dead, the Champions League shifts opinion\"",
-      "url": "https://www.milannews.it/news/milan-allegri-prima-di-genova-eravamo-morti-la-champions-sposta-l-opinione-618280",
-      "source": "milannews.it",
-      "date": "2026-05-23T20:00:10+00:00",
-      "summary": "(ANSA) - MILAN, MAY 23 - \"Before Genoa we were dead, then we were all alive. Tomorrow we have the chance to stay alive."
-    },
-    {
-      "id": "63b8c5da1999",
-      "title": "After a year here we go again, Conceiçao also says goodbye to Al-Ittihad",
-      "url": "https://www.milannews.it/news/dopo-un-anno-ci-risiamo-conceicao-ai-saluti-anche-con-l-al-ittihad-618209",
-      "source": "milannews.it",
-      "date": "2026-05-23T19:48:00+00:00",
-      "summary": "A year ago, more or less these days, Sergio Conceiçao sat on the bench of Milan for the last time, at the end of an experience that began very well with the sensational victory in the Supercoppa Italiana&n ..."
-    },
-    {
-      "id": "5855908c361f",
-      "title": "Pellegatti: \"Ibra's relationship with Allegri is a worn-out, frayed relationship. It never existed\"",
-      "url": "https://www.milannews.it/news/pellegatti-quello-di-ibra-con-allegri-e-un-rapporto-logoro-sfilacciato-non-c-e-mai-stato-618236",
-      "source": "milannews.it",
-      "date": "2026-05-23T19:36:20+00:00",
-      "summary": "Carlo Pellegatti, journalist, expressed himself on Radio Tutto Napoli on the future of Massimiliano Allegri."
-    },
-    {
-      "id": "0456271c8678",
-      "title": "Cagliari, Pisacane counts the absentees ahead of the match at San Siro",
-      "url": "https://www.milannews.it/l-avversario/cagliari-pisacane-fa-la-conta-degli-assenti-in-vista-della-gara-di-san-siro-618287",
-      "source": "milannews.it",
-      "date": "2026-05-23T19:24:13+00:00",
-      "summary": "To access the next edition of the Champions League, tomorrow evening Milan has only one mission and only one possible result (if they do not want to rely on the results of other fields): win against Cagliari at San Siro."
-    },
-    {
-      "id": "9a34911000d3",
-      "title": "De Paola: \"For me both Allegri and Tare will remain, but clarity is needed\"",
-      "url": "https://www.milannews.it/news/de-paola-per-me-rimarranno-sia-allegri-che-tare-ma-serve-chiarezza-618198",
-      "source": "milannews.it",
-      "date": "2026-05-23T19:12:24+00:00",
-      "summary": "During the usual appointment with Maracanà, a program broadcast on the frequencies of TMW Radio, director Paolo De Paola focused in particular on the moment that Milan is experiencing, on but above all off the pitch ..."
-    },
-    {
-      "id": "a13bf1bcc403",
-      "title": "Allegri, future still at Milan? Garbo's opinion",
-      "url": "https://www.milannews.it/news/allegri-futuro-ancora-al-milan-l-opinione-di-garbo-618179",
-      "source": "milannews.it",
-      "date": "2026-05-23T19:00:00+00:00",
-      "summary": "The most important moment of the season has arrived for Milan."
     },
     {
       "id": "636c8acff4e3",
