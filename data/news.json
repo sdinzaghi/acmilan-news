@@ -1,101 +1,205 @@
 {
-  "lastUpdated": "2026-05-25T04:42:30.126880+00:00",
+  "lastUpdated": "2026-05-25T08:55:35.963789+00:00",
   "articles": [
+    {
+      "id": "09ec0fe62f6c",
+      "title": "GdS: ‘The Diavolo in Hell’  – Milan collapse in season finale and summer changes",
+      "url": "https://sempremilan.com/milan-collapse-season-finale-summer-changes",
+      "source": "sempremilan.com",
+      "date": "2026-05-25T08:50:00+00:00",
+      "summary": "This summer, AC Milan were set to have big plans to take the next step forward. However, they have now suffered a major blow.  Yesterday’s defeat to Cagliari was a shambles. Milan were horrific on the pitch and did not look like a side that wanted to play in Europe next season. Indeed, there was […]"
+    },
+    {
+      "id": "ab84922e1edd",
+      "title": "What will Ibrahimovic's role be? Its scope should be limited to the development of commercial projects in the United States",
+      "url": "https://www.milannews.it/news/quale-sara-il-ruolo-di-ibrahimovic-il-suo-raggio-d-azione-dovrebbe-limitarsi-allo-sviluppo-di-progetti-commerciali-negli-stati-uniti-618473",
+      "source": "milannews.it",
+      "date": "2026-05-25T08:48:28+00:00",
+      "summary": "The revolution at the Rossoneri after the failure to qualify for the Champions League will concern all the managers."
+    },
+    {
+      "id": "7b74cdccacc0",
+      "title": "Milan disaster: once again no manager showed his face",
+      "url": "https://www.milannews.it/news/disastro-milan-ancora-una-volta-nessun-dirigente-ci-ha-messo-la-faccia-618476",
+      "source": "milannews.it",
+      "date": "2026-05-25T08:38:44+00:00",
+      "summary": "Milan's season, which was supposed to be one of rebirth, could not have ended in a worse way: after being in the top four for practically the entire championship, with yesterday's defeat against Cagliari, the Rossoneri closed ..."
+    },
+    {
+      "id": "6cbf28cad9b5",
+      "title": "LIVE MN - Live coverage of the aftermath of the bankruptcy from Casa Milan. At 10.25 Furlani arrived",
+      "url": "https://www.milannews.it/news/live-mn-da-casa-milan-la-diretta-del-dopo-fallimento-alle-10-25-e-arrivato-furlani-618477",
+      "source": "milannews.it",
+      "date": "2026-05-25T08:38:24+00:00",
+      "summary": "10.25 - The day after Milan's sporting failure, the first manager to arrive at the headquarters is the Rossoneri CEO Giorgio Furlani."
+    },
+    {
+      "id": "1ed0d1d3c90f",
+      "title": "Milan and Allegri's faults. CorSport: \"Under accusation\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-milan-e-le-colpe-di-allegri-il-corsport-sotto-accusa-618449",
+      "source": "milannews.it",
+      "date": "2026-05-25T08:28:00+00:00",
+      "summary": "It was supposed to be the season of the definitive relaunch, but instead it turned into the year of disappointment and missed opportunities."
+    },
+    {
+      "id": "87d889974a71",
+      "title": "MN - At 10.25am the first manager arrives at Casa Milan: it's Furlani. Waiting for the others",
+      "url": "https://www.milannews.it/news/mn-alle-10-25-arriva-il-primo-dirigente-a-casa-milan-e-furlani-attesa-per-gli-altri-618481",
+      "source": "milannews.it",
+      "date": "2026-05-25T08:25:25+00:00",
+      "summary": "At 10.25am on day one after the sporting failure, the first manager arrived at Casa Milan: it is Giorgio Furlani."
+    },
+    {
+      "id": "7f600ee3d3ec",
+      "title": "MN: Allegri’s future in doubt after Champions League failure – the situation",
+      "url": "https://sempremilan.com/allegri-future-in-doubt-champions-league-failure",
+      "source": "sempremilan.com",
+      "date": "2026-05-25T08:25:00+00:00",
+      "summary": "Throughout this season, Massimiliano Allegri has stated that AC Milan’s only aim was to reach the Champions League. However, they failed to qualify. It has been a season of Champions League ambitions, rather than hopes for the Scudetto, even when it was a feasible goal. Now, the egg is on the face o"
+    },
+    {
+      "id": "fe2c53525955",
+      "title": "Condò on Milan: \"A club in disarray and a team that was empty in the last and decisive quarter of the season\"",
+      "url": "https://www.milannews.it/news/condo-sul-milan-un-club-allo-sbando-e-una-squadra-che-nell-ultimo-e-decisivo-quarto-di-stagione-e-stata-un-sacco-vuoto-618469",
+      "source": "milannews.it",
+      "date": "2026-05-25T08:18:37+00:00",
+      "summary": "Paolo Condò, on the pages of Corriere della Sera, commented on last night's results in Serie A as follows: \"The sporting effect of what happened, as far as it may be of interest, is that the coveted contemporary ..."
+    },
+    {
+      "id": "785b734e4f50",
+      "title": "Order: \"It's not the first time that under the finish line banner the last Milan has started to stutter\"",
+      "url": "https://www.milannews.it/news/ordine-non-e-la-prima-volta-che-sotto-lo-striscione-del-traguardo-l-ultimo-milan-ha-cominciato-a-balbettare-618458",
+      "source": "milannews.it",
+      "date": "2026-05-25T08:10:00+00:00",
+      "summary": "The night against Cagliari marks one of the lowest points in Milan's recent history."
+    },
+    {
+      "id": "cac4a597aa43",
+      "title": "Milan, total revolution. Cardinale has decided: via Furlani, Moncada and Tare",
+      "url": "https://www.milannews.it/primo-piano/milan-rivoluzione-totale-cardinale-ha-deciso-via-furlani-moncada-e-tare-618454",
+      "source": "milannews.it",
+      "date": "2026-05-25T08:00:40+00:00",
+      "summary": "The failure is total, as is the revolution that Gerry Cardinale has in mind."
+    },
+    {
+      "id": "abfce59354ca",
+      "title": "Gallery: ‘A nightmare at San Siro’, ‘Allegri, Furlani and Tare at risk’ – Today’s front pages in Italy",
+      "url": "https://sempremilan.com/front-pages-italy-25-may-cagliari",
+      "source": "sempremilan.com",
+      "date": "2026-05-25T08:00:00+00:00",
+      "summary": "“A sensational finale. Roma and Como in the Champions League. Milan and Juve out. Allegri collapses against Cagliari. Max, three defeats in four games.” AC Milan completed their sensational late-season collapse at San Siro on Sunday night, losing 2-1 to Cagliari to finish fifth. Milan went into the "
+    },
+    {
+      "id": "ba9d0e1c4bd1",
+      "title": "Milan directors expected to be fired, Allegri on the brink",
+      "url": "https://football-italia.net/milan-directors-fired-allegri-on-the-brink/",
+      "source": "football-italia.net",
+      "date": "2026-05-25T07:49:49+00:00",
+      "summary": "Milan have missed out on Champions League qualification and according to La Gazzetta dello Sport,..."
+    },
+    {
+      "id": "58f095e51fd7",
+      "title": "Milan, Cardinale remains in the city: we need to find order in a society divided into factions and torn by internal strife",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-cardinale-resta-in-citta-serve-trovare-ordine-in-una-societa-divisa-in-correnti-e-lacerata-da-lotte-intestine-618468",
+      "source": "milannews.it",
+      "date": "2026-05-25T07:49:33+00:00",
+      "summary": "According to what Corriere della Sera reports on newsstands today, Gerry Cardinale, who landed in Milan yesterday to attend the last match of the season against Cagliari at San Siro, will remain in the city because there are too many ..."
+    },
+    {
+      "id": "1b4800bf9e5b",
+      "title": "Backstory. Allegri at the end of the match: “It takes love and passion from everyone!”",
+      "url": "https://www.milannews.it/news/retroscena-allegri-a-fine-partita-ci-vuole-amore-e-passione-da-parte-di-tutti-618472",
+      "source": "milannews.it",
+      "date": "2026-05-25T07:39:30+00:00",
+      "summary": "These are very hot hours in the Rossoneri home after the defeat against Cagliari and the failure to qualify for the Champions League."
+    },
+    {
+      "id": "5f51545a231e",
+      "title": "AC Milan debacle! The QS on the front page: \"What a disaster\"",
+      "url": "https://www.milannews.it/rassegna-stampa/debacle-del-milan-il-qs-in-prima-pagina-che-disastro-618447",
+      "source": "milannews.it",
+      "date": "2026-05-25T07:29:00+00:00",
+      "summary": "Milan's season ends amid bitterness and controversy, with their elimination from the Champions League race taking on the contours of a failure that is difficult to ignore."
+    },
+    {
+      "id": "3534df43062b",
+      "title": "Today’s Papers – Juventus and Milan out, everyone loses in Turin derby",
+      "url": "https://football-italia.net/todays-papers-juve-milan-out-turin-derby/",
+      "source": "football-italia.net",
+      "date": "2026-05-25T07:24:56+00:00",
+      "summary": "La Gazzetta dello Sport Incredible Champions, Cardinale’s revolution Milan, Juve out, Roma and Como party..."
+    },
+    {
+      "id": "c344d06f4301",
+      "title": "From Modric and Rabiot to Leao and Pulisic up to Maignan: will their future also be far from Milan?",
+      "url": "https://www.milannews.it/rassegna-stampa/da-modric-e-rabiot-a-leao-e-pulisic-fino-a-maignan-anche-il-loro-futuro-sara-lontano-dal-milan-618467",
+      "source": "milannews.it",
+      "date": "2026-05-25T07:19:11+00:00",
+      "summary": "The revolution in Milan after the failure to qualify for the Champions League could not only concern the management and the coach, but also the AC Milan squad."
+    },
+    {
+      "id": "27ad854eb9fb",
+      "title": "Il Corriere dello Sport on Milan: \"The disaster is complete\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corriere-dello-sport-sul-milan-il-disastro-e-completo-618448",
+      "source": "milannews.it",
+      "date": "2026-05-25T07:10:00+00:00",
+      "summary": "Milan exits the season with more questions than certainties."
+    },
+    {
+      "id": "694a1d32d3fa",
+      "title": "Max, there's a feeling of farewell. La Gazzetta confirms: \"Allegri is now in the balance\"",
+      "url": "https://www.milannews.it/rassegna-stampa/max-c-e-aria-di-addio-la-gazzetta-conferma-allegri-ora-e-in-bilico-618466",
+      "source": "milannews.it",
+      "date": "2026-05-25T06:59:54+00:00",
+      "summary": "La Gazzetta dello Sport confirms last night's preview from Milannews.it this morning immediately after Milan's defeat against Cagliari and headlines this morning: \"Allegri is now in the balance\"."
+    },
+    {
+      "id": "4cd8498842d3",
+      "title": "Milan in the abyss! Tuttosport opening: \"Fans against everyone\"",
+      "url": "https://www.milannews.it/news/milan-nell-abisso-tuttosport-in-apertura-tifosi-contro-tutti-618446",
+      "source": "milannews.it",
+      "date": "2026-05-25T06:50:00+00:00",
+      "summary": "For Milan, yesterday's defeat is destined to leave profound marks."
+    },
+    {
+      "id": "f26ac68543a0",
+      "title": "Cuomo: \"The real drama is that it's Monday morning and the characters from before are still there: Furlani still CEO, Moncada manager and Allegri as coach\"",
+      "url": "https://www.milannews.it/news/cuomo-il-dramma-vero-e-che-e-lunedi-mattina-e-ci-sono-ancora-i-personaggi-di-prima-furlani-ancora-ad-moncada-dt-e-allegri-allenatore-618464",
+      "source": "milannews.it",
+      "date": "2026-05-25T06:40:35+00:00",
+      "summary": "Michael Cuomo, journalist, expressed himself as follows on Carlos Passerini's Youtube channel about what happened to Milan after last night's failure: \"The real drama is not that there is no one at Milan now to blame ..."
+    },
+    {
+      "id": "9999b485be92",
+      "title": "Total revolution. Gazzetta: \"Cardinal changes everything. Management already eliminated, Milan cuts Furlani and Tare\"",
+      "url": "https://www.milannews.it/rassegna-stampa/rivoluzione-totale-gazzetta-cardinale-cambia-tutto-dirigenza-gia-azzerata-il-milan-taglia-furlani-e-tare-618462",
+      "source": "milannews.it",
+      "date": "2026-05-25T06:30:24+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning: \"Cardinal changes everything. Management already eliminated, Milan cuts Furlani and Tare\"."
+    },
+    {
+      "id": "6816445ef5ef",
+      "title": "Milan, no Champions League! CorSport on the front page: \"Great killers\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-niente-champions-il-corsport-in-prima-pagina-ammazzagrandi-618445",
+      "source": "milannews.it",
+      "date": "2026-05-25T06:20:00+00:00",
+      "summary": "Milan ended the season in the worst possible way, overwhelmed by disappointment and out of the next Champions League."
+    },
+    {
+      "id": "179e9430e4d3",
+      "title": "Sensational Milan: no Champions League! La Gazzetta opening: \"Outside\"",
+      "url": "https://www.milannews.it/rassegna-stampa/clamoroso-milan-niente-champions-la-gazzetta-in-apertura-fuori-618444",
+      "source": "milannews.it",
+      "date": "2026-05-25T06:10:00+00:00",
+      "summary": "An evening to forget for Milan! The exclusion from the next Champions League represents a serious failure, perhaps the most bitter in recent years."
+    },
     {
       "id": "5259f38571d2",
       "title": "Background from San Siro: the management immediately leaves, Allegri's resignation and the meeting. What happened",
       "url": "https://www.milannews.it/primo-piano/retroscena-da-san-siro-la-dirigenza-subito-via-le-dimissioni-di-allegri-e-la-riunione-cosa-e-successo-618437",
       "source": "milannews.it",
-      "date": "2026-05-25T04:00:37+00:00",
+      "date": "2026-05-25T06:00:00+00:00",
       "summary": "What shouldn't have happened happened. And maybe now what was supposed to happen will happen."
-    },
-    {
-      "id": "db306f570fc4",
-      "title": "Adani demolishes Allegri: \"Father time! Those who live by being smart are not rewarded. Milan is not a cinema!\"",
-      "url": "https://www.milannews.it/news/adani-demolisce-allegri-padre-tempo-chi-vive-facendo-il-furbo-non-viene-premiato-il-milan-non-e-un-cinema-618443",
-      "source": "milannews.it",
-      "date": "2026-05-25T00:24:59+00:00",
-      "summary": "Lele Adani, former footballer and commentator, expressed himself as follows to La Domenica Sportiva on Massimiliano Allegri: \"If you play you have a better chance of winning, if you speculate and float to get by, and above all you rely on ..."
-    },
-    {
-      "id": "d044aa93e0fa",
-      "title": "Pellegatti: \"It's truly one of the lowest points in Milan's history\"",
-      "url": "https://www.milannews.it/news/pellegatti-e-veramente-uno-dei-punti-piu-bassi-della-storia-del-milan-618435",
-      "source": "milannews.it",
-      "date": "2026-05-24T23:00:00+00:00",
-      "summary": "A disaster and a failure. There are no other words to describe AC ​​Milan's non-qualification for the Champions League."
-    },
-    {
-      "id": "c17e7f461d15",
-      "title": "LIVE MN - Allegri: \"I had to find the solutions, I'm the one responsible. Resignation? We need clarity and coolness\"",
-      "url": "https://www.milannews.it/news/live-mn-allegri-dovevo-trovare-io-la-soluzioni-sono-io-il-responsabile-dimissioni-serve-lucidita-e-freddezza-618412",
-      "source": "milannews.it",
-      "date": "2026-05-24T22:53:51+00:00",
-      "summary": "Massimiliano Allegri, Milan coach, is present in the press conference at the end of Milan-Cagliari, a match valid for the 38th matchday of Serie A."
-    },
-    {
-      "id": "0648bf0a1b00",
-      "title": "Cardinale's Milan is a disaster. And the results of his management confirm this",
-      "url": "https://www.milannews.it/news/il-milan-di-cardinale-e-un-disastro-e-i-risultati-della-sua-gestione-lo-confermano-618418",
-      "source": "milannews.it",
-      "date": "2026-05-24T22:48:28+00:00",
-      "summary": "Cardinale's Milan is a disaster, and the results of RedBird management confirm this."
-    },
-    {
-      "id": "ee13bd42e52b",
-      "title": "Milan, negative record. 70 points and out of the top four: first time in Serie A history",
-      "url": "https://www.milannews.it/news/milan-record-negativo-70-punti-e-fuori-dalle-prime-quattro-prima-volta-nella-storia-della-serie-a-618429",
-      "source": "milannews.it",
-      "date": "2026-05-24T22:36:26+00:00",
-      "summary": "Milan scored 70 points in a Serie A season (considering three points for a win as usual), finishing the tournament outside the top four positions for the first time in their history in the competition. Opta reports it."
-    },
-    {
-      "id": "b3b722d39880",
-      "title": "MN - The management has left, but there is a meeting underway in the locker room with Allegri. Who is present",
-      "url": "https://www.milannews.it/news/mn-la-dirigenza-e-andata-via-ma-c-e-una-riunione-in-corso-in-spogliatoio-con-allegri-chi-e-presente-618434",
-      "source": "milannews.it",
-      "date": "2026-05-24T22:26:50+00:00",
-      "summary": "San Siro has now emptied but someone still remains in the Rossoneri locker room. In fact there is a meeting underway in the locker room between Massimiliano Allegri, Mike Maignan, Matteo Gabbia and Adrien Rabiot."
-    },
-    {
-      "id": "42a777c8f3f0",
-      "title": "Currò: \"The Milan club has a simple option: recall Maldini quickly. If not now, when?\"",
-      "url": "https://www.milannews.it/news/curro-la-societa-milan-ha-un-opzione-semplice-richiamare-maldini-in-fretta-se-non-ora-quando-618433",
-      "source": "milannews.it",
-      "date": "2026-05-24T22:21:46+00:00",
-      "summary": "The well-known journalist Enrico Currò entrusts his thoughts to"
-    },
-    {
-      "id": "a7aeda868455",
-      "title": "Serie A, the final ranking: Milan fifth. With the result in Turin, a draw would have been enough to go to the Champions League",
-      "url": "https://www.milannews.it/news/serie-a-la-classifica-finale-milan-quinto-col-risultato-di-torino-sarebbe-bastato-un-pareggio-per-andare-in-champions-618426",
-      "source": "milannews.it",
-      "date": "2026-05-24T22:11:28+00:00",
-      "summary": "Juventus draws against Torino, the Mole derby ends 2-2, and makes the evening even more mocking and bitter."
-    },
-    {
-      "id": "b6a0b181accb",
-      "title": "MN - Allegri also in the balance: the dismissal of the Rossoneri coach is being considered",
-      "url": "https://www.milannews.it/news/mn-anche-allegri-in-bilico-si-valuta-l-esonero-del-tecnico-rossonero-618432",
-      "source": "milannews.it",
-      "date": "2026-05-24T22:10:17+00:00",
-      "summary": "Not just the sporting director Igli Tare and the managing director Giorgio Furlani. After this evening's defeat, Massimiliano Allegri's position would also be heavily in the balance."
-    },
-    {
-      "id": "b025a665549e",
-      "title": "A disaster that overturns everything. Allegri-Milan, goodbye very close. Tare can also leave",
-      "url": "https://www.milannews.it/editoriale/un-disastro-che-ribalta-tutto-allegri-milan-addio-molto-vicino-anche-tare-puo-lasciare-618431",
-      "source": "milannews.it",
-      "date": "2026-05-24T22:02:40+00:00",
-      "summary": "The whole castle collapsed, with the moat and the crocodiles. Milan loses on the last day with the same result with which they started the championship, i.e. 1-2, but this hurts like hell."
-    },
-    {
-      "id": "3221bed24cb0",
-      "title": "LIVE MN - Rodriguez: \"First goal of my career, at San Siro, against a team like Milan: I'm happy\"",
-      "url": "https://www.milannews.it/news/live-mn-rodriguez-primo-gol-della-carriera-a-san-siro-contro-una-squadra-come-il-milan-sono-contento-618424",
-      "source": "milannews.it",
-      "date": "2026-05-24T21:57:00+00:00",
-      "summary": "Juan Rodriguez, Cagliari defender, is present in the press conference at the end of Milan-Cagliari, a match valid for the 38th matchday of Serie A. Follow his statements live with the live text on MilanNews."
     },
     {
       "id": "bff331fed9ef",
@@ -106,22 +210,6 @@
       "summary": "Massimiliano Allegri does not put any blame on the players for AC Milan’s shocking collapse to miss out on the top four. Milan went into the game against Cagliari to close out 2025-26 knowing a win would secure their Champions League spot. The Sardinian side prevailed 1-2 at San Siro which was a bad"
     },
     {
-      "id": "bee5942cd4f5",
-      "title": "MN - No AC Milan player will speak in the post AC Milan-Cagliari",
-      "url": "https://www.milannews.it/news/mn-nessun-calciatore-del-milan-parlera-nel-post-milan-cagliari-618425",
-      "source": "milannews.it",
-      "date": "2026-05-24T21:56:14+00:00",
-      "summary": "No AC Milan player will speak in the post AC Milan-Cagliari. MilanNews learns this."
-    },
-    {
-      "id": "5170844e155c",
-      "title": "MN - Milan-Allegri, there is an air of separation: very hot next few hours",
-      "url": "https://www.milannews.it/primo-piano/mn-milan-allegri-c-e-aria-di-separazione-prossime-ore-caldissime-618423",
-      "source": "milannews.it",
-      "date": "2026-05-24T21:52:52+00:00",
-      "summary": "Milan's failure to qualify for the Champions League puts Massimiliano Allegri's position in strong question."
-    },
-    {
       "id": "70bdb4276f88",
       "title": "Allegri: ‘Nobody expected Milan defeat, but players gave everything’",
       "url": "https://football-italia.net/allegri-nobody-expected-milan-defeat-players/",
@@ -130,60 +218,12 @@
       "summary": "Max Allegri admits ‘nobody expected’ Milan to lose at home to Cagliari and miss out..."
     },
     {
-      "id": "71d8d5b94c30",
-      "title": "LIVE MN - Pisacane: \"Closing like this does justice to the journey made. We are happy\"",
-      "url": "https://www.milannews.it/news/live-mn-pisacane-chiudere-cosi-rende-giustizia-al-percorso-fatto-siamo-felici-618413",
-      "source": "milannews.it",
-      "date": "2026-05-24T21:52:24+00:00",
-      "summary": "Fabio Pisacane, Cagliari coach, is present in the press conference at the end of Milan-Cagliari, a match valid for the 38th matchday of Serie A. Follow his statements live with the live text on MilanNews."
-    },
-    {
-      "id": "ddc7d5999d6e",
-      "title": "Gimenez ended this Serie A season without scoring a single goal",
-      "url": "https://www.milannews.it/news/gimenez-ha-chiuso-questa-stagione-di-serie-a-senza-aver-segnato-neanche-un-gol-618397",
-      "source": "milannews.it",
-      "date": "2026-05-24T21:48:33+00:00",
-      "summary": "And in the end the words of Santiago Gimenez in the interviews released over the course of these months have left the time they find."
-    },
-    {
-      "id": "1e337c78dd3b",
-      "title": "Allegri: \"I can't blame the players for anything. Future? We'll have to be very clear-headed in evaluating the year carefully\"",
-      "url": "https://www.milannews.it/primo-piano/allegri-non-posso-rimproverare-nulla-ai-giocatori-futuro-bisognera-essere-molto-lucidi-nel-valutare-bene-l-annata-618421",
-      "source": "milannews.it",
-      "date": "2026-05-24T21:47:24+00:00",
-      "summary": "Massimiliano Allegri spoke to DAZN after the match about the disastrous defeat against Cagliari which cost Milan qualification for the next Champions League."
-    },
-    {
       "id": "867a1e2af51c",
       "title": "No Champions League AGAIN: Instant reaction to Milan 1-2 Cagliari",
       "url": "https://sempremilan.com/instant-reaction-milan-1-2-cagliari-2025-26",
       "source": "sempremilan.com",
       "date": "2026-05-24T21:43:39+00:00",
       "summary": "Lorenzo shared his thoughts on AC Milan’s Champions League failure (yet again) straight after the full-time whistle in the game against Cagliari.  Milan had one job to do this evening and that was to win against Cagliari. And if not that, they at least needed a draw to keep their Champions League pu"
-    },
-    {
-      "id": "b9ded427ccd0",
-      "title": "Cagliari, Pisacane: \"The players brought out important motivations in a difficult match\"",
-      "url": "https://www.milannews.it/l-avversario/cagliari-pisacane-i-giocatori-hanno-tirato-fuori-motivazioni-importanti-in-una-partita-non-semplice-618417",
-      "source": "milannews.it",
-      "date": "2026-05-24T21:34:34+00:00",
-      "summary": "Fabio Pisacane spoke to DAZN after Milan-Cagliari. These are the statements of the Sardinian coach."
-    },
-    {
-      "id": "b53b054017c8",
-      "title": "Matri: \"It seemed like Cagliari was fighting for something important. The attitude of the players scared me\"",
-      "url": "https://www.milannews.it/news/matri-sembrava-che-fosse-il-cagliari-a-lottare-per-qualcosa-d-importante-mi-ha-spaventato-l-atteggiamento-dei-giocatori-618415",
-      "source": "milannews.it",
-      "date": "2026-05-24T21:23:55+00:00",
-      "summary": "Milan loses against Cagliari and goes to the Europa League, ruining a season that had also shown good things."
-    },
-    {
-      "id": "919acd4750a2",
-      "title": "Gerry Cardinale left immediately after the final whistle",
-      "url": "https://www.milannews.it/news/gerry-cardinale-e-andato-via-subito-dopo-il-fischio-finale-618416",
-      "source": "milannews.it",
-      "date": "2026-05-24T21:22:30+00:00",
-      "summary": "At the final whistle of Milan-Cagliari 1-2, a match that officially ousted the Rossoneri club from the Champions League in a sensational manner, with the Devil having had his destiny in his hands for months, not only Zlatan Ibrahimov..."
     },
     {
       "id": "d7f61471f217",
@@ -386,36 +426,12 @@
       "summary": "Paolo Maldini is in confirmed talks with Fenerbahce, and it’s reported he could have a..."
     },
     {
-      "id": "ed96365e2ca1",
-      "title": "Longo: Lunch meeting underway between Cardinale and Ibrahimovic  – the situation",
-      "url": "https://sempremilan.com/longo-lunch-meeting-cardinale-ibrahimovic",
-      "source": "sempremilan.com",
-      "date": "2026-05-24T12:50:00+00:00",
-      "summary": "Gerry Cardinale and Zlatan Ibrahimovic are currently having lunch together in Milan, presumably talking about the future of the AC Milan project.  In recent days, with reports suggesting that Massimiliano Allegri could actually remain as the head coach of Milan, attention has turned to Ibrahimovic. "
-    },
-    {
       "id": "083d6fa2a3d2",
       "title": "Germany legend Matthaus backs compatriot Goretzka to thrive at Milan",
       "url": "https://football-italia.net/germany-legend-matthaus-goretzka-milan/",
       "source": "football-italia.net",
       "date": "2026-05-24T12:24:38+00:00",
       "summary": "Lothar Matthaus has publicly backed Leon Goretzka to join AC Milan, insisting he can picture..."
-    },
-    {
-      "id": "0ac30894c4b2",
-      "title": "The five key battles that could win or lose the game for Milan against Cagliari",
-      "url": "https://sempremilan.com/five-key-battles-milan-cagliari-2025-26",
-      "source": "sempremilan.com",
-      "date": "2026-05-24T12:20:01+00:00",
-      "summary": "AC Milan are up against Cagliari in the final game of the season, hoping to clinch Champions League football, and there are some key battles to take note of.  In order to secure a top-four finish, without relying on others, Milan simply need to win the game against Cagliari tonight. They are obvious"
-    },
-    {
-      "id": "78a267c08338",
-      "title": "Schira: Milan schedule meeting with Goretzka’s agents for next week – their offer",
-      "url": "https://sempremilan.com/schira-milan-goretzka-next-week-offer",
-      "source": "sempremilan.com",
-      "date": "2026-05-24T11:50:00+00:00",
-      "summary": "AC Milan are expected to have a meeting with the agents of Leon Goretzka next week to table an offer, according to a report.  Based on reports in the last few weeks, Goretzka is one of the Rossoneri’s key targets to strengthen the team this summer. Just this morning, Gazzetta dello Sport reported th"
     },
     {
       "id": "099cac07e994",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-05-24T09:05:00+00:00",
       "summary": "Antonio Conte’s expected departure from Napoli is already producing ripple effects in the transfer market,..."
-    },
-    {
-      "id": "d72d8c77dbc2",
-      "title": "Modric prepared to stay at Milan but future hinges on 2 conditions",
-      "url": "https://football-italia.net/modric-prepared-to-stay-at-milan-but-future-hinges-on-2-conditions/",
-      "source": "football-italia.net",
-      "date": "2026-05-24T08:25:00+00:00",
-      "summary": "Luka Modric is willing to extend his stay at AC Milan for another season, but..."
-    },
-    {
-      "id": "3995129c3786",
-      "title": "Today’s Papers – Milan and Juventus go for broke on final day for Champions League place",
-      "url": "https://football-italia.net/todays-papers-milan-and-juventus-go-for-broke-on-final-day-for-champions-league-place/",
-      "source": "football-italia.net",
-      "date": "2026-05-24T07:46:11+00:00",
-      "summary": "Here is a look at the key football stories making the front pages of Italy’s..."
     }
   ]
 }
