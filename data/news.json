@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-05-25T19:27:40.114312+00:00",
+  "lastUpdated": "2026-05-25T21:04:09.663383+00:00",
   "articles": [
+    {
+      "id": "d2f3e0a742f0",
+      "title": "Serie A, the decisions of the sports judge: nine players disqualified",
+      "url": "https://www.milannews.it/news/serie-a-le-decisioni-del-giudice-sportivo-nove-giocatori-squalificati-618540",
+      "source": "milannews.it",
+      "date": "2026-05-25T21:00:00+00:00",
+      "summary": "(ANSA) - ROME, MAY 25 - Serie A sports judge, Gerardo Mastrandrea, has disqualified nine players in relation to the matches on the last day of the championship."
+    },
+    {
+      "id": "e549541fdd69",
+      "title": "Redbird's very harsh message: \"Milan's season was an unequivocal failure\"",
+      "url": "https://www.milannews.it/news/il-durissimo-messaggio-di-redbird-la-stagione-del-milan-un-fallimento-inequivocabile-618538",
+      "source": "milannews.it",
+      "date": "2026-05-25T20:50:00+00:00",
+      "summary": "(ANSA) - MILAN, MAY 25 - \"Last night's disappointing defeat has transformed this season into an unequivocal failure\"."
+    },
+    {
+      "id": "6aeb5e6c1db3",
+      "title": "Cagliari hadn't won against Milan at San Siro for 29 years",
+      "url": "https://www.milannews.it/news/il-cagliari-non-vinceva-contro-il-milan-a-san-siro-da-29-anni-618428",
+      "source": "milannews.it",
+      "date": "2026-05-25T20:40:00+00:00",
+      "summary": "Milan ends this season in fifth place in the standings. An unparalleled disaster for Massimiliano Allegri's team, which loses again at San Siro against Cagliari for the first time in 29 years."
+    },
+    {
+      "id": "8312c2e2fc8c",
+      "title": "Mancini on the coach of the future: \"I believe that Milan will want to take a different path\"",
+      "url": "https://www.milannews.it/news/mancini-sull-allenatore-del-futuro-credo-che-il-milan-vorra-prendere-una-strada-diversa-618551",
+      "source": "milannews.it",
+      "date": "2026-05-25T20:30:40+00:00",
+      "summary": "After having immediately sacked four central AC Milan figures - coach Allegri, CEO Furlani, sporting director Tare and director Moncada - now Gerry Cardinale needs to quickly and with clear ideas choose the ..."
+    },
+    {
+      "id": "530793b4f8a1",
+      "title": "The 4 exemptions have a cost. Who and how much will Milan still have to pay",
+      "url": "https://www.milannews.it/news/i-4-esoneri-hanno-un-costo-chi-e-quanto-dovra-pagare-ancora-il-milan-618562",
+      "source": "milannews.it",
+      "date": "2026-05-25T20:20:00+00:00",
+      "summary": "The decision that Gerry Cardinale took, after intense two-day consultations with Massimo Calvelli and Zlatan Ibrahimovic, to remove Massimiliano Allegri, Giorgio Furlani, Igli Tare and Geoffrey Moncada with immediate effect, does not lead ..."
+    },
+    {
+      "id": "fe6e6d0ecd85",
+      "title": "Simonelli: \"The greeting of reverence for the curves is inappropriate\"",
+      "url": "https://www.milannews.it/news/simonelli-inopportuno-il-saluto-di-riverenza-alle-curve-618483",
+      "source": "milannews.it",
+      "date": "2026-05-25T20:10:09+00:00",
+      "summary": "(ANSA) - ROME, MAY 25 - \"I agree with the Torino coach D'Aversa: it is a cultural problem. I have never understood the psychological subservience that clubs and players have towards the curves."
+    },
+    {
+      "id": "27508217b720",
+      "title": "Major Italy calls up the very young players: Bartesaghi and Camarda are also there",
+      "url": "https://www.milannews.it/news/l-italia-maggiore-convoca-i-giovanissimi-ci-sono-anche-bartesaghi-e-camarda-618547",
+      "source": "milannews.it",
+      "date": "2026-05-25T20:00:22+00:00",
+      "summary": "Italy starts again from coach Silvio Baldini and \"his\" young people."
+    },
+    {
+      "id": "9a88fc12d765",
+      "title": "Report Iraola targeted by Milan last week, Emery also on wish list",
+      "url": "https://football-italia.net/report-iraola-targeted-milan-last-week-emery/",
+      "source": "football-italia.net",
+      "date": "2026-05-25T19:51:25+00:00",
+      "summary": "Sky Sport Italia claim Bournemouth manager Andoni Iraola spoke to Milan over a week ago,..."
+    },
+    {
+      "id": "d526ef323166",
+      "title": "LIVE MN - Furlani, Tare, Allegri and Moncada out from Milan. The coach will be \"Fabregas-style\". Current names: Iraola and Xavi",
+      "url": "https://www.milannews.it/primo-piano/live-mn-fuori-furlani-tare-allegri-e-moncada-dal-milan-l-allenatore-sara-alla-fabregas-i-nomi-attuali-iraola-e-xavi-618477",
+      "source": "milannews.it",
+      "date": "2026-05-25T19:50:24+00:00",
+      "summary": "9.50pm - Today the dismissal of Furlani was made official, like that of Allegri, Tare and Moncada."
+    },
+    {
+      "id": "82635aecb404",
+      "title": "There have been contacts with Adriano Galliani but he will not return to Milan",
+      "url": "https://www.milannews.it/news/con-adriano-galliani-ci-sono-stati-contatti-ma-non-tornera-al-milan-618561",
+      "source": "milannews.it",
+      "date": "2026-05-25T19:50:00+00:00",
+      "summary": "In the four very confusing seasons of Gerry Cardinale's management, in the last year and especially in the last summer the name of Adriano Galliani was back in vogue, also linked to the figure of Massimiliano Allegri with whom he interacted ..."
+    },
+    {
+      "id": "628bdd3eb416",
+      "title": "Di Marzio: \"Ibra will not be sporting director but will have more power and will represent Cardinale\"",
+      "url": "https://www.milannews.it/news/di-marzio-ibra-non-sara-direttore-sportivo-ma-avra-piu-potere-e-rappresentera-cardinale-618560",
+      "source": "milannews.it",
+      "date": "2026-05-25T19:40:34+00:00",
+      "summary": "Only two figures remained next to Gerry Cardinale in these two days in Milan in which the current Rossoneri history was turned upside down between the Four Season Hotel and San Siro."
+    },
+    {
+      "id": "6f5e5548d800",
+      "title": "Rossoneri collapse: Milan from third to fifth place in a single night",
+      "url": "https://www.milannews.it/news/sprofondo-rossonero-milan-dal-terzo-al-quinto-posto-in-una-sola-notte-618471",
+      "source": "milannews.it",
+      "date": "2026-05-25T19:30:54+00:00",
+      "summary": "On the most important night of the year, the one that was supposed to give Milan qualification for the 2026-2027 Champions League, the Rossoneri team melted like snow in the sun and in just one evening they went from third to fifth ..."
+    },
     {
       "id": "9bea4fe7724d",
       "title": "Iraola contacted already last week. As technical director, keep an eye on Bezhani",
@@ -16,14 +112,6 @@
       "source": "milannews.it",
       "date": "2026-05-25T19:20:15+00:00",
       "summary": "Revolution time for Milan, not for the first time since Cardinale arrived."
-    },
-    {
-      "id": "d526ef323166",
-      "title": "LIVE MN - Furlani, Tare, Allegri and Moncada out from Milan. The coach will be \"Fabregas-style\". Current names: Iraola and Xavi",
-      "url": "https://www.milannews.it/primo-piano/live-mn-fuori-furlani-tare-allegri-e-moncada-dal-milan-l-allenatore-sara-alla-fabregas-i-nomi-attuali-iraola-e-xavi-618477",
-      "source": "milannews.it",
-      "date": "2026-05-25T19:10:24+00:00",
-      "summary": "7.35pm - Total shock in the Milan world."
     },
     {
       "id": "cc4940135958",
@@ -130,14 +218,6 @@
       "summary": "While his old club Milan is in shambles, Paolo Maldini confirms he met with Fenerbahce..."
     },
     {
-      "id": "ffbd8e1b260b",
-      "title": "Braglia sure: \"In Milan there was also a technical responsibility\"",
-      "url": "https://www.milannews.it/news/braglia-sicuro-nel-milan-c-a-stata-anche-una-responsabilita-tecnica-618515",
-      "source": "milannews.it",
-      "date": "2026-05-25T18:10:00+00:00",
-      "summary": "The criticisms that rain down on Milan from everywhere are deserved and sacrosanct, considering all the components. Former goalkeeper Simone Braglia also commented negatively during Maracanà on TMW Radio."
-    },
-    {
       "id": "c7b711e53cc4",
       "title": "AC Milan 1-2 Cagliari: Five things we learned – collective capitulation at the crucial moment",
       "url": "https://sempremilan.com/ac-milan-1-2-cagliari-five-things-we-learned",
@@ -154,22 +234,6 @@
       "summary": "Andoni Iraola and Xavi are the top names emerging to take over at Milan after..."
     },
     {
-      "id": "4b97ee2a48ab",
-      "title": "Ravezzani: \"When communicating an exemption, a minimum level of class would be indispensable: does anyone have that in Cardinale's Milan?\"",
-      "url": "https://www.milannews.it/news/ravezzani-nel-comunicare-un-esonero-un-minimo-di-classe-sarebbe-indispensabile-qualcuno-ce-l-ha-nel-milan-di-cardinale-618534",
-      "source": "milannews.it",
-      "date": "2026-05-25T17:40:38+00:00",
-      "summary": "RedBird Capital Partners, Gerry Cardinale's fund, owner of Milan, has officially communicated the dismissal of the four main figures of the club: Mr. Massimiliano Allegri, the managing director..."
-    },
-    {
-      "id": "17659f4cbcb4",
-      "title": "RedBird on the hunt for Furlani's heir: Giovanni Carnevali is among the profiles",
-      "url": "https://www.milannews.it/news/redbird-a-caccia-dell-erede-di-furlani-tra-i-profili-c-e-giovanni-carnevali-618542",
-      "source": "milannews.it",
-      "date": "2026-05-25T17:30:00+00:00",
-      "summary": "The new era of Milan begins today, the first in which owner Gerry Cardinale seems to want to be more present on the pitch with strong decisions."
-    },
-    {
       "id": "5ca2774072a8",
       "title": "Reports: Milan make approach for free agent Iraola after Bournemouth success",
       "url": "https://sempremilan.com/milan-interested-iraola-after-bournemouth-success",
@@ -178,52 +242,12 @@
       "summary": "After qualifying for Europe with Bournemouth, AC Milan have taken an interest in Andoni Iraola to be their next head coach. Changes are rife at Milan and it seems the club are looking to hire a new manager in a very short space of time. Indeed, Massimiliano Allegri was sacked earlier today and the a"
     },
     {
-      "id": "187bc598def1",
-      "title": "Milan have contacted Andoni Iraola's agents: the news from England",
-      "url": "https://www.milannews.it/news/il-milan-ha-contattato-gli-agenti-di-andoni-iraola-le-news-dall-inghilterra-618544",
-      "source": "milannews.it",
-      "date": "2026-05-25T17:29:29+00:00",
-      "summary": "Total shock in the Milan world. Qualification for the next Champions League failed and Furlani, Tare, Allegri and Moncada went."
-    },
-    {
-      "id": "b240c11ceff0",
-      "title": "Milan, at the moment two names are taking shape for the post Allegri: Xavi and Iraola",
-      "url": "https://www.milannews.it/news/milan-al-momento-prendono-corpo-due-nomi-per-il-post-allegri-xavi-e-iraola-618541",
-      "source": "milannews.it",
-      "date": "2026-05-25T17:22:28+00:00",
-      "summary": "With the dismissal of Massimiliano Allegri announced a short while ago, the waltz of names for the Milan bench begins."
-    },
-    {
-      "id": "4862d6b15b84",
-      "title": "Pellegatti doesn't see anything positive: \"What worries me most is the future. Who will make the decisions?\"",
-      "url": "https://www.milannews.it/news/pellegatti-non-vede-positivo-quello-che-mi-preoccupa-di-piu-e-il-futuro-chi-prendera-le-decisioni-618436",
-      "source": "milannews.it",
-      "date": "2026-05-25T17:20:23+00:00",
-      "summary": "The championship of Milan had started with a 1-2 defeat at San Siro against Cremonese. The championship of Milan ended with a 1-2 defeat at San Siro against Cagliari."
-    },
-    {
       "id": "0b5e8c538f7b",
       "title": "Baldini calls fresh new Italy squad with 3 Borussia Dortmund talents",
       "url": "https://football-italia.net/baldini-call-new-italy-squad-borussia-dortmund/",
       "source": "football-italia.net",
       "date": "2026-05-25T17:15:42+00:00",
       "summary": "Interim Italy coach Silvio Baldini has called up a practically new squad for friendlies against..."
-    },
-    {
-      "id": "0aa0f349f961",
-      "title": "Teotino: \"Milan's new ownership should look at what the seniors have done. I'm thinking of Como...\"",
-      "url": "https://www.milannews.it/news/teotino-la-nuova-proprieta-del-milan-dovrebbe-guardare-quello-fatto-dagli-alti-penso-al-como-618529",
-      "source": "milannews.it",
-      "date": "2026-05-25T17:10:00+00:00",
-      "summary": "Yet another summer revolution for Milan has begun, the fourth in four years since Gerry Cardinale has been at the helm of the club, even if choices of these proportions have never been reached."
-    },
-    {
-      "id": "65cde450e0f5",
-      "title": "Impallomeni: \"Allegri hit by excessive pressure: whoever arrives is fresher and surpasses you\"",
-      "url": "https://www.milannews.it/news/impallomeni-allegri-investito-da-pressione-eccessiva-chi-arriva-e-piu-fresco-e-ti-supera-618520",
-      "source": "milannews.it",
-      "date": "2026-05-25T17:00:00+00:00",
-      "summary": "Inevitably on the Rossoneri gridiron, in addition to the ownership and management, Massimiliano Allegri also ends up there, also guilty of a season finale in which he evidently went ballistic."
     },
     {
       "id": "de999e794df7",
@@ -240,22 +264,6 @@
       "source": "football-italia.net",
       "date": "2026-05-25T16:54:45+00:00",
       "summary": "Following the Milan collapse and dismissal, Max Allegri is suddenly no longer quite so appetising..."
-    },
-    {
-      "id": "66719348d0f2",
-      "title": "Red Bird writes: \"We had the concrete possibility of competing for the Scudetto. Then unequivocal failure\"",
-      "url": "https://www.milannews.it/news/red-bird-scrive-siamo-stati-con-la-concreta-possibilita-di-competere-per-lo-scudetto-poi-fallimento-inequivocabile-618530",
-      "source": "milannews.it",
-      "date": "2026-05-25T16:50:54+00:00",
-      "summary": "Inside the statement from RedBird Capital Partners, there is the following sentence: \"for most of the season we remained in the top two positions of the championship, with the concrete possibility of competing for the Scudetto."
-    },
-    {
-      "id": "a5a613f07b69",
-      "title": "Bucciantini recalls: \"Milan-Juve 0-0: they thought they qualified, but they eliminated each other\"",
-      "url": "https://www.milannews.it/news/bucciantini-ricorda-milan-juve-0-0-pensavano-di-essere-qualificati-ma-si-sono-eliminati-a-vicenda-618422",
-      "source": "milannews.it",
-      "date": "2026-05-25T16:40:33+00:00",
-      "summary": "Disastrous for Milan who ended up out of the Champions League after cherishing it for the whole season, even after imagining they could compete for the Scudetto with Inter who instead then peacefully slipped away to win..."
     },
     {
       "id": "7730fb4c0335",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-05-25T07:24:56+00:00",
       "summary": "La Gazzetta dello Sport Incredible Champions, Cardinale’s revolution Milan, Juve out, Roma and Como party..."
-    },
-    {
-      "id": "70bdb4276f88",
-      "title": "Allegri: ‘Nobody expected Milan defeat, but players gave everything’",
-      "url": "https://football-italia.net/allegri-nobody-expected-milan-defeat-players/",
-      "source": "football-italia.net",
-      "date": "2026-05-24T21:52:49+00:00",
-      "summary": "Max Allegri admits ‘nobody expected’ Milan to lose at home to Cagliari and miss out..."
     }
   ]
 }
