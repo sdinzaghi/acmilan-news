@@ -1,37 +1,285 @@
 {
-  "lastUpdated": "2026-05-27T08:01:58.104012+00:00",
+  "lastUpdated": "2026-05-27T12:18:51.824304+00:00",
   "articles": [
     {
+      "id": "e4f8f13664cf",
+      "title": "Guidi: \"Leao doesn't want to know about leaving Milan and would have already communicated it to Ibrahimovic\"",
+      "url": "https://www.milannews.it/calciomercato-milan/guidi-leao-non-ne-vuole-sapere-di-lasciare-il-milan-e-lo-avrebbe-gia-comunicato-a-ibrahimovic-618712",
+      "source": "milannews.it",
+      "date": "2026-05-27T12:10:57+00:00",
+      "summary": "Marco Guidi, journalist, expressed himself as follows in La Gazzetta dello Sport on the future of Rafael Leao, Milan striker: \"Rafa has a contract until 2028 and is just 26 years old."
+    },
+    {
+      "id": "7e74b9ef8d08",
+      "title": "Reports: Iraola asks Milan for time with Premier League and family factors at play",
+      "url": "https://sempremilan.com/iraola-milan-time-premier-league-family",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T12:10:00+00:00",
+      "summary": "AC Milan are pushing to get the green light from Andoni Iraola, but the coach is taking time to assess his future. Multiple reports have claimed that Iraola – who led Bournemouth to their first ever European qualification this season – is the first name on the list of possible managers drawn up by Z"
+    },
+    {
+      "id": "cc393e66806a",
+      "title": "Cardinale is acting like you do in the NFL: American football is wonderful but it's not football",
+      "url": "https://www.milannews.it/primo-piano/cardinale-sta-agendo-come-si-fa-in-nfl-il-football-americano-e-meraviglioso-ma-non-e-il-calcio-618564",
+      "source": "milannews.it",
+      "date": "2026-05-27T12:00:50+00:00",
+      "summary": "The first week of the end of the season for Milan started with a bang: the immediate dismissal of four top figures in the Rossoneri scheme."
+    },
+    {
+      "id": "fa106e5f1c19",
+      "title": "Pasotto: \"Among the various messages filtered by Cardinale there is a strong reference to himself: he will be more 'Italian'\"",
+      "url": "https://www.milannews.it/news/pasotto-fra-i-vari-messaggi-fatti-filtrare-da-cardinale-c-e-un-forte-richiamo-a-se-stesso-sara-piu-italiano-618713",
+      "source": "milannews.it",
+      "date": "2026-05-27T11:50:32+00:00",
+      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on the address given to Milan by Gerry Cardinale, owner of the club: \"Among the various messages filtered by Gerry Cardinale in the aftermath of the second ..."
+    },
+    {
+      "id": "241a86ac0502",
+      "title": "Cardinale compared to Trump as new Milan revolution begins: ‘You are fired’",
+      "url": "https://football-italia.net/cardinale-trump-new-milan-revolution-fired/",
+      "source": "football-italia.net",
+      "date": "2026-05-27T11:47:52+00:00",
+      "summary": "Tutti Convocati, a popular football podcast in Italy, compared Gerry Cardinale to US President Donald..."
+    },
+    {
+      "id": "b5e542699f61",
+      "title": "CM: Why Ramon Planes is a strong contender for Milan and the other names considered",
+      "url": "https://sempremilan.com/why-ramon-planes-strong-contender-milan",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T11:45:00+00:00",
+      "summary": "Zlatan Ibrahimovic is the man writing AC Milan’s new script, and he is currently sifting through the list of sporting director candidates. Gerry Cardinale’s right-hand man has made important decisions in the last 48 hours, sacking Igli Tare and Massimiliano Allegri, as well as not renewing the contr"
+    },
+    {
+      "id": "903c8165a63d",
+      "title": "The elections for the president of The Hague will take place after the summer due to lack of technical time",
+      "url": "https://www.milannews.it/news/le-elezioni-del-presidente-dell-aia-saranno-dopo-l-estate-per-mancanza-di-tempi-tecnici-618649",
+      "source": "milannews.it",
+      "date": "2026-05-27T11:40:47+00:00",
+      "summary": "- ROME, MAY 26 - \"Elections before the new season? There are no technical times."
+    },
+    {
+      "id": "4b8857fcd052",
+      "title": "Between Friday and Saturday Iraola's choice between Milan and Crystal Palace",
+      "url": "https://www.milannews.it/news/tra-venerdi-e-sabato-la-scelta-di-iraola-tra-milan-e-crystal-palace-618748",
+      "source": "milannews.it",
+      "date": "2026-05-27T11:35:00+00:00",
+      "summary": "Two arguing over a Basque coach. Ibrahimovic and Cardinale's Milan have placed Andoni Iraola at the top of their casting list for their new coach."
+    },
+    {
+      "id": "1be4c21b2095",
+      "title": "Brentford’s Kayode on radar of Milan, Juventus and PSG but player wants to stay in England",
+      "url": "https://football-italia.net/brentfords-kayode-on-radar-of-milan-juventus/",
+      "source": "football-italia.net",
+      "date": "2026-05-27T11:31:21+00:00",
+      "summary": "Michael Kayode has emerged as one of the most coveted full-backs in European football following..."
+    },
+    {
+      "id": "f464d116dd33",
+      "title": "M. Orlando agrees: \"Milan's luck ran out in the return leg. It's right not to start from Allegri again\"",
+      "url": "https://www.milannews.it/news/m-orlando-concorda-al-ritorno-e-venuta-meno-la-fortuna-del-milan-giusto-non-ripartire-da-allegri-618516",
+      "source": "milannews.it",
+      "date": "2026-05-27T11:30:26+00:00",
+      "summary": "Next year Milan will not play in the Champions League either."
+    },
+    {
+      "id": "e571e9ae586d",
+      "title": "Iaria does the math: \"The costs for the dismissals of Furlani, Allegri, Tare and Moncada are estimated at 22 million\"",
+      "url": "https://www.milannews.it/news/iaria-fa-i-conti-i-costi-per-gli-esoneri-di-furlani-allegri-tare-e-moncada-hanno-un-ammontare-stimato-in-22-milioni-618714",
+      "source": "milannews.it",
+      "date": "2026-05-27T11:30:05+00:00",
+      "summary": "Marco Iaria, journalist and finance expert, expressed himself in La Gazzetta dello Sport on Milan's accounts after Monday's dismissals: \"Taking a tour of Casa Milan and reading the balance sheet, the impression is..."
+    },
+    {
+      "id": "8d519b4faabd",
+      "title": "Messi leaves the pitch: fear of an injury three weeks before the World Cup",
+      "url": "https://www.milannews.it/news/messi-lascia-il-campo-paura-di-un-infortunio-a-tre-settimane-dal-mondiale-618450",
+      "source": "milannews.it",
+      "date": "2026-05-27T11:20:00+00:00",
+      "summary": "(ANSA-AFP) - MIAMI, MAY 24 - Lionel Messi asked to be replaced during the MLS match between Inter Miami and the Philadelphia Union, less than three weeks before the World Cup."
+    },
+    {
+      "id": "977709bc505d",
+      "title": "GdS: Leao wants to stay, Modric to retire – indications arrive on future of two Milan stars",
+      "url": "https://sempremilan.com/leao-wants-stay-milan-modric-retire",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T11:20:00+00:00",
+      "summary": "Two of the AC Milan players whose futures are the subject of intense speculation are Rafael Leao and Luka Modric. La Gazzetta dello Sport report that there’s a champion who may have said goodbye to football on Sunday evening at San Siro. There’s another who doesn’t want to leave Milan, despite all o"
+    },
+    {
+      "id": "88d31e148308",
+      "title": "Borghi: “Milan have never evolved, the last two months have been uncommentable”",
+      "url": "https://www.milannews.it/news/borghi-il-milan-non-si-e-mai-evoluto-ultimi-due-mesi-incommentabili-618672",
+      "source": "milannews.it",
+      "date": "2026-05-27T11:10:04+00:00",
+      "summary": "In his YouTube channel, the well-known journalist and commentator Stefano Borghi analyzed Milan's season, highlighting what in his opinion were the major problems and difficulties that led the Rossoneri to lose qualification..."
+    },
+    {
+      "id": "1401b3f17cab",
+      "title": "Ibra: \"In Italy football is a religion. When things go wrong you have to be mentally strong\"",
+      "url": "https://www.milannews.it/news/ibra-in-italia-il-calcio-e-una-religione-quando-le-cose-vanno-male-devi-essere-forte-mentalmente-618743",
+      "source": "milannews.it",
+      "date": "2026-05-27T11:00:00+00:00",
+      "summary": "Zlatan Ibrahimovic is preparing to commentate on the Football World Cup in North America for Fox Sports."
+    },
+    {
+      "id": "d19bf5920643",
+      "title": "Pedulla: Tiago Pinto plus Iraola – Milan targeting double raid for Bournemouth masterminds",
+      "url": "https://sempremilan.com/pinto-plus-iraola-milan-raid-bournemouth",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T10:55:00+00:00",
+      "summary": "AC Milan are in the process of constructing a new management, and they are eyeing a double raid on AFC Bournemouth. In case you missed the big news from Monday, Gerry Cardinale gutted the Milan management in one fell swoop. Head coach Massimiliano Allegri, sporting director Igli Tare, technical dire"
+    },
+    {
+      "id": "a8f9a33c10f5",
+      "title": "Albertini: \"Milan's players created alibis instead of fighting to reverse the negative trend\"",
+      "url": "https://www.milannews.it/news/albertini-i-calciatori-del-milan-si-sono-creati-alibi-invece-di-lottare-per-invertire-la-tendenza-negativa-618735",
+      "source": "milannews.it",
+      "date": "2026-05-27T10:50:33+00:00",
+      "summary": "The trial of Milan's season began at the final whistle of the match against Cagliari, even though many dress rehearsals had been carried out in the previous weeks. The defendants? Everyone."
+    },
+    {
+      "id": "d1d681a06609",
+      "title": "Sabatini: \"Excellent start, terrible end. Milan's physical condition in the final was the worst in Serie A\"",
+      "url": "https://www.milannews.it/news/sabatini-ottimo-avvio-pessima-fine-condizione-fisica-del-milan-nel-finale-la-peggiore-della-serie-a-618668",
+      "source": "milannews.it",
+      "date": "2026-05-27T10:40:24+00:00",
+      "summary": "In his YouTube channel, Sandro Sabatini analyzed Milan's failure in failing to qualify for the Champions League and spoke about the future of the Rossoneri club."
+    },
+    {
+      "id": "1619afdb2ed4",
+      "title": "Di Marzio: \"Iraola is taking his time, he hasn't given the OK to Milan yet\"",
+      "url": "https://www.milannews.it/calciomercato-milan/di-marzio-iraola-prende-tempo-non-ha-dato-ancora-l-ok-al-milan-618741",
+      "source": "milannews.it",
+      "date": "2026-05-27T10:31:21+00:00",
+      "summary": "On his profile X, Gianluca Di Marzio gave an update on the Iraola-Milan situation. According to what was reported by the Sky colleague, the Spanish coach is still taking time and has not yet given the OK to the Rossoneri club."
+    },
+    {
+      "id": "5575273076d6",
+      "title": "Capuano: \"Milan supporting itself? Cardinale still doesn't understand, this recipe has already failed\"",
+      "url": "https://www.milannews.it/news/capuano-milan-che-si-sostiene-da-solo-cardinale-continua-a-non-capire-questa-ricetta-ha-gia-fallito-618740",
+      "source": "milannews.it",
+      "date": "2026-05-27T10:30:05+00:00",
+      "summary": "Giovanni Capuano, on his profile X, commented on what was released by the Gazzetta dello Sport regarding the guidelines that Cardinale will impose on the new Rossoneri CEO, who will have to \"guarantee exercises\" l ..."
+    },
+    {
+      "id": "7940f4f09277",
+      "title": "Ibrahimovic discusses journey as a player, leadership, Milan return and fan pressure",
+      "url": "https://sempremilan.com/ibrahimovic-journey-leadership-milan-return-pressure",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T10:30:00+00:00",
+      "summary": "Zlatan Ibrahimovic has given a long interview ahead of his World Cup punditry work, covering several aspects of being at a club like AC Milan. Ibrahimovic has been given the keys to Milan in order to redesign the sporting side how he sees fit, or at least that’s how it appears from the outside. On ["
+    },
+    {
+      "id": "bc04535f369c",
+      "title": "The point about Iraola. Milan pushes but the coach takes his time: competition and family reasons",
+      "url": "https://www.milannews.it/primo-piano/il-punto-su-iraola-il-milan-spinge-ma-il-tecnico-si-prende-il-suo-tempo-concorrenza-e-motivi-familiari-618738",
+      "source": "milannews.it",
+      "date": "2026-05-27T10:18:13+00:00",
+      "summary": "The trail that links Casa Milan to Andoni Iraola remains hot, if not very hot."
+    },
+    {
+      "id": "42fddfc6db6a",
+      "title": "Ramazzotti: \"Sustainable figures for Iraola, Emery unreachable. Xavi, Glasner and Pochettino are also there\"",
+      "url": "https://www.milannews.it/calciomercato-milan/ramazzotti-per-iraola-cifre-sostenibili-emery-inarrivabile-ci-sono-anche-xavi-glasner-e-pochettino-618715",
+      "source": "milannews.it",
+      "date": "2026-05-27T10:10:43+00:00",
+      "summary": "Andrea Ramazzotti, journalist, expressed himself as follows in La Gazzetta dello Sport on the names for the new Milan coach: \"Iraola had a salary of less than 1.8 million euros per season."
+    },
+    {
+      "id": "e6d15d75e979",
+      "title": "Di Marzio: Fabregas, Maresca, Xabi Alonso – Milan’s initial shortlist now ‘unreachable’",
+      "url": "https://sempremilan.com/fabregas-maresca-xabi-alonso-milan-unreachable",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T10:05:00+00:00",
+      "summary": "AC Milan had three other names on their managerial shortlist before needing to pivot to other candidates, it is claimed. Allegri was fired on Monday following the club’s failure to qualify for the Champions League, which came after a huge decline in the last 10 games of the season. In fact, with fiv"
+    },
+    {
+      "id": "b00f961e639b",
+      "title": "Constant contact with Iraola but the coach has not yet decided: Palace competition",
+      "url": "https://www.milannews.it/news/contatti-costanti-con-iraola-ma-il-tecnico-ancora-non-ha-deciso-concorrenza-palace-618736",
+      "source": "milannews.it",
+      "date": "2026-05-27T10:00:00+00:00",
+      "summary": "Andoni Iraola is the first name for Zlatan Ibrahimovic and Gerry Cardinale for the Milan bench, this is now a fact and is very clear."
+    },
+    {
+      "id": "81972ce4a8ca",
+      "title": "Albertini: \"Performance of the last month of relegation. Allegri has responsibility\"",
+      "url": "https://www.milannews.it/news/albertini-andamento-dell-ultimo-mese-da-retrocessione-allegri-ha-responsabilita-618734",
+      "source": "milannews.it",
+      "date": "2026-05-27T09:50:00+00:00",
+      "summary": "The encore experience of Massimiliano Allegri at Milan ended as it couldn't have been worse."
+    },
+    {
+      "id": "f45d70e2155c",
+      "title": "A 2-3 year contract for 3 million is ready for Iraola: but the competition is high",
+      "url": "https://www.milannews.it/news/pronto-un-contratto-di-2-3-anni-a-3-milioni-per-iraola-ma-la-concorrenza-e-alta-618733",
+      "source": "milannews.it",
+      "date": "2026-05-27T09:40:00+00:00",
+      "summary": "At the top of the wish list of Gerry Cardinale and Zlatan Ibrahimovic for the new Rossoneri chapter that started on Monday, there is the name of Andoni Iraola, a Basque coach who made sparks at the helm ..."
+    },
+    {
+      "id": "5b98e00d7515",
+      "title": "CorSport: Ibrahimovic leading rapid ‘revolution’ at Milan with USA departure imminent",
+      "url": "https://sempremilan.com/ibrahimovic-rapid-revolution-usa-departure-imminent",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T09:40:00+00:00",
+      "summary": "The future of AC Milan has been entrusted to Zlatan Ibrahimovic, the same man who will soon fly to the United States for over one month. According to Corriere dello Sport, it’s ‘all in Ibrahimovic’s hands’. It was he who will lead the revolution at Milan, which began when he advised owner Gerry Card"
+    },
+    {
+      "id": "9d007f0d4ebd",
+      "title": "Mauro: \"Milan and Juve lacked humility, determination and grit\"",
+      "url": "https://www.milannews.it/news/mauro-a-milan-e-juve-e-mancata-umilta-determinazione-e-grinta-618732",
+      "source": "milannews.it",
+      "date": "2026-05-27T09:30:08+00:00",
+      "summary": "Milan and Juventus shared the same bitter sporting fate: with a few days to go, both were unsure, but at least very confident of being able to enter the Champions League and above all they could count on the fact that they had the destiny between ..."
+    },
+    {
+      "id": "bd3776618f6a",
+      "title": "GdS: Milan hold talks with Rangnick over director role six years after initial links",
+      "url": "https://sempremilan.com/milan-hold-talks-rangnick-director-role",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T09:15:00+00:00",
+      "summary": "Andoni Iraola isn’t the only figure that Zlatan Ibrahimovic and Gerry Cardinale want for the AC Milan of the future. This morning’s edition of La Gazzetta dello Sport reported that Cardinale has chosen Iraola as the man he wants to be Milan’s next head coach. The mission is underway to accelerate an"
+    },
+    {
+      "id": "104f35b531bc",
+      "title": "CM: Camarda returns to Milan with Di Francesco’s praise – the plan for his future as calls arrive",
+      "url": "https://sempremilan.com/plan-camarda-future-calls-arrive-return",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T08:50:00+00:00",
+      "summary": "Francesco Camarda celebrated achieving Serie A survival with Lecce and will now return to AC Milan, with a future to be determined. Calciomercato.com recall an interview that Lecce boss Eusebio Di Francesco gave to La Gazzetta dello Sport after the final game, in which he spoke about Camarda’s chara"
+    },
+    {
+      "id": "82cb97aece4d",
+      "title": "Milan midfielder Modric could announce retirement after World Cup",
+      "url": "https://football-italia.net/milan-midfielder-modric-could-retire/",
+      "source": "football-italia.net",
+      "date": "2026-05-27T08:30:05+00:00",
+      "summary": "Luka Modric is seriously considering retirement following the World Cup, with Milan’s failure to secure..."
+    },
+    {
+      "id": "21d213b6d825",
+      "title": "Moretto: Leao ‘waiting’ as Milan shake-up could change future – the situation",
+      "url": "https://sempremilan.com/leao-waiting-milan-shake-up-change-future",
+      "source": "sempremilan.com",
+      "date": "2026-05-27T08:25:00+00:00",
+      "summary": "Matteo Moretto has confirmed that a sizeable offer is on the table for Rafael Leao from Turkey, but the forward wants to wait. It was another difficult season for Leao, who again showed glimpses of realising his true potential but unfortunately had too many inconsistencies to consider it a fully pos"
+    },
+    {
+      "id": "aaef62bb087e",
+      "title": "Milan schedule new meeting with Iraola; former Man Utd coach Rangnick tipped for sporting director role",
+      "url": "https://football-italia.net/milan-schedule-meeting-with-iraola-rangnick/",
+      "source": "football-italia.net",
+      "date": "2026-05-27T08:16:14+00:00",
+      "summary": "Milan are pushing to appoint Andoni Iraola as their next head coach, with a second..."
+    },
+    {
       "id": "9982296ecb50",
-      "title": "GdS: Cardinale wants Iraola – Milan accelerate to try beat competition form Crystal Palace",
+      "title": "GdS: Cardinale wants Iraola – Milan accelerate to try beat competition from Crystal Palace",
       "url": "https://sempremilan.com/milan-accelerate-iraola-competition-crystal-palace",
       "source": "sempremilan.com",
       "date": "2026-05-27T08:00:00+00:00",
       "summary": "AC Milan are moving forward with Andoni Iraola and they hope to get everything agreed with the potential new head coach soon. According to La Gazzetta dello Sport (seen below), Gerry Cardinale and his advisors Massimo Calvelli and Zlatan Ibrahimovic have decided to speed up the process to beat the c"
-    },
-    {
-      "id": "9ee0612e010f",
-      "title": "Letizia: “Who knows what Boban and Maldini think about Cardinale going for Rangnick, Elliott's name”",
-      "url": "https://www.milannews.it/news/letizia-chissa-cosa-ne-pensano-boban-e-maldini-che-cardinale-vada-su-rangnick-nome-di-elliott-618722",
-      "source": "milannews.it",
-      "date": "2026-05-27T07:50:42+00:00",
-      "summary": "Francesco Letizia, journalist, expressed himself as follows on his YouTube channel on Gerry Cardinale's management of Milan: \"It is convenient for Cardinale to tell (and have people tell) that we are in year zero of his project: the reality ..."
-    },
-    {
-      "id": "9252b9305dd6",
-      "title": "La Gazzetta tries to rehabilitate the Europa League: \"60-70 million with the victory\"",
-      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-prova-a-riabilitare-l-europa-league-con-la-vittoria-60-70-milioni-618723",
-      "source": "milannews.it",
-      "date": "2026-05-27T07:40:00+00:00",
-      "summary": "Between now and September, when Milan will return to play in Europe, even if in the less prestigious one, there is still a lot of time left and above all an entire summer programme."
-    },
-    {
-      "id": "11a5c8fe31d5",
-      "title": "Indiscretion from Spain: Iraola would have rejected Milan for Palace. The reasons include the limited budget",
-      "url": "https://www.milannews.it/news/indiscrezione-dalla-spagna-iraola-avrebbe-rifiutato-il-milan-per-il-palace-tra-i-motivi-il-budget-limitato-618725",
-      "source": "milannews.it",
-      "date": "2026-05-27T07:30:00+00:00",
-      "summary": "Indiscretion from Spain, or rather directly from the Basque Country, home of Andoni Iraola the first candidate on the list of Gerry Cardinale and Zlatan Ibrahimovic for the position of new AC Milan coach."
     },
     {
       "id": "35ddf89f9d80",
@@ -40,142 +288,6 @@
       "source": "football-italia.net",
       "date": "2026-05-27T07:26:03+00:00",
       "summary": "La Gazzetta dello Sport Milan accellerate for the new coach Iraola ahead Cardinale and Ibrahimovic..."
-    },
-    {
-      "id": "6f083122bb36",
-      "title": "Leao case, Tuttosport: \"He only wants a big one. Expendable for Cardinale\"",
-      "url": "https://www.milannews.it/rassegna-stampa/caso-leao-tuttosport-vuole-solo-una-grande-sacrificabile-per-cardinale-618721",
-      "source": "milannews.it",
-      "date": "2026-05-27T07:20:00+00:00",
-      "summary": "With no one certain yet on the fourth floor of Casa Milan, after Monday's mass dismissals, it is still slightly premature to talk about the future of the Rossoneri players."
-    },
-    {
-      "id": "d5e78f414a4a",
-      "title": "Central Ibra, CorSport: \"He was the inspiration for the breakthrough\"",
-      "url": "https://www.milannews.it/rassegna-stampa/ibra-centrale-il-corsport-e-stato-l-ispiratore-del-colpo-di-spugna-618720",
-      "source": "milannews.it",
-      "date": "2026-05-27T07:10:00+00:00",
-      "summary": "Zlatan Ibrahimovic, after having effectively been sidelined in decision-making this last season, took his \"revenge\" and today is the only figure left standing, thanks to his relationship with ..."
-    },
-    {
-      "id": "f76a3fcd5d13",
-      "title": "Bournemouth, Tiago Pinto: \"Iraola is the first reason for everything we have done\"",
-      "url": "https://www.milannews.it/news/bournemouth-tiago-pinto-iraola-e-la-prima-ragione-per-tutto-quello-che-abbiamo-fatto-618718",
-      "source": "milannews.it",
-      "date": "2026-05-27T07:00:00+00:00",
-      "summary": "The season of Bournemouth was completely unprecedented and ended with something never done before by the Cherries: the qualification for a European cup, the Europa League to be precise."
-    },
-    {
-      "id": "0188d784d64b",
-      "title": "Tuttosport: \"Full force on Iraola. Alternatives: more Glasner than Xavi\"",
-      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-a-tutta-forza-su-iraola-alternative-piu-glasner-di-xavi-618719",
-      "source": "milannews.it",
-      "date": "2026-05-27T06:50:00+00:00",
-      "summary": "There is no time to waste for Milan who, after having fired the club's four most important figures on Monday, have already started the search for new faces who will ..."
-    },
-    {
-      "id": "4655d20d196f",
-      "title": "And the players? Gazzetta: \"Leao wants to stay, Modric is thinking about retiring\"",
-      "url": "https://www.milannews.it/rassegna-stampa/e-i-giocatori-gazzetta-leao-vuole-restare-modric-pensa-al-ritiro-618716",
-      "source": "milannews.it",
-      "date": "2026-05-27T06:40:00+00:00",
-      "summary": "The first step for Milan is to find the right and desired replacements for the four roles currently uncovered: coach, sporting director, technical director and CEO of the club."
-    },
-    {
-      "id": "5fb582cddf3a",
-      "title": "Iraola and Xavi in ​​the front row, CorSport: \"In 7-10 days Cardinale and Ibra will become the coach\"",
-      "url": "https://www.milannews.it/rassegna-stampa/iraola-e-xavi-in-prima-fila-il-corsport-in-7-10-giorni-cardinale-e-ibra-fanno-il-tecnico-618699",
-      "source": "milannews.it",
-      "date": "2026-05-27T06:30:00+00:00",
-      "summary": "Milan revolution in full progress although for now, after the four sackings in one blow last Monday, there have been no other official communications to fill the four important boxes left empty."
-    },
-    {
-      "id": "df685262d18c",
-      "title": "Bianchin reveals: \"Rangnick is a strong candidate for the role of sporting or technical director\"",
-      "url": "https://www.milannews.it/news/bianchin-rivela-rangnick-candidato-forte-per-il-ruolo-di-direttore-sportivo-o-tecnico-618701",
-      "source": "milannews.it",
-      "date": "2026-05-27T06:20:00+00:00",
-      "summary": "Five years after the last time, the name of Ralf Rangnick has once again circulated and hovered around Milan."
-    },
-    {
-      "id": "6e678298ed3a",
-      "title": "There is Iraola on the horizon: all the front pages of the sports newspapers on newsstands today",
-      "url": "https://www.milannews.it/rassegna-stampa/c-e-iraola-all-orizzonte-tutte-le-prime-pagine-dei-quotidiani-sportivi-oggi-in-edicola-618698",
-      "source": "milannews.it",
-      "date": "2026-05-27T06:10:01+00:00",
-      "summary": "Andoni Iraola, to date, is the strongest candidate for the Milan bench."
-    },
-    {
-      "id": "66dd40bf7090",
-      "title": "Cardinale moves personally. Iraola as coach and Rangnick as sports director, the scenario takes off",
-      "url": "https://www.milannews.it/primo-piano/cardinale-si-muove-in-prima-persona-iraola-tecnico-e-rangnick-ds-lo-scenario-prende-quota-618711",
-      "source": "milannews.it",
-      "date": "2026-05-27T06:00:00+00:00",
-      "summary": "It cannot be said that Gerry Cardinale had not announced it in his interview almost two weeks ago: the American manager had anticipated big changes and his more direct involvement."
-    },
-    {
-      "id": "e181aa0ff327",
-      "title": "Cassano, enchanted, approves: \"Milan, with Iraola you dominate the world. With him you already earn 50%\"",
-      "url": "https://www.milannews.it/news/cassano-incantato-approva-milan-con-iraola-domini-nel-mondo-con-lui-guadagni-gia-il-50-618686",
-      "source": "milannews.it",
-      "date": "2026-05-27T05:50:00+00:00",
-      "summary": "During the last episode of Viva el Futbol, ​​Antonio Cassano commented on the rumors that in recent days have linked Bournemouth coach Iraola to the Rossoneri. This is his comment."
-    },
-    {
-      "id": "927cc953d7d1",
-      "title": "Cuomo doesn't agree: \"I saw Gabbia come back from the parking lot to show off even without having played, on Sunday he left the San Siro at one in the morning\"",
-      "url": "https://www.milannews.it/news/cuomo-non-ci-sta-ho-visto-gabbia-tornare-dal-parcheggio-a-metterci-la-faccia-anche-senza-aver-giocato-domenica-e-uscito-all-una-di-notte-da-san-siro-618634",
-      "source": "milannews.it",
-      "date": "2026-05-27T05:40:49+00:00",
-      "summary": "Michael Cuomo, a journalist, expressed himself as follows on his X profile about some AC Milan players, accused of not feeling sorry for their failure to qualify for the Champions League: \"Gabbia acted as a press officer."
-    },
-    {
-      "id": "6302f37bcaf4",
-      "title": "Milan, Thursday will be the Europa League: the list of teams already qualified",
-      "url": "https://www.milannews.it/news/milan-il-giovedi-sara-europa-league-la-lista-delle-squadre-gia-qualificate-618696",
-      "source": "milannews.it",
-      "date": "2026-05-27T05:30:00+00:00",
-      "summary": "Due to the home defeat against Cagliari, Milan did not qualify for the Champions League by 1 point and therefore, having finished fifth in the table, they will participate in the 2026-2027 Europa League."
-    },
-    {
-      "id": "a12cb76e9cf6",
-      "title": "PUMA and Lega Serie A present the new ball: the STELLAR NITRO™ ULTIMATE",
-      "url": "https://www.milannews.it/news/puma-e-lega-serie-a-presentano-il-nuovo-pallone-lo-stellar-nitro-ultimate-618693",
-      "source": "milannews.it",
-      "date": "2026-05-27T05:20:00+00:00",
-      "summary": "The Lega Calcio Serie A website reports that the new ball for the next season of Serie A Enilive, Coppa Italia Frecciarossa, EA SPORTS FC Supercup and Primavera 1 has been presented."
-    },
-    {
-      "id": "a4071fc620d9",
-      "title": "The calendar of the new Serie A championship will be drawn on June 5th in Parma",
-      "url": "https://www.milannews.it/news/il-calendario-del-nuovo-campionato-di-serie-a-sara-sorteggiato-il-5-giugno-a-parma-618692",
-      "source": "milannews.it",
-      "date": "2026-05-27T05:10:00+00:00",
-      "summary": "The Serie A Festival returns to Parma on 5, 6 and 7 June, three days for fans and football enthusiasts created to tell the uniqueness of the top Italian football championship through meetings and workshops with protagonists, professionals ..."
-    },
-    {
-      "id": "01e87dc06ced",
-      "title": "Serie A 2026/2027, here's when we start! All the dates for the next season",
-      "url": "https://www.milannews.it/news/serie-a-2026-2027-ecco-quando-si-parte-tutte-le-date-della-prossima-stagione-618691",
-      "source": "milannews.it",
-      "date": "2026-05-27T05:00:38+00:00",
-      "summary": "With the 2025/2026 championship over 3 days ago, it's already time to think about next season. In fact, the Lega Serie A has revealed the dates for the 2026/2027 sports season calendar."
-    },
-    {
-      "id": "8ca37b6aace3",
-      "title": "Zazzaroni defends Allegri: \"Treated like Satan for the antipathizing campaign of the obsessed and frustrated\"",
-      "url": "https://www.milannews.it/news/zazzaroni-difende-allegri-trattato-come-satana-per-la-campagna-antipatizzante-di-ossessionati-e-frustrati-618658",
-      "source": "milannews.it",
-      "date": "2026-05-26T22:50:00+00:00",
-      "summary": "The failure to qualify for the next Champions League had very serious consequences at Milan, giving rise to a profound internal revolution."
-    },
-    {
-      "id": "ee6b51237688",
-      "title": "Cerruti: \"Milan? The bench issue is the least of Milan's problems\"",
-      "url": "https://www.milannews.it/news/cerruti-milan-la-questione-panchina-e-l-ultimo-dei-problemi-del-milan-618657",
-      "source": "milannews.it",
-      "date": "2026-05-26T22:40:00+00:00",
-      "summary": "The failure to qualify for the next Champions League sparked a real revolution at Milan."
     },
     {
       "id": "ac749614d22a",
@@ -266,44 +378,12 @@
       "summary": "AC Milan remain a financially healthy club, one able to invest in the squad. However, how that money is spent is another thing. As La Gazzetta dello Sport report, RedBird Capital have just completed its fourth year of ownership. While waiting for the 2025-26 financial year to close, revenue – exclud"
     },
     {
-      "id": "cfd3a5b50633",
-      "title": "CM: ‘Without any ifs or buts’ – Pulisic not for sale as Cardinale plans meeting over future",
-      "url": "https://sempremilan.com/pulisic-not-for-sale-cardinale-meeting",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T15:10:12+00:00",
-      "summary": "Some big names could leave AC Milan this summer, but Christian Pulisic will not be one of them. At least if Gerry Cardinale has his way. Twenty-one games without even a single goal mark the worst period of Pulisic’s career. His last celebration came on December 28th against Verona, and many point to"
-    },
-    {
-      "id": "840616e05d7e",
-      "title": "MN: Cardinale still pursuing self-sustainability for Milan – what it means for the mercato",
-      "url": "https://sempremilan.com/cardinale-pursuing-self-sustainability-milan-mercato",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T15:00:00+00:00",
-      "summary": "Gerry Cardinale has set out the blueprint for the ‘new Milan’, which he aims to assemble over the coming days and weeks. Sometimes big decisions take weeks to come even after a disastrous season. However, less than 24 hours after the season finale, the CEO Giorgio Furlani, sporting director Igli Tar"
-    },
-    {
-      "id": "b6943211605f",
-      "title": "GdS: How Allegri, Tare and Furlani’s sackings could cost Milan over €20m",
-      "url": "https://sempremilan.com/allegri-tare-furlani-sackings-cost-20m",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T14:30:00+00:00",
-      "summary": "A statement on Monday from AC Milan sent shockwaves around Italian football as four key figures went in one fell swoop. The managerial shake-up by RedBird Capital Partners, confirmed through Milan’s official channels, will not be a cheap thing for the club. La Gazzetta dello Sport report that it wil"
-    },
-    {
       "id": "dd6079fe69b6",
       "title": "Expert explains why Iraola suits Milan but Xavi doesn’t: ‘Squad is more suitable’",
       "url": "https://football-italia.net/expert-why-iraola-suits-milan-but-xavi-doesnt/",
       "source": "football-italia.net",
       "date": "2026-05-26T14:02:39+00:00",
       "summary": "Spanish journalist Jorge Garcia has explained why he thinks that Andoni Iraola is a ‘better..."
-    },
-    {
-      "id": "c40cb1bf0e00",
-      "title": "Sky: Ibrahimovic to set meet Iraola in London but Aston Villa hero Emery enters frame",
-      "url": "https://sempremilan.com/ibrahimovic-iraola-london-emery-enters-frame",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T14:00:00+00:00",
-      "summary": "Following the departure of Massimiliano Allegri, Zlatan Ibrahimovic is the man at work to find his replacement. Allegri was fired yesterday following the club’s failure to qualify for the Champions League, after a collapse of monumental performance. With five games to go they had an eight-point over"
     },
     {
       "id": "e50cdc584e7a",
@@ -314,60 +394,12 @@
       "summary": "Rafael Leao has broken his silence on Milan’s troubled campaign, posting a heartfelt message on..."
     },
     {
-      "id": "faf265b82f03",
-      "title": "Tuttosport: Modric decides to leave Milan – the factors and why Real Madrid return is possible",
-      "url": "https://sempremilan.com/modric-leave-milan-why-real-madrid-return",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T13:30:00+00:00",
-      "summary": "After AC Milan’s failure to qualify for the Champions League, Luka Modric’s future looks like it will be away from the club. According to Tuttosport (via Calciomercato.com), Modric has already decided to leave Milan and to not accept a possible contract renewal offer. His current deal expires at the"
-    },
-    {
-      "id": "6ec6cd8c8de5",
-      "title": "CorSera: Allegri and Ibrahimovic had to be ‘physically separated’ during restaurant argument",
-      "url": "https://sempremilan.com/allegri-ibrahimovic-physically-separated-restaurant-argument",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T13:00:00+00:00",
-      "summary": "As the dust continues to settle after AC Milan’s explosive end to the season, more information is emerging about the fall-out. Big changes were promised by Gerry Cardinale, and on Monday they came. The RedBird Capital founder and chief sacked Massimiliano Allegri, Igli Tare, Giorgio Furlani and Geof"
-    },
-    {
-      "id": "912e9eed43ee",
-      "title": "GdS: Leao headlines list of possible Milan sales as Galatasaray and Fenerbahçe compete",
-      "url": "https://sempremilan.com/leao-possible-sale-galatasaray-fenerbahce-compete",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T12:35:00+00:00",
-      "summary": "Gerry Cardinale’s work overhauling AC Milan is not done, with a number of players also expected to be shipped out. According to La Gazzetta dello Sport, Cardinale was surprised players’ approach during the tragic Sunday evening against Cagliari. He appreciated the commitment of Modric, Pulisic, Pavl"
-    },
-    {
-      "id": "d881aa922975",
-      "title": "Tare offers brief comment while leaving headquarters after Milan sacking",
-      "url": "https://sempremilan.com/tare-offers-brief-comment-milan-sacking",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T12:10:00+00:00",
-      "summary": "Igli Tare was spotted at Casa Milan this lunchtime, where he was collecting his things after being sacked yesterday. The big changes didn’t take long to come after Milan’s missed out on a Champions League place by losing at home to Cagliari on the final day. Massimiliano Allegri, Giorgio Furlani and"
-    },
-    {
-      "id": "76e985d79d72",
-      "title": "Moretto and Romano confirm Iraola to Milan is gaining momentum: “A face-to-face meeting”",
-      "url": "https://sempremilan.com/iraola-milan-gaining-momentum-meeting",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T11:45:00+00:00",
-      "summary": "The Andoni Iraola idea appears to be gathering speed, as Fabrizio Romano and Matteo Moretto confirmed that AC Milan have held talks with him. On Monday afternoon, less than 24 hours after Milan’s defeat to Cagliari saw them finish outside the top four, the axe was wielded by Gerry Cardinale. In addi"
-    },
-    {
       "id": "84ca858afb5b",
       "title": "Report: Rafael Leao upset with Cardinale, snubs Fenerbahce and Galatasaray",
       "url": "https://football-italia.net/leao-upset-cardinale-fenerbahce-galatasara/",
       "source": "football-italia.net",
       "date": "2026-05-26T11:43:41+00:00",
       "summary": "According to Milannews, Gerry Cardinale has openly admitted that Rafael Leao can leave in the..."
-    },
-    {
-      "id": "9de227881aa9",
-      "title": "CorSport: Jashari, Pulisic, Rabiot, Maignan and more – the key men who could leave Milan",
-      "url": "https://sempremilan.com/jashari-pulisic-rabiot-maignan-leave-mila",
-      "source": "sempremilan.com",
-      "date": "2026-05-26T11:20:00+00:00",
-      "summary": "AC Milan’s failure to qualify for the Champions League will have a profound impact, and not just on the management. Those who paid the price within 24 hours of the defeat to were Massimiliano Allegri, Igli Tare, Geoffrey Moncada and Giorgio Furlani. The head coach, sporting director, chief scout and"
     },
     {
       "id": "a9b52d47abf6",
@@ -448,38 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-05-25T17:15:42+00:00",
       "summary": "Interim Italy coach Silvio Baldini has called up a practically new squad for friendlies against..."
-    },
-    {
-      "id": "7ea21330400d",
-      "title": "Report Italiano now first on Napoli list after Milan sack Allegri",
-      "url": "https://football-italia.net/report-italiano-napoli-list-milan-sack-allegri/",
-      "source": "football-italia.net",
-      "date": "2026-05-25T16:54:45+00:00",
-      "summary": "Following the Milan collapse and dismissal, Max Allegri is suddenly no longer quite so appetising..."
-    },
-    {
-      "id": "7730fb4c0335",
-      "title": "Official: Milan fire Allegri, Tare, Furlani and Moncada with brutal statement",
-      "url": "https://football-italia.net/official-milan-fire-allegri-tare-furlani-monca/",
-      "source": "football-italia.net",
-      "date": "2026-05-25T16:24:13+00:00",
-      "summary": "Milan have officially sacked coach Max Allegri, director Igli Tare, CEO Giorgio Furlani and chief..."
-    },
-    {
-      "id": "300070adc9ab",
-      "title": "New Serie A season kicks off on August 23, four international duty slots",
-      "url": "https://football-italia.net/new-serie-a-season-kicks-off-on-august-23/",
-      "source": "football-italia.net",
-      "date": "2026-05-25T16:16:11+00:00",
-      "summary": "The 2026-27 Serie A season will kick off on the weekend of August 23 and..."
-    },
-    {
-      "id": "8e565853a108",
-      "title": "Where Juventus and Milan threw away Champions League qualification",
-      "url": "https://football-italia.net/how-juventus-milan-threw-away-champions-league/",
-      "source": "football-italia.net",
-      "date": "2026-05-25T16:04:03+00:00",
-      "summary": "A careful look at the statistics shows that Milan and Juventus lost out on the..."
     }
   ]
 }
