@@ -1,6 +1,134 @@
 {
-  "lastUpdated": "2026-05-27T19:23:10.371594+00:00",
+  "lastUpdated": "2026-05-27T21:52:19.888721+00:00",
   "articles": [
+    {
+      "id": "51654d79a9bb",
+      "title": "Sarri-Lazio is over: the separation between the coach and the Biancocelesti is official",
+      "url": "https://www.milannews.it/news/sarri-lazio-e-finita-ufficiale-la-separazione-tra-il-tecnico-e-i-biancocelesti-618770",
+      "source": "milannews.it",
+      "date": "2026-05-27T21:40:43+00:00",
+      "summary": "- ROME, MAY 27 - All that was missing was the official announcement regarding the end of the relationship between Maurizio Sarri and Lazio, and now it has arrived."
+    },
+    {
+      "id": "7877b4360c54",
+      "title": "Pulisic in New York for the World Cup. A fan shouts at him “Forza Milan!”",
+      "url": "https://www.milannews.it/news/pulisic-a-new-york-per-il-mondiale-un-tifoso-gli-urla-forza-milan-618682",
+      "source": "milannews.it",
+      "date": "2026-05-27T21:30:20+00:00",
+      "summary": "A video of Christian Pulisic who landed in New York today for a Puma event ahead of the World Cup was posted on the Instagram profile of an American content creator."
+    },
+    {
+      "id": "f7105f759d04",
+      "title": "Niang cannot explain himself: \"I didn't understand what happened after Genoa. Leao is not helped by the outside world\"",
+      "url": "https://www.milannews.it/news/niang-non-si-spiega-non-ho-capito-cosa-e-successo-dopo-genova-leao-non-e-aiutato-dal-mondo-esterno-618685",
+      "source": "milannews.it",
+      "date": "2026-05-27T21:20:48+00:00",
+      "summary": "Mbaye Niang, at the 30th anniversary party of Federico Pastorello's P&P Sport Management agency, commented to TMW on the AC Milan debacle. These are his words."
+    },
+    {
+      "id": "bb9e81af2921",
+      "title": "Sabatini: \"Fabregas profile? Milan need certainties, like Conte and Paratici\"",
+      "url": "https://www.milannews.it/news/sabatini-profilo-alla-fabregas-al-milan-servono-certezze-tipo-conte-e-paratici-618676",
+      "source": "milannews.it",
+      "date": "2026-05-27T21:10:12+00:00",
+      "summary": "In his YouTube channel, Sandro Sabatini analyzed Milan's failure in failing to qualify for the Champions League and spoke about the future of the Rossoneri club."
+    },
+    {
+      "id": "d69c381259df",
+      "title": "Offensive football and valorisation of young people: Iraola, all the big names who became great with him",
+      "url": "https://www.milannews.it/news/calcio-offensivo-e-valorizzazione-dei-giovani-iraola-tutti-i-big-diventati-grandi-con-lui-618744",
+      "source": "milannews.it",
+      "date": "2026-05-27T21:00:19+00:00",
+      "summary": "Iraola's name, as we have been telling for days, is first in the hierarchy of preferences of Gerry Cardinale and Zlatan Ibrahimovic. Young technician, 43 years old, Spanish (Basque) who grew up with the imprinting of the offensive game."
+    },
+    {
+      "id": "46ac71b8a6a0",
+      "title": "MN - Garcia: \"It will be important for Iraola to know the ambition of the next Milan\"",
+      "url": "https://www.milannews.it/news/mn-garcia-per-iraola-sara-importante-sapere-l-ambizione-del-prossimo-milan-618768",
+      "source": "milannews.it",
+      "date": "2026-05-27T20:50:20+00:00",
+      "summary": "Andoni Iraola is without a doubt the hottest name on the Milan bench ahead of next season."
+    },
+    {
+      "id": "29e9c2ea51f0",
+      "title": "Pastore: “Monday was an excellent day: via Furlani and Moncada, the best news in the last three years”",
+      "url": "https://www.milannews.it/news/pastore-lunedi-giornata-ottima-via-furlani-e-moncada-migliore-notizia-degli-ultimi-tre-anni-618683",
+      "source": "milannews.it",
+      "date": "2026-05-27T20:40:03+00:00",
+      "summary": "During the last episode of Fontana di Trevi, Cronache di Spogliatoio format, my colleague Giuseppe Pastore commented on what happened against Cagliari on Sunday evening and what the defeat entailed which sanctioned the exclusion of Milan from ..."
+    },
+    {
+      "id": "b2bacb1b1d79",
+      "title": "Borghi safe: \"Disaster caused by corporate management and technical guidance. Now establish a chain of command\"",
+      "url": "https://www.milannews.it/news/borghi-sicuro-disastro-causato-della-gestione-societaria-e-della-guida-tecnica-ora-stabilire-una-catena-di-comando-618673",
+      "source": "milannews.it",
+      "date": "2026-05-27T20:30:55+00:00",
+      "summary": "In his YouTube channel, the well-known journalist and commentator Stefano Borghi analyzed Milan's season, highlighting what in his opinion were the major problems and difficulties that led the Rossoneri to lose qualification..."
+    },
+    {
+      "id": "163e1abf0542",
+      "title": "Ravezzani: \"Milan destined for a slow decline, there is no ability to relaunch because Cardinale doesn't have a euro\"",
+      "url": "https://www.milannews.it/news/ravezzani-milan-destinato-ad-un-lento-declino-non-c-e-capacita-di-rilanciarsi-perche-cardinale-non-ha-un-euro-618754",
+      "source": "milannews.it",
+      "date": "2026-05-27T20:20:48+00:00",
+      "summary": "On the QSVS YouTube channel, director Fabio Ravezzani talked about Gerry Cardinale. These are his words."
+    },
+    {
+      "id": "b547e34cb301",
+      "title": "Sabatini: “A fearful game against Cagliari, defensive stability lacking at the end of the season”",
+      "url": "https://www.milannews.it/news/sabatini-col-cagliari-partita-impaurita-stabilita-difensiva-venuta-a-mancare-nel-finale-di-stagione-618674",
+      "source": "milannews.it",
+      "date": "2026-05-27T20:10:15+00:00",
+      "summary": "In his YouTube channel, Sandro Sabatini analyzed Milan's failure in failing to qualify for the Champions League and spoke about the future of the Rossoneri club."
+    },
+    {
+      "id": "adc310164fd7",
+      "title": "In England they are convinced that Palace will make Iraola official tomorrow",
+      "url": "https://www.milannews.it/news/in-inghilterra-sono-convinti-che-domani-il-palace-ufficializzera-iraola-618791",
+      "source": "milannews.it",
+      "date": "2026-05-27T20:00:00+00:00",
+      "summary": "Andoni Iraola leaves Milan permanently."
+    },
+    {
+      "id": "27fb49202929",
+      "title": "MN - Garcia on the future Milan coach: \"If I see the current squad, Iraola is perfect. Xavi is less suitable\"",
+      "url": "https://www.milannews.it/news/mn-garcia-sul-futuro-allenatore-del-milan-se-vedo-la-rosa-attuale-iraola-e-perfetto-xavi-meno-adatto-618767",
+      "source": "milannews.it",
+      "date": "2026-05-27T19:50:58+00:00",
+      "summary": "Andoni Iraola is without a doubt the hottest name on the Milan bench ahead of next season."
+    },
+    {
+      "id": "84bfce2bc01a",
+      "title": "Musah, who is expected to return to Milan, was not called up by the United States for the World Cup",
+      "url": "https://www.milannews.it/news/musah-che-dovrebbe-tornare-al-milan-non-e-stato-convocato-dagli-stati-uniti-per-i-mondiali-618703",
+      "source": "milannews.it",
+      "date": "2026-05-27T19:40:29+00:00",
+      "summary": "(ANSA) - ROME, MAY 26 - The United States coach, Mauricio Pochettino, did not reserve any major surprises in releasing the list of 26 players called up for the 2026 World Cup, announced in New York."
+    },
+    {
+      "id": "666c5d3c6a7f",
+      "title": "Sabatini asks: \"How will Milan restart now? Ibra will disappear for 2 months in a few days\"",
+      "url": "https://www.milannews.it/news/sabatini-domanda-come-ripartira-il-milan-adesso-ibra-tra-qualche-giorno-sparisce-per-2-mesi-618675",
+      "source": "milannews.it",
+      "date": "2026-05-27T19:30:09+00:00",
+      "summary": "In his YouTube channel, Sandro Sabatini analyzed Milan's failure in failing to qualify for the Champions League and spoke about the future of the Rossoneri club."
+    },
+    {
+      "id": "a20483f9df0e",
+      "title": "Ibra: \"In my second experience at Milan I played with normal players on whom I put enormous pressure\"",
+      "url": "https://www.milannews.it/news/ibra-nella-seconda-esperienza-al-milan-ho-giocato-con-calciatori-normali-su-cui-ho-messo-pressione-enorme-618756",
+      "source": "milannews.it",
+      "date": "2026-05-27T19:20:00+00:00",
+      "summary": "Zlatan Ibrahimovic, former AC Milan footballer and now AC Milan Senior Advisor on behalf of RedBird Capital Partners, sat down with Tom Brady and was the protagonist for a double interview together with the NFL champion..."
+    },
+    {
+      "id": "797d6f5da4e5",
+      "title": "Marocchi highlights Allegri's faults in Milan's collapse after the excellent 2025",
+      "url": "https://www.milannews.it/news/marocchi-evidenzia-le-colpe-di-allegri-nel-tracollo-del-milan-dopo-l-ottimo-2025-618572",
+      "source": "milannews.it",
+      "date": "2026-05-27T19:20:00+00:00",
+      "summary": "It's a real disaster. There is little to say, the Milan of Massimiliano Allegri, now a former Rossoneri coach, has failed in its only real objective of the season: qualification for the Champions League for next season."
+    },
     {
       "id": "04ef80494012",
       "title": "GdS: Milan could turn to Glasner as Iraola has chosen Crystal Palace",
@@ -42,14 +170,6 @@
       "summary": "During the usual appointment with the video update on his YouTube channel, Fabrizio Romano took stock of the hottest current issues related to Serie A, focusing in particular on the future of Allegri ..."
     },
     {
-      "id": "b8e7d2bcc4bb",
-      "title": "Caressa has no doubts: \"Allegri knows he is to blame, something is broken with the team\"",
-      "url": "https://www.milannews.it/news/caressa-non-ha-dubbi-allegri-sa-che-ha-delle-colpe-si-e-rotto-qualcosa-con-la-squadra-618679",
-      "source": "milannews.it",
-      "date": "2026-05-27T18:30:49+00:00",
-      "summary": "In his YouTube channel, the well-known journalist and commentator Fabio Caressa analyzed Milan's season, highlighting what in his opinion were the major problems and difficulties that led the Rossoneri to lose qualification..."
-    },
-    {
       "id": "04a918ce6ee3",
       "title": "Schira: Kirovski ‘will extend’ contract with Milan Futuro in near future – the situation",
       "url": "https://sempremilan.com/kirovski-will-extend-milan-futuro-contract-near-future",
@@ -66,68 +186,12 @@
       "summary": "Amid reports Napoli had fresh talks with Max Allegri today, while keeping Vincenzo Italiano as..."
     },
     {
-      "id": "99bd15f4ace5",
-      "title": "Maldini recalls: \"Milan in the Champions League final 3 years ago? It was a young team\"",
-      "url": "https://www.milannews.it/news/maldini-ricorda-milan-3-anni-fa-in-finale-di-champions-era-una-squadra-giovane-618787",
-      "source": "milannews.it",
-      "date": "2026-05-27T18:20:21+00:00",
-      "summary": "- MILAN, MAY 27 - \"It was also a young team.\""
-    },
-    {
-      "id": "2cd440da83a8",
-      "title": "Borghi tough: \"Season of 4 and a half, if you take Tare and Allegri then you have to make them work and that wasn't the case\"",
-      "url": "https://www.milannews.it/news/borghi-duro-stagione-da-4-e-mezzo-se-prendi-tare-e-allegri-poi-devi-farli-lavorare-e-cosi-non-e-stato-618667",
-      "source": "milannews.it",
-      "date": "2026-05-27T18:10:20+00:00",
-      "summary": "In his YouTube channel, the well-known journalist and commentator Stefano Borghi analyzed Milan's season, highlighting what in his opinion were the major problems and difficulties that led the Rossoneri to lose qualification..."
-    },
-    {
       "id": "fa2e375667b8",
       "title": "Synergy, modernity and the field before everything: Milan’s self-declared new guiding principles",
       "url": "https://sempremilan.com/ac-milan-self-declared-new-guiding-principles",
       "source": "sempremilan.com",
       "date": "2026-05-27T18:00:00+00:00",
       "summary": "Whichever way you look at it, AC Milan have hit the hard reset button this summer, after the disastrous end to 2025-26. Things were going so well in early March, when the derby win over Inter reignited the Scudetto push. At times, the gap over fifth place – and thus the cushion inside the Champions "
-    },
-    {
-      "id": "fdb5103ea5c3",
-      "title": "Nesta at Avellino, we're almost there: a two-year deal ready for the former Milan player",
-      "url": "https://www.milannews.it/gli-ex/nesta-all-avellino-ci-siamo-quasi-pronto-un-biennale-per-l-ex-milan-618783",
-      "source": "milannews.it",
-      "date": "2026-05-27T17:59:47+00:00",
-      "summary": "Avellino, after the departure of Davide Ballardini, has chosen its new coach: it will be Alessandro Nesta who is one step away from an agreement with the Campania club for a two-year contract until 30 June 2028."
-    },
-    {
-      "id": "ab5ccdea4558",
-      "title": "MN - Iraola student of the 'Basque' school. Garcia: \"These coaches have a new way of thinking about European football\"",
-      "url": "https://www.milannews.it/news/mn-iraola-alunno-della-scuola-basca-garcia-questi-allenatori-hanno-una-maniera-nuova-di-pensare-il-calcio-europeo-618764",
-      "source": "milannews.it",
-      "date": "2026-05-27T17:50:55+00:00",
-      "summary": "Andoni Iraola is without a doubt the hottest name on the Milan bench ahead of next season."
-    },
-    {
-      "id": "9d6c82c283c9",
-      "title": "Capuano insists: \"Allegri only failed two seasons in his career, it's factual\"",
-      "url": "https://www.milannews.it/news/capuano-insiste-allegri-ha-fallito-solo-due-stagioni-in-carriera-e-fattuale-618747",
-      "source": "milannews.it",
-      "date": "2026-05-27T17:40:20+00:00",
-      "summary": "Giovanni Capuano, on his profile X, reminded that Allegri, although his dismissal was right given the unsuccessful result of the season just ended, has only failed two seasons in his career, namely this season..."
-    },
-    {
-      "id": "97910208cd94",
-      "title": "Naples, the fans against Allegri's arrival on the bench. Three online petitions have also been opened",
-      "url": "https://www.milannews.it/gli-ex/napoli-i-tifosi-contro-l-arrivo-in-panchina-di-allegri-aperte-anche-tre-petizioni-online-618782",
-      "source": "milannews.it",
-      "date": "2026-05-27T17:30:02+00:00",
-      "summary": "After the farewell of Antonio Conte, Napoli is looking for a new coach and at the moment there are two names that president Aurelio De Laurentiis is considering, namely Vincenzo Italiano, still under contract with Bologna, and ..."
-    },
-    {
-      "id": "537df9640000",
-      "title": "Milan-Iraola? Biasin's thoughts: \"It could be an enlightened choice, as long as everyone behind him is rowing in the same direction\"",
-      "url": "https://www.milannews.it/news/milan-iraola-il-pensiero-di-biasin-puo-essere-una-scelta-illuminata-a-patto-che-alle-sue-spalle-remino-tutti-nella-stessa-direzione-618774",
-      "source": "milannews.it",
-      "date": "2026-05-27T17:19:01+00:00",
-      "summary": "In his editorial on tuttomercatoweb.com, Fabrizio Biasin commented on the season of all the Serie A teams 2025-2026."
     },
     {
       "id": "4c8955415e4c",
@@ -138,28 +202,12 @@
       "summary": "With the recent changes at AC Milan, many have hoped that it could pave a way for Paolo Maldini’s return, but there is little to no chance.  There are many figures that Milan fans have wanted to see leave the space in recent years and on Monday, Giorgio Furlani did exactly that, albeit not on […]\nTh"
     },
     {
-      "id": "cdc0227fec91",
-      "title": "MN - Garcia presents Iraola: \"Modern coach, who has built his career with a very clear identity\"",
-      "url": "https://www.milannews.it/news/mn-garcia-presenta-iraola-allenatore-moderno-che-ha-costruito-la-sua-carriera-con-un-identita-molto-chiara-618763",
-      "source": "milannews.it",
-      "date": "2026-05-27T17:10:18+00:00",
-      "summary": "Andoni Iraola is without a doubt the hottest name on the Milan bench ahead of next season."
-    },
-    {
       "id": "95403bf41b50",
       "title": "Maldini on Cardinale insult and Fenerbahce possibility",
       "url": "https://football-italia.net/maldini-on-cardinale-insult-fenerbahce-option/",
       "source": "football-italia.net",
       "date": "2026-05-27T17:07:52+00:00",
       "summary": "Paolo Maldini hit back at Milan patron Gerry Cardinale’s criticism and left the door open..."
-    },
-    {
-      "id": "41850e904221",
-      "title": "The manager of Can (without Rocchi) says that they are generally satisfied with the referees in this championship",
-      "url": "https://www.milannews.it/news/il-responsabile-della-can-senza-rocchi-dice-che-sono-generalmente-soddisfatti-degli-arbitri-in-questo-campionato-618710",
-      "source": "milannews.it",
-      "date": "2026-05-27T17:00:16+00:00",
-      "summary": "(ANSA) - ROME, MAY 26 - \"We are generally satisfied with the referees and the young people who are growing but we must raise the level of centrality of the field referee and ensure that, at VAR level, we intervene only in c ..."
     },
     {
       "id": "02c18dc8be47",
@@ -170,60 +218,12 @@
       "summary": "In the past few hours, it would appear that AC Milan have made some moves forward for a role within the club’s ‘technical area’. Links have been regular to different coaches, technical directors and everything in between in recent days. However, certain names keep being mentioned and one of those wi"
     },
     {
-      "id": "767eb23573cb",
-      "title": "Maldini responds to Cardinale: \"Me One Man Show? You answer yourself\"",
-      "url": "https://www.milannews.it/primo-piano/maldini-risponde-a-cardinale-io-one-man-show-si-risponde-da-solo-618780",
-      "source": "milannews.it",
-      "date": "2026-05-27T16:53:00+00:00",
-      "summary": "On the sidelines of the Sky Inclusion Days Paolo Maldini was of few words, but gave a clear reply to Gerry Cardinale, who the other day with few reporters closed the possibility of a return of the Rossoneri legend defining ..."
-    },
-    {
-      "id": "4383a00b7a61",
-      "title": "Iraola says goodbye to Bournemouth: \"I think I enjoyed it\"",
-      "url": "https://www.milannews.it/news/iraola-saluta-il-bournemouth-penso-di-essermela-goduta-618781",
-      "source": "milannews.it",
-      "date": "2026-05-27T16:50:04+00:00",
-      "summary": "Andoni Iraola officially leaves the Bournemouth bench."
-    },
-    {
-      "id": "1daab4c7df2f",
-      "title": "Messi injury confirmed, but the Argentine is optimistic for the World Cup",
-      "url": "https://www.milannews.it/news/infortunio-messi-confermato-ma-l-argentino-e-ottimista-per-i-mondiali-618709",
-      "source": "milannews.it",
-      "date": "2026-05-27T16:40:37+00:00",
-      "summary": "(ANSA) - ROME, MAY 26 - Participation in the sixth World Cup should not be at risk for Lionel Messi."
-    },
-    {
-      "id": "cd4721d761e0",
-      "title": "Trevisani: “We need to have courage and apologize to Paolo Maldini”",
-      "url": "https://www.milannews.it/news/trevisani-bisogna-avere-coraggio-e-chiedere-scusa-a-paolo-maldini-618777",
-      "source": "milannews.it",
-      "date": "2026-05-27T16:30:17+00:00",
-      "summary": "Interviewed by colleagues from Milan Vibes during the 'Milan Express' format, Riccardo Trevisani spoke about Milan touching on various important topics, from Massimiliano Allegri's farewell to the revolution that is taking place within the ..."
-    },
-    {
       "id": "e590b7a1f0c6",
       "title": "MN: Cardinale’s sacking decision is ‘typically American’ – Milan’s ‘Black Monday’",
       "url": "https://sempremilan.com/cardinale-sacking-decision-typically-american",
       "source": "sempremilan.com",
       "date": "2026-05-27T16:30:00+00:00",
       "summary": "On Monday, AC Milan sacked four of their most influential figures and the decision has been branded ‘NFL-like’.  We are a few days on from the aftermath of Monday’s firing frenzy. RedBird Capital Partners dropped a statement that several figures had been sacked and since then, everyone wants to know"
-    },
-    {
-      "id": "a8e463ab011c",
-      "title": "Milan, Rangnick proposed a role in the Rossoneri technical area",
-      "url": "https://www.milannews.it/news/milan-proposto-a-rangnick-un-ruolo-nell-area-tecnica-rossonera-618776",
-      "source": "milannews.it",
-      "date": "2026-05-27T16:18:08+00:00",
-      "summary": "In the last few hours there has been a lot of talk about a return of Milan's flame for Ralf Rangnick, the current coach of Austria who in 2020 was one step away from the Diavolo's bench, before the club from via Aldo Rossi decided to confirm Stefano Pi..."
-    },
-    {
-      "id": "286af4a58a60",
-      "title": "Cassano: \"Who was stronger between me and Kakà? Me all my life\"",
-      "url": "https://www.milannews.it/news/cassano-chi-era-piu-forte-tra-me-e-kaka-io-tutta-la-vita-618684",
-      "source": "milannews.it",
-      "date": "2026-05-27T16:10:37+00:00",
-      "summary": "During the last episode of Viva el Futbol, ​​podcast by Adani, Ventola and Cassano, the latter responded to the Emilian journalist's question about who was stronger between him and Ricardo Kakà."
     },
     {
       "id": "a35537572308",
