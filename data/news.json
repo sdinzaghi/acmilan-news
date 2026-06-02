@@ -1,165 +1,189 @@
 {
-  "lastUpdated": "2026-06-02T03:44:47.212648+00:00",
+  "lastUpdated": "2026-06-02T08:27:38.528116+00:00",
   "articles": [
     {
-      "id": "eb2734b7d787",
-      "title": "Sabatini warns Milan: \"While nothing happens in the club, the players send farewell messages\"",
-      "url": "https://www.milannews.it/news/sabatini-avvisa-il-milan-mentre-in-societa-non-succede-niente-i-giocatori-lanciano-messaggi-di-addio-619262",
+      "id": "645cd424673f",
+      "title": "Romano: Milan to meet managerial candidate Jaissle – why Al-Ahli are an obstacle",
+      "url": "https://sempremilan.com/milan-meet-jaissle-al-ahli-obstacle",
+      "source": "sempremilan.com",
+      "date": "2026-06-02T08:25:00+00:00",
+      "summary": "We are now in early June and AC Milan are still trying to rebuild their management after last week’s mass sacking. It is expected to be a crucial week in terms of meetings with prospective candidates for the technical director and head coach role, with Ralf Rangnick and Oliver Glasner targeted above"
+    },
+    {
+      "id": "ec0703df70fb",
+      "title": "Milan, Ibra's plan: Planes ds and Slot on the bench. Both are sponsored by Pimenta",
+      "url": "https://www.milannews.it/news/milan-il-piano-di-ibra-planes-ds-e-slot-in-panchina-entrambi-sono-sponsorizzati-dalla-pimenta-619317",
       "source": "milannews.it",
-      "date": "2026-06-01T23:00:29+00:00",
+      "date": "2026-06-02T08:18:49+00:00",
+      "summary": "For days there has been talk of Ralf Rangnick's possible arrival at Milan as the new Rossoneri technical director."
+    },
+    {
+      "id": "02a250298e3a",
+      "title": "Milan, Ibra showed firm opposition to granting full powers to Rangnick",
+      "url": "https://www.milannews.it/news/milan-ibra-ha-mostrato-ferma-contrarieta-a-concedere-pieni-poteri-a-rangnick-619315",
+      "source": "milannews.it",
+      "date": "2026-06-02T08:08:15+00:00",
+      "summary": "These are important days for the Rossoneri due to the possible arrival at Milan of Ralf Rangnick as the new AC Milan technical director."
+    },
+    {
+      "id": "05efadfab018",
+      "title": "Milan bench: today the meeting with Glasner, before the weekend the one with Jaissle. If Rangnick misses, watch out for Pochettino",
+      "url": "https://www.milannews.it/primo-piano/panchina-milan-oggi-l-incontro-con-glasner-prima-del-fine-settimana-quello-con-jaissle-se-salta-rangnick-occhio-a-pochettino-619316",
+      "source": "milannews.it",
+      "date": "2026-06-02T08:00:48+00:00",
+      "summary": "These are very hot days at Milan which could soon have a new coach: today a meeting with Oliver Glasner is scheduled, while an interview with Matthias Jaissle is scheduled before the weekend."
+    },
+    {
+      "id": "5c8f316bdb9f",
+      "title": "GdS: ‘In or out’ – critical week begins with Glasner, Rangnick and Jaissle meetings planned",
+      "url": "https://sempremilan.com/critical-week-milan-glasner-rangnick-jaissle",
+      "source": "sempremilan.com",
+      "date": "2026-06-02T08:00:00+00:00",
+      "summary": "What seems certain is that we are now in a crucial week when it comes to plotting the course for AC Milan’s future. La Gazzetta dello Sport begin by reporting that there will be a meeting with Oliver Glasner today (Tuesday 2 June), while Ralf Rangnick’s yes or no regarding the role of technical dire"
+    },
+    {
+      "id": "fc232f58c960",
+      "title": "CorSport: \"And Milan is already at -60. Chukwueze, Musah and Bennacer return: many millions are lost\"",
+      "url": "https://www.milannews.it/rassegna-stampa/corsport-e-il-milan-e-gia-a-60-chukwueze-musah-e-bennacer-tornano-saltano-tanti-milioni-619314",
+      "source": "milannews.it",
+      "date": "2026-06-02T07:49:54+00:00",
+      "summary": "The Corriere dello Sport headline this morning: \"And Milan are already at -60. Chukwueze, Musah and Bennacer return: many millions are lost\"."
+    },
+    {
+      "id": "7430914a7783",
+      "title": "Today’s Papers: AC Ibrahimovic, Palestra speaks of Inter, Juventus pushing PSG",
+      "url": "https://football-italia.net/todays-papers-ac-ibrahimovic-palestra-speaks/",
+      "source": "football-italia.net",
+      "date": "2026-06-02T07:42:37+00:00",
+      "summary": "La Gazzetta dello Sport  Azzurri princes  Cobolli, Berrettini, Arnaldi in the quarter-finals in Paris  Historic:..."
+    },
+    {
+      "id": "95b6eace8ea1",
+      "title": "Milan, friendly match in Glasgow against Celtic on 25 July",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-il-25-luglio-amichevole-a-glasgow-contro-il-celtic-619313",
+      "source": "milannews.it",
+      "date": "2026-06-02T07:39:10+00:00",
+      "summary": "While waiting to understand who will be the coach, the technical director and the sporting director, Milan's summer is starting to take shape and is enriched with a new friendly match: on 25 July the Rossoneri team will in fact be ..."
+    },
+    {
+      "id": "be3a2026dc3f",
+      "title": "The new Milan takes shape: Rangnick's yes is awaited, today face to face with Glasner",
+      "url": "https://www.milannews.it/rassegna-stampa/il-nuovo-milan-prende-forma-si-attende-il-si-di-rangnick-oggi-faccia-a-faccia-con-glasner-619312",
+      "source": "milannews.it",
+      "date": "2026-06-02T07:19:43+00:00",
+      "summary": "This is a fundamental week for the future of Milan who are always waiting for Ralf Rangnick's response to the Rossoneri's proposal to take over the entire technical area of ​​the club."
+    },
+    {
+      "id": "4d387914f568",
+      "title": "Milan-Allegri, the tug of war continues between the parties for the termination of the contract: the situation",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-allegri-continua-il-braccio-di-ferro-tra-le-parti-per-la-risoluzione-del-contratto-la-situazione-619311",
+      "source": "milannews.it",
+      "date": "2026-06-02T07:09:19+00:00",
+      "summary": "Eight days ago Max Allegri was sacked by Milan after failing to qualify for the Champions League."
+    },
+    {
+      "id": "e9f1acf49d00",
+      "title": "Milan, does the protest land in the USA? Proposal to purchase a space in Time Square to publish the message “Save AC Milan - Cardinale out”",
+      "url": "https://www.milannews.it/news/milan-la-contestazione-sbarca-negli-usa-proposto-l-acquisto-di-uno-spazio-a-time-square-per-pubblicare-il-messaggio-save-ac-milan-cardinale-out-619310",
+      "source": "milannews.it",
+      "date": "2026-06-02T06:59:45+00:00",
+      "summary": "After the protest during the last championship match against Cagliari and having filled Milan with banners, the protest of Milan fans could soon land in the United States, home of Gerry Cardinale: under consideration ..."
+    },
+    {
+      "id": "0711d7bf14c1",
+      "title": "CorSera: \"Cardinal starts the re-foundation of the keys to Milan in Rangnick. But it's against the wall with Allegri on severance pay\"",
+      "url": "https://www.milannews.it/rassegna-stampa/corsera-cardinale-avvia-la-rifondazione-le-chiavi-del-milan-a-rangnick-ma-e-muro-contro-muro-con-allegri-sulla-buonuscita-619309",
+      "source": "milannews.it",
+      "date": "2026-06-02T06:50:08+00:00",
+      "summary": "The Corriere della Sera on newsstands today has the headline: \"Cardinal starts re-founding the keys to Milan in Rangnick. But it's against the wall with Allegri on severance pay.\""
+    },
+    {
+      "id": "bf0ac04c8c5f",
+      "title": "Tuttosport headline: \"Milan chaos: Rangnick towards yes if...\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-titola-milan-caos-rangnick-verso-il-si-se-619308",
+      "source": "milannews.it",
+      "date": "2026-06-02T06:40:17+00:00",
+      "summary": "\"Milan chaos: Rangnick towards yes if."
+    },
+    {
+      "id": "546b76829b81",
+      "title": "Croatia-Belgium prediction, Modric and Saelemaekers will compete before the World Cup",
+      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-croazia-belgio-modric-e-saelemaekers-si-sfidano-prima-del-mondiale-619303",
+      "source": "milannews.it",
+      "date": "2026-06-02T06:30:00+00:00",
+      "summary": "It's getting closer and closer to the start of the World Cup and the national teams are busy with the last tests before leaving for the United States, Mexico and Canada."
+    },
+    {
+      "id": "95e0f24c20b8",
+      "title": "CorSport on the front page: \"AC Ibra. Zlatan's Milan: there is Slot with Planes ds\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-corsport-in-prima-pagina-ac-ibra-il-milan-di-zlatan-c-e-slot-con-planes-ds-619307",
+      "source": "milannews.it",
+      "date": "2026-06-02T06:20:32+00:00",
+      "summary": "Corriere dello Sport opens on the front page this morning with this headline: \"AC Ibra\"."
+    },
+    {
+      "id": "f838629c3c74",
+      "title": "La Gazzetta opening: \"Milan sees Glasner. Meeting with the Austrian coach today\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-gazzetta-in-apertura-il-milan-vede-glasner-oggi-l-incontro-con-il-tecnico-austriaco-619306",
+      "source": "milannews.it",
+      "date": "2026-06-02T06:10:56+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page: \"Milan sees Glasner. Meeting with the Austrian coach today\"."
+    },
+    {
+      "id": "d895c683ebb5",
+      "title": "Cardinale has decided: Milan's technical area to Ralf Rangnick. And what will Ibra do?",
+      "url": "https://www.milannews.it/primo-piano/cardinale-ha-deciso-l-area-tecnica-del-milan-a-ralf-rangnick-e-ibra-cosa-fara-619304",
+      "source": "milannews.it",
+      "date": "2026-06-02T06:00:21+00:00",
+      "summary": "After coming close to it six years ago, Ralf Rangnick is now once again one step away from Milan. If in 2020 the Rossoneri wanted him as coach, this time they want to entrust him with the keys to the entire AC Milan technical area."
+    },
+    {
+      "id": "e273ea096745",
+      "title": "Leao away from Milan? M.Orlando: \"I think the time has come for us to part ways\"",
+      "url": "https://www.milannews.it/news/leao-via-dal-milan-m-orlando-credo-sia-arrivato-il-momento-che-le-strade-si-dividano-619247",
+      "source": "milannews.it",
+      "date": "2026-06-02T05:50:00+00:00",
+      "summary": "Milan finds itself facing a crucial step after a season closed without access to the next Champions League."
+    },
+    {
+      "id": "2bb0b85f9058",
+      "title": "Sabatini asks: \"Scaroni only takes care of the stadium, it's not normal. Milan is in the hands of Ibra's video call consultancy\"",
+      "url": "https://www.milannews.it/news/sabatini-domanda-scaroni-si-occupa-solo-dello-stadio-non-e-normale-il-milan-e-in-mano-alle-consulenze-in-video-call-di-ibra-619266",
+      "source": "milannews.it",
+      "date": "2026-06-02T05:40:45+00:00",
       "summary": "On his YouTube channel, Sandro Sabatini commented on the current situation at Milan which, to date, has not yet identified the new managers and the new coach. These are his words."
     },
     {
-      "id": "780522183abc",
-      "title": "Bucciantini: \"Milan fans are listening to a bit too much. Leao, don't say things that hurt people!\"",
-      "url": "https://www.milannews.it/news/bucciantini-i-tifosi-del-milan-ne-stanno-ascoltando-un-po-troppe-leao-non-dire-cose-che-feriscono-un-popolo-619302",
+      "id": "e794970da1a8",
+      "title": "Chaos Milan, Bucchioni's criticism of Ibra: \"He wanted to say everything\"",
+      "url": "https://www.milannews.it/news/caos-milan-la-critica-di-bucchioni-su-ibra-ha-voluto-mettere-bocca-su-tutto-619241",
       "source": "milannews.it",
-      "date": "2026-06-01T22:50:44+00:00",
-      "summary": "Surprise, then great disappointment and bitterness. The story between Milan and Leao risks ending with those sudden statements by Rafa, pronounced with great light-heartedness at an advertising event for one of his brands."
+      "date": "2026-06-02T05:30:00+00:00",
+      "summary": "For Milan it's time to start again."
     },
     {
-      "id": "fb975416c916",
-      "title": "M. Colombo: \"Allegri tells Ibrahimovic to sell 5 players (including Leao and Loftus) and he calls them, this has not favored rowing on the same side\"",
-      "url": "https://www.milannews.it/news/m-colombo-allegri-dice-a-ibrahimovic-di-vendere-5-giocatori-tra-cui-leao-e-loftus-e-lui-li-chiama-questo-non-ha-favorito-il-remare-dalla-stessa-parte-619255",
+      "id": "acd1de8581d7",
+      "title": "Teotino: \"Glasner coach who achieved extraordinary results with less than stellar teams\"",
+      "url": "https://www.milannews.it/news/teotino-glasner-allenatore-che-ha-ottenuto-risultati-straordinari-con-squadre-non-trascendentali-619299",
       "source": "milannews.it",
-      "date": "2026-06-01T22:40:06+00:00",
-      "summary": "Who knows how much time has passed, but just over a week ago Milan lost the match at San Siro against Cagliari and consequently access to the next Champions League."
+      "date": "2026-06-02T05:20:37+00:00",
+      "summary": "Milan will meet with Oliver Glasner today: the German concluded his adventure with Crystal Palace by winning the Conference League and is currently free."
     },
     {
-      "id": "85d832589bec",
-      "title": "Pellegatti sure: \"Players are fleeing? If there is, it remains to be understood, they want to go to a club where there are clear ideas\"",
-      "url": "https://www.milannews.it/news/pellegatti-sicuro-fuggi-fuggi-dei-giocatori-se-ci-sara-e-da-capire-vogliono-andare-in-un-club-dove-ci-sono-le-idee-chiare-619272",
+      "id": "0df289b0516f",
+      "title": "Pellegatti reveals: \"Cardinale and Calvelli would be happy with Rangnick, this year not everyone was rowing on the same side\"",
+      "url": "https://www.milannews.it/news/pellegatti-svela-cardinale-e-calvelli-sarebbero-contenti-di-rangnick-quest-anno-non-tutti-remavano-dalla-stessa-parte-619271",
       "source": "milannews.it",
-      "date": "2026-06-01T22:30:10+00:00",
-      "summary": "Carlo Pellegatti, on his YouTube channel, talked about the possible stampede that could happen this summer and said that his favorite would be Glasner with Rangnick."
+      "date": "2026-06-02T05:10:29+00:00",
+      "summary": "Carlo Pellegatti, on his YouTube channel, spoke about Ralf Rangnick's profile and the fact that the AC Milan owners and Massimo Calvelli would be satisfied with his possible arrival. These are his words."
     },
     {
-      "id": "285c7740e90d",
-      "title": "Serena harsh on Leao: \"Great unfinished business, he gave very little to Milan, it's right that he goes\"",
-      "url": "https://www.milannews.it/news/serena-duro-con-leao-grande-incompiuto-ha-dato-pochissimo-al-milan-e-giusto-che-se-ne-vada-619301",
+      "id": "772338348b86",
+      "title": "Rossoneri in the national team, this afternoon Modric faces Saelemaekers and De Winter",
+      "url": "https://www.milannews.it/news/rossoneri-in-nazionale-oggi-pomeriggio-modric-affronta-saelemaekers-e-de-winter-619287",
       "source": "milannews.it",
-      "date": "2026-06-01T22:20:16+00:00",
-      "summary": "The great summer classic regarding the transfer window, Calciomercato - The original, is back on Sky."
-    },
-    {
-      "id": "26bc6ea4a842",
-      "title": "Giunti dejected about Milan: \"I just hope they manage to find the right solution\"",
-      "url": "https://www.milannews.it/news/giunti-sconsolato-sul-milan-spero-solo-riescano-a-trovare-la-quadra-619277",
-      "source": "milannews.it",
-      "date": "2026-06-01T22:10:23+00:00",
-      "summary": "Former midfielder Federico Giunti, on the sidelines of the Memorial Gaucci event, spoke to TuttomercatoWeb about the situation at the Rossoneri:\n\nGIUNTI'S WORDS ON MILAN\n\n“I just hope they manage to find the square, p ..."
-    },
-    {
-      "id": "2d990a924a5d",
-      "title": "Crazy week: Milan reduced like this... Power vacuum to be filled immediately. Leao away and he won't be the only one",
-      "url": "https://www.milannews.it/editoriale/settimana-folle-il-milan-ridotto-cosi-vuoto-di-potere-da-colmare-subito-leao-via-e-non-sara-l-unico-619292",
-      "source": "milannews.it",
-      "date": "2026-06-01T22:00:28+00:00",
-      "summary": "The last week has been among the craziest I have ever experienced following Milan. First the exclusion from the Champions League on the last day, then the immediate dismissal of the entire management and coach."
-    },
-    {
-      "id": "9d1b81367806",
-      "title": "Doumbia official at Sporting, record transfer for Venezia",
-      "url": "https://www.milannews.it/news/ufficiale-doumbia-allo-sporting-cessione-record-per-il-venezia-619300",
-      "source": "milannews.it",
-      "date": "2026-06-01T21:50:03+00:00",
-      "summary": "(ANSA) - VENICE, JUNE 01 - Record transfer for Venezia: the lagoon club has just formalized the transfer of Issa Doumbia to Sporting Lisbon."
-    },
-    {
-      "id": "792e6f33858b",
-      "title": "Di Marzio: \"The meeting with Glasner tomorrow has been confirmed. Time is starting to get tight\"",
-      "url": "https://www.milannews.it/calciomercato-milan/di-marzio-confermato-l-incontro-con-glasner-di-domani-i-tempi-cominciano-a-stringere-619298",
-      "source": "milannews.it",
-      "date": "2026-06-01T21:39:14+00:00",
-      "summary": "Calciomercato is back - L'Orginale on Sky Sport and Gianluca Di Marzio talks about Milan's match tomorrow with Oliver Glasner. It is likely that the name of the German coach comes with input from Ralf Rangnick."
-    },
-    {
-      "id": "fd956b62bcf6",
-      "title": "Milan Futuro, Luca Menon signs his first professional contract",
-      "url": "https://www.milannews.it/milan-futuro/milan-futuro-luca-menon-firma-il-primo-contratto-da-professionista-619263",
-      "source": "milannews.it",
-      "date": "2026-06-01T21:30:31+00:00",
-      "summary": "AC Milan announces that Luca Menon has signed his first professional contract."
-    },
-    {
-      "id": "957a72a9f7ed",
-      "title": "Glasner, a possible name for the Rossoneri bench: this is how his last few seasons went",
-      "url": "https://www.milannews.it/news/glasner-possibile-nome-per-la-panchina-rossonera-ecco-come-sono-andate-le-sue-ultime-stagioni-619273",
-      "source": "milannews.it",
-      "date": "2026-06-01T21:20:58+00:00",
-      "summary": "Oliver Glasner, former Crystal Palace manager, is a serious candidate for next year's AC Milan bench. Tomorrow there should be a meeting between him or his agent and the Rossoneri club to discuss the future."
-    },
-    {
-      "id": "5a6a6859ae4a",
-      "title": "Order: \"A prudent owner should have chosen a new line of command first and then sent the dismissal letter\"",
-      "url": "https://www.milannews.it/news/ordine-una-proprieta-accorta-avrebbe-dovuto-scegliere-prima-una-nuova-linea-di-comando-e-poi-mandare-la-lettera-di-licenziamento-619254",
-      "source": "milannews.it",
-      "date": "2026-06-01T21:10:55+00:00",
-      "summary": "A week after the dismissal involving Allegri, Furlani, Moncada and Tare, Cardinale's Milan is still without replacements. It's the first of June and the Rossoneri are already extremely late for next season."
-    },
-    {
-      "id": "a60406694e57",
-      "title": "Sabatini full of doubts: \"Calvelli doesn't deal with football, and what does he do? Is he thinking about the NBA? But what does Milan have to do with the NBA\"",
-      "url": "https://www.milannews.it/news/sabatini-pieno-di-dubbi-calvelli-non-si-occupa-di-calcio-e-cosa-fa-pensa-all-nba-ma-cosa-c-entra-il-milan-con-l-nba-619264",
-      "source": "milannews.it",
-      "date": "2026-06-01T21:00:48+00:00",
-      "summary": "On his YouTube channel, Sandro Sabatini commented on the current situation at Milan which, to date, has not yet identified the new managers and the new coach. These are his words."
-    },
-    {
-      "id": "cd2a54ba0bf7",
-      "title": "World Cup: Iran excludes Azmoun, for his country he is a \"traitor\"",
-      "url": "https://www.milannews.it/news/mondiali-l-iran-esclude-azmoun-per-il-suo-paese-e-un-traditore-619258",
-      "source": "milannews.it",
-      "date": "2026-06-01T20:51:00+00:00",
-      "summary": "(ANSA) - ROME, JUNE 01 - Forward Sardar Azmoun - third best scorer in the history of the Iranian national team, at Roma in the 2023-2024 season - does not appear in the list of players called up for the World Cup, published by the Football Federation ..."
-    },
-    {
-      "id": "6f05adf1457f",
-      "title": "Pellegatti reveals: \"Rangnick would come at all costs, Glasner meets Milan tomorrow\"",
-      "url": "https://www.milannews.it/news/pellegatti-rivela-rangnick-verrebbe-a-tutti-i-costi-domani-glasner-incontra-il-milan-619270",
-      "source": "milannews.it",
-      "date": "2026-06-01T20:40:06+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti talked about what will happen in the next few days at Milan, stating that they could be the decisive ones in identifying the new corporate structure. These are his words."
-    },
-    {
-      "id": "985e47688219",
-      "title": "Marchetti: \"Milan's decision seems more like a decision determined by gut feeling than by rationality\"",
-      "url": "https://www.milannews.it/news/marchetti-quella-del-milan-sembra-piu-una-decisione-determinata-dalla-pancia-che-dalla-razionalita-619281",
-      "source": "milannews.it",
-      "date": "2026-06-01T20:30:37+00:00",
-      "summary": "A week after the dismissals of Furlani, Tare, Allegri and Moncada, Milan are still without replacements."
-    },
-    {
-      "id": "98ae2d307ac1",
-      "title": "Sabatini underlines: \"Once there was Raiola, now there is Pimenta. Ibrahimovic's actions are there for all to see\"",
-      "url": "https://www.milannews.it/news/sabatini-sottolinea-una-volta-c-era-raiola-ora-c-e-pimenta-l-operato-di-ibrahimovic-e-sotto-gli-occhi-di-tutti-619267",
-      "source": "milannews.it",
-      "date": "2026-06-01T20:20:09+00:00",
-      "summary": "On his YouTube channel, Sandro Sabatini commented on the current situation at Milan which, to date, has not yet identified the new managers and the new coach. These are his words."
-    },
-    {
-      "id": "9dcdb258db9d",
-      "title": "Pedullà: \"Rabiot-Napoli contacts have already occurred, we need to wait for Milan to solve their problems\"",
-      "url": "https://www.milannews.it/calciomercato-milan/pedulla-contatti-rabiot-napoli-ci-sono-gia-stati-bisogna-aspettare-che-il-milan-risolva-i-suoi-problemi-619274",
-      "source": "milannews.it",
-      "date": "2026-06-01T20:10:40+00:00",
-      "summary": "Alfredo Pedullà, in his profile X, revealed that contacts between Rabiot and Napoli have already taken place and that now we will have to wait for Milan to resolve their problems, primarily that of the coach and the player ..."
-    },
-    {
-      "id": "b04392a25984",
-      "title": "MN - Futuro Milan, the Rangnick track is gaining strength in the management's ideas. The possible scenarios",
-      "url": "https://www.milannews.it/primo-piano/mn-futuro-milan-prende-forza-la-pista-rangnick-nelle-idee-della-dirigenza-i-possibili-scenari-619275",
-      "source": "milannews.it",
-      "date": "2026-06-01T20:00:00+00:00",
-      "summary": "After the mass layoffs a week ago, it was Monday 25 May, Milan has not yet managed to fill the managerial and technical gaps left by the farewell of Furlani, Tare, Moncada and Allegri."
-    },
-    {
-      "id": "ecee74bbbd8c",
-      "title": "Taibi on Leao: \"Today he is strong, with ups and downs, but he is not a true champion\"",
-      "url": "https://www.milannews.it/news/taibi-su-leao-oggi-e-forte-con-alti-e-bassi-ma-non-e-un-vero-campione-619248",
-      "source": "milannews.it",
-      "date": "2026-06-01T19:50:00+00:00",
-      "summary": "Milan's season ended without qualifying for the Champions League, an outcome that led the club to consider a major overhaul of its sporting project inevitable."
+      "date": "2026-06-02T05:00:48+00:00",
+      "summary": "These are the Rossoneri involved today with their respective national teams. Modric faces the best of Saelemaekers and De Winter in a friendly match to prepare for the World Cup."
     },
     {
       "id": "720cfedc75c8",
@@ -338,22 +362,6 @@
       "summary": "AC Milan have been named as a potential landing spot for Arne Slot after his sacking by Liverpool by a source in England. After a lot of reports suggested they were going to stick with Slot despite a disappointing title defence, the Reds made the decision to sack him over the weekend. This instantly"
     },
     {
-      "id": "c70b4403945c",
-      "title": "“All people seem to care about” – Pulisic sends defiant message after ending drought",
-      "url": "https://sempremilan.com/pulisic-sends-defiant-message-ending-drought",
-      "source": "sempremilan.com",
-      "date": "2026-06-01T10:30:00+00:00",
-      "summary": "Christian Pulisic broke his goal drought on Sunday night, and he now hopes that people will stop talking about it. Pulisic ended his five-month scoring drought with a goal and an assist in a 3-2 friendly win over Senegal. There was an outpouring of emotion from the forward when he netted his side’s "
-    },
-    {
-      "id": "56de6dbea4b3",
-      "title": "Florenzi discusses Milan’s decline, Ibrahimovic’s role and Maldini’s influence",
-      "url": "https://sempremilan.com/florenzi-milan-decline-ibrahimovic-role-maldini",
-      "source": "sempremilan.com",
-      "date": "2026-06-01T10:05:00+00:00",
-      "summary": "Alessandro Florenzi has given his thoughts on AC Milan’s dire end to the season, as well as what remains after the managerial exodus. Florenzi was a key member of the Milan side that won the last Scudetto under Stefano Pioli in 2021-22. As a key figure in the dressing room, the former Roma and Paris"
-    },
-    {
       "id": "513713ed1c03",
       "title": "Rangnick schedules new round of Milan talks and sets deadline for Austria decision",
       "url": "https://football-italia.net/milan-and-rangnick-schedule-new-round-of-talks/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-05-30T14:10:24+00:00",
       "summary": "Reports suggest Milan are looking to sell Rafael Leao this summer, but while he’d reject..."
-    },
-    {
-      "id": "2e0564060404",
-      "title": "Report Slot now top Milan target after being fired by Liverpool",
-      "url": "https://football-italia.net/report-slot-now-top-milan-target-liverpool/",
-      "source": "football-italia.net",
-      "date": "2026-05-30T13:12:05+00:00",
-      "summary": "A surprising report claims that Arne Slot is the new favourite to take over at..."
     }
   ]
 }
