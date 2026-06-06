@@ -1,6 +1,174 @@
 {
-  "lastUpdated": "2026-06-06T06:29:54.506289+00:00",
+  "lastUpdated": "2026-06-06T09:24:52.247697+00:00",
   "articles": [
+    {
+      "id": "e09c8ee95357",
+      "title": "GdS: Juventus make contact with Maignan amid uncertainty at Milan",
+      "url": "https://sempremilan.com/gds-juventus-contact-maignan-uncertainty-milan",
+      "source": "sempremilan.com",
+      "date": "2026-06-06T09:15:00+00:00",
+      "summary": "Juventus have decided to sign a new goalkeeper this summer, following the struggles of Michele Di Gregorio, and Mike Maignan is at the top of their wish list.  Di Gregorio received a lot of praise during his time at Monza and was even linked with Milan at one point, as a potential replacement for Ma"
+    },
+    {
+      "id": "ca6103cdc4f6",
+      "title": "Will the Europa League affect Milan's calendar? Capello: \"Definitely. Only on Saturday to prepare\"",
+      "url": "https://www.milannews.it/news/l-europa-league-incidera-sul-calendario-del-milan-capello-sicuramente-solo-il-sabato-per-prepararsi-619722",
+      "source": "milannews.it",
+      "date": "2026-06-06T09:12:22+00:00",
+      "summary": "At the presentation of the 2026/2027 Serie A calendar yesterday afternoon, Fabio Capello was present on stage, former coach of AC Milan, among others, for whom he also played in his career as a footballer."
+    },
+    {
+      "id": "4e4a68de6ad5",
+      "title": "Milan in no rush over decision making as Glasner remains favourite",
+      "url": "https://football-italia.net/milan-in-no-rush-over-decision-making/",
+      "source": "football-italia.net",
+      "date": "2026-06-06T09:10:00+00:00",
+      "summary": "Milan remain without a coach, sporting director or any clear leadership structure more than two..."
+    },
+    {
+      "id": "840311fb37b7",
+      "title": "Milan, new increases in season ticket prices expected",
+      "url": "https://www.milannews.it/news/milan-attesi-nuovi-aumenti-ai-prezzi-degli-abbonamenti-619721",
+      "source": "milannews.it",
+      "date": "2026-06-06T09:00:00+00:00",
+      "summary": "Protest by AC Milan fans against the owners in full progress."
+    },
+    {
+      "id": "793c5ec8b9b5",
+      "title": "Capello on Serie A fixture release: ‘Juventus must start strong, Roma face tricky start’",
+      "url": "https://football-italia.net/capello-on-serie-a-fixture-release-juventus/",
+      "source": "football-italia.net",
+      "date": "2026-06-06T08:58:00+00:00",
+      "summary": "Fabio Capello has weighed in on the 2026/27 Serie A fixture list, urging Juventus to..."
+    },
+    {
+      "id": "704931e5ebe8",
+      "title": "CorSport: Glasner and Pochettino frontrunners but Cardinale is taking his time",
+      "url": "https://sempremilan.com/corsport-glasner-pochettino-cardinale-taking-time",
+      "source": "sempremilan.com",
+      "date": "2026-06-06T08:50:00+00:00",
+      "summary": "It has been nearly two weeks since Gerry Cardinale cleaned house at AC Milan, but as highlighted by a report, he is still taking his time with the replacements.  The Champions League failure was the final nail in the coffin for Massimiliano Allegri, Igli Tare, Geoffrey Moncada and Giorgio Furlani. T"
+    },
+    {
+      "id": "3b6db792173e",
+      "title": "Calendars with so much uncertainty in Serie A clubs, De Siervo: \"Positive element, rekindles passion\"",
+      "url": "https://www.milannews.it/news/calendari-con-tanta-incertezza-nei-club-di-a-de-siervo-elemento-positivo-riaccende-passione-619720",
+      "source": "milannews.it",
+      "date": "2026-06-06T08:48:47+00:00",
+      "summary": "The 2026/2027 season will officially begin on July 1st and with it the summer transfer market."
+    },
+    {
+      "id": "73fbc22690d1",
+      "title": "Milan on standby, the players still don't know the retirement date",
+      "url": "https://www.milannews.it/news/milan-in-standby-i-giocatori-non-sanno-ancora-la-data-del-ritiro-619719",
+      "source": "milannews.it",
+      "date": "2026-06-06T08:36:44+00:00",
+      "summary": "There are no other ways to say it, total confusion reigns at Milan."
+    },
+    {
+      "id": "6ec58f1ee3cd",
+      "title": "GdS: Leao dreams of Premier League move as Milan set price tag – the latest",
+      "url": "https://sempremilan.com/gds-leao-premier-league-milan-price-tag",
+      "source": "sempremilan.com",
+      "date": "2026-06-06T08:25:00+00:00",
+      "summary": "Rafael Leao is dreaming of a move to the Premier League, and given his willingness to leave this summer, AC Milan have set the price tag.  The 2025-26 season was a tough one for Leao despite his nine goals, failing to perform week in and week out for Milan. An injury didn’t make things better, […]\nT"
+    },
+    {
+      "id": "39f21b4611fa",
+      "title": "Glasner is the strong name, CorSport: \"It's ready even without Rangnick\"",
+      "url": "https://www.milannews.it/rassegna-stampa/glasner-e-il-nome-forte-il-corsport-e-pronto-anche-senza-rangnick-619713",
+      "source": "milannews.it",
+      "date": "2026-06-06T08:24:37+00:00",
+      "summary": "There is still a lot of uncertainty around Milan regarding their future manager."
+    },
+    {
+      "id": "64fc379fd985",
+      "title": "Capello on Milan's calendar: \"It's difficult to imagine him at the top at the starting line\"",
+      "url": "https://www.milannews.it/news/capello-sul-calendario-del-milan-difficile-immaginarlo-al-top-ai-nastri-di-partenza-619718",
+      "source": "milannews.it",
+      "date": "2026-06-06T08:12:50+00:00",
+      "summary": "Yesterday afternoon in Parma, on the sidelines of the first day of the Serie A Festival, the 2026/2027 calendar was presented."
+    },
+    {
+      "id": "4cc5aeb5c855",
+      "title": "Today’s Papers – Sorloth to Juventus and Inter’s three-way defensive plan",
+      "url": "https://football-italia.net/todays-papers-sorloth-to-juventus-and-inters-three-way-defensive-plan/",
+      "source": "football-italia.net",
+      "date": "2026-06-06T08:06:13+00:00",
+      "summary": "Here is a look at the key football stories making the front pages of Italy’s..."
+    },
+    {
+      "id": "05f290fd253d",
+      "title": "Attention Milan, Maignan and Juventus renew contact: new Juventus survey",
+      "url": "https://www.milannews.it/primo-piano/attenzione-milan-maignan-e-juventus-riallacciano-i-contatti-nuovo-sondaggio-bianconero-619717",
+      "source": "milannews.it",
+      "date": "2026-06-06T08:00:00+00:00",
+      "summary": "If we rewind the tape a few months, and go back to the beginning of the season, we find ourselves in the presence of a Mike Maignan, captain and goalkeeper of Milan, not certain of what his future would have been."
+    },
+    {
+      "id": "34dded0b8faa",
+      "title": "Gallery: ‘Leao blasts Allegri’, ‘Tough start for Milan’ – Today’s front pages in Italy",
+      "url": "https://sempremilan.com/gallery-leao-allegri-milan-papers-italy",
+      "source": "sempremilan.com",
+      "date": "2026-06-06T08:00:00+00:00",
+      "summary": "Given everything that is going on, there was a mix of topics highlighted on the front pages this morning, from AC Milan’s schedule for next season to Rafael Leao’s recent words.  The start to the summer has been lively, to say the least, and not for good reasons. Milan still haven’t appointed a new "
+    },
+    {
+      "id": "cc97628593a8",
+      "title": "Rafa against Max, Tuttosport: \"Leao finds the culprit, it's Allegri\"",
+      "url": "https://www.milannews.it/rassegna-stampa/rafa-contro-max-tuttosport-leao-trova-il-colpevole-e-allegri-619715",
+      "source": "milannews.it",
+      "date": "2026-06-06T07:48:00+00:00",
+      "summary": "Rafael Leao spoke for the second time in a week, again from Portugal but this time to Sport TV, and reiterated again his will to leave Milan in the summer."
+    },
+    {
+      "id": "8e52394f4a90",
+      "title": "New writings in front of Casa Milan: \"Cardinal go home\" and \"Free our Milan\"",
+      "url": "https://www.milannews.it/news/nuove-scritte-davanti-a-casa-milan-cardinale-go-home-e-liberate-il-nostro-milan-619716",
+      "source": "milannews.it",
+      "date": "2026-06-06T07:36:00+00:00",
+      "summary": "The Milan fans' protest against Gerry Cardinale and the AC Milan owners does not subside."
+    },
+    {
+      "id": "e02146ae1b69",
+      "title": "Il Giornale comments: \"Cardinal has turned off the light and the Devil in the dark is crashing into the future\"",
+      "url": "https://www.milannews.it/rassegna-stampa/il-giornale-commenta-cardinale-ha-spento-la-luce-e-il-diavolo-al-buio-va-a-sbattere-sul-futuro-619712",
+      "source": "milannews.it",
+      "date": "2026-06-06T07:24:00+00:00",
+      "summary": "Hot and absolutely contested climate for Milan."
+    },
+    {
+      "id": "c6455f523854",
+      "title": "Juve threatens Milan, the Gazzetta headlines: \"Contact with Maignan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/la-juve-insidia-il-milan-la-gazzetta-titola-contatto-con-maignan-619714",
+      "source": "milannews.it",
+      "date": "2026-06-06T07:12:00+00:00",
+      "summary": "When Mike Maignan was still unsure of what his future would be, in the autumn months, with the contract originally expiring in 2027 one of the options on the table was Juventus."
+    },
+    {
+      "id": "fb8d1c6a64ec",
+      "title": "Leao continues to sit out, La Gazzetta: \"Milan fears devaluation\"",
+      "url": "https://www.milannews.it/rassegna-stampa/leao-continua-a-chiamarsi-fuori-la-gazzetta-il-milan-teme-la-svalutazione-619711",
+      "source": "milannews.it",
+      "date": "2026-06-06T07:00:00+00:00",
+      "summary": "In the course of a single week, Rafael Leao, the number 10 of Milan, as well as the highest paid player in the entire squad, had the freedom to speak twice about his future."
+    },
+    {
+      "id": "9e6cb3655faf",
+      "title": "Milan and Lazio united by the protest, CorSport: \"Cardinal and Ibra on trial\"",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-e-lazio-accomunate-dalla-protesta-il-corsport-cardinale-e-ibra-sotto-processo-619710",
+      "source": "milannews.it",
+      "date": "2026-06-06T06:48:30+00:00",
+      "summary": "There is one point in common, these days, between Milan and Lazio. Both the Rossoneri and Biancoceleste clubs, for different reasons and in different ways, are experiencing profound protest from their fans."
+    },
+    {
+      "id": "69f60c837756",
+      "title": "MN - The \"Free Milan\" protest also arrives in Naples: photos of the posters in the city",
+      "url": "https://www.milannews.it/news/mn-la-contestazione-liberate-il-milan-arriva-anche-a-napoli-le-foto-dei-manifesti-in-citta-619709",
+      "source": "milannews.it",
+      "date": "2026-06-06T06:36:09+00:00",
+      "summary": "AC Milan fans dispute ownership. And they don't just do it in Milan."
+    },
     {
       "id": "56e7a3b2e761",
       "title": "Tuttosport bluntly on Milan: \"We are ridiculous\"",
@@ -48,118 +216,6 @@
       "source": "milannews.it",
       "date": "2026-06-06T05:24:25+00:00",
       "summary": "Decisive Sunday for the Rossonero Youth Sector, with two teams involved in the final stages of their respective championships."
-    },
-    {
-      "id": "f9aec47f6dd5",
-      "title": "Curva Sud: \"It will be a long summer and the worst is yet to come; with the civility, determination and passion that have always distinguished us, we must not give it a break\"",
-      "url": "https://www.milannews.it/news/curva-sud-sara-una-lunga-estate-e-il-peggio-dovra-ancora-arrivare-con-la-civilta-la-determinazione-e-la-passione-che-da-sempre-ci-contraddistinguono-n-619703",
-      "source": "milannews.it",
-      "date": "2026-06-06T05:12:15+00:00",
-      "summary": "It's June 6, 2026 and Milan still doesn't have a coach or sporting director. A difficult situation to comment on, which left the fans in total despair."
-    },
-    {
-      "id": "4c4957515d41",
-      "title": "Serie A 2026/27, Milan's calendar: an uphill start for the Rossoneri",
-      "url": "https://www.milannews.it/news/serie-a-2026-27-il-calendario-del-milan-inizio-in-salita-per-i-rossoneri-619702",
-      "source": "milannews.it",
-      "date": "2026-06-06T05:00:07+00:00",
-      "summary": "This is the complete Serie A 26/27 AC Milan calendar."
-    },
-    {
-      "id": "4cf021e2dee5",
-      "title": "M.Orlando: \"Glasner or Slot? I would like Conte at Milan, not these\"",
-      "url": "https://www.milannews.it/news/m-orlando-glasner-o-slot-lo-vorrei-conte-al-milan-non-questi-619675",
-      "source": "milannews.it",
-      "date": "2026-06-05T23:00:32+00:00",
-      "summary": "On Tuttomercatoweb radio."
-    },
-    {
-      "id": "cfb1a33ac83c",
-      "title": "MN - Caressa: \"Ibrahimovic needs to lock himself in an office in Milan and start working\"",
-      "url": "https://www.milannews.it/news/mn-caressa-c-e-bisogno-che-ibrahimovic-si-chiuda-in-un-ufficio-a-milano-a-cominci-a-lavorare-619657",
-      "source": "milannews.it",
-      "date": "2026-06-05T22:50:01+00:00",
-      "summary": "Having reached the 5th of June, uncertainty continues to dominate at Milan. A new CEO has not yet been identified, much less a sporting director, technical director or coach."
-    },
-    {
-      "id": "0821fe219ad8",
-      "title": "The mayor of New York surprises: \"Balotelli is one of the greatest strikers of recent times\"",
-      "url": "https://www.milannews.it/news/il-sindaco-di-new-york-a-sorpresa-balotelli-uno-dei-piu-grandi-attaccanti-degli-ultimi-tempi-619680",
-      "source": "milannews.it",
-      "date": "2026-06-05T22:40:00+00:00",
-      "summary": "(ANSA) - NEW YORK, JUNE 05 - Zohran Mamdani quoted a famous phrase by Mario Balotelli during a speech ahead of the 2026 World Cup, defining the Italian footballer \"one of the greatest strikers of recent times\"."
-    },
-    {
-      "id": "4be908beb7fa",
-      "title": "Italy, Pisilli: \"If a young player is good, he eventually plays, but opportunities are needed\"",
-      "url": "https://www.milannews.it/news/italia-pisilli-se-un-giovane-e-bravo-alla-fine-gioca-ma-servono-occasioni-619668",
-      "source": "milannews.it",
-      "date": "2026-06-05T22:30:27+00:00",
-      "summary": "(ANSA) - FLORENCE, JUNE 05 - \"If a young person is good in the end the value comes out, it can happen at 18 or 22 years old, but then it happens."
-    },
-    {
-      "id": "c0e917954ca7",
-      "title": "Leao-Milan, we're saying goodbye: numbers and goals from Rafa in the Rossoneri",
-      "url": "https://www.milannews.it/news/leao-milan-siamo-ai-saluti-numeri-e-gol-di-rafa-in-rossonero-619672",
-      "source": "milannews.it",
-      "date": "2026-06-05T22:20:00+00:00",
-      "summary": "Milan continues in its chaos and confusion. It's absurd to prepare for a season like this, still without a coach and sporting director."
-    },
-    {
-      "id": "fc7c406e4fca",
-      "title": "De Siervo: \"Fewer interruptions from the referees, so effective playing time increases\"",
-      "url": "https://www.milannews.it/news/de-siervo-dagli-arbitri-meno-interruzioni-cosi-si-alza-minutaggio-effettivo-619665",
-      "source": "milannews.it",
-      "date": "2026-06-05T22:10:00+00:00",
-      "summary": "(ANSA) - PARMA, JUNE 05 - \"We expect ever-increasing levels of performance from referees, the level of ours is already high, they are a generation of young people who we will hear positive things about, at a European level they envy us..."
-    },
-    {
-      "id": "4ea08f2d556c",
-      "title": "Galli's advance - Rafa Leão, the talent that was enough",
-      "url": "https://www.milannews.it/editoriale/l-anticipo-di-galli-rafa-leao-il-talento-che-si-bastava-619550",
-      "source": "milannews.it",
-      "date": "2026-06-05T22:00:01+00:00",
-      "summary": "He was ahead of everyone. Through an interview from the retreat of the Portuguese national team, Rafa Leão affirmed that he wants to face new challenges, effectively declaring his experience at Milan to be over."
-    },
-    {
-      "id": "2cfe6b97dbd3",
-      "title": "Curva Nord Lazio, a sensational decision arrives: \"We will not get a season ticket and we will never enter the stadium\"",
-      "url": "https://www.milannews.it/news/curva-nord-lazio-arriva-una-decisione-clamorosa-non-faremo-l-abbonamento-e-non-entreremo-mai-allo-stadio-619649",
-      "source": "milannews.it",
-      "date": "2026-06-05T21:50:29+00:00",
-      "summary": "Last week, the organized Lazio supporters made an appointment today, Friday 5 June, to communicate to everyone their decision regarding the protest against president Lotito for next season."
-    },
-    {
-      "id": "ff406b6d50df",
-      "title": "Milan crisis, discontent also reaches North America: \"What prospects do we have?\"",
-      "url": "https://www.milannews.it/news/crisi-milan-il-malcontento-arriva-anche-in-nord-america-che-prospettive-abbiamo-619698",
-      "source": "milannews.it",
-      "date": "2026-06-05T21:40:11+00:00",
-      "summary": "The discontent of the Rossoneri fans is the same not only throughout Italy, but also abroad."
-    },
-    {
-      "id": "b6823d622d97",
-      "title": "Serie A: new calendar, old habits. The comparison between Milan and Inter speaks for itself",
-      "url": "https://www.milannews.it/news/seria-a-nuovo-calendario-vecchie-abitudini-il-confronto-tra-milan-ed-inter-parla-da-se-619700",
-      "source": "milannews.it",
-      "date": "2026-06-05T21:30:30+00:00",
-      "summary": "In the afternoon, the calendar for the 2026/27 Serie A season was presented in Parma."
-    },
-    {
-      "id": "3060cd8bec8d",
-      "title": "Di Marzio: \"I imagine that at the beginning of next week it will be understood whether Rangnick will accept Milan's proposal or not\"",
-      "url": "https://www.milannews.it/calciomercato-milan/di-marzio-immagino-che-all-inizio-della-settimana-prossima-si-capira-se-rangnick-accettera-o-meno-la-proposta-del-milan-619701",
-      "source": "milannews.it",
-      "date": "2026-06-05T21:20:55+00:00",
-      "summary": "Live on Sky Sport 24, during Calciomercato - L'Originale, Gianluca Di Marzio talks about Milan's possible choices for coach and managers."
-    },
-    {
-      "id": "e9a6153f17b3",
-      "title": "Aic and Lega di A: Gran Galà del Calcio on 2 September at the Scala in Milan",
-      "url": "https://www.milannews.it/news/aic-e-lega-di-a-gran-gala-del-calcio-il-2-settembre-alla-scala-di-milano-619688",
-      "source": "milannews.it",
-      "date": "2026-06-05T21:11:17+00:00",
-      "summary": "(ANSA) - PARMA, JUNE 05 - The newfound harmony between Lega Serie A and the players' union has also given rise - ANSA learns in sports circles - to a partnership for the Gran Galà del Calcio, which will take place this year for the p ..."
     },
     {
       "id": "b632390c8190",
@@ -378,44 +434,12 @@
       "summary": "Christian Pulisic has not had the easiest of years, but he is solely looking ahead to the World Cup on home soil with the United States. Pulisic is among the big names that the USMNT expect a lot from in the World Cup that will start next Thursday. He is seen as a leader and […]\nThe post Pulisic loo"
     },
     {
-      "id": "4e9dab52869c",
-      "title": "Reports: Icardi to leave Galatasaray and wants Serie A return – Milan move not excluded",
-      "url": "https://sempremilan.com/icardi-leave-galatasaray-milan-not-excluded",
-      "source": "sempremilan.com",
-      "date": "2026-06-05T10:55:00+00:00",
-      "summary": "Mauro Icardi’s adventure with Galatasaray is increasingly close to being considered over, and he could leave on a free transfer. As Calciomercato.com report, talks between Icardi and Galatasaray over the renewal of his deal – which expires at the end of this month – have not yet materialised and act"
-    },
-    {
-      "id": "57668d8c6605",
-      "title": "Maignan and Rabiot put in solid starts for France despite friendly defeat to Ivory Coast",
-      "url": "https://sempremilan.com/maignan-rabiot-solid-starts-france-ivory-coast",
-      "source": "sempremilan.com",
-      "date": "2026-06-05T10:30:00+00:00",
-      "summary": "Mike Maignan and Adrien Rabiot were on the pitch in the penultimate pre-World Cup friendly for France against the Ivory Coast. The two Milan players started in the penultimate friendly match for the French national team before the tournament in North America, where Les Bleus are among the favourites"
-    },
-    {
       "id": "2ac114f9810b",
       "title": "Rangnick eyes Man United and Southampton staff for Milan, but issues ultimatum – report",
       "url": "https://football-italia.net/rangnick-man-utd-southampton-milan-ultimatum/",
       "source": "football-italia.net",
       "date": "2026-06-05T10:29:24+00:00",
       "summary": "La Gazzetta dello Sport reports that Ralf Rangnick wants to bring Southampton director Johannes Spors and..."
-    },
-    {
-      "id": "dbb29760e833",
-      "title": "CEO candidate Ferrari outlines vision for Milan which includes return of Maldini",
-      "url": "https://sempremilan.com/ferrari-vision-milan-ceo-maldini-return",
-      "source": "sempremilan.com",
-      "date": "2026-06-05T10:05:00+00:00",
-      "summary": "Massimo Ferrari has been mentioned as a candidate for AC Milan’s vacant CEO position, and he has outlined his vision. Milan are looking for a new Chief Executive Officer (as well as other key figures) after the mass clear-out last Monday cost Giorgio Furlani his job. A number of candidates have alre"
-    },
-    {
-      "id": "a96cacfa7f66",
-      "title": "Moretto: Rangnick’s fate undecided amid Austria offer and ‘clash of views’ with Milan",
-      "url": "https://sempremilan.com/rangnick-fate-undecided-clash-views-milan",
-      "source": "sempremilan.com",
-      "date": "2026-06-05T09:40:00+00:00",
-      "summary": "The negotiations between AC Milan and Ralf Rangnick seem to have encountered a bit of a slowdown, Matteo Moretto has suggested. Since the sackings of Massimiliano Allegri, Igli Tare, Geoffrey Moncada and Giorgio Furlani last Monday, there has been a lot of speculation surrounding the possibility of "
     },
     {
       "id": "60c653e1290f",
@@ -456,30 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-06-03T21:28:16+00:00",
       "summary": "Juventus have begun negotiations with Atletico Madrid centre-forward Alexander Sorloth, claim Sky Sport Italia, while..."
-    },
-    {
-      "id": "7e3cc6102a49",
-      "title": "Chiellini warning: ‘Vlahovic won’t stay in Italy with these figures’",
-      "url": "https://football-italia.net/chiellini-vlahovic-wont-stay-in-italy-figures/",
-      "source": "football-italia.net",
-      "date": "2026-06-03T19:05:54+00:00",
-      "summary": "Juventus director Giorgio Chiellini believes Dusan Vlahovic ‘won’t remain in Italy’ with his salary demands,..."
-    },
-    {
-      "id": "3732948e2a56",
-      "title": "Allegri and Napoli must wait a little longer for Milan termination",
-      "url": "https://football-italia.net/allegri-napoli-must-wait-a-little-longer-milan/",
-      "source": "football-italia.net",
-      "date": "2026-06-03T17:31:11+00:00",
-      "summary": "Max Allegri and Milan met today to discuss the termination of his contract, but Napoli..."
-    },
-    {
-      "id": "241b0c0d103d",
-      "title": "Goretzka falls off Milan radar, but Juventus not convinced either",
-      "url": "https://football-italia.net/goretzka-falls-off-milan-radar-juve-unlikely/",
-      "source": "football-italia.net",
-      "date": "2026-06-03T17:02:09+00:00",
-      "summary": "Leon Goretzka had been on the verge of an agreement to join Milan from Bayern..."
     }
   ]
 }
