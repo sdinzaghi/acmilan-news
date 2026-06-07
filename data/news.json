@@ -1,6 +1,142 @@
 {
-  "lastUpdated": "2026-06-07T12:19:25.785889+00:00",
+  "lastUpdated": "2026-06-07T14:51:10.184656+00:00",
   "articles": [
+    {
+      "id": "c8483f35b1c4",
+      "title": "Ariedo Braida talks about the difference between his Milan and the current one",
+      "url": "https://www.milannews.it/news/ariedo-braida-racconta-qual-e-la-differenza-tra-il-suo-milan-e-quello-attuale-619839",
+      "source": "milannews.it",
+      "date": "2026-06-07T14:36:02+00:00",
+      "summary": "Milan is experiencing a great period of uncertainty: it is not yet known who the points of reference will be in the Rossoneri's next season. There are no names yet for the replacements of Allegri, Furlani, Tare and Moncada."
+    },
+    {
+      "id": "ae5a0309ac88",
+      "title": "GdS: Void at Milan could extend to dressing room as four starts may leave",
+      "url": "https://sempremilan.com/void-dressing-room-milan-four-stars-leave",
+      "source": "sempremilan.com",
+      "date": "2026-06-07T14:30:00+00:00",
+      "summary": "AC Milan are at risk of having all of their big names leave the club this summer, which would prompt a full rebuild. As La Gazzetta dello Sport report, Milan’s management is an empty shell at the moment, a situation that causes doubt and confusion among the players and those who manage their interes"
+    },
+    {
+      "id": "b2f73591f76d",
+      "title": "Milan, who should we start next season from? Vocalelli: \"Maignan, Gabbia, Rabiot and Pulisic\"",
+      "url": "https://www.milannews.it/news/milan-da-chi-ripartire-la-prossima-stagione-vocalelli-maignan-gabbia-rabiot-e-pulisic-619829",
+      "source": "milannews.it",
+      "date": "2026-06-07T14:24:51+00:00",
+      "summary": "Paradoxically, in the current state of affairs, Milan's only certainty is the players."
+    },
+    {
+      "id": "ff5f18386689",
+      "title": "Pre-World Cup friendlies: Montella's Turkey beats Venezuela",
+      "url": "https://www.milannews.it/news/amichevoli-pre-mondiali-la-turchia-di-montella-batte-il-venezuela-619837",
+      "source": "milannews.it",
+      "date": "2026-06-07T14:11:28+00:00",
+      "summary": "(ANSA) - ROME, JUNE 07 - Vincenzo Montella's Turkey beat Venezuela 2-1 in a friendly match played in Fort Lauderdale (Florida) ahead of the World Cup."
+    },
+    {
+      "id": "67b96ed17d2b",
+      "title": "MN EXCLUSIVE - Waseige (DAZN, Belgium): \"Milan, take De Cat and Lukaku. The first is the boss of Anderlecht at 17 years old, the second an added value\"",
+      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-waseige-dazn-belgio-milan-prendi-de-cat-e-lukaku-il-primo-e-il-boss-dell-anderlecht-a-17-anni-il-secondo-un-valore-aggiunto-619793",
+      "source": "milannews.it",
+      "date": "2026-06-07T14:00:00+00:00",
+      "summary": "Among the talents that Milan are monitoring for the future there is also Nathan De Cat, a midfielder born in 2008 for Anderlecht and considered one of the most interesting prospects in Belgian football."
+    },
+    {
+      "id": "84579bf05e27",
+      "title": "Il Mattino: Ibrahimovic pushing to try stop Allegri joining Napoli – the reasons",
+      "url": "https://sempremilan.com/ibrahimovic-stop-allegri-joining-napoli-reasons",
+      "source": "sempremilan.com",
+      "date": "2026-06-07T14:00:00+00:00",
+      "summary": "While there is no news coming out regarding AC Milan’s management, there is radio silence regarding Massimiliano Allegri’s fate too. Allegri dismissed along with the rest of the previous management team after failing to get a Champions League place, and he quickly reached an agreement to take over f"
+    },
+    {
+      "id": "dfb4746feb1c",
+      "title": "Braida: \"Leao has very important qualities but if you don't convey them on the pitch, it's all in vain\"",
+      "url": "https://www.milannews.it/news/braida-leao-ha-qualita-importantissime-ma-se-non-le-trasmetti-in-campo-e-tutto-vano-619835",
+      "source": "milannews.it",
+      "date": "2026-06-07T13:48:26+00:00",
+      "summary": "In his interview granted in the mixed zone in Parma, on the sidelines of the Serie A Festival, the former great Rossoneri manager Ariedo Braida spoke a lot about Milan and also made an excursus on the future of Rafael Leao."
+    },
+    {
+      "id": "11385e894014",
+      "title": "Ravezzani: \"The fact that he doesn't grasp the state of anxiety of the Milan fans shows how inadequate Ibra is in the role he assigned himself by purchasing Redbird shares\"",
+      "url": "https://www.milannews.it/news/ravezzani-il-fatto-che-non-colga-lo-stato-d-ansia-dei-tifosi-del-milan-denota-quanto-ibra-sia-inadeguato-nel-ruolo-che-si-e-auto-assegnato-acquistando-619836",
+      "source": "milannews.it",
+      "date": "2026-06-07T13:36:50+00:00",
+      "summary": "In these strange and worrying days, always sportingly speaking, the Rossoneri fan wonders how Ibrahimovic cannot notice the discontent of an entire population when he continues to post videos on his social networks more or less discussing ..."
+    },
+    {
+      "id": "18bc76d0e5e1",
+      "title": "Martinez frustrated by Leao decision: “We can’t get a red card in a situation like that”",
+      "url": "https://sempremilan.com/martinez-frustrated-leao-decision-red-card",
+      "source": "sempremilan.com",
+      "date": "2026-06-07T13:30:00+00:00",
+      "summary": "Portugal boss Roberto Martinez was disappointed by the red card that Rafael Leao got, even if he disagrees with the decision. Things got very heated despite it being a ‘friendly’ between Portugal and Chile last night. Following a clash, Cancelo and Faundez began pushing each other, prompting the int"
+    },
+    {
+      "id": "8d1505f8faf9",
+      "title": "Damiani on the future of the Milan bench: \"I hope to see Conte. An excellent coach\"",
+      "url": "https://www.milannews.it/news/damiani-sul-futuro-della-panchina-del-milan-mi-auguro-di-vedere-conte-un-allenatore-coi-fiocchi-619769",
+      "source": "milannews.it",
+      "date": "2026-06-07T13:24:39+00:00",
+      "summary": "Interviewed by colleagues from TMW, transfer operator Oscar Damiani not only commented on the Serie A calendar, made official yesterday afternoon, but also spoke about Milan, suggesting to the Rossoneri club which coach to hire for ..."
+    },
+    {
+      "id": "71b9037c6ef9",
+      "title": "Capello: \"Milan, how can this chaos be resolved? We don't know. Fans are rightly worried\"",
+      "url": "https://www.milannews.it/news/capello-milan-come-si-risolve-questo-caos-non-si-sa-tifosi-giustamente-preoccupati-619823",
+      "source": "milannews.it",
+      "date": "2026-06-07T13:12:00+00:00",
+      "summary": "Confusion and uncertainty still dominate at Casa Milan: it is not yet known, two weeks after the mass dismissals carried out by Cardinale with the support of Ibrahimovic and Calvelli, who will lead the Rossoneri club..."
+    },
+    {
+      "id": "46df6d2a4cf3",
+      "title": "Deschamps: \"I'm sad to see Milan and Juventus out of the Champions League\"",
+      "url": "https://www.milannews.it/news/deschamps-sono-triste-nel-vedere-milan-e-juventus-fuori-dalla-champions-619827",
+      "source": "milannews.it",
+      "date": "2026-06-07T13:00:16+00:00",
+      "summary": "It cannot be said that this season has been unforgettable for Italian football outside of national borders."
+    },
+    {
+      "id": "b83739626609",
+      "title": "Deschamps comments on Rabiot rumours and expresses sadness over Milan’s demise",
+      "url": "https://sempremilan.com/deschamps-rabiot-rumours-sadness-milan-demise",
+      "source": "sempremilan.com",
+      "date": "2026-06-07T13:00:00+00:00",
+      "summary": "France head coach Didier Deschamps has suggested that Adrien Rabiot needs to figure out his future at club level. Over the past few days, there have been a number of different sources claiming that Rabiot’s future is in doubt. Not only did Milan fail to qualify for the Champions League, but his big "
+    },
+    {
+      "id": "31e58e712c48",
+      "title": "Vocalelli: \"Milan must make some firm points: Maignan must be the first\"",
+      "url": "https://www.milannews.it/news/vocalelli-il-milan-deve-mettere-qualche-punto-fermo-maignan-dev-essere-il-primo-619828",
+      "source": "milannews.it",
+      "date": "2026-06-07T12:48:10+00:00",
+      "summary": "In recent days the hypothesis of a possible farewell of Mike Maignan this summer has once again made its way."
+    },
+    {
+      "id": "256bb01286de",
+      "title": "Does Glasner bring Mateta back into Milan orbit? The Frenchman's numbers this season",
+      "url": "https://www.milannews.it/news/glasner-riporta-mateta-in-orbita-milan-i-numeri-del-francese-in-stagione-619834",
+      "source": "milannews.it",
+      "date": "2026-06-07T12:36:23+00:00",
+      "summary": "As they say in these cases, quoting Venditti, \"Certain loves don't end, they take immense turns and then return\"."
+    },
+    {
+      "id": "49bbd5a31404",
+      "title": "De Ketelaere looks back on Milan spell with admission: “I learned so much from that year”",
+      "url": "https://sempremilan.com/de-ketelaere-looks-back-milan-spell",
+      "source": "sempremilan.com",
+      "date": "2026-06-07T12:30:00+00:00",
+      "summary": "Charles De Ketelaere has reflected on his time at AC Milan, admitting that it hurts to have not scored a goal for the club. De Ketelaere scored the goal to make it 2-0 for Belgium and was among the key players in their resounding 5-0 victory over Tunisia in their final friendly before their World […"
+    },
+    {
+      "id": "b3446caa385a",
+      "title": "Como, owner Suwarso: \"I don't think we will fight for the Scudetto but we will take the field to win\"",
+      "url": "https://www.milannews.it/news/como-il-patron-suwarso-non-credo-che-lotteremo-per-lo-scudetto-ma-scenderemo-in-campo-per-vincere-619800",
+      "source": "milannews.it",
+      "date": "2026-06-07T12:24:12+00:00",
+      "summary": "(ANSA) - MILAN, JUNE 06 - Nico Paz's future is in the hands of Real Madrid but Cesc Fabregas has assured that he will remain at Como, however on Cambiaso and Chiesa the request is currently not within the reach of the Como club: ..."
+    },
     {
       "id": "122722af1471",
       "title": "Braida's advice: \"Ibra must sometimes have the humility to learn\"",
@@ -98,36 +234,12 @@
       "summary": "While everyone celebrates the imminent start of the World Cup and prepares for the highly anticipated tournament in North America, Italy watches everyone from afar and licks its wounds."
     },
     {
-      "id": "d1dc7150e399",
-      "title": "Milan of the future, Fofana and Loftus-Cheek with suitcases in hand",
-      "url": "https://www.milannews.it/news/milan-del-futuro-fofana-e-loftus-cheek-con-le-valigie-in-mano-619825",
-      "source": "milannews.it",
-      "date": "2026-06-07T10:36:51+00:00",
-      "summary": "The Milan is still navigating by sight and it is therefore impossible to make clear or certain predictions on what the Rossonero club will be like a month from now or next season."
-    },
-    {
       "id": "3fb004afbfd2",
       "title": "GdS: Data, remote working and a past at Genoa – the background on Milan candidate Spors",
       "url": "https://sempremilan.com/data-genoa-background-milan-candidate-spors",
       "source": "sempremilan.com",
       "date": "2026-06-07T10:30:00+00:00",
       "summary": "Ralf Rangnick would want to bring his own sporting director to AC Milan, and one name stands out above other candidates: Johannes Spors. La Gazzetta dello Sport recall that Spors has a past at Genoa, where he was known as being a ‘cold’ character. He was the transfer market man for Genoa’s former Am"
-    },
-    {
-      "id": "b836e865d8cf",
-      "title": "Order on Ibrahimovic: \"Either he stays in or he stays out. Even physically\"",
-      "url": "https://www.milannews.it/news/ordine-su-ibrahimovic-o-sta-dentro-oppure-resta-fuori-anche-materialmente-619810",
-      "source": "milannews.it",
-      "date": "2026-06-07T10:24:00+00:00",
-      "summary": "For Milan, the summer will be a decisive period, necessary to restart after a season that did not meet the expectations of the club and fans."
-    },
-    {
-      "id": "addb98a2259d",
-      "title": "Braida: \"It makes me cry to see Milan in this situation\"",
-      "url": "https://www.milannews.it/news/braida-mi-viene-da-piangere-a-vedere-il-milan-in-questa-situazione-619831",
-      "source": "milannews.it",
-      "date": "2026-06-07T10:12:00+00:00",
-      "summary": "Former AC Milan manager Ariedo Braida spoke in the mixed zone of the Serie A Festival which is currently taking place in Parma and where the calendar was also presented a couple of days ago..."
     },
     {
       "id": "9bdff2eba061",
@@ -138,44 +250,12 @@
       "summary": "Christian Pulisic was in the starting line-up again on Saturday night as the USA lost to Germany in a World Cup warm-up game. Pulisic was named the starting XI by Mauricio Pochettino and played for 62 minutes, but his performance wasn’t exactly as dazzling as the other night against Senegal, when he"
     },
     {
-      "id": "3e4f2bb58816",
-      "title": "New management, old coach: Mateta can arrive at Milan with Glasner",
-      "url": "https://www.milannews.it/primo-piano/nuova-dirigenza-vecchio-allenatore-mateta-puo-arrivare-al-milan-con-glasner-619830",
-      "source": "milannews.it",
-      "date": "2026-06-07T10:00:00+00:00",
-      "summary": "Rossoneri fans will remember well the last days and hours of the winter transfer market session."
-    },
-    {
-      "id": "f97d173f8f4d",
-      "title": "Coach Martinez criticizes Leao: \"We can't get a red card in a situation like this\"",
-      "url": "https://www.milannews.it/news/il-ct-martinez-bacchetta-leao-non-possiamo-prendere-un-rosso-in-una-situazione-del-genere-619818",
-      "source": "milannews.it",
-      "date": "2026-06-07T09:48:14+00:00",
-      "summary": "Yesterday evening, Portugal played the first of two friendly matches that will launch the Portuguese team towards the World Cup which will begin on Thursday between the United States, Mexico and Canada."
-    },
-    {
       "id": "3fd4faef9608",
       "title": "CorSport: Milan still stuck due to lack of collective vision – comparison with rivals worrying",
       "url": "https://sempremilan.com/milan-still-stuck-lack-collective-vision",
       "source": "sempremilan.com",
       "date": "2026-06-07T09:40:00+00:00",
       "summary": "June should have been the start of AC Milan’s rebuild at management level, yet one week into the month no gaps have been filled. As Corriere dello Sport (via MilanNews) writes this morning, this is a time when Milan – coming off a profoundly disappointing season – should have laid the foundations fo"
-    },
-    {
-      "id": "de98d917562a",
-      "title": "Crossroads Milan, now Cardinale and Ibrahimovic must choose which path to take",
-      "url": "https://www.milannews.it/news/bivio-milan-ora-cardinale-e-ibrahimovic-devono-scegliere-che-strada-percorrere-619824",
-      "source": "milannews.it",
-      "date": "2026-06-07T09:36:23+00:00",
-      "summary": "Waiting is the only certain truth for Milan in these first two weeks of the end of the Rossoneri club's season."
-    },
-    {
-      "id": "9e2b3659c3e4",
-      "title": "Three Rossoneri (plus one) involved today with their respective national teams",
-      "url": "https://www.milannews.it/news/tre-rossoneri-piu-uno-impegnati-oggi-con-le-rispettive-nazionali-619821",
-      "source": "milannews.it",
-      "date": "2026-06-07T09:24:00+00:00",
-      "summary": "The opening match of the 2026 World Cup is getting closer and closer: Mexico-South Africa will be played on Thursday at 9pm."
     },
     {
       "id": "6d513e8aab9d",
@@ -186,44 +266,12 @@
       "summary": "While gearing up for the World Cup with France, Mike Maignan has doubts about where he will play his club football next season. La Gazzetta dello Sport recall how his contract renewal until 2031 – at over €5m net per season and without a release clause – seemed to have put an end to any […]\nThe post"
     },
     {
-      "id": "020fa20f885f",
-      "title": "Order on Ibrahimovic: \"He must make a definitive choice: in or out\"",
-      "url": "https://www.milannews.it/news/ordine-su-ibrahimovic-deve-fare-una-scelta-definitiva-dentro-o-fuori-619809",
-      "source": "milannews.it",
-      "date": "2026-06-07T09:12:00+00:00",
-      "summary": "The summer represents a decisive transition for Milan, called to react after a year that did not meet the expectations of the management and the fans."
-    },
-    {
-      "id": "23153c8e6f4d",
-      "title": "Vieri on Milan: \"If you don't have a great center forward, you don't win\"",
-      "url": "https://www.milannews.it/news/vieri-sul-milan-se-non-hai-un-grande-centravanti-non-vinci-619820",
-      "source": "milannews.it",
-      "date": "2026-06-07T09:00:00+00:00",
-      "summary": "After being in second place for most of the year, and even very close to first, Milan's season foundered in the last two months and in general on the last day: too many defeats, too few goals and r ..."
-    },
-    {
       "id": "4879bc66ef2d",
       "title": "Loftus-Cheek gives cryptic answer about Milan future: “I can’t say much right now”",
       "url": "https://sempremilan.com/loftus-cheek-cryptic-answer-milan-future",
       "source": "sempremilan.com",
       "date": "2026-06-07T08:50:00+00:00",
       "summary": "Much like AC Milan’s future is uncertain at present, Ruben Loftus-Cheek has admitted he is unsure where he will be playing next season. Loftus-Cheek’s time at Milan could be coming to an end after three years. At the start of the season, there was great hope that this could be the season of his defi"
-    },
-    {
-      "id": "c8355d6e21bd",
-      "title": "One between Gimenez and Nkunku can stay: the new coach will decide",
-      "url": "https://www.milannews.it/calciomercato-milan/uno-tra-gimenez-e-nkunku-puo-restare-decidera-il-nuovo-tecnico-619819",
-      "source": "milannews.it",
-      "date": "2026-06-07T08:48:50+00:00",
-      "summary": "Uncertainty reigns supreme at Casa Milan, on all levels. At the moment the club does not have a CEO, technical or sporting directors, it does not even have a coach."
-    },
-    {
-      "id": "6019b45f597b",
-      "title": "M.Colombo: \"Maignan revealed to Tare that he renewed because he considered him the guarantor of the project with Allegri\"",
-      "url": "https://www.milannews.it/news/m-colombo-maignan-ha-rivelato-a-tare-di-aver-rinnovato-perche-lo-considerava-garante-del-progetto-con-allegri-619815",
-      "source": "milannews.it",
-      "date": "2026-06-07T08:36:14+00:00",
-      "summary": "After Rafael Leao, who has twice declared his desire to leave Milan this summer; after Luka Modric, still uncertain about how to move after the North American World Cup; after Adrien Rabiot, who with his departure ..."
     },
     {
       "id": "4e44da66dd3f",
@@ -240,14 +288,6 @@
       "source": "sempremilan.com",
       "date": "2026-06-07T08:25:00+00:00",
       "summary": "Rafael Leao has published a statement on social media after the red card that he received during Portugal’s friendly win over Chile. In Portugal’s 2-1 victory which came thanks to goals from Guedes and Bruno Fernandes, Leao was sent off by referee Zufferli for violent conduct shortly before half-tim"
-    },
-    {
-      "id": "24bfafe7c1b7",
-      "title": "Another positive performance by Pulisic with the United States. The report card: \"Constant threat\"",
-      "url": "https://www.milannews.it/news/altra-prova-positiva-di-pulisic-con-gli-stati-uniti-la-pagella-minaccia-costante-619801",
-      "source": "milannews.it",
-      "date": "2026-06-07T08:24:26+00:00",
-      "summary": "Yesterday evening the United States played their second and final friendly before the highly anticipated home World Cup."
     },
     {
       "id": "bf0b842de47c",
@@ -346,52 +386,12 @@
       "summary": "The chaos at Milan means no transfer negotiations can take place, so it’s reported they..."
     },
     {
-      "id": "1df230e99981",
-      "title": "Falk: Bayern Munich drop out of Leao race amid dressing room concerns",
-      "url": "https://sempremilan.com/falk-bayern-munich-leao-dressing-room-concerns",
-      "source": "sempremilan.com",
-      "date": "2026-06-06T15:50:00+00:00",
-      "summary": "Rafael Leao is expected to leave AC Milan this summer, having publicly declared his desire to do so, but previous suitors Bayern Munich won’t join the race.  At the end of last week, Leao casually announced his willingness to leave Milan, having spent seven years at the club. It wasn’t exactly a sur"
-    },
-    {
       "id": "e537f646c40a",
       "title": "Capello: ‘Ronaldo smell of alcohol, I forced him to leave Real Madrid’",
       "url": "https://football-italia.net/capello-ronaldo-alcohol-force-left-real-madrid/",
       "source": "football-italia.net",
       "date": "2026-06-06T15:35:21+00:00",
       "summary": "Fabio Capello reveals why he ‘forced Ronaldo to leave’ Real Madrid, despite considering him the..."
-    },
-    {
-      "id": "4f980d18ae58",
-      "title": "Vitiello slams Milan and Cardinale for failing to deliver on ‘7-10 days’ promise",
-      "url": "https://sempremilan.com/vitiello-slams-milan-cardinale-promise",
-      "source": "sempremilan.com",
-      "date": "2026-06-06T15:20:00+00:00",
-      "summary": "Antonio Vitiello has slammed the AC Milan ownership for already failing to deliver on their promise, just 12 days into the 2026-27 season rebuild.  Milan, and above all Gerry Cardinale, decided to part ways with the entire management after the final game of the season. There and there, it was made c"
-    },
-    {
-      "id": "51e29bd557bc",
-      "title": "Longo: Further confirmation as Nesta asks Avellino to sign Milan starlet",
-      "url": "https://sempremilan.com/longo-confirmation-nesta-avellino-milan-starlet",
-      "source": "sempremilan.com",
-      "date": "2026-06-06T14:50:00+00:00",
-      "summary": "The season has only just ended for Christian Comotto, returning from his loan at Spezia, but it seems there may already be a next destination mapped out for him.  After an impressive pre-season with Milan’s first team last summer, Comotto joined Spezia on a season-long loan. Some were sceptical abou"
-    },
-    {
-      "id": "ea18a84fb6eb",
-      "title": "Marotta makes €2bn argument amid ‘obstacles’ for new stadium in Milan",
-      "url": "https://sempremilan.com/marotta-2bn-argument-obstacles-milan-stadium",
-      "source": "sempremilan.com",
-      "date": "2026-06-06T14:20:00+00:00",
-      "summary": "Beppe Marotta has urged Italian authorities to speed up the stadium bureaucracy, seeing as AC Milan and Inter are ready to invest €2bn in the project.  It has been six months since Milan and Inter signed the deed with the city council, officially purchasing the Giuseppe Meazza stadium and the surrou"
-    },
-    {
-      "id": "a5875e124bc2",
-      "title": "Add SempreMilan as a preferred source on Google to stay up-to-date",
-      "url": "https://sempremilan.com/add-sempremilan-preferred-source-on-google",
-      "source": "sempremilan.com",
-      "date": "2026-06-06T13:50:00+00:00",
-      "summary": "Google recently introduced a new feature worldwide, called preferred sources, and adding SempreMilan will help you stay up-to-date with everything AC Milan.  When you Google “AC Milan” or “AC Milan News”, or other football terms for that matter, you can usually see a top stories box at the top of th"
     },
     {
       "id": "ad36ef7c1262",
