@@ -1,6 +1,158 @@
 {
-  "lastUpdated": "2026-06-12T17:36:48.899650+00:00",
+  "lastUpdated": "2026-06-12T20:08:05.870701+00:00",
   "articles": [
+    {
+      "id": "d6118da683a3",
+      "title": "Marelli: \"The designator for the next two years will most likely be Orsato\"",
+      "url": "https://www.milannews.it/news/marelli-il-designatore-prossimi-probabilita-orsato-620429",
+      "source": "milannews.it",
+      "date": "2026-06-12T20:00:25+00:00",
+      "summary": "During an interview with Radio CRC, referee commentator Luca Marelli spoke about the future of the Italian referee class and the governance of the AIA."
+    },
+    {
+      "id": "2b98f7350ee4",
+      "title": "Fabrizio Romano: \"Allegri, it's complicated for Napoli to have a quick way to interface with Milan\"",
+      "url": "https://www.milannews.it/news/fabrizio-romano-allegri-napoli-complicato-rapido-interfacciarsi-milan-620428",
+      "source": "milannews.it",
+      "date": "2026-06-12T19:48:23+00:00",
+      "summary": "The Rossoneri's slowdowns in the search for a new management team are also having consequences in the appointment of Massimiliano Allegri as the new coach of Napoli: the Livorno coach currently has no one with whom to negotiate any possible ..."
+    },
+    {
+      "id": "b02ae660aacd",
+      "title": "The first to score at the World Cup had almost lost his life in a clash with David Luiz",
+      "url": "https://www.milannews.it/news/segnare-mondiale-perso-scontro-david-luiz-620337",
+      "source": "milannews.it",
+      "date": "2026-06-12T19:40:57+00:00",
+      "summary": "(ANSA) - ROME, JUNE 11 - \"I am happy, thrilled to have scored my first goal at the World Cup in this spectacular stadium full of fans."
+    },
+    {
+      "id": "9a1416737ab3",
+      "title": "Bonanni warns: \"Milan, there is a need for clarity and speed\"",
+      "url": "https://www.milannews.it/news/bonanni-avverte-milan-c-e-bisogno-chiarezza-celerita-620405",
+      "source": "milannews.it",
+      "date": "2026-06-12T19:30:07+00:00",
+      "summary": "Milan has not yet defined who will be the protagonists of the sporting area, on the bench or behind the desk, for next season."
+    },
+    {
+      "id": "8dccf8b918b9",
+      "title": "Mexico-South Africa, the debut on TV is a success: the World Cup goes on even without Italy",
+      "url": "https://www.milannews.it/news/messico-sudafrica-l-esordio-tv-successo-mondiale-italia-620402",
+      "source": "milannews.it",
+      "date": "2026-06-12T19:20:41+00:00",
+      "summary": "The 2026 World Cup officially started last night. The competition was opened by Mexico and South Africa who competed at the Azteca Stadium in Mexico."
+    },
+    {
+      "id": "3bf95c62cd3f",
+      "title": "Milan back in contact with Jaissle despite Rangnick stance on director position",
+      "url": "https://football-italia.net/milan-in-contact-with-jaissle-despite-rangnick/",
+      "source": "football-italia.net",
+      "date": "2026-06-12T19:19:25+00:00",
+      "summary": "Reports in Italy claim that Milan are now back in contact with Al-Ahli head coach..."
+    },
+    {
+      "id": "abbcad986326",
+      "title": "Bucchioni: \"Rangnick saw that there is confusion at Milan and thought it best to stay in a place where he can work and express himself at his best\"",
+      "url": "https://www.milannews.it/news/bucchioni-rangnick-milan-c-e-confusione-pensato-rimanersene-lavorare-esprimersi-meglio-620427",
+      "source": "milannews.it",
+      "date": "2026-06-12T19:09:10+00:00",
+      "summary": "Rangnick will not be the right profile to lead the new technical area of ​​Milan: the German, currently involved with Austria at the World Cup, has not received confirmation from the Rossoneri and has therefore abandoned the discussions after several back and forth ..."
+    },
+    {
+      "id": "101e272ba3de",
+      "title": "Juventus: Carnevali is the new CEO and general manager of the Bianconeri",
+      "url": "https://www.milannews.it/l-avversario/juventus-carnevali-dg-bianconeri-620400",
+      "source": "milannews.it",
+      "date": "2026-06-12T19:00:00+00:00",
+      "summary": "(ANSA) - TURIN, JUNE 12 - Giovanni Carnevali is the new CEO and general director of the club, Juventus announced it through an official note."
+    },
+    {
+      "id": "f9e4ee184093",
+      "title": "Pedullà: \"Two weeks ago Pulisic's agent called Roma\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pedulla-due-settimane-l-agente-pulisic-chiamato-roma-620426",
+      "source": "milannews.it",
+      "date": "2026-06-12T18:50:07+00:00",
+      "summary": "In the last few hours, rumors have emerged about Roma's strong interest in Christian Pulisic, a Milan winger currently involved in the World Cup with the USA."
+    },
+    {
+      "id": "60459fc5c233",
+      "title": "Coach Fabio Pisacane renews with Cagliari until 2028",
+      "url": "https://www.milannews.it/news/l-allenatore-fabio-pisacane-rinnova-cagliari-2028-620287",
+      "source": "milannews.it",
+      "date": "2026-06-12T18:40:08+00:00",
+      "summary": "(ANSA) - CAGLIARI, JUNE 11 - Cagliari and Fabio Pisacane still ahead together. The rossoblù coach has signed a new agreement until 30 June 2028 with an option in favor of the club for a further season."
+    },
+    {
+      "id": "f9519b877f9a",
+      "title": "USA, Pulisic starts? Pochettino: \"I have already decided who will play\"",
+      "url": "https://www.milannews.it/news/usa-pulisic-titolare-pochettino-ho-deciso-giochera-620385",
+      "source": "milannews.it",
+      "date": "2026-06-12T18:30:00+00:00",
+      "summary": "(ANSA) - LOS ANGELES, JUNE 11 - Coach Mauricio Pochettino does not reveal who will play the debut match for the US national team, but says \"I have already chosen the 11 who will take the field\"."
+    },
+    {
+      "id": "42b59678b32f",
+      "title": "Milan, no Rangnick. Ibra factor and bad timing, the German says no to the Rossoneri project",
+      "url": "https://www.milannews.it/primo-piano/milan-rangnick-fattore-ibra-tempistiche-sballate-tedesco-progetto-rossonero-620425",
+      "source": "milannews.it",
+      "date": "2026-06-12T18:29:08+00:00",
+      "summary": "He who waits too long gets nothing. Let's adapt a famous proverb to the desolate current situation for the Rossoneri."
+    },
+    {
+      "id": "dbc520e32267",
+      "title": "Pellegatti insists: \"It's absurd that they're looking for the CEO's coach first. No name mentioned for the bench is centered on Fabregas\"",
+      "url": "https://www.milannews.it/news/pellegatti-insiste-assurdo-cerchi-l-allenatore-dell-ad-panchina-centra-fabregas-620395",
+      "source": "milannews.it",
+      "date": "2026-06-12T18:20:36+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti took stock of the situation regarding the next Milan manager. These are his words."
+    },
+    {
+      "id": "93266a65510c",
+      "title": "Watch: “Make us of talent” – Milan must make decision on Italian core hypothesis",
+      "url": "https://sempremilan.com/watch-talent-milan-decision-italian-core",
+      "source": "sempremilan.com",
+      "date": "2026-06-12T18:20:00+00:00",
+      "summary": "In the latest edition of the bonus podcast, Isak and Ben discussed whether the ‘Italian core’ rumours are actually realistic for AC Milan.  In the last few weeks, following yet another disappointing season, some outlets have suggested that Milan could focus more on their talents for the 2026-27 seas"
+    },
+    {
+      "id": "48e328b55768",
+      "title": "Pulisic thinks about the World Cup: \"The objective is only called Paraguay\"",
+      "url": "https://www.milannews.it/news/pulisic-pensa-mondiale-l-obiettivo-chiama-paraguay-620391",
+      "source": "milannews.it",
+      "date": "2026-06-12T18:10:00+00:00",
+      "summary": "Christian Pulisic has been a driving force for Milan over the last two seasons. Goals, assists and an impressive performance: in 134 official appearances with the Rossoneri shirt, 42 goals and 27 appearances."
+    },
+    {
+      "id": "bc440a09c05d",
+      "title": "Fabrizio Romano: \"Today there was another meeting between Milan and Jaissle\"",
+      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-oggi-c-e-incontro-milan-jaissle-620424",
+      "source": "milannews.it",
+      "date": "2026-06-12T18:02:12+00:00",
+      "summary": "What stage are we at regarding the choice of the new Milan coach? Evidently still at the castings and meetings, according to what Fabrizio Romano says in a video on his YouTube channel."
+    },
+    {
+      "id": "b6d673d35c51",
+      "title": "From Spain: Modric towards retirement after the World Cup",
+      "url": "https://www.milannews.it/news/spagna-modric-ritiro-mondiali-620423",
+      "source": "milannews.it",
+      "date": "2026-06-12T17:50:09+00:00",
+      "summary": "Important news coming from Spain, from Diario As."
+    },
+    {
+      "id": "727153e812ff",
+      "title": "Milan, Pulisic's future to be defined: in the meantime, Roma are interested in him",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-definire-pulisic-c-e-l-interesse-roma-620418",
+      "source": "milannews.it",
+      "date": "2026-06-12T17:40:02+00:00",
+      "summary": "Milan is looking carefully at the future, aware that targeted planning and interventions will be necessary."
+    },
+    {
+      "id": "3dba4b7a8daf",
+      "title": "“Astonishment of their opposing colleagues” – Cuomo states Milan have confused Serie A rivals",
+      "url": "https://sempremilan.com/cuomo-states-milan-shocked-serie-a-rivals",
+      "source": "sempremilan.com",
+      "date": "2026-06-12T17:40:00+00:00",
+      "summary": "At present, AC Milan are without structure and that can be seen by everyone. However, when seen in person, it caused a reaction from Serie A clubs. Milan are in the process of yet another reset, but this time feels different. Indeed, proper structural changes are now being made and it is about as ‘c"
+    },
     {
       "id": "9a0f8f167970",
       "title": "Marchetti: \"Milan, there are no clear ideas. Since there are no clear ideas, there is no defined line and Rangnick is further and further away\"",
@@ -14,7 +166,7 @@
       "title": "Moretto: \"Rangnick will not go to Milan, deadline has passed. Ibra is also a factor that pushed the German away\"",
       "url": "https://www.milannews.it/calciomercato-milan/moretto-rangnick-andra-milan-deadline-scaduta-ibra-fattore-allontanato-tedesco-620421",
       "source": "milannews.it",
-      "date": "2026-06-12T17:21:12+00:00",
+      "date": "2026-06-12T17:20:12+00:00",
       "summary": "Ralf Rangnick and Milan, it's a marriage that shouldn't happen. The Rossoneri hesitated and the deadline has expired: the German manager will remain Austria's coach even after the World Cup."
     },
     {
@@ -50,60 +202,12 @@
       "summary": "The latest reports claim that Ralf Rangnick has grown tired of waiting for a response..."
     },
     {
-      "id": "293c91c673e9",
-      "title": "Costacurta: \"It doesn't seem to me that Ibra wants to carve out a prominent space for himself, quite the opposite\"",
-      "url": "https://www.milannews.it/news/costacurta-non-ibra-voglia-ritagliarsi-spazio-piano-tutt-altro-620368",
-      "source": "milannews.it",
-      "date": "2026-06-12T16:50:11+00:00",
-      "summary": "Alessandro Costacurta, former AC Milan player and current commentator, expressed himself as follows in La Gazzetta dello Sport on AC Milan's moment: \"I would like someone who would finally discipline the team, who would restore enthusiasm, g ..."
-    },
-    {
-      "id": "077479af69df",
-      "title": "Abodi confirms that there has never been the possibility of Italy repechaging at the World Cup",
-      "url": "https://www.milannews.it/news/abodi-conferma-l-ipotesi-ripescaggio-dell-italia-mondiali-620345",
-      "source": "milannews.it",
-      "date": "2026-06-12T16:40:15+00:00",
-      "summary": "(ANSA) - ROME, JUNE 11 - \"Infantino said was there never a possibility that Italy could be rescued? He said in a different way what I said from the first moment."
-    },
-    {
-      "id": "0b109d638cce",
-      "title": "Di Marzio surprisingly: \"Allegri likes Frattesi: last summer he wanted him at Milan\"",
-      "url": "https://www.milannews.it/calciomercato-milan/marzio-sorpresa-frattesi-piace-allegri-l-estate-scorsa-voluto-milan-620364",
-      "source": "milannews.it",
-      "date": "2026-06-12T16:30:42+00:00",
-      "summary": "Gianluca Di Marzio, SkySport's transfer expert, expressed himself thus during the 'Calciomercato - L'Originale' broadcast on the Inter transfer market: \"Nottingham Forest are back on Davide Fratte..."
-    },
-    {
       "id": "793b23dfb42a",
       "title": "Reports: Rangnick rejects Milan’s offer and will remain Austria’s manager",
       "url": "https://sempremilan.com/rangnick-reject-milan-offer-remain-austria",
       "source": "sempremilan.com",
       "date": "2026-06-12T16:22:16+00:00",
       "summary": "It was reported that Ralf Rangnick would wait until Sunday for a response from AC Milan. However, he has now rejected the club. When it was reported that Milan were looking for someone to lead the sporting project forward, Rangnick’s name shot to the forefront of conversations quickly. In fact, it s"
-    },
-    {
-      "id": "0f1eb9c5bc5d",
-      "title": "Curiosity from the World Cup: the Frenchman Zaire-Emery is under 21 years old and will not be able to access the hotel bar",
-      "url": "https://www.milannews.it/news/curiosita-mondiale-francese-zaire-emery-21-potra-accedere-bar-hotel-620344",
-      "source": "milannews.it",
-      "date": "2026-06-12T16:20:11+00:00",
-      "summary": "(ANSA) - ROME, JUNE 11 - Where you go, read what you find."
-    },
-    {
-      "id": "2e0c27868579",
-      "title": "Trevisani: \"Crazy moment at Milan. The American owners don't understand the times of Italian football\"",
-      "url": "https://www.milannews.it/news/trevisani-al-milan-folle-proprieta-americana-capisce-tempi-calcio-italiano-620367",
-      "source": "milannews.it",
-      "date": "2026-06-12T16:10:46+00:00",
-      "summary": "Riccardo Trevisani, journalist and commentator, expressed himself to Mediaset on RedBird's management of Milan: \"A word to comment on Milan's moment? Madness."
-    },
-    {
-      "id": "a4b553cd03e0",
-      "title": "Excluded from the World Cup, Somali referee Artan will referee the UEFA Super Cup",
-      "url": "https://www.milannews.it/news/escluso-mondiali-l-arbitro-somalo-artan-dirigera-supercoppa-uefa-620341",
-      "source": "milannews.it",
-      "date": "2026-06-12T16:00:10+00:00",
-      "summary": "(ANSA) - ROME, JUNE 11 - UEFA has chosen the Somali referee Omar Artan to referee the 2026 UEFA Super Cup on 12 August, in Salzburg, between Paris Saint-Germain, winner of the Champions League, and Aston Villa, winner of the Europa L ..."
     },
     {
       "id": "b49e8215ad56",
@@ -114,22 +218,6 @@
       "summary": "Reports in Italy claim that Roma and head coach Gian Piero Gasperini want to bring..."
     },
     {
-      "id": "48b6d5bd815e",
-      "title": "De Vecchi: \"With Liberals, a sensational error of assessment. Someone said 'Eh, he's small', yes, but he has significant strength in his legs\"",
-      "url": "https://www.milannews.it/news/de-vecchi-con-liberali-errore-valutazione-clamoroso-diceva-eh-piccolo-si-importante-gambe-620366",
-      "source": "milannews.it",
-      "date": "2026-06-12T15:50:56+00:00",
-      "summary": "Walter De Vecchi, one of the former managers of the Rossoneri youth sector, expressed himself on Radio Rossonera on the management of Mattia Liberali, an attacking midfielder born in 2007 owned by Catanzaro after many years at ..."
-    },
-    {
-      "id": "af2f2224824a",
-      "title": "Rangnick is tired of waiting for Milan's time: he says no. Cardinale's reconstruction becomes more complicated",
-      "url": "https://www.milannews.it/calciomercato-milan/rangnick-stufo-aspettare-tempi-milan-no-complica-ricostruzione-cardinale-620416",
-      "source": "milannews.it",
-      "date": "2026-06-12T15:40:51+00:00",
-      "summary": "A decision has arrived, but it is not from Milan. In fact, according to what was reported by colleagues from La Gazzetta dello Sport, Ralf Rangnick would have decided to interrupt the negotiations with Milan."
-    },
-    {
       "id": "ddcc8d77882f",
       "title": "Il Mattino: De Laurentiis requests Allegri meeting with Ibrahimovic after Scaroni’s reassurance",
       "url": "https://sempremilan.com/de-laurentiis-allegri-meeting-ibrahimovic-after-scaroni",
@@ -138,76 +226,12 @@
       "summary": "Massimiliano Allegri is between AC Milan and Napoli currently, and it appears that Aurelio De Laurentiis wants to resolve the situation soon. Milan are having a difficult summer; they need to hire a replacement manager after sacking Allegri. However, they also need to sort out his future, too. Indee"
     },
     {
-      "id": "8441a12903db",
-      "title": "Ravezzani goes against the grain: \"To say that Allegri failed at Milan, in that Milan, with that team, with a 40-year-old in midfield, is too much\"",
-      "url": "https://www.milannews.it/news/ravezzani-controcorrente-dire-allegri-fallito-milan-milan-squadra-40enne-centrocampo-troppo-620360",
-      "source": "milannews.it",
-      "date": "2026-06-12T15:30:57+00:00",
-      "summary": "Fabio Ravezzani, director of TeleLombardia, expressed himself on Radio Tutto Napoli about Massimiliano Allegri, former AC Milan coach."
-    },
-    {
-      "id": "a39c2557caf9",
-      "title": "Saelemaekers says that, at the moment, he doesn't want to worry about Milan. His focus is entirely on the World Cup",
-      "url": "https://www.milannews.it/news/saelemaekers-che-momento-vuole-preoccupare-milan-focus-mondiale-620342",
-      "source": "milannews.it",
-      "date": "2026-06-12T15:22:41+00:00",
-      "summary": "(ANSA) - MILAN, JUNE 11 - \"It's a shame not to have achieved the season's objectives, but Milan still remains Milan, a legendary club. With the Rossoneri you have to show 100% in every training session, in every match."
-    },
-    {
-      "id": "f4511f236a8e",
-      "title": "He condò: \"Champions silent murderer. If your name is Milan or Juve and you don't go, everything blows up\"",
-      "url": "https://www.milannews.it/news/condo-champions-assassina-silenziosa-chiami-milan-juve-vai-salta-aria-620363",
-      "source": "milannews.it",
-      "date": "2026-06-12T15:11:34+00:00",
-      "summary": "Paolo Condò, journalist and commentator, expressed himself as follows to SkySport, commenting on the revolution at Juventus, with the resignation of Comolli and the arrival of Carnevali:  \"Yes, the Champions League is ..."
-    },
-    {
-      "id": "621bad33bbb4",
-      "title": "MN - Milan bench: Glasner stalemate, Amorim and Jaissle on the rise",
-      "url": "https://www.milannews.it/primo-piano/mn-panchina-milan-stallo-glasner-risalita-amorim-jaissle-620415",
-      "source": "milannews.it",
-      "date": "2026-06-12T15:00:00+00:00",
-      "summary": "Milan continues to reflect on the choice of the new coach, but the wait seriously risks turning into a problem."
-    },
-    {
       "id": "f5ee3f867ce1",
       "title": "Reports: Roma ‘strongly interested’ in Pulisic – Gasperini pushing for the signing",
       "url": "https://sempremilan.com/roma-strongly-interested-pulisic-gasperini-pushing",
       "source": "sempremilan.com",
       "date": "2026-06-12T15:00:00+00:00",
       "summary": "AC Milan have expected interest in Christian Pulisic to arrive this summer; however, they didn’t expect it from Serie A. It seems to be a busy summer for Milan already, with plenty of stars considering their futures and Christian Pulisic may join that list. He has not made his thoughts known yet, bu"
-    },
-    {
-      "id": "998ddf7658dc",
-      "title": "Bucchioni: \"The FIGC sent a note to Milan saying: 'But do you remember that registration documents must arrive by the 16th?'\"",
-      "url": "https://www.milannews.it/news/bucchioni-la-figc-mandato-nota-milan-dicendo-ma-ve-ricordate-devono-arrivare-entro-16-documenti-l-iscrizione-620361",
-      "source": "milannews.it",
-      "date": "2026-06-12T14:50:57+00:00",
-      "summary": "Enzo Bucchioni, journalist, expressed himself thus on Radio Tutto Napoli on the situation of Massimiliano Allegri, contractually linked to Milan but about to move to Napoli: \"Look, it's an absurd situation."
-    },
-    {
-      "id": "6569ed0fae02",
-      "title": "Lecce extends the contracts of Banda, Gallo and Ramadani until June 2027",
-      "url": "https://www.milannews.it/news/lecce-prolunga-sino-giugno-2027-contratti-banda-gallo-ramadani-620340",
-      "source": "milannews.it",
-      "date": "2026-06-12T14:40:33+00:00",
-      "summary": "(ANSA) - LECCE, JUNE 11 - While waiting to define the issue relating to the new sporting director and, consequently, the permanence of coach Eusebio Di Francesco on the Giallorossi bench, Lecce begins to carry out the first operations of ..."
-    },
-    {
-      "id": "91e90b5efda5",
-      "title": "Ordine scolds Leao: \"But who writes his lyrics? Leao, think about bringing football back to the top of his priorities\"",
-      "url": "https://www.milannews.it/news/ordine-sgrida-leao-ma-scrive-testi-leao-pensi-riportare-calcio-priorita-620358",
-      "source": "milannews.it",
-      "date": "2026-06-12T14:30:29+00:00",
-      "summary": "During his editorial for MilanNews.it, the journalist Franco Ordine expressed himself as follows, commenting on Leao's interview: \"Obligatory incipit: Leao's last interview."
-    },
-    {
-      "id": "bc822d454c29",
-      "title": "Ignazio Abate is the new coach of Torino: he will face Milan on the first day",
-      "url": "https://www.milannews.it/news/ignazio-abate-allenatore-torino-affrontera-milan-giornata-620414",
-      "source": "milannews.it",
-      "date": "2026-06-12T14:20:12+00:00",
-      "summary": "In the morning the news of the termination of the contract with Juve Stabia had arrived, now in the afternoon the official announcement that had been expected for a few days arrived: Ignazio Abate is the new coach of Turin."
     },
     {
       "id": "8e700a3272e8",
@@ -346,28 +370,12 @@
       "summary": "Zlatan Ibrahimovic has delivered a typically unfiltered verdict on the difference between American and European..."
     },
     {
-      "id": "cb7b46ebc018",
-      "title": "Longo: Forfeiting the Youth Sector – why Ibrahimovic is still against Rangnick’s hiring",
-      "url": "https://sempremilan.com/ibrahimovic-issue-rangnick-youth-sector",
-      "source": "sempremilan.com",
-      "date": "2026-06-11T18:00:00+00:00",
-      "summary": "AC Milan could resolve their issues with hiring a new sporting director easily, with Zlatan Ibrahimovic’s stalling point being revealed. It has been proven recently that Ibrahimovic is the issue when it comes to appointing Ralf Rangnick. Indeed, the Swede has been heavily against his appointment, la"
-    },
-    {
       "id": "886718b37981",
       "title": "World Cup 2026: Mexico vs South Africa starting lineups – Milan’s Gimenez on the bench for opener",
       "url": "https://football-italia.net/world-cup-2026-mexico-vs-south-africa/",
       "source": "football-italia.net",
       "date": "2026-06-11T17:56:42+00:00",
       "summary": "Mexico kick off the 2026 World Cup against South Africa at the iconic Estadio Azteca..."
-    },
-    {
-      "id": "a4a082abc61e",
-      "title": "Romano: Milan will interview Glasner, Jaissle and Amorim again on Friday",
-      "url": "https://sempremilan.com/milan-interview-glasner-jaissle-amorim-friday",
-      "source": "sempremilan.com",
-      "date": "2026-06-11T17:30:00+00:00",
-      "summary": "This evening, the suggestions of Ruben Amorim’s involvement within the AC Milan sphere have been strengthened by Fabrizio Romano. Plenty of managers have been linked to the Milan job at this point, so it is no surprise that other names are gravitating towards the job. However, it seemed that the Ros"
     },
     {
       "id": "b2804fac97e9",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-06-09T07:51:00+00:00",
       "summary": "La Gazzetta dello Sport  Juve go with Diaz  Time for hits, Spalletti will have a..."
-    },
-    {
-      "id": "121f5e1b03e4",
-      "title": "Allegri to Napoli: Agreement in place but Milan contract remains the final hurdle",
-      "url": "https://football-italia.net/allegri-to-napoli-agreement-milan-contract/",
-      "source": "football-italia.net",
-      "date": "2026-06-08T19:08:49+00:00",
-      "summary": "Massimiliano Allegri is closing in on the Napoli job, but the long-awaited official announcement continues..."
     }
   ]
 }
