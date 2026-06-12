@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-06-12T00:18:07.506507+00:00",
+  "lastUpdated": "2026-06-12T05:47:27.102109+00:00",
   "articles": [
+    {
+      "id": "ad767ef15846",
+      "title": "Mexico wins in their World Cup debut against South Africa: zero minutes for Gimenez",
+      "url": "https://www.milannews.it/news/messico-vince-all-esordio-mondiale-sud-africa-zero-minuti-gimenez-620326",
+      "source": "milannews.it",
+      "date": "2026-06-12T05:40:00+00:00",
+      "summary": "Javier Aguirre's Mexico beat South Africa on their debut thanks to goals from Quinones first and then Raul Jimenez."
+    },
+    {
+      "id": "5a1e43a6f2c5",
+      "title": "World Cup 2026: all the AC Milan players playing in the States",
+      "url": "https://www.milannews.it/news/mondiali-2026-convocati-milan-impegnati-states-620316",
+      "source": "milannews.it",
+      "date": "2026-06-12T05:30:57+00:00",
+      "summary": "Until July 19th, several Rossoneri players will be involved in the FIFA World Cup 2026 in Canada, Mexico and the United States."
+    },
+    {
+      "id": "e5f299faab33",
+      "title": "Transfer market 2026/2027, when does it start and when does it end? All the dates you need to know",
+      "url": "https://www.milannews.it/calciomercato-milan/calciomercato-2026-2027-inizia-finisce-date-sapere-620315",
+      "source": "milannews.it",
+      "date": "2026-06-12T05:20:00+00:00",
+      "summary": "The championship is over and now it is time for the various clubs to think about reinforcements and transfers to build the squads for next season. These are the transfer market dates for the 2026/27 season in Italy."
+    },
+    {
+      "id": "2e482b5750a5",
+      "title": "Serie A 26/27, all dates revealed: we start on 23 August",
+      "url": "https://www.milannews.it/news/serie-26-27-rivelate-date-23-agosto-620314",
+      "source": "milannews.it",
+      "date": "2026-06-12T05:10:00+00:00",
+      "summary": "The 38-match calendar for next season was drawn on Friday 5 June."
+    },
+    {
+      "id": "c977f7aa5bbe",
+      "title": "Serie A 26/27, the calendar drawn up: an uphill start for the Rossoneri",
+      "url": "https://www.milannews.it/news/serie-26-27-stilato-calendario-avvio-salita-rossoneri-620313",
+      "source": "milannews.it",
+      "date": "2026-06-12T05:00:00+00:00",
+      "summary": "The 2026/2027 Serie A calendar was drawn last Friday. Below is the path of the Rossoneri for next season."
+    },
+    {
+      "id": "6c80bae383bd",
+      "title": "United States-Paraguay prediction, will Pulisic regain his lost luster in 2026?",
+      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-uniti-paraguay-pulisic-ritrovera-smalto-perso-2026-620182",
+      "source": "milannews.it",
+      "date": "2026-06-12T01:00:00+00:00",
+      "summary": "The United States returns to host a World Cup after 32 years. Mauricio Pochettino's selection makes its debut in Inglewood, challenging a Paraguay who returns to the world championship after 12 years."
+    },
     {
       "id": "80c4ed2d36d4",
       "title": "Pellegatti on Rangnick: \"I see it as a solution but there is the Ibrahimovic variable\"",
@@ -114,60 +162,12 @@
       "summary": "During the second episode of the \"Derbyssimo Legends x MilanNews\" podcast (CLICK HERE to watch the complete episode on YouTube), Stefano Fisico and Stefano Eranio interviewed Nelson Dida, a historic Brazilian goalkeeper who has ..."
     },
     {
-      "id": "4bab5d4dac68",
-      "title": "Order on Allegri's actions: \"He too has great responsibilities. And about the scudetto...\"",
-      "url": "https://www.milannews.it/news/ordine-sull-operato-allegri-anche-grandi-responsabilita-scudetto-620298",
-      "source": "milannews.it",
-      "date": "2026-06-11T20:30:00+00:00",
-      "summary": "Milan is projected towards the future with the belief that strategic planning and decisions will be necessary."
-    },
-    {
-      "id": "aa6511131a26",
-      "title": "Maifredi: \"I don't know Glasner. But Italian football is different\"",
-      "url": "https://www.milannews.it/news/maifredi-non-conosco-glasner-calcio-italiano-diverso-620295",
-      "source": "milannews.it",
-      "date": "2026-06-11T20:20:00+00:00",
-      "summary": "Milan looks ahead knowing that the relaunch will go through careful planning and choices. The season just ended did not meet the expectations of the club and its fans, making an in-depth analysis necessary."
-    },
-    {
-      "id": "bb2e5184946f",
-      "title": "Paganini on Milan: \"We must start from an organizational chart with respect for roles\"",
-      "url": "https://www.milannews.it/news/paganini-milan-si-partire-organigramma-ruoli-620294",
-      "source": "milannews.it",
-      "date": "2026-06-11T20:10:00+00:00",
-      "summary": "Milan is called to plan the future with attention and foresight. The season just ended did not meet the expectations of the club and the fans, requiring in-depth reflection."
-    },
-    {
-      "id": "637d681f46e6",
-      "title": "Pellegatti on Tare: \"He's a professional who leaves without having been able to work\"",
-      "url": "https://www.milannews.it/news/pellegatti-tare-e-professionista-via-potuto-lavorare-620292",
-      "source": "milannews.it",
-      "date": "2026-06-11T20:00:00+00:00",
-      "summary": "Milan faces the future aware of the need for careful planning and targeted choices."
-    },
-    {
       "id": "a85b815edf52",
       "title": "‘They wait outside your house, without a taco’ – Ibrahimovic verdict on European fans vs American fans",
       "url": "https://football-italia.net/ibrahimovic-difference-american-european-fans/",
       "source": "football-italia.net",
       "date": "2026-06-11T19:54:00+00:00",
       "summary": "Zlatan Ibrahimovic has delivered a typically unfiltered verdict on the difference between American and European..."
-    },
-    {
-      "id": "8e47fa547409",
-      "title": "MN - Dida reveals a background story on Maignan: \"He also came to train after the matches doing specific jobs\"",
-      "url": "https://www.milannews.it/news/mn-dida-svela-retroscena-maignan-veniva-allenarsi-partite-lavori-specifici-620318",
-      "source": "milannews.it",
-      "date": "2026-06-11T19:50:41+00:00",
-      "summary": "During the second episode of the \"Derbyssimo Legends x MilanNews\" podcast (CLICK HERE to watch the complete episode on YouTube), Stefano Fisico and Stefano Eranio interviewed Nelson Dida, a historic Brazilian goalkeeper who has ..."
-    },
-    {
-      "id": "5eb1d95090f9",
-      "title": "Pasotto: \"The danger for Milan is that Jashari has several suitors. But they don't want to send him away\"",
-      "url": "https://www.milannews.it/calciomercato-milan/pasotto-il-pericolo-milan-jashari-corteggiatrici-vuole-mandar-via-620228",
-      "source": "milannews.it",
-      "date": "2026-06-11T19:40:32+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on the future of Ardon Jashari, the Swiss midfielder, at Milan: \"The danger for Milan comes from suitors, because Ardon has a lot of them and this ..."
     },
     {
       "id": "cb7b46ebc018",
