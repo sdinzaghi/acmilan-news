@@ -1,21 +1,237 @@
 {
-  "lastUpdated": "2026-06-18T08:45:12.883194+00:00",
+  "lastUpdated": "2026-06-18T12:24:06.217894+00:00",
   "articles": [
     {
-      "id": "ab3b3591fba5",
-      "title": "Hauge: \"I'm sorry to see Milan out of the Champions League again\"",
-      "url": "https://www.milannews.it/gli-ex/hauge-mi-dispiace-vedere-milan-champions-620995",
+      "id": "ea4e51604dc7",
+      "title": "Pasotto: \"Given how Amorim acted in Manchester, it's easier to imagine him letting Leao go without too many hesitations\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pasotto-per-mosso-amorim-manchester-facile-immaginare-lasci-andare-leao-troppe-remore-621005",
       "source": "milannews.it",
-      "date": "2026-06-18T08:38:11+00:00",
+      "date": "2026-06-18T12:10:46+00:00",
+      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on the future of Rafael Leao, the Portuguese striker, at Milan: \"Waiting for the next interview in which he will reiterate his intention to ask for a divorce ..."
+    },
+    {
+      "id": "0ccdbbae4a40",
+      "title": "It's not just Eintracht who said no... Krosche didn't lift a finger for Milan. And the damage is heavy",
+      "url": "https://www.milannews.it/primo-piano/mica-l-eintracht-no-krosche-alzato-dito-milan-danni-pesanti-621020",
+      "source": "milannews.it",
+      "date": "2026-06-18T12:00:55+00:00",
+      "summary": "Markus Krosche and Timmo Hardung have said no to Milan. Yes, because the no also came from them, not just from Eintracht Frankfurt."
+    },
+    {
+      "id": "e82605c0c83b",
+      "title": "CorSera: Ibrahimovic has ‘temptation’ to promote Kirovski to first-team role",
+      "url": "https://sempremilan.com/corsera-ibrahimovic-temptation-promote-kirovski",
+      "source": "sempremilan.com",
+      "date": "2026-06-18T12:00:00+00:00",
+      "summary": "Zlatan Ibrahimovic is reportedly tempted to promote his friend and colleague, Jovan Kirovski, to the first team from Milan Futuro.  After failing to secure the arrival of Markus Krösche of Eintracht Frankfurt, Milan’s pursuit of a new director is still ongoing. Various names were mentioned in Gazzet"
+    },
+    {
+      "id": "3e8433965239",
+      "title": "Milan, the casting for the director starts again: Boto's prices are rising, Ozek and Ayto are also in the running",
+      "url": "https://www.milannews.it/news/milan-riparte-casting-dt-risalita-quotazioni-boto-corsa-ozek-ayto-621030",
+      "source": "milannews.it",
+      "date": "2026-06-18T11:50:56+00:00",
+      "summary": "Speaking to SportMediaset on Italia Uno, Claudio Raimondi explained that behind Eintracht Frankfurt's no to the transfer of Markus Krosche (and his right-hand man Timmo Hardung) there is the fact that the Germans didn't like the ..."
+    },
+    {
+      "id": "5ca679559474",
+      "title": "Modric and the penalty caused against England. The Croatian says mea culpa: \"Unfortunately I didn't see it, it was a mistake\"",
+      "url": "https://www.milannews.it/news/modric-rigore-causato-l-inghilterra-croato-mea-culpa-non-l-ho-purtroppo-disattenzione-621028",
+      "source": "milannews.it",
+      "date": "2026-06-18T11:40:30+00:00",
+      "summary": "Luka Modric, captain of Croatia, commented post-match on his national team's defeat against England in their debut match at the World Cup: \"The first half of the match was quite balanced, but ..."
+    },
+    {
+      "id": "5e6566f46f15",
+      "title": "Pellegatti disconsolate: \"Rangnick said there was a lack of clarity, in Germany they say Krösche also holds the same opinion\"",
+      "url": "https://www.milannews.it/news/pellegatti-sconsolato-rangnick-disse-mancava-chiarezza-germania-sostengono-opinione-krosche-620965",
+      "source": "milannews.it",
+      "date": "2026-06-18T11:30:00+00:00",
+      "summary": "There really seems to be a lack of serenity and clarity in Milan's technical project. Yes, because June is going by quickly, and incredibly the Rossoneri find themselves not behind on the roadmap, but more so."
+    },
+    {
+      "id": "cc1d2129aee0",
+      "title": "Watch: “Project has to support the coach” – Milan must back Amorim to succeed",
+      "url": "https://sempremilan.com/watch-project-milan-back-amorim-succeed",
+      "source": "sempremilan.com",
+      "date": "2026-06-18T11:30:00+00:00",
+      "summary": "Ruben Amorim was announced as Milan’s new head coach earlier this week, which is something that Lorenzo and Stefano discussed in the latest Pub Chat episode.  After a long casting process, taking a little over three weeks, Milan finally announced their new head coach on Tuesday. While some were happ"
+    },
+    {
+      "id": "37a20625e613",
+      "title": "Haaland wants to be the loose cannon of the World Cup: yesterday he scored a double on his debut with Norway",
+      "url": "https://www.milannews.it/dall-estero/haaland-vuole-mina-vagante-mondiale-doppietta-all-esordio-norvegia-620869",
+      "source": "milannews.it",
+      "date": "2026-06-18T11:20:00+00:00",
+      "summary": "(ANSA) - ROME, JUNE 17 - Norway beat Iraq 4-1 on the first day of the group stage (Group I) of the 2026 World Cup."
+    },
+    {
+      "id": "3727fc6dc63b",
+      "title": "Sportmediaset attacks: \"Milan, news of the most humiliating month ever\"",
+      "url": "https://www.milannews.it/news/sportmediaset-attacca-milan-cronaca-mese-umiliante-sempre-621027",
+      "source": "milannews.it",
+      "date": "2026-06-18T11:10:22+00:00",
+      "summary": "Claudio Raimondi commented on the moment of chaos and confusion that Milan has been experiencing in recent weeks on sportm: \"Last May 25th the foundations of the old Milan were demolished."
+    },
+    {
+      "id": "cba326ebdb64",
+      "title": "UEFA fines Roma 6 million: financial fair play breached",
+      "url": "https://www.milannews.it/l-avversario/uefa-multa-roma-6-milioni-sforato-fair-play-finanziario-620960",
+      "source": "milannews.it",
+      "date": "2026-06-18T11:00:00+00:00",
+      "summary": "(ANSA) - ROME, JUNE 17 - UEFA has fined Roma a total of six million euros for failure to comply with financial fair play."
+    },
+    {
+      "id": "00c38bc2ea61",
+      "title": "Hauge ‘sad’ to see Milan struggling after ‘wonderful’ time at the club: “Still a fan”",
+      "url": "https://sempremilan.com/hauge-sad-milan-struggling-still-fan",
+      "source": "sempremilan.com",
+      "date": "2026-06-18T11:00:00+00:00",
+      "summary": "Jens Petter Hauge was interviewed by Gazzetta dello Sport, sharing his thoughts on AC Milan’s tough season, his time at the club, and knocking out Inter in the Champions League Hauge arrived at Milan in the summer of 2020, having performed really well for Bodo/Glimt in the game against the Rossoneri"
+    },
+    {
+      "id": "63635389462a",
+      "title": "Tiribocchi and the skepticism about Amorim: \"I understand it, but this project can become interesting with patience and time\"",
+      "url": "https://www.milannews.it/news/tiribocchi-scetticismo-amorim-lo-capisco-progetto-interessante-pazienza-tempo-621022",
+      "source": "milannews.it",
+      "date": "2026-06-18T10:51:33+00:00",
+      "summary": "At Pitti, the international fashion exhibition taking place in Florence, Simone Tiribocchi, a former striker, was also present at the Tombolini stand, who released these words to Tuttomercatoweb."
+    },
+    {
+      "id": "8998a027c091",
+      "title": "Hauge on Ibrahimovic: \"I tried to learn as much as possible from him at Milan\"",
+      "url": "https://www.milannews.it/gli-ex/hauge-ibrahimovic-ho-cercato-imparare-possibile-milan-620997",
+      "source": "milannews.it",
+      "date": "2026-06-18T10:41:17+00:00",
       "summary": "Jens-Petter Hauge, former Rossoneri striker now at Bodo Glimt, recalled his experience at Milan and in Serie A to Gazzetta dello Sport: \"Beautiful. I spent a super season, in a very competitive championship."
     },
     {
-      "id": "e33c3413fe92",
-      "title": "What if Ibra decided to promote Kirovski? However, the American could not play the role of sporting director: here's why",
-      "url": "https://www.milannews.it/news/ibra-decidesse-promuovere-kirovski-l-americano-ricoprire-ruolo-ds-621001",
+      "id": "1963e3b68a1b",
+      "title": "Damiani on Milan: \"There are too many thinking heads and this creates great confusion\"",
+      "url": "https://www.milannews.it/news/damiani-milan-ci-troppe-teste-pensanti-crea-confusione-621013",
       "source": "milannews.it",
-      "date": "2026-06-18T08:28:01+00:00",
-      "summary": "After having received the no from Eintracht Frankfurt for Markus Krosce, who would have become the new manager of the AC Milan technical area, and Timmo Hardung, who instead would have held the role of sporting director, AC Milan de ..."
+      "date": "2026-06-18T10:31:48+00:00",
+      "summary": "To the microphones of TuttoMercatoWeb."
+    },
+    {
+      "id": "081522edff16",
+      "title": "Scaroni happy with Amorim’s arrival at Milan as Cardinale has a ‘magic touch’",
+      "url": "https://sempremilan.com/scaroni-happy-amorim-cardinale-magic-touch",
+      "source": "sempremilan.com",
+      "date": "2026-06-18T10:30:00+00:00",
+      "summary": "AC Milan’s president Paolo Scaroni has shared his thoughts on the arrival of Ruben Amorim, praising Gerry Cardinale for his ‘magic touch’.  Amorim was announced as Milan’s new head coach on Tuesday evening, ending a three-week-long casting process for the position. However, while some are happy that"
+    },
+    {
+      "id": "08ba0e07c118",
+      "title": "Pancaro has no doubts: \"Problems arise when Maldini is sent home\"",
+      "url": "https://www.milannews.it/news/pancaro-dubbi-i-problemi-nascono-viene-mandato-casa-maldini-620928",
+      "source": "milannews.it",
+      "date": "2026-06-18T10:21:00+00:00",
+      "summary": "Milan has chosen to open a new phase in its history. To guide the project of the future, the management has identified Ruben Amorim as the most suitable profile to inaugurate a new cycle."
+    },
+    {
+      "id": "0274644b6781",
+      "title": "Milan and the approval of future managers for Amorim. Ravezzani: \"Gerry the Phenomenon would have made all those naive people who then said no to him work for free\"",
+      "url": "https://www.milannews.it/news/milan-l-ok-futuri-dirigenti-amorim-ravezzani-gerry-fenomeno-lavorare-gratis-quegli-ingenui-no-621026",
+      "source": "milannews.it",
+      "date": "2026-06-18T10:11:43+00:00",
+      "summary": "The failure to arrive at the club as the new manager of the AC Milan technical area of ​​Markus Krosche made a lot of noise at the Rossoneri, who, according to what was leaked by AC Milan, had also given his approval for the ..."
+    },
+    {
+      "id": "9f2e7d5ed437",
+      "title": "Bild: €700m budget and a hefty contract – How Milan tried to tempt Krösche",
+      "url": "https://sempremilan.com/bild-700m-budget-contract-milan-krosche",
+      "source": "sempremilan.com",
+      "date": "2026-06-18T10:05:00+00:00",
+      "summary": "Markus Krösche is no longer expected to become AC Milan’s Head of Football, despite some pretty big promises made to him by Gerry Cardinale.  Just two days, or even yesterday morning (Wednesday), Krösche appeared almost destined to arrive at the club with his Eintracht Frankfurt colleague Timmo Hard"
+    },
+    {
+      "id": "ed01af515d37",
+      "title": "Milan, Zaniolo's idea for the attack? His agent was at the office yesterday",
+      "url": "https://www.milannews.it/primo-piano/milan-idea-zaniolo-l-attacco-agente-sede-621025",
+      "source": "milannews.it",
+      "date": "2026-06-18T10:00:22+00:00",
+      "summary": "Although the entire sports management is still missing, with the choice of the new coach who will be Ruben Amorim, the first players on the market are starting to be approached also at Milan in view of next season."
+    },
+    {
+      "id": "1dd7a6cde59a",
+      "title": "Leao leaves door open on Milan future after Amorim takes charge",
+      "url": "https://football-italia.net/leao-door-open-milan-future-amorim-charge/",
+      "source": "football-italia.net",
+      "date": "2026-06-18T09:51:08+00:00",
+      "summary": "Rafael Leao has opened up about his future at Milan for the first time since..."
+    },
+    {
+      "id": "df19c5991322",
+      "title": "Baiano: \"Milan is a joke. And I put myself in the shoes of the fans who experience all this\"",
+      "url": "https://www.milannews.it/news/baiano-il-milan-barzelletta-metto-panni-tifosi-vivono-questo-620934",
+      "source": "milannews.it",
+      "date": "2026-06-18T09:50:00+00:00",
+      "summary": "Milan is ready to embark on a new path. To start an innovative project, the Rossoneri club has identified Ruben Amorim as the most suitable coach to lead the change."
+    },
+    {
+      "id": "c988ada2b1ba",
+      "title": "Hauge hopes to one day face Milan in the Champions League: \"I would really like to return to the Rossoneri's San Siro\"",
+      "url": "https://www.milannews.it/gli-ex/hauge-spera-affrontare-milan-champions-mi-piacerebbe-tornare-san-siro-rossonero-620996",
+      "source": "milannews.it",
+      "date": "2026-06-18T09:40:42+00:00",
+      "summary": "Interviewed by Gazzetta dello Sport, Jens-Petter Hauge, former Rossoneri striker now at Bodo Glimt, also commented on the season that recently ended, with Milan failing to qualify for the Champions League."
+    },
+    {
+      "id": "5c92eda25537",
+      "title": "‘Another poor performance’ – Leao fails to inspire Portugal to late winner",
+      "url": "https://sempremilan.com/poor-leao-fails-inspire-portugal-winner",
+      "source": "sempremilan.com",
+      "date": "2026-06-18T09:40:00+00:00",
+      "summary": "Rafael Leao came off the bench for Portugal in their 1-1 draw against DR Congo last night, but he failed to make the most of a good opportunity.  Portugal took the lead early on through Joao Neves and many thought it would be smooth sailing from there. However, just before half-time, DR Congo found "
+    },
+    {
+      "id": "12c9a81ada3c",
+      "title": "Di Marzio on Milan: \"The fact that he chose the coach with the green light from a manager who then didn't arrive leaves me stunned\"",
+      "url": "https://www.milannews.it/news/marzio-milan-il-scelto-l-allenatore-via-libera-dirigente-arrivato-lascia-stucco-621024",
+      "source": "milannews.it",
+      "date": "2026-06-18T09:30:19+00:00",
+      "summary": "Gianluca Di Marzio, inside \"Caffè Di Marzio\" - the podcast in collaboration between TuttoMercatoWeb.com and Gianlucadimarzio."
+    },
+    {
+      "id": "a7420fa8a31f",
+      "title": "Hell still no management. CorSera: \"Krosche and Hardung: the no men of Milan\"",
+      "url": "https://www.milannews.it/news/diavolo-dirigenza-corsera-krosche-hardung-signori-milan-621019",
+      "source": "milannews.it",
+      "date": "2026-06-18T09:20:41+00:00",
+      "summary": "The Corriere della Sera headline this morning: \"Krosche and Hardung: the no men of Milan\"."
+    },
+    {
+      "id": "2cb5a652ee6c",
+      "title": "Reports: Milan clinch signing of young Birmingham forward – medicals scheduled",
+      "url": "https://sempremilan.com/reports-milan-signing-birmingham-medicals",
+      "source": "sempremilan.com",
+      "date": "2026-06-18T09:15:00+00:00",
+      "summary": "AC Milan have secured the signing of the young Birmingham forward Aurelian Guernier, according to various reports, with medicals expected shortly.  It feels a little strange to be talking about signings right now, seeing as Milan don’t have even a management in place. Ruben Amorim has been hired as "
+    },
+    {
+      "id": "fe677b5aa668",
+      "title": "MN - Monteiro (Record): “Surely Amorim will want a reference in attack and adjustments to the squad”",
+      "url": "https://www.milannews.it/news/mn-monteiro-record-sicuramente-amorim-vorra-riferimento-attacco-aggiustamenti-rosa-620945",
+      "source": "milannews.it",
+      "date": "2026-06-18T09:10:55+00:00",
+      "summary": "Ruben Amorim is the new coach of Milan. He spoke exclusively about the Portuguese coach to MilanNews."
+    },
+    {
+      "id": "c69e8a225f2a",
+      "title": "Milan, Bennacer, Musah and Chukwueze will also return from loans but will not stay",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-prestiti-rientreranno-bennacer-musah-chukwueze-resteranno-621006",
+      "source": "milannews.it",
+      "date": "2026-06-18T09:00:21+00:00",
+      "summary": "If some have been redeemed, such as Alex Jimenez, Tommaso Pobega and Lorenzo Colombo, there are however several players who are returning to Milan from their respective loans."
+    },
+    {
+      "id": "b2c8ecc09de9",
+      "title": "GdS: Amorim left alone as duo reject roles in Milan management – the remaining candidates",
+      "url": "https://sempremilan.com/gds-amorim-alone-duo-reject-milan-candidates",
+      "source": "sempremilan.com",
+      "date": "2026-06-18T08:50:55+00:00",
+      "summary": "AC Milan were dealt a blow by Markus Krösche, who decided to stay at Eintracht Frankfurt, and now they need to settle on a different candidate Krösche and his right-hand man, Timmo Hardung, appeared to be just one step away but the big brake in negotiations happened yesterday. After reflecting on hi"
     },
     {
       "id": "b9c6b08d3e7f",
@@ -26,22 +242,6 @@
       "summary": "On Wednesday evening, UEFA confirmed that AC Milan have complied with all of the necessary requirements to officially exit their Settlement Agreement.  Thanks to the positive results in the last few years, making a profit from the 2022-23 season onwards, everyone expected Milan to exit their Settlem"
     },
     {
-      "id": "72ff8da64701",
-      "title": "Milan, the permanence of Maignan and Rabiot is not at all a given",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-permanenza-maignan-rabiot-affatto-scontata-621000",
-      "source": "milannews.it",
-      "date": "2026-06-18T08:18:11+00:00",
-      "summary": "Mike Maignan and Adrien Rabiot are happy with their France's winning debut at the World Cup with the 3-1 win over Senegal."
-    },
-    {
-      "id": "0bd89ee30718",
-      "title": "Milan, not just Boto and Ozek: Kehl is also in the running for the role of director. Former Brighton player Ayto proposed",
-      "url": "https://www.milannews.it/news/milan-boto-ozek-corsa-kehl-ruolo-dt-proposto-l-ex-brighton-ayto-620999",
-      "source": "milannews.it",
-      "date": "2026-06-18T08:08:59+00:00",
-      "summary": "After the arrival of Markus Krosche as head of the Rossoneri technical area has faded, Milan will be forced to reopen the casting to find the new technical director, who will have to agree with the ..."
-    },
-    {
       "id": "1cdbd5bf645f",
       "title": "Gallery: ‘Double no for Milan’, ‘One mess to another’ – Today’s front pages in Italy",
       "url": "https://sempremilan.com/gallery-double-no-milan-papers-italy",
@@ -50,140 +250,12 @@
       "summary": "AC Milan won’t be moving forward with their pursuit of Markus Krösche, and his right-hand man Timmo Hardung, as highlighted by the papers this morning. After hiring Ruben Amorim as the new head coach, it seemed Milan were just details away from securing their new Head of Football figure as well. How"
     },
     {
-      "id": "fa50ac64bffd",
-      "title": "From Leao and Pulisic to Maignan, Modric and Rabiot: how many doubts about their future at Milan",
-      "url": "https://www.milannews.it/primo-piano/leao-pulisic-maignan-modric-rabiot-dubbi-milan-621002",
-      "source": "milannews.it",
-      "date": "2026-06-18T08:00:28+00:00",
-      "summary": "The confusion that unfortunately reigns at Casa Milan, which has found the coach, but is still without management, obviously cannot leave even the Rossoneri players calm, who, like the fans, have enormous doubts about that ..."
-    },
-    {
-      "id": "9c9eb4ca4b98",
-      "title": "Ravezzani against Scaroni: \"If Cardinale has the magic touch after he struck Maldini and held Ibra then all the best\"",
-      "url": "https://www.milannews.it/news/ravezzani-scaroni-se-cardinale-magic-touch-fulminato-maldini-tenuto-ibra-auguri-620973",
-      "source": "milannews.it",
-      "date": "2026-06-18T07:50:00+00:00",
-      "summary": "Fabio Ravezzani wanted to comment on Paolo Scaroni's questionable statements yesterday about Gerry Cardinale (CLICK HERE). The analysis and commentary of the well-known TV host on QSVS."
-    },
-    {
-      "id": "58167fa034f1",
-      "title": "Hauge and his Bodo Glimt who eliminated Inter from the Champions League: \"What satisfaction! For me it was almost like a derby...\"",
-      "url": "https://www.milannews.it/rassegna-stampa/hauge-bodo-glimt-eliminato-l-inter-champions-che-soddisfazione-derby-620994",
-      "source": "milannews.it",
-      "date": "2026-06-18T07:39:08+00:00",
-      "summary": "Interviewed by Gazzetta dello Sport, Jens-Petter Hauge, former Rossoneri striker now at Bodo Glimt, also commented on the season that recently ended, with Milan failing to qualify for the Champions League."
-    },
-    {
       "id": "24eebd2e3327",
       "title": "Today’s Papers – Another Milan mess, trio waiting for Juventus move",
       "url": "https://football-italia.net/todays-papers-milan-mess-trio-juventus/",
       "source": "football-italia.net",
       "date": "2026-06-18T07:32:32+00:00",
       "summary": "La Gazzetta dello Sport The king is always Leo Messi wants the double that only..."
-    },
-    {
-      "id": "563223b7d74a",
-      "title": "World Cup, Colombia debuts with a victory: 3-1 against Uzbekistan",
-      "url": "https://www.milannews.it/news/mondiali-colombia-debutta-vittoria-3-1-all-uzbekistan-620991",
-      "source": "milannews.it",
-      "date": "2026-06-18T07:29:57+00:00",
-      "summary": "(ANSA) - ROME, JUNE 18 - Colombia defeated Uzbekistan 3-1 in a group K match of the 2026 World Cup, played in Mexico City."
-    },
-    {
-      "id": "aa1386d06e36",
-      "title": "Krosche gone, who could join Milan? A manager in tune with Amorim is in the sights",
-      "url": "https://www.milannews.it/rassegna-stampa/sfumato-krosche-arrivare-milan-mirino-manager-sintonia-amorim-620998",
-      "source": "milannews.it",
-      "date": "2026-06-18T07:19:22+00:00",
-      "summary": "With Markus Krosche gone, Milan will have to resume their search to find a new manager of the Milan technical area."
-    },
-    {
-      "id": "b025febed397",
-      "title": "Milan assures that all the managers who were interviewed agreed with Amorim's choice",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-assicura-dirigenti-sondati-condiviso-scelta-amorim-620993",
-      "source": "milannews.it",
-      "date": "2026-06-18T07:09:52+00:00",
-      "summary": "Milan fans have unfortunately witnessed yet another fool of the Rossoneri club which was convinced that it had closed the arrivals of Markus Krosche and Timmo Hardung as new technical director and new sporting director respectively, but the ..."
-    },
-    {
-      "id": "53f94e79d88d",
-      "title": "Gazzetta: \"The issues of Milan. From Maignan to Rabiot, a future of doubts\"",
-      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-i-nodi-milan-maignan-rabiot-dubbi-620992",
-      "source": "milannews.it",
-      "date": "2026-06-18T06:59:28+00:00",
-      "summary": "The Gazzetta dello Sport headlined this morning: \"The issues at Milan. From Maignan to Rabiot, a future of doubts\"."
-    },
-    {
-      "id": "d54ea728ca6f",
-      "title": "World Cup, Ghana-Panama 1-0: a goal from Yirenkyi in injury time was decisive",
-      "url": "https://www.milannews.it/news/mondiali-ghana-panama-1-0-decisivo-gol-recupero-yirenkyi-620990",
-      "source": "milannews.it",
-      "date": "2026-06-18T06:50:25+00:00",
-      "summary": "(ANSA) - ROME, JUNE 18 - Ghana beats Panama 1-0 in a match in group L of the 2026 World Cup, played in Toronto. The decisive goal was scored in added time, in the 95th minute, by Caleb Yirenkyi on an assist from Brandon Thomas-Asante."
-    },
-    {
-      "id": "58a3fd03a353",
-      "title": "Chaos Milan, the arrivals of Krosche and Hardung disappear. Tuttosport: \"Cardinal, one mess leads to another\"",
-      "url": "https://www.milannews.it/rassegna-stampa/caos-milan-sfumano-arrivi-krosche-hardung-tuttosport-cardinale-pasticcio-tira-l-altro-620988",
-      "source": "milannews.it",
-      "date": "2026-06-18T06:40:56+00:00",
-      "summary": "\"Cardinal, one mess leads to another\": this is the headline from Tuttosport this morning regarding the situation of great chaos that continues to exist at Milan even after the arrival on the bench of Ruben Amorim."
-    },
-    {
-      "id": "72a9b9a3638c",
-      "title": "Hauge: \"I remained very attached to Milan: I love the club and the fans, simply incredible. I'm still a Rossoneri fan\"",
-      "url": "https://www.milannews.it/gli-ex/hauge-al-milan-rimasto-legato-amo-club-tifosi-semplicemente-incredibili-tifoso-rossonero-620989",
-      "source": "milannews.it",
-      "date": "2026-06-18T06:30:25+00:00",
-      "summary": "Jens-Petter Hauge, former Rossoneri striker now at Bodo Glimt, recalled his experience at Milan and in Serie A to Gazzetta dello Sport: \"Beautiful. I spent a super season, in a very competitive championship."
-    },
-    {
-      "id": "0b7a1cb3fa73",
-      "title": "CorSport on the front page: \"If this is Milan. Krosche and Hardung are missing, Maignan and Leao are on the back foot\"",
-      "url": "https://www.milannews.it/rassegna-stampa/corsport-pagina-se-milan-saltano-krosche-hardung-maignan-leao-strappo-620987",
-      "source": "milannews.it",
-      "date": "2026-06-18T06:20:48+00:00",
-      "summary": "The Corriere dello Sport on newsstands this morning has the headline on the front page: \"If this is Milan. Krosche and Hardung are out, Maignan and Leao are in trouble\"."
-    },
-    {
-      "id": "9946d88f1b6a",
-      "title": "The opening of the Gazzetta on Milan: \"Double no. Hell, what a mockery: Krosche and Hardung are no longer arriving\"",
-      "url": "https://www.milannews.it/rassegna-stampa/l-apertura-gazzetta-milan-doppio-no-diavolo-beffa-krosche-hardung-arrivano-piu-620986",
-      "source": "milannews.it",
-      "date": "2026-06-18T06:10:38+00:00",
-      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page on Milan: \"Double no. Hell, what a joke: Krosche and Hardung are no longer arriving\"."
-    },
-    {
-      "id": "e6b55a440cb0",
-      "title": "Chaos Milan: double no for Krosche and Hardung. What happens now?",
-      "url": "https://www.milannews.it/primo-piano/caos-milan-krosche-hardung-succede-ora-620985",
-      "source": "milannews.it",
-      "date": "2026-06-18T06:00:09+00:00",
-      "summary": "After having settled the bench with Ruben Amorim, Milan seemed about to fill two other free slots in its organization chart, namely those of the technical director and the sporting director, but it will be necessary to wait another ..."
-    },
-    {
-      "id": "d9f1fe715343",
-      "title": "National teams, Ardon Jashari's Switzerland on the field today",
-      "url": "https://www.milannews.it/news/nazionali-campo-svizzera-ardon-jashari-620982",
-      "source": "milannews.it",
-      "date": "2026-06-18T05:50:00+00:00",
-      "summary": "The first world championship with 48 teams is preparing to see its kick-off, and until July 19th there will be several Rossoneri players involved in the FIFA World Cup 2026 in Canada, Mexico and the United States."
-    },
-    {
-      "id": "e86868128820",
-      "title": "Scaroni praises Cardinale: \"He has a magical touch in choosing the men to take, he has demonstrated it many times\"",
-      "url": "https://www.milannews.it/news/scaroni-elogia-cardinale-ha-tocco-magico-scelta-uomini-prendere-dimostrato-tante-volte-620981",
-      "source": "milannews.it",
-      "date": "2026-06-18T05:40:00+00:00",
-      "summary": "There really seems to be a lack of serenity and clarity in Milan's technical project. Yes, because June is going by quickly, and incredibly the Rossoneri find themselves not behind on the roadmap, but more so."
-    },
-    {
-      "id": "facaab1c4bda",
-      "title": "Youth sector, Milan U15 is preparing for the Scudetto final",
-      "url": "https://www.milannews.it/news/settore-giovanile-milan-u15-prepara-finalissima-scudetto-620980",
-      "source": "milannews.it",
-      "date": "2026-06-18T05:30:00+00:00",
-      "summary": "Character, determination, determination: I am proud of each of you. Now we have to go to Rimini to win!\"."
     },
     {
       "id": "8ce1ce6f7421",
@@ -298,22 +370,6 @@
       "summary": "Mike Maignan’s World Cup began yesterday with France and the AC Milan shot-stopper did not have a performance to rave about.  It could be a big summer for Maignan with plenty of rumours about his future again. Indeed, the Frenchman’s agents are sourcing interest in a move for him after Milan failed "
     },
     {
-      "id": "18c32deaa233",
-      "title": "Sky Germany: Krösche rejects Milan’s offer to become Head of Football to stay at Frankfurt",
-      "url": "https://sempremilan.com/krosche-rejects-milan-offer-head-of-football",
-      "source": "sempremilan.com",
-      "date": "2026-06-17T11:46:46+00:00",
-      "summary": "A report from Germany has suggested that Markus Krösche will not be leaving Eintracht Frankfurt, despite the suggestions that a deal was agreed with AC Milan.  There has been plenty of talk in recent days about Krösche and when he would arrive at Milan. In fact, it seemed that the deal was done with"
-    },
-    {
-      "id": "eda854df260a",
-      "title": "CM: Milan’s plan for Camarda after Lecce’s buy option was activated – Amorim, Abate or Aquilani",
-      "url": "https://sempremilan.com/milan-plan-camarda-amorim-abate-aquilani",
-      "source": "sempremilan.com",
-      "date": "2026-06-17T11:30:00+00:00",
-      "summary": "It seems Francesco Camarda will be led forward by one of a few coaches next season, despite being sold by AC Milan yesterday. When Camarda headed to Lecce, a buy-clause was included within the deal as a sort of ‘thank you’ for developing the youngster. Indeed, it would mean that the Giallorossi woul"
-    },
-    {
       "id": "f67a5259a87e",
       "title": "Modric will return to Real Madrid after the World Cup, says Croatia legend Suker",
       "url": "https://football-italia.net/modric-will-return-to-real-madrid-suker/",
@@ -322,60 +378,12 @@
       "summary": "Croatia legend Davor Suker reveals Milan midfielder Luka Modric will return to Real Madrid this..."
     },
     {
-      "id": "5ad558683bcf",
-      "title": "BILD: Milan attempting to further tempt Krösche with ‘mega-contract’ until 2029",
-      "url": "https://sempremilan.com/milan-further-tempt-krosche-mega-contract-2029",
-      "source": "sempremilan.com",
-      "date": "2026-06-17T11:00:00+00:00",
-      "summary": "It seems AC Milan are looking to offer a massive deal to their potential Head of Football, Markus Krösche, according to German reports. There are still a few things to be agreed on before Krösche can be announced as the new leader of the Milan project. However, it seems things are gradually moving f"
-    },
-    {
-      "id": "b4fa75834bf0",
-      "title": "Longo: ‘A specific request from Amorim’ – Milan set to begin contacts for €60m Sporting star",
-      "url": "https://sempremilan.com/specific-request-amorim-milan-contact-60m-star",
-      "source": "sempremilan.com",
-      "date": "2026-06-17T10:30:00+00:00",
-      "summary": "It seems that the work is already starting at AC Milan with Ruben Amorim making a specific request to sign a player already. When a new manager is hired, it is not uncommon for them to look at signing a player with whom they have worked. In fact, it is rather common, as seen with […]\nThe post Longo:"
-    },
-    {
-      "id": "c0d6a39e4177",
-      "title": "Romano states Milan have not made a decision about Rabiot’s future yet: “Napoli really like him”",
-      "url": "https://sempremilan.com/romano-states-milan-no-decision-rabiot-future",
-      "source": "sempremilan.com",
-      "date": "2026-06-17T10:00:00+00:00",
-      "summary": "Last season, Adrien Rabiot was one of the most influential arrivals in Serie A; AC Milan would’ve been much worse off without him.  A lot of thanks needs to be given to Massimiliano Allegri for bringing Rabiot to Milan. Ultimately, the Frenchman helped the midfield tick and he was decisive in plenty"
-    },
-    {
-      "id": "b908307a0c7e",
-      "title": "MN: Amorim brings ‘most trusted’ staff to Milan with him – the five who arrive with him",
-      "url": "https://sempremilan.com/amorim-brings-most-trusted-staff-milan",
-      "source": "sempremilan.com",
-      "date": "2026-06-17T09:30:00+00:00",
-      "summary": "With a new head coach arriving, it is uncommon for them not to bring in people they trust. With AC Milan and Ruben Amorim, it is no different. There has been plenty of talk in the past 12 months about the importance of coaches. In fact, without Massimiliano Allegri and his goalkeeper coach, Claudio "
-    },
-    {
-      "id": "536d3911fa11",
-      "title": "CorSera: Cardinale now in complete control of Milan – Ibrahimovic now relegated",
-      "url": "https://sempremilan.com/cardinale-complete-control-milan",
-      "source": "sempremilan.com",
-      "date": "2026-06-17T09:00:00+00:00",
-      "summary": "It seems that Gerry Cardinale is now the one with complete power at AC Milan, with all decisions made by him moving forward. Over the past few weeks, there has been plenty said about the power structure within Milan. Zlatan Ibrahimovic seemingly played a large part in the decision made by Ralf Rangn"
-    },
-    {
       "id": "088172920479",
       "title": "Amorim identifies priority target for new Milan centre-forward role",
       "url": "https://football-italia.net/amorim-priority-target-milan-centre-forward/",
       "source": "football-italia.net",
       "date": "2026-06-17T08:31:05+00:00",
       "summary": "Reports in Italy claim that new Milan coach Ruben Amorim has made PSG’s Gonçalo Ramos..."
-    },
-    {
-      "id": "74b113d17269",
-      "title": "Moretto: Tonali sale to Tottenham would see Milan ‘get some money’ – the situation",
-      "url": "https://sempremilan.com/tonali-sale-tottenham-milan-get-some-money",
-      "source": "sempremilan.com",
-      "date": "2026-06-17T08:30:00+00:00",
-      "summary": "AC Milan would hope to see Sandro Tonali return to San Siro this summer. It seems almost impossible, but there could be some good on the way. In an ideal world, the suggestions of Tonali leaving Newcastle United this summer would include Milan wanting to bring the midfielder back and having the fina"
     },
     {
       "id": "68d54ba8fc2b",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-06-15T13:25:55+00:00",
       "summary": "Ruben Amorim is all set to take over from Massimiliano Allegri as head coach of..."
-    },
-    {
-      "id": "3ee0c6b43110",
-      "title": "Have your say: Is Amorim the right choice to take over as head coach of Milan?",
-      "url": "https://football-italia.net/have-your-say-is-amorim-right-for-milan/",
-      "source": "football-italia.net",
-      "date": "2026-06-15T11:45:18+00:00",
-      "summary": "Multiple sources confirm that Ruben Amorim is set to take over from Massimiliano Allegri as..."
     }
   ]
 }
