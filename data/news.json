@@ -1,13 +1,61 @@
 {
-  "lastUpdated": "2026-06-18T22:06:18.534709+00:00",
+  "lastUpdated": "2026-06-19T00:25:24.152420+00:00",
   "articles": [
     {
+      "id": "84f3f3239f76",
+      "title": "Bucchioni on the Milan chaos: \"Unfortunately this is the way a fund thinks\"",
+      "url": "https://www.milannews.it/news/bucchioni-caos-milan-il-ragionare-fondo-purtroppo-621045",
+      "source": "milannews.it",
+      "date": "2026-06-18T23:00:00+00:00",
+      "summary": "Milan has chosen to entrust its future to a new football philosophy."
+    },
+    {
+      "id": "01df3c89c7c7",
+      "title": "F. Terracciano: \"With Conceiçao a military regime, the less disciplined comrades suffered much more\"",
+      "url": "https://www.milannews.it/news/f-terracciano-con-conceicao-regime-militare-compagni-disciplinati-soffrivano-piu-621069",
+      "source": "milannews.it",
+      "date": "2026-06-18T22:50:23+00:00",
+      "summary": "Filippo Terracciano, speaking on \"Tutti Teorici\", spoke about his experience at Milan with Sergio Conceiçao."
+    },
+    {
+      "id": "ce84fbd90e82",
+      "title": "Toni: \"Amorim? First of all we need players from Milan...\"",
+      "url": "https://www.milannews.it/news/toni-amorim-servono-giocatori-milan-621021",
+      "source": "milannews.it",
+      "date": "2026-06-18T22:40:50+00:00",
+      "summary": "Luca Toni, interviewed by Tuttomercatoweb.com, commented on Milan's choice to entrust the Rossoneri bench to Ruben Amorim: \"Amorim at Milan? Before the coaches we should focus on the players."
+    },
+    {
+      "id": "47a68b825764",
+      "title": "Malagò on Anac: \"I was certain of it, now everyone can judge what happened\"",
+      "url": "https://www.milannews.it/news/malago-sull-anac-ne-certo-giudichi-l-accaduto-621066",
+      "source": "milannews.it",
+      "date": "2026-06-18T22:30:31+00:00",
+      "summary": "(ANSA) - ROME, JUNE 18 - \"I was pleased to learn the opinion of the ANAC. Everyone can now judge what happened\"."
+    },
+    {
+      "id": "7ed1b41794ed",
+      "title": "Bebote's Mexico plays tonight at 3. Is the striker finally making his debut?",
+      "url": "https://www.milannews.it/news/stanotte-3-gioca-messico-bebote-arriva-l-esordio-l-attaccante-621072",
+      "source": "milannews.it",
+      "date": "2026-06-18T22:20:26+00:00",
+      "summary": "Tonight, at 3 Italian time, Mexico takes the field against South Korea, in a match valid for the second day of group A of the World Cup."
+    },
+    {
+      "id": "a0e1377ad2b7",
+      "title": "Di Marzio: \"DS Milan, Ozek among the first places on the list. A promotion for Kirovski cannot be ruled out\"",
+      "url": "https://www.milannews.it/news/marzio-ds-milan-ozek-primi-posti-lista-escludere-promozione-kirovski-621075",
+      "source": "milannews.it",
+      "date": "2026-06-18T22:08:42+00:00",
+      "summary": "We are now on June 19th and Milan still does not have a defined sports management team."
+    },
+    {
       "id": "8ad5d8108a88",
-      "title": "The club has become an experimental guinea pig. We are sailing by sight, rough seas and poor visibility. But wasn't it said that Scaroni would remain silent?",
+      "title": "The club has become an experimental guinea pig. Sailing by sight, rough seas and poor visibility. But wasn't it said that Scaroni would remain silent?",
       "url": "https://www.milannews.it/editoriale/club-cavia-sperimentale-naviga-vista-mare-mosso-scarsa-visibilita-scaroni-taciuto-621063",
       "source": "milannews.it",
       "date": "2026-06-18T22:00:01+00:00",
-      "summary": "I would start with Paolo Scaroni, president and symbol of this epic of profound decadence into which Milan sank."
+      "summary": "I would start with Paolo Scaroni, president and symbol of this epic of profound decadence into which AC Milan sank."
     },
     {
       "id": "30268ee94d63",
@@ -114,22 +162,6 @@
       "summary": "Ruben Amorim is the new coach of Milan. He spoke exclusively about the Portuguese coach to MilanNews."
     },
     {
-      "id": "7c75600453ce",
-      "title": "Milan, first the coach then the management. Di Marzio: \"Usually we focus first on a football figure who can then choose the coach\"",
-      "url": "https://www.milannews.it/news/milan-l-allenatore-dirigenza-marzio-di-punta-figura-calcistica-scegliere-tecnico-621036",
-      "source": "milannews.it",
-      "date": "2026-06-18T19:40:14+00:00",
-      "summary": "Gianluca Di Marzio, inside \"Caffè Di Marzio\" - the podcast in collaboration between TuttoMercatoWeb.com and Gianlucadimarzio."
-    },
-    {
-      "id": "bc982ac616e8",
-      "title": "Tiribocchi focuses on Gimenez: \"If he stays at Milan he will be able to relaunch himself\"",
-      "url": "https://www.milannews.it/news/tiribocchi-punta-gimenez-se-resta-milan-potra-rilanciarsi-621023",
-      "source": "milannews.it",
-      "date": "2026-06-18T19:31:10+00:00",
-      "summary": "At Pitti, the international fashion exhibition taking place in Florence, Simone Tiribocchi, a former striker, was also present at the Tombolini stand, who released these words to Tuttomercatoweb."
-    },
-    {
       "id": "5951f9dd56fd",
       "title": "Ibrahimovic criticism spreads to the USA: ‘Less Zlatan, less Lalas’",
       "url": "https://football-italia.net/ibrahimovic-criticism-spreads-to-the-usa/",
@@ -138,44 +170,12 @@
       "summary": "Zlatan Ibrahimovic faced backlash from large sections of Milan supporters for taking on a TV..."
     },
     {
-      "id": "5f7d7bdb697f",
-      "title": "The South Korean national football team has decided to boycott their country's press",
-      "url": "https://www.milannews.it/news/nazionale-sudcoreana-calcio-deciso-boicottare-stampa-621015",
-      "source": "milannews.it",
-      "date": "2026-06-18T19:20:40+00:00",
-      "summary": "(ANSA) - ROME, JUNE 17 - The South Korean national football team has decided to boycott their country's press."
-    },
-    {
-      "id": "5a745619aa5c",
-      "title": "Canovi on Milan: \"Amorim's arrival has a very specific meaning.\" Here's what he's referring to",
-      "url": "https://www.milannews.it/news/canovi-milan-l-arrivo-amorim-significato-preciso-riferisce-621039",
-      "source": "milannews.it",
-      "date": "2026-06-18T19:10:00+00:00",
-      "summary": "Milan has chosen to open a new phase in its history by focusing on innovative ideas."
-    },
-    {
-      "id": "42f6b24d2054",
-      "title": "USA-Australia prediction, Pulisic wants to secure qualification",
-      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-usa-australia-pulisic-vuole-ipotecare-qualificazione-621047",
-      "source": "milannews.it",
-      "date": "2026-06-18T19:00:00+00:00",
-      "summary": "After both winning on their debut, the United States and Australia face each other in Seattle on the second day of Group D. At stake is first place and an important share of qualification for the direct elimination phase."
-    },
-    {
       "id": "0d18b89ce970",
       "title": "Capello turns 80 and names the best player he has coached: ‘Cassano made me angry’",
       "url": "https://football-italia.net/capello-turns-80-and-names-his-best-player/",
       "source": "football-italia.net",
       "date": "2026-06-18T18:55:21+00:00",
       "summary": "Fabio Capello is celebrating his 80th birthday on Thursday and has named the best players..."
-    },
-    {
-      "id": "52b589423e95",
-      "title": "Milan, the search for DS and Head of Football continues: promotion hypothesis for Kirovski and Gardiner",
-      "url": "https://www.milannews.it/primo-piano/milan-continua-ricerca-ds-head-of-football-ipotesi-promozione-kirovski-gardiner-621061",
-      "source": "milannews.it",
-      "date": "2026-06-18T18:50:22+00:00",
-      "summary": "Yesterday immediately brought strong thunderstorms to Casa Milan after Ruben Amorim's announcement had revealed some hints of clear weather: Markus Krosche isn't moving and Eintrach Frankfurt are adamant, for sva ..."
     },
     {
       "id": "99ff9b85c097",
