@@ -1,9 +1,81 @@
 {
-  "lastUpdated": "2026-06-20T21:16:29.514696+00:00",
+  "lastUpdated": "2026-06-20T23:06:42.082965+00:00",
   "articles": [
     {
+      "id": "5a46e3044c10",
+      "title": "Maignan worries Frey: \"Strangely I saw him as subdued, he seemed very insecure to me\"",
+      "url": "https://www.milannews.it/news/maignan-preoccupa-frey-stranamente-l-ho-sottotono-insicuro-621279",
+      "source": "milannews.it",
+      "date": "2026-06-20T23:01:55+00:00",
+      "summary": "Sebastian Frey, former French goalkeeper, in his speech on Radio Firenze Viola also spoke about Mike Maignan."
+    },
+    {
+      "id": "bc622a5ead2e",
+      "title": "Almiron's first times, the perfect guinea pig for the Var",
+      "url": "https://www.milannews.it/news/prime-almiron-cavia-perfetta-var-621273",
+      "source": "milannews.it",
+      "date": "2026-06-20T22:48:40+00:00",
+      "summary": "(ANSA) - ROME, JUNE 20 - During the Californian night, Paraguay got back in the running to progress to the World Cup, but those who risked giving Montella's Turkey a big gift are included in the football almanacs."
+    },
+    {
+      "id": "35297dc4e3cd",
+      "title": "Tottenham-Tonali, potential deal worth 100 million euros. How much would Milan earn?",
+      "url": "https://www.milannews.it/news/tottenham-tonali-affare-potenziale-100-euro-incasserebbe-milan-621271",
+      "source": "milannews.it",
+      "date": "2026-06-20T22:36:07+00:00",
+      "summary": "In the last few hours both Sky UK and Gianluca Di Marzio have spoken about an important offer from Tottenham for Sandro Tonali: around 85 million euros for the former AC Milan midfielder."
+    },
+    {
+      "id": "5c60342e4e3c",
+      "title": "Milan, Musah returns. The American has a pre-season to convince Amorim",
+      "url": "https://www.milannews.it/news/milan-ritorna-musah-statunitense-precampionato-convincere-amorim-621274",
+      "source": "milannews.it",
+      "date": "2026-06-20T22:24:43+00:00",
+      "summary": "The last image of Musah at Milan could be the one on the Lecce pitch in August 2025, when Allegri catechized him with a peremptory \"Calm!\" on the occasion of a throw-in that the Rossoneri was about to take too quickly..."
+    },
+    {
+      "id": "860ebbdea1e8",
+      "title": "Germany-Ivory Coast 2-1: despite the defeat Kessie's presidential match",
+      "url": "https://www.milannews.it/news/germania-costa-d-avorio-2-1-sconfitta-partita-presidenziale-kessie-621276",
+      "source": "milannews.it",
+      "date": "2026-06-20T22:11:14+00:00",
+      "summary": "Ivory Coast loses in a totally undeserved way: two defensive lapses, the second smacks of mockery because it comes in injury time, lead to Undav's brace and Germany's victory."
+    },
+    {
+      "id": "f1ca504edc6c",
+      "title": "Indecent management. Without respect for Milan",
+      "url": "https://www.milannews.it/editoriale/gestione-indecente-milan-621223",
+      "source": "milannews.it",
+      "date": "2026-06-20T22:00:01+00:00",
+      "summary": "Almost a month has passed since the famous announcement of zeroing by the management and Allegri."
+    },
+    {
+      "id": "29b407e49ce0",
+      "title": "\"Ciao Igor\", tribute from the Livorno stadium for Protti's last lap of the pitch",
+      "url": "https://www.milannews.it/news/ciao-igor-omaggio-stadio-livorno-l-ultimo-giro-campo-protti-621270",
+      "source": "milannews.it",
+      "date": "2026-06-20T21:48:45+00:00",
+      "summary": "(ANSA) - LIVORNO, JUNE 20 - \"Hello Igor. Today we salute the man even before the footballer, only those who have experienced you can understand us\"."
+    },
+    {
+      "id": "57645478b51b",
+      "title": "Bondo and Terracciano leave Cremonese. They will (probably) also leave Milan",
+      "url": "https://www.milannews.it/news/bondo-terracciano-lasciano-cremonese-lasceranno-probabilmente-milan-621261",
+      "source": "milannews.it",
+      "date": "2026-06-20T21:36:19+00:00",
+      "summary": "Wilfred Bondo and Filippo Terracciano, different twins. Both on loan at Cremonese last season, both not redeemed and both destined to leave Milan."
+    },
+    {
+      "id": "3ddcbd4585c6",
+      "title": "The former Leverkusen coach criticizes the Krosche method: \"Their policy is that the coach has no influence on the construction of the squad\"",
+      "url": "https://www.milannews.it/news/l-ex-allenatore-leverkusen-critica-metodo-krosche-la-politica-prevede-l-allenatore-influenza-costruzione-rosa-621268",
+      "source": "milannews.it",
+      "date": "2026-06-20T21:24:19+00:00",
+      "summary": "Albert Riera's experience as coach of Eintracht Frankfurt lasted only 3 months."
+    },
+    {
       "id": "11bb3324dd39",
-      "title": "Callegari harsh: \"There is no future at Milan, there is no perspective. There is no clear line of command\"",
+      "title": "Callegari harsh: \"At Milan we don't see a future, there is no perspective. There is no clear line of command\"",
       "url": "https://www.milannews.it/news/callegari-duro-al-milan-vede-futuro-c-e-prospettiva-manca-linea-comando-chiara-621248",
       "source": "milannews.it",
       "date": "2026-06-20T21:12:39+00:00",
@@ -51,7 +123,7 @@
     },
     {
       "id": "63a248bebbc6",
-      "title": "Callegari cannot explain himself: \"Galliani? Linked to a Milan from which Cardinale inexplicably wants to distance himself\"",
+      "title": "Callegari doesn't explain himself: \"Galliani? Linked to a Milan from which Cardinale inexplicably wants to distance himself\"",
       "url": "https://www.milannews.it/news/callegari-spiega-galliani-legato-milan-cardinale-vuole-inspiegabilmente-distaccarsi-621260",
       "source": "milannews.it",
       "date": "2026-06-20T20:00:22+00:00",
@@ -90,54 +162,6 @@
       "summary": "In recent hours there had been talk of Gerry Cardinale being present in Rome on 22 June to represent Milan at the FIGC elective assembly, but at the moment the inscription has not been confirmed within Milan."
     },
     {
-      "id": "960db335c7a8",
-      "title": "World Cup, tomorrow the 1000th match in history: here is FIFA's initiative",
-      "url": "https://www.milannews.it/news/mondiali-domani-partita-numero-1000-storia-l-iniziativa-fifa-621262",
-      "source": "milannews.it",
-      "date": "2026-06-20T19:00:15+00:00",
-      "summary": "On Sunday 21st, at 6 in the morning, the second match of group F of the World Cup will take place."
-    },
-    {
-      "id": "2069d589dfdd",
-      "title": "Callegari underlines: “American management is different from European management, but this doesn't mean we don't have ideas and directions to take”",
-      "url": "https://www.milannews.it/news/callegari-sottolinea-gestione-americana-diversa-europea-significa-idee-direzioni-prendere-621250",
-      "source": "milannews.it",
-      "date": "2026-06-20T18:48:40+00:00",
-      "summary": "The well-known journalist Massimo Callegari was a guest on Carlo Pellegatti's YouTube channel and spoke about the current corporate situation of Milan and owner Gerry Cardinale. These are his words."
-    },
-    {
-      "id": "c70cf1af1696",
-      "title": "Filippi says goodbye: \"We were lucky enough to train a wonderful group of goalkeepers in terms of technical and above all moral skills\"",
-      "url": "https://www.milannews.it/news/filippi-saluti-abbiamo-fortuna-allenare-portieri-meraviglioso-capacita-tecniche-morali-621254",
-      "source": "milannews.it",
-      "date": "2026-06-20T18:36:32+00:00",
-      "summary": "Claudio Filippi, goalkeeping coach on Massimiliano Allegri's staff, greets Milan. At the end of the season Cardinale decided to completely eliminate the sports area, including the coach."
-    },
-    {
-      "id": "1f9c861e5f3a",
-      "title": "World Cup: White House considers changing travel restrictions for Iran",
-      "url": "https://www.milannews.it/news/mondiali-casa-bianca-valuta-cambiare-restrizioni-viaggio-l-iran-621256",
-      "source": "milannews.it",
-      "date": "2026-06-20T18:23:21+00:00",
-      "summary": "(ANSA) - NEW YORK, JUNE 20 - The White House is considering changing the travel restrictions imposed on Iran for the World Cup."
-    },
-    {
-      "id": "3f0222180235",
-      "title": "Bennacer, costs as a starter but is out of the Milan project. Thorny situation",
-      "url": "https://www.milannews.it/news/bennacer-costi-titolare-progetto-milan-situazione-spinosa-621255",
-      "source": "milannews.it",
-      "date": "2026-06-20T18:12:34+00:00",
-      "summary": "In the midst of the chaos regarding Milan's managerial future, we must not forget that there is a season to plan, a transfer market to follow the coach and above all many redundancies to get rid of."
-    },
-    {
-      "id": "04349da86da4",
-      "title": "W. Sabatini: \"Baldini is a free man, I hope they confirm him for the national team\"",
-      "url": "https://www.milannews.it/news/w-sabatini-baldini-libero-spero-confermino-nazionale-621241",
-      "source": "milannews.it",
-      "date": "2026-06-20T18:00:00+00:00",
-      "summary": "Speaking to Radio TuttoNapoli, sporting director Walter Sabatini commented on the hypothesis that had arisen for the national team bench, namely that of the confirmation of Silvio Baldini. These are his words."
-    },
-    {
       "id": "bb0e2587a3eb",
       "title": "SM Exclusive: Results, philosophy and Serie A fit – the Man Utd view on Amorim to Milan",
       "url": "https://sempremilan.com/manchester-united-view-amorim-to-ac-milan",
@@ -152,30 +176,6 @@
       "source": "football-italia.net",
       "date": "2026-06-20T17:55:00+00:00",
       "summary": "Gerry Cardinale is stepping up his involvement in AC Milan’s affairs, with the RedBird owner..."
-    },
-    {
-      "id": "a579dc0b2a9d",
-      "title": "Callegari sure: \"The arrival of Krosche and Hardung meant strategy, which doesn't seem to exist\"",
-      "url": "https://www.milannews.it/news/callegari-sicuro-l-arrivo-krosche-hardung-voleva-strategia-esserci-621249",
-      "source": "milannews.it",
-      "date": "2026-06-20T17:48:08+00:00",
-      "summary": "On Carlo Pellegatti's YouTube channel, the well-known journalist Massimo Callegari was a guest on Carlo Pellegatti's YouTube channel, who spoke about AC Milan's current corporate situation and the failure to arrive ..."
-    },
-    {
-      "id": "6df654e26784",
-      "title": "Milan, former sporting director Tare: \"I hope he finds a balance and a serious project\"",
-      "url": "https://www.milannews.it/news/milan-l-ex-ds-tare-spero-trovi-equilibrio-progetto-serio-621228",
-      "source": "milannews.it",
-      "date": "2026-06-20T17:36:34+00:00",
-      "summary": "(ANSA) - MILAN, JUNE 20 - \"I hope that Milan can find balance and a serious project for the future\": these are the words of former Milan sporting director Igli Tare to Sportmediaset."
-    },
-    {
-      "id": "12da4eeb5c7c",
-      "title": "Materazzi applauds Maldini: \"He did an incredible job, he was sent away with an excuse\"",
-      "url": "https://www.milannews.it/news/materazzi-acclama-maldini-ha-svolto-lavoro-incredibile-mandato-via-scusa-621251",
-      "source": "milannews.it",
-      "date": "2026-06-20T17:24:51+00:00",
-      "summary": "Marco Materazzi, in recent days, did not miss the opportunity to take a dig at Zlatan Ibrahimovic, consultant for RedBird, who in recent years has completely broken the fantastic relationship he had with the Rossoneri fans given the terrible ..."
     },
     {
       "id": "cd08ee9554d5",
