@@ -1,6 +1,238 @@
 {
-  "lastUpdated": "2026-06-23T08:32:16.398362+00:00",
+  "lastUpdated": "2026-06-23T12:08:11.157587+00:00",
   "articles": [
+    {
+      "id": "4952651894cb",
+      "title": "Reports: Amorim expected to arrive in Italy in July – what his schedule will look like",
+      "url": "https://sempremilan.com/amorim-expected-arrive-italy-july-schedule",
+      "source": "sempremilan.com",
+      "date": "2026-06-23T12:00:00+00:00",
+      "summary": "Today, multiple reports suggest that Ruben Amorim will arrive in Italy ready to start with AC Milan at the beginning of July.  It has been a long few weeks without structure. Now, finally, Milan have some. They have a clear pyramid structure in place to make decisions and hopefully lead the club for"
+    },
+    {
+      "id": "dbc08aad3bd1",
+      "title": "Abodi on Malagò: \"The time for words is no longer. Without people, football is nothing\"",
+      "url": "https://www.milannews.it/news/abodi-malago-non-parole-gente-calcio-niente-621515",
+      "source": "milannews.it",
+      "date": "2026-06-23T11:48:13+00:00",
+      "summary": "Since yesterday the FIGC has a new number one: Giovanni Malagò. Elected with the vast majority of votes, the former President of CONI prevailed over Giancarlo Abete."
+    },
+    {
+      "id": "9e9ec0577ed6",
+      "title": "New Milan organizational chart, harsh criticism from Libero: \"Is this Cardinale's 'magic touch'?\"",
+      "url": "https://www.milannews.it/news/organigramma-milan-dure-critiche-libero-e-magic-touch-cardinale-621511",
+      "source": "milannews.it",
+      "date": "2026-06-23T11:36:24+00:00",
+      "summary": "Today's edition of Libero harshly criticized the new AC Milan organization chart wanted by Gerry Cardinale: \"Is this Cardinale's 'magic touch'? Starting from the casting open to the best professionals in the world - or presumed ..."
+    },
+    {
+      "id": "53a936906ac8",
+      "title": "Sky: Milan breathe a sigh of relief as Napoli stop considering approach for Rabiot",
+      "url": "https://sempremilan.com/milan-relief-napoli-stop-rabiot-approach",
+      "source": "sempremilan.com",
+      "date": "2026-06-23T11:30:00+00:00",
+      "summary": "A major blow may not arrive at AC Milan anymore, with Napoli reportedly looking away from Adrien Rabiot this summer. There have been plenty of fears about Rabiot heading into this summer, especially after Allegri was fired. Indeed, the Frenchman has been his long-standing Mr. Reliable, so it seemed "
+    },
+    {
+      "id": "2eaefc64dc7c",
+      "title": "Amorim at Milan, Serena: \"It's going to be sustained and we need a purchasing campaign based on his indications\"",
+      "url": "https://www.milannews.it/gli-ex/amorim-milan-serena-va-sostentuo-serve-campagna-acquisti-indicazioni-621509",
+      "source": "milannews.it",
+      "date": "2026-06-23T11:24:28+00:00",
+      "summary": "Aldo Serena, former Rossoneri player, commented to the Milanese edition of Corriere della Sera on the new AC Milan organization chart chosen by Gerry Cardinale: \"It seems to me like a potpourri of managers and qualified people, perhaps not all ..."
+    },
+    {
+      "id": "9906ccd28bd4",
+      "title": "World Cup, the France of Maignan and Rabiot have already qualified for the round of 32",
+      "url": "https://www.milannews.it/news/mondiali-francia-maignan-rabiot-qualificata-sedicesimi-621496",
+      "source": "milannews.it",
+      "date": "2026-06-23T11:12:41+00:00",
+      "summary": "(ANSA) - ROME, JUNE 23 - Leo Messi calls, Kylian Mbappé responds."
+    },
+    {
+      "id": "94ce16d4f410",
+      "title": "Fuser on Ibrahimovic: \"We need to understand if he will want to adapt, learn from the mistakes made and start again\"",
+      "url": "https://www.milannews.it/gli-ex/fuser-ibrahimovic-bisogna-capire-voglia-adattarsi-tesoro-errori-commessi-ripartire-621508",
+      "source": "milannews.it",
+      "date": "2026-06-23T11:00:30+00:00",
+      "summary": "To comment on the new AC Milan organization chart wanted by Gerry Cardinale, owner of the club in via Aldo Rossi, Corriere della Sera (ed."
+    },
+    {
+      "id": "b78b6b247210",
+      "title": "GdS: ‘Presents several contradictions’ – the pros and cons of the Cardinale-Amorim axis",
+      "url": "https://sempremilan.com/several-contradictions-pros-cons-amorim-cardinale-axis",
+      "source": "sempremilan.com",
+      "date": "2026-06-23T11:00:00+00:00",
+      "summary": "Ruben Amorim and Gerry Cardinale will now be almost directly responsible for what happens at AC Milan and there are a few pros and cons.  With Milan not hiring a Head of Football or technical director from outside of the club, they are left with a head coach, who will now be a manager. Indeed, […]\nT"
+    },
+    {
+      "id": "3c48b7a82a0b",
+      "title": "Cardinal, how many contradictions. Wasted a month making a bad choice. Who will support Amorim? Ibra's influence...",
+      "url": "https://www.milannews.it/editoriale/cardinale-contraddizioni-perso-mese-scegliere-male-sosterra-amorim-l-influenza-ibra-621474",
+      "source": "milannews.it",
+      "date": "2026-06-23T10:56:41+00:00",
+      "summary": "The corporate reshuffle chosen by Gerry Cardinale is not convincing."
+    },
+    {
+      "id": "62d9ce21687b",
+      "title": "Benfica, the eyes of Milan and Como on the winger Schjelderup",
+      "url": "https://www.milannews.it/calciomercato-milan/benfica-occhi-milan-como-sull-attaccante-esterno-schjelderup-621502",
+      "source": "milannews.it",
+      "date": "2026-06-23T10:49:36+00:00",
+      "summary": "Andreas Schjelderup, winger for Benfica and the Norwegian national team, was close to landing in Serie A with Parma in January."
+    },
+    {
+      "id": "4299b89d4fa2",
+      "title": "Modric keeping Milan door open as Amorim meeting set to shape Croatian’s future",
+      "url": "https://football-italia.net/modric-keeping-milan-door-open-as-amorim/",
+      "source": "football-italia.net",
+      "date": "2026-06-23T10:40:00+00:00",
+      "summary": "Luka Modric has not yet made a final decision on his future at Milan, with..."
+    },
+    {
+      "id": "2ef39bf0d5e8",
+      "title": "New organizational chart Milan, F.Galli: \"It's a makeshift solution because before there were other ideas that didn't come to fruition\"",
+      "url": "https://www.milannews.it/gli-ex/organigramma-milan-f-galli-e-soluzione-ripiego-c-rano-idee-andate-buon-fine-621507",
+      "source": "milannews.it",
+      "date": "2026-06-23T10:37:42+00:00",
+      "summary": "Interviewed by the Milanese edition of Corriere della Sera, Filippo Galli, former Rossoneri defender, spoke thus about the new Milan of Gerry Cardinale who in recent hours revealed the new AC Milan organization chart: \"It is certainly ..."
+    },
+    {
+      "id": "bcdb0fba637e",
+      "title": "MilanVibes: Milan’s plan for 15-year-old sensation Jadid outlined amid Primavera rumours",
+      "url": "https://sempremilan.com/milan-plan-15yo-sensation-jadid-outlined",
+      "source": "sempremilan.com",
+      "date": "2026-06-23T10:30:00+00:00",
+      "summary": "There have been suggestions that AC Milan could lose another superstar youngster this summer, but it would appear this isn’t true. Now that Milan have some structure in place, it is hoped that they can now settle a little bit after a month of discussions about the future. In the background, though, "
+    },
+    {
+      "id": "75213acfd4d9",
+      "title": "Milan transfer market: Ruben Amorim's first request is a center forward",
+      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-richiesta-ruben-amorim-centravanti-621501",
+      "source": "milannews.it",
+      "date": "2026-06-23T10:25:36+00:00",
+      "summary": "Now that the organization chart is in place, the Milan transfer market can finally begin."
+    },
+    {
+      "id": "bd5d87ce4fcf",
+      "title": "Ibrahimovic praises Messi: \"There are no words to describe him. There are moments when he doesn't even seem human\"",
+      "url": "https://www.milannews.it/news/ibrahimovic-esalta-messi-non-parole-descriverlo-momenti-umano-621493",
+      "source": "milannews.it",
+      "date": "2026-06-23T10:13:22+00:00",
+      "summary": "Zlatan Ibrahimovic also bows to Leo Messi, who scored a brace yesterday against Austria which brings him to 5 goals in the first two matches of the World Cup."
+    },
+    {
+      "id": "868079511aac",
+      "title": "Theo Hernandez could make Serie A return: Como and Juventus interested",
+      "url": "https://football-italia.net/theo-hernandez-could-make-serie-a-return/",
+      "source": "football-italia.net",
+      "date": "2026-06-23T10:05:17+00:00",
+      "summary": "Theo Hernandez is being linked with a return to Serie A after just one season..."
+    },
+    {
+      "id": "bd87035bdf63",
+      "title": "Who is David Castelblanco? From the past at Goldman Sachs to joining RedBird. And now a new role in Milan",
+      "url": "https://www.milannews.it/primo-piano/david-castelblanco-passato-goldman-sachs-all-ingresso-redbird-ruolo-milan-621503",
+      "source": "milannews.it",
+      "date": "2026-06-23T10:00:44+00:00",
+      "summary": "In the new AC Milan organization chart chosen by Gerry Cardinale there is also room for David Castelblanco, who will play the role of financial advisor in the strategic committee created by the Rossoneri owner."
+    },
+    {
+      "id": "370252d5d859",
+      "title": "“A certain… influence” – Moretto explains doubts with Ibrahimovic’s role at Milan",
+      "url": "https://sempremilan.com/moretto-explains-doubts-ibrahimovic-role-milan",
+      "source": "sempremilan.com",
+      "date": "2026-06-23T10:00:00+00:00",
+      "summary": "It is clear that Zlatan Ibrahimovic has a certain level of authority at AC Milan and Matteo Moretto has looked at it after the restructuring.  There has been plenty said about Ibrahimovic since his return to the club in 2024. Unfortunately, most of it has been negative as there is little known about"
+    },
+    {
+      "id": "52858436f920",
+      "title": "Masini on Milan: \"Don't leave Ruben Amorim alone\"",
+      "url": "https://www.milannews.it/news/masini-milan-non-lasciate-ruben-amorim-621498",
+      "source": "milannews.it",
+      "date": "2026-06-23T09:48:39+00:00",
+      "summary": "Federico Masini, on the pages of Tuttosport, spoke thus about Milan and its new coach Ruben Amorim: \"Don't leave Amorim alone. A week ago Milan announced the hiring of the Portuguese coach."
+    },
+    {
+      "id": "df18c19faa1f",
+      "title": "Serena's doubts about the new Milan: \"For now the choice of the coach seems the most sensible to me\"",
+      "url": "https://www.milannews.it/gli-ex/dubbi-serena-milan-per-scelta-dell-allenatore-sensata-621506",
+      "source": "milannews.it",
+      "date": "2026-06-23T09:36:36+00:00",
+      "summary": "Aldo Serena, former Rossoneri player, commented to the Milanese edition of Corriere della Sera on the new AC Milan organization chart chosen by Gerry Cardinale: \"It seems to me like a potpourri of managers and qualified people, perhaps not all ..."
+    },
+    {
+      "id": "669e29d44afd",
+      "title": "Romano: Amorim has outlined plan for Milan squad ahead of first introductions – the situation",
+      "url": "https://sempremilan.com/amorim-outlined-plan-milan-squad-ahead-first-introductions",
+      "source": "sempremilan.com",
+      "date": "2026-06-23T09:30:00+00:00",
+      "summary": "Ruben Amorim will not make any moves until he has assessed the squad personally. However, he has a few ideas for the AC Milan team.  It would be impossible to really make a plan for the Milan team moving forward, currently. After all, it was a team of two halves last season: amazing for the […]\nThe "
+    },
+    {
+      "id": "35775430ea9b",
+      "title": "Portugal-Uzbekistan prediction, eyes on Leao: will he be the protagonist?",
+      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-portogallo-uzbekistan-occhi-leao-protagonista-621505",
+      "source": "milannews.it",
+      "date": "2026-06-23T09:25:00+00:00",
+      "summary": "After the disappointing draw in their debut against the Democratic Republic of Congo, Portugal returns to the pitch at the NRG Stadium in Houston to face Fabio Cannavaro's Uzbekistan."
+    },
+    {
+      "id": "af80051ad5c4",
+      "title": "Milan & Como join Liverpool & Spurs in race for Norwegian talent Schjelderup",
+      "url": "https://football-italia.net/milan-como-join-liverpool-spurs-schjelderup/",
+      "source": "football-italia.net",
+      "date": "2026-06-23T09:25:00+00:00",
+      "summary": "Andreas Schjelderup has emerged as one of the most coveted young attackers in European football..."
+    },
+    {
+      "id": "532323d58a2b",
+      "title": "New director of Italy, Malagò: \"I would like a former footballer. I feel with Maldini and others, but nothing has been decided\"",
+      "url": "https://www.milannews.it/news/dt-italia-malago-vorrei-calciatore-sento-maldini-altri-deciso-621500",
+      "source": "milannews.it",
+      "date": "2026-06-23T09:12:47+00:00",
+      "summary": "Giovanni Malagò, new president of the FIGC, gave a long interview to Repubblica in which he also spoke about who he would like as Italy's technical director."
+    },
+    {
+      "id": "067146930df0",
+      "title": "La Gazzetta on Amorim's programme: \"The coach will be in Italy on 6 July. First training scheduled for the following week\".",
+      "url": "https://www.milannews.it/news/gazzetta-programma-amorim-il-tecnico-italia-6-luglio-allenamento-fissato-settimana-successiva-621499",
+      "source": "milannews.it",
+      "date": "2026-06-23T09:00:00+00:00",
+      "summary": "Regarding the program of the new Rossoneri coach Ruben Amorim, today's edition of the Gazzetta dello Sport headlines this morning: \"The coach in Italy on 6 July."
+    },
+    {
+      "id": "a514931949de",
+      "title": "Reports: Improvement and the standard – Maignan and Rabiot get by as France cruise to victory",
+      "url": "https://sempremilan.com/maignan-rabiot-get-by-france-cruise-victory",
+      "source": "sempremilan.com",
+      "date": "2026-06-23T09:00:00+00:00",
+      "summary": "Last night, two of AC Milan’s stars were in action as France qualified for the Round of 32 in the ongoing World Cup. The World Cup has not been so easy for Milan’s players; a few have not gotten the minutes that they’d hoped for. Others have, but their results have been worse than they’d […]\nThe pos"
+    },
+    {
+      "id": "f99c44d5c7ec",
+      "title": "New Milan organization chart: no one is a real field man. Who will be close to Amorim on a daily basis at Milanello?",
+      "url": "https://www.milannews.it/news/organigramma-milan-vero-campo-quotidianamente-amorim-milanello-621497",
+      "source": "milannews.it",
+      "date": "2026-06-23T08:46:30+00:00",
+      "summary": "Milan finally has its new organizational chart which was personally chosen by Gerry Cardinale."
+    },
+    {
+      "id": "f70b084f83ca",
+      "title": "Maldini closing in on Italy technical director role under new FIGC president Malagò",
+      "url": "https://football-italia.net/maldini-closing-in-on-italy-technical-role/",
+      "source": "football-italia.net",
+      "date": "2026-06-23T08:44:11+00:00",
+      "summary": "Paolo Maldini is set to take on the role of Italy’s technical director under new..."
+    },
+    {
+      "id": "528726ff7b8b",
+      "title": "France-Iraq 3-0: Maignan and Rabiot on the pitch for the entire match",
+      "url": "https://www.milannews.it/news/francia-iraq-3-0-maignan-rabiot-campo-partita-621491",
+      "source": "milannews.it",
+      "date": "2026-06-23T08:34:49+00:00",
+      "summary": "France beat Iraq 3-0 in the second match of Group I of the World Cup thanks to Mbappè's brace and Dembelè's goal."
+    },
     {
       "id": "03b140545610",
       "title": "Sky: Milan could host Sporting reunion this summer with Amorim seeking two deals",
@@ -32,150 +264,6 @@
       "source": "sempremilan.com",
       "date": "2026-06-23T08:00:42+00:00",
       "summary": "AC Milan are making an effort to keep Luka Modric at the club and the arrival of Ruben Amorim could help with that.  There have been plenty of suggestions that Milan would lose Modric this summer, but there have been occasional reports that he is not 100% against another season at San Siro. Indeed, "
-    },
-    {
-      "id": "32c222e0d442",
-      "title": "Cardinale doesn't want to lose his stars: no to New York City for Pulisic. And he hopes for Modric's renewal",
-      "url": "https://www.milannews.it/primo-piano/cardinale-vuole-perdere-stelle-new-york-city-pulisic-spera-rinnovo-modric-621495",
-      "source": "milannews.it",
-      "date": "2026-06-23T08:00:07+00:00",
-      "summary": "Gerry Cardinale continues to work for the future of Milan."
-    },
-    {
-      "id": "eadbac3e1eb2",
-      "title": "Ibrahimovic also bows to Messi: \"5 goals in two games, I scored zero in two World Cups played. It's incredible\"",
-      "url": "https://www.milannews.it/news/ibrahimovic-inchina-messi-5-gol-partite-fatti-zero-mondiali-giocati-e-incredibile-621492",
-      "source": "milannews.it",
-      "date": "2026-06-23T07:47:35+00:00",
-      "summary": "Zlatan Ibrahimovic also bows to Leo Messi, who scored a brace yesterday against Austria which brings him to 5 goals in the first two matches of the World Cup."
-    },
-    {
-      "id": "17ce355395a3",
-      "title": "Milan and the fans' protests. CorSport: \"Organization chart disputed by fans\"",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-proteste-tifosi-corsport-organigramma-contestato-tifoseria-621489",
-      "source": "milannews.it",
-      "date": "2026-06-23T07:35:16+00:00",
-      "summary": "The protests of Milan fans who in recent weeks have plastered various Italian and foreign cities with posters with the words \"Liberate our Milan\" to contest the actions of RedBird, G ..."
-    },
-    {
-      "id": "fb767f7c04f0",
-      "title": "The QS headline: \"Amorim-Almstadt: the Milan market is in their hands\"",
-      "url": "https://www.milannews.it/rassegna-stampa/qs-titola-amorim-almstadt-mercato-milan-mani-621488",
-      "source": "milannews.it",
-      "date": "2026-06-23T07:23:26+00:00",
-      "summary": "The Quotidiano Sportivo on newsstands this morning has the headline: \"Amorim-Almstadt: the Milan transfer market is in their hands\". Gerry Cardinale has chosen the new organizational chart of the Devil."
-    },
-    {
-      "id": "4da27a300150",
-      "title": "World Cup: Norway-Senegal 3-2",
-      "url": "https://www.milannews.it/news/mondiali-norvegia-senegal-3-2-621482",
-      "source": "milannews.it",
-      "date": "2026-06-23T07:11:40+00:00",
-      "summary": "(ANSA) - ROME, JUNE 23 - Norway beat Senegal 3-2 in a group I match of the 2026 World Cup, which was played in New York."
-    },
-    {
-      "id": "8e1c09809ec8",
-      "title": "Milan transfer market, CorSport: \"Portuguese spending. Amorim has already chosen the reinforcements: Hjulmand, Ramos and Gonçalves\"",
-      "url": "https://www.milannews.it/rassegna-stampa/mercato-milan-corsport-la-spesa-portoghese-amorim-scelto-rinforzi-hjulmand-ramos-goncalves-621487",
-      "source": "milannews.it",
-      "date": "2026-06-23T06:59:40+00:00",
-      "summary": "\"Portuguese spending."
-    },
-    {
-      "id": "c71da2c33ee4",
-      "title": "Gazzetta: \"Modric, open game. Amorim and a part time job, so he can have a future at Milan\"",
-      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-modric-partita-aperta-amorim-impiego-part-time-milan-621486",
-      "source": "milannews.it",
-      "date": "2026-06-23T06:48:07+00:00",
-      "summary": "The Gazzetta dello Sport headline this morning: \"Modric, open game. Amorim and a part time job, so he can have a future at Milan\"."
-    },
-    {
-      "id": "24e4bc6df88c",
-      "title": "From Almstadt to Gardiner via Lomonte: everyone has been working for days for the first shots of Amorim",
-      "url": "https://www.milannews.it/rassegna-stampa/almstadt-gardiner-passando-lomonte-lavoro-primi-colpi-amorim-621485",
-      "source": "milannews.it",
-      "date": "2026-06-23T06:36:32+00:00",
-      "summary": "The new AC Milan organizational chart was revealed only a few hours ago, but in reality the AC Milan managers, in particular those in the sports area such as Almstadt, Gardiner and Lomonte, have already been operational for a few days to r ..."
-    },
-    {
-      "id": "f914218d09c0",
-      "title": "Malagò new president of the FIGC. Gazzetta: \"It's their turn. The new Italy: Conte rises, Maldini directs\"",
-      "url": "https://www.milannews.it/rassegna-stampa/malago-presidente-figc-gazzetta-tocca-loro-nuova-italia-sale-conte-maldini-dt-621484",
-      "source": "milannews.it",
-      "date": "2026-06-23T06:24:31+00:00",
-      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page to comment on the victory of the elections by Giovanni Malagò who has been appointed new president of the FIGC: \"It's up to them."
-    },
-    {
-      "id": "70161b57d3d2",
-      "title": "World Cup: Jordan-Algeria 1-2",
-      "url": "https://www.milannews.it/news/mondiali-giordania-algeria-1-2-621481",
-      "source": "milannews.it",
-      "date": "2026-06-23T06:12:21+00:00",
-      "summary": "(ANSA) - ROME, JUNE 23 - Algeria came from behind to beat Jordan 2-1 in a match in group J of the 2026 World Cup, which was played in San Francisco."
-    },
-    {
-      "id": "7a246eec3eaa",
-      "title": "Modric wants to stay at Milan: here's how Amorim could use him",
-      "url": "https://www.milannews.it/primo-piano/modric-voglia-restare-milan-impiegarlo-amorim-621483",
-      "source": "milannews.it",
-      "date": "2026-06-23T06:00:53+00:00",
-      "summary": "Among the many doubts that there are at the moment at Milan there is also that concerning the future of Luka Modric who has his contract expiring in a week: will he decide to renew with the Devil for another season or more..."
-    },
-    {
-      "id": "8e09355b3fd1",
-      "title": "Ravezzani on the company organization chart: \"They are all second lines, but who knows, maybe they turn out to be geniuses\"",
-      "url": "https://www.milannews.it/news/ravezzani-sull-organigramma-societario-sono-seconde-linee-chissa-rivelano-geni-621459",
-      "source": "milannews.it",
-      "date": "2026-06-23T05:50:11+00:00",
-      "summary": "On the QSVS YouTube channel, Telelombardia director Fabio Ravezzani spoke about Milan's new corporate structure decided by Gerry Cardinale. These are his words."
-    },
-    {
-      "id": "263c6733ec54",
-      "title": "World Cup: France-Iraq 3-0",
-      "url": "https://www.milannews.it/news/mondiali-francia-iraq-3-0-621480",
-      "source": "milannews.it",
-      "date": "2026-06-23T05:40:40+00:00",
-      "summary": "(ANSA) - ROME, JUNE 23 - France defeated Iraq 3-0 in a match in Group I of the 2026 World Cup, which was played in Philadelphia."
-    },
-    {
-      "id": "3e29ca9a12a8",
-      "title": "Thiago Silva returns home: at 42 he will leave Fluminense again",
-      "url": "https://www.milannews.it/dall-estero/thiago-silva-ritorna-casa-42-ripartira-fluminense-621478",
-      "source": "milannews.it",
-      "date": "2026-06-23T05:30:00+00:00",
-      "summary": "Thiago Silva, Portuguese champion with Farioli's Porto, had announced at the end of the season that he was leaving the club after just six months. The future was yet to be written and the options in his head were multiple."
-    },
-    {
-      "id": "e4a7b7558760",
-      "title": "Biasin critical: \"Cardinal didn't have clear ideas, he told lies to the fans and then chose what was already at home\"",
-      "url": "https://www.milannews.it/news/biasin-critico-cardinale-idee-chiare-bugie-tifosi-scelto-c-era-casa-621472",
-      "source": "milannews.it",
-      "date": "2026-06-23T05:20:31+00:00",
-      "summary": "During the last episode of QSVS, the well-known journalist Fabrizio Biasin spoke about Cardinale's choices regarding the new corporate structure. These are his words."
-    },
-    {
-      "id": "192623d103f9",
-      "title": "World Cup, today it's still CR7's turn to Portugal. Does Leao play?",
-      "url": "https://www.milannews.it/news/mondiali-tocca-portogallo-cr7-leao-gioca-621475",
-      "source": "milannews.it",
-      "date": "2026-06-23T05:10:23+00:00",
-      "summary": "After the disappointing draw against the Democratic Republic of Congo on the first day, a lackluster 1-1, CR7's Portugal returns to the field this evening."
-    },
-    {
-      "id": "cff83b3ce756",
-      "title": "USA, excellent news for Pochettino: Pulisic returns to the group",
-      "url": "https://www.milannews.it/news/usa-ottime-notizie-pochettino-pulisic-torna-621479",
-      "source": "milannews.it",
-      "date": "2026-06-23T05:00:00+00:00",
-      "summary": "Good news for the USA, who among other things have already qualified for the round of 16 of the World Cup: Christian Pulisic has returned to group training after missing the match against Australia due to a wrist problem ..."
-    },
-    {
-      "id": "144e6b176c27",
-      "title": "Pellegatti disappointed: \"I wanted Galliani, Rangnick, I also liked the last solution, but instead a very risky one arrived\"",
-      "url": "https://www.milannews.it/news/pellegatti-deluso-volevo-galliani-rangnick-l-ultima-soluzione-piaceva-arrivata-rischiosissima-621455",
-      "source": "milannews.it",
-      "date": "2026-06-22T23:00:34+00:00",
-      "summary": "Having chosen Ruben Amorim, in the last few hours Milan has also made official what will be the company organization chart that will work alongside the Portuguese coach."
     },
     {
       "id": "1f8dcbfc079f",
@@ -282,68 +370,12 @@
       "summary": "Among the internal reshuffle at AC Milan, Hendrik Almstadt will be even more central to Gerry Cardinale’s governance, but is this good news? The German has been at Milan since January 2019 and he was a specific hire by the former CEO Ivan Gazidis, given his past in England including working with Ars"
     },
     {
-      "id": "fcc7c012be6b",
-      "title": "Romano issues response to rumours Orlando City have offered €30m for Milan striker",
-      "url": "https://sempremilan.com/romano-response-orlando-city-gimenez-milan",
-      "source": "sempremilan.com",
-      "date": "2026-06-22T13:00:00+00:00",
-      "summary": "AC Milan are yet to receive an offer from Orlando City for Santiago Gimenez despite reports to the contrary, Fabrizio Romano claims. Among the many issues for Ruben Amorim and the ‘new’ Milan management to tackle this summer is what to do with Gimenez. He was the big investment of the 2025 winter wi"
-    },
-    {
-      "id": "2fa352f29820",
-      "title": "AC Milan U15s crowned champions of Italy as Manna and Jadid down Empoli in final",
-      "url": "https://sempremilan.com/ac-milan-u15s-champions-empoli",
-      "source": "sempremilan.com",
-      "date": "2026-06-22T12:30:00+00:00",
-      "summary": "After the chaos and carnage of the past few weeks there is finally some good news for AC Milan, as their U15 side were crowned champions. On Sunday, the U15s took on Empoli in the Scudetto Final in Rimini for the culmination of an outstanding campaign over the course of the season, and they delivere"
-    },
-    {
-      "id": "23ec0e26d9cc",
-      "title": "Tuttosport: Why Jashari could become a focal point for Amorim in second season at Milan",
-      "url": "https://sempremilan.com/why-jashari-focal-point-milan-amorim",
-      "source": "sempremilan.com",
-      "date": "2026-06-22T12:00:00+00:00",
-      "summary": "Ardon Jashari is someone that could play a key role at AC Milan in his second season, at least in Ruben Amorim’s eyes. Tuttosport recall how Igli Tare invested a lot on Jashari almost a year ago and the club remain convinced he can become a great player. However, Massimiliano Allegri never truly put"
-    },
-    {
-      "id": "b95fa7a5c84f",
-      "title": "Sky journalist claims fan protests are ‘alive and well’ amid threat of ‘disaster’ at Milan",
-      "url": "https://sempremilan.com/fan-protests-alive-well-disaster-milan",
-      "source": "sempremilan.com",
-      "date": "2026-06-22T11:30:00+00:00",
-      "summary": "Peppe Di Stefano has told Sky that he expects more protests from sections of the AC Milan fan base given how the summer has gone so far. Owner Gerry Cardinale promised profound changes to the management this summer, after the clear-out following the defeat to Cagliari earlier in the month. Ruben Amo"
-    },
-    {
       "id": "566385f2fc82",
       "title": "Inside Milan’s new era: Cardinale’s Liverpool-style overhaul",
       "url": "https://football-italia.net/milan-new-era-cardinale-liverpool-overhaul/",
       "source": "football-italia.net",
       "date": "2026-06-22T11:10:53+00:00",
       "summary": "A new chapter is underway at Milan. Following the appointment of Ruben Amorim as head..."
-    },
-    {
-      "id": "0af24b0c4f9d",
-      "title": "Record: Amorim sets sights on Sporting CP star Gonçalves – player keen on move",
-      "url": "https://sempremilan.com/amorim-milan-sporting-star-goncalves",
-      "source": "sempremilan.com",
-      "date": "2026-06-22T11:00:00+00:00",
-      "summary": "Morten Hjulmand and Goncalo Ramos aren’t the only players Ruben Amorim knows that he would like to have at AC Milan. Reports in the past 24 hours have suggested that Amorim will have a big say when it comes to the transfer market, and so the new coach is gradually identifying the right reinforcement"
-    },
-    {
-      "id": "4bb421bebe3c",
-      "title": "La Verità: Wide-ranging powers and ‘convertible warrants’ – Ibrahimovic’s true role at Milan",
-      "url": "https://sempremilan.com/zlatan-ibrahimovic-true-role-at-milan",
-      "source": "sempremilan.com",
-      "date": "2026-06-22T10:30:00+00:00",
-      "summary": "A report has outlined Zlatan Ibrahimovic’s role and responsibilities when it comes to AC Milan, amid various reports about his influence. Among Milan fans, commentators, and even insiders, there is a question that still hasn’t been clearly answered: what is Ibrahimovic’s role exactly? Today, La Veri"
-    },
-    {
-      "id": "0453779ff1da",
-      "title": "Moretto: Amorim will have ‘more power than a regular manager’ at Milan",
-      "url": "https://sempremilan.com/amorim-more-power-regular-manager-milan",
-      "source": "sempremilan.com",
-      "date": "2026-06-22T10:00:00+00:00",
-      "summary": "Ruben Amorim will take on more of a role as a manager at AC Milan rather than being a simple head coach, Matteo Moretto reports. Amorim was announced as Massimiliano Allegri’s heir less than one week ago, and yet in those last few days the potential scope of his role has changed. He was expected […]"
     },
     {
       "id": "e629ae03b255",
@@ -448,38 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-06-20T12:18:28+00:00",
       "summary": "Brazilian legend Ronaldinho has signed with Italy’s third-division side Ravenna, and, according to Italian sources,..."
-    },
-    {
-      "id": "6a7d530f7730",
-      "title": "Ronaldinho: Brazilian legend signs with Serie C side Ravenna",
-      "url": "https://football-italia.net/brazilian-legend-ronaldinho-signs-ravenna/",
-      "source": "football-italia.net",
-      "date": "2026-06-20T08:45:07+00:00",
-      "summary": "Brazilian legend Ronaldinho, 46, has signed with Italian Serie C side Ravenna, but it’s still..."
-    },
-    {
-      "id": "86fab8548a4d",
-      "title": "Today’s Papers – Inter move for Paz, Amorim calls Milan stars",
-      "url": "https://football-italia.net/todays-papers-inter-move-paz-amorim-milan/",
-      "source": "football-italia.net",
-      "date": "2026-06-20T07:47:30+00:00",
-      "summary": "La Gazzetta dello Sport Ronaldinho signs with Ravenna at 46 Amorim calls Rabiot and Maignan..."
-    },
-    {
-      "id": "453629df63de",
-      "title": "Pochettino insists ‘the feelings are good’ after leaving Pulisic out of USA vs. Australia",
-      "url": "https://football-italia.net/the-feelings-are-good-pulisic-usa-vs-australia/",
-      "source": "football-italia.net",
-      "date": "2026-06-19T18:19:26+00:00",
-      "summary": "Mauricio Pochettino has urged for calm following the news that Christian Pulisic will not be..."
-    },
-    {
-      "id": "bcedfb9301a5",
-      "title": "Transfer Round-Up: Nico Paz transfer row, Juventus call Dybala, Jones latest",
-      "url": "https://football-italia.net/transfer-round-up-nico-paz-dybala-jones/",
-      "source": "football-italia.net",
-      "date": "2026-06-19T16:40:00+00:00",
-      "summary": "Get today’s transfer updates with the Football Italia Transfer Show on YouTube with fresh news..."
     }
   ]
 }
