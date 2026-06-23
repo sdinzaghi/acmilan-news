@@ -1,6 +1,174 @@
 {
-  "lastUpdated": "2026-06-23T04:58:57.902647+00:00",
+  "lastUpdated": "2026-06-23T08:32:16.398362+00:00",
   "articles": [
+    {
+      "id": "03b140545610",
+      "title": "Sky: Milan could host Sporting reunion this summer with Amorim seeking two deals",
+      "url": "https://sempremilan.com/milan-host-sporting-reunion-summer-amorim-seeking-two",
+      "source": "sempremilan.com",
+      "date": "2026-06-23T08:30:00+00:00",
+      "summary": "AC Milan could host a reunion this summer between Ruben Amorim and two of his former Sporting Club talents, it seems.  Managers often look to former players for guarantees and Amorim appears to be no different. Indeed, the Portuguese wants to bring two of his previous talents to San Siro with him th"
+    },
+    {
+      "id": "65f6b7a39af1",
+      "title": "Milan, Amorim was clear with Cardinale: he wants to keep both Maignan and Rabiot",
+      "url": "https://www.milannews.it/news/milan-amorim-chiaro-cardinale-vuole-trattenere-maignan-rabiot-621494",
+      "source": "milannews.it",
+      "date": "2026-06-23T08:22:57+00:00",
+      "summary": "While waiting to see which reinforcements will arrive from the market, Ruben Amorim is carefully evaluating the current AC Milan squad."
+    },
+    {
+      "id": "bd01c4b3df6e",
+      "title": "FIGC, contacts with Paolo Maldini: Malagò wants him as director of his project",
+      "url": "https://www.milannews.it/gli-ex/figc-contatti-paolo-maldini-malago-vuole-direttore-progetto-621490",
+      "source": "milannews.it",
+      "date": "2026-06-23T08:10:31+00:00",
+      "summary": "After winning the elections and becoming the new president of the FIGC, Giovanni Malagò is now working to form his new team."
+    },
+    {
+      "id": "f7e31aed4fd7",
+      "title": "GdS: ‘Amorim and a part-time job’ – Milan attempting to convince Modric to stay",
+      "url": "https://sempremilan.com/milan-attempting-convince-modric-stay",
+      "source": "sempremilan.com",
+      "date": "2026-06-23T08:00:42+00:00",
+      "summary": "AC Milan are making an effort to keep Luka Modric at the club and the arrival of Ruben Amorim could help with that.  There have been plenty of suggestions that Milan would lose Modric this summer, but there have been occasional reports that he is not 100% against another season at San Siro. Indeed, "
+    },
+    {
+      "id": "32c222e0d442",
+      "title": "Cardinale doesn't want to lose his stars: no to New York City for Pulisic. And he hopes for Modric's renewal",
+      "url": "https://www.milannews.it/primo-piano/cardinale-vuole-perdere-stelle-new-york-city-pulisic-spera-rinnovo-modric-621495",
+      "source": "milannews.it",
+      "date": "2026-06-23T08:00:07+00:00",
+      "summary": "Gerry Cardinale continues to work for the future of Milan."
+    },
+    {
+      "id": "eadbac3e1eb2",
+      "title": "Ibrahimovic also bows to Messi: \"5 goals in two games, I scored zero in two World Cups played. It's incredible\"",
+      "url": "https://www.milannews.it/news/ibrahimovic-inchina-messi-5-gol-partite-fatti-zero-mondiali-giocati-e-incredibile-621492",
+      "source": "milannews.it",
+      "date": "2026-06-23T07:47:35+00:00",
+      "summary": "Zlatan Ibrahimovic also bows to Leo Messi, who scored a brace yesterday against Austria which brings him to 5 goals in the first two matches of the World Cup."
+    },
+    {
+      "id": "17ce355395a3",
+      "title": "Milan and the fans' protests. CorSport: \"Organization chart disputed by fans\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-proteste-tifosi-corsport-organigramma-contestato-tifoseria-621489",
+      "source": "milannews.it",
+      "date": "2026-06-23T07:35:16+00:00",
+      "summary": "The protests of Milan fans who in recent weeks have plastered various Italian and foreign cities with posters with the words \"Liberate our Milan\" to contest the actions of RedBird, G ..."
+    },
+    {
+      "id": "fb767f7c04f0",
+      "title": "The QS headline: \"Amorim-Almstadt: the Milan market is in their hands\"",
+      "url": "https://www.milannews.it/rassegna-stampa/qs-titola-amorim-almstadt-mercato-milan-mani-621488",
+      "source": "milannews.it",
+      "date": "2026-06-23T07:23:26+00:00",
+      "summary": "The Quotidiano Sportivo on newsstands this morning has the headline: \"Amorim-Almstadt: the Milan transfer market is in their hands\". Gerry Cardinale has chosen the new organizational chart of the Devil."
+    },
+    {
+      "id": "4da27a300150",
+      "title": "World Cup: Norway-Senegal 3-2",
+      "url": "https://www.milannews.it/news/mondiali-norvegia-senegal-3-2-621482",
+      "source": "milannews.it",
+      "date": "2026-06-23T07:11:40+00:00",
+      "summary": "(ANSA) - ROME, JUNE 23 - Norway beat Senegal 3-2 in a group I match of the 2026 World Cup, which was played in New York."
+    },
+    {
+      "id": "8e1c09809ec8",
+      "title": "Milan transfer market, CorSport: \"Portuguese spending. Amorim has already chosen the reinforcements: Hjulmand, Ramos and Gonçalves\"",
+      "url": "https://www.milannews.it/rassegna-stampa/mercato-milan-corsport-la-spesa-portoghese-amorim-scelto-rinforzi-hjulmand-ramos-goncalves-621487",
+      "source": "milannews.it",
+      "date": "2026-06-23T06:59:40+00:00",
+      "summary": "\"Portuguese spending."
+    },
+    {
+      "id": "c71da2c33ee4",
+      "title": "Gazzetta: \"Modric, open game. Amorim and a part time job, so he can have a future at Milan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-modric-partita-aperta-amorim-impiego-part-time-milan-621486",
+      "source": "milannews.it",
+      "date": "2026-06-23T06:48:07+00:00",
+      "summary": "The Gazzetta dello Sport headline this morning: \"Modric, open game. Amorim and a part time job, so he can have a future at Milan\"."
+    },
+    {
+      "id": "24e4bc6df88c",
+      "title": "From Almstadt to Gardiner via Lomonte: everyone has been working for days for the first shots of Amorim",
+      "url": "https://www.milannews.it/rassegna-stampa/almstadt-gardiner-passando-lomonte-lavoro-primi-colpi-amorim-621485",
+      "source": "milannews.it",
+      "date": "2026-06-23T06:36:32+00:00",
+      "summary": "The new AC Milan organizational chart was revealed only a few hours ago, but in reality the AC Milan managers, in particular those in the sports area such as Almstadt, Gardiner and Lomonte, have already been operational for a few days to r ..."
+    },
+    {
+      "id": "f914218d09c0",
+      "title": "Malagò new president of the FIGC. Gazzetta: \"It's their turn. The new Italy: Conte rises, Maldini directs\"",
+      "url": "https://www.milannews.it/rassegna-stampa/malago-presidente-figc-gazzetta-tocca-loro-nuova-italia-sale-conte-maldini-dt-621484",
+      "source": "milannews.it",
+      "date": "2026-06-23T06:24:31+00:00",
+      "summary": "Today's edition of the Gazzetta dello Sport headlines this morning on the front page to comment on the victory of the elections by Giovanni Malagò who has been appointed new president of the FIGC: \"It's up to them."
+    },
+    {
+      "id": "70161b57d3d2",
+      "title": "World Cup: Jordan-Algeria 1-2",
+      "url": "https://www.milannews.it/news/mondiali-giordania-algeria-1-2-621481",
+      "source": "milannews.it",
+      "date": "2026-06-23T06:12:21+00:00",
+      "summary": "(ANSA) - ROME, JUNE 23 - Algeria came from behind to beat Jordan 2-1 in a match in group J of the 2026 World Cup, which was played in San Francisco."
+    },
+    {
+      "id": "7a246eec3eaa",
+      "title": "Modric wants to stay at Milan: here's how Amorim could use him",
+      "url": "https://www.milannews.it/primo-piano/modric-voglia-restare-milan-impiegarlo-amorim-621483",
+      "source": "milannews.it",
+      "date": "2026-06-23T06:00:53+00:00",
+      "summary": "Among the many doubts that there are at the moment at Milan there is also that concerning the future of Luka Modric who has his contract expiring in a week: will he decide to renew with the Devil for another season or more..."
+    },
+    {
+      "id": "8e09355b3fd1",
+      "title": "Ravezzani on the company organization chart: \"They are all second lines, but who knows, maybe they turn out to be geniuses\"",
+      "url": "https://www.milannews.it/news/ravezzani-sull-organigramma-societario-sono-seconde-linee-chissa-rivelano-geni-621459",
+      "source": "milannews.it",
+      "date": "2026-06-23T05:50:11+00:00",
+      "summary": "On the QSVS YouTube channel, Telelombardia director Fabio Ravezzani spoke about Milan's new corporate structure decided by Gerry Cardinale. These are his words."
+    },
+    {
+      "id": "263c6733ec54",
+      "title": "World Cup: France-Iraq 3-0",
+      "url": "https://www.milannews.it/news/mondiali-francia-iraq-3-0-621480",
+      "source": "milannews.it",
+      "date": "2026-06-23T05:40:40+00:00",
+      "summary": "(ANSA) - ROME, JUNE 23 - France defeated Iraq 3-0 in a match in Group I of the 2026 World Cup, which was played in Philadelphia."
+    },
+    {
+      "id": "3e29ca9a12a8",
+      "title": "Thiago Silva returns home: at 42 he will leave Fluminense again",
+      "url": "https://www.milannews.it/dall-estero/thiago-silva-ritorna-casa-42-ripartira-fluminense-621478",
+      "source": "milannews.it",
+      "date": "2026-06-23T05:30:00+00:00",
+      "summary": "Thiago Silva, Portuguese champion with Farioli's Porto, had announced at the end of the season that he was leaving the club after just six months. The future was yet to be written and the options in his head were multiple."
+    },
+    {
+      "id": "e4a7b7558760",
+      "title": "Biasin critical: \"Cardinal didn't have clear ideas, he told lies to the fans and then chose what was already at home\"",
+      "url": "https://www.milannews.it/news/biasin-critico-cardinale-idee-chiare-bugie-tifosi-scelto-c-era-casa-621472",
+      "source": "milannews.it",
+      "date": "2026-06-23T05:20:31+00:00",
+      "summary": "During the last episode of QSVS, the well-known journalist Fabrizio Biasin spoke about Cardinale's choices regarding the new corporate structure. These are his words."
+    },
+    {
+      "id": "192623d103f9",
+      "title": "World Cup, today it's still CR7's turn to Portugal. Does Leao play?",
+      "url": "https://www.milannews.it/news/mondiali-tocca-portogallo-cr7-leao-gioca-621475",
+      "source": "milannews.it",
+      "date": "2026-06-23T05:10:23+00:00",
+      "summary": "After the disappointing draw against the Democratic Republic of Congo on the first day, a lackluster 1-1, CR7's Portugal returns to the field this evening."
+    },
+    {
+      "id": "cff83b3ce756",
+      "title": "USA, excellent news for Pochettino: Pulisic returns to the group",
+      "url": "https://www.milannews.it/news/usa-ottime-notizie-pochettino-pulisic-torna-621479",
+      "source": "milannews.it",
+      "date": "2026-06-23T05:00:00+00:00",
+      "summary": "Good news for the USA, who among other things have already qualified for the round of 16 of the World Cup: Christian Pulisic has returned to group training after missing the match against Australia due to a wrist problem ..."
+    },
     {
       "id": "144e6b176c27",
       "title": "Pellegatti disappointed: \"I wanted Galliani, Rangnick, I also liked the last solution, but instead a very risky one arrived\"",
@@ -10,164 +178,12 @@
       "summary": "Having chosen Ruben Amorim, in the last few hours Milan has also made official what will be the company organization chart that will work alongside the Portuguese coach."
     },
     {
-      "id": "9060d9310ce6",
-      "title": "Ravezzani has no doubts: \"If the new company will do well it's a coincidence, otherwise why did he notice it after 20 days?\"",
-      "url": "https://www.milannews.it/news/ravezzani-dubbi-se-nuova-societa-caso-senno-n-e-accorto-20-giorni-621467",
-      "source": "milannews.it",
-      "date": "2026-06-22T22:50:25+00:00",
-      "summary": "On the QSVS YouTube channel, Telelombardia director Fabio Ravezzani spoke about Milan's new corporate structure decided by Gerry Cardinale. These are his words."
-    },
-    {
-      "id": "72c7dfbf0328",
-      "title": "Biasin: “Milan chose the risk, the fans didn't deserve this solution”",
-      "url": "https://www.milannews.it/news/biasin-il-milan-scelto-rischio-tifosi-meritavano-soluzione-621473",
-      "source": "milannews.it",
-      "date": "2026-06-22T22:40:46+00:00",
-      "summary": "During the last episode of QSVS, the well-known journalist Fabrizio Biasin spoke about Cardinale's choices regarding the new corporate structure. These are his words."
-    },
-    {
-      "id": "61fbc556f6cf",
-      "title": "Manchester United buys the land for the future Old Trafford",
-      "url": "https://www.milannews.it/news/manchester-united-acquista-terreno-old-trafford-621444",
-      "source": "milannews.it",
-      "date": "2026-06-22T22:30:32+00:00",
-      "summary": "(ANSA) - LONDON, JUNE 22 - Manchester United has acquired most of the land needed to build its new 100,000-seat stadium, the largest in Great Britain, the club has announced."
-    },
-    {
-      "id": "4bb75392996b",
-      "title": "World Cup: 2-0 to Austria, Argentina in the round of 32. Messi record holder",
-      "url": "https://www.milannews.it/news/mondiali-2-0-all-austria-argentina-sedicesimi-finale-messi-recordman-621471",
-      "source": "milannews.it",
-      "date": "2026-06-22T22:20:53+00:00",
-      "summary": "(ANSA) - ROME, JUNE 22 - Argentina beat Austria 2-0 (1-0) in a match in the second round of group J of the World Cup played in Dallas and qualified with one match to spare for the round of 32."
-    },
-    {
-      "id": "f263f12df0d7",
-      "title": "Ravezzani underlines: \"Now everyone will have to get along, hopefully Amorim will go as well as in Portugal\"",
-      "url": "https://www.milannews.it/news/ravezzani-sottolinea-ora-dovranno-andare-d-accordo-amorim-spera-vada-portogallo-621465",
-      "source": "milannews.it",
-      "date": "2026-06-22T22:10:21+00:00",
-      "summary": "On the QSVS YouTube channel, Telelombardia director Fabio Ravezzani spoke about Milan's new corporate structure decided by Gerry Cardinale. These are his words."
-    },
-    {
-      "id": "3c48b7a82a0b",
-      "title": "Cardinal, how many contradictions. Wasted a month making a bad choice. Who will support Amorim? Ibra's influence...",
-      "url": "https://www.milannews.it/editoriale/cardinale-contraddizioni-perso-mese-scegliere-male-sosterra-amorim-l-influenza-ibra-621474",
-      "source": "milannews.it",
-      "date": "2026-06-22T22:00:41+00:00",
-      "summary": "The corporate reshuffle chosen by Gerry Cardinale is not convincing."
-    },
-    {
-      "id": "66be88f61572",
-      "title": "Marchetti: \"The managers of the new organizational chart already worked at Milan in roles that were certainly less central than those they will have today\"",
-      "url": "https://www.milannews.it/news/marchetti-i-dirigenti-organigramma-lavoravano-milan-ruoli-sicuramente-centrali-dovranno-oggi-621470",
-      "source": "milannews.it",
-      "date": "2026-06-22T21:50:28+00:00",
-      "summary": "Milan's new corporate and management structure has raised more than one question mark, given the lack of experience of those \"chosen\" by Cardinal for operational roles of great importance."
-    },
-    {
-      "id": "7e4e1fc64d2b",
-      "title": "Ordine underlines: “Cardinal used to delegate, now he is only in command and he decides everything”",
-      "url": "https://www.milannews.it/news/ordine-sottolinea-cardinale-delegava-comando-decide-lui-621468",
-      "source": "milannews.it",
-      "date": "2026-06-22T21:40:14+00:00",
-      "summary": "During the last episode of QSVS, the well-known journalist Franco Ordine commented on the new Milan organizational chart, underlining that now Cardinale will no longer delegate any decisions."
-    },
-    {
-      "id": "30a7a46c4b4e",
-      "title": "Impallomeni on Milan: \"It's a form of organization chart that no one expected. Good luck to Cardinale\"",
-      "url": "https://www.milannews.it/news/impallomeni-milan-e-forma-organigramma-aspettava-bocca-lupo-cardinale-621449",
-      "source": "milannews.it",
-      "date": "2026-06-22T21:30:08+00:00",
-      "summary": "Having chosen Ruben Amorim, in the last few hours Milan has also made official what will be the company organization chart that will work alongside the Portuguese coach."
-    },
-    {
-      "id": "78c58f99fb9a",
-      "title": "Messi, double world record achieved: but the party is only half over",
-      "url": "https://www.milannews.it/news/messi-record-mondiale-raggiunto-festa-meta-621458",
-      "source": "milannews.it",
-      "date": "2026-06-22T21:20:54+00:00",
-      "summary": "A few hours ago, Leo Messi's Argentina returned to the field after the crushing victory against Algeria, a victory that came thanks to the hat-trick of the champion in shirt 10."
-    },
-    {
-      "id": "baca75bf6b34",
-      "title": "Orlando on the new AC Milan board: \"They don't have a CV, they have learned very little about football...\"",
-      "url": "https://www.milannews.it/news/orlando-board-milan-il-curriculum-ce-l-hanno-calcio-masticato-veramente-poco-621453",
-      "source": "milannews.it",
-      "date": "2026-06-22T21:10:00+00:00",
-      "summary": "Having chosen Ruben Amorim, in the last few hours Milan has also made official what will be the company organization chart that will work alongside the Portuguese coach."
-    },
-    {
-      "id": "aa323b297753",
-      "title": "Ravezzani comments: “The new company must race against time, there is a lot to do on the market”",
-      "url": "https://www.milannews.it/news/ravezzani-commenta-la-nuova-societa-correre-tempo-c-e-mercato-621463",
-      "source": "milannews.it",
-      "date": "2026-06-22T21:00:42+00:00",
-      "summary": "The director of Telelombardia Fabio Ravezzani, on the QSVS YouTube channel, spoke about the new Rossoneri corporate organization chart. These are his words."
-    },
-    {
-      "id": "dfbedfcf18f3",
-      "title": "Romano: \"Amorim wants to see Musah. Rabiot and Maignan are firm points\"",
-      "url": "https://www.milannews.it/news/romano-amorim-vuole-vedere-musah-rabiot-maignan-punti-fermi-621477",
-      "source": "milannews.it",
-      "date": "2026-06-22T20:50:02+00:00",
-      "summary": "In the France-Iraq pre-match on DAZN, market expert Fabrizio Romano spoke about Amorim's wishes for the Rossoneri market, starting from the fixed points from which he wants to start, passing through the loans that will return to Milan, f ..."
-    },
-    {
-      "id": "cf533849b1a4",
-      "title": "Safe order: “Amorim and Cardinale are main figures, Almstad will make negotiations with Calvelli”",
-      "url": "https://www.milannews.it/news/ordine-sicuro-amorim-cardinale-figure-principali-almstad-trattative-calvelli-621462",
-      "source": "milannews.it",
-      "date": "2026-06-22T20:40:43+00:00",
-      "summary": "During the last episode of QSVS, the well-known journalist Franco Ordine commented on the new AC Milan corporate organization chart, underlining who the main figures are. These are his words."
-    },
-    {
-      "id": "a720c2a60c82",
-      "title": "Marchetti: \"Milan starts again with what they have at home: Ibra and Cardinale's ideas not compatible with the managers/coaches contacted\"",
-      "url": "https://www.milannews.it/news/marchetti-il-milan-riparte-casa-idee-ibra-cardinale-compatibili-dirigenti-allenatori-contattati-621464",
-      "source": "milannews.it",
-      "date": "2026-06-22T20:30:53+00:00",
-      "summary": "In the new Milan decided by Cardinal Zlatan Ibrahimovic will continue to have an important specific weight, despite being formally outside the Rossoneri company organization chart."
-    },
-    {
-      "id": "55780512721f",
-      "title": "France-Iraq, the official line-ups: Maignan and Rabiot as starters, Theo already on the bench",
-      "url": "https://www.milannews.it/news/francia-iraq-formazioni-ufficiali-maignan-rabiot-titolari-theo-panchinato-621476",
-      "source": "milannews.it",
-      "date": "2026-06-22T20:19:35+00:00",
-      "summary": "These are the official lineups for France-Iraq, valid for the second day of group I of the World Cup. The Rossoneri Maignan and Rabiot are the starters, while former Milan player Theo Hernandez is on the bench."
-    },
-    {
-      "id": "5b1ea78d8c4d",
-      "title": "Milan has a new organizational chart. Orlando: \"There isn't much trust, but if they prove us wrong we'll all be happy\"",
-      "url": "https://www.milannews.it/news/milan-organigramma-orlando-non-c-e-tanta-fiducia-smentiscono-contenti-621452",
-      "source": "milannews.it",
-      "date": "2026-06-22T20:10:00+00:00",
-      "summary": "Having chosen Ruben Amorim, in the last few hours Milan has also made official what will be the company organization chart that will work alongside the Portuguese coach."
-    },
-    {
-      "id": "b255aa99ef15",
-      "title": "Milan, Sky confirms interest in Hjulmand and Trincao from Sporting",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-sky-conferma-l-interesse-per-hjulmand-e-trincao-sporting-621469",
-      "source": "milannews.it",
-      "date": "2026-06-22T20:00:55+00:00",
-      "summary": "Now that the corporate structure has been decided by Gerry Cardinale (click HERE) Milan's new season can begin. This means, among other things, that the Rossoneri will finally be able to move on the transfer market too."
-    },
-    {
       "id": "1f8dcbfc079f",
       "title": "“Intrigued by a potential collaboration” – what Cardinale said during audience with Pope Leo",
       "url": "https://sempremilan.com/what-cardinale-said-audience-pope-leo",
       "source": "sempremilan.com",
       "date": "2026-06-22T20:00:27+00:00",
       "summary": "Gerry Cardinale was received by Pope Leo XIV in the past few days and he expressed a desire to co-operate with the Vatican. Sportico (via MilanNews) reports how the RedBird and Milan owner participated in the ‘Dialogues’ organised at the Vatican, in collaboration with the Laudato Si’ Center for Adva"
-    },
-    {
-      "id": "af81e5e47ef9",
-      "title": "Di Marzio: \"Amorim wants to study the squad available in depth before making decisions\"",
-      "url": "https://www.milannews.it/news/marzio-amorim-vuole-studiare-profondita-rosa-disposizione-prendere-decisioni-621466",
-      "source": "milannews.it",
-      "date": "2026-06-22T19:48:52+00:00",
-      "summary": "Now that the company organization chart is defined, Milan's new season can officially begin. Ruben Amorim, one of the key points."
     },
     {
       "id": "543680f77bf2",
@@ -328,22 +344,6 @@
       "source": "sempremilan.com",
       "date": "2026-06-22T10:00:00+00:00",
       "summary": "Ruben Amorim will take on more of a role as a manager at AC Milan rather than being a simple head coach, Matteo Moretto reports. Amorim was announced as Massimiliano Allegri’s heir less than one week ago, and yet in those last few days the potential scope of his role has changed. He was expected […]"
-    },
-    {
-      "id": "b8a942097357",
-      "title": "GdS: Almstadt, Lomonte, Castelblanco and more – Milan’s new structure explained",
-      "url": "https://sempremilan.com/almstadt-lomonte-castelblanco-milan-new-structure",
-      "source": "sempremilan.com",
-      "date": "2026-06-22T09:30:00+00:00",
-      "summary": "Another source has confirmed that Gerry Cardinale has decided against the appointment of external candidates to fill AC Milan’s management. La Gazzetta dello Sport reports that the ‘new Milan is taking shape’ and that it will involved ‘a castle of names, roles, and skills’. At the top, of course, is"
-    },
-    {
-      "id": "ac060b6edaad",
-      "title": "‘Rarely produced anything’ – Saelemaekers flat as Belgium disappoint again vs. Iran",
-      "url": "https://sempremilan.com/saelemaekers-flat-belgium-disappoint-again-iran",
-      "source": "sempremilan.com",
-      "date": "2026-06-22T09:00:00+00:00",
-      "summary": "After Turkey crashed out, Belgium are at serious risk becoming the second major disappointment of this World Cup. The Red Devils aren’t out of the tournament yet, although the 0-0 draw against Iran puts Roberto Martinez’s team in a very awkward position. Now, they may well need to win their third an"
     },
     {
       "id": "e629ae03b255",
