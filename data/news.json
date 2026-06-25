@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-06-25T19:58:18.839744+00:00",
+  "lastUpdated": "2026-06-25T21:46:35.137751+00:00",
   "articles": [
+    {
+      "id": "47a32147078d",
+      "title": "MLS is crazy about Pulisic, but for Cardinale and Amorim he is untransferable",
+      "url": "https://www.milannews.it/calciomercato-milan/mls-pazza-pulisic-cardinale-amorim-incedibile-621704",
+      "source": "milannews.it",
+      "date": "2026-06-25T21:35:57+00:00",
+      "summary": "As The Athletic confirms, Christian Pulisic has become a strong transfer target for many MLS teams in recent weeks."
+    },
+    {
+      "id": "373320ce65c7",
+      "title": "Catanzaro interested in Cappelletti and Sardo from Milan Futuro",
+      "url": "https://www.milannews.it/news/catanzaro-interessato-cappelletti-sardo-milan-621751",
+      "source": "milannews.it",
+      "date": "2026-06-25T21:23:33+00:00",
+      "summary": "Catanzaro, reports Gianluca Di Marzio, is moving to strengthen the squad by recruiting some promising young players from Serie A clubs."
+    },
+    {
+      "id": "4f7f1c11d4ce",
+      "title": "Mirabelli: \"Milan was a beautiful, breathtaking adventure. We didn't find simple things, there were many players with deadlines\"",
+      "url": "https://www.milannews.it/news/mirabelli-il-milan-un-avventura-bellissima-mozzafiato-trovammo-cose-semplici-c-erano-tanti-giocatori-scadenza-621744",
+      "source": "milannews.it",
+      "date": "2026-06-25T21:11:19+00:00",
+      "summary": "Massimiliano Mirabelli, Sporting Director of Milan at the time of the Chinese and today at Padova, was interviewed by Carlo Pellegatti."
+    },
+    {
+      "id": "9d28dd4c890a",
+      "title": "FIFA admits Russia to a youth tournament",
+      "url": "https://www.milannews.it/news/fifa-ammette-russia-torneo-giovanile-621745",
+      "source": "milannews.it",
+      "date": "2026-06-25T21:00:31+00:00",
+      "summary": "(ANSA) - ROME, JUNE 25 - More than four years after Russia's invasion of Ukraine, the latter will be able to participate in a FIFA youth competition again."
+    },
+    {
+      "id": "4b1b03f93b4c",
+      "title": "Paganin on Leao: \"We will have spoken with Amorim, maybe he might reconsider but...\"",
+      "url": "https://www.milannews.it/news/paganin-leao-con-amorim-parlato-ripensarci-ma-621733",
+      "source": "milannews.it",
+      "date": "2026-06-25T20:48:00+00:00",
+      "summary": "Once the reflection period is over, Gerry Cardinale has chosen not to insert a new figure in command of the Milan sporting area."
+    },
+    {
+      "id": "88d0740a61e2",
+      "title": "Bezzi on Maldini in the national team: \"A man who brought important values ​​where he was\"",
+      "url": "https://www.milannews.it/news/bezzi-maldini-nazionale-un-portato-valori-importanti-stato-621730",
+      "source": "milannews.it",
+      "date": "2026-06-25T20:35:00+00:00",
+      "summary": "Gerry Cardinale concluded his evaluation process by deciding not to appoint a new top manager for the Milan football area."
+    },
+    {
+      "id": "bc75fff2dbf3",
+      "title": "Fabrizio Romano: \"Milan on Ramos, the overall package would go beyond 50 million. There is competition\"",
+      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-milan-ramos-pacchetto-complessivo-andrebbe-50-milioni-c-e-concorrenza-621750",
+      "source": "milannews.it",
+      "date": "2026-06-25T20:23:16+00:00",
+      "summary": "The news of the evening is certainly that of the negotiation between Milan and PSG for Gonçalo Ramos: the Rossoneri want to give Ruben Amorim, under the direction of Jorge Mendes, an important striker."
+    },
+    {
+      "id": "be7829bcf6ad",
+      "title": "Abodi-Malagò meeting begins, first confrontation after the FIGC election",
+      "url": "https://www.milannews.it/news/via-incontro-abodi-malago-confronto-post-elezione-figc-621741",
+      "source": "milannews.it",
+      "date": "2026-06-25T20:11:17+00:00",
+      "summary": "(ANSA) - ROME, JUNE 25 - The meeting between the minister for sport and youth, Andrea Abodi, and the new president of the FIGC, Giovanni Malagò, began shortly after 7pm."
+    },
+    {
+      "id": "bb2e4d61ec9a",
+      "title": "Mirabelli: \"At the time of the Chinese, Milanism was strongly felt, it was transmitted to us by the environment. And we made it impact everywhere\"",
+      "url": "https://www.milannews.it/news/mirabelli-al-cinesi-respirava-forte-milanismo-trasmesso-dall-ambiente-l-abbiamo-pesare-dappertutto-621743",
+      "source": "milannews.it",
+      "date": "2026-06-25T20:00:26+00:00",
+      "summary": "Massimiliano Mirabelli, Sporting Director of Milan at the time of the Chinese and today at Padova, was interviewed by Carlo Pellegatti."
+    },
     {
       "id": "ae635220fcb1",
       "title": "Romano: Milan send official offer for PSG striker and aim to close deal ‘as soon as possible’",
@@ -43,7 +115,7 @@
     },
     {
       "id": "015c9fdec472",
-      "title": "AC Milan have already sent an official offer to PSG for Goncalo Ramos",
+      "title": "Milan have already sent an official offer to PSG for Goncalo Ramos",
       "url": "https://www.milannews.it/calciomercato-milan/milan-inviato-un-offerta-ufficiale-psg-goncalo-ramos-621748",
       "source": "milannews.it",
       "date": "2026-06-25T19:22:40+00:00",
@@ -138,28 +210,12 @@
       "summary": "After the termination with Milan Bernardo Corradi joined Sampdoria, becoming the new coach."
     },
     {
-      "id": "203d7c9e6943",
-      "title": "Marchetti: \"Leao remains out, but there was a quick contact with Amorim\"",
-      "url": "https://www.milannews.it/calciomercato-milan/marchetti-leao-rimane-uscita-c-e-contatto-veloce-amorim-621740",
-      "source": "milannews.it",
-      "date": "2026-06-25T17:35:09+00:00",
-      "summary": "Leao-Milan, but is it really over? Rafa's words the other day may suggest an attempt at reconciliation, but there seems to be no news on the situation, except, as Luca Marchetti tells Sky Sport 24, a co ..."
-    },
-    {
       "id": "e886fac44c50",
       "title": "Cohen: Ibrahimovic adds another Swede to Milan wishlist – Svensson appreciated alongside Bergvall",
       "url": "https://sempremilan.com/ibrahimovic-adds-another-swede-milan-wishlist",
       "source": "sempremilan.com",
       "date": "2026-06-25T17:30:00+00:00",
       "summary": "It seemed AC Milan may be heading towards a more Portuguese look this summer. However, the Rossoneri may actually be heading elsewhere. There have been several links to Portuguese talents in recent days, especially since the arrival of Ruben Amorim. In fact, it seems the mercato could be powered by "
-    },
-    {
-      "id": "66bf3384abf6",
-      "title": "De Santis: \"We are at high risk of having a more empty championship\"",
-      "url": "https://www.milannews.it/news/de-santis-siamo-alto-rischio-campionato-svuotato-621723",
-      "source": "milannews.it",
-      "date": "2026-06-25T17:24:00+00:00",
-      "summary": "After days of in-depth analyzes and evaluations, Gerry Cardinale has decided not to appoint a new manager for the Milan sports area."
     },
     {
       "id": "6ba66cedce09",
@@ -170,44 +226,12 @@
       "summary": "Fabrizio Romano has delivered a firm guarantee that Milan will make a significant attacking signing..."
     },
     {
-      "id": "356baf32f772",
-      "title": "MN - Eranio on Leao: \"He is talented in many things, but he is too discontinuous\"",
-      "url": "https://www.milannews.it/news/mn-eranio-leao-e-talento-tante-cose-discontinuo-621721",
-      "source": "milannews.it",
-      "date": "2026-06-25T17:12:00+00:00",
-      "summary": "During the fourth episode of the \"Derbyssimo Legends x MilanNews\" podcast (CLICK HERE to watch the complete episode on YouTube), Stefano Fisico had his say on Rafael Leao: \"I'm sorry."
-    },
-    {
-      "id": "7319beda8c82",
-      "title": "MN - Donadoni remembers his period at Milan: \"We were lucky to have a club that always put us in a position to work at our best\"",
-      "url": "https://www.milannews.it/news/mn-donadoni-ricorda-periodo-milan-siamo-fortunati-club-messo-condizioni-lavorare-meglio-621720",
-      "source": "milannews.it",
-      "date": "2026-06-25T17:00:00+00:00",
-      "summary": "During the fourth episode of the \"Derbyssimo Legends x MilanNews\" podcast (CLICK HERE to watch the complete episode on YouTube), Stefano Fisico and Stefano Eranio interviewed Roberto Donadoni, a former midfielder who wore the ..."
-    },
-    {
       "id": "8d5378de8e45",
       "title": "MilanVibes: Reunion on the cards as Abate’s Torino target Zeroli signing with Lecce also interested",
       "url": "https://sempremilan.com/reunion-abate-torino-target-zeroli-lecce-interest",
       "source": "sempremilan.com",
       "date": "2026-06-25T17:00:00+00:00",
       "summary": "It seems Kevin Zeroli could leave AC Milan again this summer, with plenty of interest in the young midfielder ahead of next season. Zeroli is just one of the young talents that have risen the ranks at Milan in recent years and there is a hope that he will eventually graduate to a first-team role. […"
-    },
-    {
-      "id": "824d30d9e5f8",
-      "title": "Lawyer Raimondo: \"Milan's horizontal corporate structure, this dissolves responsibilities\"",
-      "url": "https://www.milannews.it/news/avv-raimondo-struttura-societaria-milan-orizzontale-dissolve-responsabilita-621700",
-      "source": "milannews.it",
-      "date": "2026-06-25T16:48:35+00:00",
-      "summary": "In his YouTube channel, lawyer Felice Raimondo analyzed Milan's new corporate structure and listed the differences with that of Liverpool, which many say is Cardinale's source of inspiration."
-    },
-    {
-      "id": "24aedba964fe",
-      "title": "Padovano harsh: \"How sad to see Milan like this, they are trampling on the history of the club\"",
-      "url": "https://www.milannews.it/news/padovano-duro-che-tristezza-vedere-milan-cosi-calpestando-storia-club-621718",
-      "source": "milannews.it",
-      "date": "2026-06-25T16:36:19+00:00",
-      "summary": "During the last episode of the Sportium Fun podcast, Michele Padovano, former Juventus striker among others, expressed himself like this about Milan and its ownership. These are his words."
     },
     {
       "id": "e73c51d7371b",
@@ -218,36 +242,12 @@
       "summary": "AC Milan finally seem set to add a top-level striker this summer, two years after the departure of Olivier Giroud. When there was talk about Giroud leaving, Milan were aware that they needed to make a sizeable investment to replace him. Instead, Alvaro Morata joined after months of links to Joshua Z"
     },
     {
-      "id": "53d82ca6b0d6",
-      "title": "Corradi new coach of Sampdoria: the first words of the former Milan player",
-      "url": "https://www.milannews.it/gli-ex/corradi-allenatore-sampdoria-prime-parole-dell-ex-milan-621717",
-      "source": "milannews.it",
-      "date": "2026-06-25T16:24:04+00:00",
-      "summary": "Sampdoria has announced the arrival on the bench of Bernardo Corradi, fresh from his experience last season as Max Allegri's collaborator at Milan. Here is the official press release: \"The U."
-    },
-    {
       "id": "e8ede6d8e605",
       "title": "Kamada eyed by Milan and Fiorentina as Crystal Palace midfielder linked with Serie A return",
       "url": "https://football-italia.net/kamada-eyed-by-milan-and-fiorentina/",
       "source": "football-italia.net",
       "date": "2026-06-25T16:20:00+00:00",
       "summary": "Daichi Kamada is attracting significant Serie A interest as his Crystal Palace contract expires at..."
-    },
-    {
-      "id": "4bd3752d0a3b",
-      "title": "Fabrizio Romano: \"I can say it with confidence: Milan will sign an important striker\"",
-      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-posso-dirlo-tranquillita-milan-prendera-attaccante-importante-621737",
-      "source": "milannews.it",
-      "date": "2026-06-25T16:11:40+00:00",
-      "summary": "In the last few hours there has been talk from Mexico of Porto's strong interest in Santi Gimenez, who is leaving Milan."
-    },
-    {
-      "id": "8fc77ae873ba",
-      "title": "MN - And yet it moves! Hot phone at the office: several summits planned",
-      "url": "https://www.milannews.it/primo-piano/mn-eppur-muove-telefono-rovente-sede-previsti-diversi-summit-621734",
-      "source": "milannews.it",
-      "date": "2026-06-25T16:00:01+00:00",
-      "summary": "And yet it moves, calmly, but it moves."
     },
     {
       "id": "3783edec5d36",
