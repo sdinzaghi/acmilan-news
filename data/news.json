@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-06-27T20:07:31.888013+00:00",
+  "lastUpdated": "2026-06-27T22:01:27.406461+00:00",
   "articles": [
+    {
+      "id": "65cfd94b9487",
+      "title": "For Modric's future we have to wait until the end of the World Cup, but his stay at Milan cannot be ruled out",
+      "url": "https://www.milannews.it/calciomercato-milan/modric-bisogna-aspettare-mondiale-escludere-permanenza-milan-621947",
+      "source": "milannews.it",
+      "date": "2026-06-27T21:48:28+00:00",
+      "summary": "In the pre-match of Croatia-Ghana, a match valid for the third and final day of Group L of this World Cup, the well-known transfer market expert Fabrizio Romano spoke in the DAZN studios to take stock of AC Milan, focusing on ..."
+    },
+    {
+      "id": "64ecd406d0c3",
+      "title": "Foreign sirens for Desplanches: Rangers and Norwich on the former Milan goalkeeper",
+      "url": "https://www.milannews.it/gli-ex/sirene-estere-desplanches-rangers-norwich-portiere-milan-621919",
+      "source": "milannews.it",
+      "date": "2026-06-27T21:36:02+00:00",
+      "summary": "Sebastiano Desplanches attracts interest from several clubs."
+    },
+    {
+      "id": "98ed4bc60a32",
+      "title": "Casadò-Milan, Romano: \"To date there is nothing concrete\"",
+      "url": "https://www.milannews.it/calciomercato-milan/casado-milan-romano-ad-c-e-concreto-621943",
+      "source": "milannews.it",
+      "date": "2026-06-27T21:24:00+00:00",
+      "summary": "During the usual video update on his YouTube channel, Fabrizio Romano took stock of Milan's incoming transfer market, revealing Ruben Amorim's next priority to strengthen his team: “Gonçalo ..."
+    },
+    {
+      "id": "1c7741f5aa39",
+      "title": "Ceccarini and the background on the Ramos deal: \"it was a negotiation carried out away from the spotlight and practically concluded in the last hours\"",
+      "url": "https://www.milannews.it/calciomercato-milan/ceccarini-retroscena-sull-affare-ramos-e-trattativa-portata-riparo-riflettori-praticamente-conclusa-ultime-ore-621915",
+      "source": "milannews.it",
+      "date": "2026-06-27T21:12:23+00:00",
+      "summary": "During the usual appointment with his editorial for TMW, director Niccolò Ceccarini spoke on the hottest and most important current issues linked to the Serie A transfer market, also focusing on, and ..."
+    },
+    {
+      "id": "2e879a0e9faa",
+      "title": "Bologna-Milan in October 2024 postponed: the TAR agrees with Mayor Lepore",
+      "url": "https://www.milannews.it/news/bologna-milan-dell-ottobre-2024-rinviata-tar-da-ragione-sindaco-lepore-621945",
+      "source": "milannews.it",
+      "date": "2026-06-27T21:00:55+00:00",
+      "summary": "The Emilia-Romagna TAR ruled in favor of the Municipality of Bologna on the postponement of Bologna-Milan in October 2024, decided in those complicated days which saw the Emilian capital be hit by a terrible flood."
+    },
+    {
+      "id": "101ab13bb163",
+      "title": "Legrottaglie: \"Milan have completely changed their mind compared to last year. This scares me\"",
+      "url": "https://www.milannews.it/news/legrottaglie-il-milan-cambiato-totalmente-idea-all-anno-scorso-spaventa-621930",
+      "source": "milannews.it",
+      "date": "2026-06-27T20:48:54+00:00",
+      "summary": "Nicola Legrottaglie, former defender of Juventus and Milan, among others, spoke to the microphones of his colleagues from Sport Mediaset in Forte dei Marmi to comment on the hottest current issues related to the transfer market, so ..."
+    },
+    {
+      "id": "0f626003b9b0",
+      "title": "Croatia-Ghana, the official lineups: Modric still starting",
+      "url": "https://www.milannews.it/news/croazia-ghana-formazioni-ufficiali-modric-titolare-621944",
+      "source": "milannews.it",
+      "date": "2026-06-27T20:36:02+00:00",
+      "summary": "At the Lincoln Financial Field in Philadelphia, Croatia and Ghana will face each other for the match valid for the third and final day of Group L of this year. Below are the official lineups of the two teams."
+    },
+    {
+      "id": "a170813887f2",
+      "title": "After Gonçalo Ramos, Amorim's other priority on the transfer market is a top-quality defender",
+      "url": "https://www.milannews.it/calciomercato-milan/goncalo-ramos-l-altra-priorita-amorim-mercato-difensore-livello-621942",
+      "source": "milannews.it",
+      "date": "2026-06-27T20:24:40+00:00",
+      "summary": "During the usual video update on his YouTube channel, Fabrizio Romano took stock of Milan's incoming transfer market, revealing Ruben Amorim's next priority to strengthen his team: “Gonçalo ..."
+    },
+    {
+      "id": "4bb7d0c4f890",
+      "title": "Napoli-Allegri, announcement after June 30th: a three-year contract ready",
+      "url": "https://www.milannews.it/gli-ex/napoli-allegri-annuncio-30-giugno-pronto-triennale-621933",
+      "source": "milannews.it",
+      "date": "2026-06-27T20:12:35+00:00",
+      "summary": "Massimiliano Allegri is increasingly closer to the Napoli bench."
+    },
     {
       "id": "83c16d792388",
       "title": "Borghi approves the Ramos deal: \"He is a player who has the characteristics for Amorim football\"",
@@ -51,7 +123,7 @@
     },
     {
       "id": "0de6d5ab79da",
-      "title": "Borghi on Milan: \"There are too many questions about the squad: Pulisic remains? Leao leaves? Modric continues? Maignan and Rabiot?\"",
+      "title": "Borghi on Milan: \"There are too many questions about the squad: Does Pulisic remain? Leao leaves? Modric continues? Maignan and Rabiot?\"",
       "url": "https://www.milannews.it/news/borghi-milan-ci-troppi-interrogativi-rosa-pulisic-rimane-leao-via-modric-continua-maignan-rabiot-621923",
       "source": "milannews.it",
       "date": "2026-06-27T19:00:00+00:00",
@@ -98,52 +170,12 @@
       "summary": "Marc Casadó is one of the profiles approached by Milan for the midfield."
     },
     {
-      "id": "b8f0640f71ea",
-      "title": "Calabria awaits De Vrij at Panathinaikos: \"It's better to have him in the team than as an opponent. He's an excellent player\"",
-      "url": "https://www.milannews.it/gli-ex/calabria-attende-de-vrij-panathinaikos-meglio-squadra-avversario-ottimo-giocatore-621917",
-      "source": "milannews.it",
-      "date": "2026-06-27T17:48:00+00:00",
-      "summary": "Stefan de Vrij is preparing to become a new Panathinaikos player. Davide Calabria, former Milan captain and opponent in many Milan derbies played against him, will welcome him in Athens."
-    },
-    {
-      "id": "9b42e51bea23",
-      "title": "Do you remember Veliz? The young striker who preferred Tottenham to Milan will leave Brazil again",
-      "url": "https://www.milannews.it/news/ricordate-veliz-giovane-attaccante-preferi-tottenham-milan-ripartira-brasile-621916",
-      "source": "milannews.it",
-      "date": "2026-06-27T17:36:00+00:00",
-      "summary": "The young 22-year-old Argentinian Alejo Véliz leaves Tottenham permanently and moves to Bahia, a club in the Brazilian top flight, for a fee close to 9 million euros."
-    },
-    {
       "id": "819cb4c2790d",
       "title": "Cohen: Ramos splash ‘won’t be an exception’ for Milan – ‘significant’ spending expected",
       "url": "https://sempremilan.com/milan-significant-spending-expected-milan",
       "source": "sempremilan.com",
       "date": "2026-06-27T17:30:00+00:00",
       "summary": "AC Milan’s signing of Goncalo Ramos could be followed by other expensive outlays this summer, a journalist has claimed. The news broke from several prominent sources on Friday that Milan have finalised the signing of Ramos from PSG. The striker has apparently already done a medical out in the United"
-    },
-    {
-      "id": "b5ad3d42005d",
-      "title": "The transfer market opens in two days: negotiations officially start on Monday",
-      "url": "https://www.milannews.it/news/calciomercato-apre-giorni-lunedi-trattative-via-ufficiale-621897",
-      "source": "milannews.it",
-      "date": "2026-06-27T17:24:24+00:00",
-      "summary": "There are two days left until the official start of the summer transfer market session, even less. This year, unlike the usual date of July 1st, official negotiations will open on Monday June 29th."
-    },
-    {
-      "id": "96ae1b29af57",
-      "title": "Ceccarini approves the Ramos deal: \"He will be the center forward of the present and the future\"",
-      "url": "https://www.milannews.it/calciomercato-milan/ceccarini-approva-l-affare-ramos-sara-centravanti-presente-futuro-621913",
-      "source": "milannews.it",
-      "date": "2026-06-27T17:12:00+00:00",
-      "summary": "During the usual appointment with his editorial for TMW, director Niccolò Ceccarini spoke on the hottest and most important current issues linked to the Serie A transfer market, also focusing on, and ..."
-    },
-    {
-      "id": "43e9c83e6047",
-      "title": "After Ramos, Mendes is still a protagonist on the Milan market: he is working on two transfers",
-      "url": "https://www.milannews.it/calciomercato-milan/ramos-mendes-protagonista-mercato-milan-lavorando-cessioni-621911",
-      "source": "milannews.it",
-      "date": "2026-06-27T17:00:31+00:00",
-      "summary": "According to what was reported by Il Corriere della Sera, Jorge Mendes is increasingly central and protagonist in Milan's transfer market maneuvers."
     },
     {
       "id": "9b957f1a2bca",
@@ -154,44 +186,12 @@
       "summary": "Ruben Amorim is AC Milan’s new head coach, and despite being just 40 he already has a large body of work. What should fans expect? After links with the likes of Andoni Iraola and Oliver Glasner, Milan went down the Portuguese route again following the failed hires of Paulo Fonseca and Sergio Conceic"
     },
     {
-      "id": "071636693126",
-      "title": "World Cup, new message left by Iran in the locker room",
-      "url": "https://www.milannews.it/news/mondiali-messaggio-dall-iran-spogliatoio-621910",
-      "source": "milannews.it",
-      "date": "2026-06-27T16:48:47+00:00",
-      "summary": "(ANSA) - ROME, JUNE 27 - \"We come from Iran, from a land that for thousands of years has put honor above victory. For us, football is not just a competition of results, but a test of character\"."
-    },
-    {
-      "id": "c68f93e961c2",
-      "title": "United States, Aaronson: \"Pulisic fantastic. Just seeing him come on the pitch makes a huge difference\"",
-      "url": "https://www.milannews.it/news/uniti-aaronson-pulisic-fantastico-vederlo-entrare-campo-un-enorme-differenza-621907",
-      "source": "milannews.it",
-      "date": "2026-06-27T16:36:56+00:00",
-      "summary": "The United States ended their run in the group stage of their home World Cup with a painless defeat against Turkey."
-    },
-    {
       "id": "cc3caf63d690",
       "title": "Rabiot gives 10-word response to question on Milan future amid Napoli links",
       "url": "https://sempremilan.com/rabiot-10-word-response-milan-future",
       "source": "sempremilan.com",
       "date": "2026-06-27T16:30:00+00:00",
       "summary": "Adrien Rabiot was asked about his AC Milan future after France’s win over Norway, and he gave absolutely nothing away. Rabiot was an unused substitute for Les Bleus in their 4-1 hammering of Norway to ensure they topped the group with three wins from three. Ousmane Dembele was the start with a hat-t"
-    },
-    {
-      "id": "52dd9336e2fc",
-      "title": "Marc Casadò approached Milan by Spain: his numbers at Barcelona",
-      "url": "https://www.milannews.it/news/marc-casado-accostato-milan-spagna-numeri-barcellona-621909",
-      "source": "milannews.it",
-      "date": "2026-06-27T16:24:06+00:00",
-      "summary": "If the hint is the 75 million plus bonuses with which Milan will purchase Gonçalo Ramos, we can expect a Rossonero transfer market full of twists and turns."
-    },
-    {
-      "id": "e75cb6a01f2c",
-      "title": "Borghi: \"Amorim's football can integrate perfectly with Ramos' characteristics\"",
-      "url": "https://www.milannews.it/news/borghi-il-calcio-amorim-integrarsi-perfettamente-caratteristiche-ramos-621906",
-      "source": "milannews.it",
-      "date": "2026-06-27T16:12:57+00:00",
-      "summary": "You can't say that Gonçalo Ramos has no guts."
     },
     {
       "id": "71467acc8dc7",
