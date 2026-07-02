@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-07-02T19:21:15.973285+00:00",
+  "lastUpdated": "2026-07-02T21:03:51.079294+00:00",
   "articles": [
+    {
+      "id": "1b3b5d284df9",
+      "title": "Fabrizio Romano confirms: \"In Milan's ideas, Leao remains an outgoing player who could leave at any moment\"",
+      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-conferma-nel-idee-milan-leao-resta-giocatore-uscita-622409",
+      "source": "milannews.it",
+      "date": "2026-07-02T20:47:29+00:00",
+      "summary": "In the afternoon we told you (click HERE) about the contacts between Milan and Rafa Leao's entourage, with the Portuguese player remaining out."
+    },
+    {
+      "id": "7853fe08cffe",
+      "title": "U19 European Championships, it's 0-0 between Italy and Croatia: the Italians only need 1 point to advance",
+      "url": "https://www.milannews.it/news/europei-u19-0-0-italia-croazia-azzurrini-1-punto-passare-622397",
+      "source": "milannews.it",
+      "date": "2026-07-02T20:36:59+00:00",
+      "summary": "After the 2-0 victory in the opening match against Serbia, today the Italian U19s drew 0-0 against Croatia."
+    },
+    {
+      "id": "367cec30872d",
+      "title": "Liberals in Como. Di Michele: \"Well done to him and Aquilani. The Larianos have certainly made a deal\"",
+      "url": "https://www.milannews.it/news/liberali-como-michele-bravo-aquilani-lariano-sicuramente-affare-622395",
+      "source": "milannews.it",
+      "date": "2026-07-02T20:24:48+00:00",
+      "summary": "Speaking on the frequencies of TMW Radio during the 'Maracanà' programme, former striker David Di Michele commented on the latest news regarding the Serie A transfer market, focusing in particular on the controversial transfer ..."
+    },
+    {
+      "id": "a8726b8ef663",
+      "title": "Biasin has no doubts: \"I can't believe that Milan is making a transfer worth -200 million\"",
+      "url": "https://www.milannews.it/news/biasin-dubbi-non-credo-milan-mercato-200-milioni-622394",
+      "source": "milannews.it",
+      "date": "2026-07-02T20:12:31+00:00",
+      "summary": "Fabrizio Biasin, during the last episode of È Semper Derby, spoke about the Milan transfer market and the balance that the Rossoneri club will have at the end of the transfer window. These are his words."
+    },
+    {
+      "id": "07a038eb490f",
+      "title": "Malagò: \"Maldini new director? I neither confirm nor deny...\"",
+      "url": "https://www.milannews.it/news/malago-maldini-dt-confermo-ne-smentisco-622408",
+      "source": "milannews.it",
+      "date": "2026-07-02T20:00:51+00:00",
+      "summary": "(ANSA) - ROME, JULY 02 - \"Paolo Maldini new technical director of the national team? I can neither confirm nor deny."
+    },
+    {
+      "id": "d8843139ced1",
+      "title": "Pellegatti explains: \"If Ibra wasn't at Milan Liberali would have come. His phrases remained with him\"",
+      "url": "https://www.milannews.it/news/pellegatti-spiega-se-ibra-milan-liberali-venuto-frasi-rimaste-dentro-622391",
+      "source": "milannews.it",
+      "date": "2026-07-02T19:48:57+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti spoke about Mattia Liberali's failure to return to Milan, ready to become a Como player. These are his words."
+    },
+    {
+      "id": "34ae9ad9ce6d",
+      "title": "Milan back in Gila battle with Napoli, Atalanta and Inter",
+      "url": "https://football-italia.net/milan-back-gila-battle-napoli-atalanta-inter/",
+      "source": "football-italia.net",
+      "date": "2026-07-02T19:43:30+00:00",
+      "summary": "Milan have reportedly joined the race for Lazio defender Mario Gila, who is already wanted..."
+    },
+    {
+      "id": "8f1b53747586",
+      "title": "Corvino on Milan's last season: \"The failure to qualify for the Champions League led to a gut reaction\"",
+      "url": "https://www.milannews.it/news/corvino-ultima-stagione-milan-la-mancata-qualificazione-champions-portato-reazione-pancia-622385",
+      "source": "milannews.it",
+      "date": "2026-07-02T19:36:02+00:00",
+      "summary": "Milan continues its journey on the transfer market with clear ideas, working both on reinforcements and on planning the entire squad."
+    },
+    {
+      "id": "70706743815e",
+      "title": "MN: Bondo, Fofana, Jashari and Leao – brass tacks after Casa Milan meetings",
+      "url": "https://sempremilan.com/mn-fofana-jashari-leao-casa-milan-meetings",
+      "source": "sempremilan.com",
+      "date": "2026-07-02T19:30:13+00:00",
+      "summary": "The AC Milan management met with several agents at Casa Milan today, including those of Warren Bondo, Youssouf Fofana, Ardon Jashari, and Rafael Leao.  Now that Milan actually have a management in place, things have taken off on the mercato front. Goncalo Ramos was announced on Tuesday, becoming the"
+    },
+    {
+      "id": "fa5907fd588b",
+      "title": "Vieri on the arrival of Ramos: \"Milan must go to the Champions League every year, nothing changes between 60 and 70 million\"",
+      "url": "https://www.milannews.it/news/vieri-arrivo-ramos-il-milan-andare-champions-anni-60-70-cambia-nulla-622382",
+      "source": "milannews.it",
+      "date": "2026-07-02T19:24:52+00:00",
+      "summary": "Milan's work on the transfer market continues without interruption, following a strategy that involves both purchases and the construction of the squad for next season."
+    },
     {
       "id": "69f0d60824d6",
       "title": "Mussa on Ibrahimovic's words for Koeman: \"The concept is true, however...\"",
@@ -114,28 +194,12 @@
       "summary": "(ANSA) - ROME, JULY 02 - \"If I chose Tottenham, much of the credit goes to De Zerbi\"."
     },
     {
-      "id": "48b3b35e12a1",
-      "title": "MN - Bianchin: \"Cardinal changed his attitude in the summer. Ramos shows that some parameters have changed\"",
-      "url": "https://www.milannews.it/news/mn-bianchin-cardinale-cambiato-atteggiamento-estate-ramos-dimostra-parametri-cambiati-622388",
-      "source": "milannews.it",
-      "date": "2026-07-02T16:48:10+00:00",
-      "summary": "Milan dreams of Virgil van Dijk. The defender and captain of Liverpool is a desire of Zlatan Ibrahimovic, who already began to cultivate this suggestion in the spring."
-    },
-    {
       "id": "1b68622a401b",
       "title": "Tuttosport: Mendes working to bring Trincao to Milan – Amorim’s plan for the attack",
       "url": "https://sempremilan.com/mendes-working-bring-trincao-milan-amorim-plan",
       "source": "sempremilan.com",
       "date": "2026-07-02T16:40:00+00:00",
       "summary": "According to reports today, Jorge Mendes is now working to bring another Portuguese star to AC Milan; this time it’s Francisco Trincao. There have been plenty of suggestions about Milan and who will be in control of their mercato this summer. Reports have stated that Mendes is effectively the sporti"
-    },
-    {
-      "id": "ea15b914029a",
-      "title": "Liberals and the \"no\" to Milan for Como, Martorelli: \"Here is the great quality of the boy\"",
-      "url": "https://www.milannews.it/news/liberali-no-milan-como-martorelli-ecco-qualita-ragazzo-622375",
-      "source": "milannews.it",
-      "date": "2026-07-02T16:36:41+00:00",
-      "summary": "Milan's work on the transfer market continues unabated, with a strategy that aims both at strengthening the squad and planning the entire year."
     },
     {
       "id": "1e8c9c46563e",
@@ -146,60 +210,12 @@
       "summary": "Milan have met with Rafael Leao’s entourage and laid out a plan for his potential..."
     },
     {
-      "id": "760d0d3d88ca",
-      "title": "Cousins ​​on the next Scudetto race: \"I still see Milan and Juve as a bit far away\"",
-      "url": "https://www.milannews.it/news/cugini-prossima-corsa-scudetto-milan-juve-vedo-lontane-622374",
-      "source": "milannews.it",
-      "date": "2026-07-02T16:24:26+00:00",
-      "summary": "Milan is pursuing its plan on the transfer market with conviction, working simultaneously on signings and defining the team for the new season."
-    },
-    {
-      "id": "981dc86b811a",
-      "title": "Piccari on the difference between Serie A and the Premier League: \"The fault lies with others who...\"",
-      "url": "https://www.milannews.it/news/piccari-differenza-serie-premier-le-colpe-che-622373",
-      "source": "milannews.it",
-      "date": "2026-07-02T16:12:25+00:00",
-      "summary": "Milan continues to move decisively on the transfer market, following a strategy that includes both new additions and the planning of the entire season."
-    },
-    {
-      "id": "a4d53d6d3e25",
-      "title": "MN - First contacts between Milan and Leao's entourage: all the details",
-      "url": "https://www.milannews.it/primo-piano/mn-primi-contatti-milan-entourage-leao-dettagli-622400",
-      "source": "milannews.it",
-      "date": "2026-07-02T16:01:06+00:00",
-      "summary": "Milan's new management structure and Rafael Leao's entourage have come into contact."
-    },
-    {
       "id": "6bb0e95df041",
       "title": "“On his way out” – Moretto states Fofana’s time at Milan is over under Amorim",
       "url": "https://sempremilan.com/moretto-states-fofana-time-milan-over",
       "source": "sempremilan.com",
       "date": "2026-07-02T16:00:00+00:00",
       "summary": "This summer, Youssouf Fofana will be sold by AC Milan with the Frenchman unable to find space in the team. In the past few seasons, Fofana has been an up-and-down character within the Milan team. Managers have regularly started with him. However, for one reason or another, he has lost favour and fal"
-    },
-    {
-      "id": "8b08d8ea388d",
-      "title": "MN - Meeting at the headquarters with Youssouf Fofana's entourage",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-incontro-sede-entourage-youssouf-fofana-622399",
-      "source": "milannews.it",
-      "date": "2026-07-02T15:53:00+00:00",
-      "summary": "The intense day of talks continues around Casa Milan. In fact, the MilanNews editorial team learns."
-    },
-    {
-      "id": "79e94ceeff18",
-      "title": "MN - Bianchin reveals: \"Ibrahimovic spoke in the club in the spring about the desire to bring van Dijk to Milan and the idea reached Cardinale\"",
-      "url": "https://www.milannews.it/news/mn-bianchin-svela-ibrahimovic-primvare-parlato-societa-volonta-portare-van-dijk-milan-idea-arrivata-622387",
-      "source": "milannews.it",
-      "date": "2026-07-02T15:48:19+00:00",
-      "summary": "Milan dreams of Virgil van Dijk. The defender and captain of Liverpool is a desire of Zlatan Ibrahimovic, who already began to cultivate this suggestion in the spring."
-    },
-    {
-      "id": "721aad499eab",
-      "title": "Milan is pushing for the renewals of Camarda and Comotto. Moretto: \"The dialogues are well underway\"",
-      "url": "https://www.milannews.it/calciomercato-milan/-622372",
-      "source": "milannews.it",
-      "date": "2026-07-02T15:36:48+00:00",
-      "summary": "Matteo Moretto, speaking on Fabrizio Romano's YouTube channel, gave these updates on the Milan transfer market, in particular on the future of Youssou Fofana, Francesco Camarda and Christian Comotto: \n\nMILAN, FOFANA LEAVING: HE'S NOT AT ..."
     },
     {
       "id": "17b30bd94586",
@@ -386,14 +402,6 @@
       "summary": "There are numerous Serie A players in tonight’s World Cup tie between Belgium and Senegal,..."
     },
     {
-      "id": "85f0daaed1ed",
-      "title": "Goncalo Ramos insight: Scouting report, stats, transfer rating and more",
-      "url": "https://sempremilan.com/goncalo-ramos-insight-scouting-stats-rating",
-      "source": "sempremilan.com",
-      "date": "2026-07-01T18:00:00+00:00",
-      "summary": "AC Milan have smashed their transfer record to secure arguably the most important signing of the summer: Goncalo Ramos from PSG. By Milan’s previous standards, this was an operation that they wrapped up very quickly, at least from the outside. On Thursday afternoon there was talk of a first official"
-    },
-    {
       "id": "d28bb01c8c96",
       "title": "Transfer round-up: Juventus done deal, Palestra announcement, Tonali close to Tottenham",
       "url": "https://football-italia.net/transfer-round-up-juventus-tonali-tottenham/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-06-30T13:41:54+00:00",
       "summary": "According to La Repubblica, Massimiliano Allegri has agreed to terminate his Milan contract without receiving..."
-    },
-    {
-      "id": "5dc383f03073",
-      "title": "Vlahovic tops list of 49 out-of-contract players in Serie A on June 30",
-      "url": "https://football-italia.net/vlahovic-tops-list-49-out-of-contract-players/",
-      "source": "football-italia.net",
-      "date": "2026-06-30T10:07:09+00:00",
-      "summary": "June 30 is upon us and a list of 49 Serie A players are set..."
     }
   ]
 }
