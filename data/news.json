@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-07-02T17:44:56.784126+00:00",
+  "lastUpdated": "2026-07-02T19:21:15.973285+00:00",
   "articles": [
+    {
+      "id": "69f0d60824d6",
+      "title": "Mussa on Ibrahimovic's words for Koeman: \"The concept is true, however...\"",
+      "url": "https://www.milannews.it/news/mussa-parole-ibrahimovic-koeman-il-concetto-vero-pero-622380",
+      "source": "milannews.it",
+      "date": "2026-07-02T19:12:25+00:00",
+      "summary": "Milan is moving forward with its transfer plan, working both on reinforcements and on the organization of the team to face the new season."
+    },
+    {
+      "id": "562cfe6fd770",
+      "title": "Bucchioni criticizes Ibrahimovic: \"It's not like he waits and sends the coach away\"",
+      "url": "https://www.milannews.it/news/bucchioni-critica-ibrahimovic-non-aspetti-mandi-via-tecnico-622377",
+      "source": "milannews.it",
+      "date": "2026-07-02T19:00:06+00:00",
+      "summary": "Milan continues to work carefully on the market, following a precise line that includes both new purchases and the construction of the team for next season."
+    },
+    {
+      "id": "70990852cf53",
+      "title": "MN - Bianchin: \"We probably haven't named the next AC Milan central defender yet\"",
+      "url": "https://www.milannews.it/news/mn-bianchin-probabilmente-prossimo-difensore-centrale-milan-622389",
+      "source": "milannews.it",
+      "date": "2026-07-02T18:48:41+00:00",
+      "summary": "Milan dreams of Virgil van Dijk. The defender and captain of Liverpool is a desire of Zlatan Ibrahimovic, who already began to cultivate this suggestion in the spring."
+    },
+    {
+      "id": "012405d0da0b",
+      "title": "FIGC, the admission of all A, B and C clubs to the championships has been approved",
+      "url": "https://www.milannews.it/news/figc-deliberata-l-ammissione-club-a-b-campionati-622338",
+      "source": "milannews.it",
+      "date": "2026-07-02T18:36:21+00:00",
+      "summary": "(ANSA) - ROME, JULY 01 - The Federal Council has approved the admission to the men's Serie A, Serie B and Serie C and women's Serie A championships of all the clubs that have submitted applications."
+    },
+    {
+      "id": "684f85edd1ac",
+      "title": "Udinese, general manager Collavino on Zaniolo's future: \"There is a desire on both sides to find a meeting point and we are working precisely in that direction\"",
+      "url": "https://www.milannews.it/news/udinese-dg-collavino-zaniolo-c-volonta-entrambe-parti-trovare-punto-incontro-lavorando-direzione-622360",
+      "source": "milannews.it",
+      "date": "2026-07-02T18:24:57+00:00",
+      "summary": "At Udinese, the future of Nicolò Zaniolo continues to hold sway, having been bought out by Galatasaray in recent days, but his agent then questioned the ex-Roma player's stay in Friuli without a new contract with..."
+    },
+    {
+      "id": "8cc8711c4d88",
+      "title": "Pellegatti on the Milan transfer market: \"Amorim is very central\"",
+      "url": "https://www.milannews.it/news/pellegatti-mercato-milan-e-centrico-amorim-622384",
+      "source": "milannews.it",
+      "date": "2026-07-02T18:12:00+00:00",
+      "summary": "Milan continues to plan its future through intense work on the market, focusing both on new signings and on defining the squad."
+    },
+    {
+      "id": "b83130e99451",
+      "title": "Milan, hot day at Casa Milan: Leao, Fofana, Bondo and Jashari, the transfer market goes through meetings",
+      "url": "https://www.milannews.it/primo-piano/milan-giornata-calda-casa-milan-leao-fofana-bondo-jashari-mercato-passa-incontri-622404",
+      "source": "milannews.it",
+      "date": "2026-07-02T18:00:00+00:00",
+      "summary": "As we told you step by step, today was an intense day around Casa Milan, given that the Rossoneri transfer market has finally entered an increasingly operational phase."
+    },
+    {
+      "id": "8ae7716bc387",
+      "title": "MN: Leao sale process underway – Milan make first contacts with entourage to part ways",
+      "url": "https://sempremilan.com/leao-sale-process-underway-milan-first-contacts-entourage",
+      "source": "sempremilan.com",
+      "date": "2026-07-02T18:00:00+00:00",
+      "summary": "This evening, a report has emerged stating that AC Milan and Rafael Leao’s agency have begun the process of parting ways. It is no secret that Leao and Milan are likely to separate this summer and today, the steps are being taken to make it happen. Interest so far has been low, so the positions […]\n"
+    },
+    {
+      "id": "ababca739fdb",
+      "title": "MN - Bianchin on Inacio: \"Sporting asks for 50 million, but Milan are considering spending a significant amount\"",
+      "url": "https://www.milannews.it/news/mn-bianchin-inacio-lo-sporting-chiede-50-milioni-milan-messo-conto-spendere-cifra-importante-622390",
+      "source": "milannews.it",
+      "date": "2026-07-02T17:48:52+00:00",
+      "summary": "Milan dreams of Virgil van Dijk. The defender and captain of Liverpool is a desire of Zlatan Ibrahimovic, who already began to cultivate this suggestion in the spring."
+    },
     {
       "id": "d679a59c51c8",
       "title": "Corvino reveals: \"Intrigued by Amorim's new Milan\"",
@@ -130,44 +202,12 @@
       "summary": "Matteo Moretto, speaking on Fabrizio Romano's YouTube channel, gave these updates on the Milan transfer market, in particular on the future of Youssou Fofana, Francesco Camarda and Christian Comotto: \n\nMILAN, FOFANA LEAVING: HE'S NOT AT ..."
     },
     {
-      "id": "d77ac60e47ab",
-      "title": "MN - Milan, Bondo can leave: first polls from England",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-milan-bondo-partire-primi-sondaggi-inghilterra-622398",
-      "source": "milannews.it",
-      "date": "2026-07-02T15:28:00+00:00",
-      "summary": "Warren Bondo's future at Milan is far from certain. In fact, the MilanNews editorial team learns."
-    },
-    {
       "id": "17b30bd94586",
       "title": "MN: Ibrahimovic’s position was a concern for Liberali despite Cardinale’s plea to rejoin Milan",
       "url": "https://sempremilan.com/ibrahimovic-position-concern-liberali-cardinale-plea",
       "source": "sempremilan.com",
       "date": "2026-07-02T15:20:00+00:00",
       "summary": "Yesterday, AC Milan made a last-ditch effort to re-sign Mattia Liberali. However, the Italian will head to Como instead.  The talk about Milan and Liberali has been ongoing for the full season; firstly, it was about the clause for his inevitable exit from Catanzaro and then it was about a potential "
-    },
-    {
-      "id": "3c649109013a",
-      "title": "Bellinazzo on Milan: \"He is no longer subject to a settlement agreement. He has been promoted by UEFA\"",
-      "url": "https://www.milannews.it/news/-622366",
-      "source": "milannews.it",
-      "date": "2026-07-02T15:12:57+00:00",
-      "summary": "Speaking on the frequencies of Radio Tutto Napoli, Il Sole 24 Ore journalist Marco Bellinazzo took stock of the accounts of the Serie A teams considering the fact that some of these are under the magnifying glass of UEFA."
-    },
-    {
-      "id": "1667ea4b2159",
-      "title": "Google \"Favorite sources\", add MilanNews now and personalize your news",
-      "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-milannews-personalizza-notizie-622358",
-      "source": "milannews.it",
-      "date": "2026-07-02T15:00:47+00:00",
-      "summary": "Google has introduced a new feature intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
-    },
-    {
-      "id": "2cafab426063",
-      "title": "MN - Bianchin on van Dijk's dream: \"There are many obstacles, but Ibra and the club's willingness to evaluate the operation is there\"",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-bianchin-sogno-van-dijk-gli-ostacoli-molti-volonta-ibra-club-valutare-operazione-e-622386",
-      "source": "milannews.it",
-      "date": "2026-07-02T14:48:12+00:00",
-      "summary": "Milan dreams of Virgil van Dijk. The defender and captain of Liverpool is a desire of Zlatan Ibrahimovic, who already began to cultivate this suggestion in the spring."
     },
     {
       "id": "cd7f5cc81874",
@@ -178,44 +218,12 @@
       "summary": "Geoffrey Moncada had seemingly found a new opportunity to move forward with after leaving AC Milan. However, he is back looking for a job. It was suggested that Moncada could leave Milan way before the announcement of his departure. In fact, he seemed likely to leave long before there were even sugg"
     },
     {
-      "id": "1c7ebbc5d41c",
-      "title": "The USA dreams big with Pulisic recovering form and confidence",
-      "url": "https://www.milannews.it/news/usa-sognano-pulisic-recuperando-forma-fiducia-622354",
-      "source": "milannews.it",
-      "date": "2026-07-02T14:36:28+00:00",
-      "summary": "(ANSA) - ROME, JULY 02 - Football is making space and taking a rightful place among the most followed sports in the United States."
-    },
-    {
       "id": "1571178b810c",
       "title": "Chukwueze rejected Trabzonspor at €15m and has Milan belief",
       "url": "https://football-italia.net/chukwueze-rejected-trabzonspor-at-e15m-milan/",
       "source": "football-italia.net",
       "date": "2026-07-02T14:33:08+00:00",
       "summary": "Samuel Chukwueze returned to Milan after a loan spell at Fulham and is reportedly determined..."
-    },
-    {
-      "id": "f31e049727d2",
-      "title": "Liberals at Como: Moretto reveals the figures of his contract. Medical visits in Wales",
-      "url": "https://www.milannews.it/gli-ex/liberali-como-moretto-rivela-cifre-contratto-visite-mediche-galles-622371",
-      "source": "milannews.it",
-      "date": "2026-07-02T14:24:14+00:00",
-      "summary": "Matteo Moretto, speaking on Fabrizio Romano's YouTube channel, gave these updates on two players who have already left Milan, namely Mattia Liberali and Sandro Tonali:\n\nNO RETURN TO MILAN FOR LIBERALI: HE CHOSEN THE ..."
-    },
-    {
-      "id": "c2716bc4fcb6",
-      "title": "Tonali explains the choice to go to Tottenham: \"De Zerbi had a big role in the decision\"",
-      "url": "https://www.milannews.it/gli-ex/tonali-spiega-scelta-andare-tottenham-de-zerbi-ruolo-decisione-622357",
-      "source": "milannews.it",
-      "date": "2026-07-02T14:12:01+00:00",
-      "summary": "Interviewed by Sky before leaving for London, Sandro Tonali, who after his medical visits will become a new Tottenham player, said about the negotiation: \"It was a bit long."
-    },
-    {
-      "id": "055aef36a701",
-      "title": "MN EXCLUSIVE - Bianchin (Gazzetta): \"Milan are willing to evaluate the van Dijk deal. Defender? I think we haven't named him yet\"",
-      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-bianchin-gazzetta-il-milan-volonta-valutare-affare-van-dijk-difensore-credo-fatto-622383",
-      "source": "milannews.it",
-      "date": "2026-07-02T14:00:00+00:00",
-      "summary": "Milan dreams of Virgil van Dijk. The defender and captain of Liverpool is a desire of Zlatan Ibrahimovic, who already began to cultivate this suggestion in the spring."
     },
     {
       "id": "d8018cb14236",
@@ -384,14 +392,6 @@
       "source": "sempremilan.com",
       "date": "2026-07-01T18:00:00+00:00",
       "summary": "AC Milan have smashed their transfer record to secure arguably the most important signing of the summer: Goncalo Ramos from PSG. By Milan’s previous standards, this was an operation that they wrapped up very quickly, at least from the outside. On Thursday afternoon there was talk of a first official"
-    },
-    {
-      "id": "d7c81db14755",
-      "title": "Moretto: Mercato battle continues as Como pursue Milan’s No.1 defensive target Inacio",
-      "url": "https://sempremilan.com/battle-continues-como-milan-inacio-target",
-      "source": "sempremilan.com",
-      "date": "2026-07-01T17:20:00+00:00",
-      "summary": "AC Milan and Como seem to be joined at the hip when it comes to the 2026 summer window, with Goncalo Inacio now a shared target too. In the past 24 hours it has emerged that the two Lombardy clubs are locked in a head-to-head battle for Mattia Liberali, the former Milan playmaker who they […]\nThe po"
     },
     {
       "id": "d28bb01c8c96",
