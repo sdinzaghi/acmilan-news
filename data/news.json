@@ -1,13 +1,77 @@
 {
-  "lastUpdated": "2026-07-07T21:22:26.258109+00:00",
+  "lastUpdated": "2026-07-07T22:59:13.416958+00:00",
   "articles": [
+    {
+      "id": "38b39cff092b",
+      "title": "World Cup, Switzerland goes to the quarterfinals: 45 minutes as an attacking midfielder for Jashari",
+      "url": "https://www.milannews.it/news/mondiali-quarti-svizzera-colombia-622882",
+      "source": "milannews.it",
+      "date": "2026-07-07T22:48:07+00:00",
+      "summary": "After a long match that lasted 120 minutes plus all the recoveries, Switzerland and Colombia were unable to break the deadlock."
+    },
+    {
+      "id": "483501621848",
+      "title": "Ravezzani recalls: \"Mancini don't want him because he went to Arabia, but Conte did the same at Chelsea\"",
+      "url": "https://www.milannews.it/news/ravezzani-ricorda-mancini-vogliono-andato-arabia-conte-uguale-chelsea-622879",
+      "source": "milannews.it",
+      "date": "2026-07-07T22:36:12+00:00",
+      "summary": "The director of Telelombardia Fabio Ravezzani, on his YouTube channel, spoke about Conte and the possibility of seeing him on the national team bench. These are his words."
+    },
+    {
+      "id": "d7945c93d00e",
+      "title": "Bucchioni on Cardinale: \"He wants to give an immediate demonstration of his strength. Even economically\"",
+      "url": "https://www.milannews.it/news/bucchioni-cardinale-vuole-dare-immediata-dimostrazione-della-sua-forza-economica-622760",
+      "source": "milannews.it",
+      "date": "2026-07-07T22:24:15+00:00",
+      "summary": "Rúben Amorim's adventure at the helm of Milan began today."
+    },
+    {
+      "id": "3af00a9a402b",
+      "title": "Chinellato on Amorim: \"I believe that the experience at United made him grow\"",
+      "url": "https://www.milannews.it/news/chinellato-amorim-credo-esperienza-united-crescere-622830",
+      "source": "milannews.it",
+      "date": "2026-07-07T22:12:30+00:00",
+      "summary": "The weight that Ruben Amorim has shouldered as Milan's new coach is not trivial at all, which at least denotes a good dose of personality."
+    },
+    {
+      "id": "6f8ca168b13f",
+      "title": "“ONE MAN BUYER”. Ramos and Gila, Milan stronger. The leftovers from the banquet. Turned the page? No, changed book!",
+      "url": "https://www.milannews.it/editoriale/one-man-buyer-ramos-gila-milan-forte-avanzi-banchetto-voltata-pagina-no-cambiato-libro-622884",
+      "source": "milannews.it",
+      "date": "2026-07-07T22:00:01+00:00",
+      "summary": "I'm surprised! I'm incredibly surprised! What never happened since June 2023 suddenly became apparent on May 25th, when Gerry Cardinale, by firing Giorgio Furlani, decided to manage Milan in ..."
+    },
+    {
+      "id": "5731adae091c",
+      "title": "Milan Club Capodimonte is preparing for the new season",
+      "url": "https://www.milannews.it/news/milan-club-capodimonte-prepara-nuova-stagione-622890",
+      "source": "milannews.it",
+      "date": "2026-07-07T21:48:04+00:00",
+      "summary": "It seems like a lot of time has passed, but it is only three years since the “Milan Club Capodimonte – Diavoli Etruschi” came to life."
+    },
+    {
+      "id": "6e4f8b86d354",
+      "title": "Di Marzio: \"Fiorentina very ahead for Valdepenas but Mourinho will evaluate him in training camp\"",
+      "url": "https://www.milannews.it/news/marzio-fiorentina-valdepenas-mourinho-valutera-ritiro-622896",
+      "source": "milannews.it",
+      "date": "2026-07-07T21:36:48+00:00",
+      "summary": "According to what Gianluca Di Marzio reported, Fiorentina is at the top of the race for the purchase of the young Victor Valdepenas."
+    },
+    {
+      "id": "efdee5928641",
+      "title": "Pulisic disappointed after elimination: \"Disappointing final. We didn't do enough in Belgium's area\"",
+      "url": "https://www.milannews.it/news/pulisic-deluso-eliminazione-finale-deludente-area-belgio-622874",
+      "source": "milannews.it",
+      "date": "2026-07-07T21:24:07+00:00",
+      "summary": "Speaking on the official FIFA channels, Christian Pulisic commented on the United States' elimination from the World Cup at the hands of Belgium's Alexis Saelemaekers and Koni De Winter: \"We faced a very strong team ..."
+    },
     {
       "id": "8021c5e89256",
       "title": "Milan, Gila is a Rossoneri player: the numbers of the new Rossoneri defender",
       "url": "https://www.milannews.it/news/milan-gila-rossonero-numeri-nuovo-difensore-rossonero-622889",
       "source": "milannews.it",
       "date": "2026-07-07T21:12:00+00:00",
-      "summary": "Mario Gila is a new player for Milan. The Spanish defender born in 2000 arrives from Lazio for a fee of around 27.5 million and will join the Rossoneri on a five-year contract."
+      "summary": "Mario Gila is a new AC Milan player. The Spanish defender born in 2000 arrives from Lazio for a fee of around 27.5 million and will join the Rossoneri on a five-year contract."
     },
     {
       "id": "b44d2a33b245",
@@ -39,7 +103,7 @@
       "url": "https://www.milannews.it/calciomercato-milan/mn-bennacer-rescissione-milan-pronto-nuova-avventura-qatar-622888",
       "source": "milannews.it",
       "date": "2026-07-07T20:19:16+00:00",
-      "summary": "The knot linked to Ismael Bennacer's future could soon be resolved. According to what has been learned by the MilanNews editorial staff."
+      "summary": "The knot linked to Ismael Bennacer's future could soon be resolved. According to what has been learned by the MilanNews editorial team."
     },
     {
       "id": "84205bb6cfb5",
@@ -104,70 +168,6 @@
       "source": "milannews.it",
       "date": "2026-07-07T19:00:19+00:00",
       "summary": "First starter at this World Cup for Ardon Jashari with Switzerland. Coach Raskin has in fact decided to trust the Milan midfielder for this round of 16 final."
-    },
-    {
-      "id": "448711334e11",
-      "title": "Piantanida on Massara at Juve: \"The Milan fans would have dreamed of such a management\"",
-      "url": "https://www.milannews.it/news/piantanida-massara-juve-i-tifosi-milan-sognato-dirigenza-genere-622853",
-      "source": "milannews.it",
-      "date": "2026-07-07T18:48:29+00:00",
-      "summary": "After arriving in Milan yesterday afternoon and stopping at Casa Milan and the San Siro stadium, Ruben Amorim took the first steps of his experience on the Rossoneri bench."
-    },
-    {
-      "id": "10a0bf8ef94e",
-      "title": "Impallomeni on Leao's future: \"He could help Juve or Roma\"",
-      "url": "https://www.milannews.it/news/impallomeni-leao-potrebbe-dare-mano-juve-roma-622852",
-      "source": "milannews.it",
-      "date": "2026-07-07T18:36:01+00:00",
-      "summary": "After arriving in Milan in the early afternoon yesterday and visiting Casa Milan and the San Siro stadium, Ruben Amorim officially began his new adventure with the Rossoneri."
-    },
-    {
-      "id": "0f653e63e874",
-      "title": "MN - The final figures of the Gila and Calvani deals with Lazio",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-cifre-finali-affari-gila-calvani-lazio-622876",
-      "source": "milannews.it",
-      "date": "2026-07-07T18:33:37+00:00",
-      "summary": "After the first offer was rejected by Lotito yesterday, today Milan went to checkers and found an agreement with Lazio for Mario Gila."
-    },
-    {
-      "id": "fc120676e655",
-      "title": "Orsato new designer: the complete CAN A-B team",
-      "url": "https://www.milannews.it/news/orsato-designatore-squadra-completa-can-a-b-622845",
-      "source": "milannews.it",
-      "date": "2026-07-07T18:24:37+00:00",
-      "summary": "The Italian Referees Association (AIA) has announced the appointments of the heads of the various referee committees. In other words, the designators, technical bodies, of CAN, CAN C, CAN D, CAI, CON, CAN 5 ELITE, CAN 5 and CON 5 have been appointed."
-    },
-    {
-      "id": "18e3dc6668b1",
-      "title": "MN - Amorim, first contact with the Milan world. New rules and not just in view of the rally",
-      "url": "https://www.milannews.it/news/mn-amorim-contatto-milan-nuove-regole-vista-raduno-622873",
-      "source": "milannews.it",
-      "date": "2026-07-07T18:12:00+00:00",
-      "summary": "During today's morning, Ruben Amorim was accompanied by the AC Milan organizational structure to view some houses in Milan with the aim of having his own logistical base outside Milanello or a hotel."
-    },
-    {
-      "id": "68eb6270d959",
-      "title": "Milan closes Gila, Fabrizio Romano: \"He would not have accepted other proposals during this summer transfer market\"",
-      "url": "https://www.milannews.it/news/milan-chiude-gila-fabrizio-romano-non-accettato-proposte-mercato-estivo-622870",
-      "source": "milannews.it",
-      "date": "2026-07-07T18:00:48+00:00",
-      "summary": "Milan, however, closes for Mario Gila and brings to Milanello the second profile appreciated by Ruben Amorim after the Gonçalo Ramos coup."
-    },
-    {
-      "id": "31dceb87c034",
-      "title": "Falcao defends Ancelotti: \"There is no discussion, his cycle with Brazil begins now\"",
-      "url": "https://www.milannews.it/news/falcao-difende-ancelotti-non-discute-ciclo-brasile-inizia-ora-622786",
-      "source": "milannews.it",
-      "date": "2026-07-07T17:48:30+00:00",
-      "summary": "(ANSA) - ROME, JULY 06 - \"Carlo Ancelotti's real cycle begins now. It's not easy for a foreign coach, his skills are unquestionable, but he needs time."
-    },
-    {
-      "id": "915ae4d13b0a",
-      "title": "Portugal, coach Martinez leaves after the elimination against Spain",
-      "url": "https://www.milannews.it/news/portogallo-ct-martinez-lascia-eliminazione-spagna-622800",
-      "source": "milannews.it",
-      "date": "2026-07-07T17:33:06+00:00",
-      "summary": "(ANSA) - ROME, JULY 07 - \"It is certain that this is my last match with Portugal. I want to thank the Portuguese people."
     },
     {
       "id": "085addc27777",
