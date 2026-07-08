@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-07-08T19:21:55.232496+00:00",
+  "lastUpdated": "2026-07-08T21:05:15.460423+00:00",
   "articles": [
+    {
+      "id": "da2cf78ba32f",
+      "title": "Marchetti on Modric: \"We understood Milan's will well. It depends on him\"",
+      "url": "https://www.milannews.it/news/marchetti-modric-la-volonta-milan-capita-bene-dipende-lui-622974",
+      "source": "milannews.it",
+      "date": "2026-07-08T21:00:33+00:00",
+      "summary": "In the press conference with which Ruben Amorim presented himself at Milan, it was inevitable for the Portuguese coach to also talk about Luka Modric's future."
+    },
+    {
+      "id": "238acf523b79",
+      "title": "Ricci saying goodbye to Milan? After Atalanta he was offered to a La Liga club",
+      "url": "https://www.milannews.it/calciomercato-milan/ricci-saluti-milan-atalanta-proposto-club-liga-622983",
+      "source": "milannews.it",
+      "date": "2026-07-08T20:48:59+00:00",
+      "summary": "The first shot of the 2025/2026 summer session, that of Massimiliano Allegri's return to Milan, was Samuele Ricci."
+    },
+    {
+      "id": "9f81a20a0632",
+      "title": "World Cup, the protest continues in Egypt: \"Robbed in broad daylight!\"",
+      "url": "https://www.milannews.it/dall-estero/mondiali-egitto-continua-protesta-derubati-622922",
+      "source": "milannews.it",
+      "date": "2026-07-08T20:36:00+00:00",
+      "summary": "(ANSA) - CAIRO, JULY 08 - The use of VAR for Zico's canceled goal and in general the entire match direction of the French referee Francois Lexetier."
+    },
+    {
+      "id": "cbba436fb3e6",
+      "title": "Tomorrow it's France's turn: Maignan and Rabiot towards new ownership",
+      "url": "https://www.milannews.it/news/domani-tocca-francia-maignan-rabiot-nuova-titolarita-622970",
+      "source": "milannews.it",
+      "date": "2026-07-08T20:24:05+00:00",
+      "summary": "Tomorrow evening, at 10 pm, offers the first quarter-final of the World Cup, a remake of one of the two semi-finals from four years ago: the match between France and Morocco, one of the two non-European teams, will be played in Boston..."
+    },
+    {
+      "id": "2dab7458a00c",
+      "title": "Norway anxiously awaiting the World Cup quarterfinals, fears of a virus",
+      "url": "https://www.milannews.it/news/mondiali-norvegia-ansia-aspettando-quarti-teme-virus-622872",
+      "source": "milannews.it",
+      "date": "2026-07-08T20:12:00+00:00",
+      "summary": "(ANSA) - ROME, JULY 07 - Norway is struggling with a virus a few days before the World Cup quarter-final against England."
+    },
+    {
+      "id": "1c30a3b03f80",
+      "title": "France-Morocco prediction, Bleus with the Rossoneri Maignan and Rabiot chasing the semi-final",
+      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-francia-marocco-bleus-rossoneri-maignan-rabiot-caccia-semifinale-622965",
+      "source": "milannews.it",
+      "date": "2026-07-08T20:00:00+00:00",
+      "summary": "The quarter-finals of the 2026 World Cup open with a match that brings to mind the semi-final of Qatar 2022. France faces Morocco in Foxborough, Massachusetts."
+    },
+    {
+      "id": "3f346cf17a03",
+      "title": "Amorim: \"Great respect for Allegri but I don't want to talk about the past\"",
+      "url": "https://www.milannews.it/news/amorim-grandissimo-allegri-voglio-parlare-passato-622982",
+      "source": "milannews.it",
+      "date": "2026-07-08T19:48:01+00:00",
+      "summary": "Ruben Amorim presented himself on Wednesday afternoon at Casa Milan as the new Milan coach in the usual press conference which anticipates the start of work on the pitch at Milanello by a few days."
+    },
+    {
+      "id": "b9f74a7193b9",
+      "title": "Ravezzani: \"Cardinal Presence, Amorim's way of expressing himself: beautiful conference\"",
+      "url": "https://www.milannews.it/news/ravezzani-presenza-cardinale-esprimersi-amorim-bella-conferenza-622977",
+      "source": "milannews.it",
+      "date": "2026-07-08T19:36:31+00:00",
+      "summary": "The event of the day, at Casa Milan, was the press conference to present Ruben Amorim, the new Rossoneri coach who arrived in the city on Monday and has already become familiar with M ..."
+    },
+    {
+      "id": "e36d688da41e",
+      "title": "Report Tomori turned down Coventry City, but Milan eager for sale",
+      "url": "https://football-italia.net/report-tomori-turned-down-coventry-city-milan/",
+      "source": "football-italia.net",
+      "date": "2026-07-08T19:29:57+00:00",
+      "summary": "Coventry City have reportedly asked Milan for the availability of Fikayo Tomori, but the defender..."
+    },
+    {
+      "id": "75bf1310b850",
+      "title": "France, Deschamps confirms the non-suspension of Olise's yellow card",
+      "url": "https://www.milannews.it/news/mondiali-deschamps-confermato-cartellino-giallo-olise-622978",
+      "source": "milannews.it",
+      "date": "2026-07-08T19:24:05+00:00",
+      "summary": "(ANSA) - FOXBOROUGH, 08 JUL - The yellow card received by Michael Olise during France's 1-0 victory against Paraguay in the round of 16 of the World Cup has been confirmed by FIFA: Didier Deschamps announced it in the conference ..."
+    },
     {
       "id": "bdeb271e5a62",
       "title": "Order: \"For the first time Cardinale is behaving like a traditional president\"",
@@ -19,7 +99,7 @@
     },
     {
       "id": "2154d123485b",
-      "title": "“I want to create a new culture”, “I believe in Milan” – all the key quotes from Cardinale and Amorim",
+      "title": "“I want to create a new culture”, “I believe in Milan” – All the key quotes from Cardinale and Amorim",
       "url": "https://sempremilan.com/all-key-quotes-amorim-cardinale-press-conference",
       "source": "sempremilan.com",
       "date": "2026-07-08T19:00:00+00:00",
@@ -114,22 +194,6 @@
       "summary": "After his arrival in Milan and the first institutional stages between Casa Milan and the San Siro stadium, Ruben Amorim officially began his new adventure at the helm of Milan."
     },
     {
-      "id": "39025d6a230f",
-      "title": "Costacurta promotes Gila-Milan: \"He is stronger than the three starters last year\"",
-      "url": "https://www.milannews.it/gli-ex/costacurta-promuove-gila-milan-e-forte-titolari-dell-anno-scorso-622929",
-      "source": "milannews.it",
-      "date": "2026-07-08T17:01:39+00:00",
-      "summary": "Alessandro Costacurta, former Rossoneri defender, commented to Tuttosport on AC Milan's first moves in the transfer market after signing Gonçalo Ramos in attack: \"If the fans can be optimistic again? I would be."
-    },
-    {
-      "id": "3e0865068ff9",
-      "title": "Amorim admits: \"We want Modric, I hope to have him in a few days\"",
-      "url": "https://www.milannews.it/news/calcio-amorim-vogliamo-modric-spero-622960",
-      "source": "milannews.it",
-      "date": "2026-07-08T16:49:00+00:00",
-      "summary": "(ANSA) - MILAN, JULY 08 - \"Modric is a player we want to keep. I spoke to him twice, I can do it again."
-    },
-    {
       "id": "af6567e97944",
       "title": "Amorim states Chukwueze, Cisse and Comotto will be part of the squad for pre-season: “Gives us alternatives”",
       "url": "https://sempremilan.com/amorim-states-chukwueze-cisse-comotto-part-of-squad",
@@ -138,68 +202,12 @@
       "summary": "In pre-season, certain players will be given chances to impress Ruben Amorim and they could even become key players for AC Milan. Ahead of the new season, a lot has been said about Amorim’s desire to assess everyone at the club. Indeed, he wants to get a complete view of the squad, including those w"
     },
     {
-      "id": "bbc947eb8bde",
-      "title": "De Laurentiis investigation: the Football Federation Prosecutor's Office asks the Bari prosecutor's office for documents",
-      "url": "https://www.milannews.it/news/inchiesta-de-laurentiis-procura-federcalcio-chiede-carte-bari-622920",
-      "source": "milannews.it",
-      "date": "2026-07-08T16:36:02+00:00",
-      "summary": "(ANSA) - ROME, JULY 08 - The head of the Prosecutor's Office of the Football Federation, Giuseppe Chinè, - ANSA learns - has asked the Bari magistrates investigating the matter for the documents of the investigation into Aurelio De Laurentiis and his son Luigi."
-    },
-    {
-      "id": "a1005958de6a",
-      "title": "Costacurta on Milan: \"They are finally moving in the right direction\"",
-      "url": "https://www.milannews.it/gli-ex/costacurta-milan-finalmente-muovendo-direzione-giusta-622928",
-      "source": "milannews.it",
-      "date": "2026-07-08T16:24:10+00:00",
-      "summary": "Alessandro Costacurta, former Rossoneri defender, commented to Tuttosport on AC Milan's first moves in the transfer market after signing Gonçalo Ramos in attack: \"If the fans can be optimistic again? I would be."
-    },
-    {
-      "id": "295b159f7302",
-      "title": "ESPN attacks Pulisic: \"There's a reason he plays for Milan and not in the Champions League. He should delete his social media\"",
-      "url": "https://www.milannews.it/news/espn-attacca-pulisic-c-motivo-gioca-milan-champions-dovrebbe-cancellare-social-622968",
-      "source": "milannews.it",
-      "date": "2026-07-08T16:12:35+00:00",
-      "summary": "After accumulating enthusiasm and good performances, the confidence of the United States was sky high for the passage to the World Cup quarterfinals which would have been historic."
-    },
-    {
-      "id": "538cb24b5d28",
-      "title": "Cardinale presents the new Milan. Nice words, but only the facts count",
-      "url": "https://www.milannews.it/podcast-mn/cardinale-presenta-milan-belle-parole-contano-fatti-622967",
-      "source": "milannews.it",
-      "date": "2026-07-08T16:00:00+00:00",
-      "summary": "Cardinale has totally changed his way of communicating and approaching the Milan world."
-    },
-    {
       "id": "8e764cec0556",
       "title": "CM: ‘Let’s sign Alajbegovic’ – Ibrahimovic endorses signing to Cardinale again during World Cup",
       "url": "https://sempremilan.com/ibrahimovic-endorses-alajbegovic-signing-cardinale",
       "source": "sempremilan.com",
       "date": "2026-07-08T16:00:00+00:00",
       "summary": "AC Milan are being pushed to sign Kerim Alajbegovic this summer by Zlatan Ibrahimovic, who has been vocally impressed by the talent. With a striker and central defender through the door, Ruben Amorim is requesting that Milan now focus on signing an attacking midfielder. Indeed, he sees this as the n"
-    },
-    {
-      "id": "9087c76d2586",
-      "title": "Milan, Amorim: \"I was one of you for a long time, now I want to stay for many years\"",
-      "url": "https://www.milannews.it/news/calcio-milan-amorim-voi-voglio-restare-tanti-622938",
-      "source": "milannews.it",
-      "date": "2026-07-08T15:48:00+00:00",
-      "summary": "(ANSA) - MILAN, JULY 08 - \"For many years I was one of you, so I will do my best to win with this club and spend many years here with you\"."
-    },
-    {
-      "id": "8eb6ad4f764b",
-      "title": "Croatia, technical commissioner Zlatko Dalic resigns",
-      "url": "https://www.milannews.it/news/mondiali-croazia-dimette-ct-dalic-622935",
-      "source": "milannews.it",
-      "date": "2026-07-08T15:36:22+00:00",
-      "summary": "(ANSA) - ZAGREB, JULY 08 - Coach Zlatko Dalic has announced his resignation after nine years at the helm of the national team, a few days after the elimination at the hands of Portugal at the World Cup."
-    },
-    {
-      "id": "d9aba745d9b8",
-      "title": "OFFICIAL: Milan Women, Karen Appiah loaned to Cesena",
-      "url": "https://www.milannews.it/milan-femminile/ufficiale-milan-femminile-karen-appiah-ceduta-prestito-cesena-622932",
-      "source": "milannews.it",
-      "date": "2026-07-08T15:24:28+00:00",
-      "summary": "Through its official website, Milan announced the loan of Karen Appiah, player of the women's first team, to Cesena until 30 June 2027."
     },
     {
       "id": "baced2e17dc8",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-07-06T17:04:55+00:00",
       "summary": "Giovanni Malagò has revealed that a decisive week has begun regarding Italy’s next technical director..."
-    },
-    {
-      "id": "708a32df0ac7",
-      "title": "Milan face €25m loss after Champions League disappointment and compensation payouts",
-      "url": "https://football-italia.net/milan-face-25m-deficit-after-champions-league/",
-      "source": "football-italia.net",
-      "date": "2026-07-06T16:30:00+00:00",
-      "summary": "Milan are projected to post a loss of around €25 million for the 2025/26 financial..."
     }
   ]
 }
