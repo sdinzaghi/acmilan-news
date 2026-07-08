@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-07-08T21:05:15.460423+00:00",
+  "lastUpdated": "2026-07-08T23:04:33.165094+00:00",
   "articles": [
+    {
+      "id": "7fd4d78ea893",
+      "title": "TOP NEWS of July 8: the first words of Amorim, Cardinale's project",
+      "url": "https://www.milannews.it/news/top-news-8-luglio-prime-parole-amorim-progetto-cardinale-622985",
+      "source": "milannews.it",
+      "date": "2026-07-08T23:00:00+00:00",
+      "summary": "News, curiosities, the voices of the protagonists and the latest market news on MilanNews.it."
+    },
+    {
+      "id": "f0e1afaf6803",
+      "title": "Ravezzani: \"Cardinal, forget the slogan we will play to win\"",
+      "url": "https://www.milannews.it/news/ravezzani-cardinale-lasci-perdere-slogan-giocheremo-vincere-622979",
+      "source": "milannews.it",
+      "date": "2026-07-08T22:48:01+00:00",
+      "summary": "An unprecedented fact of the press conference to present Ruben Amorim as the new coach of Milan which took place at Casa Milan on Wednesday afternoon was the presence of Gerry Cardinale next to ..."
+    },
+    {
+      "id": "fd1a4ea51fba",
+      "title": "Udinese, Inler assures: \"Zaniolo remains, some small details are missing\"",
+      "url": "https://www.milannews.it/news/udinese-inler-assicura-zaniolo-resta-manca-piccolo-dettaglio-622990",
+      "source": "milannews.it",
+      "date": "2026-07-08T22:36:06+00:00",
+      "summary": "Almost every transfer market session there is a name that returns to Milan orbit. This year too, Nicolò Zaniolo, a Udinese player, has been linked to the Rossoneri club on some occasions."
+    },
+    {
+      "id": "d7e2ec9eb9c5",
+      "title": "Order on the new Milan: \"There is a detail that cannot be overlooked.\" Here's which one",
+      "url": "https://www.milannews.it/news/ordine-milan-c-particolare-sfuggire-622946",
+      "source": "milannews.it",
+      "date": "2026-07-08T22:24:52+00:00",
+      "summary": "Ruben Amorim's experience on the Milan bench has officially begun."
+    },
+    {
+      "id": "870bbc962557",
+      "title": "World Cup, Egypt formal protest to FIFA: \"Exclude Letexier\"",
+      "url": "https://www.milannews.it/news/mondiali-egitto-protesta-formale-fifa-escludete-letexier-622963",
+      "source": "milannews.it",
+      "date": "2026-07-08T22:12:27+00:00",
+      "summary": "(ANSA) - ROME, JULY 08 - The Egyptian Football Federation has asked FIFA to exclude the French referee François Letexier from the rest of the 2026 World Cup, speaking of \"flagrant refereeing errors\" in the round of 16 match ..."
+    },
+    {
+      "id": "b7b8a50d82f6",
+      "title": "Amorim doesn't want to make a revolution. Pulisic and Modric remain, Leao does not. Cardinale wrote the restart",
+      "url": "https://www.milannews.it/editoriale/amorim-vuol-rivoluzione-pulisic-e-modric-restano-leao-no-cardinale-scritto-ripartenza-622969",
+      "source": "milannews.it",
+      "date": "2026-07-08T22:00:01+00:00",
+      "summary": "Everything is clear, finally. It is finally clear what Gerry Cardinale's role has become."
+    },
+    {
+      "id": "8a646b5a8a6d",
+      "title": "Di Marzio: \"Milan must also sell now before making other purchases\"",
+      "url": "https://www.milannews.it/news/marzio-il-milan-vendere-concretizzare-acquisti-622987",
+      "source": "milannews.it",
+      "date": "2026-07-08T21:48:00+00:00",
+      "summary": "The Milan suddenly activated itself on the transfer market: in a very short time they closed both Gonçalo Ramos, the Portuguese striker already made official by the club, and also Mario Gila, the defender who is under arrest ..."
+    },
+    {
+      "id": "487cc76d52a7",
+      "title": "World Cup, millions of views for social clips on DAZN: all the numbers",
+      "url": "https://www.milannews.it/news/mondiali-dazn-esulta-miliardo-wiew-clip-social-622980",
+      "source": "milannews.it",
+      "date": "2026-07-08T21:36:12+00:00",
+      "summary": "(ANSA) - ROME, JULY 08 - Over 1 billion and 300 million total views of the videos on Dazn's social profiles."
+    },
+    {
+      "id": "61d945fc7523",
+      "title": "Braglia on Milan: \"I await the confirmations of those fundamental players\". That's who he's talking about",
+      "url": "https://www.milannews.it/news/braglia-milan-aspetto-conferme-quei-giocatori-fondamentali-parla-622954",
+      "source": "milannews.it",
+      "date": "2026-07-08T21:24:58+00:00",
+      "summary": "Intense first days for Ruben Amorim, who began his adventure on the Milan bench with a series of significant appointments."
+    },
+    {
+      "id": "df9ac70161b0",
+      "title": "Serafini: \"Amorim and Cardinale finally talked about winning\"",
+      "url": "https://www.milannews.it/news/serafini-amorim-cardinale-parlato-vincere-622984",
+      "source": "milannews.it",
+      "date": "2026-07-08T21:12:28+00:00",
+      "summary": "Many different ideas emerged from the press conference of Ruben Amorim, presented as the new coach of Milan, which took place at the headquarters in via Aldo Rossi in the early afternoon of Wednesday."
+    },
     {
       "id": "da2cf78ba32f",
       "title": "Marchetti on Modric: \"We understood Milan's will well. It depends on him\"",
@@ -90,60 +170,12 @@
       "summary": "Ruben Amorim's new adventure on the Milan bench has now come to life."
     },
     {
-      "id": "a3204800e1a6",
-      "title": "World Cup, five Milan players still in the running: the calendar",
-      "url": "https://www.milannews.it/news/mondiali-giocatori-milan-rimasti-corsa-calendario-622964",
-      "source": "milannews.it",
-      "date": "2026-07-08T19:00:00+00:00",
-      "summary": "With Switzerland eliminating Colombia on penalties, earning their place in the quarter-finals for the first time in 72 years, the round of 16 program came to an end."
-    },
-    {
       "id": "2154d123485b",
       "title": "“I want to create a new culture”, “I believe in Milan” – All the key quotes from Cardinale and Amorim",
       "url": "https://sempremilan.com/all-key-quotes-amorim-cardinale-press-conference",
       "source": "sempremilan.com",
       "date": "2026-07-08T19:00:00+00:00",
       "summary": "Earlier today, Gerry Cardinale and Ruben Amorim spoke to the media and there are several statements that we can take note of at AC Milan. Today was the second or third step in the new era at Milan. After arriving in Milano and going around the training ground, Amorim hosted a press conference to int"
-    },
-    {
-      "id": "d6dff2c3dd7b",
-      "title": "Costacurta returns to Milan's last season: \"We were always punctual. This year...\"",
-      "url": "https://www.milannews.it/news/costacurta-torna-ultima-stagione-milan-noi-puntuali-anno-622959",
-      "source": "milannews.it",
-      "date": "2026-07-08T18:48:00+00:00",
-      "summary": "After arriving in Milan, Ruben Amorim began his journey at the helm of Milan by facing his first official commitments."
-    },
-    {
-      "id": "fb7c0b2f79e3",
-      "title": "Dragusin is a new Fiorentina player: now it's official",
-      "url": "https://www.milannews.it/news/calcio-ufficiale-dragusin-giocatore-fiorentina-622976",
-      "source": "milannews.it",
-      "date": "2026-07-08T18:36:36+00:00",
-      "summary": "(ANSA) - ROME, JULY 08 - Now it's official: Matei Dragusin is a new player for Fiorentina."
-    },
-    {
-      "id": "da14887b58c4",
-      "title": "De Canio on Leao: \"If after so many years at Milan he still hasn't understood what needs to be done...\"",
-      "url": "https://www.milannews.it/news/de-canio-leao-se-tanti-milan-capito-bisogna-fare-622951",
-      "source": "milannews.it",
-      "date": "2026-07-08T18:24:52+00:00",
-      "summary": "Ruben Amorim has effectively begun his experience as the new coach of Milan."
-    },
-    {
-      "id": "16555440aff1",
-      "title": "Marchetti: \"Milan has demonstrated clear ideas and that they have financial resources\"",
-      "url": "https://www.milannews.it/news/marchetti-milan-dimostrato-idee-chiare-disponibilita-economica-622973",
-      "source": "milannews.it",
-      "date": "2026-07-08T18:12:09+00:00",
-      "summary": "After a month of stalemate, following the mass dismissals of Gerry Cardinale, Milan activated like a bolt from the blue on the transfer market."
-    },
-    {
-      "id": "022bb7690ff2",
-      "title": "Braglia on Milan: \"The positive thing is that I see a more frequent presence of the owners\"",
-      "url": "https://www.milannews.it/news/braglia-milan-la-positiva-vedo-presenza-proprieta-frequente-622953",
-      "source": "milannews.it",
-      "date": "2026-07-08T18:00:14+00:00",
-      "summary": "The new era of Milan with Ruben Amorim has officially begun."
     },
     {
       "id": "b7d34e3938d7",
@@ -154,44 +186,12 @@
       "summary": "After signing for AC Milan earlier this summer, Aurelien Guernier will have a chance to impress Ruben Amorim this summer. As stated in his press conference, Amorim wants to assess everyone within his squad and that is very clear. Indeed, even returning loanees – whose fates seemed to be decided alre"
     },
     {
-      "id": "d4ae17861fa4",
-      "title": "The mea culpa, the importance of Amorim, the role of Ibra: what emerges from the Cardinal thought",
-      "url": "https://www.milannews.it/primo-piano/mea-culpa-l-importanza-amorim-ruolo-ibra-emerge-cardinale-pensiero-622972",
-      "source": "milannews.it",
-      "date": "2026-07-08T17:45:15+00:00",
-      "summary": "Milan has changed. Or rather, Cardinal has changed first and foremost."
-    },
-    {
-      "id": "fb3e9ffcba2c",
-      "title": "Udinese delegation visiting Casa Milan today",
-      "url": "https://www.milannews.it/news/delegazione-udinese-visita-casa-milan-622971",
-      "source": "milannews.it",
-      "date": "2026-07-08T17:36:45+00:00",
-      "summary": "Busy day for Milan at the headquarters in via Aldo Rossi, despite today's main event being the press conference to present the new Rossoneri coach Ruben Amorim."
-    },
-    {
-      "id": "0f7eb018d7d9",
-      "title": "Moretto: \"Milan, Gerry Cardinale's weight is different\"",
-      "url": "https://www.milannews.it/news/moretto-milan-peso-gerry-cardinale-diverso-622966",
-      "source": "milannews.it",
-      "date": "2026-07-08T17:24:34+00:00",
-      "summary": "The two images of the last two days to tell the story of Milan are, in fact, the same one that was repeated 24 hours later: yesterday Ruben Amorim arrived for the first time at the Milanello&n sports centre..."
-    },
-    {
       "id": "836cdc53794c",
       "title": "CorSport: Milan offered Stones by intermediaries but Inacio remains the favourite",
       "url": "https://sempremilan.com/milan-offered-stones-intermediaries-inacio-favourite",
       "source": "sempremilan.com",
       "date": "2026-07-08T17:20:00+00:00",
       "summary": "This summer, AC Milan will sign another central defender and there are plenty of options for them to look at, as reports suggest. It has been a mad few weeks for Milan. A €75 million deal for Goncalo Ramos was shortly followed by a €30m move for Mario Gila, all whilst no sacrifices have been […]\nThe"
-    },
-    {
-      "id": "6ece38ea69f4",
-      "title": "Order on Milan: \"Everything to discover. Here's what we need to understand\"",
-      "url": "https://www.milannews.it/news/ordine-milan-tutto-scoprire-dobbiamo-capire-622944",
-      "source": "milannews.it",
-      "date": "2026-07-08T17:12:11+00:00",
-      "summary": "After his arrival in Milan and the first institutional stages between Casa Milan and the San Siro stadium, Ruben Amorim officially began his new adventure at the helm of Milan."
     },
     {
       "id": "af6567e97944",
@@ -283,7 +283,7 @@
     },
     {
       "id": "ff146702c498",
-      "title": "GdS: Cardinale has ‘clear’ desire to bring van Dijk to Milan eventually: “Still has a lot to give”",
+      "title": "GdS: Cardinale has ‘clear’ desire to bring Van Dijk to Milan eventually – ‘Still has a lot to give’",
       "url": "https://sempremilan.com/cardinale-clear-desire-bring-van-dijk-milan",
       "source": "sempremilan.com",
       "date": "2026-07-08T13:00:00+00:00",
