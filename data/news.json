@@ -1,6 +1,190 @@
 {
-  "lastUpdated": "2026-07-09T13:47:56.007256+00:00",
+  "lastUpdated": "2026-07-09T16:26:10.903552+00:00",
   "articles": [
+    {
+      "id": "61c212bb6389",
+      "title": "Cardinale shows the way: Milan Future and the youth sector at the center of the project",
+      "url": "https://www.milannews.it/settore-giovanile/cardinale-indica-strada-milan-settore-giovanile-centro-progetto-623085",
+      "source": "milannews.it",
+      "date": "2026-07-09T16:24:28+00:00",
+      "summary": "Gerry Cardinale wanted to send a clear message during the press conference to present Ruben Amorim: Milan is not built only on the most exposed names, but on a profound structure, made up of figures called to ..."
+    },
+    {
+      "id": "bedc112bbe23",
+      "title": "Serafini: \"I can't stand some players who, after a year, still don't know the language of the place where they are playing. I liked Amorim\"",
+      "url": "https://www.milannews.it/news/serafini-non-sopporto-giocatori-che-anno-sappiano-lingua-giocando-amorim-piaciuto-623023",
+      "source": "milannews.it",
+      "date": "2026-07-09T16:12:30+00:00",
+      "summary": "During his speech for MilanCommunity, the Rossoneri journalist Luca Serafini expressed himself thus on Amorim's words: \"Amorim spoke for a long time and in a very calm manner."
+    },
+    {
+      "id": "cfc7d808f6f9",
+      "title": "Lorenzo Insigne remains in Serie B, but to move up to Serie A: his message on arrival at Sampdoria",
+      "url": "https://www.milannews.it/news/calcio-insigne-firma-samp-voglio-riportarla-merita-622975",
+      "source": "milannews.it",
+      "date": "2026-07-09T16:00:00+00:00",
+      "summary": "(ANSA) - GENOA, JULY 08 - \"I am very happy and motivated to start this adventure. I had other requests, but as soon as my agent told me about this proposal from Sampdoria it immediately became my first choice."
+    },
+    {
+      "id": "f7bc83dd3e2b",
+      "title": "Bianchin: Ibrahimovic leading Milan’s pursuit of Liverpool captain Van Dijk – the situation",
+      "url": "https://sempremilan.com/ibrahimovic-leading-milan-pursuit-van-dijk",
+      "source": "sempremilan.com",
+      "date": "2026-07-09T16:00:00+00:00",
+      "summary": "AC Milan have not yet let go of the idea of signing Virgil van Dijk, with Zlatan Ibrahimovic strongly endorsing the move. In the past few days there have been a number of stories regarding the possibility of Milan moving for Liverpool’s captain Van Dijk, as unlikely as it seems given his contract si"
+    },
+    {
+      "id": "4ba7cda77e93",
+      "title": "Lazio push for former Barcelona defender Dominguez as Gila heads to Milan",
+      "url": "https://football-italia.net/lazio-push-for-dominguez-gila-milan/",
+      "source": "football-italia.net",
+      "date": "2026-07-09T15:57:29+00:00",
+      "summary": "With Mario Gila’s move to Milan now agreed, Lazio have wasted no time in lining..."
+    },
+    {
+      "id": "b12467dc3eab",
+      "title": "MN - Cuomo: \"Amorim said he wants players who love football and Milan. Pulisic, Chukwueze and Nkunku remain\"",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-cuomo-amorim-vuole-giocatori-amino-calcio-milan-restano-pulisic-chukwueze-nkunku-623054",
+      "source": "milannews.it",
+      "date": "2026-07-09T15:47:52+00:00",
+      "summary": "Michael Cuomo, journalist for TeleLombardia, gave an exclusive interview to MilanNews."
+    },
+    {
+      "id": "7af521597aaa",
+      "title": "New Milan, Lawyer Raimondo: \"RedBird transitional phase finally over\"",
+      "url": "https://www.milannews.it/news/milan-avvocato-raimondo-la-fase-transitoria-623076",
+      "source": "milannews.it",
+      "date": "2026-07-09T15:36:00+00:00",
+      "summary": "A modicum of enthusiasm and optimism invade the minds of AC Milan fans. Milan's summer transfer market seems to have finally gained the right momentum."
+    },
+    {
+      "id": "770764e7d931",
+      "title": "Schira: Milan hold ‘positive’ talks with agents of €30m-rated Leverkusen starlet",
+      "url": "https://sempremilan.com/milan-positive-talks-agents-alajbegovic-leverkusen",
+      "source": "sempremilan.com",
+      "date": "2026-07-09T15:30:00+00:00",
+      "summary": "AC Milan are big admirers of Kerim Alajbegović and their interest pre-dates the appointment of the new management. One of the areas that Milan are believed to be trying to strengthen in view of 2026-27 are the attacking midfielder roles in Ruben Amorim’s 3-4-2-1. Christian Pulisic and Christopher Nk"
+    },
+    {
+      "id": "8ba57f4b59f4",
+      "title": "Mario Gila ready for Milan medical after €30m agreement with Lazio",
+      "url": "https://football-italia.net/mario-gila-ready-for-milan-medical-30m-lazio/",
+      "source": "football-italia.net",
+      "date": "2026-07-09T15:27:41+00:00",
+      "summary": "Mario Gila is set to undergo his Milan medical tests on Friday, completing the transfer..."
+    },
+    {
+      "id": "08277a4ff42d",
+      "title": "MN - GIla expected today in Milan: arrival expected in early evening",
+      "url": "https://www.milannews.it/primo-piano/mn-gila-sera-milano-arrivo-previsto-serata-623078",
+      "source": "milannews.it",
+      "date": "2026-07-09T15:25:18+00:00",
+      "summary": "According to what has been learned by the editorial staff of MilanNews.it, Mario Gila is expected this evening in Milan."
+    },
+    {
+      "id": "952d5857d0e0",
+      "title": "Zancan on Amorim: \"Having failed at United can help him avoid making mistakes\"",
+      "url": "https://www.milannews.it/news/zancan-amorim-aver-fallito-united-aiutare-commettere-errori-622989",
+      "source": "milannews.it",
+      "date": "2026-07-09T15:23:14+00:00",
+      "summary": "The new Rossoneri coach Ruben Amorim presented himself with great personality and clear ideas in Wednesday's press conference with which he introduced himself to the Milan fans and the environment..."
+    },
+    {
+      "id": "1cdad5c56884",
+      "title": "Van Dijk in decline? van der Vaart attacks: \"I'm not seeing it very well\"",
+      "url": "https://www.milannews.it/news/van-dijk-fase-calante-van-der-vaart-attacca-623071",
+      "source": "milannews.it",
+      "date": "2026-07-09T15:12:00+00:00",
+      "summary": "Milan's summer transfer market seems to have finally gained the right momentum. In fact, the Rossoneri club, after a slow month of June, is now a protagonist on the transfer market, proving to be one of the most active teams."
+    },
+    {
+      "id": "1b0fa65d49d5",
+      "title": "On the web many fans were calling for an empty stadium, but that's why the Curva Sud decided to subscribe",
+      "url": "https://www.milannews.it/news/curva-sud-abboniamo-difendere-milan-dirigenza-623003",
+      "source": "milannews.it",
+      "date": "2026-07-09T15:00:41+00:00",
+      "summary": "The Curva Sud of Milan announces on its social media profiles that - after weeks of protest against the Rossoneri's ownership - it will renew season tickets to the stadium for next season while following up on the criticisms aimed at the club."
+    },
+    {
+      "id": "270796c0fc57",
+      "title": "CM: Chukwueze to be offered shot at Milan redemption by Amorim – where he will play",
+      "url": "https://sempremilan.com/chukwueze-milan-redemption-amorim-where-play",
+      "source": "sempremilan.com",
+      "date": "2026-07-09T15:00:00+00:00",
+      "summary": "Something that did not seem possible a few weeks ago is now likely to happen: Samuel Chukwueze should stay at AC Milan. As Calciomercato.com recall, Chukwueze and Ruben Amorim have never worked together in their careers. Nor did they face each other last season, when both were in the Premier League:"
+    },
+    {
+      "id": "1364226d5f59",
+      "title": "MN - Cuomo: \"On the first day of school all the teachers were good, then... Nice words from Amorim and Cardinale, but actions are needed\"",
+      "url": "https://www.milannews.it/news/mn-cuomo-il-scuola-prof-brave-poi-amorim-cardinale-belle-parole-servono-fatti-623053",
+      "source": "milannews.it",
+      "date": "2026-07-09T14:48:25+00:00",
+      "summary": "Michael Cuomo, journalist for TeleLombardia, gave an exclusive interview to MilanNews."
+    },
+    {
+      "id": "819c7840a4dd",
+      "title": "Report Pulisic out for 3-6 weeks with microfracture after World Cup",
+      "url": "https://football-italia.net/report-pulisic-out-for-3-6-weeks-microfracture/",
+      "source": "football-italia.net",
+      "date": "2026-07-09T14:36:50+00:00",
+      "summary": "Milan and USMNT star Christian Pulisic will be out of action for circa six weeks..."
+    },
+    {
+      "id": "0efc3a248456",
+      "title": "MN - Pulisic, microfracture of the fibula: goal of return against Torino",
+      "url": "https://www.milannews.it/news/mn-pulisic-microfrattura-perone-obiettivo-rientro-torino-623075",
+      "source": "milannews.it",
+      "date": "2026-07-09T14:32:39+00:00",
+      "summary": "According to what the MilanNews.it editorial team learned, during the last World Cup match against the United States, Christian Pulisic suffered a microfracture to his right fibula, accompanied by bone edema."
+    },
+    {
+      "id": "86d3624891b7",
+      "title": "Athletic: Pulisic sustains ‘bone bruise and microfracture’ – his estimated recovery time",
+      "url": "https://sempremilan.com/pulisic-sustains-bone-bruise-microfracture",
+      "source": "sempremilan.com",
+      "date": "2026-07-09T14:30:00+00:00",
+      "summary": "After he limped off during the USA’s World Cup exit to Belgium, the nature of Christian Pulisic’s issue has now become clear. According to The Athletic, Pulisic ‘suffered a bone bruise and microfracture in his leg’ during Monday’s loss. Despite the serious-sounding nature of the injury, it is claime"
+    },
+    {
+      "id": "e7551bcfdc60",
+      "title": "Criscitiello votes for Maldini: \"If he takes it with Conte he'll win. If he does Mancini-Oriali I'll throw myself from the ground floor\"",
+      "url": "https://www.milannews.it/news/criscitiello-vota-maldini-se-porta-conte-vinto-mancini-oriali-butto-piano-terra-623015",
+      "source": "milannews.it",
+      "date": "2026-07-09T14:24:22+00:00",
+      "summary": "Michele Criscitiello, director of Sportitalia, expressed himself thus during his editorial for the broadcaster's website on the national team: \"The Minister of Sport is an ambiguous figure but in a country like ours there ..."
+    },
+    {
+      "id": "1a5321852f19",
+      "title": "De Canio: \"I continue to expect much more from a player like Leao\"",
+      "url": "https://www.milannews.it/news/de-canio-leao-da-giocatore-leao-continuo-aspettarmi-piu-622949",
+      "source": "milannews.it",
+      "date": "2026-07-09T14:12:45+00:00",
+      "summary": "With his arrival in Milan, Ruben Amorim's journey at the helm of Milan officially began. The Portuguese coach faced his first institutional commitments by visiting Casa Milan and the San Siro stadium."
+    },
+    {
+      "id": "91363c8eb46c",
+      "title": "GdS: How Cardinale has ‘Italianised’ approach to ownership with increased presence",
+      "url": "https://sempremilan.com/how-cardinale-italianised-approach-ownership",
+      "source": "sempremilan.com",
+      "date": "2026-07-09T14:00:18+00:00",
+      "summary": "Gerry Cardinale is already taking a much more hands-on role this summer with AC Milan, and by his own admission. La Gazzetta dello Sport recall how his approach to the matter began to change at the beginning of 2026. January 21, February 16, March 8 and April 26 are circled in red on the calendar. ["
+    },
+    {
+      "id": "f15bec8b280f",
+      "title": "MN EXCLUSIVE - Cuomo: \"You also heard certain things with Fonseca, but there is a difference. There is no room for Leao\"",
+      "url": "https://www.milannews.it/primo-piano/cuomo-amorim-cardinale-leao-modric-pulisic-chukwueze-furlani-scudetto-inter-allegri-conte-623033",
+      "source": "milannews.it",
+      "date": "2026-07-09T14:00:11+00:00",
+      "summary": "Michael Cuomo, journalist for TeleLombardia, gave an exclusive interview to MilanNews."
+    },
+    {
+      "id": "960206898dd4",
+      "title": "Passerini: \"When someone says that Ramos is Portugal's bagman, it is anything but a simple question because Ronaldo is involved\"",
+      "url": "https://www.milannews.it/news/passerini-quando-ramos-portaborse-portogallo-questione-tutt-semplice-ronaldo-623022",
+      "source": "milannews.it",
+      "date": "2026-07-09T13:49:12+00:00",
+      "summary": "Carlos Passerini, journalist for Corriere della Sera, expressed himself as follows on his Youtube channel on Milan's purchase of Goncalo Ramos: \"'We want the second star!' Amorim said it quite clearly ..."
+    },
     {
       "id": "ab5cdd37e0cb",
       "title": "Pier Silvio Berlusconi: \"I follow Milan less than in the past. Monza? We left them in Serie A. My father must be smiling\"",
@@ -31,7 +215,7 @@
       "url": "https://www.milannews.it/news/gallo-mourinho-conquisto-milano-interista-dicendo-pirla-amorim-guadagnato-milanisti-marcando-distanz-623026",
       "source": "milannews.it",
       "date": "2026-07-09T13:11:47+00:00",
-      "summary": "Massimiliano Gallo, journalist, expressed himself as follows in Corriere dello Sport, commenting on Amorim's words about Allegri: \"He is now the thirty-one save-all of Italian football."
+      "summary": "Massimiliano Gallo, journalist, expressed himself as follows in Corriere dello Sport, commenting on Amorim's words on Allegri: \"He is now the thirty-one save-all of Italian football."
     },
     {
       "id": "191c955cb741",
@@ -58,44 +242,12 @@
       "summary": "During his editorial for MilanNews."
     },
     {
-      "id": "1aef69b9825f",
-      "title": "Malagò: \"This is the week of the dt, a surprise could also come out\"",
-      "url": "https://www.milannews.it/news/malago-dt-italia-settimana-venir-sorpresa-623065",
-      "source": "milannews.it",
-      "date": "2026-07-09T12:35:50+00:00",
-      "summary": "(ANSA) - ROME, JULY 09 - \"This is the week of the dt, I won't change my opinion. It's Thursday and I hope to calm the agitation over the weekend."
-    },
-    {
       "id": "f8234edf9b96",
       "title": "‘Here we go’ – Romano confirms Atta is heading to Fiorentina despite Milan links",
       "url": "https://sempremilan.com/romano-confirms-atta-fiorentina-despite-milan-links",
       "source": "sempremilan.com",
       "date": "2026-07-09T12:30:00+00:00",
       "summary": "In the past 12 hours, AC Milan had been linked to Udinese midfielder Arthur Atta, but he will not be joining the club. With Milan not waiting around to get deals done, it feels like the Italian mercato could become a bit livelier, so as not to fall behind the Rossoneri. Indeed, they have shown […]\nT"
-    },
-    {
-      "id": "a57ce4f79b83",
-      "title": "Milan, another defender will also arrive after Gila: Kristensen from Udinese is also on the list, he costs 18 million",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-arrivera-difensore-gila-lista-kristensen-udinese-costa-18-623064",
-      "source": "milannews.it",
-      "date": "2026-07-09T12:24:09+00:00",
-      "summary": "According to what Claudio Raimondi reports to SportMediaset on Italia Uno, after Mario Gila, who should be present at the meeting at Milanello on Monday, Milan will also make another addition to the defence."
-    },
-    {
-      "id": "5f4a8feaaa74",
-      "title": "Order: \"Behind Amorim's words there are a series of transfer news\"",
-      "url": "https://www.milannews.it/calciomercato-milan/ordine-dietro-parole-amorim-serie-notizie-calciomercato-623019",
-      "source": "milannews.it",
-      "date": "2026-07-09T12:12:12+00:00",
-      "summary": "During his editorial for MilanNews."
-    },
-    {
-      "id": "a865a7db93ea",
-      "title": "The choice of the national team, Michael Jordan, the videos of Messi and Ronaldinho, the dribbling, the assists and the interest of Milan: this is who Karetsas is",
-      "url": "https://www.milannews.it/primo-piano/scelta-nazionale-michael-jordan-video-messi-ronaldinho-dribbling-assist-interesse-milan-karetsas-623063",
-      "source": "milannews.it",
-      "date": "2026-07-09T12:00:09+00:00",
-      "summary": "After Gonçalo Ramos and Mario Gila, Ruben Amorim has also asked for a level reinforcement for the attacking midfield."
     },
     {
       "id": "ae2c55e13978",
@@ -114,44 +266,12 @@
       "summary": "Luka Modric looks likely to remain at Milan, according to Fabrizio Romano, and meanwhile, a..."
     },
     {
-      "id": "51e621d7902c",
-      "title": "Letizia: \"For years AC Milan fans thought Cardinale was a voiceless puppet. Now he is a real owner\"",
-      "url": "https://www.milannews.it/news/letizia-per-anni-i-milanisti-hanno-pensato-che-cardinale-fosse-una-marionetta-senza-voce-623011",
-      "source": "milannews.it",
-      "date": "2026-07-09T11:48:49+00:00",
-      "summary": "Francesco Letizia, journalist, expressed himself thus during his editorial on Sportitalia on the words of Gerry Cardinale in the conference: \"To date, the real purchase of the summer has been made by Milan."
-    },
-    {
-      "id": "0ef02a48fe68",
-      "title": "Sala and Comotto's Italy U19 team fails to qualify for the U20 World Cup",
-      "url": "https://www.milannews.it/news/mondiali-under-20-italia-sfuma-sogno-qualificazione-danimarca-rigori-622988",
-      "source": "milannews.it",
-      "date": "2026-07-09T11:36:41+00:00",
-      "summary": "(ANSA) - ROME, JULY 08 - The journey of the Under 19 national team led by coach Alberto Bollini in the final phase of the European category championship, underway in Wales, ends with a bitter defeat."
-    },
-    {
       "id": "d0dc7d3607ff",
       "title": "“Would have become a Rossonero” – why Fran Garcia could have moved to Milan this summer",
       "url": "https://sempremilan.com/why-fran-garcia-could-have-moved-milan",
       "source": "sempremilan.com",
       "date": "2026-07-09T11:30:00+00:00",
       "summary": "This summer, there have been plenty of changes and without them, AC Milan may have made a signing for the future from Real Madrid. It is clear that the changes this summer have altered the plans for the mercato. Of course, there are some overlapping targets. However, Massimiliano Allegri’s continuan"
-    },
-    {
-      "id": "3bc133d504d1",
-      "title": "Pedullà announces: \"Napoli lost Gila because of Conte\"",
-      "url": "https://www.milannews.it/calciomercato-milan/pedulla-annuncia-il-napoli-perso-gila-colpa-conte-623013",
-      "source": "milannews.it",
-      "date": "2026-07-09T11:24:06+00:00",
-      "summary": "Alfredo Pedullà, journalist and market expert, expressed himself as follows during his editorial on Sportitalia on the Napoli transfer market: \"Napoli is about to lose both priority objectives in the transfer market (Gila ..."
-    },
-    {
-      "id": "2ddafccbce12",
-      "title": "Zapelloni: \"It makes you wonder where Cardinale was when in January he didn't open the cash register for Allegri at the top of the table\"",
-      "url": "https://www.milannews.it/news/zapelloni-viene-chiedersi-cardinale-gennaio-apri-cassa-allegri-testa-classifica-623062",
-      "source": "milannews.it",
-      "date": "2026-07-09T11:12:32+00:00",
-      "summary": "Umberto Zapelloni, journalist, expressed himself as follows in Il Foglio commenting on the press conference of Amorim and Cardinale: \"Whoever sat in that armchair in recent years had never been accompanied by Jerry Cardinale on ..."
     },
     {
       "id": "9f6f94177b1d",
@@ -162,36 +282,12 @@
       "summary": "{rsn-live-v2}"
     },
     {
-      "id": "de82e0cb0ffc",
-      "title": "Quarrel with a fan after Verona-Milan: 12 month suspension for Orban. But he will be able to continue playing",
-      "url": "https://www.milannews.it/news/lite-tifoso-verona-milan-daspo-12-orban-potra-continuare-giocare-623049",
-      "source": "milannews.it",
-      "date": "2026-07-09T11:00:06+00:00",
-      "summary": "According to what was reported by L'Arena, an authoritative Verona newspaper, Gift Orban suffered a twelve-month suspension due to the argument with a Gialloblu fan in the parking area adjacent to the \"Masprone\" building, at the end ..."
-    },
-    {
       "id": "105fff315059",
       "title": "CorSport: Modric ‘closer than ever’ to renewal – why the Croatian can still be key for Milan",
       "url": "https://sempremilan.com/modric-closer-than-ever-renewal-why-croatian-key",
       "source": "sempremilan.com",
       "date": "2026-07-09T11:00:00+00:00",
       "summary": "Yesterday, Ruben Amorim reiterated how important Luka Modric would be to AC Milan if he renewed his deal, making a deal seem closer than ever. When someone publicly speaks out about their admiration for you, it has to feel good and it has to mean something. So, when Ruben Amorim was asked about Modr"
-    },
-    {
-      "id": "c837e7b3c3e1",
-      "title": "Future Modric, Romano: \"He will most likely stay at Milan\"",
-      "url": "https://www.milannews.it/calciomercato-milan/modric-romano-con-probabilita-restera-milan-623043",
-      "source": "milannews.it",
-      "date": "2026-07-09T10:49:49+00:00",
-      "summary": "Fabrizio Romano, in a video published on his YouTube channel, told this background on the Milan transfer market: \"Fran Garcia, left back, moved to Betis from Real Madrid in the last few hours for three million euros more..."
-    },
-    {
-      "id": "9b2b2bb81910",
-      "title": "Milan, Amorim has asked for an attacking midfielder/winger: here are the characteristics he will have to have",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-amorim-chiesto-trequartista-ala-caratteristiche-623037",
-      "source": "milannews.it",
-      "date": "2026-07-09T10:37:09+00:00",
-      "summary": "After Gonçalo Ramos in attack and Mario Gila in defense, Ruben Amorim has now asked for a reinforcement in the attacking midfield where he wants an attacking midfielder/winger suited to his game."
     },
     {
       "id": "0fe86954ac26",
@@ -202,44 +298,12 @@
       "summary": "Massimo Calvelli is the CEO of AC Milan, replacing Giorgio Furlani, and he will have plenty of power at the club. Indeed, the CEO is one of the most prominent figures at any football club, they are responsible for making decisions and keeping everything moving smoothly. However, Calvelli feels more "
     },
     {
-      "id": "5c787a2bbe75",
-      "title": "USA out of the World Cup. Pulisic: \"I wanted to give much more. Thanks to everyone for the support\"",
-      "url": "https://www.milannews.it/news/usa-mondiale-pulisic-volevo-dare-piu-grazia-supporto-623047",
-      "source": "milannews.it",
-      "date": "2026-07-09T10:25:48+00:00",
-      "summary": "The United States World Cup ended in the round of 16 against Belgium who won with a clear 4-1."
-    },
-    {
-      "id": "f476be787f91",
-      "title": "Atta-Fiorentina: deal worth 30 million fixed part plus bonuses",
-      "url": "https://www.milannews.it/news/atta-fiorentina-affare-30-fissa-bonus-623048",
-      "source": "milannews.it",
-      "date": "2026-07-09T10:13:10+00:00",
-      "summary": "New details arrive on the transfer of Arthur Atta from Udinese to Fiorentina: as reported by Fabrizio Romano on"
-    },
-    {
-      "id": "cf631839cee6",
-      "title": "Like Gila the world: so Milan can be ferocious on the market when they want",
-      "url": "https://www.milannews.it/primo-piano/gila-mondo-milan-vuole-sa-feroce-mercato-622913",
-      "source": "milannews.it",
-      "date": "2026-07-09T10:00:00+00:00",
-      "summary": "Milan's summer transfer market seems to have (finally) taken a suitable and concrete direction."
-    },
-    {
       "id": "5a64aaf90422",
       "title": "LaLazioSiamoNoi: Gila confirms Lazio exit outside training ground – “In the next few days”",
       "url": "https://sempremilan.com/gila-confirms-lazio-exit-training-ground",
       "source": "sempremilan.com",
       "date": "2026-07-09T10:00:00+00:00",
       "summary": "It had already been confirmed that AC Milan would sign Mario Gila this summer, and now the defender has also stated as much. Fabrizio Romano giving the ‘Here We Go’ stamp is enough for a transfer to be confirmed nowadays and Gila’s arrived earlier this week. However, if that was not enough, Milan ef"
-    },
-    {
-      "id": "3638c5c8c3c9",
-      "title": "Milan transfer market, Romano reveals: \"If the old management had remained, Fran Garcia would have arrived from Real Madrid\"",
-      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-romano-rivela-se-rimasta-vecchia-dirigenza-arrivato-fran-garcia-real-madrid-623042",
-      "source": "milannews.it",
-      "date": "2026-07-09T09:48:54+00:00",
-      "summary": "Fabrizio Romano, in a video published on his YouTube channel, told this background on the Milan transfer market: \"Fran Garcia, left back, moved to Betis from Real Madrid in the last few hours for three million euros more..."
     },
     {
       "id": "c06fdaa40d96",
@@ -314,30 +378,6 @@
       "summary": "This summer, AC Milan will sign another central defender and there are plenty of options for them to look at, as reports suggest. It has been a mad few weeks for Milan. A €75 million deal for Goncalo Ramos was shortly followed by a €30m move for Mario Gila, all whilst no sacrifices have been […]\nThe"
     },
     {
-      "id": "af6567e97944",
-      "title": "Amorim states Chukwueze, Cisse and Comotto will be part of the squad for pre-season: “Gives us alternatives”",
-      "url": "https://sempremilan.com/amorim-states-chukwueze-cisse-comotto-part-of-squad",
-      "source": "sempremilan.com",
-      "date": "2026-07-08T16:40:00+00:00",
-      "summary": "In pre-season, certain players will be given chances to impress Ruben Amorim and they could even become key players for AC Milan. Ahead of the new season, a lot has been said about Amorim’s desire to assess everyone at the club. Indeed, he wants to get a complete view of the squad, including those w"
-    },
-    {
-      "id": "8e764cec0556",
-      "title": "CM: ‘Let’s sign Alajbegovic’ – Ibrahimovic endorses signing to Cardinale again during World Cup",
-      "url": "https://sempremilan.com/ibrahimovic-endorses-alajbegovic-signing-cardinale",
-      "source": "sempremilan.com",
-      "date": "2026-07-08T16:00:00+00:00",
-      "summary": "AC Milan are being pushed to sign Kerim Alajbegovic this summer by Zlatan Ibrahimovic, who has been vocally impressed by the talent. With a striker and central defender through the door, Ruben Amorim is requesting that Milan now focus on signing an attacking midfielder. Indeed, he sees this as the n"
-    },
-    {
-      "id": "baced2e17dc8",
-      "title": "Jashari hooked after 45 minutes in unfamiliar position: Murat Yakin’s usage confuses",
-      "url": "https://sempremilan.com/jashari-hooked-45-minutes-in-unfamiliar-position",
-      "source": "sempremilan.com",
-      "date": "2026-07-08T15:20:00+00:00",
-      "summary": "AC Milan saw another of their players proceed in the World Cup last night as Switzerland advanced to the Final eight.  During this tournament, Ardon Jashari has barely been used. Indeed, the Swiss midfielder was given less than 10 minutes at the start and since then, he has been forced to watch from"
-    },
-    {
       "id": "96615f52a2c7",
       "title": "What Amorim learned from Manchester United ‘mistakes’, Allegri criticism and Mourinho",
       "url": "https://football-italia.net/amorim-manchester-united-allegri-mourinho/",
@@ -354,14 +394,6 @@
       "summary": "Ruben Amorim assures ‘perfect’ Christian Pulisic and Luka Modric will be key players in his..."
     },
     {
-      "id": "c8f8c94af74a",
-      "title": "MN: Milan complete double swoop for Lazio duo with Calvani signing – the figures of the deal",
-      "url": "https://sempremilan.com/milan-double-swoop-lazio-duo-calvani-signing",
-      "source": "sempremilan.com",
-      "date": "2026-07-08T14:40:00+00:00",
-      "summary": "It seems AC Milan will also sign Lorenzo Calvani from Lazio this week, with the young Italian joining in a deal separate from Mario Gila’s. In recent days, there have been suggestions about how Milan and Lazio would reach the same figure for the transfer of Gila and Calvani’s name was mentioned. Ind"
-    },
-    {
       "id": "431aa6e7e6d1",
       "title": "Amorim: Milan’s new transfer strategy and why club spent record fee on Ramos",
       "url": "https://football-italia.net/amorim-why-milan-spent-record-fee-on-ramos/",
@@ -376,14 +408,6 @@
       "source": "football-italia.net",
       "date": "2026-07-08T13:42:29+00:00",
       "summary": "Milan owner Gerry Cardinale has introduced new head coach Ruben Amorim in front of the..."
-    },
-    {
-      "id": "0048e9cd0bb0",
-      "title": "Cardinale welcomes Amorim to Milan, discusses reshuffling and new strategy: “Bring Milan back”",
-      "url": "https://sempremilan.com/cardinale-welcomes-amorim-milan-management-reshuffling",
-      "source": "sempremilan.com",
-      "date": "2026-07-08T13:16:14+00:00",
-      "summary": "Gerry Cardinale, today, discussed the arrival of Ruben Amorim at AC Milan and how the club will move forward. In recent years, Cardinale has not been the most popular figure amongst Milan supporters. However, he has begun to be closer to the club and there has been a noticeable shift in the momentum"
     },
     {
       "id": "9b9b9e274017",
@@ -456,30 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-07-07T13:22:15+00:00",
       "summary": "Ruben Amorim has arrived at Milan’s training centre and has posed for a series of..."
-    },
-    {
-      "id": "9f7576141325",
-      "title": "Juventus set to appoint ex-Milan and Roma director Massara as new Head of Football",
-      "url": "https://football-italia.net/juventus-appoint-massara-head-of-football/",
-      "source": "football-italia.net",
-      "date": "2026-07-07T08:57:00+00:00",
-      "summary": "Former Milan and Roma director Frederic Massara is set to be appointed Juventus’ new Head..."
-    },
-    {
-      "id": "c7d2648e594d",
-      "title": "Lazio want €30m for Gila as Milan see first bid rejected",
-      "url": "https://football-italia.net/lazio-want-30m-for-gila-as-milan-rejected/",
-      "source": "football-italia.net",
-      "date": "2026-07-06T19:25:00+00:00",
-      "summary": "Milan’s pursuit of Mario Gila has hit an early snag, with Lazio rejecting the Rossoneri’s..."
-    },
-    {
-      "id": "66c68f257f06",
-      "title": "Pirlo on Italy World Cup absence: ‘It’s a disaster, but it’s what we deserve’",
-      "url": "https://football-italia.net/pirlo-on-italys-world-cup-absence-disaster/",
-      "source": "football-italia.net",
-      "date": "2026-07-06T18:02:00+00:00",
-      "summary": "Andrea Pirlo has not held back on Italy’s continued absence from the World Cup, branding..."
     }
   ]
 }
