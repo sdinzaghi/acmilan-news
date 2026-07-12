@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2026-07-12T05:55:41.941426+00:00",
+  "lastUpdated": "2026-07-12T08:14:11.367199+00:00",
   "articles": [
+    {
+      "id": "412f958abf3d",
+      "title": "F.Galli: \"Tomori is leaving, another defender could be a necessity\"",
+      "url": "https://www.milannews.it/news/f-galli-tomori-uscita-difensore-necessita-623300",
+      "source": "milannews.it",
+      "date": "2026-07-12T08:12:46+00:00",
+      "summary": "Milan has already closed two transfer market deals, covering themselves in the role of attacker and defender with a spend of over 100 million euros."
+    },
+    {
+      "id": "c804fed2b94a",
+      "title": "Leao leads the list of transferables: he is not the only one. Also on sale Tomori, Loftus and many others",
+      "url": "https://www.milannews.it/primo-piano/leao-guida-lista-cedibili-unico-vendita-tomori-loftus-tanti-623314",
+      "source": "milannews.it",
+      "date": "2026-07-12T08:00:00+00:00",
+      "summary": "If you opened the \"transfer list\" file of the Milan transfer team, the first name on the list would undoubtedly be that of Rafael Leao."
+    },
+    {
+      "id": "6a509cdd4799",
+      "title": "Gallery: ‘Maldini yes’, ‘New technical director’ – Today’s front pages in Italy",
+      "url": "https://sempremilan.com/gallery-maldini-yes-director-papers-italy",
+      "source": "sempremilan.com",
+      "date": "2026-07-12T08:00:00+00:00",
+      "summary": "Paolo Maldini has been named the new technical director of the Italian Federation, which the newspapers made sure to highlight on the front pages this morning.  After naming Giovanni Malagò as the new president of the FIGC, the Italian Football Federation, the next step was to find a technical direc"
+    },
+    {
+      "id": "c13881c1a983",
+      "title": "Not just Leao, Tuttosport headlines: \"A Milan with suitcase in hand\"",
+      "url": "https://www.milannews.it/rassegna-stampa/leao-tuttosport-titola-un-milan-valigia-mano-623287",
+      "source": "milannews.it",
+      "date": "2026-07-12T07:48:00+00:00",
+      "summary": "The adventure of Rafael Leao at Milan seems to have come to the end."
+    },
+    {
+      "id": "bb4123f83bf8",
+      "title": "The QS headline: \"Rabiot, Milan dilemma. But Amorim is waiting for him\"",
+      "url": "https://www.milannews.it/rassegna-stampa/qs-titola-rabiot-dilemma-milan-amorim-aspetta-623294",
+      "source": "milannews.it",
+      "date": "2026-07-12T07:36:08+00:00",
+      "summary": "At the end of the World Cup there will be several issues to resolve for Milan: one of these is undoubtedly the future of Adrien Rabiot with the Rossoneri team, after he arrived on the gong last summer..."
+    },
+    {
+      "id": "f1aedf7c150a",
+      "title": "Milan, Amorim estimates Mazraoui: to date there are no ongoing negotiations",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-amorim-stima-mazraoui-trattative-corso-623309",
+      "source": "milannews.it",
+      "date": "2026-07-12T07:24:17+00:00",
+      "summary": "Morocco was eliminated by France in the quarter-finals of the North American World Cup: the adventure of the African team is over and its ranks also include Noussari Ma as one of the most important players..."
+    },
+    {
+      "id": "28f295bdc338",
+      "title": "F.Galli convinced: \"Gila perfect for Amorm's game idea\"",
+      "url": "https://www.milannews.it/rassegna-stampa/f-galli-convinto-gila-perfetto-idea-gioco-amorm-623297",
+      "source": "milannews.it",
+      "date": "2026-07-12T07:12:10+00:00",
+      "summary": "On Friday, Milan made the arrival of Mario Gila official."
+    },
+    {
+      "id": "10b7237bb4e0",
+      "title": "Milan against Inter on the transfer market, Tuttosport: \"It's a derby for Guela Doué\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-inter-mercato-tuttosport-e-derby-guela-doue-623290",
+      "source": "milannews.it",
+      "date": "2026-07-12T07:00:15+00:00",
+      "summary": "There is no negotiating session without a transfer derby between Milan and Inter."
+    },
+    {
+      "id": "b74048ad8962",
+      "title": "Rabiot-Milan, CorSport writes: \"The mother tries to reassure Amorim\"",
+      "url": "https://www.milannews.it/rassegna-stampa/rabiot-milan-corsport-scrive-la-mamma-prova-tranquillizzare-amorim-623292",
+      "source": "milannews.it",
+      "date": "2026-07-12T06:48:10+00:00",
+      "summary": "Adrien Rabiot could be at the center of transfer chatter over the course of this summer too."
+    },
+    {
+      "id": "923046c20cf7",
+      "title": "Maldini and Leonardo for Italy, the Gazzetta: \"Comrades and friends between the field and the market\"",
+      "url": "https://www.milannews.it/rassegna-stampa/maldini-leonardo-italia-gazzetta-compagni-amici-campo-mercato-623293",
+      "source": "milannews.it",
+      "date": "2026-07-12T06:36:39+00:00",
+      "summary": "The official news arrived yesterday, accompanied by a surprise element that somehow Giovanni Malagò, FIGC president, had announced: Paolo Maldini is the new technical director of the Italian national football team ..."
+    },
+    {
+      "id": "1380ec5d973b",
+      "title": "Juventus likes Ederson, Tuttosport: \"It can be done under Milan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/ederson-piace-juventus-tuttosport-si-milan-623289",
+      "source": "milannews.it",
+      "date": "2026-07-12T06:24:52+00:00",
+      "summary": "Before the World Cup began and even for almost its entire duration, Ederson was betrothed to Manchester United."
+    },
+    {
+      "id": "e0995eda1cee",
+      "title": "Maldini dominates the front pages of the sports newspapers on newsstands today",
+      "url": "https://www.milannews.it/rassegna-stampa/maldini-domina-prime-pagine-quotidiani-sportivi-edicola-623286",
+      "source": "milannews.it",
+      "date": "2026-07-12T06:12:02+00:00",
+      "summary": "Paolo Maldini has been appointed technical director of the Italian national football team: it is official since yesterday."
+    },
+    {
+      "id": "32f73072168f",
+      "title": "Future Rabiot: conversation with the mother. Cardinal says no, Amorim dotes on Adrien",
+      "url": "https://www.milannews.it/primo-piano/rabiot-colloquio-madre-cardinale-no-amorim-stavede-adrien-623291",
+      "source": "milannews.it",
+      "date": "2026-07-12T06:00:12+00:00",
+      "summary": "The future of Adrien Rabiot will only be decided once the World Cup is over."
+    },
     {
       "id": "4bb8fbe3d7b2",
       "title": "Jashari's dream of Switzerland ends: Messi goes to the semi-finals",
@@ -15,7 +119,7 @@
       "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-milannews-personalizza-notizie-623283",
       "source": "milannews.it",
       "date": "2026-07-12T05:25:41+00:00",
-      "summary": "Google has introduced a new feature intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
+      "summary": "Google has introduced a new function intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
     },
     {
       "id": "c5fb1205ee31",
@@ -64,102 +168,6 @@
       "source": "milannews.it",
       "date": "2026-07-11T22:11:07+00:00",
       "summary": "As reported by the SkySport website, the summer friendlies of Inter, Juventus, Milan and Napoli will be broadcast in July and August, as well as Atalanta's Conference League play-off."
-    },
-    {
-      "id": "041655df12c3",
-      "title": "4 more purchases. Question to Cardinale",
-      "url": "https://www.milannews.it/editoriale/4-acquisti-domanda-cardinale-623243",
-      "source": "milannews.it",
-      "date": "2026-07-11T22:00:01+00:00",
-      "summary": "It is the eve of the meeting, the eve of the start of work on the pitch, the one who will ultimately be the supreme judge of Milan's season."
-    },
-    {
-      "id": "0df3a0ccc795",
-      "title": "Carnevali removes a former AC Milan player from Juventus' list of targets",
-      "url": "https://www.milannews.it/news/carnevali-costruiremo-juve-arrivare-alto-623193",
-      "source": "milannews.it",
-      "date": "2026-07-11T21:48:48+00:00",
-      "summary": "(ANSA) - TURIN, JULY 10 - \"We must build a team that must try to obtain important results and get as high as possible, knowing the difficulties that may arise, where we started from and where we must ..."
-    },
-    {
-      "id": "2b0dd67a8a4f",
-      "title": "VIDEO - Milan, Chukwueze is back. The Nigerian trained to be ready for the rally",
-      "url": "https://www.milannews.it/news/video-milan-chukwueze-nigeriano-allenato-arrivare-pronto-raduno-623269",
-      "source": "milannews.it",
-      "date": "2026-07-11T21:36:41+00:00",
-      "summary": "\"There are players who will stay with us, like Chukwueze. We need players who can play one-on-one.\""
-    },
-    {
-      "id": "756bc85b0035",
-      "title": "Milan, Gila is the twelfth Rossoneri to choose the number 34 shirt",
-      "url": "https://www.milannews.it/news/milan-gila-dodicesimo-rossonero-scegliere-maglia-numero-34-623272",
-      "source": "milannews.it",
-      "date": "2026-07-11T21:24:24+00:00",
-      "summary": "It's official, Mario Gila is a new AC Milan player. The Spaniard arrives from Lazio for 27."
-    },
-    {
-      "id": "96372f7e9153",
-      "title": "Balotelli: \"I recently read a lot of criticism about Allegri but when I had him at Milan I liked him a lot\"",
-      "url": "https://www.milannews.it/news/balotelli-recentemente-letto-tante-critiche-allegri-milan-piaciuto-tantissimo-623259",
-      "source": "milannews.it",
-      "date": "2026-07-11T21:11:21+00:00",
-      "summary": "Mario Balotelli, an Italian center forward who has been playing in Saudi Arabia with Al Ittifaq for a few months, gave an interview to SportMediaset."
-    },
-    {
-      "id": "8114fb0a9740",
-      "title": "Malagò: \"Maldini and Leonardo are two sides of the same coin\"",
-      "url": "https://www.milannews.it/news/malago-maldini-leonardo-facce-medaglia-623270",
-      "source": "milannews.it",
-      "date": "2026-07-11T20:59:33+00:00",
-      "summary": "Speaking on TG2 Post, the president of the FIGC Giovanni Malagò talked about the Federation's new technical project with Paolo Maldini as the new DT and Leonardo as Advisor."
-    },
-    {
-      "id": "63080aa5110c",
-      "title": "Nkunku, what a physique. The Frenchman at the top of the rally, can he relaunch himself with Amorim?",
-      "url": "https://www.milannews.it/news/nkunku-fisico-francese-top-raduno-rilanciarsi-amorim-623258",
-      "source": "milannews.it",
-      "date": "2026-07-11T20:48:21+00:00",
-      "summary": "Summer is undoubtedly the time of optimism and hope. After dark months, the Rossoneri fans can, it seems, breathe for a moment again."
-    },
-    {
-      "id": "4e4fa37e6afd",
-      "title": "World Cup: South Africa player Adams dies at the age of 25",
-      "url": "https://www.milannews.it/news/mondiali-morto-giocatore-sudafrica-adams-25-623246",
-      "source": "milannews.it",
-      "date": "2026-07-11T20:35:42+00:00",
-      "summary": "(ANSA) - ROME, JULY 11 - South African midfielder Jayden Adams, 25, who played all the group matches for his country at the World Cup, was found lifeless this morning."
-    },
-    {
-      "id": "c89d796099f2",
-      "title": "Milan, watch out. Borussia Dortmund is making a concrete move on Karetsas",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-occhio-karetsas-muove-borussia-dortmund-concreto-623265",
-      "source": "milannews.it",
-      "date": "2026-07-11T20:23:38+00:00",
-      "summary": "Among Milan's next transfer targets there is certainly also a new attacking midfielder to be included in the battery of offensive players available to Ruben Amorim in his 3-4-2-1."
-    },
-    {
-      "id": "15f30b87cb35",
-      "title": "Order: \"Jashari can't play two-man. Cardinal? Now he does it\"",
-      "url": "https://www.milannews.it/news/ordine-jashari-giocare-due-cardinale-lui-623231",
-      "source": "milannews.it",
-      "date": "2026-07-11T20:11:18+00:00",
-      "summary": "Speaking on QSVS, the well-known journalist Franco Ordine spoke about Milan's midfield in view of next season and Gerry Cardinale's change of direction. These are his words."
-    },
-    {
-      "id": "d30d75fdb447",
-      "title": "Udinese, there is no peace with Zaniolo. The playmaker misses training",
-      "url": "https://www.milannews.it/l-avversario/udinese-pace-zaniolo-fantasista-diserta-allenamenti-623261",
-      "source": "milannews.it",
-      "date": "2026-07-11T20:00:33+00:00",
-      "summary": "That Nicolò Zaniolo is a player who needs to be managed with particular attention is certainly nothing new. What happened in the last few hours, however, took everyone by surprise."
-    },
-    {
-      "id": "b53b40c1ef11",
-      "title": "From Milan to Italy, after eight years Maldini and Leonardo are still together",
-      "url": "https://www.milannews.it/news/milan-italia-maldini-leonardo-623260",
-      "source": "milannews.it",
-      "date": "2026-07-11T19:47:20+00:00",
-      "summary": "Leonardo and Maldini, Maldini and Leonardo. The management history of the duo becomes intertwined again."
     },
     {
       "id": "30a742ad1d85",
@@ -376,14 +384,6 @@
       "source": "sempremilan.com",
       "date": "2026-07-11T09:00:00+00:00",
       "summary": "Adrien Rabiot’s future appears likely to be at AC Milan despite all of the talk swirling about a potential exit after one year. Among the current Milan players Ruben Amorim wants to count on is undoubtedly Rabiot, who is currently playing for France at the World Cup. He is a starter under Didier Des"
-    },
-    {
-      "id": "84afbfd99016",
-      "title": "Romano: ‘No negotiations’ – Leao links played down as Spurs focus on Liverpool winger",
-      "url": "https://sempremilan.com/leao-links-spurs-focus-gakpo-liverpool",
-      "source": "sempremilan.com",
-      "date": "2026-07-11T08:30:00+00:00",
-      "summary": "In recent days there has been talk of a potential Premier League move for Rafael Leao, more specifically to Spurs. Leao’s future remains a bit of an enigma. After the 2025-26 season ended and before the World Cup begun, he publicly declared that he sees his time at Milan to be over after seven years"
     },
     {
       "id": "bc972f7fb1e6",
