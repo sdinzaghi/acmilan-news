@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-07-14T18:00:45.196692+00:00",
+  "lastUpdated": "2026-07-14T19:39:04.458627+00:00",
   "articles": [
+    {
+      "id": "9f374ba87261",
+      "title": "Amelia on Milan: \"The first days of work bring a lot of enthusiasm, but then consistency is needed\"",
+      "url": "https://www.milannews.it/news/amelia-milan-i-primi-lavoro-portano-entusiasmo-vuole-costanza-623524",
+      "source": "milannews.it",
+      "date": "2026-07-14T19:24:58+00:00",
+      "summary": "A new phase has begun for Milan. With the meeting that started yesterday, preparations for the 2026/27 season officially began, the first under the leadership of Ruben Amorim."
+    },
+    {
+      "id": "c892cbd83066",
+      "title": "Senegal discovers after 10 years that the national team doctor is a gynecologist",
+      "url": "https://www.milannews.it/news/mondiali-senegal-medico-nazionale-ginecologo-623470",
+      "source": "milannews.it",
+      "date": "2026-07-14T19:12:33+00:00",
+      "summary": "(ANSA) - ROME, JULY 14 - \"The national team doctor, Doctor Fedior, who has been with us for 10 years, is a gynecologist by training. The players were not convinced of him, and in fact he does not have the academic profile necessary to follow them\"."
+    },
+    {
+      "id": "302cd735195a",
+      "title": "Pasotto: \"Chukwueze outside the 4 would solve a problem and allocate the transfer budget to other areas\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pasotto-chukwueze-esterno-4-risolverebbe-problema-destinerebbe-budget-mercato-zone-623477",
+      "source": "milannews.it",
+      "date": "2026-07-14T19:00:15+00:00",
+      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on the future of Samuel Chukwueze, the Nigerian striker, at Milan: \"Amorim considers him functional."
+    },
+    {
+      "id": "2fba108e06b7",
+      "title": "Order: \"Comparisons with Berlusconi are impossible, but it is perhaps reasonable to hope to do better than the last disappointing four years\"",
+      "url": "https://www.milannews.it/news/ordine-impossibili-paragoni-berlusconi-ultimi-deludenti-lecito-sperare-623482",
+      "source": "milannews.it",
+      "date": "2026-07-14T18:48:20+00:00",
+      "summary": "Franco Ordine, journalist, expressed himself in the Corriere dello Sport as follows, commenting on Cardinale's exploits in these first days of the season: \"Silvio Berlusconi was the first to introduce the use of the helicopter in the ..."
+    },
+    {
+      "id": "94d746d668bb",
+      "title": "The official line-ups of France-Spain: Rabiot and Maignan as starters",
+      "url": "https://www.milannews.it/news/formazioni-francia-spagna-rabiot-maignan-titolare-blues-623555",
+      "source": "milannews.it",
+      "date": "2026-07-14T18:36:34+00:00",
+      "summary": "The World Cup semi-final between Didier Deschamps' France and Luis de La Fuente's Spain will soon be staged at the AT&T Stadium in Atlanta. Below are the official lineups of the two national teams."
+    },
+    {
+      "id": "d47b3e3b821f",
+      "title": "Sky: ‘In the same situation’ – Modric’s renewal could lead to Jashari giving up on Milan dream",
+      "url": "https://sempremilan.com/modric-renewal-could-lead-jashari-give-up-milan",
+      "source": "sempremilan.com",
+      "date": "2026-07-14T18:30:00+00:00",
+      "summary": "This summer, Ardon Jashari could leave AC Milan if Luka Modric extends his contract, as reports are suggesting… Jashari has not had it easy at Milan; it cannot be stated otherwise. Ultimately, the Swiss has seen his minutes drop substantially – compared to his time in Belgium – and whilst an injury "
+    },
+    {
+      "id": "1fc41c844ca5",
+      "title": "Milan Women, Anna Longobardi goes on loan to Lazio",
+      "url": "https://www.milannews.it/milan-femminile/milan-femminile-anna-longobardi-passa-prestito-lazio-623516",
+      "source": "milannews.it",
+      "date": "2026-07-14T18:24:40+00:00",
+      "summary": "Striker Anna Longobardi leaves Milan Femminile and goes on loan to Lazio until the end of the season."
+    },
+    {
+      "id": "58b475241750",
+      "title": "Report unhappy Zaniolo offered to Milan during Udinese salary dispute",
+      "url": "https://football-italia.net/report-unhappy-zaniolo-offered-milan-udinese/",
+      "source": "football-italia.net",
+      "date": "2026-07-14T18:17:29+00:00",
+      "summary": "Nicolò Zaniolo is refusing to train with Udinese after failing to agree a new contract,..."
+    },
+    {
+      "id": "43f2a4fa0fec",
+      "title": "MN - Musah, Leed at the window: Amorim will evaluate it in July",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-musah-leed-finestra-amorim-valutera-mese-luglio-623554",
+      "source": "milannews.it",
+      "date": "2026-07-14T18:12:26+00:00",
+      "summary": "Over the last few days, Leeds United have carried out some surveys for Yunus Musah, a profile that is very popular with various clubs around Europe."
+    },
+    {
+      "id": "b8ee0b7369c2",
+      "title": "Cardinale has moved on to the facts: but it is not enough to heal the wounded trust of AC Milan fans",
+      "url": "https://www.milannews.it/primo-piano/cardinale-passato-fatti-sanare-fiducia-ferita-tifoso-milanista-623545",
+      "source": "milannews.it",
+      "date": "2026-07-14T18:00:00+00:00",
+      "summary": "Despite the words in the wind, the poor results, the contradictions and all the other components that have ensnared a large part of the Milan fans against the owner Gerry Cardinale in the last four seasons, today we cannot ..."
+    },
     {
       "id": "853cb6e49686",
       "title": "Transfer round-up: Roma meeting for West Ham winger, Aston Villa warn Juventus",
@@ -16,6 +96,14 @@
       "source": "sempremilan.com",
       "date": "2026-07-14T18:00:00+00:00",
       "summary": "Samuel Chukwueze could secretly be a really important player for AC Milan this summer; he will certainly be one to watch… If you had been told this summer that Chukwueze could hold the keys, you’d probably laugh. However, here we are in July with the keys firmly grasped by the Nigerian. Indeed, he o"
+    },
+    {
+      "id": "1c8f83c10e58",
+      "title": "The bulk of the market. Cardinale changes his tune, now he will be the only one responsible. Two interesting young people",
+      "url": "https://www.milannews.it/editoriale/grosso-mercato-cardinale-cambia-registro-l-unico-responsabile-giovani-interessanti-623463",
+      "source": "milannews.it",
+      "date": "2026-07-14T17:58:45+00:00",
+      "summary": "Last week we were at Ruben Amorim's presentation conference. Alongside the new coach, for the first time since he became owner of Milan, was Gerry Cardinale."
     },
     {
       "id": "c02b4283f78d",
@@ -67,7 +155,7 @@
     },
     {
       "id": "36166e625c9a",
-      "title": "World Cup, England-Argentina tonight: Mariani fourth official",
+      "title": "World Cup, England-Argentina tomorrow: Mariani fourth official",
       "url": "https://www.milannews.it/news/mondiali-inghilterra-argentina-arbitra-elfath-mariani-ufficiale-623512",
       "source": "milannews.it",
       "date": "2026-07-14T17:12:00+00:00",
@@ -146,52 +234,12 @@
       "summary": "A year ago, Milan began the season with Massimiliano Allegri at the helm, full of hopes and good intentions for the future."
     },
     {
-      "id": "28be1aaa4683",
-      "title": "2026 World Cup winning odds, Milan players' chances of winning",
-      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-vincente-mondiali-2026-chance-vittoria-giocatori-milan-615714",
-      "source": "milannews.it",
-      "date": "2026-07-14T16:17:00+00:00",
-      "summary": "The 2026 World Cup has reached the semi-finals and the group of Rossoneri still in the running has narrowed. Only Mike Maignan and Adrien Rabiot remain inside with France."
-    },
-    {
-      "id": "f4d94a2f74ff",
-      "title": "Coni president Buonfiglio is sure that Maldini was the best possible choice",
-      "url": "https://www.milannews.it/news/buonfiglio-maldini-persona-spessore-miglior-scelta-possibile-623458",
-      "source": "milannews.it",
-      "date": "2026-07-14T16:12:56+00:00",
-      "summary": "(ANSA) - ROME, JULY 13 - \"President Malagò couldn't have made a better choice. Maldini is a person of great importance\"."
-    },
-    {
-      "id": "be94fee97348",
-      "title": "MN - Zeroli, Milan Future passage solution: polls of A, B and foreign clubs",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-zeroli-milan-soluzione-passaggio-sondaggi-club-a-b-esteri-623544",
-      "source": "milannews.it",
-      "date": "2026-07-14T16:00:00+00:00",
-      "summary": "Kevin Zeroli, after a season spent on loan first at Monza and then at Juve Stabia not without physical complications, returned to home base for the start of the new season."
-    },
-    {
       "id": "e4780d2b250f",
-      "title": "Vitiello: Maignan, Pulisic, Gimenez and Leao – when Milan will see World Cup stars return",
+      "title": "Maignan, Pulisic, Gimenez and Leao: When Milan will see World Cup stars return",
       "url": "https://sempremilan.com/when-milan-will-see-world-cup-stars-return",
       "source": "sempremilan.com",
       "date": "2026-07-14T16:00:00+00:00",
       "summary": "AC Milan have several players away on international duty currently and they will expect their returns later this month, in most cases. Unfortunately – or fortunately, depending on how you view it – the World Cup is heading to its conclusion and that means we are getting even closer to the return of "
-    },
-    {
-      "id": "05a13743e58e",
-      "title": "Abodi: \"Maldini is a guarantee, he has history on and off the pitch\"",
-      "url": "https://www.milannews.it/news/calcio-abodi-maldini-garanzia-storia-campo-623506",
-      "source": "milannews.it",
-      "date": "2026-07-14T15:48:00+00:00",
-      "summary": "(ANSA) - ROME, JULY 14 - \"Maldini is the right man? Certainly yes, he has a history on and off the pitch, so it's a guarantee. Everything will have to be put to the test of facts, but we support the national team unconditionally."
-    },
-    {
-      "id": "262b4cd7891d",
-      "title": "Benfica, Antonio Silva refuses renewal. And if Milan were to sell Tomori...",
-      "url": "https://www.milannews.it/calciomercato-milan/benfica-antonio-silva-rifiuta-rinnovo-milan-dovesse-cedere-tomori-623521",
-      "source": "milannews.it",
-      "date": "2026-07-14T15:36:44+00:00",
-      "summary": "Regarding Milan's next transfer moves, Claudio Raimondi reports to SportMediaset that Ruben Amorim wants to strengthen the left flank, where Pervis Estupinan is out, who has ended up in Aston Vi's sights..."
     },
     {
       "id": "c01c797cd80d",
@@ -200,38 +248,6 @@
       "source": "sempremilan.com",
       "date": "2026-07-14T15:30:00+00:00",
       "summary": "This summer, Francesco Camarda is expected to be assessed by AC Milan’s new head coach, but interest remains high in him. Ruben Amorim has made it clear that several young Milan players are to be assessed this summer. Indeed, Christian Comotto, Andrej Kostic and Alphadjo Cisse are just a few of the "
-    },
-    {
-      "id": "dd3d35be0493",
-      "title": "Milan Futuro, the arrival of Edoardo Zanaga born in 2008 is official",
-      "url": "https://www.milannews.it/milan-futuro/milan-futuro-ufficiale-arrivo-classe-2008-edoardo-zanaga-623543",
-      "source": "milannews.it",
-      "date": "2026-07-14T15:24:51+00:00",
-      "summary": "New blow for Milan Futuro, after that of Evan Guernier: the Rossoneri club has closed a purchase that in recent days was almost taken for granted."
-    },
-    {
-      "id": "b8f2ad13357d",
-      "title": "MN - Renewal of Camarda and Comotto, interlocutory meeting. We are working towards a deadline of 2031",
-      "url": "https://www.milannews.it/primo-piano/mn-rinnovo-camarda-comotto-incontro-interlocutorio-lavora-scadenza-2031-623542",
-      "source": "milannews.it",
-      "date": "2026-07-14T15:17:20+00:00",
-      "summary": "The meeting that took place at Casa Milan this afternoon between the Rossoneri management and the agents of Camarda and Comotto, the editorial staff of MilanNews.it learns, was interlocutory."
-    },
-    {
-      "id": "5a003dddc167",
-      "title": "Passerini: \"There is someone who responds directly with his face to the decisions that are being made now\"",
-      "url": "https://www.milannews.it/news/passerini-c-risponde-maniera-diretta-decisioni-vengono-prese-ora-623481",
-      "source": "milannews.it",
-      "date": "2026-07-14T15:13:08+00:00",
-      "summary": "Carlos Passerini, journalist from Corriere della Sera, expressed himself as follows on his YouTube channel, commenting on Milan's first day of work: \"The first day of school everyone is beautiful and good, but the school year is..."
-    },
-    {
-      "id": "abd384d61c19",
-      "title": "VIDEO MN - Riso: \"Rossonero future for Camarda and Comotto\"",
-      "url": "https://www.milannews.it/calciomercato-milan/video-mn-riso-futuro-rossonero-camarda-comotto-623540",
-      "source": "milannews.it",
-      "date": "2026-07-14T15:06:52+00:00",
-      "summary": "After about an hour, the meeting of agents Beppe Riso and Marianna Mecacci at Casa Milan for the future of Christian Comotto and Francesco Camarda ended."
     },
     {
       "id": "68c574d0247d",
@@ -362,14 +378,6 @@
       "summary": "Adrien Rabiot is fired up and ready to go ahead of the World Cup semi-final between France and Spain tonight. The midfielder was interviewed by La Gazzetta dello Sport before the match in Dallas, which kicks off at 21:00 CEST. Rabiot has featured in every match so far in the tournament apart from th"
     },
     {
-      "id": "2723ae142926",
-      "title": "Reports: Antonio Silva rejects Benfica renewal offer – Milan could try again",
-      "url": "https://sempremilan.com/antonio-silva-rejects-benfica-milan",
-      "source": "sempremilan.com",
-      "date": "2026-07-14T08:30:00+00:00",
-      "summary": "AC Milan could reignite their pursuit of Antonio Silva after the defender communicated his decision to Benfica regarding a renewal. Things seemed to be moving quickly towards Milan signing Silva late in June, until Benfica put up a wall amid hopes of convincing him to sign a new contract extension. "
-    },
-    {
       "id": "2021a44df9bc",
       "title": "Milan use Chukwueze in new role, similar to Amad Diallo at Manchester United",
       "url": "https://football-italia.net/milan-chukwueze-amad-diallo-manchester-united/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-07-12T09:54:28+00:00",
       "summary": "Paolo Maldini has officially been appointed as the new technical director of the FIGC (Italian..."
-    },
-    {
-      "id": "2185791c7ad2",
-      "title": "Rabiot meets with mother-agent Veronique as Napoli circle around Milan midfielder",
-      "url": "https://football-italia.net/rabiot-meets-agent-weighing-up-milan-future/",
-      "source": "football-italia.net",
-      "date": "2026-07-12T09:23:57+00:00",
-      "summary": "Adrien Rabiot has sat down for a meeting with his mother-agent Veronique in the United..."
     }
   ]
 }
