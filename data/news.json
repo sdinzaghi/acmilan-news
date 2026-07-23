@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-07-23T04:13:27.889350+00:00",
+  "lastUpdated": "2026-07-23T07:31:08.711859+00:00",
   "articles": [
+    {
+      "id": "fc7adf000959",
+      "title": "More and more present. La Gazzetta: \"Cardinal at Milanello\"",
+      "url": "https://www.milannews.it/rassegna-stampa/presente-gazzetta-cardinale-milanello-624329",
+      "source": "milannews.it",
+      "date": "2026-07-23T07:12:10+00:00",
+      "summary": "As of July 23, Gerry Cardinale is keeping his word, or in any case, he is following up on what was said and leaked by the club regarding his increasingly central and present role in Milan."
+    },
+    {
+      "id": "19bbe3999468",
+      "title": "Zero offers. Tuttosport: \"Leao cap on the Milan market\"",
+      "url": "https://www.milannews.it/rassegna-stampa/zero-offerte-tuttosport-tappo-leao-mercato-milan-624328",
+      "source": "milannews.it",
+      "date": "2026-07-23T07:00:00+00:00",
+      "summary": "After the end of the championship and during the World Cup, Rafael Leao reiterated his desire to leave Milan to try a new career experience."
+    },
+    {
+      "id": "3856387a3401",
+      "title": "Pressing from the Bundesliga. CorSport: \"Karetsas, Dortmund raises their offer\"",
+      "url": "https://www.milannews.it/rassegna-stampa/pressing-bundesliga-corsport-karetsas-dortmund-alza-offerta-624327",
+      "source": "milannews.it",
+      "date": "2026-07-23T06:48:58+00:00",
+      "summary": "Konstantinos Karetsas remains one of Milan's main transfer targets for this summer's transfer market."
+    },
+    {
+      "id": "7f83a303631b",
+      "title": "The new skin of the Devil. La Gazzetta: \"Milan with the real nine. Jashari at Modric, Chukwu at full range\"",
+      "url": "https://www.milannews.it/rassegna-stampa/nuova-pelle-diavolo-gazzetta-milan-vero-nove-jashari-modric-chukwu-fascia-624326",
+      "source": "milannews.it",
+      "date": "2026-07-23T06:36:16+00:00",
+      "summary": "With the arrival of Ruben Amorim, Milan is changing its face day after day."
+    },
+    {
+      "id": "7b78da03bc49",
+      "title": "Milanello the mecca for forty year olds. Tuttosport: \"Modric, the last Rossoneri highlander\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milanello-mecca-quarantenni-tuttosport-modric-highlander-rossonero-624325",
+      "source": "milannews.it",
+      "date": "2026-07-23T06:24:00+00:00",
+      "summary": "Luka Modric will renew his contract with Milan for another season."
+    },
+    {
+      "id": "7f50d4119098",
+      "title": "Gila enthusiastic about the new team. CorSport: \"Here for Amorim\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gila-entusiasta-nuova-squadra-corsport-qui-amorim-624324",
+      "source": "milannews.it",
+      "date": "2026-07-23T06:12:00+00:00",
+      "summary": "Yesterday Mario Gila officially presented himself to the press as the new AC Milan player."
+    },
+    {
+      "id": "6e38f8300244",
+      "title": "Leao returns to Milan after saying goodbye: the market does not respond",
+      "url": "https://www.milannews.it/primo-piano/leao-torna-milan-salutato-mercato-risponde-624330",
+      "source": "milannews.it",
+      "date": "2026-07-23T06:00:00+00:00",
+      "summary": "Rafael Leao will join AC Milan on tour in Perth on July 29th after the holidays following the World Cup."
+    },
+    {
+      "id": "3410f0d04a29",
+      "title": "Summer friendly programme: on Saturday it's Celtic's turn then we'll fly to Perth",
+      "url": "https://www.milannews.it/news/programma-amichevoli-estive-sabato-tocca-celtic-volera-perth-624302",
+      "source": "milannews.it",
+      "date": "2026-07-23T05:48:00+00:00",
+      "summary": "After the first defeat against the boys of Milan Futuro, from Saturday Amorim's Rossoneri will begin a real tour de force of matches which will help the team to get minutes in their legs and put into practice the first concepts of the new ..."
+    },
+    {
+      "id": "8c019f057e31",
+      "title": "Season tickets, phase 3 starts tomorrow afternoon: all the info you need to know",
+      "url": "https://www.milannews.it/news/abbonamenti-domani-pomeriggio-via-fase-3-info-sapere-624301",
+      "source": "milannews.it",
+      "date": "2026-07-23T05:36:00+00:00",
+      "summary": "AC Milan presents the 2026/27 Season Ticket Campaign, which will start on Tuesday 7 July. For the new season, the Club renews its commitment to fans with an even more flexible and intuitive offer."
+    },
+    {
+      "id": "18947b97e889",
+      "title": "Europa League, when will the group matches be? Dates, times and format of the competition",
+      "url": "https://www.milannews.it/news/europa-league-partite-girone-date-orari-format-competizione-624300",
+      "source": "milannews.it",
+      "date": "2026-07-23T05:24:00+00:00",
+      "summary": "Europa League, all the info on the preliminaries, dates and format of the 2026/2027 competition."
+    },
+    {
+      "id": "17b3c7f831c7",
+      "title": "Rossoneri on the pitch on Saturday afternoon, the season starts with Celtic: all the info on the match",
+      "url": "https://www.milannews.it/news/sabato-pomeriggio-rossoneri-campo-stagione-celtic-info-partita-624299",
+      "source": "milannews.it",
+      "date": "2026-07-23T05:12:00+00:00",
+      "summary": "After the family friendly played in Milanello between the young boys of Milan Futuro and those called up to the Raduno for the start of the new season, the Rossoneri will start with the first real international friendly at the weekend ..."
+    },
+    {
+      "id": "8a897f30671f",
+      "title": "Cardinal expected today at Milanello: training, transfer market and much more",
+      "url": "https://www.milannews.it/news/cardinale-milanello-allenamento-mercato-624310",
+      "source": "milannews.it",
+      "date": "2026-07-23T05:00:00+00:00",
+      "summary": "As reported by Sky Sport colleague Peppe Di Stefano, today Cardinale, the Rossoneri patron, will fly to Milanello after having been there on 12 July for the day of the Gathering."
+    },
     {
       "id": "81b358ebf0fc",
       "title": "Tomorrow Cardinale will be at Milanello: the reason for his presence lies in his proximity to the team and the transfer market",
@@ -64,102 +160,6 @@
       "source": "milannews.it",
       "date": "2026-07-22T21:36:31+00:00",
       "summary": "(ANSA) - MILAN, JULY 22 - Rafael Leao trains on holiday, publishing a photo of a treadmill in an Instagram story, while he knows he will have to decide his fate soon."
-    },
-    {
-      "id": "4d46f41f9483",
-      "title": "Visnadi: \"Considering that there is someone who thought he could have played as a striker, it's not that I don't see Leao in the 3-4-2-1\"",
-      "url": "https://www.milannews.it/news/visnadi-considerando-c-e-pensato-potuto-punta-vedo-leao-3-4-2-1-624251",
-      "source": "milannews.it",
-      "date": "2026-07-22T21:24:24+00:00",
-      "summary": "Gianni Visnadi, journalist, expressed himself as follows on Radio Radio on the future of Leao, the striker leaving Milan: \"I believe that Mendes will be able to do something."
-    },
-    {
-      "id": "2a6676125309",
-      "title": "Gimenez a \"burden\" For Milan? The Mexican short of goals (and offers to leave)",
-      "url": "https://www.milannews.it/news/gimenez-peso-milan-messicano-corto-gol-e-offerte-624267",
-      "source": "milannews.it",
-      "date": "2026-07-22T21:12:00+00:00",
-      "summary": "In a summer which, at least for now, seems to have straightened out for Milan from the point of view of the transfer market, the surreal situation between Santiago Gimenez and Milan takes center stage."
-    },
-    {
-      "id": "2aa59ae1426c",
-      "title": "After Comotto it's Camarda's turn: tomorrow he will sign the renewal with Milan",
-      "url": "https://www.milannews.it/calciomercato-milan/comotto-tocca-camarda-domani-firmera-rinnovo-milan-624309",
-      "source": "milannews.it",
-      "date": "2026-07-22T21:00:37+00:00",
-      "summary": "As we told you in recent days, this week at Milan would have been the week of renewals (READ HERE)."
-    },
-    {
-      "id": "36e657e142e9",
-      "title": "Juventus are pressing on Kessie: the former Milan player is the chosen one for the midfield",
-      "url": "https://www.milannews.it/gli-ex/juventus-pressing-kessie-milan-prescelto-centrocampo-624241",
-      "source": "milannews.it",
-      "date": "2026-07-22T20:48:15+00:00",
-      "summary": "Juventus accelerates for Franck Kessié, identified as the main reinforcement for the midfielder also in light of the less than optimal conditions of Khéphren Thura. The Bianconeri are in contact with the former Milan's agent and would have at ..."
-    },
-    {
-      "id": "96403bc82e2d",
-      "title": "W.Sabatini on Amorim: \"Everyone has paid their dues at Manchester. It's a gamble\"",
-      "url": "https://www.milannews.it/news/w-sabatini-amorim-al-manchester-pagato-dazio-scommessa-624276",
-      "source": "milannews.it",
-      "date": "2026-07-22T20:36:49+00:00",
-      "summary": "Ruben Amorim finds himself a great challenge this season, probably at the crossroads of his career."
-    },
-    {
-      "id": "9fee3a841a2f",
-      "title": "Ochoa retires at 41 after six World Cups with Mexico (and a move to Serie A)",
-      "url": "https://www.milannews.it/news/calcio-ochoa-ritira-41-mondiali-messico-624229",
-      "source": "milannews.it",
-      "date": "2026-07-22T20:24:57+00:00",
-      "summary": "(ANSA) - MEXICO CITY, JULY 21 - Mexican goalkeeper Guillermo \"Memo\" Ochoa has announced his retirement from football at the age of 41, ending a career that lasted over twenty years and culminated this year with his participation in his ..."
-    },
-    {
-      "id": "6b898593ddd3",
-      "title": "Leao-Milan, we are almost at the goodbyes: Rafa's assessment with the Rossoneri",
-      "url": "https://www.milannews.it/news/leao-milan-saluti-bilancio-rafa-624274",
-      "source": "milannews.it",
-      "date": "2026-07-22T20:12:00+00:00",
-      "summary": "Rafa Leao seems to be increasingly distant from Milan and therefore from Mister Ruben Amorim's project. The Rossoneri number ten would in fact be at the center of a transfer derby between Galatasaray and Fenerbache."
-    },
-    {
-      "id": "456173e05711",
-      "title": "Gila on the first days at Milanello: \"You see guys with a lot of potential\"",
-      "url": "https://www.milannews.it/news/gila-primi-milanello-si-vedono-ragazzi-tantissimo-potenziale-624291",
-      "source": "milannews.it",
-      "date": "2026-07-22T20:00:00+00:00",
-      "summary": "In these first training days for Milan in the new season, under the orders of the new coach Ruben Amorim, there are several young footballers joined the first team: partly because the Portuguese coach ..."
-    },
-    {
-      "id": "b408bbaa5028",
-      "title": "It infuriated Mourinho and the Roma fans like never before: referee Taylor withdrew",
-      "url": "https://www.milannews.it/news/ritira-arbitro-taylor-infuriare-mourinho-romanisti-624232",
-      "source": "milannews.it",
-      "date": "2026-07-22T19:48:15+00:00",
-      "summary": "(ANSA) - ROME, JULY 21 - English referee Anthony Taylor puts down his whistle after having had his last showing at the World Cup in the USA, Mexico and Canada."
-    },
-    {
-      "id": "b66a8c0e9315",
-      "title": "W.Sabatini: \"Leao? I would hug him. Some players need to be pampered. It's rare\"",
-      "url": "https://www.milannews.it/news/w-sabatini-leao-abbraccerei-giocatori-vanno-coccolati-raro-624277",
-      "source": "milannews.it",
-      "date": "2026-07-22T19:36:27+00:00",
-      "summary": "Rafael Leao's fate is still to be written but the only thing that seems certain is that, one way or another, the Portuguese will leave Milan after seven seasons together."
-    },
-    {
-      "id": "28d7e28acbce",
-      "title": "Chelsea's most expensive move: taken Morgan Rogers for 137 million",
-      "url": "https://www.milannews.it/news/colpo-costoso-chelsea-preso-morgan-rogers-137-624247",
-      "source": "milannews.it",
-      "date": "2026-07-22T19:24:30+00:00",
-      "summary": "(ANSA) - ROME, JULY 22 - Chelsea transfer coup."
-    },
-    {
-      "id": "24cbbe16277d",
-      "title": "Allegri, his adventure in Naples gets off to a bad start: he loses 3-1 against Arezzo in Dimaro. But for superstitious Neapolitans…",
-      "url": "https://www.milannews.it/l-avversario/allegri-avventura-napoli-perde-3-1-l-arezzo-dimaro-napoletani-scaramantici-624296",
-      "source": "milannews.it",
-      "date": "2026-07-22T19:12:25+00:00",
-      "summary": "The first defeat of the season arrives for Massimiliano Allegri's new Naples team who today, in Dimaro, the place where the Neapolitans' training camp is taking place, hosted Arezzo, a team that this year will play in the Serie ..."
     },
     {
       "id": "656a3b7bd6e3",
