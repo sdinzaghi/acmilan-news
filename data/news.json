@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-07-24T21:00:15.993083+00:00",
+  "lastUpdated": "2026-07-24T22:12:55.870642+00:00",
   "articles": [
+    {
+      "id": "625b65fb975e",
+      "title": "Galli's advance - What Amorim's Milan will be like: organisation, thinking and principles",
+      "url": "https://www.milannews.it/editoriale/galli-milan-amorim-organizzazione-pensiero-principi-624494",
+      "source": "milannews.it",
+      "date": "2026-07-24T22:00:01+00:00",
+      "summary": "To understand the idea of ​​football and the style of play that coach Amorim will ask of the Rossoneri eleven, I want to start from what we saw in the first friendly match played behind closed doors in Mila..."
+    },
+    {
+      "id": "99f91fa68cc7",
+      "title": "Google \"Favorite sources\", add MilanNews now and personalize your news",
+      "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-milannews-personalizza-notizie-624504",
+      "source": "milannews.it",
+      "date": "2026-07-24T21:48:19+00:00",
+      "summary": "Google has introduced a new feature intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
+    },
+    {
+      "id": "a2b98478116c",
+      "title": "For Cairo, an 8-10 year plan is too long: he hopes for important decisions in 100 days",
+      "url": "https://www.milannews.it/news/cairo-programmi-figc-buoni-tempi-lunghi-624413",
+      "source": "milannews.it",
+      "date": "2026-07-24T21:36:02+00:00",
+      "summary": "(ANSA) - MILAN, JULY 23 - \"I already knew Malagò, Maldini and Leonardo made a very good impression on me."
+    },
+    {
+      "id": "657bb95fa79e",
+      "title": "MN - Cuomo on the transfer market: \"Inter, Juve, Naples and Roma blocked. Milan has moved and is now evaluating what to do\"",
+      "url": "https://www.milannews.it/news/mn-cuomo-calciomercato-inter-juve-napoli-roma-bloccate-milan-mosso-valutando-farsi-624441",
+      "source": "milannews.it",
+      "date": "2026-07-24T21:23:04+00:00",
+      "summary": "Michael Cuomo, journalist, spoke to MilanNews.it to delve deeper into some issues related to AC Milan current affairs."
+    },
+    {
+      "id": "2667f274464c",
+      "title": "Rumors of an agreement reached for Pirlo coach, no announcements expected in the FIGC for now",
+      "url": "https://www.milannews.it/news/voci-accordo-raggiunto-pirlo-ct-figc-previsti-annunci-624497",
+      "source": "milannews.it",
+      "date": "2026-07-24T21:11:28+00:00",
+      "summary": "(ANSA) - ROME, JULY 24 - After the negative outcome of the attempt for Pep Guardiola, Andrea Pirlo's landing on the national team bench has accelerated on the sites, where the news of an agreement reached with the former ..."
+    },
+    {
+      "id": "360cd7903608",
+      "title": "From Türkiye they confirm: Leao, contacts with Fener and Galatasaray. But no offer to Milan",
+      "url": "https://www.milannews.it/calciomercato-milan/turchia-confermano-leao-contatti-fener-galatasaray-offerta-milan-624495",
+      "source": "milannews.it",
+      "date": "2026-07-24T21:00:35+00:00",
+      "summary": "In recent days (click HERE) we told you how, at the moment, Leao has attracted concrete interest only from Galatasaray and Fenerbahce, even if the two Turkish clubs have not currently presented any official offer to Milan."
+    },
     {
       "id": "77a800def105",
       "title": "Bargiggia has no doubts: \"Leao will have to settle for Turkey, it's all in Mendes' hands\"",
@@ -114,28 +162,12 @@
       "summary": "(ANSA) - ROME, JULY 23 - Barcelona has announced the hiring of winger Karim Adeyemi from Borussia Dortmund, without specifying the transfer fee."
     },
     {
-      "id": "afae454aa532",
-      "title": "Not just Gimenez: Gattuso is also thinking of Musah for his Lazio",
-      "url": "https://www.milannews.it/calciomercato-milan/gimenez-gattuso-pensa-musah-lazio-624448",
-      "source": "milannews.it",
-      "date": "2026-07-24T18:00:22+00:00",
-      "summary": "Gennaro Gattuso is still looking at Milan to complete Lazio."
-    },
-    {
       "id": "af5ae46174fb",
       "title": "Cisse, Comotto, Ossola and more: Ten Milan talents set for Amorim’s preseason test",
       "url": "https://sempremilan.com/ten-milan-talents-amorim-preseason-test",
       "source": "sempremilan.com",
       "date": "2026-07-24T18:00:00+00:00",
       "summary": "Looking down the squad list for the first preseason under Ruben Amorim, there may be some names that are unfamiliar to some. The likes of Matteo Pittarella, Emanuele Borsani, Lorenzo Ossolo, Christian Comotto, Andrej Kostic, Alphadjo Cisse, Emanuele Sala and of course Francesco Camarda are among tho"
-    },
-    {
-      "id": "ee773474209f",
-      "title": "MN - Cuomo: \"We say that there is enthusiasm in Milan, but in recent summers we have experienced a boom market and never a boom championship\"",
-      "url": "https://www.milannews.it/news/mn-cuomo-raccontiamo-entusiasmo-milan-ultime-estati-vissuto-mercato-boom-campionato-boom-624442",
-      "source": "milannews.it",
-      "date": "2026-07-24T17:49:09+00:00",
-      "summary": "Michael Cuomo, journalist, spoke to MilanNews.it to delve deeper into some issues related to AC Milan current affairs."
     },
     {
       "id": "ae569f0e6943",
@@ -146,44 +178,12 @@
       "summary": "There are reports Rafael Leao is ready to turn down Fenerbahce, as he wants to..."
     },
     {
-      "id": "1bc037b056bb",
-      "title": "Fenerbahce is serious about Leao: a five-year deal worth over 10 million is ready",
-      "url": "https://www.milannews.it/calciomercato-milan/fenerbahce-serio-leao-pronto-quinquennale-10-624434",
-      "source": "milannews.it",
-      "date": "2026-07-24T17:37:00+00:00",
-      "summary": "Fenerbahce accelerates for Rafael Leao and prepares a double proposal."
-    },
-    {
-      "id": "e9b4f079b04d",
-      "title": "MN - Leao towards no to Fenerbache: the Portuguese wants the Champions League",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-leao-fenerbache-portoghese-vuole-champions-league-624485",
-      "source": "milannews.it",
-      "date": "2026-07-24T17:34:11+00:00",
-      "summary": "According to what our editorial team has learned, the Portuguese Rafa Leao, who in recent hours has returned to talking about his future, does not seem convinced of the Turkish destination, the Fenerbache side."
-    },
-    {
       "id": "93e42e24930d",
       "title": "CM: Milan want €30m+ from two sales but contrasting demand is an issue",
       "url": "https://sempremilan.com/milan-30m-loftus-cheek-tomori-demand",
       "source": "sempremilan.com",
       "date": "2026-07-24T17:30:00+00:00",
       "summary": "Fikayo Tomori and Ruben Loftus-Cheek are not a part of AC Milan’s plans, but neither are close to sealing an exit either. Tomori and Loftus-Cheek are great friends on and off the pitch, but as Calciomercato.com report they are experiencing their most difficult summer since leaving Chelsea. With thei"
-    },
-    {
-      "id": "a2c0d9fd197d",
-      "title": "Bennacer close to Al Gharafa: two-year contract for the former Milan player",
-      "url": "https://www.milannews.it/news/bennacer-gharafa-contratto-biennale-milan-624477",
-      "source": "milannews.it",
-      "date": "2026-07-24T17:24:00+00:00",
-      "summary": "Milan's summer continues, this time with a modicum of hope and optimism."
-    },
-    {
-      "id": "1082e54c250e",
-      "title": "Milan, another competitor for Alajbegovic: Chelsea are there and serious",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-altra-concorrente-alajbegovic-chelsea-c-e-serio-624484",
-      "source": "milannews.it",
-      "date": "2026-07-24T17:12:54+00:00",
-      "summary": "As transfer market expert Fabrizio Romano reports, the competition for the young Bosnian talent Alajbegovic is intensifying."
     },
     {
       "id": "c53699b3706a",
