@@ -1,9 +1,121 @@
 {
-  "lastUpdated": "2026-07-29T18:05:10.425327+00:00",
+  "lastUpdated": "2026-07-29T20:11:32.595849+00:00",
   "articles": [
     {
+      "id": "12acc1af70b7",
+      "title": "Neymar announces: \"I'm leaving the national team, I've always fought and made history\"",
+      "url": "https://www.milannews.it/dall-estero/neymar-annuncia-lascio-nazionale-lottato-storia-624995",
+      "source": "milannews.it",
+      "date": "2026-07-29T20:00:19+00:00",
+      "summary": "After the World Cup qualification which had thrilled all football fans, regardless of nationality and support, Neymar has decided: he is leaving the national team forever."
+    },
+    {
+      "id": "d0e0f3e0fe5e",
+      "title": "Milan deny legendary captain Baresi has died, denounce false rumours",
+      "url": "https://football-italia.net/milan-deny-legendary-captain-baresi-has-died/",
+      "source": "football-italia.net",
+      "date": "2026-07-29T19:51:21+00:00",
+      "summary": "Milan have been forced to release a statement denying rumours that club legend and honorary..."
+    },
+    {
+      "id": "9619451491ac",
+      "title": "Ibrahimovic believes in Cardinale's project: \"If he managed to bring me to RedBird he can do everything\"",
+      "url": "https://www.milannews.it/news/ibrahimovic-crede-progetto-cardinale-se-riuscito-portare-redbird-riuscire-tutto-625021",
+      "source": "milannews.it",
+      "date": "2026-07-29T19:50:54+00:00",
+      "summary": "Last July 16, Zlatan Ibrahimovic, Senior Advisor of RedBird, was a guest on stage at the WSJ Sports Event, organized by the Wall Street Journal, and spoke thus about his relationship with Gerry Cardinale: \n\nWhat does G ask him about..."
+    },
+    {
+      "id": "9a0784ec572b",
+      "title": "British Prime Minister Burnham against FIFA: \"The World Cup is not for sale\"",
+      "url": "https://www.milannews.it/news/premier-britannico-burnham-fifa-coppa-vendita-625000",
+      "source": "milannews.it",
+      "date": "2026-07-29T19:40:35+00:00",
+      "summary": "(ANSA) - LONDON, JULY 29 - \"Football does not belong to investors, the World Cup is not a product\" to be put on the market."
+    },
+    {
+      "id": "fec12ab1488d",
+      "title": "\"AC Milan denies the false news circulating in recent minutes regarding Franco Baresi\". The Rossoneri club clarifies the Captain's condition",
+      "url": "https://www.milannews.it/primo-piano/ac-milan-smentisce-false-notizie-circolate-minuti-riguardanti-franco-baresi-club-rossonero-chiarezz-625033",
+      "source": "milannews.it",
+      "date": "2026-07-29T19:32:03+00:00",
+      "summary": "With an official statement, Milan clarifies Franco Baresi's health conditions, asking that his privacy be respected.\n\n\"AC Milan denies the false news circulating in recent minutes regarding Franco Baresi."
+    },
+    {
+      "id": "73be4eaa0183",
+      "title": "Cardinale explains why he wanted Ibrahimovic: \"Our team lacked leadership and culture\"",
+      "url": "https://www.milannews.it/news/cardinale-spiega-voluto-ibrahimovic-nella-squadra-mancava-leadership-cultura-625010",
+      "source": "milannews.it",
+      "date": "2026-07-29T19:30:04+00:00",
+      "summary": "Gerry Cardinale, owner of Milan, spoke on July 16th on the stage of the WSJ Sports Event, organized by the Wall Street Journal and released these words on the role of Zlatan Ibrahimovic in RedBird and in Milan: \n\nOn the v..."
+    },
+    {
+      "id": "94fb7fadf2e4",
+      "title": "Marelli: \"The Federal Council has decided to apply two rules in Serie A: here are the ones\"",
+      "url": "https://www.milannews.it/news/marelli-il-federale-deciso-applicare-serie-regole-quali-624985",
+      "source": "milannews.it",
+      "date": "2026-07-29T19:20:02+00:00",
+      "summary": "In the Federal Council which was held yesterday in Rome, whose central and almost monopolizing theme was the issue relating to the resignation of the Maldini-Leonardo couple and the appointment of Mancini and Ranieri as the new faces of ..."
+    },
+    {
+      "id": "dca943b6962f",
+      "title": "Imarisio: \"Maldini wanted the 4-4-2 from the youth team, that's why he signed Pirlo. Malagò didn't find out enough\"",
+      "url": "https://www.milannews.it/news/imarisio-maldini-voleva-4-4-2-giovanili-preso-pirlo-malago-informato-abbastanza-624994",
+      "source": "milannews.it",
+      "date": "2026-07-29T19:10:28+00:00",
+      "summary": "Marco Imarisio, journalist from Corriere della Sera, spoke during the last live broadcast of Tutti Convocati on Radio 24 and spoke about Maldini's idea for the national team. These are his words."
+    },
+    {
+      "id": "262942b2802f",
+      "title": "Pellegatti worried: \"Fenerbahce could turn to Sarr, without Leao's money we're going nowhere\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pellegatti-preoccupato-il-fenerbahce-virare-sarr-soldi-leao-parte-624993",
+      "source": "milannews.it",
+      "date": "2026-07-29T19:00:08+00:00",
+      "summary": "In his Youtube channel, Carlo Pellegatti reported a rumor from England regarding a possible change of goal by Fenerbahce. These are his words."
+    },
+    {
+      "id": "0b63ec20965f",
+      "title": "Ibrahimovic on Cardinale: \"Milan isn't enjoying it yet. You can enjoy it when you win\"",
+      "url": "https://www.milannews.it/news/ibrahimovic-cardinale-non-godendo-milan-puoi-godere-vinci-625020",
+      "source": "milannews.it",
+      "date": "2026-07-29T18:50:58+00:00",
+      "summary": "Last July 16, Zlatan Ibrahimovic, Senior Advisor of RedBird, was a guest together on the stage of the WSJ Sports Event, organized by the Wall Street Journal, and spoke thus about his relationship with Gerry Cardinale: \n\nAbout what ..."
+    },
+    {
+      "id": "d3065c36b66a",
+      "title": "Malagò on the choice of Mancini and Ranieri: \"Donnarumma wrote to me that it was what the team wanted\"",
+      "url": "https://www.milannews.it/news/malago-donnarumma-scritto-volevamo-625031",
+      "source": "milannews.it",
+      "date": "2026-07-29T18:40:40+00:00",
+      "summary": "(ANSA) - ROME, JULY 29 - \"Last night I received a message from Gigio Donnarumma, I think from the honeymoon, and it said: pres, perfect choice, it was what we wanted\"."
+    },
+    {
+      "id": "072af018db82",
+      "title": "Cardinale and the differences between America and Europe: \"European fans believe they own the team and this is something that must be taken very seriously\"",
+      "url": "https://www.milannews.it/news/cardinale-differenze-america-europa-i-tifosi-europei-credono-squadra-seriamente-625009",
+      "source": "milannews.it",
+      "date": "2026-07-29T18:30:16+00:00",
+      "summary": "Gerry Cardinale, owner of Milan, spoke on July 16th on the stage of the WSJ Sports Event, organized by the Wall Street Journal, and released these words on the differences between America and Europe in the entertainment-sports relationship ..."
+    },
+    {
+      "id": "05888343f088",
+      "title": "Ravezzani has no doubts: \"Malagò is worse than Gravina, he has gone from the new that is advancing to the old that is advancing\"",
+      "url": "https://www.milannews.it/news/ravezzani-dubbi-malago-gravina-passato-avanza-vecchio-avanza-624997",
+      "source": "milannews.it",
+      "date": "2026-07-29T18:20:12+00:00",
+      "summary": "In his Youtube channel, the director of Telelombardia Fabio Ravezzani commented on the decision personally taken by Giovanni Malagò on the new coach of the national team. These are his words."
+    },
+    {
+      "id": "19be7dae281e",
+      "title": "Ranieri: \"I want to bring the children back to see Italy at the World Cup\"",
+      "url": "https://www.milannews.it/news/ranieri-voglio-far-tornare-bambini-vedere-italia-mondiale-625027",
+      "source": "milannews.it",
+      "date": "2026-07-29T18:10:20+00:00",
+      "summary": "(ANSA) - ROME, JULY 29 - \"Two things are important to me: making fans fall in love with the national team again, and allowing children to see the national team at the World Cup, such as my 12-year-old nephew\"."
+    },
+    {
       "id": "b12ab1c1e0dd",
-      "title": "MN EXCLUSIVE - Chaka Traorè: \"Grateful to Milan, but I would have liked to play more. It's not true that the club doesn't focus on youngsters, on the contrary! Did it go up in your head after your debut? No, never...\"",
+      "title": "MN EXCLUSIVE - Chaka Traorè: \"Grateful to Milan, but I would have liked to play more. But it's not true that the club doesn't focus on youngsters, on the contrary! Did you get upset after your debut? No, never...\"",
       "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-chaka-traore-grato-milan-voluto-giocare-piu-vero-societa-punta-giovani-anzi-montato-tes-625032",
       "source": "milannews.it",
       "date": "2026-07-29T18:00:00+00:00",
@@ -31,7 +143,7 @@
       "url": "https://www.milannews.it/news/mancini-faro-giocare-italia-tifosi-perdoneranno-625026",
       "source": "milannews.it",
       "date": "2026-07-29T17:40:44+00:00",
-      "summary": "(ANSA) - ROME, JULY 29 - \"I will try to make the national team play so well, so that the fans forgive me\": said Roberto Mancini, new Italy coach, answering a question about the reception of the fans ..."
+      "summary": "(ANSA) - ROME, JULY 29 - \"I will try to make the national team play so well, so that the fans forgive me\": said Roberto Mancini, Italy's new coach, answering a question about the fans' welcome ..."
     },
     {
       "id": "e7e11a01276f",
@@ -82,14 +194,6 @@
       "summary": "(ANSA) - ROME, JULY 28 - With Mancini as coach, Claudio Ranieri also arrives in the national team: the federal president, Giovanni Malago', announced it."
     },
     {
-      "id": "508bdfff6764",
-      "title": "What does Cardinal ask him? Ibra reveals: \"He wants me to be the Zlatan I was on the pitch but in the business environment, without changing\"",
-      "url": "https://www.milannews.it/news/chiede-cardinale-ibra-rivela-vuole-zlatan-campo-nell-ambito-business-cambiare-625018",
-      "source": "milannews.it",
-      "date": "2026-07-29T16:50:36+00:00",
-      "summary": "Last July 16, Zlatan Ibrahimovic, Senior Advisor of RedBird, was a guest together with Gerry Cardinale on stage at the WSJ Sports Event, organized by the Wall Street Journal, and thus spoke about his relationship with the owner of ..."
-    },
-    {
       "id": "069f9b332bfb",
       "title": "Sankhoun Diawara insight: Scouting report, stats, transfer rating and more",
       "url": "https://sempremilan.com/sankhoun-diawara-scouting-report-stats-milan",
@@ -98,76 +202,12 @@
       "summary": "AC Milan announced their third signing of the summer transfer window on Wednesday morning, as Sankhoun Diawara joined from Troyes. Diawara’s arrival might not generate the same excitement as the two previous additions Goncalo Ramos and Mario Gila. This is partly because of the price tag begin a frac"
     },
     {
-      "id": "bbcf1f045b17",
-      "title": "Milan transfer market blocked, Pellegatti is worried: \"Leao is a stopper. If Fenerbahçe dumps him to take Sarr we're ruined\"",
-      "url": "https://www.milannews.it/news/mercato-milan-bloccato-pellegatti-preoccupato-leao-tappo-fenerbahce-molla-prendere-sarr-rovinati-625017",
-      "source": "milannews.it",
-      "date": "2026-07-29T16:38:19+00:00",
-      "summary": "Carlo Pellegatti, speaking on Radio 24 during the program \"Tutti summoned\", commented on the moment of the Milan transfer market which is blocked until Rafael Leao is sold: \"Leao is a t ..."
-    },
-    {
-      "id": "48489e59b835",
-      "title": "Sabatini critical: \"Maldini, you shouldn't do it like that! He personalized his assignment too much\"",
-      "url": "https://www.milannews.it/news/sabatini-critico-maldini-cosi-personalizzato-incarico-624989",
-      "source": "milannews.it",
-      "date": "2026-07-29T16:30:10+00:00",
-      "summary": "Guest on Carlo Pellegatti's Youtube channel, his colleague Sandro Sabatini commented on Maldini's decision to leave the national team after Malagò's refusal to take Pirlo as coach. These are his words."
-    },
-    {
-      "id": "bdeb933d76c0",
-      "title": "Cardinale says: \"After Argentina's victory against England I wrote a message to Amorim and asked him...\"",
-      "url": "https://www.milannews.it/news/cardinale-racconta-dopo-vittoria-dell-argentina-l-inghilterra-scritto-messaggio-amorim-chiesto-625007",
-      "source": "milannews.it",
-      "date": "2026-07-29T16:21:44+00:00",
-      "summary": "Gerry Cardinale, owner of Milan, spoke on July 16th on the stage of the WSJ Sports Event, organized by the Wall Street Journal and released these words on the World Cup which ended a few days ago with the victory ..."
-    },
-    {
-      "id": "5f761b82d579",
-      "title": "VIDEO - The arrival of Leao and Ramos in Milan's training camp in Perth: hugs with teammates and Amorim",
-      "url": "https://www.milannews.it/news/video-arrivo-leao-ramos-ritiro-milan-perth-abbracci-compagni-squadra-amorim-625016",
-      "source": "milannews.it",
-      "date": "2026-07-29T16:10:47+00:00",
-      "summary": "On the Australian evening, the two Portuguese internationals who had a few extra days of vacation after participating in the World Cup with Portugal arrived at Milan's retreat in Perth, namely Rafael Leao and Gonçalo Ramo..."
-    },
-    {
-      "id": "c4389525b2ef",
-      "title": "Ibrahimovic: \"Cardinal will come to victory, 100% sure: he must be strong and patient. I feel humble, I want to learn every day\"",
-      "url": "https://www.milannews.it/primo-piano/ibrahimovic-cardinale-arrivera-vittoria-sicuro-100-forte-paziente-sento-umile-voglio-imparare-giorno-625002",
-      "source": "milannews.it",
-      "date": "2026-07-29T16:00:00+00:00",
-      "summary": "Last July 16, 2026, the Senior Advisor of RedBird, AC Milan's owner fund, Zlatan Ibrahimovic spoke at the WSJ Sports Event, organized by the Wall Stree Journal in the United States."
-    },
-    {
       "id": "f1db10d36e62",
       "title": "CM: Milan plan to sell Fofana and use money to sign Marseille star Amorim has asked for",
       "url": "https://sempremilan.com/milan-sell-fofana-money-hojbjerg-amorim",
       "source": "sempremilan.com",
       "date": "2026-07-29T16:00:00+00:00",
       "summary": "There could yet be some movement in the midfield department before the window closes, even if it isn’t a present priority for AC Milan. Calciomercato.com begin a report by stating that the concepts that Ruben Amorim is trying to bring to Milan represent a clear break from what Massimiliano Allegri a"
-    },
-    {
-      "id": "18296f909422",
-      "title": "Juventus, the Alajbegovic deal is closing: an operation worth over 30 million euros between fixed portion and bonus",
-      "url": "https://www.milannews.it/news/juve-accelera-alajbegovic-operazione-chiusura-625014",
-      "source": "milannews.it",
-      "date": "2026-07-29T15:50:05+00:00",
-      "summary": "(ANSA) - TURIN, JULY 29 - Juventus is pressing on the market accelerator and, after completing the Kolo Muani operation with Paris Saint Germain, they have also moved significantly closer to Kerim Alajbegovic."
-    },
-    {
-      "id": "086b0d4687c1",
-      "title": "MN - Second day of work in Perth for Milan: the report. Leao and Ramos arrived at the retreat",
-      "url": "https://www.milannews.it/news/mn-lavoro-perth-milan-resoconto-arrivati-ritiro-leao-ramos-625015",
-      "source": "milannews.it",
-      "date": "2026-07-29T15:39:39+00:00",
-      "summary": "Second day in Perth for Milan who, as scheduled, held an afternoon training session starting at 3.30pm, at the Sam Kerr Football Centre."
-    },
-    {
-      "id": "e6e6205a2bb5",
-      "title": "Cardinale reveals: \"Originally the idea was that Zlatan would come to work at RedBird, not at Milan\"",
-      "url": "https://www.milannews.it/news/cardinale-rivela-originariamente-l-idea-zlatan-venisse-lavorare-redbird-milan-625006",
-      "source": "milannews.it",
-      "date": "2026-07-29T15:30:36+00:00",
-      "summary": "Gerry Cardinale, owner of Milan, spoke on July 16th on the stage of the WSJ Sports Event, organized by the Wall Street Journal and released these words on the role of Zlatan Ibrahimovic in RedBird and in Milan: \n\nOn the v..."
     },
     {
       "id": "e6867f78f87b",
@@ -186,44 +226,12 @@
       "summary": "Reports in Italy claim that Milan head coach Ruben Amorim has made a specific request..."
     },
     {
-      "id": "20bd464e8cff",
-      "title": "Diawara: \"When they called me to say that Milan wanted me, I didn't even think about it and I immediately accepted\"",
-      "url": "https://www.milannews.it/news/diawara-quando-chiamato-milan-voleva-neanche-pensato-accettato-625012",
-      "source": "milannews.it",
-      "date": "2026-07-29T15:20:23+00:00",
-      "summary": "Sankhoun Diawara, Milan's new player, spoke like this about his arrival at the Rossoneri: \"When they called me to say that Milan wanted me, I didn't even think about it and I immediately accepted."
-    },
-    {
-      "id": "8c93a8aaea00",
-      "title": "Ramazzotti says: \"Amorim, after the sessions, goes almost immediately to analyze the GPS data and the drone footage\"",
-      "url": "https://www.milannews.it/news/ramazzotti-racconta-amorim-sedute-analizzare-dati-gps-riprese-drone-624953",
-      "source": "milannews.it",
-      "date": "2026-07-29T15:10:06+00:00",
-      "summary": "Andrea Ramazzotti, correspondent in Perth for La Gazzetta dello Sport, talked about some behind the scenes of Milan in Australia: \"In Perth it is now winter and Milan has gone from over 30 degrees in Milan to 15, with a cold wind, in ..."
-    },
-    {
       "id": "aa89cbf21719",
       "title": "Cardinale lifts lid on Milan’s revolution, conversations with Amorim and Zlatan’s importance",
       "url": "https://sempremilan.com/cardinale-milan-revolution-amorim-ibrahimovic",
       "source": "sempremilan.com",
       "date": "2026-07-29T15:00:00+00:00",
       "summary": "Gerry Cardinale has spoken about the need to reset the culture at AC Milan, while speaking about Zlatan Ibrahimovic and Ruben Amorim specifically. What appears obvious about Cardinale is that he has radically changed the way that he manages Milan as an asset. He has become far more hands-on this sum"
-    },
-    {
-      "id": "8fb3a7ae4810",
-      "title": "Cardinale explains the Rossoneri revolution: \"We let the facts speak. We have made an incredible amount of changes, we are trying to reset the culture\"",
-      "url": "https://www.milannews.it/news/cardinale-spiega-rivoluzione-rossonera-noi-lasciamo-parlare-fatti-incredibile-quantita-cambi-cercand-625005",
-      "source": "milannews.it",
-      "date": "2026-07-29T14:59:28+00:00",
-      "summary": "Gerry Cardinale, owner of Milan, spoke on July 16th on the stage of the WSJ Sports Event, organized by the Wall Street Journal and released these words on the revolution at Milan and his four years with the Rossoneri: \"N ..."
-    },
-    {
-      "id": "4cd3999be065",
-      "title": "Visnadi: \"Milan are already stronger than last year. Maybe now they will complete the squad with sales\"",
-      "url": "https://www.milannews.it/news/visnadi-il-milan-forte-scorso-completera-rosa-saldi-624966",
-      "source": "milannews.it",
-      "date": "2026-07-29T14:50:56+00:00",
-      "summary": "Gianni Visnadi, journalist, expressed himself on Radio Radio on Milan's transfer market, currently on standby after the first blows: \"Selling is more difficult than buying."
     },
     {
       "id": "3573e551fc90",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-07-26T18:36:10+00:00",
       "summary": "Multiple reports are coming in that Galatasaray and Fenerbahce are preparing their pitches for Rafael..."
-    },
-    {
-      "id": "21f901e5eacc",
-      "title": "Bennacer flies out for new job in Qatar after Milan terminate contract",
-      "url": "https://football-italia.net/bennacer-flies-out-for-new-job-in-qatar-milan/",
-      "source": "football-italia.net",
-      "date": "2026-07-26T17:21:09+00:00",
-      "summary": "Ismael Bennacer’s time at Milan is finally over after confirmation his contract was terminated, allowing..."
     }
   ]
 }
