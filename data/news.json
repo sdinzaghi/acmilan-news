@@ -1,18 +1,194 @@
 {
-  "lastUpdated": "2026-07-31T11:57:51.996813+00:00",
+  "lastUpdated": "2026-07-31T14:14:06.615936+00:00",
   "articles": [
     {
+      "id": "fd9bbf48d62f",
+      "title": "MN EXCLUSIVE - Bruscolotti: \"Baresi is a silent man but with immense class\"",
+      "url": "https://www.milannews.it/podcast-mn/esclusiva-mn-bruscolotti-baresi-silenzioso-classe-immensa-625257",
+      "source": "milannews.it",
+      "date": "2026-07-31T14:00:00+00:00",
+      "summary": "Today is a sad day for Milan and for the world of football: the passing of Franco Baresi, legendary AC Milan captain, in fact, leaves a sense of pain and sadness for a great man and a great footballer who no ..."
+    },
+    {
+      "id": "789c391621e6",
+      "title": "Capello gives tearful Baresi tribute: “A great footballer, but above all, a great person”",
+      "url": "https://sempremilan.com/capello-gives-tearful-baresi-tribute",
+      "source": "sempremilan.com",
+      "date": "2026-07-31T14:00:00+00:00",
+      "summary": "An emotional Fabio Capello has shared his memories of Franco Baresi after the passing of the defender earlier today. Having arrived following Arrigo Sacchi’s illustrious tenure, Capello built upon previous foundations to engineer a historic 58-match Serie A unbeaten streak stretching from 1991 to 19"
+    },
+    {
       "id": "d1cd46ccebc4",
-      "title": "LIVE MN - Franco Baresi, 6 forever. The messages: the tribute to Perth, Maldini as a son, Leao and Cardinale remember the legacy",
+      "title": "LIVE MN - Franco Baresi, 6 forever: funeral in Milan on Tuesday. The messages: the tribute to Perth, Maldini as a son, Leao and Cardinale remember the legacy",
       "url": "https://www.milannews.it/primo-piano/live-mn-addio-franco-baresi-6-sempre-tantissimi-messaggi-maldini-funerale-625228",
       "source": "milannews.it",
-      "date": "2026-07-31T11:51:40+00:00",
+      "date": "2026-07-31T13:58:40+00:00",
       "summary": "Today is a sad day for Milan and for the world of football: the passing of Franco Baresi, legendary AC Milan captain, in fact, leaves a sense of pain and sadness for a great man and a great footballer who is not here..."
     },
     {
-      "id": "950172865828",
+      "id": "bcb707cc49e2",
+      "title": "Massaro greets Baresi: \"For the world you were the Captain, a football legend. For me you were Franco, the friend with whom I shared unforgettable years\"",
+      "url": "https://www.milannews.it/news/massaro-saluta-baresi-per-capitano-leggenda-calcio-franco-amico-condiviso-indimenticabili-625268",
+      "source": "milannews.it",
+      "date": "2026-07-31T13:51:38+00:00",
+      "summary": "Daniele Massaro, Franco Baresi's former teammate at Milan and the national team, published this touching message on Instagram to remember his friend who passed away in the last few hours: \"It's difficult to find the words when he leaves..."
+    },
+    {
+      "id": "d4603059a6a9",
+      "title": "Odds for the next Maignan team, will the captain's doubts have disappeared?",
+      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-prossima-squadra-maignan-calciomercato-milan-624480",
+      "source": "milannews.it",
+      "date": "2026-07-31T13:45:41+00:00",
+      "summary": "Currently on holiday after finishing fourth at the World Cup, Mike Maignan will return to Milanello on August 12th, close to the first matchday of the championship, the 23rd against Torino."
+    },
+    {
+      "id": "6f222a10a94b",
+      "title": "Tonali says Tottenham were ‘the best solution’; ‘Italy move not financially possible’",
+      "url": "https://football-italia.net/tonali-says-tottenham-were-the-best-solution/",
+      "source": "football-italia.net",
+      "date": "2026-07-31T13:42:24+00:00",
+      "summary": "Sandro Tonali has explained the thinking behind his move to Tottenham, describing the switch as..."
+    },
+    {
+      "id": "81d25662f00d",
+      "title": "From Türkiye: first contacts soon between Galatasaray and Milan for Leao. The first offer will be a loan with obligation to buy",
+      "url": "https://www.milannews.it/calciomercato-milan/turchia-breve-primi-contatti-galatasaray-milan-leao-offerta-prestito-obbligo-riscatto-625225",
+      "source": "milannews.it",
+      "date": "2026-07-31T13:40:48+00:00",
+      "summary": "In recent weeks, his management's blitz in Milan has been complicated, there has been a lot of talk about Fenerbahçe's interest in Rafael Leao, who is leaving Milan, but at the moment the situation is, as reported by Milannews."
+    },
+    {
+      "id": "6eafe9619d87",
+      "title": "Tuttosport: Why tension developed between Leao and Cardinale amid strong demands",
+      "url": "https://sempremilan.com/why-tension-leao-cardinale-strong-demands",
+      "source": "sempremilan.com",
+      "date": "2026-07-31T13:30:00+00:00",
+      "summary": "Rafael Leao is no closer to leaving AC Milan despite talks over a move for Turkey, and Gerry Cardinale is not best pleased. According to Tuttosport, a ‘stalemate’ has developed regarding Leao’s potential switch to Turkey. Despite the ongoing negotiations – with Fenerbahçe and Galatasaray interested "
+    },
+    {
+      "id": "e371ee99fac1",
+      "title": "Bournemouth, medical visits and signing for Antonio Silva today",
+      "url": "https://www.milannews.it/news/bournemouth-visite-mediche-firma-antonio-silva-625264",
+      "source": "milannews.it",
+      "date": "2026-07-31T13:29:31+00:00",
+      "summary": "In the next few hours, Antonio Silva will officially become a new Bournemouth player: the defender, who will arrive permanently for 25 million euros plus five million bonuses from Benfica, will support the ..."
+    },
+    {
+      "id": "bd3345493a44",
+      "title": "FIGC, arranged a minute of silence in memory of Franco Baresi before the friendly matches scheduled in Italy today and over the weekend",
+      "url": "https://www.milannews.it/news/figc-disposto-minuto-raccoglimento-memoria-franco-baresi-gare-amichevoli-programma-italia-giornata-o-625267",
+      "source": "milannews.it",
+      "date": "2026-07-31T13:23:24+00:00",
+      "summary": "As the FIGC website writes, President Giovanni Malagò has ordered that before the friendly matches scheduled in Italy today and over the weekend, a minute of silence should be observed to remember Franco B..."
+    },
+    {
+      "id": "7534ed883b3f",
+      "title": "Perugia's condolences for the passing of Baresi and the anecdote of the shirts from 14 October 1979",
+      "url": "https://www.milannews.it/news/cordoglio-perugia-scomparsa-baresi-aneddoto-maglie-14-ottobre-1979-625256",
+      "source": "milannews.it",
+      "date": "2026-07-31T13:22:40+00:00",
+      "summary": "Perugia published a message of condolence on Instagram for the passing of Franco Baresi, also telling a curious anecdote that dates back to the 1979-1980 season: \"AC Perugia Calcio joins the sports world in mourning for the loss ..."
+    },
+    {
+      "id": "30e4c5d71fde",
+      "title": "Collovati: \"Baresi also gave orders to Rivera on the pitch, and I witnessed it. It was easy to see him as a champion\"",
+      "url": "https://www.milannews.it/news/collovati-baresi-campo-dava-ordini-rivera-testimone-facile-vedere-fuoriclasse-625235",
+      "source": "milannews.it",
+      "date": "2026-07-31T13:11:50+00:00",
+      "summary": "Fulvio Collovati, former AC Milan defender, expressed himself as follows on his social media channels, remembering Franco Baresi, the legendary Rossoneri captain who passed away today: \"He was a silent boy, who suffered from the loss as a child..."
+    },
+    {
+      "id": "f6478cb2cba8",
+      "title": "Galliani and the happy moments spent with Baresi: \"I will always carry them with me\"",
+      "url": "https://www.milannews.it/gli-ex/galliani-momenti-felici-vissuti-baresi-li-portero-me-625255",
+      "source": "milannews.it",
+      "date": "2026-07-31T13:00:12+00:00",
+      "summary": "Adriano Galliani, former Rossoneri CEO, has published a new post on Instagram to remember some moments spent at Milan with Franco Baresi, former Rossoneri Captain who passed away in the last few hours: \"Happy and unforgettable moments that will remain for themselves..."
+    },
+    {
+      "id": "151fc5df1ffc",
+      "title": "Watch: Milan squad and staff honour Baresi with silence, applause and laying of shirt",
+      "url": "https://sempremilan.com/milan-squad-staff-honour-baresi-perth",
+      "source": "sempremilan.com",
+      "date": "2026-07-31T13:00:00+00:00",
+      "summary": "AC Milan have shared a video showing the emotional tribute that the squad and staff paid to Franco Baresi after his passing. At the end of today’s training session at the Sam Kerr Football Center in Perth, the Milan team observed a minute of silence in honour of club icon and former captain Baresi, "
+    },
+    {
+      "id": "863b042120aa",
+      "title": "Nesta thanks Baresi: \"Thank you for everything you have given us. Immense Franco, eternal point of reference\"",
+      "url": "https://www.milannews.it/gli-ex/nesta-ringrazia-baresi-grazie-donato-immenso-franco-punto-riferimento-eterno-625250",
+      "source": "milannews.it",
+      "date": "2026-07-31T12:49:40+00:00",
+      "summary": "This morning Franco Baresi passed away at the age of 66 and Alessandro Nesta, former AC Milan defender, wanted to say goodbye to him with this message on Instagram: \"Thank you for everything you gave us."
+    },
+    {
+      "id": "fecefaa9be51",
+      "title": "Pavlovic talks about the first training sessions with Amorim and reveals the tactical project",
+      "url": "https://www.milannews.it/news/pavlovic-racconta-primi-allenamenti-amorim-il-mister-tante-idee-625179",
+      "source": "milannews.it",
+      "date": "2026-07-31T12:40:56+00:00",
+      "summary": "Strahinja Pavlovic, interviewed by the Gazzetta dello Sport in Milan's retreat in Perth, told how the first days of training with the new coach Ruben Amorim are going: \"So far everything is going well and we are working on ..."
+    },
+    {
+      "id": "112e661a4f41",
+      "title": "Scaroni remembers Baresi: \"He was the history of Milan and will continue to be so\"",
+      "url": "https://www.milannews.it/news/scaroni-ricorda-baresi-e-storia-milan-continuera-esserlo-625253",
+      "source": "milannews.it",
+      "date": "2026-07-31T12:32:36+00:00",
+      "summary": "The words also come from Paolo Scaroni, president of Milan, who wanted to remember Franco Baresi, former Rossoneri captain who passed away in the last few hours: \"Franco Baresi was the history of Milan and will continue to be so..."
+    },
+    {
+      "id": "728f4ee8774e",
+      "title": "F. Galli says: \"We were a noisy table. When we exaggerated, Baresi turned, looked at us and we immediately lowered our tone\"",
+      "url": "https://www.milannews.it/news/addio-baresi-f-galli-per-capitano-625229",
+      "source": "milannews.it",
+      "date": "2026-07-31T12:30:27+00:00",
+      "summary": "Filippo Galli, former teammate of Franco Baresi at Milan, spoke to RTL 102."
+    },
+    {
+      "id": "b7b31761bef5",
+      "title": "GdS: Injuries, new additions and a goal drought – Gimenez’s ‘sad story’ pointing one way",
+      "url": "https://sempremilan.com/santiago-gimenez-sad-story-one-way",
+      "source": "sempremilan.com",
+      "date": "2026-07-31T12:30:00+00:00",
+      "summary": "Santiago Gimenez continues to work on recovering from his latest injury setback, all while doubts shroud his future at AC Milan. La Gazzetta dello Sport begin a report by stating: ‘The clouds over Mexico are obscuring Santiago Gimenez’. He played 82 minutes without making an impact at the World Cup,"
+    },
+    {
+      "id": "6b668970a81a",
+      "title": "Franco Baresi funerals: they will be held on Tuesday 4 August at 11am in Sant'Ambrogio",
+      "url": "https://www.milannews.it/news/funerali-franco-baresi-terranno-martedi-4-agosto-11-sant-ambrogio-625252",
+      "source": "milannews.it",
+      "date": "2026-07-31T12:17:00+00:00",
+      "summary": "The funeral of Franco Baresi, the legendary AC Milan captain who passed away today, will be held on Tuesday 4 August in the Basilica of Sant'Ambrogio at 11am."
+    },
+    {
+      "id": "0765d0ce26c1",
+      "title": "Ravezzani: \"Cardinal calling Amorim to talk about Messi is very Forrest Gump\"",
+      "url": "https://www.milannews.it/news/ravezzani-ironizza-cardinale-chiama-amorim-parlare-messi-forrest-625152",
+      "source": "milannews.it",
+      "date": "2026-07-31T12:10:00+00:00",
+      "summary": "Despite a slow start to the season and with many doubts, the Milan transfer market has so far given away Cissè and Gonçalo Ramos and Mario Gila and Diawara, recently made official."
+    },
+    {
+      "id": "b6e244c32bdb",
+      "title": "Fanatik: Galatasaray ‘seriously considering’ Leao move with player open to switch",
+      "url": "https://sempremilan.com/galatasaray-seriously-considering-leao-open-move",
+      "source": "sempremilan.com",
+      "date": "2026-07-31T12:00:00+00:00",
+      "summary": "There continues to be speculation about where Rafael Leao will end up this summer, but the Galatasaray rumours are definitely heating up. Plenty of reports have gone out from Italian and Turkish sources regarding the fate of the winger. After a delegate landed in Italy earlier in the week it seemed "
+    },
+    {
+      "id": "a730a5cce319",
+      "title": "Goodbye Baresi, Pippo Inzaghi: \"May your spirit and charisma be instilled in the hearts of all of us and in the captains of tomorrow\"",
+      "url": "https://www.milannews.it/news/addio-baresi-pippo-inzaghi-che-spirito-carisma-possano-instillarsi-cuore-capitani-domani-625245",
+      "source": "milannews.it",
+      "date": "2026-07-31T11:59:02+00:00",
+      "summary": "Filippo Inzaghi, former AC Milan striker, also wanted to dedicate a thought to Franco Baresi on the day of his passing: \"In Parma, many years ago, I was lucky enough to play against you."
+    },
+    {
+      "id": "ccfebf624797",
       "title": "Sheva's greeting to Baresi: \"A Milan fan. A legend. A wonderful person. An example. The beauty of football. Goodbye dear, eternal, Franco\"",
-      "url": "https://www.milannews.it/gli-ex/saluto-sheva-baresi-un-milanista-leggenda-persona-meravigliosa-esempio-bello-calcio-addio-caro-etern-625249",
+      "url": "https://www.milannews.it/news/saluto-sheva-baresi-un-milanista-leggenda-persona-meravigliosa-esempio-bello-calcio-addio-caro-etern-625249",
       "source": "milannews.it",
       "date": "2026-07-31T11:50:10+00:00",
       "summary": "Andriy Shevchenko, a great former AC Milan striker, could not miss the memory of Franco Baresi, who published this message on Instagram: \"A Milan fan. A legend."
@@ -50,30 +226,6 @@
       "summary": "Today’s Football Italia LIVE Show is entirely dedicated to Milan and Italy legend Franco Baresi,..."
     },
     {
-      "id": "2c7c5dd3a539",
-      "title": "Rivera: \"Did Baresi deserve the Ballon d'Or? I don't know the criteria of those years, but he was the greatest defender ever in Italy\"",
-      "url": "https://www.milannews.it/news/rivera-baresi-meritava-pallone-oro-conosco-criteri-quegli-anni-difensore-italia-625244",
-      "source": "milannews.it",
-      "date": "2026-07-31T11:18:26+00:00",
-      "summary": "Gianni Rivera, AC Milan legend, expressed himself thus remembering Franco Baresi, the Rossoneri captain who passed away today at the age of 66: \"Baresi made his debut very young like I did, even if in a different role."
-    },
-    {
-      "id": "9bf80731202c",
-      "title": "Capello: \"I have difficulty speaking. Franco Baresi must be remembered in the best possible way\"",
-      "url": "https://www.milannews.it/news/capello-ho-difficolta-parlare-franco-baresi-ricordato-bello-possibile-625231",
-      "source": "milannews.it",
-      "date": "2026-07-31T11:10:57+00:00",
-      "summary": "Fabio Capello, in remembering Franco Baresi, who passed away today at the age of 66, on Sky Sport, said he had: \"I even have difficulty speaking. He deserves a great tribute."
-    },
-    {
-      "id": "ea43abb72932",
-      "title": "Barcelona remembers Baresi: \"His leadership, elegance and legacy in the world of football will always remain in the memory of the fans\"",
-      "url": "https://www.milannews.it/news/barcellona-ricorda-baresi-la-leadership-eleganza-eredita-calcio-rimarranno-memoria-tifosi-625238",
-      "source": "milannews.it",
-      "date": "2026-07-31T11:00:41+00:00",
-      "summary": "\"FC Barcelona wishes to express its deepest condolences for the passing of Franco Baresi, legend of Italian football and forever captain of AC Milan."
-    },
-    {
       "id": "ca63f07d41d8",
       "title": "Tonali admits he ‘had decided to come back in Italy’ before Spurs move",
       "url": "https://sempremilan.com/tonali-decided-come-back-italy-spurs",
@@ -90,68 +242,12 @@
       "summary": "Milan players and staff members are training in Perth, Australia, and paid tribute to Franco..."
     },
     {
-      "id": "9c115ac18433",
-      "title": "Infantino pays homage to Franco Baresi: \"Timeless captain and history. It will be infinite\"",
-      "url": "https://www.milannews.it/news/infantino-omaggia-franco-baresi-capitano-storia-tempo-infinito-625234",
-      "source": "milannews.it",
-      "date": "2026-07-31T10:50:05+00:00",
-      "summary": "Gianni Infantino, president of FIFA, expressed himself on social media as follows to remember Franco Baresi, the legendary AC Milan captain who passed away today: \"A timeless captain. A timeless story."
-    },
-    {
-      "id": "e811c3defa12",
-      "title": "VIDEO - In Perth, Milan honors Franco Baresi like this: silence and applause united around his shirt",
-      "url": "https://www.milannews.it/news/video-perth-milan-omaggia-franco-baresi-silenzio-applauso-uniti-attorno-maglia-625239",
-      "source": "milannews.it",
-      "date": "2026-07-31T10:38:56+00:00",
-      "summary": "At the end of today's training at the \"Sam Kerr Football Center\" in Perth, Australia, the AC Milan team observed a minute's silence in honor of the legendary Rossoneri captain Franco Baresi, who passed away today at ..."
-    },
-    {
-      "id": "2b6ce364c8cf",
-      "title": "Inter, Chivu begins the conference by talking about Baresi: \"We have lost a great icon of world football\"",
-      "url": "https://www.milannews.it/news/inter-chivu-omaggia-baresi-tutti-amano-sport-perso-icona-calcio-mondiale-625230",
-      "source": "milannews.it",
-      "date": "2026-07-31T10:30:59+00:00",
-      "summary": "During the first press conference in Hong Kong, Christian Chivu, Inter coach, expressed his condolences for the passing of Franco Baresi: \"We join in the condolences addressed to Franco Baresi's family."
-    },
-    {
       "id": "aec969789fa1",
       "title": "“Values, character and excellence” – Milan owner Cardinale reacts to death of Baresi",
       "url": "https://sempremilan.com/cardinale-reacts-to-death-of-baresi",
       "source": "sempremilan.com",
       "date": "2026-07-31T10:30:00+00:00",
       "summary": "AC Milan owner Gerry Cardinale has reacted to the passing of Franco Baresi, insisting that his legacy ‘will endure forever’. The Milan world is in mourning after the news was announced earlier on Friday that Baresi has passed away at the age of 66 following a battle with ill health. Unsurprisingly, "
-    },
-    {
-      "id": "01896f853fcb",
-      "title": "Hi Franco, symbol of a football that no longer exists",
-      "url": "https://www.milannews.it/news/ciao-franco-simbolo-calcio-625237",
-      "source": "milannews.it",
-      "date": "2026-07-31T10:28:39+00:00",
-      "summary": "An entire life at Milan, from his debut in 1978 until his retirement in 1997. A career as Captain."
-    },
-    {
-      "id": "7935437a3d21",
-      "title": "Carragher: \"I have always considered Franco Baresi the best defender ever and the faithful man par excellence. Rest in peace, Captain\"",
-      "url": "https://www.milannews.it/news/carragher-ho-considerato-franco-baresi-miglior-difensore-fedele-eccellenza-riposa-pace-capitano-625232",
-      "source": "milannews.it",
-      "date": "2026-07-31T10:20:45+00:00",
-      "summary": "Jamie Carragher, former Liverpool defender, expressed himself thus on"
-    },
-    {
-      "id": "f5cf0cb23b26",
-      "title": "Buffon: \"Thanks to Baresi, I understood what it meant to represent football with class, leadership and respect\"",
-      "url": "https://www.milannews.it/news/buffon-grazie-baresi-capito-significasse-rappresentare-calcio-classe-leadership-rispetto-625233",
-      "source": "milannews.it",
-      "date": "2026-07-31T10:12:10+00:00",
-      "summary": "Gianluigi Buffon, former goalkeeper, expressed himself as follows on his social media channels, remembering Franco Baresi, the legendary Milan captain who passed away today: \"On 19 November 1995 I made my debut in Serie A against Milan."
-    },
-    {
-      "id": "f55224363894",
-      "title": "Baresi's greatness also in Pasadena: on the pitch 24 days after the meniscus operation, he canceled Brazil, he took his responsibilities",
-      "url": "https://www.milannews.it/news/grandezza-baresi-pasadena-campo-24-operazione-menisco-annullo-brasile-prese-responsabilita-625226",
-      "source": "milannews.it",
-      "date": "2026-07-31T10:00:37+00:00",
-      "summary": "Gaetano Mocciaro's commentary for TuttomercatoWeb gives us one of the hardest moments of Franco Baresi's career as a footballer, lived, however, with his head held high, as he knew how to do:\n\n\"USA 94, Italy-Brazil World Cup final..."
     },
     {
       "id": "55be0e8eac8f",
@@ -162,28 +258,12 @@
       "summary": "Weeks have passed since the signing of Goncalo Ramos was made official, but he fully began his AC Milan adventure on Thursday. After weeks of links in the build-up to the summer window, Milan concluded the Ramos operation in rapid time by their usual standards. Reports suggest that the Rossoneri wil"
     },
     {
-      "id": "37071c160ba4",
-      "title": "\"Leao had Galatasaray in mind from the beginning, we are seriously considering this transfer\": the latest from Turkey",
-      "url": "https://www.milannews.it/calciomercato-milan/leao-galatasaray-mente-inizio-considerando-seriamente-trasferimento-ultime-turchia-interesse-turchi-625223",
-      "source": "milannews.it",
-      "date": "2026-07-31T09:50:00+00:00",
-      "summary": "According to what Fanatik reports in Turkey, in addition to Fenerbahçe, who have already had contacts and a meeting with Milan in recent days, Galatasaray is also carefully evaluating the situation regarding Rafael Leao who is ..."
-    },
-    {
-      "id": "a5a08fcb126e",
-      "title": "Pavlovic enthusiastic: \"It's incredible to know that Modric will stay with us at least another season. Maybe even longer...\"",
-      "url": "https://www.milannews.it/news/modric-milan-pavlovic-entusiasta-e-incredibile-sapere-restera-almeno-un-altra-stagione-piu-vedremo-625175",
-      "source": "milannews.it",
-      "date": "2026-07-31T09:40:54+00:00",
-      "summary": "Strahinja Pavlovic, interviewed by the Gazzetta dello Sport in Milan's retreat in Perth, commented on Luka Modric's stay at the Rossoneri: \"It's incredible to know that he will stay with us for at least another season..."
-    },
-    {
-      "id": "831c27d67f2d",
-      "title": "Goodbye Baresi, the memory of the Lega Calcio Serie A: \"A model for entire generations\"",
-      "url": "https://www.milannews.it/news/addio-baresi-ricordo-lega-calcio-serie-a-un-modello-intere-generazioni-625213",
-      "source": "milannews.it",
-      "date": "2026-07-31T09:30:03+00:00",
-      "summary": "Through its website, the Lega Calcio Serie A wanted to remember Franco Baresi in this way on the day of his passing: \"Franco Baresi left us at the age of 66."
+      "id": "9f6f94177b1d",
+      "title": "LIVE Done deals tracker: Roma and Juventus welcome new faces",
+      "url": "https://football-italia.net/summer-transfer-window-live-serie-a-done-deals-tracker/",
+      "source": "football-italia.net",
+      "date": "2026-07-31T09:45:35+00:00",
+      "summary": "{rsn-live-v2}"
     },
     {
       "id": "ef89bbb3f1a8",
@@ -194,36 +274,12 @@
       "summary": "Another report has claimed that AC Milan are interested in signing Arsenal forward Ethan Nwaneri, after the news broke on Thursday. Corriere dello Sport confirm that Milan are scanning the international market for a left-footed attacking midfielder who can elevate Ruben Amorim’s options going forwar"
     },
     {
-      "id": "b072a1316691",
-      "title": "When Maradona wore Baresi's red and black 6, saying: \"He is the best as a defender. I will carry the memory forever\"",
-      "url": "https://www.milannews.it/news/maradona-indosso-6-rossonera-baresi-dicendo-e-massimo-difensore-portero-ricordo-sempre-625224",
-      "source": "milannews.it",
-      "date": "2026-07-31T09:25:00+00:00",
-      "summary": "There is an image that, probably more than any other, restores to history the greatness of the defender and footballer Franco Baresi: it is a portrait of Diego Armando Maradona from behind, from behind ..."
-    },
-    {
-      "id": "56560f166b37",
-      "title": "Milan transfer market: Mastantuono idea with a Nico Paz-style formula? The latest",
-      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-idea-mastantuono-formula-nico-paz-ultime-625190",
-      "source": "milannews.it",
-      "date": "2026-07-31T09:20:33+00:00",
-      "summary": "Ruben Amorim has asked for a reinforcement for the attacking midfield where he wants a left-footed player capable of giving quality and imagination to his Milan's attack."
-    },
-    {
       "id": "70ebf193d1ab",
       "title": "Maldini: Baresi was ‘the greatest footballer I ever played alongside’",
       "url": "https://football-italia.net/maldini-baresi-greatest-footballer-ever-played/",
       "source": "football-italia.net",
       "date": "2026-07-31T09:19:47+00:00",
       "summary": "Milan legend Paolo Maldini pays tribute to Franco Baresi: ‘You protected me when I was..."
-    },
-    {
-      "id": "7ce27405a9ca",
-      "title": "Calabria to Baresi: \"I have always dreamed of retracing what you had achieved. I will never forget you\"",
-      "url": "https://www.milannews.it/news/calabria-baresi-ho-sognato-ripercorrere-raggiunto-tu-dimentichero-mai-625222",
-      "source": "milannews.it",
-      "date": "2026-07-31T09:17:34+00:00",
-      "summary": "With a story on Instagram, Davide Calabria, former AC Milan captain, remembered Franco Baresi, the legendary Rossoneri captain who passed away today at the age of 66: \"As a good Brescian and AC Milan fan, like you, I grew up hearing about ..."
     },
     {
       "id": "0a13d2943589",
@@ -330,54 +386,6 @@
       "summary": "After watching Argentina’s win against England, the AC Milan owner asked his coach about implementing a strategy used in the game. The World Cup is a fantastic opportunity for clubs to take inspiration from different tactics used in the tournament. Indeed, you may pick up a new pressing method, a se"
     },
     {
-      "id": "2c142c1fab92",
-      "title": "MN: Leao and Ramos work alone with Gila as Nkunku returns to group training",
-      "url": "https://sempremilan.com/leao-ramos-work-alone-gila-nkunku-returns",
-      "source": "sempremilan.com",
-      "date": "2026-07-30T15:00:00+00:00",
-      "summary": "This morning, AC Milan returned to training in Australia and there were some new faces taking part in sessions. Milan’s pre-season campaign has altered a little bit. The planned session with Perth has now been cancelled – by the ‘opposition’ – and so it will just be a case of working as usual away f"
-    },
-    {
-      "id": "e79b527aa7ea",
-      "title": "CorSera: ‘Missed you’ – what Leao told teammates on Perth arrival as rift remains",
-      "url": "https://sempremilan.com/what-leao-told-teammates-perth-arrival-rift-remains",
-      "source": "sempremilan.com",
-      "date": "2026-07-30T14:30:00+00:00",
-      "summary": "Rafael Leao returned from his summer break to join his AC Milan teammates in Perth yesterday, but it is far from an actual return. A lot of what can be said about Leao’s future has already been said. It is no secret that all parties are seeking a split, but there are troubles in doing […]\nThe post C"
-    },
-    {
-      "id": "27b9fe29b7f7",
-      "title": "Schira: Milan contact Soule’s agent over potential transfer as Roma move for ‘top winger’",
-      "url": "https://sempremilan.com/milan-contact-soule-agent-roma-work-top-winger",
-      "source": "sempremilan.com",
-      "date": "2026-07-30T14:00:00+00:00",
-      "summary": "Matias Soule is one of the more interesting links for AC Milan this summer, especially as the youngster was previously considered.  The mercato is largely about opportunities and there are cases when things fall into place naturally. With Soule, things didn’t when the initial interest was there. How"
-    },
-    {
-      "id": "6b70c54925f5",
-      "title": "CM: Amorim held ‘lengthy meeting’ with Fofana – what filters as Frenchman pleads for chance",
-      "url": "https://sempremilan.com/amorim-lengthy-meeting-fofana-pleads-chance",
-      "source": "sempremilan.com",
-      "date": "2026-07-30T13:30:00+00:00",
-      "summary": "Despite suggestions that he could be leaving AC Milan, Ruben Amorim held a lengthy meeting with Youssouf Fofana this week. There could be somewhat of a purge of the Milan squad this summer, with plenty of players available on the mercato. However, selling players has not proven to be an easy task, w"
-    },
-    {
-      "id": "8a1dc4153825",
-      "title": "“Emotions I couldn’t ignore” – Italiano reveals why he turned down Milan",
-      "url": "https://sempremilan.com/italiano-reveals-why-he-turned-milan-down",
-      "source": "sempremilan.com",
-      "date": "2026-07-30T13:00:00+00:00",
-      "summary": "Vincenzo Italiano has been linked to AC Milan on several occasions in the past few years, but it never happened. It is nothing new for links to be made and nothing to happen. In fact, it is nothing new for talks to occur and the idea to look prevalent and nothing to happen. So, Italiano […]\nThe post"
-    },
-    {
-      "id": "9f6f94177b1d",
-      "title": "LIVE Done deals tracker: Roma and Juventus welcome new faces",
-      "url": "https://football-italia.net/summer-transfer-window-live-serie-a-done-deals-tracker/",
-      "source": "football-italia.net",
-      "date": "2026-07-30T11:45:35+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
       "id": "5501a16e19c1",
       "title": "Real Madrid approve Mastantuono’s exit with three Serie A clubs linked",
       "url": "https://football-italia.net/real-madrid-approve-mastantuono-exit-serie-a-3/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-07-27T21:23:38+00:00",
       "summary": "Fenerbahce have reportedly made the first offer for Rafael Leao, totalling €40m plus €2m in..."
-    },
-    {
-      "id": "07d042f492b7",
-      "title": "Transfer round-up: Lazio talks for Burnley striker, Castro’s Roma medical and more",
-      "url": "https://football-italia.net/transfer-round-up-27-july-lazio-burnley-castro/",
-      "source": "football-italia.net",
-      "date": "2026-07-27T18:30:00+00:00",
-      "summary": "The mess surrounding the Italian national team has overshadowed Serie A transfer news, including Santiago..."
     }
   ]
 }
