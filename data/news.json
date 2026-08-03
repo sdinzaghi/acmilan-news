@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-08-03T20:25:25.304846+00:00",
+  "lastUpdated": "2026-08-03T22:06:45.220542+00:00",
   "articles": [
+    {
+      "id": "cb23d2c140f6",
+      "title": "The last farewell to the Captain. Rebus Leao: what's happening. Reinforcements on the market...",
+      "url": "https://www.milannews.it/editoriale/saluto-capitano-rebus-leao-succedendo-rinforzi-mercato-625588",
+      "source": "milannews.it",
+      "date": "2026-08-03T22:00:09+00:00",
+      "summary": "The last farewell to the great captain Franco Baresi. Today Milan will stop to bid farewell to the eternal Rossoneri flag."
+    },
+    {
+      "id": "81c12e7aca16",
+      "title": "Following Serie A becomes more expensive for fans: DAZN raises the price of the subscription",
+      "url": "https://www.milannews.it/news/seguire-serie-caro-tifosi-dazn-alza-prezzo-abbonamento-625587",
+      "source": "milannews.it",
+      "date": "2026-08-03T21:50:58+00:00",
+      "summary": "DAZN, the platform that holds the TV rights to Serie A Enilive, has announced that subscription prices will be increased for the next season."
+    },
+    {
+      "id": "2a80da66d89c",
+      "title": "Tresoldi in love with Leao: \"He had some problems and some injuries, but the only thing that matters is that he gets back to his level\"",
+      "url": "https://www.milannews.it/news/tresoldi-innamorato-leao-ha-problema-infortunio-k0unica-conta-torni-livello-625574",
+      "source": "milannews.it",
+      "date": "2026-08-03T21:40:31+00:00",
+      "summary": "Nicolò Tresoldi, Bruges' Italian-German striker, expressed himself as follows on the My Turnover Podcast about his (never hidden) AC Milan faith: \"I grew up supporting AC Milan."
+    },
+    {
+      "id": "81e4f3693e37",
+      "title": "The alliance against Infantino is born: \"Ready to paralyze FIFA\"",
+      "url": "https://www.milannews.it/news/nasce-alleanza-infantino-pronti-paralizzare-fifa-625569",
+      "source": "milannews.it",
+      "date": "2026-08-03T21:30:35+00:00",
+      "summary": "(ANSA) - ROME, AUGUST 03 - The alliance against Infantino takes shape to \"paralyze FIFA\"."
+    },
+    {
+      "id": "865ec7a3a8a1",
+      "title": "According to Franco Ordine, it was obvious that Milan's transfer market would stall: the reason",
+      "url": "https://www.milannews.it/news/franco-ordine-spiega-scontato-calciomercato-milan-bloccasse-625573",
+      "source": "milannews.it",
+      "date": "2026-08-03T21:20:54+00:00",
+      "summary": "During his editorial for MilanNews."
+    },
+    {
+      "id": "e55da3f18346",
+      "title": "Salvini leaves his scarf with Baresi's 6 at Casa Milan, 'it was an example'",
+      "url": "https://www.milannews.it/news/salvini-lascia-sciarpa-6-baresi-casa-milan-625564",
+      "source": "milannews.it",
+      "date": "2026-08-03T21:10:18+00:00",
+      "summary": "(ANSA) - MILAN, AUGUST 03 - The deputy prime minister and leader of the League Matteo Salvini went to Casa Milan where he left a scarf with Franco Baresi's number 6."
+    },
+    {
+      "id": "62576da0c61b",
+      "title": "Juventus says goodbye to Adzic: the Montenegrin moves to Sassuolo",
+      "url": "https://www.milannews.it/news/calcio-juve-saluta-adzic-trasferisce-sassuolo-625580",
+      "source": "milannews.it",
+      "date": "2026-08-03T21:00:00+00:00",
+      "summary": "(ANSA) - TURIN, 03 AUGUST - Juventus bid farewell to Vasilije Adzic, the Montenegrin midfielder who moved on loan to Sassuolo."
+    },
+    {
+      "id": "15b7bbb67811",
+      "title": "Pellegatti and the Mastantuono suggestion: \"He could come on loan, perhaps with a particular formula\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pellegatti-suggestione-mastantuono-potrebbe-venire-prestito-formula-particolare-625579",
+      "source": "milannews.it",
+      "date": "2026-08-03T20:50:23+00:00",
+      "summary": "Carlo Pellegatti, journalist, expressed himself as follows on his Youtube channel providing updates on Milan's interest in Nwaneri: “Ethan Nwaneri is a 2007 Arsenal player."
+    },
+    {
+      "id": "dc3e51b419ae",
+      "title": "Di Stefano: \"Are there any signs that Leao could stay at Milan? In my opinion, yes. The way has changed\"",
+      "url": "https://www.milannews.it/news/stefano-spiragli-leao-restare-milan-si-cambiato-625578",
+      "source": "milannews.it",
+      "date": "2026-08-03T20:40:00+00:00",
+      "summary": "Peppe Di Stefano, in connection with SkySport24, is closely following Milan during the Australian tour and regarding Rafael Leao's future he declared: \"Are there any signs that Leao could stay at Milan? In my opinion, yes, it's a ..."
+    },
+    {
+      "id": "b4ff9679e17c",
+      "title": "It's August and there are still some luxury free agents: the list",
+      "url": "https://www.milannews.it/news/agosto-svincolati-lusso-lista-625576",
+      "source": "milannews.it",
+      "date": "2026-08-03T20:30:22+00:00",
+      "summary": "Monday 3 August and the list of luxury free agents is still very large: football is changing and the market is also changing, with several important players who are taking time before deciding on their future."
+    },
     {
       "id": "d029c69b6504",
       "title": "Estupinan-Aston Villa: Amorim's veto persists, it remains to be seen whether the English are willing to wait",
@@ -63,7 +143,7 @@
       "url": "https://www.milannews.it/news/napoli-salta-polemiche-cessione-lindstrom-schalke-625571",
       "source": "milannews.it",
       "date": "2026-08-03T19:20:56+00:00",
-      "summary": "(ANSA) - NAPLES, AUGUST 03 - Jesper Lindstrom's failed transfer from Napoli to Schalke 04 becomes a mystery."
+      "summary": "(ANSA) - NAPLES, 03 AUGUST - Jesper Lindstrom's failed transfer from Napoli to Schalke 04 becomes a mystery."
     },
     {
       "id": "6c87c06aa636",
@@ -75,7 +155,7 @@
     },
     {
       "id": "36cc45fdca2b",
-      "title": "Baresi funerals, delegations also expected from Real Madrid and Barcelona",
+      "title": "Baresi funerals, delegations from Real Madrid and Barcelona also expected",
       "url": "https://www.milannews.it/news/funerali-baresi-previste-delegazioni-real-madrid-barcellona-625582",
       "source": "milannews.it",
       "date": "2026-08-03T19:09:44+00:00",
@@ -90,52 +170,12 @@
       "summary": "In recent days the official information has arrived: Diawara is a new player for Milan."
     },
     {
-      "id": "24e5a7aba4d3",
-      "title": "Garbo on the operator Ramos: \"Milan spent a lot of money on him, an excellent player but he remains an unknown\"",
-      "url": "https://www.milannews.it/news/garbo-operatore-ramos-il-milan-speso-tanti-soldi-lui-ottimo-giocatore-rimane-incognita-625557",
-      "source": "milannews.it",
-      "date": "2026-08-03T18:40:06+00:00",
-      "summary": "Speaking on the frequencies of TMW Radio, the journalist Daniele Garbo spoke on the most important current issues related to Serie A, also focusing on Milan and Inter, who on Wednesday play ..."
-    },
-    {
-      "id": "fbf1a45357c1",
-      "title": "New Milan, what are the hierarchies in attack? Ramos certainty, Gimenez unknown. And Camarda and Kostic?",
-      "url": "https://www.milannews.it/primo-piano/milan-gerarchie-attacco-ramos-certezza-gimenez-incognita-camarda-kostic-sorprese-625568",
-      "source": "milannews.it",
-      "date": "2026-08-03T18:30:43+00:00",
-      "summary": "There is no doubt that Gonçalo Ramos will be Milan's starting striker for the 2026/27 season."
-    },
-    {
-      "id": "d14296b50097",
-      "title": "Garbo: \"A lot of money for Ramos, an excellent player but he remains an unknown. Milan still far from Inter\"",
-      "url": "https://www.milannews.it/news/garbo-tanti-soldi-ramos-ottimo-giocatore-rimane-incognita-milan-inter-625565",
-      "source": "milannews.it",
-      "date": "2026-08-03T18:20:15+00:00",
-      "summary": "Daniele Garbo was a guest on TMW Radio in the afternoon. Among other things, the journalist also spoke about the level of Milan and Inter after this first transfer period."
-    },
-    {
       "id": "9f71fa341887",
       "title": "Gimenez targeted by Lazio and FC Porto, Milan uncertain on loan idea",
       "url": "https://football-italia.net/gimenez-targeted-lazio-porto-milan-uncertain/",
       "source": "football-italia.net",
       "date": "2026-08-03T18:14:42+00:00",
       "summary": "Milan have received approaches from both FC Porto and Lazio for Santiago Gimenez, but it..."
-    },
-    {
-      "id": "7bb2e90a91de",
-      "title": "Conference League play-off, Atalanta will face the winner of Hapoel Tel Aviv-Katowice",
-      "url": "https://www.milannews.it/news/spareggio-conference-league-atalanta-vincente-hapoel-tel-aviv-katowice-625558",
-      "source": "milannews.it",
-      "date": "2026-08-03T18:10:02+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 03 - In the 2026-'27 Conference League play-offs, Atalanta will face the winner of Hapoel Tel Aviv-Katowice."
-    },
-    {
-      "id": "cb254352da75",
-      "title": "VIDEO - Milan, work continues in Australia under the eyes of Amorim",
-      "url": "https://www.milannews.it/news/video-milan-continua-lavoro-australia-occhi-amorim-625560",
-      "source": "milannews.it",
-      "date": "2026-08-03T18:00:17+00:00",
-      "summary": "Milan's work continues in Perth, with the group at Amorim's disposal becoming increasingly more fleshed out: yesterday there was the arrival of Modric, Saelemaekers, De Winter and Jashari."
     },
     {
       "id": "4f208d607a7c",
@@ -146,52 +186,12 @@
       "summary": "AC Milan’s mercato appears to be blocked at the moment, but when things get moving again the directors must know who to pursue. It is no secret that Ruben Amorim has asked for a left-footed attacking midfielder to play inverted behind the striker on the right side. However, quite who this profile mi"
     },
     {
-      "id": "65f07020b2ab",
-      "title": "Modric is also a confirmation for this Milan: his numbers for the Rossoneri last season",
-      "url": "https://www.milannews.it/news/modric-conferma-milan-numeri-rossonero-scorsa-stagione-625555",
-      "source": "milannews.it",
-      "date": "2026-08-03T17:50:00+00:00",
-      "summary": "The Rossoneri's season continues and finally tomorrow there will also be the pitch to be discussed, with the transfer market which has so far given away Cissè, Gonçalo Ramos, Mario Gila and Diawara, recently made official."
-    },
-    {
-      "id": "e474b1bdcd0d",
-      "title": "Garbo on Milan: \"I think he is still very far from Inter\"",
-      "url": "https://www.milannews.it/news/garbo-milan-credo-inter-625556",
-      "source": "milannews.it",
-      "date": "2026-08-03T17:40:00+00:00",
-      "summary": "Speaking on the frequencies of TMW Radio, the journalist Daniele Garbo spoke on the most important current issues related to Serie A, also focusing on Milan and Inter, who on Wednesday play ..."
-    },
-    {
-      "id": "8dd9dcab3a75",
-      "title": "Future Leao, Di Stefano: \"Rafa has closed the doors to Türkiye, he doesn't take Fenerbahçe Galatasaray into consideration\"",
-      "url": "https://www.milannews.it/news/leao-stefano-rafa-chiuso-porte-turchia-prende-considerazione-fenerbahce-625551",
-      "source": "milannews.it",
-      "date": "2026-08-03T17:30:00+00:00",
-      "summary": "Milan's season continues, as does their pre-season. Tomorrow the test against Inter, useful to see the new signings Diawara and Gonçalo Ramos at work, but not only that."
-    },
-    {
-      "id": "da7f39c522ee",
-      "title": "Inter, Sucic on the idol Modric: \"For us Croatians he is an example\"",
-      "url": "https://www.milannews.it/l-avversario/inter-sucic-idolo-modric-per-croati-625554",
-      "source": "milannews.it",
-      "date": "2026-08-03T17:20:00+00:00",
-      "summary": "Interviewed by Inter's official channels, Croatian midfielder Petar Sucic spoke about the derby scheduled for tomorrow in Perth against Milan, also offering the usual words of praise towards his national teammate but opponent ..."
-    },
-    {
       "id": "84287189c9b1",
       "title": "TuttoJuve: Liverpool to rival Juventus in pursuit of Milan centre-back with enquiry made",
       "url": "https://sempremilan.com/liverpool-rival-juventus-milan-tomori-enquiry",
       "source": "sempremilan.com",
       "date": "2026-08-03T17:20:00+00:00",
       "summary": "Liverpool have initiated initial discussions with AC Milan regarding a move for defender Fikayo Tomori, according to a report. TuttoJuve are claiming that new Liverpool boss Andoni Iraola is looking for a new centre-back, specifically one that is ‘experienced and reliable’. Tomori has ended up on th"
-    },
-    {
-      "id": "3b6eb40890cb",
-      "title": "MN - \"Camarda is the future of Milan\". The former Rossoneri player Chaka Traorè praises him like this",
-      "url": "https://www.milannews.it/news/mn-camarda-milan-rossonero-chaka-traore-625552",
-      "source": "milannews.it",
-      "date": "2026-08-03T17:10:00+00:00",
-      "summary": "After retracing the years spent at the Rossoneri and talking about his present, in the second part of the exclusive interview granted yesterday to MilanNews."
     },
     {
       "id": "17d3a724d25f",
