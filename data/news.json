@@ -1,9 +1,49 @@
 {
-  "lastUpdated": "2026-08-03T22:06:45.220542+00:00",
+  "lastUpdated": "2026-08-04T00:06:52.953762+00:00",
   "articles": [
     {
+      "id": "77c89e5c39ad",
+      "title": "TOP NEWS del 3 agosto: futuro Leao, le ultime da Perth, i funerali di Baresi",
+      "url": "https://www.milannews.it/news/top-news-3-agosto-leao-ultime-perth-funerali-baresi-625585",
+      "source": "milannews.it",
+      "date": "2026-08-03T23:00:00+00:00",
+      "summary": "News, curiosities, the voices of the protagonists and the latest market news on MilanNews.it."
+    },
+    {
+      "id": "b51c2265f2fa",
+      "title": "Garbo: \"Napoli? Much will depend on Allegri's desire for redemption, fresh from failure at Milan\"",
+      "url": "https://www.milannews.it/l-avversario/garbo-napoli-dipendera-voglia-riscatto-allegri-reduce-fallimento-milan-625566",
+      "source": "milannews.it",
+      "date": "2026-08-03T22:50:35+00:00",
+      "summary": "Daniele Garbo was a guest on TMW Radio in the afternoon. Among other things, the journalist also spoke about Massimiliano Allegri's Napoli, with the Tuscan coach returning from a negative experience with the Rossoneri."
+    },
+    {
+      "id": "6a3d01238764",
+      "title": "Milan, il programma delle prossime amichevoli con data e ora",
+      "url": "https://www.milannews.it/news/milan-programma-prossime-amichevoli-data-625592",
+      "source": "milannews.it",
+      "date": "2026-08-03T22:30:38+00:00",
+      "summary": "The match against Celtic was the first of the four friendlies scheduled this summer: the next should have been the match against Perth Glory, which should have been played on Saturday 1st August."
+    },
+    {
+      "id": "270c7a968f7f",
+      "title": "Buffon: \"Maldini e Leonardo? Avevamo due top che garantivano il massimo\"",
+      "url": "https://www.milannews.it/news/buffon-maldini-leonardo-top-garantivano-massimo-625591",
+      "source": "milannews.it",
+      "date": "2026-08-03T22:20:19+00:00",
+      "summary": "Gianluigi Buffon spoke to Sky to talk about his future after leaving the national team: \"In the meantime I'm preparing, then we'll see (he jokes, ed.)."
+    },
+    {
+      "id": "1ec200139019",
+      "title": "La commemorazione del Senato della Repubblica per Don Mazzi e Franco Baresi",
+      "url": "https://www.milannews.it/news/commemorazione-senato-repubblica-don-mazzi-franco-baresi-625590",
+      "source": "milannews.it",
+      "date": "2026-08-03T22:10:40+00:00",
+      "summary": "The President of the Senate Ignazio Maria La Russa, with a speech in the Senate, commemorated Don Antonio Mazzi and Franco Baresi, both of whom passed away in recent days."
+    },
+    {
       "id": "cb23d2c140f6",
-      "title": "The last farewell to the Captain. Rebus Leao: what's happening. Reinforcements on the market...",
+      "title": "L'ultimo saluto al Capitano. Rebus Leao: cosa sta succedendo. I rinforzi sul mercato...",
       "url": "https://www.milannews.it/editoriale/saluto-capitano-rebus-leao-succedendo-rinforzi-mercato-625588",
       "source": "milannews.it",
       "date": "2026-08-03T22:00:09+00:00",
@@ -23,7 +63,7 @@
       "url": "https://www.milannews.it/news/tresoldi-innamorato-leao-ha-problema-infortunio-k0unica-conta-torni-livello-625574",
       "source": "milannews.it",
       "date": "2026-08-03T21:40:31+00:00",
-      "summary": "Nicolò Tresoldi, Bruges' Italian-German striker, expressed himself as follows on the My Turnover Podcast about his (never hidden) AC Milan faith: \"I grew up supporting AC Milan."
+      "summary": "Nicolò Tresoldi, attaccante italo-tedesco del Bruges, si è così espresso al Podcast My Turnover sulla sua (mai nascosta) fede milanista: \"Sono cresciuto tifando Milan."
     },
     {
       "id": "81e4f3693e37",
@@ -31,15 +71,15 @@
       "url": "https://www.milannews.it/news/nasce-alleanza-infantino-pronti-paralizzare-fifa-625569",
       "source": "milannews.it",
       "date": "2026-08-03T21:30:35+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 03 - The alliance against Infantino takes shape to \"paralyze FIFA\"."
+      "summary": "(ANSA) - ROMA, 03 AGO - Prende forma l'alleanza contro Infantino per \"paralizzare la Fifa\"."
     },
     {
       "id": "865ec7a3a8a1",
-      "title": "According to Franco Ordine, it was obvious that Milan's transfer market would stall: the reason",
+      "title": "Secondo Franco Ordine era scontato che il mercato del Milan si inceppasse: il motivo",
       "url": "https://www.milannews.it/news/franco-ordine-spiega-scontato-calciomercato-milan-bloccasse-625573",
       "source": "milannews.it",
       "date": "2026-08-03T21:20:54+00:00",
-      "summary": "During his editorial for MilanNews."
+      "summary": "Nel corso del suo editoriale per MilanNews."
     },
     {
       "id": "e55da3f18346",
@@ -47,15 +87,15 @@
       "url": "https://www.milannews.it/news/salvini-lascia-sciarpa-6-baresi-casa-milan-625564",
       "source": "milannews.it",
       "date": "2026-08-03T21:10:18+00:00",
-      "summary": "(ANSA) - MILAN, AUGUST 03 - The deputy prime minister and leader of the League Matteo Salvini went to Casa Milan where he left a scarf with Franco Baresi's number 6."
+      "summary": "(ANSA) - MILANO, 03 AGO - Il vicepremier e leader della Lega Matteo Salvini si è recato davanti Casa Milan dove ha lasciato una sciarpa con il 6 di Franco Baresi."
     },
     {
       "id": "62576da0c61b",
-      "title": "Juventus says goodbye to Adzic: the Montenegrin moves to Sassuolo",
+      "title": "La Juventus saluta Adzic: il montenegrino si trasferisce al Sassuolo",
       "url": "https://www.milannews.it/news/calcio-juve-saluta-adzic-trasferisce-sassuolo-625580",
       "source": "milannews.it",
       "date": "2026-08-03T21:00:00+00:00",
-      "summary": "(ANSA) - TURIN, 03 AUGUST - Juventus bid farewell to Vasilije Adzic, the Montenegrin midfielder who moved on loan to Sassuolo."
+      "summary": "(ANSA) - TORINO, 03 AGO - La Juventus saluta Vasilije Adzic, il centrocampista montenegrino si trasferito in prestito al Sassuolo."
     },
     {
       "id": "15b7bbb67811",
@@ -63,11 +103,11 @@
       "url": "https://www.milannews.it/calciomercato-milan/pellegatti-suggestione-mastantuono-potrebbe-venire-prestito-formula-particolare-625579",
       "source": "milannews.it",
       "date": "2026-08-03T20:50:23+00:00",
-      "summary": "Carlo Pellegatti, journalist, expressed himself as follows on his Youtube channel providing updates on Milan's interest in Nwaneri: “Ethan Nwaneri is a 2007 Arsenal player."
+      "summary": "Carlo Pellegatti, giornalista, si è così espresso sul suo canale Youtube fornendo aggiornamenti sull'interesse del Milan per Nwaneri: “Ethan Nwaneri è un giocatore dell’Arsenal 2007."
     },
     {
       "id": "dc3e51b419ae",
-      "title": "Di Stefano: \"Are there any signs that Leao could stay at Milan? In my opinion, yes. The way has changed\"",
+      "title": "Di Stefano: \"Spiragli che Leao possa restare al Milan? Secondo me sì. Il modo è cambiato\"",
       "url": "https://www.milannews.it/news/stefano-spiragli-leao-restare-milan-si-cambiato-625578",
       "source": "milannews.it",
       "date": "2026-08-03T20:40:00+00:00",
@@ -79,15 +119,15 @@
       "url": "https://www.milannews.it/news/agosto-svincolati-lusso-lista-625576",
       "source": "milannews.it",
       "date": "2026-08-03T20:30:22+00:00",
-      "summary": "Monday 3 August and the list of luxury free agents is still very large: football is changing and the market is also changing, with several important players who are taking time before deciding on their future."
+      "summary": "Lunedì 3 agosto e la lista degli svincolati di lusso è ancora molto folta: cambia il calcio e cambia anche il mercato, con diversi giocatori importanti che stanno prendendo tempo prima di decidere del loro futuro."
     },
     {
       "id": "d029c69b6504",
-      "title": "Estupinan-Aston Villa: Amorim's veto persists, it remains to be seen whether the English are willing to wait",
+      "title": "Estupinan-Aston Villa: persiste il veto di Amorim, da capire se gli inglesi sono disposti ad aspettare",
       "url": "https://www.milannews.it/calciomercato-milan/estupinan-aston-villa-persiste-veto-amorim-capire-inglesi-disposti-aspettare-625577",
       "source": "milannews.it",
       "date": "2026-08-03T20:20:34+00:00",
-      "summary": "In a video published on Fabrizio Romano's YouTube channel, Matteo Moretto explained the situation of Pervis Estupinan who seemed to be about to move to Aston Villa before Ruben Amorim blocked everything: \"Between Milan and As..."
+      "summary": "In un video pubblicato sul canale YouTube di Fabrizio Romano, Matteo Moretto ha spiegato la situazione di Pervis Estupinan che sembrava essere in procinto di trasferirsi all'Aston Villa prima che Ruben Amorim bloccasse tutto: \"Tra Milan e As ..."
     },
     {
       "id": "ab44ad9586cb",
@@ -95,11 +135,11 @@
       "url": "https://www.milannews.it/news/calcio-pochettino-rinnova-ct-usa-mondiale-2030-625550",
       "source": "milannews.it",
       "date": "2026-08-03T20:10:19+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 03 - Mauricio Pochettino has signed a new contract as coach of the United States national team, the US Football Federation has announced. Pochettino's new deal is valid until the 2030 World Cup."
+      "summary": "(ANSA) - ROMA, 03 AGO - Mauricio Pochettino ha firmato un nuovo contratto come ct della nazionale degli Stati Uniti, ha annunciato la Federcalcio Usa. Il nuovo accordo di Pochettino è valido fino ai Mondiali del 2030."
     },
     {
       "id": "c541bb9b8e13",
-      "title": "Passerini opens up to an unexpected scenario: \"It cannot be ruled out that Leao could stay at Milan\"",
+      "title": "Passerini apre a uno scenario inaspettato: \"Non è da escludere che Leao possa restare al Milan\"",
       "url": "https://www.milannews.it/calciomercato-milan/passerini-apre-scenario-inaspettato-non-escludere-leao-restare-milan-625575",
       "source": "milannews.it",
       "date": "2026-08-03T20:00:22+00:00",
@@ -107,11 +147,11 @@
     },
     {
       "id": "f46f36d0953c",
-      "title": "Garbo on Amorim's Milan: \"They are still a team in progress\"",
+      "title": "Garbo sul Milan di Amorim: \"È ancora una squadre in divenire\"",
       "url": "https://www.milannews.it/news/garbo-milan-amorim-e-squadre-divenire-625572",
       "source": "milannews.it",
       "date": "2026-08-03T19:50:26+00:00",
-      "summary": "Speaking on the frequencies of TMW Radio, the journalist Daniele Garbo spoke on the most important current issues related to Serie A, also focusing on Milan and Inter, who on Wednesday play ..."
+      "summary": "Intrevenuto sulle frequenze di TMW Radio, il giornalista Daniele Garbo è intervenuto sui più importanti temi d'attualità legati alla Serie A, soffermandosi anche su Milan ed Inter, che nella giornata di mercoledì si sf ..."
     },
     {
       "id": "9eaebcd0250a",
@@ -119,31 +159,7 @@
       "url": "https://www.milannews.it/news/chelsea-ingaggia-centrocampista-jordan-henderson-firmato-biennale-625570",
       "source": "milannews.it",
       "date": "2026-08-03T19:40:25+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 03 - Xabi Alonso's Chelsea is banking on experience in midfield and signing 36-year-old Jordan Henderson, who was released after the season at Brentford."
-    },
-    {
-      "id": "7e7017750e3c",
-      "title": "Lazio on Santi Gimenez: new contacts with the agent but difficult operation",
-      "url": "https://www.milannews.it/calciomercato-milan/lazio-santi-gimenez-contatti-agente-operazione-difficile-625583",
-      "source": "milannews.it",
-      "date": "2026-08-03T19:30:56+00:00",
-      "summary": "Santiago Gimenez's future is not yet decided. The Mexican is in Milanello, and not for the team in Australia, to recover from the sprained ankle suffered in the last World Cup match played against Mexico."
-    },
-    {
-      "id": "a7941efbd2c8",
-      "title": "MN - Galatasaray pressing for Leao: welcome destination and evolving situation",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-galatasaray-pressing-leao-situazione-625581",
-      "source": "milannews.it",
-      "date": "2026-08-03T19:27:02+00:00",
-      "summary": "It stays, it goes away or maybe not. Rafa Leao's future is still to be written."
-    },
-    {
-      "id": "5ac7ad925dbc",
-      "title": "Napoli, the sale of Lindstrom to Schalke comes up amid controversy",
-      "url": "https://www.milannews.it/news/napoli-salta-polemiche-cessione-lindstrom-schalke-625571",
-      "source": "milannews.it",
-      "date": "2026-08-03T19:20:56+00:00",
-      "summary": "(ANSA) - NAPLES, 03 AUGUST - Jesper Lindstrom's failed transfer from Napoli to Schalke 04 becomes a mystery."
+      "summary": "(ANSA) - ROMA, 03 AGO - Il Chelsea di Xabi Alonso punta sull'esperienza a centrocampo e ingaggia il 36enne Jordan Henderson, rimasto svincolato dopo la stagione al Brentford."
     },
     {
       "id": "6c87c06aa636",
@@ -152,22 +168,6 @@
       "source": "football-italia.net",
       "date": "2026-08-03T19:16:58+00:00",
       "summary": "Milan will pay tribute to Franco Baresi ahead of the friendly match against Inter, as..."
-    },
-    {
-      "id": "36cc45fdca2b",
-      "title": "Baresi funerals, delegations from Real Madrid and Barcelona also expected",
-      "url": "https://www.milannews.it/news/funerali-baresi-previste-delegazioni-real-madrid-barcellona-625582",
-      "source": "milannews.it",
-      "date": "2026-08-03T19:09:44+00:00",
-      "summary": "Tomorrow at 11.00, in the Basilica of Sant'Ambrogio in Milan, the funeral of Franco Baresi, the great former AC Milan captain who passed away on Friday morning after a serious illness, will be held."
-    },
-    {
-      "id": "452e1fb2f1c3",
-      "title": "Diawara chose the red and black shirt number 13: who wore it before him",
-      "url": "https://www.milannews.it/news/diawara-scelto-maglia-rossonera-numero-13-indossata-625567",
-      "source": "milannews.it",
-      "date": "2026-08-03T18:50:26+00:00",
-      "summary": "In recent days the official information has arrived: Diawara is a new player for Milan."
     },
     {
       "id": "9f71fa341887",
