@@ -1,6 +1,134 @@
 {
-  "lastUpdated": "2026-08-04T04:10:56.488372+00:00",
+  "lastUpdated": "2026-08-04T07:37:03.127345+00:00",
   "articles": [
+    {
+      "id": "1e8c0e353e9b",
+      "title": "Today’s Papers: Milan mourns Baresi, Leão U-turn and Inter close on Romero",
+      "url": "https://football-italia.net/todays-papers-milan-mourns-baresi-leao-u-turn-and-inter-close-on-romero/",
+      "source": "football-italia.net",
+      "date": "2026-08-04T07:36:08+00:00",
+      "summary": "Italian football pauses on Tuesday to say goodbye to Franco Baresi, and the country’s three..."
+    },
+    {
+      "id": "28de81cb348c",
+      "title": "Amorim: \"If we were to start the season with this team, we will be competitive in every match\"",
+      "url": "https://www.milannews.it/news/amorim-se-dovessimo-iniziare-stagione-squadra-competitivi-partita-625606",
+      "source": "milannews.it",
+      "date": "2026-08-04T07:30:00+00:00",
+      "summary": "In the press conference on the eve of the friendly match Milan-Inter, the Rossoneri coach Ruben Amorim could not avoid questions about the transfer market."
+    },
+    {
+      "id": "914bbc0d0648",
+      "title": "PHOTO MN - The Curva Sud has already arrived in Sant'Ambrogio: the number 6 stands out",
+      "url": "https://www.milannews.it/news/foto-mn-curva-sud-arrivata-sant-ambrogio-numero-6-svetta-625610",
+      "source": "milannews.it",
+      "date": "2026-08-04T07:20:50+00:00",
+      "summary": "Today is the day of tears and emotion in Milan: at 11 am, Milan and the entire world of football will gather around the family of Captain Franco Baresi for the final farewell to the eternal number ..."
+    },
+    {
+      "id": "831baf058fcd",
+      "title": "CorSport headlines: \"Leao regrets it. Only Milan remains for him\"",
+      "url": "https://www.milannews.it/rassegna-stampa/corsport-titola-leao-pente-resta-milan-625600",
+      "source": "milannews.it",
+      "date": "2026-08-04T07:10:09+00:00",
+      "summary": "Rafael Leao's idea this summer was to leave Milan after seven years."
+    },
+    {
+      "id": "b6d21be97a1e",
+      "title": "Not just Leao, how many Rossoneri are looking for confirmation: the Gazzetta on Chukwu, Fofana and Loftus",
+      "url": "https://www.milannews.it/rassegna-stampa/leao-rossoneri-cerca-conferma-gazzetta-chukwu-fofana-loftus-625598",
+      "source": "milannews.it",
+      "date": "2026-08-04T07:00:00+00:00",
+      "summary": "The Milan has not yet started to fill the transfer box."
+    },
+    {
+      "id": "767ed133d6f3",
+      "title": "Amorim: \"Leao happy and motivated. Transfer market? I'm really happy with the team I have\"",
+      "url": "https://www.milannews.it/primo-piano/amorim-leao-felice-motivato-mercato-davvero-contento-squadra-ho-625604",
+      "source": "milannews.it",
+      "date": "2026-08-04T06:50:00+00:00",
+      "summary": "On the eve of the Milan-Inter friendly match, which will be played tomorrow at 1pm Italian time in Perth, Australia, coach Ruben Amorim spoke at the press conference to present the match."
+    },
+    {
+      "id": "e92eadd3046f",
+      "title": "Ramos' time, Tuttosport: \"Tomorrow the debut with the Rossoneri shirt\"",
+      "url": "https://www.milannews.it/rassegna-stampa/goncalo-tuttosport-domani-esordio-maglia-rossonera-625597",
+      "source": "milannews.it",
+      "date": "2026-08-04T06:40:00+00:00",
+      "summary": "Tomorrow at 1pm Italian time, directly from the Optus Stadium in Perth, Australia, Milan will take to the field for their second friendly test of this summer."
+    },
+    {
+      "id": "72e2c6e88ad6",
+      "title": "Evani on Captain Baresi: \"His sense of belonging to Milan was total\"",
+      "url": "https://www.milannews.it/news/evani-capitano-baresi-il-senso-appartenenza-milan-totale-625596",
+      "source": "milannews.it",
+      "date": "2026-08-04T06:30:00+00:00",
+      "summary": "On the day of Captain Franco Baresi's funeral, the memories and anecdotes about the Rossoneri number 6 never cease."
+    },
+    {
+      "id": "02b439d648e7",
+      "title": "Towards the Derby, CorSport: \"Amorim gives confidence to Camarda\"",
+      "url": "https://www.milannews.it/rassegna-stampa/derby-corsport-amorim-da-fiducia-camarda-625595",
+      "source": "milannews.it",
+      "date": "2026-08-04T06:20:13+00:00",
+      "summary": "After the first friendly in Glasgow against Celtic almost 10 days ago, tomorrow Milan returns to the field for the second test of this summer."
+    },
+    {
+      "id": "5e1f266c6a60",
+      "title": "Milan says goodbye to its Captain today: the front pages on Baresi's funeral",
+      "url": "https://www.milannews.it/rassegna-stampa/milano-saluta-capitano-prime-pagine-funerale-baresi-625593",
+      "source": "milannews.it",
+      "date": "2026-08-04T06:10:00+00:00",
+      "summary": "Today Milan and football bid farewell to Captain Franco Baresi. At 11 am in the Basilica of Sant'Ambrogio the funeral funeral of the eternal Rossoneri number 6, one of the greatest exponents of the game of football."
+    },
+    {
+      "id": "fe443d276e98",
+      "title": "Leao's farewell goes away: Rafa can stay, Amorim wants to see him with Inter",
+      "url": "https://www.milannews.it/primo-piano/addio-leao-allontana-rafa-rimanere-amorim-vuole-vedere-inter-625594",
+      "source": "milannews.it",
+      "date": "2026-08-04T06:00:00+00:00",
+      "summary": "If we go back in time to two months ago, we would find ourselves in the middle of the week in which three statements from Rafael Leao came out within a few days in which the Portuguese talent stated that he wanted to leave Mila..."
+    },
+    {
+      "id": "b4ec0b5860f1",
+      "title": "Google \"Favorite sources\", add MilanNews now and personalize your news",
+      "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-milannews-personalizza-notizie-625586",
+      "source": "milannews.it",
+      "date": "2026-08-04T05:40:54+00:00",
+      "summary": "Google has introduced a new feature intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
+    },
+    {
+      "id": "3eff2d301898",
+      "title": "The friendly match between Chelsea and Milan will be visible free-to-air on channel NOVE",
+      "url": "https://www.milannews.it/news/amichevole-chelsea-milan-visibile-chiaro-canale-625589",
+      "source": "milannews.it",
+      "date": "2026-08-04T05:30:34+00:00",
+      "summary": "The friendly match between Chelsea and Milan next Saturday 8 August will be broadcast free-to-air on NOVE. The race was scheduled on Sky Sport which decided to make it visible to everyone also on the Warner Bros channel."
+    },
+    {
+      "id": "57c198debf26",
+      "title": "Milan, info on the season ticket campaign: free sales phase",
+      "url": "https://www.milannews.it/news/milan-info-campagna-abbonamenti-fase-vendita-libera-625563",
+      "source": "milannews.it",
+      "date": "2026-08-04T05:20:08+00:00",
+      "summary": "AC Milan presents the 2026/27 Season Ticket Campaign, which started on Tuesday 7 July. For the new season, the Club renews its commitment to fans with an even more flexible and intuitive offer."
+    },
+    {
+      "id": "cac9f0b37a08",
+      "title": "Transfer market bag: all AC Milan operations as of August 4th",
+      "url": "https://www.milannews.it/news/borsino-calciomercato-operazioni-milan-4-agosto-625562",
+      "source": "milannews.it",
+      "date": "2026-08-04T05:10:22+00:00",
+      "summary": "Below is the complete purse of the AC Milan transfer market, for the 2026 summer session, with the official purchases and sales of the Rossoneri club and the second team Milan Futuro:\n\nMILAN PURCHASES\n\nAndrej Kostic (forward, Pa ..."
+    },
+    {
+      "id": "5eef55fb63ac",
+      "title": "Franco Baresi's funeral in Milan today at 11am",
+      "url": "https://www.milannews.it/news/11-funerali-franco-baresi-milano-625561",
+      "source": "milannews.it",
+      "date": "2026-08-04T05:00:00+00:00",
+      "summary": "Today at 11.00, in the Basilica of Sant'Ambrogio in Milan, the funeral of Franco Baresi, the great former AC Milan captain who passed away on Friday morning after a serious illness, will be held."
+    },
     {
       "id": "77c89e5c39ad",
       "title": "TOP NEWS of August 3: Leao's future, the latest from Perth, Baresi's funeral",
@@ -19,15 +147,15 @@
     },
     {
       "id": "6a3d01238764",
-      "title": "Milan, il programma delle prossime amichevoli con data e ora",
+      "title": "Milan, the program of the next friendly matches with date and time",
       "url": "https://www.milannews.it/news/milan-programma-prossime-amichevoli-data-625592",
       "source": "milannews.it",
       "date": "2026-08-03T22:30:38+00:00",
-      "summary": "Quella contro il Celtic è stata la prima delle quattro amichevoli in programma quest'estate: la successiva sarebbe dovuta essere la sgambata contro il Perth Glory, che si sarebbe dovuta giocare sabato primo agosto."
+      "summary": "The match against Celtic was the first of the four friendlies scheduled this summer: the next should have been the match against Perth Glory, which should have been played on Saturday 1st August."
     },
     {
       "id": "270c7a968f7f",
-      "title": "Buffon: \"Maldini e Leonardo? Avevamo due top che garantivano il massimo\"",
+      "title": "Buffon: \"Maldini and Leonardo? We had two top players who guaranteed the best\"",
       "url": "https://www.milannews.it/news/buffon-maldini-leonardo-top-garantivano-massimo-625591",
       "source": "milannews.it",
       "date": "2026-08-03T22:20:19+00:00",
@@ -39,127 +167,7 @@
       "url": "https://www.milannews.it/news/commemorazione-senato-repubblica-don-mazzi-franco-baresi-625590",
       "source": "milannews.it",
       "date": "2026-08-03T22:10:40+00:00",
-      "summary": "Il Presidente del Senato Ignazio Maria La Russa, con un discorso in Senato, ha commemorato Don Antonio Mazzi e Franco Baresi, entrambi scomparsi nei giorni scorsi."
-    },
-    {
-      "id": "cb23d2c140f6",
-      "title": "The last farewell to the Captain. Rebus Leao: what's happening. Reinforcements on the market...",
-      "url": "https://www.milannews.it/editoriale/saluto-capitano-rebus-leao-succedendo-rinforzi-mercato-625588",
-      "source": "milannews.it",
-      "date": "2026-08-03T22:00:09+00:00",
-      "summary": "The last farewell to the great captain Franco Baresi. Today Milan will stop to bid farewell to the eternal Rossoneri flag."
-    },
-    {
-      "id": "81c12e7aca16",
-      "title": "Seguire la Serie A diventa più caro per i tifosi: DAZN alza il prezzo dell'abbonamento",
-      "url": "https://www.milannews.it/news/seguire-serie-caro-tifosi-dazn-alza-prezzo-abbonamento-625587",
-      "source": "milannews.it",
-      "date": "2026-08-03T21:50:58+00:00",
-      "summary": "DAZN, the platform that holds the TV rights to Serie A Enilive, has announced that subscription prices will be increased for the next season."
-    },
-    {
-      "id": "2a80da66d89c",
-      "title": "Tresoldi in love with Leao: \"He had some problems and some injuries, but the only thing that matters is that he gets back to his level\"",
-      "url": "https://www.milannews.it/news/tresoldi-innamorato-leao-ha-problema-infortunio-k0unica-conta-torni-livello-625574",
-      "source": "milannews.it",
-      "date": "2026-08-03T21:40:31+00:00",
-      "summary": "Nicolò Tresoldi, Bruges' Italian-German striker, expressed himself as follows on the My Turnover Podcast about his (never hidden) AC Milan faith: \"I grew up supporting AC Milan."
-    },
-    {
-      "id": "81e4f3693e37",
-      "title": "The alliance against Infantino is born: \"Ready to paralyze FIFA\"",
-      "url": "https://www.milannews.it/news/nasce-alleanza-infantino-pronti-paralizzare-fifa-625569",
-      "source": "milannews.it",
-      "date": "2026-08-03T21:30:35+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 03 - The alliance against Infantino takes shape to \"paralyze FIFA\"."
-    },
-    {
-      "id": "865ec7a3a8a1",
-      "title": "According to Franco Ordine, it was obvious that Milan's transfer market would stall: the reason",
-      "url": "https://www.milannews.it/news/franco-ordine-spiega-scontato-calciomercato-milan-bloccasse-625573",
-      "source": "milannews.it",
-      "date": "2026-08-03T21:20:54+00:00",
-      "summary": "During his editorial for MilanNews."
-    },
-    {
-      "id": "e55da3f18346",
-      "title": "Salvini lascia sciarpa con il 6 di Baresi a Casa Milan, 'è stato un esempio'",
-      "url": "https://www.milannews.it/news/salvini-lascia-sciarpa-6-baresi-casa-milan-625564",
-      "source": "milannews.it",
-      "date": "2026-08-03T21:10:18+00:00",
-      "summary": "(ANSA) - MILAN, AUGUST 03 - The deputy prime minister and leader of the League Matteo Salvini went to Casa Milan where he left a scarf with Franco Baresi's number 6."
-    },
-    {
-      "id": "62576da0c61b",
-      "title": "Juventus says goodbye to Adzic: the Montenegrin moves to Sassuolo",
-      "url": "https://www.milannews.it/news/calcio-juve-saluta-adzic-trasferisce-sassuolo-625580",
-      "source": "milannews.it",
-      "date": "2026-08-03T21:00:00+00:00",
-      "summary": "(ANSA) - TURIN, 03 AUGUST - Juventus bid farewell to Vasilije Adzic, the Montenegrin midfielder who moved on loan to Sassuolo."
-    },
-    {
-      "id": "15b7bbb67811",
-      "title": "Pellegatti e la suggestione Mastantuono: \"Potrebbe venire in prestito, magari con una formula particolare\"",
-      "url": "https://www.milannews.it/calciomercato-milan/pellegatti-suggestione-mastantuono-potrebbe-venire-prestito-formula-particolare-625579",
-      "source": "milannews.it",
-      "date": "2026-08-03T20:50:23+00:00",
-      "summary": "Carlo Pellegatti, giornalista, si è così espresso sul suo canale Youtube fornendo aggiornamenti sull'interesse del Milan per Nwaneri: “Ethan Nwaneri è un giocatore dell’Arsenal 2007."
-    },
-    {
-      "id": "dc3e51b419ae",
-      "title": "Di Stefano: \"Are there any signs that Leao could stay at Milan? In my opinion, yes. The way has changed\"",
-      "url": "https://www.milannews.it/news/stefano-spiragli-leao-restare-milan-si-cambiato-625578",
-      "source": "milannews.it",
-      "date": "2026-08-03T20:40:00+00:00",
-      "summary": "Peppe Di Stefano, in collegamento a SkySport24, sta seguendo da vicino il Milan durante la tournée australiana e in merito al futuro di Rafael Leao ha dichiarato: \"Spiragli che Leao possa restare al Milan? Secondo me sì, è u ..."
-    },
-    {
-      "id": "b4ff9679e17c",
-      "title": "It's August and there are still some luxury free agents: the list",
-      "url": "https://www.milannews.it/news/agosto-svincolati-lusso-lista-625576",
-      "source": "milannews.it",
-      "date": "2026-08-03T20:30:22+00:00",
-      "summary": "Monday 3 August and the list of luxury free agents is still very large: football is changing and the market is also changing, with several important players who are taking time before deciding on their future."
-    },
-    {
-      "id": "d029c69b6504",
-      "title": "Estupinan-Aston Villa: Amorim's veto persists, it remains to be seen whether the English are willing to wait",
-      "url": "https://www.milannews.it/calciomercato-milan/estupinan-aston-villa-persiste-veto-amorim-capire-inglesi-disposti-aspettare-625577",
-      "source": "milannews.it",
-      "date": "2026-08-03T20:20:34+00:00",
-      "summary": "In a video published on Fabrizio Romano's YouTube channel, Matteo Moretto explained the situation of Pervis Estupinan who seemed to be about to move to Aston Villa before Ruben Amorim blocked everything: \"Between Milan and As..."
-    },
-    {
-      "id": "ab44ad9586cb",
-      "title": "Calcio: Pochettino rinnova, ct Usa fino al Mondiale 2030",
-      "url": "https://www.milannews.it/news/calcio-pochettino-rinnova-ct-usa-mondiale-2030-625550",
-      "source": "milannews.it",
-      "date": "2026-08-03T20:10:19+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 03 - Mauricio Pochettino has signed a new contract as coach of the United States national team, the US Football Federation has announced. Pochettino's new deal is valid until the 2030 World Cup."
-    },
-    {
-      "id": "c541bb9b8e13",
-      "title": "Passerini opens up to an unexpected scenario: \"It cannot be ruled out that Leao could stay at Milan\"",
-      "url": "https://www.milannews.it/calciomercato-milan/passerini-apre-scenario-inaspettato-non-escludere-leao-restare-milan-625575",
-      "source": "milannews.it",
-      "date": "2026-08-03T20:00:22+00:00",
-      "summary": "Carlos Passerini, journalist from Corriere della Sera, expressed himself as follows on his Youtube channel on Rafael Leao's future at Milan: “I don't think that last season was so negative for him, he marked a decisive ..."
-    },
-    {
-      "id": "f46f36d0953c",
-      "title": "Garbo on Amorim's Milan: \"They are still a team in progress\"",
-      "url": "https://www.milannews.it/news/garbo-milan-amorim-e-squadre-divenire-625572",
-      "source": "milannews.it",
-      "date": "2026-08-03T19:50:26+00:00",
-      "summary": "Speaking on the frequencies of TMW Radio, the journalist Daniele Garbo spoke on the most important current issues related to Serie A, also focusing on Milan and Inter, who on Wednesday play ..."
-    },
-    {
-      "id": "9eaebcd0250a",
-      "title": "Xabi Alonso wants experience: Chelsea signs midfielder Jordan Henderson",
-      "url": "https://www.milannews.it/news/chelsea-ingaggia-centrocampista-jordan-henderson-firmato-biennale-625570",
-      "source": "milannews.it",
-      "date": "2026-08-03T19:40:25+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 03 - Xabi Alonso's Chelsea is banking on experience in midfield and signing 36-year-old Jordan Henderson, who was released after the season at Brentford."
+      "summary": "The President of the Senate Ignazio Maria La Russa, with a speech in the Senate, commemorated Don Antonio Mazzi and Franco Baresi, both of whom passed away in recent days."
     },
     {
       "id": "6c87c06aa636",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-07-31T14:39:43+00:00",
       "summary": "Tributes continue to pour in for Franco Baresi, from teammates Filippo Galli, Daniele Massaro and..."
-    },
-    {
-      "id": "3a324160dab3",
-      "title": "Juventus make contact with Man City over Reijnders as Kessié stalls",
-      "url": "https://football-italia.net/juventus-make-contact-with-man-city-reijnders/",
-      "source": "football-italia.net",
-      "date": "2026-07-31T14:14:48+00:00",
-      "summary": "Juventus have opened talks with Manchester City over a possible move for Tijjani Reijnders, as..."
     }
   ]
 }
