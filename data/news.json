@@ -1,13 +1,61 @@
 {
-  "lastUpdated": "2026-08-05T22:10:47.289066+00:00",
+  "lastUpdated": "2026-08-05T23:58:33.654077+00:00",
   "articles": [
+    {
+      "id": "c314824c882d",
+      "title": "TOP NEWS del 5 agosto: l'amichevole con l'Inter, le dichiarazioni di Amorim e Modric",
+      "url": "https://www.milannews.it/news/top-news-5-agosto-amichevole-inter-dichiarazioni-amorim-modric-625798",
+      "source": "milannews.it",
+      "date": "2026-08-05T23:00:48+00:00",
+      "summary": "Notizie, curiosità, le voci dei protagonisti e le ultime novità di mercato su MilanNews.it."
+    },
+    {
+      "id": "3ae270fc5f0c",
+      "title": "Gonçalo Ramos, tests of dialogue with the attack",
+      "url": "https://www.milannews.it/news/goncalo-ramos-prove-dialogo-625795",
+      "source": "milannews.it",
+      "date": "2026-08-05T22:50:00+00:00",
+      "summary": "I pochi minuti di Gonçalo Ramos contro l'Inter hanno fatto intravedere un giocatore di un certo tipo, nonostante la condizione fisica non sia ovviamente delle migliori."
+    },
+    {
+      "id": "86d3ce70e8a0",
+      "title": "Amorim: \"Leao? I rate him like Nkunku, Camarda and the others\"",
+      "url": "https://www.milannews.it/news/amorim-leao-valuto-nkunku-camarda-altri-625799",
+      "source": "milannews.it",
+      "date": "2026-08-05T22:40:46+00:00",
+      "summary": "Ruben Amorim, Milan coach, expressed himself to SkySport as follows at the end of Milan-Inter, a friendly match played in Perth and which ended 1-1: \"It's important not to have lost, but the most important thing is to improve ..."
+    },
+    {
+      "id": "dd4e3f863f73",
+      "title": "Milan-Inter, Torriani is 6.5: \"Good to say no on Lavelli, he repeats himself on Calhanoglu with a great flight to his right\"",
+      "url": "https://www.milannews.it/news/milan-inter-torriani-6-5-bravo-lavelli-ripete-calhanoglu-gran-volo-destra-625804",
+      "source": "milannews.it",
+      "date": "2026-08-05T22:30:02+00:00",
+      "summary": "Nice response from Torriani in the Australian friendly against Inter. The 2005 class started again today after starting the match against Celtic last week."
+    },
+    {
+      "id": "ebe2c1c6652b",
+      "title": "Palermo, Inzaghi: \"Siamo stati accolti da tantissime persone. All’inizio pensavo fossero venuti per il Milan e invece erano lì per noi\"",
+      "url": "https://www.milannews.it/news/palermo-inzaghi-siamo-accolti-tantissime-persone-all-inizio-pensavo-venuti-milan-li-noi-625805",
+      "source": "milannews.it",
+      "date": "2026-08-05T22:20:32+00:00",
+      "summary": "Pippo Inzaghi, coach of Palermo, was surprised by the response he received from the fans for the rosanero's tour in Australia."
+    },
+    {
+      "id": "956f4bf2f6ba",
+      "title": "Vozinha potrà giocare in Cile con il suo soprannome sulla maglia",
+      "url": "https://www.milannews.it/news/vozinha-potra-giocare-cile-soprannome-maglia-625796",
+      "source": "milannews.it",
+      "date": "2026-08-05T22:10:52+00:00",
+      "summary": "(ANSA) - ROME, AUGUST 05 - The Chilean Football Federation (ANFP) has granted an exemption to the Cape Verdean goalkeeper Vozinha, allowing him to wear the Colo Colo shirt with his nickname."
+    },
     {
       "id": "ee5dae78f22f",
       "title": "Baresi's gigantic lesson cannot last just one day. Amorim, watch out for countermoves",
       "url": "https://www.milannews.it/editoriale/gigantesca-lezione-baresi-durate-giorno-amorim-occhio-contromosse-625780",
       "source": "milannews.it",
       "date": "2026-08-05T22:00:01+00:00",
-      "summary": "Non so voi ma chi scrive e immagino col sottoscritto la stragrande maggioranza dei lettori di questa “sciagurata” rubrica, non dimenticheranno per un pezzo quello che è accaduto martedì 4 agosto 2026 dentro e  ..."
+      "summary": "I don't know about you but whoever writes and I imagine with myself the vast majority of readers of this \"unfortunate\" column, will not forget for a long time what happened on Tuesday 4 August 2026 in and ..."
     },
     {
       "id": "93db13761513",
@@ -15,11 +63,11 @@
       "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-milannews-personalizza-notizie-625803",
       "source": "milannews.it",
       "date": "2026-08-05T21:50:34+00:00",
-      "summary": "Google ha introdotto una nuova funzione destinata a cambiare il modo in cui leggiamo le notizie: si chiama \"Fonti preferite\" e permette di scegliere direttamente quali siti far comparire più spesso nei risultati."
+      "summary": "Google has introduced a new feature intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
     },
     {
       "id": "35fd10ef5392",
-      "title": "Mondiali 2030, il Times: \"Infantino spinge per la finale in Marocco\". La Fifa: \"È falso\"",
+      "title": "World Cup 2030, the Times: \"Infantino pushes for the final in Morocco\". FIFA: \"It's fake\"",
       "url": "https://www.milannews.it/news/mondiali-2030-times-infantino-spinge-finale-marocco-fifa-e-falso-625802",
       "source": "milannews.it",
       "date": "2026-08-05T21:40:16+00:00",
@@ -35,7 +83,7 @@
     },
     {
       "id": "efe6e396b277",
-      "title": "Amorim: \"Saelemaekers? Un grande professionista, è stato ben allenato da Allegri lo scorso anno\"",
+      "title": "Amorim: \"Saelemaekers? A great professional, he was well coached by Allegri last year\"",
       "url": "https://www.milannews.it/news/amorim-saelemaekers-professionista-allenato-allegri-anno-625800",
       "source": "milannews.it",
       "date": "2026-08-05T21:20:15+00:00",
@@ -47,7 +95,7 @@
       "url": "https://www.milannews.it/calciomercato-milan/milan-trequarti-piace-osorio-midtjylland-625807",
       "source": "milannews.it",
       "date": "2026-08-05T21:10:28+00:00",
-      "summary": "Si può aggiungere un altro calciatore alla liste dei potenziali obiettivi del Milan."
+      "summary": "Another player can be added to the list of potential AC Milan targets."
     },
     {
       "id": "ce602c1a376e",
@@ -67,7 +115,7 @@
     },
     {
       "id": "21c56b136fd9",
-      "title": "Milan-Chelsea, i precedenti in amichevole",
+      "title": "Milan-Chelsea, previous friendly matches",
       "url": "https://www.milannews.it/news/milan-chelsea-precedenti-amichevole-625792",
       "source": "milannews.it",
       "date": "2026-08-05T20:40:44+00:00",
@@ -83,11 +131,11 @@
     },
     {
       "id": "038b7297cb59",
-      "title": "La Juve batte il Chelsea 1-0, prossimo avversario del Milan in tournée",
+      "title": "Juve beats Chelsea 1-0, Milan's next opponent on tour",
       "url": "https://www.milannews.it/news/calcio-juve-batte-chelsea-1-0-super-gol-zhegrova-625789",
       "source": "milannews.it",
       "date": "2026-08-05T20:20:23+00:00",
-      "summary": "(ANSA) - MILAN, AUGUST 05 - Juventus' tour in Asia begins with a prestigious victory. Luciano Spalletti's Bianconeri beat Xabi Alonso's Chelsea 1-0."
+      "summary": "(ANSA) - MILANO, 05 AGO - La tournée della Juventus in Asia comincia con una vittoria di prestigio. I bianconeri di Luciano Spalletti hanno battuto 1-0 il Chelsea di Xabi Alonso."
     },
     {
       "id": "6b0caf2a5161",
@@ -115,59 +163,11 @@
     },
     {
       "id": "cec0cd31c982",
-      "title": "Galatasaray, primi contatti ufficiali per Can Uzun: il giocatore apre al trasferimento",
+      "title": "Galatasaray, first official contacts for Can Uzun: the player is open to a transfer",
       "url": "https://www.milannews.it/calciomercato-milan/galatasaray-primi-contatti-ufficiali-can-uzun-giocatore-apre-trasferimento-625779",
       "source": "milannews.it",
       "date": "2026-08-05T19:49:01+00:00",
       "summary": "According to what was reported by Yeni Acik's Turkish colleague Ertan Suzkun, Galatasaray has recently started the first official contacts with Eintracht Frankfurt for the transfer to Turkey of Can Uzun, a name also linked to the trequ ..."
-    },
-    {
-      "id": "de0ae849c0d1",
-      "title": "Serginho promuove Amorim: \"Ha già capito il Dna del Milan\"",
-      "url": "https://www.milannews.it/news/serginho-promuove-amorim-ha-capito-dna-milan-625744",
-      "source": "milannews.it",
-      "date": "2026-08-05T19:40:25+00:00",
-      "summary": "This morning, before the friendly match in Perth between Milan and Inter, the editorial staff of La Stampa proposed an interview with the former Rossoneri and Brazilian full-back Serginho in its paper edition."
-    },
-    {
-      "id": "7ac5b25c5ddd",
-      "title": "Serafini after the derby: \"Incomplete squad that absolutely needs interventions on the market\"",
-      "url": "https://www.milannews.it/news/serafini-derby-rosa-incompleta-assolutamente-bisogno-interventi-mercato-625786",
-      "source": "milannews.it",
-      "date": "2026-08-05T19:29:24+00:00",
-      "summary": "Il giornalista Luca Serafini, in un video pubblicato sui canali di Milan Community, ha dato le sue impressioni dopo la partita amichevole di oggi pomeriggio tra Milan ed Inter."
-    },
-    {
-      "id": "1af3e5631492",
-      "title": "Inter, Chivu: \"The results don't matter now, but we are growing\"",
-      "url": "https://www.milannews.it/news/calcio-chivu-risultati-contano-vedo-crescita-inter-625785",
-      "source": "milannews.it",
-      "date": "2026-08-05T19:21:51+00:00",
-      "summary": "(ANSA) - MILAN, AUGUST 5 - \"I see growth, the boys are working hard and we have worked hard in recent days."
-    },
-    {
-      "id": "ac7992549ed6",
-      "title": "Buone sensazioni per l'esordio di Ramos: la pagella a cura di MilanNews.it",
-      "url": "https://www.milannews.it/news/buone-sensazioni-esordio-ramos-pagella-cura-milannews-it-625766",
-      "source": "milannews.it",
-      "date": "2026-08-05T19:10:38+00:00",
-      "summary": "The long-awaited moment of Gonçalo Ramos' debut with the AC Milan shirt arrived shortly after the half-hour of play, when coach Ruben Amorim changed eight of the team's elevenths, sending practically ..."
-    },
-    {
-      "id": "5225d39caf5b",
-      "title": "Fiorentina, Commisso announces: \"For the Centenary we are retiring the no.10 shirt in honor of Antognoni\"",
-      "url": "https://www.milannews.it/l-avversario/fiorentina-commisso-centenario-ritiriamo-maglia-n-10-onore-antognoni-625676",
-      "source": "milannews.it",
-      "date": "2026-08-05T19:00:00+00:00",
-      "summary": "In the 2026/27 season, the Centenary season, Fiorentina, ''in honor of Giancarlo Antognoni'', will retire the number 10 shirt: this was announced by Viola president Giuseppe B."
-    },
-    {
-      "id": "faa2325551a3",
-      "title": "Compagnoni believes it: \"Amorim with his game could enhance Leao's qualities\"",
-      "url": "https://www.milannews.it/news/compagnoni-crede-amorim-gioco-far-esaltare-qualita-625695",
-      "source": "milannews.it",
-      "date": "2026-08-05T18:50:00+00:00",
-      "summary": "La telenovela dell'estate in casa Milan si chiama futuro di Rafael Leao. Il portoghese sembra essere più vicino alla permanenza al Milan, questo per mancanza di offerte concrete da parte di altri club."
     },
     {
       "id": "b25ff0970379",
