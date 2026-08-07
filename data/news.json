@@ -1,6 +1,246 @@
 {
-  "lastUpdated": "2026-08-06T14:02:14.448738+00:00",
+  "lastUpdated": "2026-08-07T00:40:01.894199+00:00",
   "articles": [
+    {
+      "id": "cfb85af8cc6f",
+      "title": "TOP NEWS of August 6 - Gila returns to Milan, the arrival of Milan in Jakarta and the exclusive Traorè",
+      "url": "https://www.milannews.it/news/top-news-6-agosto-625912",
+      "source": "milannews.it",
+      "date": "2026-08-06T23:00:00+00:00",
+      "summary": "News, curiosities, the voices of the protagonists and the latest market news on MilanNews.it."
+    },
+    {
+      "id": "5e9d9dd7fb26",
+      "title": "Ramazzotti on Leao: \"Ruben Amorim will give the last word\"",
+      "url": "https://www.milannews.it/news/ramazzotti-leao-sara-ruben-amorim-dare-ultima-parola-625890",
+      "source": "milannews.it",
+      "date": "2026-08-06T22:50:24+00:00",
+      "summary": "Where will Rafael Leao play this season? A question that still has no answer even though just a few days ago it could at least be said with certainty that the Portuguese's future would be far from Milan."
+    },
+    {
+      "id": "639b1364a6ca",
+      "title": "Jashari: \"Last year I got hurt and I didn't have the chance to play continuously, it wasn't in my plans\"",
+      "url": "https://www.milannews.it/news/jashari-l-giocare-continuita-piani-625922",
+      "source": "milannews.it",
+      "date": "2026-08-06T22:40:00+00:00",
+      "summary": "Ardon Jashari spoke to Sky Sport a short while ago."
+    },
+    {
+      "id": "d7557dd4be81",
+      "title": "Jashari doesn't hide: \"We have the ability to express dominant football\"",
+      "url": "https://www.milannews.it/news/jashari-nasconde-abbiamo-capacita-esprimere-calcio-dominante-625921",
+      "source": "milannews.it",
+      "date": "2026-08-06T22:30:39+00:00",
+      "summary": "Ardon Jashari spoke to Sky Sport a short while ago."
+    },
+    {
+      "id": "774ec3f81dae",
+      "title": "Jashari to Sky Sport: \"I want to show my value and I can play together with Modric, Amorim brought a different energy and mentality\"",
+      "url": "https://www.milannews.it/primo-piano/jashari-sky-sport-voglio-mostrare-valore-posso-giocare-modric-amorim-portato-energia-mentalita-diver-625920",
+      "source": "milannews.it",
+      "date": "2026-08-06T22:24:00+00:00",
+      "summary": "Speaking to Sky Sport, Ardon Jashari spoke a little while ago directly from Milan's training camp in Jakarta."
+    },
+    {
+      "id": "ab0663a2a0e7",
+      "title": "Fiorentina, Mastantuono arrived: over 500 fans welcomed him",
+      "url": "https://www.milannews.it/l-avversario/fiorentina-arrivato-mastantuono-accoglierlo-500-tifosi-625910",
+      "source": "milannews.it",
+      "date": "2026-08-06T22:20:00+00:00",
+      "summary": "(ANSA) - FLORENCE, AUGUST 06 - Over five hundred fans with purple and even Argentine flags, gathered at Peretola airport, welcomed Franco Mastantuono who arrived in Florence on a private flight from Madrid."
+    },
+    {
+      "id": "60da385ccd62",
+      "title": "Is Napoli targeting a former AC Milan target? The Azzurri deal Gabriel Jesus",
+      "url": "https://www.milannews.it/l-avversario/napoli-fionda-obiettivo-milan-azzurri-trattano-gabriel-jesus-625919",
+      "source": "milannews.it",
+      "date": "2026-08-06T22:10:00+00:00",
+      "summary": "As reported this evening by Sky Sport, Napoli could enter the race for a striker who was also sought by Milan in the past. This is Gabriel Jesus."
+    },
+    {
+      "id": "c3051819139c",
+      "title": "Paolo's tears. The whistles to Cardinale (and Scaroni). The real estate market. Leao, if it's patient, if it stays it's better",
+      "url": "https://www.milannews.it/editoriale/lacrime-paolo-fischi-cardinale-e-scaroni-mercato-immobile-leao-pazienza-resta-625877",
+      "source": "milannews.it",
+      "date": "2026-08-06T22:00:01+00:00",
+      "summary": "The images of the farewell to Franco Baresi are engraved in the soul and reflected in the eyes, stuck with tears, they do not go away."
+    },
+    {
+      "id": "5783a629cbdd",
+      "title": "From abroad: Vinicius renews with Real Madrid until 2032",
+      "url": "https://www.milannews.it/news/vinicius-rinnova-real-madrid-2032-625906",
+      "source": "milannews.it",
+      "date": "2026-08-06T21:50:00+00:00",
+      "summary": "(ANSA) - ROME, AUGUST 06 - After making the purchase of Diomandé official, Real Madrid has closed the renewal of Brazilian star Vinicius Junior. \"Real Madrid FC and Vinicius Jr."
+    },
+    {
+      "id": "70f7063c7343",
+      "title": "MN - Chaka Traorè has no doubts: \"Leao is a true professional...\"",
+      "url": "https://www.milannews.it/news/mn-chaka-traore-dubbi-leao-vero-professionista-625907",
+      "source": "milannews.it",
+      "date": "2026-08-06T21:40:00+00:00",
+      "summary": "Journalist Alessandro Schiavone interviewed Chaka Traoré exclusively for MilanNews.it."
+    },
+    {
+      "id": "32edf0e1759c",
+      "title": "Milan weaker, Diddi critical: \"Rossoneri from fourth place\"",
+      "url": "https://www.milannews.it/news/milan-debole-diddi-critico-rossoneri-posto-625904",
+      "source": "milannews.it",
+      "date": "2026-08-06T21:30:00+00:00",
+      "summary": "It's a summer of work in progress for Ruben Amorim's new Milan. A team in the midst of construction, almost like an open construction site."
+    },
+    {
+      "id": "2d9980556ee8",
+      "title": "Milan transfer market, Marchetti: \"With the arrival of Gonçalo Ramos the Rossoneri have improved their attack\"",
+      "url": "https://www.milannews.it/news/mercato-milan-marchetti-con-arrivo-goncalo-ramos-rossoneri-messo-attacco-625918",
+      "source": "milannews.it",
+      "date": "2026-08-06T21:20:00+00:00",
+      "summary": "Speaking to Sky Sport - Calciomercato L'Originale, journalist and negotiation expert Luca Marchetti spoke about Ruben Amorim's AC Milan moment."
+    },
+    {
+      "id": "3c99f7ea7014",
+      "title": "Reijnders future: his transfer to Nottingham Forest would also \"favor\" Milan",
+      "url": "https://www.milannews.it/gli-ex/reijnders-cessione-nottingham-forest-favorirerebbe-milan-625903",
+      "source": "milannews.it",
+      "date": "2026-08-06T21:10:00+00:00",
+      "summary": "As reported in the last few hours, the future of former Milan midfielder Tijjani Reijnders could, surprisingly, be far from Manchester."
+    },
+    {
+      "id": "f2da06a10449",
+      "title": "MN - Chaka Traorè reveals: \"Maignan was a leader and an example for me\"",
+      "url": "https://www.milannews.it/news/mn-chaka-traore-rivela-maignan-leader-me-625899",
+      "source": "milannews.it",
+      "date": "2026-08-06T21:00:00+00:00",
+      "summary": "Journalist Alessandro Schiavone interviewed Chaka Traoré exclusively for MilanNews.it."
+    },
+    {
+      "id": "88c382141af2",
+      "title": "Baresi eternal, Pellegatti: \"The history of Milan has seen magnificent champions on the pitch, but none as great as Franco Baresi\"",
+      "url": "https://www.milannews.it/news/baresi-eterno-pellegatti-la-storia-milan-campo-magnifici-campioni-franco-baresi-625902",
+      "source": "milannews.it",
+      "date": "2026-08-06T20:50:00+00:00",
+      "summary": "Carlo Pellegatti, journalist, expressed himself thus during his editorial for MilanNews.it."
+    },
+    {
+      "id": "dc4ca5ebac48",
+      "title": "Milan, the point on the outgoing market: Odogu towards farewell on loan",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-punto-mercato-uscita-odogu-addio-prestito-625901",
+      "source": "milannews.it",
+      "date": "2026-08-06T20:40:00+00:00",
+      "summary": "It was now in the air, also given the exclusion from Milan's summer tour. David Odogu did not convince, and for this reason his future at the Rossoneri will take another (temporary) direction."
+    },
+    {
+      "id": "c7182c64150b",
+      "title": "Pasotto: \"This is what would make Osorio fascinating in the eyes of Amorim\"",
+      "url": "https://www.milannews.it/news/pasotto-ecco-renderebbe-osorio-affascinante-occhi-amorim-625892",
+      "source": "milannews.it",
+      "date": "2026-08-06T20:30:00+00:00",
+      "summary": "The name of the last few hours at Milan for the role of attacking midfielder is that of Dario Osorio, a Chilean playmaker born in 2004 who plays in Denmark in Midtjylland."
+    },
+    {
+      "id": "f742e302b513",
+      "title": "Future Leao, Ramazzotti: \"A technical evaluation by Amorim is underway\"",
+      "url": "https://www.milannews.it/news/leao-ramazzotti-e-corso-valutazione-tecnica-amorim-625897",
+      "source": "milannews.it",
+      "date": "2026-08-06T20:20:00+00:00",
+      "summary": "In fact, in recent days, thanks to the refusals of the offers of the Turkish teams of both the club and the player, the possible permanence of the Rossoneri number 10 is increasingly materializing."
+    },
+    {
+      "id": "fea4bcd833a5",
+      "title": "Rome, does Pellegrini stay or go? The latest on the Giallorossi midfielder",
+      "url": "https://www.milannews.it/l-avversario/calcio-pellegrini-roma-rinnovo-625896",
+      "source": "milannews.it",
+      "date": "2026-08-06T20:10:00+00:00",
+      "summary": "An agreement for the renewal has almost been reached between Roma and Lorenzo Pellegrini. The midfielder's contract - which expired on 30 June - should be renewed for just one year compared to the player's request for two."
+    },
+    {
+      "id": "4d6b8e3d21ee",
+      "title": "MN - Chaka Traoré: \"Gabbia and Maignan are the most serious. Matteo is an incredible professional and a golden boy\"",
+      "url": "https://www.milannews.it/news/mn-chaka-traore-gabbia-maignan-seri-matteo-professionista-incredibile-ragazzo-d-oro-625885",
+      "source": "milannews.it",
+      "date": "2026-08-06T20:00:35+00:00",
+      "summary": "Journalist Alessandro Schiavone interviewed Chaka Traoré exclusively for MilanNews.it."
+    },
+    {
+      "id": "642b1e1bafff",
+      "title": "Report: Former Milan director Moncada offered Nottingham Forest job",
+      "url": "https://football-italia.net/moncada-offered-nottingham-forest-job/",
+      "source": "football-italia.net",
+      "date": "2026-08-06T19:18:16+00:00",
+      "summary": "Reports in Italy claim that Milan’s former technical director Geoffrey Moncada has been presented with..."
+    },
+    {
+      "id": "b1a55f36545e",
+      "title": "Obvious improvements and habits to unlearn: Tactical indications from AC Milan 1-1 Inter",
+      "url": "https://sempremilan.com/tactical-analysis-ac-milan-1-1-inter-friendly",
+      "source": "sempremilan.com",
+      "date": "2026-08-06T18:00:00+00:00",
+      "summary": "AC Milan played their second summer friendly out in Australia on Wednesday, drawing 1-1 with Inter in a derby down under. After opening their preseason account with a 2-2 draw at Celtic park the weekend before last, this was another good indicator of where Ruben Amorim’s side are at in their prepara"
+    },
+    {
+      "id": "47cb54711618",
+      "title": "Reports: Milan considering move for Chilean star previously targeted by Maldini – the latest",
+      "url": "https://sempremilan.com/milan-considering-move-chilean-star-maldini-target",
+      "source": "sempremilan.com",
+      "date": "2026-08-06T17:30:00+00:00",
+      "summary": "Today, a new name has entered the conversation for AC Milan regarding signing a new, young attacking midfielder.  There have been plenty of names thrown into the conversation about a new No. 10 for Ruben Amorim. However, the failure to sell Rafael Leao has made any move difficult and it remains this"
+    },
+    {
+      "id": "e1857452bea7",
+      "title": "Watch: “You’re being dumb” – Leao refuses to sign Galatasaray shirt amid exit rumours",
+      "url": "https://sempremilan.com/leao-refuses-sign-galatasaray-shirt",
+      "source": "sempremilan.com",
+      "date": "2026-08-06T17:00:00+00:00",
+      "summary": "There are plenty of suggestions about Rafael Leao currently, but the AC Milan winger is trying not to feed into them. In recent weeks, a move to Turkey has seemed most likely for Leao. Indeed, top European clubs have not yet made any moves for him and whilst it could still be possible, it’s unlikely"
+    },
+    {
+      "id": "5f007587c6da",
+      "title": "Two clubs step forwards for Milan defender Odogu after just 12 months",
+      "url": "https://football-italia.net/two-clubs-interested-milan-defender-odogu/",
+      "source": "football-italia.net",
+      "date": "2026-08-06T16:48:34+00:00",
+      "summary": "David Odogu is heading towards a move away from Milan just 12 months after he..."
+    },
+    {
+      "id": "338322244c30",
+      "title": "MN: Gila returns to Milan to continue recovery – four other players join him",
+      "url": "https://sempremilan.com/gila-returns-milan-continue-recovery",
+      "source": "sempremilan.com",
+      "date": "2026-08-06T16:30:00+00:00",
+      "summary": "This afternoon, a report has emerged stating that Mario Gila has returned to Italy, leaving his AC Milan teammates on their pre-season tour. It has certainly not been the summer that Gila would’ve hoped for so far. He was injured against Celtic and since then, he has not been involved with the team."
+    },
+    {
+      "id": "744aae0eb21e",
+      "title": "“It shows” – Amorim praises Allegri’s coaching after Milan’s 1-1 draw with Inter",
+      "url": "https://sempremilan.com/amorim-praises-allegri-coaching-milan-draw-inter",
+      "source": "sempremilan.com",
+      "date": "2026-08-06T16:00:00+00:00",
+      "summary": "Massimiliano Allegri’s coaching of AC Milan last season certainly could’ve been criticised after what happened at the end of the season, but Ruben Amorim has not taken that route. There are certainly a few who were left disappointed by Allegri last season. After all, the Italian was the Champions Le"
+    },
+    {
+      "id": "44b608dfa4f4",
+      "title": "SportMediaset: Galatasaray set to make second Leao offer this weekend after push back",
+      "url": "https://sempremilan.com/galatasaray-set-make-second-leao-offer-weekend",
+      "source": "sempremilan.com",
+      "date": "2026-08-06T15:30:00+00:00",
+      "summary": "This weekend, AC Milan are expected to receive another bid from Turkey for Rafael Leao, according to reports in Italy. A move for Leao has seemed almost guaranteed for large parts of this summer. However, there has been very little progress towards this so far. Indeed, the Portuguese wants to play i"
+    },
+    {
+      "id": "fb2b86913c8e",
+      "title": "GdS: Inacio and a playmaker – Milan hope for two more signings after friendlies",
+      "url": "https://sempremilan.com/inacio-playmaker-milan-hope-two-more-signings",
+      "source": "sempremilan.com",
+      "date": "2026-08-06T15:00:00+00:00",
+      "summary": "AC Milan have been quiet in the mercato recently and it’s understandable why. However, they are not done on their terms. After the signings of Mario Gila and Goncalo Ramos, Milan have had to take a back seat in the mercato. Ultimately, they cannot commit to nearly €200 million in spending without re"
+    },
+    {
+      "id": "520af75bc389",
+      "title": "Sky: Milan to unveil new third shirt in Jakarta on Friday – what we know so far",
+      "url": "https://sempremilan.com/milan-unveil-third-shirt-in-jakarta-friday",
+      "source": "sempremilan.com",
+      "date": "2026-08-06T14:30:00+00:00",
+      "summary": "Tomorrow, AC Milan will unveil their new third shirt in Jakarta, with reports confirming this information earlier this afternoon. Earlier today, Milan landed in Jakarta for the next stage of their pre-season tour after the 1-1 draw with Inter yesterday afternoon. Chelsea are up next for the Diavolo,"
+    },
     {
       "id": "134975b3eb0a",
       "title": "Milan Futuro lose entertaining six-goal friendly against Monza – the highlights",
@@ -8,30 +248,6 @@
       "source": "sempremilan.com",
       "date": "2026-08-06T14:00:00+00:00",
       "summary": "Earlier this week, AC Milan’s Futuro team faced Monza as part of their pre-season preparation and it was quite a close game. The Futuro squad have remained in Italy this summer, as you’d expect, and this has meant they have had a domestic pre-season, with a match against Monza as their most recent t"
-    },
-    {
-      "id": "2e68b0f9662a",
-      "title": "Galatasaray on Leao: the alternative for the Turks is Martinelli",
-      "url": "https://www.milannews.it/calciomercato-milan/galatasaray-leao-alternativa-turchi-martinelli-625869",
-      "source": "milannews.it",
-      "date": "2026-08-06T13:49:11+00:00",
-      "summary": "Galatasaray is continuing to talk with Milan after the Rossoneri rejected an initial €35 million offer for Leao, including bonuses."
-    },
-    {
-      "id": "ddd537634114",
-      "title": "Milan, second offer from Galatasaray for Leao by Sunday: loan with obligation to buy set at 40 million euros",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-entro-domenica-seconda-offerta-galatasaray-leao-prestito-obbligo-riscatto-fissato-40-euro-625866",
-      "source": "milannews.it",
-      "date": "2026-08-06T13:40:07+00:00",
-      "summary": "According to what Orazio Accomando reports to SportMediaset on Italia Uno, the scenario of a possible stay of Rafael Leao at Milan must be kept open, but the transfer rumors about the Portuguese on whom there is strong pressure from the ..."
-    },
-    {
-      "id": "c3afe5f6524b",
-      "title": "Capuano warns: \"Without technical cleanliness coming out of the defense, with still too many inaccuracies, the risk is multiplying the dangers\"",
-      "url": "https://www.milannews.it/news/capuano-avvisa-senza-pulizia-tecnica-uscita-difesa-troppe-imprecisioni-rischio-moltiplicare-pericoli-625836",
-      "source": "milannews.it",
-      "date": "2026-08-06T13:30:13+00:00",
-      "summary": "Giovanni Capuano, journalist, expressed himself as follows on Panorama, commenting on Milan-Inter, a friendly match in Perth which ended 1-1: \"For Amorim, some confirmations and a long list of things still to be done in the three short weeks that remain..."
     },
     {
       "id": "9da5f154dc93",
@@ -42,52 +258,12 @@
       "summary": "For the first time in over 20 years, AC Milan have made it to August 6 without having made a single sale. That is cause for some concern. La Gazzetta dello Sport write how something unusual is evident in AC Milan’s summer transfer window. In the first two weeks, two signings arrived for €100m in […]"
     },
     {
-      "id": "22f1ce810d48",
-      "title": "Serie D, here are Milan Futuro's opponents in the 2026-2027 championship",
-      "url": "https://www.milannews.it/milan-futuro/serie-d-avversarie-milan-campionato-2026-2027-625865",
-      "source": "milannews.it",
-      "date": "2026-08-06T13:20:26+00:00",
-      "summary": "As reported by Milan's official website, the National Amateur League has announced the composition of the groups of the 2026/27 Serie D, a competition in which Milan Futuro will also participate: \"Today the National League ..."
-    },
-    {
-      "id": "423f44e9e569",
-      "title": "Order: \"Amorim will have to be careful because his colleagues from the Italian school take two minutes to find countermeasures to the pressing\"",
-      "url": "https://www.milannews.it/news/ordine-amorim-stare-attento-colleghi-di-scuola-italiana-impiegano-minuti-trovare-contromisure-pressi-625834",
-      "source": "milannews.it",
-      "date": "2026-08-06T13:11:25+00:00",
-      "summary": "During his editorial for MilanNews."
-    },
-    {
-      "id": "88f024438329",
-      "title": "MN EXCLUSIVE - Chaka Traore: \"Leão? Nothing to envy of Yamal and Robben. Do you remember the match against PSG? Then the women like him a lot... but we don't know what's going on in his head\"",
-      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-chaka-traore-leao-invidiare-yamal-robben-ricordate-partita-psg-piace-donne-sappiamo-pas-625863",
-      "source": "milannews.it",
-      "date": "2026-08-06T13:00:05+00:00",
-      "summary": "Journalist Alessandro Schiavone interviewed Chaka Traoré exclusively for MilanNews.it."
-    },
-    {
       "id": "9e306c25bb38",
       "title": "Watch: Milan squad welcomed after arriving in Jakarta before Chelsea friendly",
       "url": "https://sempremilan.com/milan-squad-welcomed-jakarta-chelsea",
       "source": "sempremilan.com",
       "date": "2026-08-06T13:00:00+00:00",
       "summary": "After yesterday’s derby draw against Inter, AC Milan left Perth in the past few hours and recently arrived in Indonesia. The squad landed in Jakarta, where they will face Chelsea in a friendly on Saturday at 14:00 CEST Italian time at the Gelora Bung Karno Stadium. A warm-down session in the gym is "
-    },
-    {
-      "id": "486893e9d524",
-      "title": "Moretto: \"Gala is pushing for Leao but all proposals under 50 million are declined by Milan\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-il-gala-spinge-leao-proposte-50-mln-declinate-milan-625862",
-      "source": "milannews.it",
-      "date": "2026-08-06T12:49:52+00:00",
-      "summary": "The Leao saga continues: the Portuguese has currently only attracted the interest of Turkish teams, who however do not satisfy Milan's request."
-    },
-    {
-      "id": "7387d436b867",
-      "title": "VIDEO - Milan in Jakarta: Rossoneri welcomed to the hotel by music and dancing",
-      "url": "https://www.milannews.it/news/video-milan-jakarta-rossoneri-accolti-hotel-musica-balli-625860",
-      "source": "milannews.it",
-      "date": "2026-08-06T12:40:28+00:00",
-      "summary": "Having concluded their adventure in Australia with the friendly match against Inter, Milan left the city of Perth in the last few hours and flew to Jakarta where they will be involved in a test against Chelsea on Saturday."
     },
     {
       "id": "d1aae125d85a",
@@ -98,44 +274,12 @@
       "summary": "Pundit and former Liverpool defender Jamie Carragher says that he is ‘convinced’ that Mohamed Salah..."
     },
     {
-      "id": "ddc3906bc797",
-      "title": "Guidi spiega: \"Non si pensi al centravanti limitato all'area di rigore: Ramos aiuterà anche sulla trequarti\"",
-      "url": "https://www.milannews.it/news/guidi-spiega-non-pensi-centravanti-limitato-area-rigore-ramos-aiutera-trequarti-625830",
-      "source": "milannews.it",
-      "date": "2026-08-06T12:30:24+00:00",
-      "summary": "Marco Guidi, journalist, expressed himself in La Gazzetta dello Sport on the use that Amorim will make of Goncalo Ramos, the new Rossoneri striker: \"The question has already been making the Rossoneri fans impatient for a month: c ..."
-    },
-    {
       "id": "6c6873d75653",
       "title": "CM: Milan begin Embolo discussions again – the asking price and what is needed first",
       "url": "https://sempremilan.com/milan-begin-embolo-discussions-again-price",
       "source": "sempremilan.com",
       "date": "2026-08-06T12:30:00+00:00",
       "summary": "After links in previous transfers, Breel Embolo has once again ended up on AC Milan’s radar as they seek an additional forward. As Calciomercato.com recall, Embolo is a player who has often been linked with Serie A in recent years. Several Italian clubs – including Juventus and Roma – had expressed "
-    },
-    {
-      "id": "0f0a42121a25",
-      "title": "Milan, the third shirt for the 2026-2027 season will be presented tomorrow",
-      "url": "https://www.milannews.it/news/milan-domani-verra-presentata-terza-maglia-stagione-2026-2027-625861",
-      "source": "milannews.it",
-      "date": "2026-08-06T12:20:56+00:00",
-      "summary": "As Peppe Di Stefano reports in connection with SkySport24 from Jakarta where Milan landed in the last few hours after leaving Perth, tomorrow will be an important day for the Rossoneri because, in addition to the press conference ..."
-    },
-    {
-      "id": "fbdf8dd12baa",
-      "title": "Licari: \"Leao, unlike Vlahovic, can still convince Milan that not everything is over\"",
-      "url": "https://www.milannews.it/calciomercato-milan/licari-leao-diversamente-vlahovic-convincere-milan-finito-625829",
-      "source": "milannews.it",
-      "date": "2026-08-06T12:10:26+00:00",
-      "summary": "Fabio Licari, journalist, expressed himself as follows in La Gazzetta dello Sport on the future of Rafael Leao, the Rossoneri striker, at Milan: \"Everyone wants me, no one takes me: an old play on words that adapts perfectly to those already ..."
-    },
-    {
-      "id": "647125b3e2fd",
-      "title": "Milan, flashback for Dario Osorio: Maldini had tried to sign him in 2023. Career, characteristics and Kjaer's words",
-      "url": "https://www.milannews.it/primo-piano/milan-ritorno-fiamma-dario-osorio-maldini-provato-prenderlo-2023-carriera-caratteristiche-parole-kja-625858",
-      "source": "milannews.it",
-      "date": "2026-08-06T12:00:43+00:00",
-      "summary": "A new name appears for Milan's attacking midfield, although in reality it would be more correct to talk about a flashback given that a few years ago the Rossoneri had already tried to bring Dario Osorio to Milanello."
     },
     {
       "id": "19cacd6ea40b",
@@ -146,14 +290,6 @@
       "summary": "Galatasaray have made their first offer for Rafael Leao but it has been rejected by AC Milan, according to reports. According to the latest from Sky, Galatasaray’s first bid for Leao arrived in the last few hours. The offer presented to Milan is €30m plus €5m in bonuses, but the Rossoneri have rejec"
     },
     {
-      "id": "45008efa2a6f",
-      "title": "Ramazzotti: \"As for Milan's ball possession, it is still not as prolonged as Amorim would like\"",
-      "url": "https://www.milannews.it/news/ramazzotti-quanto-possesso-palla-milan-prolungato-amorim-vorrebbe-625827",
-      "source": "milannews.it",
-      "date": "2026-08-06T11:50:38+00:00",
-      "summary": "Andrea Ramazzotti, journalist, expressed himself as follows in La Gazzetta dello Sport commenting on Milan-Inter, a friendly played in Perth: \"The derby in Australia ends in a draw."
-    },
-    {
       "id": "a89c91cdfc04",
       "title": "Report: Milan reject €35m Galatasaray offer for Leao",
       "url": "https://football-italia.net/report-milan-reject-35m-galatasaray-leao/",
@@ -162,44 +298,12 @@
       "summary": "Milan have rejected an offer from Galatasaray for Rafael Leão, judging the Turkish club’s opening..."
     },
     {
-      "id": "de58c2495650",
-      "title": "Letizia doesn't agree: \"I don't think we need to wait any longer to understand that Tomori and Estupinan aren't from Milan\"",
-      "url": "https://www.milannews.it/calciomercato-milan/letizia-sta-non-credo-serva-aspettare-capire-tomori-estupinan-milan-625825",
-      "source": "milannews.it",
-      "date": "2026-08-06T11:30:36+00:00",
-      "summary": "Francesco Letizia, journalist, expressed himself thus in his editorial on Sportitalia on Milan's outgoing transfer market: \"Testing is legitimate, processing the test results - especially if negative - is obligatory ..."
-    },
-    {
       "id": "cc2c790a5826",
       "title": "Tuttosport: Amorim asks for help on the flanks – former Bayern Munich star an idea",
       "url": "https://sempremilan.com/amorim-help-flanks-guerreiro-idea-milan",
       "source": "sempremilan.com",
       "date": "2026-08-06T11:30:00+00:00",
       "summary": "AC Milan have some concerns about their wing-back options and they could address them by signing a free agent, a report claims. Tuttosport (via MilanPress) recall that yesterday’s 1-1 derby draw against Inter in Perth revealed one of the biggest gaps in Milan’s current squad: the lack of dependable "
-    },
-    {
-      "id": "ea2ddc991991",
-      "title": "Dopo un solo anno, finisce l'avventura di Gutierrez al Napoli. Ma ad un ottimo prezzo",
-      "url": "https://www.milannews.it/news/calcio-gutierrez-ceduto-napoli-bayer-leverkusen-625819",
-      "source": "milannews.it",
-      "date": "2026-08-06T11:20:54+00:00",
-      "summary": "(ANSA) - NAPLES, AUGUST 05 - Napoli have sold Miguel Gutierrez to Bayer Leverkusen. The player who had already undergone medical examinations in Germany signed the contract today."
-    },
-    {
-      "id": "9f8e3969f714",
-      "title": "Pasotto: \"Osservi il Milan dei primi venti minuti e vedi tutto quello su cui sta lavorando Amorim. Poi tutto ripiomba nella passività\"",
-      "url": "https://www.milannews.it/news/pasotto-osservi-milan-primi-venti-minuti-vedi-lavorando-amorim-ripiomba-passivita-625826",
-      "source": "milannews.it",
-      "date": "2026-08-06T11:10:19+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport, commenting on Amorim's words after Milan-Inter in Perth: \"Two-sided matches are a great summer classic."
-    },
-    {
-      "id": "0386def9710f",
-      "title": "Milan on Osorio: here's what Simon Kjaer said about him at the beginning of June",
-      "url": "https://www.milannews.it/gli-ex/milan-osorio-simon-kjaer-inizio-giugno-625853",
-      "source": "milannews.it",
-      "date": "2026-08-06T11:00:19+00:00",
-      "summary": "Simon Kjaer, former Rossoneri defender who is now part of the Midtjylland board, spoke like this during the transfer market at the beginning of June."
     },
     {
       "id": "1884c357ce4a",
@@ -216,30 +320,6 @@
       "source": "football-italia.net",
       "date": "2026-08-06T10:55:00+00:00",
       "summary": "Milan have identified Breel Embolo as a potential addition to their attack, but face competition..."
-    },
-    {
-      "id": "82e8b1cf79ef",
-      "title": "MN - Gala offer for Leao, rejected. Rafa has announced that he wants to stay. After mid-August possible news",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-offerta-gala-leao-rifiutata-rafa-comunicato-voler-rimanere-ferragosto-possibili-novita-625857",
-      "source": "milannews.it",
-      "date": "2026-08-06T10:50:51+00:00",
-      "summary": "È arrivata la prima offerta del Galatasaray per Rafael Leao: 35 milioni di euro bonus compresi, con il Milan che ha rifiutato e rimane fermo sulla sua valutazione di almeno 50 milioni di euro."
-    },
-    {
-      "id": "4bebae46b322",
-      "title": "F.Inzaghi ricorda Baresi: \"Franco è stato un monumento, per me è sempre stato un esempio. Ci mancherà\"",
-      "url": "https://www.milannews.it/gli-ex/f-inzaghi-ricorda-baresi-franco-monumento-esempio-manchera-625846",
-      "source": "milannews.it",
-      "date": "2026-08-06T10:41:37+00:00",
-      "summary": "During the inauguration of \"Casa Sicilia\" in Perth, Filippo Inzaghi, Palermo coach, gave an interview in which he remembered Franco Baresi, the former AC Milan captain who passed away a few days ago: \"The homage to Bar ..."
-    },
-    {
-      "id": "2b383528baa5",
-      "title": "Italian football: sports diplomacy strengthens the partnership between Italy and Western Australia",
-      "url": "https://www.milannews.it/news/calcio-italiano-diplomazia-sport-rafforza-partenariato-italia-western-australia-625852",
-      "source": "milannews.it",
-      "date": "2026-08-06T10:31:44+00:00",
-      "summary": "The institutional mission of the President of SACE, Guglielmo Picchi, organized by the Italian Consulate on the occasion of Italian Football, an initiative that transformed the great sporting event into a platform ..."
     },
     {
       "id": "0eaa468ad72f",
@@ -298,14 +378,6 @@
       "summary": "{rsn-live-v2}"
     },
     {
-      "id": "881dc87a1e29",
-      "title": "GdS: What worked, what didn’t and the guiding light – conclusions for Amorim after Inter draw",
-      "url": "https://sempremilan.com/what-worked-didnt-conclusions-milan-inter",
-      "source": "sempremilan.com",
-      "date": "2026-08-06T08:00:00+00:00",
-      "summary": "As is expected during preseason and the growing pains it brings, there were some good and bad signs from AC Milan’s draw with Inter. Last night we picked out three conclusions from the 1-1 draw in Perth, while our ratings from the game have more of a detailed breakdown of how each player got on. […]"
-    },
-    {
       "id": "0f4874f268cc",
       "title": "Today’s papers: Milan & Inter draw in Perth as Juve push for new signings",
       "url": "https://football-italia.net/todays-papers-milan-inter-draw-in-perth-as-juve-push-for-new-signings/",
@@ -322,22 +394,6 @@
       "summary": "Watch the highlights from today’s friendly matches, as Juventus beat Chelsea 1-0 with an Edon..."
     },
     {
-      "id": "7c3e601ffe84",
-      "title": "AC Milan 1-1 Inter: Three things we learned – the battery life issue and some what ifs",
-      "url": "https://sempremilan.com/milan-1-1-inter-three-things-we-learned",
-      "source": "sempremilan.com",
-      "date": "2026-08-05T18:00:00+00:00",
-      "summary": "AC Milan took another step forward in their preseason preparations as they drew 1-1 with Inter in a derby down under. The game took place at the Optus Stadium in Perth after some more touching tributes to Franco Baresi. The Milan players took to the field wearing No.6 shirts after a rendition of ‘Ne"
-    },
-    {
-      "id": "d0e13dd464c0",
-      "title": "Reports: Milan and Juventus interested in €40m-rated Parma star",
-      "url": "https://sempremilan.com/milan-juventus-interested-parma-circati",
-      "source": "sempremilan.com",
-      "date": "2026-08-05T17:30:00+00:00",
-      "summary": "AC Milan are being linked with a domestic target who could come in the complete the defence: Parma star Alessandro Circati. A report on MilanVibes begins by stating that rumours are circulating from Australia, the USA and England regarding Milan and Juventus’ alleged interest in Circati, a player th"
-    },
-    {
       "id": "ea092d9bb124",
       "title": "Milan fans rage at Estupinan after 1-1 Inter draw: ‘He’s got to go’",
       "url": "https://football-italia.net/milan-fans-rage-at-estupinan-after-1-1-inter/",
@@ -346,44 +402,12 @@
       "summary": "Pervis Estupinan’s performance in the friendly with Inter prompted a common response from Milan fans..."
     },
     {
-      "id": "c8064a75f94c",
-      "title": "Watch: Nkunku replies to Dimarco as Milan and Inter draw in preseason – the highlights",
-      "url": "https://sempremilan.com/nkunku-dimarco-milan-inter-preseason-highlights",
-      "source": "sempremilan.com",
-      "date": "2026-08-05T17:00:00+00:00",
-      "summary": "The derby down under ended in a 1-1 draw on Wednesday afternoon after an entertaining contest at the Optus Stadium in Perth. Both sides paid tribute to Franco Baresi before kick-off after he passed away last Friday, with the players taking to the pitch wearing the iconic No.6 shirt of the legendary "
-    },
-    {
-      "id": "c1c94c4d8f39",
-      "title": "Modric admits Milan need time to ‘adapt’ as Amorim has brought ‘a lot of new ideas’",
-      "url": "https://sempremilan.com/modric-milan-adapt-amorim-new-ideas",
-      "source": "sempremilan.com",
-      "date": "2026-08-05T16:30:00+00:00",
-      "summary": "Luka Modric was happy to get his first preseason minutes under his belt, and believes AC Milan did ‘positive things’ against Inter. A few weeks ago, the Milan fans and management had no idea whether Modric would be back for a second season, but he renewed his contract for another year. In an intervi"
-    },
-    {
       "id": "6cff7f4525b8",
       "title": "Modric reveals Milan’s biggest mistake in disappointing 2025-26 season",
       "url": "https://football-italia.net/modric-reveals-milan-biggest-2025-26-mistake/",
       "source": "football-italia.net",
       "date": "2026-08-05T16:00:00+00:00",
       "summary": "Luka Modric has admitted that it was ‘frustrating’ for Milan to miss out on Champions..."
-    },
-    {
-      "id": "776aa4a4a106",
-      "title": "Sky journalist again claims Leao ‘could stay’ at Milan: “Excellent training sessions”",
-      "url": "https://sempremilan.com/sky-leao-could-stay-excellent-training",
-      "source": "sempremilan.com",
-      "date": "2026-08-05T16:00:00+00:00",
-      "summary": "Sky journalist Peppe Di Stefano has once again suggested that the chances of Rafael Leao remaining at AC Milan are rising. For weeks now it has felt like a case of if Leao will leave Milan, but more a case of when and where he will go. However, the past few days have seen the […]\nThe post Sky journa"
-    },
-    {
-      "id": "cef2d35bd435",
-      "title": "Chivu analyses Inter’s draw with Milan: “The opponents were also skilled”",
-      "url": "https://sempremilan.com/chivu-analyses-inter-draw-milan",
-      "source": "sempremilan.com",
-      "date": "2026-08-05T15:30:00+00:00",
-      "summary": "Inter boss Cristian Chivu was happy with the way that his side performed during Wednesday’s draw with AC Milan in Perth. The derby between Inter and Milan at Perth’s Optus Stadium ended in a 1-1 draw. After Federico Dimarco’s goal early in the second half, the Rossoneri equalised in the final minute"
     },
     {
       "id": "b376b000e105",
@@ -400,14 +424,6 @@
       "source": "football-italia.net",
       "date": "2026-08-05T15:02:34+00:00",
       "summary": "Ruben Amorim outlines where he saw ‘improvements’ in Milan’s 1-1 draw with Inter, warning they..."
-    },
-    {
-      "id": "3630cefbe653",
-      "title": "CM: Milan put €20m midfielder ‘on the market’ – Crystal Palace and Everton enquire",
-      "url": "https://sempremilan.com/milan-fofana-20m-crystal-palace-everton",
-      "source": "sempremilan.com",
-      "date": "2026-08-05T15:00:00+00:00",
-      "summary": "Youssouf Fofana is out in Perth with the AC Milan squad, though it seems that he may soon have the chance to board a plan to England. As Calciomercato.com report, Ruben Amorim expected improvements from the team against Inter and there were some in the 1-1 draw in Perth. Fofana was given a start and"
     },
     {
       "id": "d259dafefeb1",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-08-04T13:15:25+00:00",
       "summary": "There were emotional scenes as the fans and club legends said goodbye at Franco Baresi’s..."
-    },
-    {
-      "id": "01ab884c4b50",
-      "title": "Serie A big spenders need money coming in first",
-      "url": "https://football-italia.net/serie-a-spenders-need-money-coming-in-first/",
-      "source": "football-italia.net",
-      "date": "2026-08-04T11:16:31+00:00",
-      "summary": "The transfer market has been largely at a standstill this summer, because with the need..."
-    },
-    {
-      "id": "9c258399359c",
-      "title": "Amorim on Leão: ‘He’s lucky to be at a club like Milan’",
-      "url": "https://football-italia.net/amorim-on-leao-hes-lucky-to-at-milan/",
-      "source": "football-italia.net",
-      "date": "2026-08-04T10:42:44+00:00",
-      "summary": "Rúben Amorim has sent a pointed message to Rafael Leão on the eve of his..."
     }
   ]
 }
