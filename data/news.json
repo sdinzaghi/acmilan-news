@@ -1,13 +1,61 @@
 {
-  "lastUpdated": "2026-08-09T18:36:16.080974+00:00",
+  "lastUpdated": "2026-08-09T19:30:54.662442+00:00",
   "articles": [
+    {
+      "id": "a2bcf717bd63",
+      "title": "MN - Donadoni on Comotto: \"He's a guy with a head on his shoulders, he's very intelligent\"",
+      "url": "https://www.milannews.it/news/mn-donadoni-comotto-e-ragazzo-testa-spalle-intelligente-626180",
+      "source": "milannews.it",
+      "date": "2026-08-09T19:24:48+00:00",
+      "summary": "Six championships, three European Cups, two Intercontinental Cups, three European Super Cups and four Italian Super Cups: Roberto Donadoni wrote an important part of Milan's history together with his teammates by winning and making the ..."
+    },
+    {
+      "id": "a2e8fdc8ea90",
+      "title": "Turin: with Abate, Vlasic and Simeone for the leap in quality",
+      "url": "https://www.milannews.it/news/torino-abate-vlasic-simeone-salto-qualita-626188",
+      "source": "milannews.it",
+      "date": "2026-08-09T19:12:41+00:00",
+      "summary": "(ANSA) - ROME, AUGUST 09 - Every year he seems on the verge of making a leap in quality, then he disappoints the fans by remaining in mid-table."
+    },
+    {
+      "id": "292d49d89609",
+      "title": "Milan transfer market, Torino has asked for information on Alphadjo Cissè",
+      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-torino-chiesto-informazioni-alphadjo-cisse-626206",
+      "source": "milannews.it",
+      "date": "2026-08-09T19:00:00+00:00",
+      "summary": "Ruben Amorim's Milan summer continues with this pre-season (almost) over. The last outing against Chelsea was not particularly positive, but the tests against Celtic and Inter were certainly better."
+    },
+    {
+      "id": "14120fea926c",
+      "title": "Milan agreement to loan Athekame to Olympique Lyonnais",
+      "url": "https://football-italia.net/milan-loan-athekame-to-olympique-lyonnais/",
+      "source": "football-italia.net",
+      "date": "2026-08-09T18:53:51+00:00",
+      "summary": "Milan have agreed the straight loan of Zachary Athekame to Olympique Lyonnais, claim French reports,..."
+    },
+    {
+      "id": "e4a2fe6135c4",
+      "title": "Athekame at Lyon, Moretto: \"Choice made by Amorim also shared by the club\"",
+      "url": "https://www.milannews.it/calciomercato-milan/athekame-lione-moretto-scelta-amorim-condivisa-club-626205",
+      "source": "milannews.it",
+      "date": "2026-08-09T18:48:00+00:00",
+      "summary": "Fabrizio Romano and Matteo Romano spoke a little while ago on their Youtube channel. This is what was reported regarding the Rossoneri transfer market."
+    },
+    {
+      "id": "bbf758b8844e",
+      "title": "Infantino in trouble, Telegraph reveals: \"He paid a six-figure sum to a former employee with whom he had a relationship\"",
+      "url": "https://www.milannews.it/dall-estero/infantino-guai-telegraph-rivela-ha-versato-cifra-zeri-dipendente-relazione-626190",
+      "source": "milannews.it",
+      "date": "2026-08-09T18:36:34+00:00",
+      "summary": "The Telegraph, a British newspaper, reported that Gianni Infantino, president of FIFA, paid a six-figure sum to a former employee with whom he allegedly had an affair."
+    },
     {
       "id": "83b183bb2b40",
       "title": "Pellegatti underlines: \"Milan's future depends on the next few days, Amorim must ask for the players\"",
       "url": "https://www.milannews.it/news/pellegatti-sottolinea-il-milan-dipende-prossimi-giorni-amorim-chiedere-giocatori-626185",
       "source": "milannews.it",
       "date": "2026-08-09T18:24:37+00:00",
-      "summary": "In his YouTube channel, Carlo Pellegatti spoke about the future of Milan and how much this depends on the next few days. These are his words."
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha parlato del futuro del Milan e di quanto questo dipenda dai prossimi giorni. Queste le sue parole."
     },
     {
       "id": "8a57d9c6e0b4",
@@ -23,7 +71,7 @@
       "url": "https://www.milannews.it/calciomercato-milan/mn-contatti-bloccati-milan-porto-santiago-gimenez-626203",
       "source": "milannews.it",
       "date": "2026-08-09T18:21:10+00:00",
-      "summary": "According to what the editorial team of MilanNews.it has learned, contacts between Milan and Farioli's Porto are not progressing at the moment."
+      "summary": "According to what has been learned by the editorial staff of MilanNews.it, contacts between Milan and Farioli's Porto are not progressing at the moment."
     },
     {
       "id": "c10f75826941",
@@ -55,7 +103,7 @@
       "url": "https://www.milannews.it/primo-piano/giocatori-ritorno-pressing-banco-prova-alibi-626191",
       "source": "milannews.it",
       "date": "2026-08-09T18:00:00+00:00",
-      "summary": "In Amorim's ideas there is an important return to pressing in the opponent's half of the pitch. We underline two words: return and ideas."
+      "summary": "In Amorim's ideas there is an important return to pressing in the opponent's half of the field. We underline two words: return and ideas."
     },
     {
       "id": "9d20d4388f49",
@@ -83,7 +131,7 @@
     },
     {
       "id": "746bc3651a63",
-      "title": "MN - Donadoni reveals: \"Trapattoni wanted me at Inter, but I had decided that I would not play in Italy if not with Milan\"",
+      "title": "MN - Donadoni reveals: \"Trapattoni wanted me at Inter, but I had decided that I wouldn't play in Italy except with Milan\"",
       "url": "https://www.milannews.it/news/mn-donadoni-avevo-deciso-andato-via-milan-italia-indossato-nessun-altra-maglia-626178",
       "source": "milannews.it",
       "date": "2026-08-09T17:12:54+00:00",
@@ -91,7 +139,7 @@
     },
     {
       "id": "b0d3507be1a3",
-      "title": "Greetings from Vanini, goalkeeper coach for the Chicks for 8 years with the Rossoneri",
+      "title": "Greetings from Vanini, goalkeeping coach of the chicks for 8 years with the Rossoneri",
       "url": "https://www.milannews.it/news/saluto-vanini-preparatore-portieri-pulcini-8-rossonero-626184",
       "source": "milannews.it",
       "date": "2026-08-09T17:00:02+00:00",
@@ -127,7 +175,7 @@
       "url": "https://www.milannews.it/news/settimane-milan-a-calendario-completo-campionato-626170",
       "source": "milannews.it",
       "date": "2026-08-09T16:24:09+00:00",
-      "summary": "Fra due settimane il Milan scenderà in campo per la prima giornata di campionato di Serie A. I rossoneri saranno ospiti del Torino domenica 23 agosto alle ore 20."
+      "summary": "In two weeks, Milan will take to the field for the first day of the Serie A championship. The Rossoneri will be guests of Turin on Sunday 23 August at 8pm."
     },
     {
       "id": "36ea6de30114",
@@ -139,7 +187,7 @@
     },
     {
       "id": "a49a8f850677",
-      "title": "The week of cuts is coming, according to Amorim. How many players does Milan have to sell or \"cut\"?",
+      "title": "Arriva la settimana dei tagli, parola di Amorim. Quanti giocatori deve cedere o \"tagliare\" il Milan?",
       "url": "https://www.milannews.it/primo-piano/arriva-settimana-tagli-parola-amorim-giocatori-cedere-tagliare-milan-626186",
       "source": "milannews.it",
       "date": "2026-08-09T16:00:00+00:00",
@@ -152,30 +200,6 @@
       "source": "sempremilan.com",
       "date": "2026-08-09T16:00:00+00:00",
       "summary": "Galatasaray aren’t willing to meet the asking price that AC Milan have set for Rafael Leao, but according to a report, they could adopt the strategy to get a better deal.  Leao’s future continues to be a mystery as there hasn’t really been any concrete movement on his departure. In fact, it has even"
-    },
-    {
-      "id": "453556f4e767",
-      "title": "Pasotto: \"This is how Milan's reaction was not received\"",
-      "url": "https://www.milannews.it/news/pasotto-questa-vola-reazione-milan-pervenuta-626172",
-      "source": "milannews.it",
-      "date": "2026-08-09T15:48:19+00:00",
-      "summary": "There was a common thread in these three friendlies that were played by Milan: the Rossoneri always went behind."
-    },
-    {
-      "id": "fb7ebce19245",
-      "title": "BIanchedi head of the Italian delegation: CONI reserves the right to checks and possible incompatibilities\"",
-      "url": "https://www.milannews.it/news/coni-bianchedi-figc-verificheremo-opportunita-incompatibilita-626173",
-      "source": "milannews.it",
-      "date": "2026-08-09T15:36:47+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 09 - The appointment of Diana Bianchedi as head of the Azzurri delegation triggers the checks of \"opportunity and possible incompatibility\" by CONI."
-    },
-    {
-      "id": "73442b116132",
-      "title": "Ramazzotti: \"Milan, there is something to fix almost everywhere\"",
-      "url": "https://www.milannews.it/news/ramazzotti-milan-sistemare-ovunque-626160",
-      "source": "milannews.it",
-      "date": "2026-08-09T15:24:02+00:00",
-      "summary": "If there is a positive aspect that Milan can glean from the poor performance in the friendly against Chelsea, it is that the limits of the Rossoneri squad have been exposed and above all of some players who ..."
     },
     {
       "id": "8609e82ee299",
@@ -192,22 +216,6 @@
       "source": "football-italia.net",
       "date": "2026-08-09T15:19:22+00:00",
       "summary": "Milan legend Roberto Donadoni reveals how he would’ve dealt with Rafael Leao in the dressing..."
-    },
-    {
-      "id": "34fa213405ac",
-      "title": "MN - Donadoni: \"Today young people seem bold, but then if you get to the point and they find themselves faced with a difficulty they avoid it\"",
-      "url": "https://www.milannews.it/news/mn-donadoni-giovani-sembrano-sicuri-se-spavaldi-arrivi-trovano-difficolta-migliore-riescono-cercare-626175",
-      "source": "milannews.it",
-      "date": "2026-08-09T15:11:26+00:00",
-      "summary": "Six championships, three European Cups, two Intercontinental Cups, three European Super Cups and four Italian Super Cups: Roberto Donadoni wrote an important part of Milan's history together with his teammates by winning and making the ..."
-    },
-    {
-      "id": "ff0d1ca9b562",
-      "title": "Maldini, not just Pirlo: \"There were three names, also De Rossi and Grosso, but...\"",
-      "url": "https://www.milannews.it/news/maldini-pirlo-i-nomi-tre-de-rossi-grosso-ma-626168",
-      "source": "milannews.it",
-      "date": "2026-08-09T15:00:00+00:00",
-      "summary": "On Sunday morning, Paolo Maldini returned to talk with a long interview granted to Aldo Cazzullo on the Corriere della Sera, a chat with which he broke the silence after the quick separation with the national team..."
     },
     {
       "id": "8773947d6d8c",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-08-06T09:08:28+00:00",
       "summary": "Milan and Galatasaray have reportedly opened negotiations over the price of Rafael Leão, in the..."
-    },
-    {
-      "id": "0f4874f268cc",
-      "title": "Today’s papers: Milan & Inter draw in Perth as Juve push for new signings",
-      "url": "https://football-italia.net/todays-papers-milan-inter-draw-in-perth-as-juve-push-for-new-signings/",
-      "source": "football-italia.net",
-      "date": "2026-08-06T07:33:27+00:00",
-      "summary": "Italy’s sport pages on Thursday balance the first Milan derby of the summer, played out..."
     }
   ]
 }
