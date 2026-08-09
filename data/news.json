@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-08-09T05:01:51.037386+00:00",
+  "lastUpdated": "2026-08-09T06:52:17.023547+00:00",
   "articles": [
+    {
+      "id": "06584203b3da",
+      "title": "Milan, the exodus begins. Tuttosport: \"Fofana and Tomori say goodbye. For Leao only Galatasaray\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-esodo-tuttosport-fofana-tomori-passo-addio-leao-galatasaray-626133",
+      "source": "milannews.it",
+      "date": "2026-08-09T06:48:11+00:00",
+      "summary": "Exactly two weeks from the start of the Serie A championship and just over three from the end of the summer transfer market session, perhaps Milan's transfer market will be unblocked."
+    },
+    {
+      "id": "d060f415ef6b",
+      "title": "La Gazzetta makes no concessions: \"Milan is dark: they concede and don't shoot\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-sconti-buio-milan-subisce-tira-626136",
+      "source": "milannews.it",
+      "date": "2026-08-09T06:36:22+00:00",
+      "summary": "Two weeks before the start of the championship, with the first match of Milan scheduled at home to Turin on Sunday 23 August at 8pm."
+    },
+    {
+      "id": "a241b71f80a3",
+      "title": "Milan badly against Chelsea, CorSport: \"Defenseless devil. Amorim is waiting for reinforcements\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-chelsea-corsport-diavolo-indifeso-amorim-aspetta-rinforzi-626132",
+      "source": "milannews.it",
+      "date": "2026-08-09T06:24:17+00:00",
+      "summary": "It's true that we're talking about football in August, it's true that it's not useful to be alarmist, but a friendly match lost 3-0 without a shot on target and crossing the halfway line a few times is not an encouraging sign..."
+    },
+    {
+      "id": "b89441211302",
+      "title": "Milan's flop against Chelsea on the front pages of the main sports newspapers",
+      "url": "https://www.milannews.it/rassegna-stampa/flop-milan-chelsea-prime-pagine-principali-quotidiani-sportivi-626131",
+      "source": "milannews.it",
+      "date": "2026-08-09T06:12:39+00:00",
+      "summary": "Yesterday in Jakarta, Indonesia, there wasn't the tour closure that perhaps was expected: Milan lost badly to Chelsea 3-0."
+    },
+    {
+      "id": "b75fddd94e49",
+      "title": "Construction site open Milan two weeks from Turin: few players suitable for Amorim",
+      "url": "https://www.milannews.it/primo-piano/cantiere-aperto-milan-settimane-torino-pochi-giocatori-adatti-amorim-626135",
+      "source": "milannews.it",
+      "date": "2026-08-09T06:00:00+00:00",
+      "summary": "If the two friendlies against Celtic (2-2) and Inter (1-1) had intermittently glimpsed glimpses of Ruben Amorim's football - pressing, possession, verticality - the friendly lost badly against Chelsea 3-0 and without ..."
+    },
+    {
+      "id": "0146b5322992",
+      "title": "Europa League, all the info and dates you need to know: final on May 26th in Frankfurt",
+      "url": "https://www.milannews.it/news/europa-league-info-date-sapere-finale-26-maggio-francoforte-626124",
+      "source": "milannews.it",
+      "date": "2026-08-09T05:48:00+00:00",
+      "summary": "Europa League, all the info on the preliminaries, dates and format of the 2026/2027 competition."
+    },
+    {
+      "id": "1e3b35a45cbc",
+      "title": "Google \"Favorite sources\", add MilanNews now and personalize your news",
+      "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-milannews-personalizza-notizie-626100",
+      "source": "milannews.it",
+      "date": "2026-08-09T05:36:40+00:00",
+      "summary": "Google has introduced a new feature intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
+    },
+    {
+      "id": "6cb056a57cc1",
+      "title": "Transfer market bag: all AC Milan operations as of August 9th",
+      "url": "https://www.milannews.it/news/borsino-calciomercato-operazioni-milan-9-agosto-626103",
+      "source": "milannews.it",
+      "date": "2026-08-09T05:24:34+00:00",
+      "summary": "Below is the complete purse of the AC Milan transfer market, for the 2026 summer session, with the official purchases and sales of the Rossoneri club and the second team Milan Futuro:\n\nMILAN PURCHASES\n\nAndrej Kostic (forward, Pa ..."
+    },
+    {
+      "id": "96e473e0c544",
+      "title": "Milan, all commitments remaining in August. After United comes Serie A",
+      "url": "https://www.milannews.it/news/milan-impegni-rimasti-agosto-united-arriva-serie-626099",
+      "source": "milannews.it",
+      "date": "2026-08-09T05:12:37+00:00",
+      "summary": "After the ugly 3-0 defeat against Chelsea, Milan will return to Italy today. The team will then have some days off and will resume work at Milanello on Wednesday 12th."
+    },
+    {
+      "id": "63b484dd0f92",
+      "title": "Milan, tour finished. Today the return, on Wednesday the 12th the restart at Milanello",
+      "url": "https://www.milannews.it/news/milan-tournee-finita-rientro-mercoledi-12-ripresa-milanello-626098",
+      "source": "milannews.it",
+      "date": "2026-08-09T05:00:46+00:00",
+      "summary": "Milan's summer tour ended with a bad friendly defeat against Xabi Alonso's Chelsea: a clear 3-0 that left no room for replies."
+    },
     {
       "id": "d459060bab82",
       "title": "Amorim: \"I know it's hard to say after a 3-0 defeat, but I'm really satisfied with the way everyone worked\"",
@@ -51,7 +131,7 @@
     },
     {
       "id": "c38294c32a56",
-      "title": "Amorim: \"I asked for two players and the club did everything to acquire them in a short time. Now we are thinking\"",
+      "title": "Amorim: \"I asked for two players and the club did everything to buy them in a short time. Now we are thinking\"",
       "url": "https://www.milannews.it/news/amorim-ho-chiesto-giocatori-societa-acquistarli-tempi-stretti-ragionando-626109",
       "source": "milannews.it",
       "date": "2026-08-08T21:48:18+00:00",
@@ -80,86 +160,6 @@
       "source": "milannews.it",
       "date": "2026-08-08T21:12:08+00:00",
       "summary": "On his YouTube channel, the director of Telelombardia Fabio Ravezzani commented on Milan's 3-0 defeat against Chelsea. These are his words."
-    },
-    {
-      "id": "3121a4d3623f",
-      "title": "Chukwueze still at full range, the Gazzetta rejects him: 5.5. \"In the offensive phase he doesn't give what he should\"",
-      "url": "https://www.milannews.it/news/chukwueze-fascia-gazzetta-boccia-5-5-in-fase-offensiva-da-dovrebbe-626102",
-      "source": "milannews.it",
-      "date": "2026-08-08T21:00:15+00:00",
-      "summary": "Even the Gazzetta dello Sport confirms the failure of Samu Chukwueze (click HERE for our report cards) in Chelsea-Milan. The Nigerian was deployed again as a midfielder by Amorim and had to duel with Palestra."
-    },
-    {
-      "id": "69dbae801235",
-      "title": "Chelsea overwhelms Milan, 3-0 with a brace from Joao Pedro",
-      "url": "https://www.milannews.it/news/chelsea-travolge-milan-3-0-doppietta-joao-pedro-626086",
-      "source": "milannews.it",
-      "date": "2026-08-08T20:48:04+00:00",
-      "summary": "(ANSA) - MILAN, 08 AUGUST - Chelsea overwhelms Milan 3-0 in Jakarta in the Rossoneri's last friendly match of their tour of Oceania and Asia."
-    },
-    {
-      "id": "5d3707f28701",
-      "title": "Calhanoglu: \"Ho fatto il trapianto di capelli. Compagni e anche Modric mi prendono in giro\"",
-      "url": "https://www.milannews.it/news/calhanoglu-ho-trapianto-capelli-compagni-modric-prendono-giro-626057",
-      "source": "milannews.it",
-      "date": "2026-08-08T20:36:13+00:00",
-      "summary": "At the end of the friendly Milan-Inter 1-1 which was played mid-week in Australia, in Perth, the images of the Rossonero Luka Modric and the Inter player Hakan Cal went around the world..."
-    },
-    {
-      "id": "6b19e748717d",
-      "title": "Pellegatti doesn't agree: \"Milan also brings their coat of arms to the friendlies, now I hope that...\"",
-      "url": "https://www.milannews.it/news/pellegatti-sta-il-milan-porta-blasone-amichevoli-spero-che-626120",
-      "source": "milannews.it",
-      "date": "2026-08-08T20:24:09+00:00",
-      "summary": "On his YouTube channel, Carlo Pellegatti spoke about the Rossoneri's defeat this afternoon against Xabi Alonso's Chelsea. These are his words."
-    },
-    {
-      "id": "d74c5ed5e81b",
-      "title": "Ravezzani scolds Amorim: \"We need a bath of humility, he must understand the team's real ambitions\"",
-      "url": "https://www.milannews.it/news/ravezzani-sgrida-amorim-serve-bagno-d-umilta-capire-reali-ambizioni-squadra-626113",
-      "source": "milannews.it",
-      "date": "2026-08-08T20:12:41+00:00",
-      "summary": "On his YouTube channel, the director of Telelombardia Fabio Ravezzani commented on Milan's 3-0 defeat against Chelsea. These are his words."
-    },
-    {
-      "id": "52f77adbd39e",
-      "title": "Rome, the renewal of Lorenzo Pellegrini is official",
-      "url": "https://www.milannews.it/l-avversario/ufficiale-rinnovo-pellegrini-roma-storia-continua-626064",
-      "source": "milannews.it",
-      "date": "2026-08-08T20:00:12+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 08 - \"Lorenzo Pellegrini, the story continues\". Roma writes this on"
-    },
-    {
-      "id": "5f8a70a52889",
-      "title": "Messi's father died, having been ill for some time, he was 68 years old",
-      "url": "https://www.milannews.it/news/morto-papa-messi-malato-68-626087",
-      "source": "milannews.it",
-      "date": "2026-08-08T19:48:28+00:00",
-      "summary": "(ANSA) - ROSARIO, 08 AUGUST - Leo Messi's father has died at the age of 68."
-    },
-    {
-      "id": "64370fa6f06c",
-      "title": "Pellegatti on Milan-Chelsea: \"If Camarda has to stay isolated, there's no point in fielding him, first half without opportunities\"",
-      "url": "https://www.milannews.it/news/pellegatti-milan-chelsea-se-camarda-stare-isolato-inutile-schierarlo-occasioni-626119",
-      "source": "milannews.it",
-      "date": "2026-08-08T19:36:12+00:00",
-      "summary": "On his YouTube channel, Carlo Pellegatti spoke about the Rossoneri's defeat this afternoon against Xabi Alonso's Chelsea. These are his words."
-    },
-    {
-      "id": "9970a3abfd98",
-      "title": "Amorim: \"Abbiamo fatto errori in passato, non ne faremo ancora. Sono molto soddisfatto dei giocatori che ho, dobbiamo solo migliorare\"",
-      "url": "https://www.milannews.it/news/amorim-abbiamo-errori-passato-ancora-soddisfatto-ho-dobbiamo-migliorare-626108",
-      "source": "milannews.it",
-      "date": "2026-08-08T19:24:19+00:00",
-      "summary": "Ruben Amorim spoke to Sky Sport 24 at the end of today's friendly against Chelsea, lost with a disappointing 3-0 to the English."
-    },
-    {
-      "id": "e7a6e0a961b4",
-      "title": "Moretto: \"Aston Villa's money for Ruggeri was that for Estupinian. Milan must sell to buy\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-i-soldi-dell-aston-villa-ruggeri-estupinian-vuole-cedere-milan-comprare-626126",
-      "source": "milannews.it",
-      "date": "2026-08-08T19:12:00+00:00",
-      "summary": "On Fabrizio Romano's YouTube channel, transfer expert Matteo Moretto spoke about the situation linked to Milan's outgoing transfer market. These are his words."
     },
     {
       "id": "44ddccac9454",
