@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-08-10T17:53:42.124677+00:00",
+  "lastUpdated": "2026-08-10T18:53:55.579576+00:00",
   "articles": [
+    {
+      "id": "a12ba5d8ec55",
+      "title": "Towards Turin-Milan, all the signings of the Granata summer",
+      "url": "https://www.milannews.it/l-avversario/torino-milan-acquisti-estate-granata-626300",
+      "source": "milannews.it",
+      "date": "2026-08-10T18:50:07+00:00",
+      "summary": "On 23 August, Milan will begin the new Serie A season at Turin: a challenge that is certainly demanding and also with a hint of romance, given that the Rossoneri will find Ignazio Abate on the Granata bench."
+    },
+    {
+      "id": "3e22afd14d83",
+      "title": "MN - Cardinale will be present at Milanello to discuss the market together with Amorim",
+      "url": "https://www.milannews.it/news/mn-cardinale-presente-milanello-discutere-mercato-amorim-626309",
+      "source": "milannews.it",
+      "date": "2026-08-10T18:41:00+00:00",
+      "summary": "The season of coach Ruben Amorim's new Milan continues, with the Rossoneri scheduled to play the last friendly test on Saturday before the start of the championship, scheduled for Sunday 23 August against Torino."
+    },
+    {
+      "id": "e9d4ad88a4b3",
+      "title": "Moretto: \"Cissè-Torino not yet that advanced. Fofana is liked in the Premier League\"",
+      "url": "https://www.milannews.it/calciomercato-milan/moretto-cisse-torino-avanzata-fofana-piace-premier-626283",
+      "source": "milannews.it",
+      "date": "2026-08-10T18:30:34+00:00",
+      "summary": "Amorim had said it: it's the week of decisions. Then these decisions must be transformed into concrete exits, but for the moment we are only starting to know who has been excluded from the technical project, like Youssouf Fofana."
+    },
+    {
+      "id": "6b03fc036ad4",
+      "title": "Sports fitness and visits, via new partnership Campus Bio-medico and Ostiamare",
+      "url": "https://www.milannews.it/news/idoneita-sportive-visite-via-nuova-partnership-campus-bio-medico-ostiamare-626292",
+      "source": "milannews.it",
+      "date": "2026-08-10T18:20:43+00:00",
+      "summary": "(ANSA) - ROME, AUGUST 10 - Sports fitness and medical examinations, dedicated sports medicine courses for footballers and social prevention initiatives aimed at young people and families."
+    },
+    {
+      "id": "577c80a51397",
+      "title": "Milan, Ricci can also leave: Sarri likes the midfielder",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-ricci-lasciare-centrocampista-piace-sarri-626303",
+      "source": "milannews.it",
+      "date": "2026-08-10T18:10:20+00:00",
+      "summary": "We talked about Athekame on loan at Lyon and Youssouf Fofana on the transfer market, with English and Spanish teams interested in the French footballer."
+    },
+    {
+      "id": "b25ff0970379",
+      "title": "LIVE Done Deals Tracker: Latest Serie A transfer agreements",
+      "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/",
+      "source": "football-italia.net",
+      "date": "2026-08-10T18:05:12+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "25c0cf7b6bca",
+      "title": "By investing or selling, Milan must now bring reinforcements to Amorim",
+      "url": "https://www.milannews.it/primo-piano/investendo-cessioni-milan-portare-rinforzi-amorim-626277",
+      "source": "milannews.it",
+      "date": "2026-08-10T18:00:00+00:00",
+      "summary": "The statements of Ruben Amorim after the Chelsea-Milan match on the value of the squad, seemed a bit dictated by the circumstance."
+    },
+    {
+      "id": "68f258a60b38",
+      "title": "Footmercato: Five clubs interested as Milan make midfielder available for €20m",
+      "url": "https://sempremilan.com/fofana-forest-palace-villarreal-betis-ipswich",
+      "source": "sempremilan.com",
+      "date": "2026-08-10T18:00:00+00:00",
+      "summary": "AC Milan will not oppose the sale of Youssouf Fofana and the player has received various proposals, a report claims. Having arrived in Italy two seasons ago for €26m, Youssouf Fofana quickly established himself as a starter under Paulo Fonseca, then Sergio Conceicao and most recently Massimiliano Al"
+    },
     {
       "id": "dfbf522c7881",
       "title": "MN - Van Den Kerkhof: \"I hope to meet Bennacer again in the national team\"",
@@ -15,15 +79,7 @@
       "url": "https://www.milannews.it/news/milan-classifica-marcatori-estate-rossonera-aggiornata-626290",
       "source": "milannews.it",
       "date": "2026-08-10T17:40:22+00:00",
-      "summary": "So far, Milan has played three friendlies, as well as a trip after a few days of training at home against Milan Futuro (7-0 win)."
-    },
-    {
-      "id": "b25ff0970379",
-      "title": "LIVE Done Deals Tracker: Latest Serie A transfer agreements",
-      "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/",
-      "source": "football-italia.net",
-      "date": "2026-08-10T17:33:12+00:00",
-      "summary": "{rsn-live-v2}"
+      "summary": "Up to this point, Milan has played three friendlies, as well as a trip after a few days of training at home against Milan Futuro (7-0 win)."
     },
     {
       "id": "d89f121963a1",
@@ -67,7 +123,7 @@
     },
     {
       "id": "726b2a1ecb7a",
-      "title": "Pasotto wonders: \"Any afterthoughts behind the choice of Maignan and Rabiot?\"",
+      "title": "Pasotto asks himself: \"Any afterthoughts behind the choice of Maignan and Rabiot?\"",
       "url": "https://www.milannews.it/news/pasotto-chiede-qualche-retropensiero-scelta-maignan-rabiot-626267",
       "source": "milannews.it",
       "date": "2026-08-10T16:50:00+00:00",
@@ -135,7 +191,7 @@
       "url": "https://www.milannews.it/news/gazzetta-interroga-maignan-rabiot-mal-pancia-arrivo-626284",
       "source": "milannews.it",
       "date": "2026-08-10T15:49:50+00:00",
-      "summary": "The news of the additional days of vacation requested by Rabiot and Maignan, and granted by Milan, sent the Rossoneri fans into a rage: yet another demonstration of indifference, especially on the part of those wearing the captain's armband..."
+      "summary": "The news of the additional days of holiday requested by Rabiot and Maignan, and granted by Milan, sent the Rossoneri fans into a rage: yet another demonstration of indifference, especially on the part of those wearing the captain's armband..."
     },
     {
       "id": "e9a3a0f7dffe",
@@ -154,14 +210,6 @@
       "summary": "Torino defender Saúl Coco has warned AC Milan that they are well up for the opening game of the season in just under two weeks. Milan played Torino in the Serie A curtain-raiser in 2024-25, drawing 2-2 thanks to a late comeback under Paulo Fonseca. For the second time in three seasons, the Rossoneri"
     },
     {
-      "id": "0192bf8e0ea1",
-      "title": "Moretto: \"Galatasaray is calling whoever manages Leao and Milan every day to try to find an agreement\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-il-galatasaray-chiamando-gestisce-leao-milan-cercare-trovare-accordo-626282",
-      "source": "milannews.it",
-      "date": "2026-08-10T15:29:22+00:00",
-      "summary": "The sale of Rafa Leao is not unblocked. Milan makes very specific requests regarding figures and formula, for now Galatasaray waits and is unable to satisfy them."
-    },
-    {
       "id": "2f76d9572f82",
       "title": "Milan tell Fofana to find a new club as Crystal Palace and Marseille circle",
       "url": "https://football-italia.net/milan-tell-fofana-find-club-palace-marseille/",
@@ -170,52 +218,12 @@
       "summary": "Milan have told Youssouf Fofana to find a new club, with the France midfielder now..."
     },
     {
-      "id": "64fe494f33c8",
-      "title": "Serie D, the official calendar of Milan Futuro: it starts at home",
-      "url": "https://www.milannews.it/milan-futuro/serie-d-calendario-ufficiale-milan-futuro-comincia-casa-626271",
-      "source": "milannews.it",
-      "date": "2026-08-10T15:20:45+00:00",
-      "summary": "The Serie D has announced the official calendar for group B, the one which also includes Mister Navarro's Milan Futuro. The championship debut on the weekend of September 6th at home against Caldiero Terme."
-    },
-    {
-      "id": "f4673fa0d3c9",
-      "title": "Nicolato: \"Ramos is a top-level striker but I wouldn't have paid him those sums\"",
-      "url": "https://www.milannews.it/news/nicolato-ramos-attaccante-livello-pagato-cifre-626279",
-      "source": "milannews.it",
-      "date": "2026-08-10T15:10:00+00:00",
-      "summary": "Francesco Nicolato is a FIFA agent and expert in Portuguese football."
-    },
-    {
-      "id": "bb4530a14dd0",
-      "title": "Google \"Favorite sources\", add MilanNews now and personalize your news",
-      "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-milannews-personalizza-notizie-626266",
-      "source": "milannews.it",
-      "date": "2026-08-10T15:00:28+00:00",
-      "summary": "Google has introduced a new feature intended to change the way we read news: it's called \"Preferred Sources\" and allows you to directly choose which sites to appear most often in the results."
-    },
-    {
       "id": "57bd97bdb25b",
       "title": "Moretto: Fofana informed of final decision regarding future at Milan",
       "url": "https://sempremilan.com/fofana-informed-decision-milan-future",
       "source": "sempremilan.com",
       "date": "2026-08-10T15:00:00+00:00",
       "summary": "The AC Milan management have told Youssouf Fofana he is free to find a new club, with Ruben Amorim having delivered his verdict. In this past few weeks multiple sources have suggested that Fofana could become one of the casualties of Milan’s summer revolution. The Frenchman has been at the club two "
-    },
-    {
-      "id": "99ac64be7324",
-      "title": "MN - Van Den Kerkhof: \"I think Bennacer has left his mark in Algeria\"",
-      "url": "https://www.milannews.it/news/mn-van-den-kerkhof-penso-bennacer-segno-algeria-626272",
-      "source": "milannews.it",
-      "date": "2026-08-10T14:50:13+00:00",
-      "summary": "This week's news is the termination of Ismael Bennacer's contract with Milan."
-    },
-    {
-      "id": "47a405c63bbb",
-      "title": "Premier, Bezos close to agreement for a share of Liverpool",
-      "url": "https://www.milannews.it/news/media-bezos-accordo-quota-liverpool-626259",
-      "source": "milannews.it",
-      "date": "2026-08-10T14:40:09+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 10 - A consortium that includes Amazon founder Jeff Bezos is close to concluding an agreement for the acquisition of around a third of the shares of Liverpool Football Club. Sky News writes."
     },
     {
       "id": "8ca0f14bee18",
@@ -368,14 +376,6 @@
       "source": "football-italia.net",
       "date": "2026-08-09T18:53:51+00:00",
       "summary": "Milan have agreed the straight loan of Zachary Athekame to Olympique Lyonnais, claim French reports,..."
-    },
-    {
-      "id": "8a57d9c6e0b4",
-      "title": "RMC Sport: Lyon reach agreement with Milan for Athekame loan – the details",
-      "url": "https://sempremilan.com/lyon-agreement-milan-athekame-loan-details",
-      "source": "sempremilan.com",
-      "date": "2026-08-09T18:24:03+00:00",
-      "summary": "Zachary Athekame is set to join Lyon on a season-long loan, according to a report, as an agreement has been reached with AC Milan. Ruben Amorim opted not to use Athekame against Inter or Chelsea, which is something that Gazzetta dello Sport pointed out this morning. Now we know why, as advanced nego"
     },
     {
       "id": "10c873aa1f73",
