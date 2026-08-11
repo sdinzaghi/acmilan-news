@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-08-11T20:01:32.988350+00:00",
+  "lastUpdated": "2026-08-11T21:43:01.793198+00:00",
   "articles": [
+    {
+      "id": "7d0b14034927",
+      "title": "Leao and the story on Instagram, Moretto: \"It was Rafa himself who confirmed his objectives...\"",
+      "url": "https://www.milannews.it/news/leao-storia-instagram-moretto-e-rafa-confermare-obiettivi-626432",
+      "source": "milannews.it",
+      "date": "2026-08-11T21:30:11+00:00",
+      "summary": "Matteo Moretto spoke just now on his YouTube channel. An excerpt of his words regarding the affair relating to Rafa Leao, now increasingly the topic of the transfer market for this summer session."
+    },
+    {
+      "id": "bf26594de854",
+      "title": "Ravezzani stings Milan: \"Not recalling Maignan and Rabiot is a serious limitation for the club\"",
+      "url": "https://www.milannews.it/news/ravezzani-punge-milan-non-richiamare-maignan-rabiot-grave-limite-club-626421",
+      "source": "milannews.it",
+      "date": "2026-08-11T21:20:12+00:00",
+      "summary": "Ruben Amorim's Milan summer continues with this pre-season (almost) over. The last outing against Chelsea was not particularly positive, but the tests against Celtic and Inter were certainly better."
+    },
+    {
+      "id": "beb787ad6480",
+      "title": "Pellegatti clear on the Milan transfer market: \"Do you want names? There aren't any\"",
+      "url": "https://www.milannews.it/news/pellegatti-chiaro-mercato-milan-volete-nomi-ce-sono-626418",
+      "source": "milannews.it",
+      "date": "2026-08-11T21:10:00+00:00",
+      "summary": "Ruben Amorim's Milan summer continues with this pre-season (almost) over. The last outing against Chelsea was not particularly positive, but the tests against Celtic and Inter were certainly better."
+    },
+    {
+      "id": "5e14e9577d10",
+      "title": "Towards Manchester United-Milan, where to watch the match? All the info",
+      "url": "https://www.milannews.it/news/manchester-united-milan-vedere-partita-info-626425",
+      "source": "milannews.it",
+      "date": "2026-08-11T21:00:39+00:00",
+      "summary": "Ruben Amorim's Milan season continues, quickly towards next Sunday. In fact, on 23 August the Rossoneri will be guests of the former Abate's Turin for the first day of the championship."
+    },
+    {
+      "id": "d4b46d3f221a",
+      "title": "Fofana bids farewell, but his score with Milan is incredibly positive: the data",
+      "url": "https://www.milannews.it/news/fofana-saluti-score-milan-incredibilmente-positivo-dato-626419",
+      "source": "milannews.it",
+      "date": "2026-08-11T20:50:20+00:00",
+      "summary": "After a positive start regarding the incoming market, the Rossoneri's negotiations are currently facing a complicated block. This is also due to the situation of the many redundancies leaving Milanello."
+    },
+    {
+      "id": "fbcf78635c09",
+      "title": "Vlahovic, no Serie A: flies to Türkiye for ten million plus bonuses",
+      "url": "https://www.milannews.it/dall-estero/vlahovic-serie-a-vola-turchia-dieci-bonus-626429",
+      "source": "milannews.it",
+      "date": "2026-08-11T20:40:02+00:00",
+      "summary": "There won't be the Milan coup for Dusan Vlahovic, loudly called for by the majority of the Rossoneri people, nor the difficult return to Juventus but the transition from the black and white of the Old Lady to the black and white of the Turks..."
+    },
+    {
+      "id": "4385cabdaba5",
+      "title": "Leao-Milan, Serena comments: \"He can make you win matches on his own but he doesn't have continuity\"",
+      "url": "https://www.milannews.it/news/leao-milan-serena-commenta-ti-far-vincere-partite-continuita-626427",
+      "source": "milannews.it",
+      "date": "2026-08-11T20:30:00+00:00",
+      "summary": "In the long interview given to Tuttosport, former Rossoneri player Aldo Serena spoke about Milan's attackers, in particular Gonçalo Ramos, Francesco Camarda and Rafael Leao."
+    },
+    {
+      "id": "479d0446ea30",
+      "title": "Milan on DAZN, does the network increase prices? All new information",
+      "url": "https://www.milannews.it/news/milan-dazn-network-aumenta-prezzi-nuove-informazioni-626428",
+      "source": "milannews.it",
+      "date": "2026-08-11T20:20:31+00:00",
+      "summary": "DAZN, la piattaforma che detiene i diritti tv della Serie A Enilive, ha reso noto che per la prossima stagione i prezzi dell'abbonamento saranno aumentati."
+    },
+    {
+      "id": "6df12c970f71",
+      "title": "From Milanello, the team will be back on the pitch tomorrow: Amorim will meet Gimenez and Pulisic",
+      "url": "https://www.milannews.it/news/milanello-domani-squadra-campo-amorim-conoscera-gimenez-pulisic-626424",
+      "source": "milannews.it",
+      "date": "2026-08-11T20:10:15+00:00",
+      "summary": "La stagione del Milan targato Ruben Amorim prosegue, velocemente verso domenica prossima. Il 23 agosto infatti i rossoneri saranno ospiti del Torino dell'ex Abate per la prima giornata di campionato."
+    },
+    {
+      "id": "0b3ee7e2412e",
+      "title": "Camarda, Serena admits: \"Last year he shouldn't have played in Lecce\"",
+      "url": "https://www.milannews.it/news/camarda-serena-ammette-l-dovuto-giocare-lecce-626422",
+      "source": "milannews.it",
+      "date": "2026-08-11T20:00:07+00:00",
+      "summary": "In the long interview given to Tuttosport, former Rossoneri player Aldo Serena spoke about Milan's attackers, in particular Gonçalo Ramos, Francesco Camarda and Rafael Leao."
+    },
     {
       "id": "b61c88e14821",
       "title": "Maignan unhappy with Milan direction, Al-Nassr aim to take advantage",
@@ -31,7 +111,7 @@
       "url": "https://www.milannews.it/calciomercato-milan/leao-moretto-oggi-squadra-grado-soddisfare-richieste-milan-cedere-portoghese-626430",
       "source": "milannews.it",
       "date": "2026-08-11T19:33:00+00:00",
-      "summary": "Matteo Moretto spoke just now on his YouTube channel."
+      "summary": "Matteo Moretto è intervenuto così poco fa sul proprio canale Youtube."
     },
     {
       "id": "9280140622b6",
@@ -43,15 +123,15 @@
     },
     {
       "id": "7ff756556670",
-      "title": "New Lazio stadium: \"Satisfaction with the favorable opinion of the Superintendence on the Flaminio\"",
+      "title": "Nuovo stadio Lazio: \"Soddisfazione per parere favorevole Soprintendenza sul Flaminio\"",
       "url": "https://www.milannews.it/news/lazio-soddisfazione-parere-favorevole-soprintendenza-flaminio-626414",
       "source": "milannews.it",
       "date": "2026-08-11T19:10:43+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 11 - Lazio \"welcomes with great satisfaction the favorable opinion expressed by the State Superintendence as part of the preliminary Services Conference relating to the redevelopment project of the Flamin Stadium ..."
+      "summary": "(ANSA) - ROMA, 11 AGO - La Lazio \"accoglie con grande soddisfazione il parere favorevole espresso dalla Soprintendenza di Stato nell'ambito della Conferenza dei Servizi preliminare relativa al progetto di riqualificazione dello Stadio Flamin ..."
     },
     {
       "id": "dc1e9d1f56f8",
-      "title": "Pellegatti worried: \"Milan is still missing many players, the situation is not clear\"",
+      "title": "Pellegatti worried: \"Milan are still missing many players, the situation is not clear\"",
       "url": "https://www.milannews.it/news/pellegatti-preoccupato-al-milan-mancano-tanti-giocatori-situazione-chiara-626387",
       "source": "milannews.it",
       "date": "2026-08-11T19:00:17+00:00",
@@ -90,68 +170,12 @@
       "summary": "(ANSA) - CASCIA (PERUGIA), AUGUST 11 - No new measures or particular codes to regulate external relations and referee calls."
     },
     {
-      "id": "c0731b80f18d",
-      "title": "MN - Milan, another contact for the sale of Tomori. He must leave to avoid the zero deadline",
-      "url": "https://www.milannews.it/primo-piano/mn-milan-contatto-cessione-tomori-partire-evitare-scadenza-zero-626415",
-      "source": "milannews.it",
-      "date": "2026-08-11T18:18:03+00:00",
-      "summary": "Milan are currently trying to thin out their squad and there are many players ready to be sold."
-    },
-    {
-      "id": "89c7b97db788",
-      "title": "Pellegatti on the transfer market: \"Names? There aren't any, it's all nebulous. I don't think they spend money\"",
-      "url": "https://www.milannews.it/calciomercato-milan/pellegatti-mercato-nomi-ce-sono-nebuloso-credo-spendano-soldi-626389",
-      "source": "milannews.it",
-      "date": "2026-08-11T18:10:58+00:00",
-      "summary": "Carlo Pellegatti, on his YouTube channel, talks about the Milan transfer market and the names of any reinforcements who have not yet been identified at the moment. These are his words."
-    },
-    {
-      "id": "5a71735b7a83",
-      "title": "Tomorrow first Pulisic-Amorim contact: the coach has already given him the keys to the attacking midfield",
-      "url": "https://www.milannews.it/primo-piano/domani-contatto-pulisic-amorim-mister-dato-chiavi-trequarti-626408",
-      "source": "milannews.it",
-      "date": "2026-08-11T18:00:00+00:00",
-      "summary": "Tomorrow there will be a symbolically important meeting, with Amorim meeting Christian Pulisic in person for the first time."
-    },
-    {
       "id": "68c6f7b5c3b8",
       "title": "Unneeded controversy or an overreaction on the obvious: The Maignan-Rabiot saga",
       "url": "https://sempremilan.com/unneeded-controversy-overreaction-maignan-rabiot-saga",
       "source": "sempremilan.com",
       "date": "2026-08-11T18:00:00+00:00",
       "summary": "It’s preseason, the mercato is quiet, and so understandably anything is going to be magnified by a million. However, AC Milan didn’t need that. Milan have returned to the lull of the mercato. They did their big splash in the water for Goncalo Ramos and Mario Gila, then they went back to the shadows "
-    },
-    {
-      "id": "98fc2a0b1ec6",
-      "title": "Ravezzani sure: \"At Milan no one is able to make Maignan and Rabiot think. It's a serious limitation\"",
-      "url": "https://www.milannews.it/news/ravezzani-sicuro-al-milan-grado-far-ragionare-maignan-rabiot-grave-limite-626402",
-      "source": "milannews.it",
-      "date": "2026-08-11T17:50:16+00:00",
-      "summary": "In his YouTube channel, the director of Telelombardia Fabio Ravezzani spoke about the news regarding the return postponed by 4 days of Maignan and Rabiot. These are his words."
-    },
-    {
-      "id": "bb6aeff74a5f",
-      "title": "Europa League, Milan's opponents in Serie A before the cup matches: the complete calendar",
-      "url": "https://www.milannews.it/news/europa-league-avversarie-milan-serie-gare-coppa-calendario-completo-626400",
-      "source": "milannews.it",
-      "date": "2026-08-11T17:40:47+00:00",
-      "summary": "Europa League, all the info on the preliminaries, dates and format of the 2026/2027 competition."
-    },
-    {
-      "id": "d3b56e224a83",
-      "title": "Football referees, from Serie A to youth teams, no more encirclement",
-      "url": "https://www.milannews.it/news/arbitri-calcio-giovanili-accerchiamenti-626392",
-      "source": "milannews.it",
-      "date": "2026-08-11T17:30:39+00:00",
-      "summary": "(ANSA) - CASCIA (PERUGIA), AUGUST 11 - Strengthening the relationship between referee and captain and avoiding encirclement by match officials, from Serie A matches to youth category fields is one of the points on which Daniele Orsato, the ..."
-    },
-    {
-      "id": "cdf1f972bc81",
-      "title": "Serie A: Lecce, the FIGC blocks Banda's transfer to Libya",
-      "url": "https://www.milannews.it/l-avversario/serie-a-lecce-figc-blocca-trasferimento-banda-libia-626399",
-      "source": "milannews.it",
-      "date": "2026-08-11T17:20:57+00:00",
-      "summary": "(ANSA) - LECCE, AUGUST 11 - There is now a total clash between Lecce and Lameck Banda. Through a statement released on its official channels, the Giallorossi club seems to put a full stop to the matter."
     },
     {
       "id": "3d00b751c5f0",
@@ -162,36 +186,12 @@
       "summary": "AC Milan are less than two weeks away from the start of the season and it’s fair to say that there are quite a few complaints about things. When you look at pre-season, there is an underlying worry about what is to come amongst the fanbase. Of course, pre-season is not the be-all and end-all. […]\nTh"
     },
     {
-      "id": "812c87ddcc8c",
-      "title": "Tomorrow afternoon we return to Milanello: Amorim will meet Pulisic for the first time",
-      "url": "https://www.milannews.it/news/domani-pomeriggio-torna-milanello-amorim-incontrera-pulisic-626407",
-      "source": "milannews.it",
-      "date": "2026-08-11T17:09:25+00:00",
-      "summary": "Tomorrow afternoon the team returns to training at Milanello: the work session is scheduled for 5.30pm."
-    },
-    {
       "id": "18946b5f20d2",
       "title": "Rafael Leao warning against ‘speculation and stories that aren’t true’",
       "url": "https://football-italia.net/rafael-leao-warning-on-speculation-stories/",
       "source": "football-italia.net",
       "date": "2026-08-11T17:04:21+00:00",
       "summary": "Rafael Leao expressed his frustration at ‘speculation and stories that aren’t true’ about his Milan..."
-    },
-    {
-      "id": "3c73c4ed0f32",
-      "title": "The NY Yankees, who have a stake in AC Milan, will receive $2.6 billion from Apollo Sports Capital",
-      "url": "https://www.milannews.it/news/ny-yankees-quota-milan-riceveranno-2-6-dollari-apollo-sports-capital-626405",
-      "source": "milannews.it",
-      "date": "2026-08-11T17:00:50+00:00",
-      "summary": "The New York Yankees, reports the NY Times, have received a large capital injection thanks to an agreement with a division of Apollo Global Management, an alternative asset management company based in New York."
-    },
-    {
-      "id": "c090e555d513",
-      "title": "Mussa on Milan: \"It's the furthest behind the big teams, Amorim must be followed on the market\"",
-      "url": "https://www.milannews.it/news/mussa-milan-e-big-amorim-mercato-626395",
-      "source": "milannews.it",
-      "date": "2026-08-11T16:50:30+00:00",
-      "summary": "Speaking to the microphones of Tuttomercatoweb Radio, Mister Giovanni Mussa spoke about Amorim's Milan. These are his words."
     },
     {
       "id": "bb748c8b59a4",
