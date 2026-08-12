@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-08-12T21:41:35.953130+00:00",
+  "lastUpdated": "2026-08-12T22:37:39.688971+00:00",
   "articles": [
+    {
+      "id": "246e490b61c1",
+      "title": "Milan on DAZN: prices and all the useful news for Rossoneri fans",
+      "url": "https://www.milannews.it/news/milan-dazn-prezzi-novita-utili-tifosi-rossoneri-626549",
+      "source": "milannews.it",
+      "date": "2026-08-12T22:30:49+00:00",
+      "summary": "DAZN, the platform that holds the TV rights to Serie A Enilive, has announced that subscription prices will be increased for the next season."
+    },
+    {
+      "id": "3280b1a3e115",
+      "title": "Sabatini explains: \"Only Porto can sign Gimenez, I'll reveal why. At Milan he is now in a dead-end tunnel\"",
+      "url": "https://www.milannews.it/calciomercato-milan/sabatini-spiega-solo-porto-prendere-gimenez-svelo-perche-626505",
+      "source": "milannews.it",
+      "date": "2026-08-12T22:20:34+00:00",
+      "summary": "On Carlo Pellegatti's YouTube channel, during the last episode of The Hammer and the Anvil, Sandro Sabatini spoke about the possible sale of Santiago Gimenez to Porto. These are his words."
+    },
+    {
+      "id": "9b48f28e4f1d",
+      "title": "Milan, il calendario di agosto: sabato l'ultimo test amichevole",
+      "url": "https://www.milannews.it/news/milan-calendario-agosto-sabato-test-amichevole-626550",
+      "source": "milannews.it",
+      "date": "2026-08-12T22:10:28+00:00",
+      "summary": "Ruben Amorim's new Milan will be involved at home to Turin on the first matchday and at San Siro against Venice for the second match. However, the Pre-Season must be concluded first."
+    },
+    {
+      "id": "48542ac7978e",
+      "title": "Cardinal in Paris for Ramos. Maignan and Rabiot: two reasons. Max's last farewell to Baresi",
+      "url": "https://www.milannews.it/editoriale/cardinale-parigi-ramos-maignan-rabiot-motivi-l-ultimo-saluto-max-baresi-626509",
+      "source": "milannews.it",
+      "date": "2026-08-12T22:00:00+00:00",
+      "summary": "Amorim has the merit of not spreading alarm around the start of this season but deep down he must think that the difficulties imagined on the day of signing the contract have multiplied rather than diminished."
+    },
+    {
+      "id": "fc99e03deecf",
+      "title": "Milan Futuro, defender Gabriele Minotti moves to Renate",
+      "url": "https://www.milannews.it/news/milan-futuro-difensore-gabriele-minotti-passa-renate-626546",
+      "source": "milannews.it",
+      "date": "2026-08-12T21:50:05+00:00",
+      "summary": "The news concerns the young defender of Milan Futuro. In fact, after having mutually terminated his contract with Milan, Gabriele Minotti, defender born in 2003, officially became a new Renate player."
+    },
+    {
+      "id": "8c8426f7662c",
+      "title": "Future Camarda, Serena: \"He must be accompanied and educated in the game of Amorim\"",
+      "url": "https://www.milannews.it/news/camarda-serena-va-accompagnato-educato-gioco-amorim-626547",
+      "source": "milannews.it",
+      "date": "2026-08-12T21:40:31+00:00",
+      "summary": "In the long interview given to Tuttosport, former Rossoneri player Aldo Serena spoke about Milan's attackers, in particular Gonçalo Ramos, Francesco Camarda and Rafael Leao."
+    },
     {
       "id": "be2ec4d7e4f7",
       "title": "A new reinforcement for Gattuso? Lazio one step away from Frattesi",
@@ -11,7 +59,7 @@
     },
     {
       "id": "f06423012d15",
-      "title": "De Zerbi honest about Tonali: \"Here at Tottenham we could offer him this more than in other teams\"",
+      "title": "De Zerbi onesto su Tonali: \"Qua al Tottenham potevamo offrirgli questa cosa in più che in altre squadre\"",
       "url": "https://www.milannews.it/news/de-zerbi-onesto-tonali-qua-tottenham-potevamo-offrirgli-squadre-626545",
       "source": "milannews.it",
       "date": "2026-08-12T21:20:42+00:00",
@@ -67,11 +115,11 @@
     },
     {
       "id": "47844b13f948",
-      "title": "Milan, per Bucchioni sarà una stagione in salita: questo il suo pensiero sui rossoneri",
+      "title": "Milan, it will be an uphill season for Bucchioni: this is his thoughts on the Rossoneri",
       "url": "https://www.milannews.it/news/milan-bucchioni-stagione-salita-pensiero-rossoneri-626535",
       "source": "milannews.it",
       "date": "2026-08-12T20:10:41+00:00",
-      "summary": "The season of mister Ruben Amorim's new Milan continues, with the Rossoneri scheduled to play the last friendly test on Saturday before the start of the championship, scheduled for Sunday 23 August against Torino."
+      "summary": "La stagione del nuovo Milan di mister Ruben Amorim prosegue, con i rossoneri che sabato saranno impegnati nell'ultimo test amichevole prima dell'inizio del campionato, in programma domenica 23 agosto contro il Torino."
     },
     {
       "id": "d6ff99997418",
@@ -83,7 +131,7 @@
     },
     {
       "id": "f9bf708ef11f",
-      "title": "MN - Donnarumma o Courtois più forti di Maignan? La risposta di Konè spiazza tutti",
+      "title": "MN - Donnarumma or Courtois stronger than Maignan? Konè's response shocks everyone",
       "url": "https://www.milannews.it/news/mn-donnarumma-courtois-forti-maignan-risposta-kone-spiazza-626533",
       "source": "milannews.it",
       "date": "2026-08-12T19:50:40+00:00",
@@ -95,7 +143,7 @@
       "url": "https://www.milannews.it/news/sabatini-pungente-contro-chelsea-dovevamo-vedere-calcio-amorim-milan-zero-tiri-porta-626532",
       "source": "milannews.it",
       "date": "2026-08-12T19:40:41+00:00",
-      "summary": "Thus, regarding the current affairs of the Rossoneri world, on his YouTube channel, Carlo Pellegatti hosted Sandro Sabatini in the usual episode of Incudine e Martello, who returned to talk about the friendly match..."
+      "summary": "Così, in merito alla stretta attualità del mondo rossonero, nel suo canale YouTube, Carlo Pellegatti ha ospitato nella consueta puntata di Incudine e Martello Sandro Sabatini che è tornato a parlare dell'amichevole  ..."
     },
     {
       "id": "c3cc1ef26011",
@@ -112,54 +160,6 @@
       "source": "milannews.it",
       "date": "2026-08-12T19:20:58+00:00",
       "summary": "Roberto De Zerbi, former AC Milan player and current manager of Tottenham, gave a long interview to Sky in which he also spoke about the passing of Franco Baresi: \"I suffered a lot from this news, because I ..."
-    },
-    {
-      "id": "9ca5c61090f2",
-      "title": "Leao cryptic on Instagram: \"The sun never hides behind the mountain\"",
-      "url": "https://www.milannews.it/news/leao-criptico-instagram-il-sole-nasconde-montagna-626548",
-      "source": "milannews.it",
-      "date": "2026-08-12T19:10:45+00:00",
-      "summary": "Rafa Leao is increasingly at the center of the Rossoneri summer."
-    },
-    {
-      "id": "e8f7dc9d3a25",
-      "title": "Milan alla finestra per Said El Mala: ecco chi è il talento del Colonia che piace ai rossoneri",
-      "url": "https://www.milannews.it/primo-piano/milan-finestra-said-el-mala-talento-colonia-piace-rossoneri-626530",
-      "source": "milannews.it",
-      "date": "2026-08-12T19:00:24+00:00",
-      "summary": "From Germany comes a new idea for Milan's attacking midfield, namely Said El Mala, a talent born in 2006 from FC Cologne who has a valuation of 50 million euros."
-    },
-    {
-      "id": "4de670d9eb2a",
-      "title": "Leao celebrates Balotelli: \"Happy birthday legend\"",
-      "url": "https://www.milannews.it/news/leao-festeggia-balotelli-buon-compleanno-leggenda-626539",
-      "source": "milannews.it",
-      "date": "2026-08-12T18:50:17+00:00",
-      "summary": "Mario Balotelli turns 36."
-    },
-    {
-      "id": "c764c5856dd0",
-      "title": "Renate, l'ex Milan Minotti ha firmato un contratto fino al 2027 con opzione fino al 2028",
-      "url": "https://www.milannews.it/gli-ex/renate-milan-minotti-firmato-contratto-2027-opzione-2028-626525",
-      "source": "milannews.it",
-      "date": "2026-08-12T18:40:04+00:00",
-      "summary": "After having mutually terminated his contract with Milan, Gabriele Minotti, defender born in 2003, has officially become a new Renate player. This is the official statement on the Nerazzurri club website: \"A."
-    },
-    {
-      "id": "d0b069e97e8e",
-      "title": "Sabatini worried: \"A worrying match against Chelsea because Milan had 0 shots on target\"",
-      "url": "https://www.milannews.it/news/sabatini-preoccupato-con-chelsea-partita-preoccupante-0-tiri-porta-626510",
-      "source": "milannews.it",
-      "date": "2026-08-12T18:30:06+00:00",
-      "summary": "On his YouTube channel, Carlo Pellegatti hosted Sandro Sabatini in the usual episode of Anvil and Hammer, who returned to talk about the friendly match Milan lost 3-0 against Chelsea. These are his words."
-    },
-    {
-      "id": "b7dd787b4e17",
-      "title": "Solar eclipse in Milanello, the social post: Modric and his companions observe the show",
-      "url": "https://www.milannews.it/news/eclissi-solare-milanello-post-social-modric-compagno-osservano-spettacolo-626538",
-      "source": "milannews.it",
-      "date": "2026-08-12T18:20:02+00:00",
-      "summary": "It is an incredible event and it will only happen like this again in another 60 years. The solar eclipse struck everyone with its magnificence and spectacularity."
     },
     {
       "id": "105f10bd6f51",
