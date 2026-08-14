@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-08-14T17:50:31.725124+00:00",
+  "lastUpdated": "2026-08-14T18:49:56.276607+00:00",
   "articles": [
+    {
+      "id": "5d391b3428d6",
+      "title": "MN - Crowd for Milan in the hotel in Wroclaw, great ovation for Modric",
+      "url": "https://www.milannews.it/news/mn-bagno-folla-milan-all-hotel-ovazione-modric-626744",
+      "source": "milannews.it",
+      "date": "2026-08-14T18:36:14+00:00",
+      "summary": "A few minutes ago the team arrived at the hotel in Wroclaw where they were welcomed by a red and black crowd of fans."
+    },
+    {
+      "id": "a8233e44e46b",
+      "title": "Pellegatti reveals: \"Amorim asked for defender and attacking midfielders, Gimenez can stay up front\"",
+      "url": "https://www.milannews.it/news/pellegatti-svela-amorim-chiesto-difensore-trequartisti-gimenez-restare-626740",
+      "source": "milannews.it",
+      "date": "2026-08-14T18:24:03+00:00",
+      "summary": "In his YouTube channel, Carlo Pellegatti spoke about the Milan transfer market and Ruben Amorim's requests. These are his words."
+    },
+    {
+      "id": "1e163bcf812c",
+      "title": "MN - Hauge remembers Ibra: \"He demanded a lot from everyone, for me it was just a good thing\"",
+      "url": "https://www.milannews.it/news/mn-hauge-ricorda-ibra-esigeva-chiunque-bene-626726",
+      "source": "milannews.it",
+      "date": "2026-08-14T18:12:18+00:00",
+      "summary": "Jens Petter Hauge, former AC Milan striker in the 2020/2021 season, today one of the strong points of Bodø/Glimt was thus reached by Alessandro Schiavone exclusively for MilanNews.it."
+    },
+    {
+      "id": "86406daa919f",
+      "title": "Probable Milan lineup - For United Amorim prepares the 11 against Turin between the transfer market and injuries",
+      "url": "https://www.milannews.it/primo-piano/probabile-formazione-milan-united-amorim-prepara-11-anti-torino-mercato-infortuni-626739",
+      "source": "milannews.it",
+      "date": "2026-08-14T18:00:00+00:00",
+      "summary": "Milan's last summer friendly, then we start to get really serious. Tomorrow afternoon the Rossoneri will take on Manchester United in Wroclaw, Poland."
+    },
+    {
+      "id": "e7a4c74db33d",
+      "title": "Preseason preview: Man Utd vs. AC Milan – Team news, opposition insight and how to watch",
+      "url": "https://sempremilan.com/milan-man-utd-preview-team-news-how-watch",
+      "source": "sempremilan.com",
+      "date": "2026-08-14T18:00:00+00:00",
+      "summary": "AC Milan will face Manchester United in their fourth and final pre-season friendly on Saturday, hoping to clinch their first win with Ruben Amorim.  After the draws against Celtic and Inter, as well as the defeat to Chelsea, Milan are desperate to get their first win of the summer. The season starts"
+    },
+    {
+      "id": "994aa45c44e7",
+      "title": "Ravezzani rules on Leao: \"You sell him for 35 million euros and you say goodbye and thank him\"",
+      "url": "https://www.milannews.it/news/ravezzani-sentenzia-leao-lo-vendi-35-euro-saluti-ringrazi-626725",
+      "source": "milannews.it",
+      "date": "2026-08-14T17:48:25+00:00",
+      "summary": "Ruben Amorim's Milan summer continues with this pre-season (almost) over."
+    },
     {
       "id": "acccc2df4f3a",
       "title": "Report Leao and Milan in fresh Galatasaray talks after €50m price dropped",
@@ -55,7 +103,7 @@
       "url": "https://www.milannews.it/news/borghi-avvisa-milan-quest-scherzare-626721",
       "source": "milannews.it",
       "date": "2026-08-14T17:00:39+00:00",
-      "summary": "Ruben Amorim's Milan summer continues with this pre-season (almost) over."
+      "summary": "L'estate del Milan di Ruben Amorim prosegue con questa pre season (quasi) terminata."
     },
     {
       "id": "acece406257e",
@@ -103,7 +151,7 @@
       "url": "https://www.milannews.it/news/leao-pensiero-trevisani-va-tenuto-riescono-rimotivarlo-626709",
       "source": "milannews.it",
       "date": "2026-08-14T16:24:14+00:00",
-      "summary": "Riccardo Trevisani, speaking to SportMediaset on Italia Uno, commented on Milan's moment: \"I see a bit of confusion."
+      "summary": "Riccardo Trevisani, speaking to SportMediaset on Italia Uno, commented on Milan's moment thus: \"I see a bit of confusion."
     },
     {
       "id": "cec0fa929121",
@@ -111,7 +159,7 @@
       "url": "https://www.milannews.it/calciomercato-milan/ufficiale-eletu-ceduto-definitivo-pescara-626737",
       "source": "milannews.it",
       "date": "2026-08-14T16:11:32+00:00",
-      "summary": "AC Milan announces that it has sold, definitively, the right to the sporting performances of the footballer Victor Eletu to Pescara Calcio."
+      "summary": "AC Milan comunica di aver ceduto, a titolo definitivo, il diritto alle prestazioni sportive del calciatore Victor Eletu al Pescara Calcio."
     },
     {
       "id": "072b4201e740",
@@ -191,7 +239,7 @@
       "url": "https://www.milannews.it/calciomercato-milan/fofana-moretto-diversi-club-inglesi-sondando-terreno-626715",
       "source": "milannews.it",
       "date": "2026-08-14T15:23:47+00:00",
-      "summary": "Matteo Moretto, speaking on Fabrizio Romano's YouTube channel, spoke thus about Milan's incoming and outgoing transfer market: \"I can tell you that Nkunku is receiving a lot of calls, not only from Roma but also from abroad."
+      "summary": "Matteo Moretto, intervenuto sul canale YouTube di Fabrizio Romano, ha parlato così il mercato in entrata e in uscita del Milan: \"Ti posso dire che Nkunku sta ricevendo tantissime chiamate, non solo la Roma ma anche dall’estero."
     },
     {
       "id": "9f12ffd0bf79",
@@ -199,7 +247,7 @@
       "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-tiago-gabriel-goncalo-inacio-difesa-626707",
       "source": "milannews.it",
       "date": "2026-08-14T15:12:50+00:00",
-      "summary": "According to what Claudio Raimondi reports to SportMediaset on Italia Uno, after yesterday's meeting between Gerry Cardinale and Ruben Amorim, Milan aims to make at least three moves in the transfer market between now and September 1st, namely an attacking midfielder..."
+      "summary": "Secondo quanto riporta Claudio Raimondi a SportMediaset su Italia Uno, dopo l'incontro di ieri tra Gerry Cardinale e Ruben Amorim, il Milan punta a fare almeno tre colpi di mercato in entrato da qui al 1° settembre, vale a die un trequartista ..."
     },
     {
       "id": "4a75cfc7db1c",
@@ -210,52 +258,12 @@
       "summary": "AC Milan have confirmed the departure of Victor Eletu, who has joined the Serie C side Pescara on a permanent basis.  Eletu has been part of the Milan academy since 2021, joining the club at the age of 16. During his time with the Primavera side, and mainly under Ignazio Abate’s guidance, he was a ["
     },
     {
-      "id": "9b093fe7939c",
-      "title": "English sirens for Fofana: Crystal Palace and Nottingham Forest have already asked for information",
-      "url": "https://www.milannews.it/calciomercato-milan/sirene-inglesi-fofana-crystal-palace-nottingham-forest-chiesto-informazioni-626718",
-      "source": "milannews.it",
-      "date": "2026-08-14T14:59:18+00:00",
-      "summary": "Among the Milan players cut by Ruben Amorim there is also Christopher Nkunku."
-    },
-    {
-      "id": "bb2067c4e329",
-      "title": "Arteta: \"I want Nwaneri to stay. But we must also consider, in the medium and long term, what is best for the player\"",
-      "url": "https://www.milannews.it/calciomercato-milan/arteta-voglio-nwaneri-rimanga-dobbiamo-considerare-medio-termine-giocatore-626731",
-      "source": "milannews.it",
-      "date": "2026-08-14T14:47:39+00:00",
-      "summary": "Mikel Arteta, who spoke at a press conference today ahead of Sunday's Community Shield against Manchester City, also spoke about Ethan Nwaneri."
-    },
-    {
-      "id": "53689d3a660f",
-      "title": "Milan-Manchester United prediction, Amorim finds his past and tries out the new signings",
-      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-milan-manchester-united-amorim-ritrova-passato-prova-acquisti-626397",
-      "source": "milannews.it",
-      "date": "2026-08-14T14:45:00+00:00",
-      "summary": "Having completed the tour of Australia and Asia, Milan concludes its cycle of friendlies in the Old Continent. And they challenge Manchester United on neutral ground in Wroclaw, Poland."
-    },
-    {
-      "id": "8c7cd3deb86e",
-      "title": "Capello disappointed by Gimenez: \"He didn't live up to expectations. I wouldn't tear myself up over his sale\"",
-      "url": "https://www.milannews.it/gli-ex/capello-deluso-gimenez-non-mantenuto-aspettative-strapperei-vesti-cessione-626691",
-      "source": "milannews.it",
-      "date": "2026-08-14T14:36:47+00:00",
-      "summary": "Speaking to the Gazzetta dello Sport, Fabio Capello, former Rossoneri coach, spoke thus about Santiago Gimenez and Francesco Camarda: \"The Mexican disappointed and then got hurt."
-    },
-    {
       "id": "c25baefdd41f",
       "title": "Watch: Nkunku spotted at Linate Airport after Milan’s decision to exclude him",
       "url": "https://sempremilan.com/watch-nkunku-linate-milan-exclude",
       "source": "sempremilan.com",
       "date": "2026-08-14T14:30:00+00:00",
       "summary": "Christopher Nkunku was spotted at Linate Airport earlier this evening, having been told that he’s no longer part of the AC Milan project. During a summit with Gerry Cardinale yesterday, Ruben Amorim outlined the players he wants to keep and the players he doesn’t want to keep. Despite being poised t"
-    },
-    {
-      "id": "18f59ab92175",
-      "title": "Moretto: \"Nkunku is receiving lots of calls. It's not just Roma, but also foreign clubs\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-nkunku-ricevendo-tantissime-chiamate-roma-club-esteri-626714",
-      "source": "milannews.it",
-      "date": "2026-08-14T14:24:30+00:00",
-      "summary": "Matteo Moretto, speaking on Fabrizio Romano's YouTube channel, spoke thus about Milan's incoming and outgoing transfer market: \"I can tell you that Nkunku is receiving a lot of calls, not only from Roma but also from abroad."
     },
     {
       "id": "4e33109fb920",
@@ -408,14 +416,6 @@
       "source": "football-italia.net",
       "date": "2026-08-14T08:35:53+00:00",
       "summary": "Rafael Leao is expected to miss his side’s upcoming pre-season friendly against Manchester United this..."
-    },
-    {
-      "id": "32809178b0fb",
-      "title": "MN: Amorim requests ‘five to six’ useful signings in summit with Cardinale",
-      "url": "https://sempremilan.com/amorim-five-six-signings-summit-cardinale",
-      "source": "sempremilan.com",
-      "date": "2026-08-14T08:25:00+00:00",
-      "summary": "Ruben Amorim has requested an additional five to six signings before the transfer window closes, according to a report, and there are also several sales to make.  Gerry Cardinale was at Milanello yesterday to meet with Amorim and the rest of the management. Having tested all of the players during th"
     },
     {
       "id": "8223b7b043b1",
