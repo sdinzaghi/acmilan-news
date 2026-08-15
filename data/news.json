@@ -1,21 +1,101 @@
 {
-  "lastUpdated": "2026-08-15T16:20:34.695016+00:00",
+  "lastUpdated": "2026-08-15T17:17:42.311548+00:00",
   "articles": [
     {
+      "id": "d1c2e0d96978",
+      "title": "Zancan praises Goncalo Ramos: \"Milan needed a 9 like this: he knows how to score and support the game\"",
+      "url": "https://www.milannews.it/news/zancan-elogia-goncalo-ramos-al-milan-serviva-9-cosi-sa-segnare-appoggiare-gioco-626826",
+      "source": "milannews.it",
+      "date": "2026-08-15T17:10:31+00:00",
+      "summary": "Federico Zancan, journalist, expressed himself to SkySport as follows about Goncalo Ramos, the new AC Milan striker who arrived in June from PSG: \"There is great curiosity and great expectation: he is a strong striker."
+    },
+    {
+      "id": "104556fadad7",
+      "title": "Player Ratings: Man Utd 2-4 AC Milan – Several players shine in comeback",
+      "url": "https://sempremilan.com/player-ratings-man-utd-2-4-ac-milan-shine",
+      "source": "sempremilan.com",
+      "date": "2026-08-15T17:04:45+00:00",
+      "summary": "AC Milan (finally) clinched their first win of the pre-season, beating Man Utd by four goals to two. Several players impressed and below are the ratings for the Rossoneri. After two draws and one defeat, Milan headed into the game with a desperate need to clinch a win, especially since the season op"
+    },
+    {
+      "id": "676a24d9834b",
+      "title": "It's not 2007, but Milan overtakes Manchester Utd. How it went: indications and obligations for the market",
+      "url": "https://www.milannews.it/primo-piano/2007-milan-asfalta-manchester-utd-indicazioni-campo-obbligo-mercato-626825",
+      "source": "milannews.it",
+      "date": "2026-08-15T17:00:26+00:00",
+      "summary": "Milan concludes its summer of friendlies with a (first) rather convincing victory: 2-4 against Manchester United, thanks to goals from Chukwueze (37'), Cisse (57'), Goncalo Ramos (68') and Loftus-Cheek (71') useful for turning the ..."
+    },
+    {
+      "id": "6bea436911dc",
+      "title": "Manchester United-Milan 2-4, the report cards. Chukwu MVP, glacial Ramos. Surprise Loftus, finally Jashari",
+      "url": "https://www.milannews.it/pagelle/manchester-united-milan-2-4-pagelle-chukwu-mvp-ramos-glaciale-sorpresa-loftus-jashari-626824",
+      "source": "milannews.it",
+      "date": "2026-08-15T16:50:00+00:00",
+      "summary": "These are the report cards of Manchester United-Milan 2-4, the last friendly match of the Rossoneri summer.\n\nTorriani 7: wide awake on Dorgu's strong shot after a few seconds, he can do nothing on Maguire's header."
+    },
+    {
+      "id": "180ca945fdc9",
+      "title": "Friendly | Manchester United 2-4 Milan: Ramos impressive in prestigious victory",
+      "url": "https://football-italia.net/friendly-manchester-united-2-4-milan-ramos/",
+      "source": "football-italia.net",
+      "date": "2026-08-15T16:46:53+00:00",
+      "summary": "Milan made up for a nightmare start by beating Manchester United 4-2 in their last..."
+    },
+    {
+      "id": "6f9603cb0610",
+      "title": "Man Utd 2-4 AC Milan: Positive signs in Poland as Amorim beats former side",
+      "url": "https://sempremilan.com/man-utd-2-4-ac-milan-match-report-pre-season-2026",
+      "source": "sempremilan.com",
+      "date": "2026-08-15T16:45:36+00:00",
+      "summary": "AC Milan made it difficult for themselves, but strode to a massive 4-2 win against Manchester United in Poland on Saturday. Ruben Amorim was forced into several changes for this game, with Yunus Musah, Ardon Jashari, Alphadjo Cisse and Goncalo Ramos coming into the starting XI. An opportunity offere"
+    },
+    {
       "id": "4d938d682bb9",
-      "title": "MANCHESTER UTD-MILAN (2-3): Ramos puts the Devil forward, another assist from Chukwueze...",
+      "title": "MANCHESTER UTD-MILAN (2-4): nice victory for the Rossoneri, Ramos also scored",
       "url": "https://www.milannews.it/primo-piano/manchester-united-milan-0-0-inizio-partita-626804",
       "source": "milannews.it",
-      "date": "2026-08-15T16:17:26+00:00",
-      "summary": "68' GOOOOOLLLL!!! RAMOS TAKES MILAN FORWARD!!! Great move by the Rossoneri, the ball reaches Chukwueze on the right and finds the Portuguese in the small area who heads it past the United goalkeeper."
+      "date": "2026-08-15T16:44:26+00:00",
+      "summary": "- Milan finds a good victory in Poland against Manchester United: the Rossoneri went behind twice, but were always good at coming back and then extending their lead in the second half. Chukwueze, Cisse, Ramos and Loftus-Cheek scored."
+    },
+    {
+      "id": "0cfaabc0c8c4",
+      "title": "Friendly, Manchester United-Milan 2-4: the match scoreboard",
+      "url": "https://www.milannews.it/i-tabellini/amichevole-manchester-united-milan-2-4-tabellino-match-626822",
+      "source": "milannews.it",
+      "date": "2026-08-15T16:43:44+00:00",
+      "summary": "This is the scoreboard for Manchester United-Milan, the last friendly match of the Rossoneri summer."
+    },
+    {
+      "id": "7b88ecc629b6",
+      "title": "Watch: Cisse, Ramos and Loftus-Cheek score for Milan in rapid turnaround",
+      "url": "https://sempremilan.com/cisse-levels-for-milan-chukwueze-involved",
+      "source": "sempremilan.com",
+      "date": "2026-08-15T16:24:59+00:00",
+      "summary": "After falling behind early in the second half, AC Milan now lead against Manchester United after goals from Alphadjo Cisse and Goncalo Ramos. The second half began as the first did, with Manchester United the more aggressive side and they got themselves ahead early on. Again, though, the Rossoneri g"
+    },
+    {
+      "id": "52bf5795c9ee",
+      "title": "UTD-MIL 2-4: finally Loftus-Cheek also turns on the lights",
+      "url": "https://www.milannews.it/news/utd-mil-2-4-loftus-cheek-accende-luce-626817",
+      "source": "milannews.it",
+      "date": "2026-08-15T16:20:48+00:00",
+      "summary": "Fourth goal from Milan when we are in the 72nd minute of the friendly match against United."
+    },
+    {
+      "id": "d993afc34e98",
+      "title": "UTD-MIL (2-3): Rossoneri ahead with Gonçalo Ramos! Another assist from Chukwu",
+      "url": "https://www.milannews.it/news/utd-mil-2-3-rossoneri-goncalo-ramos-assist-chukwu-626816",
+      "source": "milannews.it",
+      "date": "2026-08-15T16:16:31+00:00",
+      "summary": "Milan gaining confidence and scoring another good goal! Maneuvered and first action involving Modric, Musah, Ramos, Chukwueze and finally Ramos again."
     },
     {
       "id": "daeb6cc5bca4",
-      "title": "UTD-MIL (2-2): splendida azione dei rossoneri e gol di Cissè",
+      "title": "UTD-MIL (2-2): splendid action by the Rossoneri and goal by Cissè",
       "url": "https://www.milannews.it/news/utd-mil-2-2-splendida-azione-rossoneri-gol-cisse-626814",
       "source": "milannews.it",
       "date": "2026-08-15T16:06:31+00:00",
-      "summary": "Milan equalized immediately with a splendid move built from behind. Excellent ball out which involved the entire left side of the team, including Ramos who had come down to lend a hand."
+      "summary": "Milan equalized immediately with a splendid move built from behind. Excellent ball-to-team exit that involved the entire left side of the team, including Ramos who had come down to lend a hand."
     },
     {
       "id": "535241ab0cfe",
@@ -67,7 +147,7 @@
     },
     {
       "id": "7fbc75c7c899",
-      "title": "Se Manchester Utd-Milan finisse in parità, si andrà ai rigori per assegnare il trofeo",
+      "title": "If Manchester Utd-Milan ends in a draw, penalties will be awarded to award the trophy",
       "url": "https://www.milannews.it/news/manchester-utd-milan-finisse-parita-andra-rigori-assegnare-trofeo-626805",
       "source": "milannews.it",
       "date": "2026-08-15T15:27:20+00:00",
@@ -75,7 +155,7 @@
     },
     {
       "id": "42c508433340",
-      "title": "UTD-MIL (1-1): pareggio di Chukwu! Assist di Ramos, ottima giocata di Jashari",
+      "title": "UTD-MIL (1-1): Chukwu equalizer! Assist by Ramos, excellent play by Jashari",
       "url": "https://www.milannews.it/news/utd-mil-1-1-pareggio-chukwu-assist-ramos-ottima-giocata-jashari-626808",
       "source": "milannews.it",
       "date": "2026-08-15T15:27:00+00:00",
@@ -95,7 +175,7 @@
       "url": "https://www.milannews.it/news/goncalo-ramos-tocca-te-9-milan-titolare-in-amichevole-626794",
       "source": "milannews.it",
       "date": "2026-08-15T14:53:14+00:00",
-      "summary": "È solo un'amichevole, certo, quindi non varrà per le statistiche, ma oggi contro il Manchester United Goncalo Ramos vestirà per la prima volta la maglia del Milan dal primo minuto; mai, infatti, era stato titolare nelle amich ..."
+      "summary": "It's just a friendly match, of course, so it won't count for the statistics, but today against Manchester United Goncalo Ramos will wear the Milan shirt for the first time from the first minute; In fact, he had never been a starter in friends..."
     },
     {
       "id": "932a9147508e",
@@ -107,7 +187,7 @@
     },
     {
       "id": "429ae79840de",
-      "title": "Zancan dubbioso sulla formazione: \"Mi immaginavo un Milan più avanti a Ferragosto rispetto a come è la realtà di oggi\"",
+      "title": "Zancan doubtful about the lineup: \"I imagined a Milan ahead in mid-August compared to what the reality is today\"",
       "url": "https://www.milannews.it/news/zancan-dubbioso-formazione-mi-immaginavo-milan-ferragosto-realta-oggi-626803",
       "source": "milannews.it",
       "date": "2026-08-15T14:36:26+00:00",
@@ -131,7 +211,7 @@
     },
     {
       "id": "6a338fb98139",
-      "title": "Milan, anche oggi tanti giovani in squadra. Da Comotto a Vladimirov: chi può entrare",
+      "title": "Milan, many young people in the team today too. From Comotto to Vladimirov: who can enter",
       "url": "https://www.milannews.it/news/milan-tanti-giovani-squadra-comotto-vladimirov-entrare-626791",
       "source": "milannews.it",
       "date": "2026-08-15T14:19:16+00:00",
@@ -162,60 +242,12 @@
       "summary": "This afternoon, Ruben Amorim has made several changes to his AC Milan team after the defeat to Chelsea last week. It is the final pre-season test for Milan today, as they prepare for their Serie A opener against Torino next weekend. There is still a lot to learn in the squad, with Amorim making key "
     },
     {
-      "id": "8336fe0386ec",
-      "title": "Manchester United-Milan, the official lineups: Modric on the bench, Musah and Jashari play",
-      "url": "https://www.milannews.it/primo-piano/manchester-united-milan-formazioni-ufficiali-modric-panchina-giocano-musah-jashari-626802",
-      "source": "milannews.it",
-      "date": "2026-08-15T13:49:44+00:00",
-      "summary": "These are the official lineups for Manchester United-Milan, the Rossoneri's last summer friendly."
-    },
-    {
-      "id": "b3ef9db664b8",
-      "title": "Why Modric on the bench (with Musah in his place) against Manchester Utd",
-      "url": "https://www.milannews.it/news/modric-panchina-con-musah-posto-manchester-utd-626793",
-      "source": "milannews.it",
-      "date": "2026-08-15T13:45:25+00:00",
-      "summary": "Si pensava potesse giocare da titolare, ma Luka Modric inizia il match amichevole contro il Manchester United dalla panchina."
-    },
-    {
-      "id": "ecb46f2b2b23",
-      "title": "Today's AC Milan captain is at an absolute first in his career: Pavlovic's armband",
-      "url": "https://www.milannews.it/news/capitano-milan-assoluta-carriera-fascia-pavlovic-626789",
-      "source": "milannews.it",
-      "date": "2026-08-15T13:28:45+00:00",
-      "summary": "Nella distinta ufficiale del Milan per l'amichevole contro il Manchester United, in programma alle 16."
-    },
-    {
-      "id": "f8e3bb9aeb69",
-      "title": "Where to watch Manchester Utd-Milan live on TV, streaming and on MilanNews.it",
-      "url": "https://www.milannews.it/news/vedere-manchester-utd-milan-diretta-tv-streaming-milannews-it-626795",
-      "source": "milannews.it",
-      "date": "2026-08-15T13:11:47+00:00",
-      "summary": "Oggi pomeriggio, alle ore 16:45, il Milan affronterà il Manchester United, l'ex squadra di Amorim, nell'ultima amichevole estiva prima dell'inizio della stagione."
-    },
-    {
       "id": "c3b220f9513b",
       "title": "Watch: Summer departee Lontani bags brace in ‘shining’ Parma debut",
       "url": "https://sempremilan.com/lontani-bags-brace-shining-parma-debut",
       "source": "sempremilan.com",
       "date": "2026-08-15T13:00:00+00:00",
       "summary": "This summer, Simone Lontani left AC Milan and headed to Parma on a free transfer and he has already scored his first goals for the club. Lontani is one of the latest Milan gems to leave the club, leaving many frustrated with the club again for missing out on a potential top talent. Of course, […]\nTh"
-    },
-    {
-      "id": "35095d46b469",
-      "title": "Moretto: \"There has been a lot of talk about Zalewski in terms of Milan but it doesn't appear at the moment\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-si-parlato-zalewski-chiave-milan-risulta-momento-626801",
-      "source": "milannews.it",
-      "date": "2026-08-15T12:55:30+00:00",
-      "summary": "To strengthen Milan's sidelines, there has also been talk of the Atalanta player Zalewski, but at the moment it is a suggestion that cannot be confirmed in any way. Matteo Moretto also confirms this situation.\""
-    },
-    {
-      "id": "908729a71091",
-      "title": "Sarri: \"The market is boring, it's an insult to my profession\"",
-      "url": "https://www.milannews.it/news/sarri-mercato-palloso-insulto-professione-626764",
-      "source": "milannews.it",
-      "date": "2026-08-15T12:37:47+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 14 - \"The match was very tidy, on good levels, and it's already a great deal given the stage of preparation we're at."
     },
     {
       "id": "0e0d7aad65d5",
@@ -362,36 +394,12 @@
       "summary": "Multiple sources in Italy and Turkiye confirm Galatasaray are in renewed talks with Milan for..."
     },
     {
-      "id": "695037dfa31e",
-      "title": "Amorim names 21-man squad for Man Utd friendly as Gila returns",
-      "url": "https://sempremilan.com/amorim-names-21-squad-man-utd-gila",
-      "source": "sempremilan.com",
-      "date": "2026-08-14T17:30:23+00:00",
-      "summary": "Ruben Amorim has called up 21 players for AC Milan’s game against Manchester United tomorrow, with several absences to note.  Milan have one last chance to clinch a win in their pre-season, following the draws against Celtic and Inter, and the defeat to Chelsea. However, as Man Utd seemed eager to p"
-    },
-    {
       "id": "9b50fc36e956",
       "title": "Cryptic Maignan post makes Milan fans angry: ‘Give Modric the armband’",
       "url": "https://football-italia.net/strange-maignan-post-makes-milan-fans-angry/",
       "source": "football-italia.net",
       "date": "2026-08-14T17:12:36+00:00",
       "summary": "Mike Maignan delayed his return to Milan after the World Cup and posted a cryptic..."
-    },
-    {
-      "id": "acece406257e",
-      "title": "Milan Futuro prevail 6-2 in friendly clash against Serie D side Oltrepò",
-      "url": "https://sempremilan.com/milan-futuro-6-2-friendly-against-oltrepo",
-      "source": "sempremilan.com",
-      "date": "2026-08-14T17:00:00+00:00",
-      "summary": "Milan Futuro continued their pre-season with a friendly against the fellow Serie D side Oltrepò earlier today, coming away with a 6-2 win.  Sergio Navarro and his players will begin their season on August 30 with the Coppa Italia Serie D, taking on Sant’Angelo. A week after that, they will kickstart"
-    },
-    {
-      "id": "c6fab2d74224",
-      "title": "Official: Zachary Athekame joins Lyon on season-long loan deal",
-      "url": "https://sempremilan.com/official-zachary-athekame-lyon-loan-milan",
-      "source": "sempremilan.com",
-      "date": "2026-08-14T16:31:58+00:00",
-      "summary": "AC Milan have confirmed that Zachary Athekame has joined Olympique Lyonnais, also known as Lyon, on a loan deal until the end of the 2026-27 season.  At the end of last week, RMC Sport broke the news of Athekame’s imminent loan move to Lyon, and the deal has now been confirmed. Considering that the "
     },
     {
       "id": "c58c64ace855",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-08-14T07:59:47+00:00",
       "summary": "La Gazzetta dello Sport  Sara, you are already a legend  Curtis, super gold and another..."
-    },
-    {
-      "id": "6fc55a9be05a",
-      "title": "Milan could keep Leao after Nkunku put on sale with no big offers ready",
-      "url": "https://football-italia.net/milan-could-keep-leao-after-nkunku-put-on-sale/",
-      "source": "football-italia.net",
-      "date": "2026-08-13T19:22:43+00:00",
-      "summary": "With news Christopher Nkunku is on the market, it suggests Milan might be ready to..."
     }
   ]
 }
