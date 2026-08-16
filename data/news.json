@@ -1,9 +1,73 @@
 {
-  "lastUpdated": "2026-08-16T15:18:45.618688+00:00",
+  "lastUpdated": "2026-08-16T16:20:56.337408+00:00",
   "articles": [
     {
+      "id": "e888a0277da2",
+      "title": "Como, Fabregas on Liberali: \"If we hadn't seen him ready we would never have taken him\"",
+      "url": "https://www.milannews.it/gli-ex/como-fabregas-liberali-se-pronto-preso-626880",
+      "source": "milannews.it",
+      "date": "2026-08-16T16:16:06+00:00",
+      "summary": "Cesc Fabregas, Como's coach, spoke to SkySport about Como's two new signings, Trevoh Chalobah and Mattia Liberali: \"Chalobah is not the typical young signing, he is already a player made with ..."
+    },
+    {
+      "id": "fafa403345ca",
+      "title": "MN - Cardinale back at Milanello at the end of next week",
+      "url": "https://www.milannews.it/news/mn-cardinale-nuovamente-milanello-prossima-settimana-626902",
+      "source": "milannews.it",
+      "date": "2026-08-16T16:09:57+00:00",
+      "summary": "Che questa sarebbe stata una stagione piena di cambiamenti lo hanno capito tutti subito: il giorno dopo Milan-Cagliari c'è stato un reset totale dell'area sportiva e dirigenziale del Milan."
+    },
+    {
+      "id": "c99da9b8d044",
+      "title": "Chukwueze: \"New role? I have to commit and listen to Amorim. This is a once in a lifetime opportunity\"",
+      "url": "https://www.milannews.it/primo-piano/chukwueze-nuovo-ruolo-impegnarmi-ascoltare-amorim-occasione-capita-vita-626900",
+      "source": "milannews.it",
+      "date": "2026-08-16T16:00:00+00:00",
+      "summary": "Samuel Chukwueze è probabilmente il calciatore più intrigante di questo pre campionato rossonero."
+    },
+    {
+      "id": "7f82e6221ea2",
+      "title": "Sky: Juventus interested in Milan midfielder – swap deal could be proposed",
+      "url": "https://sempremilan.com/juventus-interested-fofana-swap-possible",
+      "source": "sempremilan.com",
+      "date": "2026-08-16T16:00:00+00:00",
+      "summary": "Youssouf Fofana has been told that he can leave AC Milan, but he might not have to depart Italy as Juventus are keen. In the past few days there have been various reports claiming that Ruben Amorim has told Gerry Cardinale and the management that there is a list of players he does not consider […]\nT"
+    },
+    {
+      "id": "70d4affee577",
+      "title": "Pasotto: \"Milan's desire is to sell Leao not only for cash reasons, but also for locker room issues\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pasotto-la-volonta-milane-cedere-leao-questioni-cassa-questioni-spogliatoio-amorim-entrato-uniti-626799",
+      "source": "milannews.it",
+      "date": "2026-08-16T15:44:43+00:00",
+      "summary": "After Nkunku was also included in Amorim's \"naughty list\", many thought that Leao could stay. This was not the case: for Milan the Portuguese remains an outgoing player who needs to be placed."
+    },
+    {
+      "id": "ea66d40d7161",
+      "title": "Turin, training session open to the public in view of the match against Milan",
+      "url": "https://www.milannews.it/l-avversario/torino-sessione-allenamento-aperta-pubblico-vista-sfida-milan-626897",
+      "source": "milannews.it",
+      "date": "2026-08-16T15:27:33+00:00",
+      "summary": "Torino, which has already played an official match (1-0 victory against Carrarese in the Italian Cup), is starting to prepare for the first day of Serie A 2026/27 against Milan: a date for 23 August at the Stadio Olimpic ..."
+    },
+    {
+      "id": "e807171db74c",
+      "title": "Jashari discusses progress under Amorim, change in style and potential Modric partnership",
+      "url": "https://sempremilan.com/jashari-amorim-change-style-modric",
+      "source": "sempremilan.com",
+      "date": "2026-08-16T15:20:00+00:00",
+      "summary": "Ardon Jashari was one of the many bright spots in AC Milan’s win over Manchester United, and he is looking forward to playing alongside Luka Modric. The real Jashari was on display in Poland on Saturday, and not the one who struggled with injury and limited playing time last year. In Milan’s last fr"
+    },
+    {
+      "id": "6e633242394c",
+      "title": "MN - From Milanello: relief work for yesterday's starters, here are Maignan and Rabiot again. Gabbia and Leao are better",
+      "url": "https://www.milannews.it/news/mn-milanello-lavoro-scarico-titolari-ieri-maignan-rabiot-gabbia-leao-626898",
+      "source": "milannews.it",
+      "date": "2026-08-16T15:12:43+00:00",
+      "summary": "Milan, returning from yesterday's friendly match in Poland against Manchester United, worked at Milanello today."
+    },
+    {
       "id": "79302c849e6d",
-      "title": "There was talk of him for Milan, but in the meantime Zalewski is sinking Athletic Bilbao",
+      "title": "Si parlava di lui per il Milan, ma intanto Zalewski affonda l'Athletic Bilbao",
       "url": "https://www.milannews.it/news/zalewski-affonda-athletic-bilbao-atalanta-vince-bortolotti-626878",
       "source": "milannews.it",
       "date": "2026-08-16T15:10:19+00:00",
@@ -35,7 +99,7 @@
     },
     {
       "id": "0a1baf8ad990",
-      "title": "Valentina Giacinti ricorda il periodo al Milan: \"Ganz non ci dava nulla in allenamento e io mi sentivo in difficoltà con Boquete e Hasegawa\"",
+      "title": "Valentina Giacinti remembers her time at Milan: \"Ganz didn't give us anything in training and I felt in difficulty with Boquete and Hasegawa\"",
       "url": "https://www.milannews.it/news/valentina-giacinti-ricorda-periodo-milan-ganz-dava-allenamento-sentivo-difficolta-boquete-hasegawa-626889",
       "source": "milannews.it",
       "date": "2026-08-16T14:19:44+00:00",
@@ -43,7 +107,7 @@
     },
     {
       "id": "7f44b865dca4",
-      "title": "Moretto: \"Nwaneri, Arsenal are currently not open to loan rights\"",
+      "title": "Moretto: \"Nwaneri, l’Arsenal ad oggi non apre al prestito con diritto\"",
       "url": "https://www.milannews.it/calciomercato-milan/moretto-nwaneri-l-arsenal-apre-prestito-diritto-626892",
       "source": "milannews.it",
       "date": "2026-08-16T14:07:56+00:00",
@@ -59,7 +123,7 @@
     },
     {
       "id": "bb0eaae8fed0",
-      "title": "Segnali incoraggianti, ma il tema non cambia: Cardinale, serve intervenire sul mercato!",
+      "title": "Encouraging signs, but the theme does not change: Cardinal, we need to intervene on the market!",
       "url": "https://www.milannews.it/primo-piano/milan-ultimi-segnali-incoraggianti-tema-cambia-cardinale-serve-intervenire-mercato-626861",
       "source": "milannews.it",
       "date": "2026-08-16T14:00:00+00:00",
@@ -79,7 +143,7 @@
       "url": "https://www.milannews.it/news/foto-maignan-rabiot-francesi-lavoro-milanello-626891",
       "source": "milannews.it",
       "date": "2026-08-16T13:53:01+00:00",
-      "summary": "After the controversy of recent days due to the extended holidays, Mike Maignan and Adrien Rabiot finally returned to Milanello today. Indeed, the Rossoneri captain returned to Italy yesterday morning, while the team was in Poland."
+      "summary": "After the controversy of recent days due to the extended holidays, today Mike Maignan and Adrien Rabiot finally returned to Milanello. Indeed, the Rossoneri captain returned to Italy yesterday morning, while the team was in Poland."
     },
     {
       "id": "44e148e799a5",
@@ -119,11 +183,11 @@
       "url": "https://www.milannews.it/calciomercato-milan/milan-possibile-idea-rodrigo-mora-porto-ultime-sportmediaset-626887",
       "source": "milannews.it",
       "date": "2026-08-16T13:11:38+00:00",
-      "summary": "New transfer suggestion for Milan, told in these hours by Claudio Raimondi on SportMediaset."
+      "summary": "Nuova suggestione di mercato per il Milan, raccontata in queste ore da Claudio Raimondi su SportMediaset."
     },
     {
       "id": "f2fb355dd224",
-      "title": "Tomori is not discouraged: \"Faith will guide me, not what I see\"",
+      "title": "Tomori non si abbatte: \"Sarà la fede a guidarmi, non quello che vedo\"",
       "url": "https://www.milannews.it/news/tomori-abbatte-sara-fede-guidarmi-vedo-626886",
       "source": "milannews.it",
       "date": "2026-08-16T12:55:07+00:00",
@@ -139,7 +203,7 @@
     },
     {
       "id": "983ceb2c9726",
-      "title": "Torino, Abate: \"Il Milan è il mio passato, ma domenica spero di regalare una gioia al mondo granata\"",
+      "title": "Turin, Abate: \"Milan is my past, but on Sunday I hope to bring joy to the Granata world\"",
       "url": "https://www.milannews.it/news/torino-abate-il-milan-passato-domenica-spero-regalare-gioia-granata-626867",
       "source": "milannews.it",
       "date": "2026-08-16T12:38:33+00:00",
@@ -162,36 +226,12 @@
       "summary": "Below is the report card of Goncalo Ramos, AC Milan player, relating to Manchester United-Milan (2-4), a friendly match played in Wroclaw, Poland."
     },
     {
-      "id": "13f4b1598e74",
-      "title": "Chukwueze, an unexpected resource for Amorim's Milan: will it be the year of redemption?",
-      "url": "https://www.milannews.it/primo-piano/chukwueze-risorsa-inaspettata-milan-amorim-l-anno-riscossa-626860",
-      "source": "milannews.it",
-      "date": "2026-08-16T12:00:00+00:00",
-      "summary": "During the summer, from the day after the end of the championship, the predominant theme that fills the football days is undoubtedly the transfer market."
-    },
-    {
       "id": "84af5d352cbe",
       "title": "Romano: Milan rejected ‘significant’ Loftus-Cheek enquiries this summer – how Amorim was convinced",
       "url": "https://sempremilan.com/milan-rejected-significant-enquiries-loftus-cheek",
       "source": "sempremilan.com",
       "date": "2026-08-16T12:00:00+00:00",
       "summary": "Ruben Loftus-Cheek looks likely to stay at AC Milan this summer, after convincing Ruben Amorim of his worth, it seems. At the start of the summer, Loftus-Cheek was one player that most deemed expendable. However, it now seems that he’ll stay. In fact, Milan are even starting to begin renewal talks w"
-    },
-    {
-      "id": "aa4333377a37",
-      "title": "Amorim, brief meeting with English journalists: \"We miss your conferences at United\". The technician: \"Now they're more boring, eh?\"",
-      "url": "https://www.milannews.it/news/amorim-siparietto-giornalisti-inglesi-ci-mancano-conferenze-united-tecnico-ora-noiose-eh-626881",
-      "source": "milannews.it",
-      "date": "2026-08-16T11:48:48+00:00",
-      "summary": "Although he only spent 14 months in charge at United, Ruben Amorim left an incredibly divisive legacy in the Red Devils world."
-    },
-    {
-      "id": "b40d03fc1bd5",
-      "title": "Porto, Farioli: \"Gimenez? Every day I read a lot of news, rumors and comments in the newspapers that don't always correspond to the truth. It's part of the market\"",
-      "url": "https://www.milannews.it/calciomercato-milan/porto-farioli-gimenez-leggo-giornali-molte-notizie-indiscrezioni-commenti-corrispondono-verita-merca-626882",
-      "source": "milannews.it",
-      "date": "2026-08-16T11:31:00+00:00",
-      "summary": "After Rio Ave-Porto last night, won 2-0 by the dragons, Francesco Farioli spoke at the press conference."
     },
     {
       "id": "2198f849d07b",
@@ -202,36 +242,12 @@
       "summary": "After their loss to AC Milan, Gary Neville had some very harsh words for Manchester United and took a dig at the Rossoneri.  Yesterday was by far Milan’s best performance of pre-season, but Ruben Amorim is not too focused on it. Instead, he knows that there are still things to fix before the first g"
     },
     {
-      "id": "49d4e32f6422",
-      "title": "Manchester United pays homage to Franco Baresi: “Baresi 6 times forever\"",
-      "url": "https://www.milannews.it/news/man-united-tributa-franco-baresi-baresi-6-x-sempre-626858",
-      "source": "milannews.it",
-      "date": "2026-08-16T11:14:49+00:00",
-      "summary": "This afternoon in Wroclaw, Poland, Milan and Manchester United faced each other in a friendly match, the last for Amorim's Rossoneri who will face Torino next weekend in the first match of the 2026/2027 championship."
-    },
-    {
       "id": "818faeffc67a",
       "title": "Reports: Galatasaray door could re-open for Leao after €45m Martinell bid rejected",
       "url": "https://sempremilan.com/galatasaray-door-reopen-leao-45m-martinelli-bid",
       "source": "sempremilan.com",
       "date": "2026-08-16T11:00:00+00:00",
       "summary": "The domino effect could be in full motion this week, as AC Milan will look to conduct plenty of business before the start of the season. By far the most important sale of the mercato involves Rafael Leao. If the Portuguese departs, several doors could open for Milan and Ruben Amorim doesn’t see a pl"
-    },
-    {
-      "id": "bb1e21105bcd",
-      "title": "Torriani's report card: referee Marciniak owes him a beer. Excellent test",
-      "url": "https://www.milannews.it/news/pagella-torriani-arbitro-marciniak-birra-ottima-prova-626840",
-      "source": "milannews.it",
-      "date": "2026-08-16T10:57:36+00:00",
-      "summary": "Below is the report card of Lorenzo Torriani, a Rossoneri footballer, relating to Manchester United-Milan (2-4), a friendly match played in Wroclaw, Poland."
-    },
-    {
-      "id": "a17dce76d2ce",
-      "title": "Amorim spoils a tactical change: \"Saelemaekers has changed position\"",
-      "url": "https://www.milannews.it/news/milan-amorim-leao-lottare-posto-626864",
-      "source": "milannews.it",
-      "date": "2026-08-16T10:40:21+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 15 - \"Leao is one of our players, we are happy with him, we will see on the market, he is an expensive player."
     },
     {
       "id": "3b9edf725809",
@@ -307,7 +323,7 @@
     },
     {
       "id": "18d81eef3e3a",
-      "title": "Buying quality and a puzzling winger: Five things we learned from Man Utd 2-4 AC Milan",
+      "title": "Man Utd 2-4 AC Milan: Five things we learned – buying quality and a puzzling winger",
       "url": "https://sempremilan.com/five-things-man-utd-2-4-ac-milan-pre-season",
       "source": "sempremilan.com",
       "date": "2026-08-15T17:54:25+00:00",
@@ -352,22 +368,6 @@
       "source": "football-italia.net",
       "date": "2026-08-15T15:50:34+00:00",
       "summary": "Milan have reportedly set a €35m price-tag on Christopher Nkunku, with interest primarily from Roma,..."
-    },
-    {
-      "id": "ea763beb9189",
-      "title": "Watch: Milan equalise through Chukwueze after fantastic Jashari pressing",
-      "url": "https://sempremilan.com/milan-equalise-chukwueze-man-utd-1-1",
-      "source": "sempremilan.com",
-      "date": "2026-08-15T15:45:34+00:00",
-      "summary": "AC Milan drew level against Manchester United in the first half through Samuel Chukwueze, with some nice work in the opposition half! It’d been a pretty torrid game until the goal, with Milan failing to capitalise on the chances they’d created. Ruben Loftus-Cheek squandered two, whilst Alphadjo Ciss"
-    },
-    {
-      "id": "eae24e8cc52e",
-      "title": "Man Utd vs. AC Milan: Live updates and commentary from the friendly clash",
-      "url": "https://sempremilan.com/man-utd-vs-ac-milan-live-updates-2026",
-      "source": "sempremilan.com",
-      "date": "2026-08-15T14:35:00+00:00",
-      "summary": "{rsn-live-v2}\nThe post Man Utd vs. AC Milan: Live updates and commentary from the friendly clash appeared first on SempreMilan."
     },
     {
       "id": "7b44f7b5caab",
