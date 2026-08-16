@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-16T07:28:46.638737+00:00",
+  "lastUpdated": "2026-08-16T08:25:51.761150+00:00",
   "articles": [
+    {
+      "id": "6f9851311521",
+      "title": "Pasotto announces: \"There will be a face-to-face meeting next week between Maignan and Cardinale\"",
+      "url": "https://www.milannews.it/news/pasotto-annuncia-ci-settimana-prossima-maignan-cardinale-626866",
+      "source": "milannews.it",
+      "date": "2026-08-16T08:07:59+00:00",
+      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport when speaking about the future of Mike Maignan, AC Milan goalkeeper: \"Mike Maignan is back."
+    },
+    {
+      "id": "f1f0d5f2a25d",
+      "title": "Moretto: Clubs from Spain, Germany and England interested in Nkunku – who has called so far",
+      "url": "https://sempremilan.com/clubs-spain-germany-england-interested-nkunku",
+      "source": "sempremilan.com",
+      "date": "2026-08-16T08:00:00+00:00",
+      "summary": "AC Milan will part ways with Christopher Nkunku this summer, but the Frenchman isn’t really close to an exit just yet. This summer, Nkunku seemed like he could be a big part of the Ruben Amorim revolution. A player better behind the striker, but with an ability to also play out wide, it could have ["
+    },
+    {
+      "id": "eecdbfd7a7ee",
+      "title": "Neville out of place: \"It's a shame that Utd lost against Milan who hadn't won in three games\"",
+      "url": "https://www.milannews.it/news/neville-luogo-una-vergogna-utd-perso-milan-vinceva-partite-626873",
+      "source": "milannews.it",
+      "date": "2026-08-16T07:50:01+00:00",
+      "summary": "Journalist David Ornstein reported the words of Gary Neville, former Manchester United defender, on"
+    },
+    {
+      "id": "3a02778478af",
+      "title": "Amorim's report card: they said they wanted to take revenge on him, but he defeated Utd",
+      "url": "https://www.milannews.it/news/pagella-amorim-raccontavano-volersi-vendicare-lui-mister-incartato-utd-626836",
+      "source": "milannews.it",
+      "date": "2026-08-16T07:33:25+00:00",
+      "summary": "Below is the report card of Ruben Amorim, AC Milan coach, relating to Manchester United-Milan (2-4), a friendly match played in Wroclaw, Poland."
+    },
     {
       "id": "1234e7f71008",
       "title": "Ravezzani dryly: \"No one noticed that Leao was missing, without him Milan is more united\"",
@@ -16,14 +48,6 @@
       "source": "milannews.it",
       "date": "2026-08-16T07:00:00+00:00",
       "summary": "The past week was full of controversy within the Rossoneri world, conditioned by the impact of the news on the extended holidays for Mike Maignan and Adrien Rabiot and the four purged from the squad."
-    },
-    {
-      "id": "eecdbfd7a7ee",
-      "title": "Neville out of place: \"It's a shame that Utd lost against Milan who hadn't won in three games\"",
-      "url": "https://www.milannews.it/news/neville-luogo-una-vergogna-utd-perso-milan-vinceva-partite-626873",
-      "source": "milannews.it",
-      "date": "2026-08-16T06:59:01+00:00",
-      "summary": "Journalist David Ornstein reported the words of Gary Neville, former Manchester United defender, on"
     },
     {
       "id": "02634fda39a9",
@@ -143,23 +167,7 @@
       "url": "https://www.milannews.it/news/zenga-juventus-milan-dovranno-disputare-stagione-eccezionale-qualificarsi-champions-league-626787",
       "source": "milannews.it",
       "date": "2026-08-15T21:07:42+00:00",
-      "summary": "Walter Zenga, former goalkeeper, made these statements to the 365Scores website about the next Serie A championship: \"Who is the favourite? It's difficult to talk about it now, especially with the transfer market open."
-    },
-    {
-      "id": "c1c3fe245fa8",
-      "title": "Will he ask for new signings after this victory? Amorim responds like this",
-      "url": "https://www.milannews.it/calciomercato-milan/chiedera-acquisti-vittoria-amorim-risponde-626854",
-      "source": "milannews.it",
-      "date": "2026-08-15T20:50:30+00:00",
-      "summary": "Ruben Amorim, Milan coach, spoke to SkySport and La Gazzetta dello Sport at the end of the 2-4 friendly win against Manchester United in Wroclaw. Below is an excerpt of his statements."
-    },
-    {
-      "id": "c2f3b2515ce2",
-      "title": "Moretto: \"Nottingham, Newcastle and also Juventus have asked for information on Fofana\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-su-fofana-chiesto-informazioni-nottingham-newcastle-juventus-626800",
-      "source": "milannews.it",
-      "date": "2026-08-15T20:33:07+00:00",
-      "summary": "There is nothing particularly advanced yet, but several teams have made moves on Youssouf Fofana after Milan showed him the door. Interests from England but also from Italy with Juventus."
+      "summary": "Walter Zenga, former goalkeeper, made these statements to the 365Scores website on the next Serie A championship: \"Who is the favourite? It's difficult to talk about it now, especially with the transfer market open."
     },
     {
       "id": "21d1d74cfecf",
@@ -376,14 +384,6 @@
       "source": "sempremilan.com",
       "date": "2026-08-15T09:00:00+00:00",
       "summary": "Today, AC Milan will face Manchester United, but back in Italy, there will be an interesting return at Milanello for Mike Maignan.  The extended vacation given to Maignan and Adrien Rabiot has been heavily discussed. As you’d expect, the club captain being the last to return did not go down well and"
-    },
-    {
-      "id": "53fbb8fd2733",
-      "title": "GdS: ‘€40m is enough’ – Milan set Leao price tag after Amorim ‘rejects him’",
-      "url": "https://sempremilan.com/milan-set-leao-price-tag-amorim-rejects-him",
-      "source": "sempremilan.com",
-      "date": "2026-08-15T08:30:00+00:00",
-      "summary": "Rafael Leao’s summer has been one of the most turbulent in recent years. Now, it seems impossible that he stays at AC Milan, at least in the same way. Off, off, staying, off, staying, off, staying, staying, off. Who knows with Leao this summer? It’s been a constant back and forth with the Portuguese"
     },
     {
       "id": "acccc2df4f3a",
