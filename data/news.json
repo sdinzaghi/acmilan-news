@@ -1,21 +1,77 @@
 {
-  "lastUpdated": "2026-08-19T16:28:33.345739+00:00",
+  "lastUpdated": "2026-08-19T17:23:35.573587+00:00",
   "articles": [
+    {
+      "id": "4b713eea2aee",
+      "title": "Ravezzani: \"Milan seems stronger to me than a year ago: now they have a star defender and a top-class attacker\"",
+      "url": "https://www.milannews.it/news/ravezzani-il-milan-forte-fa-difensore-riferimento-attaccante-di-livello-627154",
+      "source": "milannews.it",
+      "date": "2026-08-19T17:13:05+00:00",
+      "summary": "Fabio Ravezzani, direttore di TeleLombardia, si è così espresso a TuttoMercatoWeb sulle big italiane e sul campionato che sta per iniziare."
+    },
+    {
+      "id": "c01dc2309b74",
+      "title": "Milan-Moreira: figure and details of the contract that will bind the Belgian to the Devil",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-moreira-cifra-dettagli-contratto-leghera-belga-diavolo-627122",
+      "source": "milannews.it",
+      "date": "2026-08-19T17:00:20+00:00",
+      "summary": "Diego Moreira is ready to become a new AC Milan player after a 45 million euro plus bonus deal."
+    },
+    {
+      "id": "cc2867ba0292",
+      "title": "Pedulla: Mendes offers Tiago Gabriel to Milan after Crystal Palace deal was rejected",
+      "url": "https://sempremilan.com/mendes-offers-tiago-gabriel-milan",
+      "source": "sempremilan.com",
+      "date": "2026-08-19T17:00:00+00:00",
+      "summary": "This summer, AC Milan have been in the market for a central defender and Tiago Gabriel’s name has been thrown up a few times. Now, his name is in the limelight again. With a wing-back bought, Milan will now move on to signing a centre back, with the hope of adding at least another name […]\nThe post "
+    },
+    {
+      "id": "1a4e2086b1f4",
+      "title": "Curse of the 9? Not for Ramos: \"I don't believe in these things, but only in work\"",
+      "url": "https://www.milannews.it/news/maledizione-9-ramos-non-credo-cose-lavoro-627184",
+      "source": "milannews.it",
+      "date": "2026-08-19T16:48:46+00:00",
+      "summary": "On the occasion of the meeting with the fans at the Flagship Store in via Dante, in Milan, Gonçalo Ramos also had a meeting with the press."
+    },
+    {
+      "id": "00f5002b2a8e",
+      "title": "The Serie A championship grid according to Tacchinardi: Milan not among the favourites",
+      "url": "https://www.milannews.it/news/griglia-campionato-serie-tacchinardi-milan-favorite-627155",
+      "source": "milannews.it",
+      "date": "2026-08-19T16:36:00+00:00",
+      "summary": "Alessio Tacchinardi, former footballer and current commentator, expressed himself to SportMediaset on the Serie A championship grid: \"The thing I didn't like is that we started again with little to..."
+    },
+    {
+      "id": "a2944224e86e",
+      "title": "GdS: Hedging investments – how Milan can afford €150m splurge for Champions League return",
+      "url": "https://sempremilan.com/how-milan-can-afford-150m-splurge-ucl-return",
+      "source": "sempremilan.com",
+      "date": "2026-08-19T16:30:00+00:00",
+      "summary": "This summer, AC Milan have spent big, but they need to start recouping some of the investment, it must be said. Spending €150 million in Italy is a rarity. Indeed, there needs to be some sort of sacrifice made for it to happen. However, Milan have not done that and yet have spent such a […]\nThe post"
+    },
+    {
+      "id": "2b55ab0e3297",
+      "title": "Braglia doubtful about Milan: \"Finding a balance will be very complicated\"",
+      "url": "https://www.milannews.it/news/braglia-dubbioso-milan-trovare-equilibrio-complicato-627153",
+      "source": "milannews.it",
+      "date": "2026-08-19T16:24:14+00:00",
+      "summary": "Simone Braglia, former goalkeeper, expressed himself thus on Maracanà, a program on Tuttomercatoweb radio."
+    },
     {
       "id": "3188fd6bd8ce",
       "title": "Diddi: \"As an attacking midfielder he is too confusing, while as a winger, with more space in front, Chukwueze can do well\"",
       "url": "https://www.milannews.it/news/diddi-da-trequartista-confusionario-esterno-campo-davanti-chukwueze-far-bene-627149",
       "source": "milannews.it",
       "date": "2026-08-19T16:12:02+00:00",
-      "summary": "Luca Diddi, a tactical expert, expressed himself thus to allMilan."
+      "summary": "Luca Diddi, esperto di tattica, si è così espresso a allMilan."
     },
     {
       "id": "da9ea5d8a2d8",
-      "title": "MN - Gonçalo Ramos: \"I really like the idea of ​​Amorim football. Ibra is my idol, but I haven't met him yet\"",
+      "title": "MN - Gonçalo Ramos: \"Mi piace molto l'idea di calcio di Amorim. Ibra il mio idolo, ma non l'ho ancora incontrato\"",
       "url": "https://www.milannews.it/primo-piano/mn-goncalo-ramos-mi-piace-idea-calcio-amorim-ibra-idolo-incontrato-627183",
       "source": "milannews.it",
       "date": "2026-08-19T16:01:57+00:00",
-      "summary": "On the occasion of the meeting with the fans at the Flagship Store in via Dante, in Milan, Gonçalo Ramos also had a meeting with the press. These are the statements of the new AC Milan striker collected by MilanNews correspondents."
+      "summary": "In occasione dell'incontro con i tifosi al Flagship Store di via Dante, a Milano, Gonçalo Ramos ha avuto anche un incontro con la stampa. Queste le dichiarazioni del nuovo attaccante del Milan raccolte dagli inviati di MilanNews."
     },
     {
       "id": "eea5fc298154",
@@ -39,7 +95,7 @@
       "url": "https://www.milannews.it/news/sereni-mi-dicevano-amorim-prime-settimane-preteso-poter-valutare-giocatori-627148",
       "source": "milannews.it",
       "date": "2026-08-19T15:49:00+00:00",
-      "summary": "Andrea Sereni, journalist for Repubblica, expressed himself as follows to allMilan.it on Amorim's choice to exclude some players from the project: “I don't think it was a late choice."
+      "summary": "Andrea Sereni, journalist for Repubblica, expressed himself thus to allMilan.it on Amorim's choice to exclude some players from the project: “I don't think it was a late choice."
     },
     {
       "id": "acb86b30f637",
@@ -51,11 +107,11 @@
     },
     {
       "id": "de0306e0506c",
-      "title": "Reijnders to Al Qadsiah for 61 million, it's official. And Milan smiles",
+      "title": "Reijnders all'Al Qadsiah per 61 milioni, è ufficiale. E il Milan sorride",
       "url": "https://www.milannews.it/news/reijnders-qadsiah-61-milioni-ufficiale-milan-sorride-627181",
       "source": "milannews.it",
       "date": "2026-08-19T15:35:50+00:00",
-      "summary": "Tijjani Reijnders is a new player for Al Qadsiah: 61 million euros goes to Manchester City."
+      "summary": "Tijjani Reijnders è un nuovo giocatore dell'Al Qadsiah: al Manchester City vanno 61 milioni di euro."
     },
     {
       "id": "3884bd52c5ae",
@@ -75,19 +131,19 @@
     },
     {
       "id": "e3af22fa40b1",
-      "title": "Passerini says: \"I saw Diego Moreira at the World Cup and he impressed me\"",
+      "title": "Passerini racconta: \"Ho visto Diego Moreira al Mondiale e mi aveva colpito\"",
       "url": "https://www.milannews.it/news/passerini-racconta-ho-moreira-mondiale-colpito-627150",
       "source": "milannews.it",
       "date": "2026-08-19T15:25:40+00:00",
-      "summary": "Carlos Passerini, journalist for Corriere della Sera, expressed himself as follows on his Youtube channel about Diego Moreira, Milan's new signing: \"Is Diego Moreira worth 50 million? The answer is yes, based on market value that ..."
+      "summary": "Carlos Passerini, journalist from Corriere della Sera, expressed himself as follows on his Youtube channel about Diego Moreira, Milan's new signing: \"Is Diego Moreira worth 50 million? The answer is yes, based on market value that ..."
     },
     {
       "id": "2a8ae6512472",
-      "title": "Diego Moreira at Milan: this is the Belgian's injury history",
+      "title": "Diego Moreira al Milan: questo lo storico infortuni del belga",
       "url": "https://www.milannews.it/news/diego-moreira-milan-storico-infortuni-belga-627180",
       "source": "milannews.it",
       "date": "2026-08-19T15:12:17+00:00",
-      "summary": "Milan have closed for Diego Morerira: all that is missing for the Belgian is the official press release from the club, which took him from Strasbourg for 45 million euros plus 20 million in bonuses."
+      "summary": "Il Milan ha chiuso per Diego Morerira: per il belga manca solo il comunicato ufficiale del club, che l’ha preso dallo Strasburgo per 45 milioni di euro più 20 di bonus."
     },
     {
       "id": "fa7008c93b28",
@@ -95,7 +151,7 @@
       "url": "https://www.milannews.it/news/fiorentina-joao-mario-affronto-sfida-entusiasmo-627127",
       "source": "milannews.it",
       "date": "2026-08-19T15:00:43+00:00",
-      "summary": "(ANSA) - FLORENCE, AUGUST 18 - ''I liked the project and I face this challenge with enthusiasm and desire to demonstrate my value''."
+      "summary": "(ANSA) - FIRENZE, 18 AGO - ''Mi è piaciuto il progetto e affronto questa sfida con entusiasmo e voglia di dimostrare il mio valore''."
     },
     {
       "id": "a470ca150d17",
@@ -139,7 +195,7 @@
     },
     {
       "id": "1952d0d9ffd7",
-      "title": "Ramazzotti explains: \"Sending Gimenez on loan could facilitate a future capital gain in the event of a redemption\"",
+      "title": "Ramazzotti spiega: \"Mandare in prestito Gimenez potrebbe facilitare, in caso di riscatto, una plusvalenza futura\"",
       "url": "https://www.milannews.it/calciomercato-milan/ramazzotti-spiega-mandare-prestito-gimenez-facilitare-riscatto-plusvalenza-futura-627143",
       "source": "milannews.it",
       "date": "2026-08-19T14:24:11+00:00",
@@ -179,7 +235,7 @@
     },
     {
       "id": "15ad92df6665",
-      "title": "Order: \"Now there is controversy over Mendes making the Milan transfer. Then it turns out that Ramos took Cardinale\"",
+      "title": "Ordine: \"Ora c'è la polemica su Mendes che fa il mercato del Milan. Poi si scopre che Ramos l'ha preso Cardinale\"",
       "url": "https://www.milannews.it/calciomercato-milan/ordine-ora-polemica-mendes-mercato-milan-scopre-ramos-preso-cardinale-627152",
       "source": "milannews.it",
       "date": "2026-08-19T13:47:07+00:00",
@@ -187,27 +243,11 @@
     },
     {
       "id": "556c672040cd",
-      "title": "The Qatari federation is with Infantino and asks the Asian federation for clarity on the contrary note",
+      "title": "La federazione qatariota sta con Infantino e chiede chiarezza a quella asiatica per la nota contraria",
       "url": "https://www.milannews.it/news/federazione-qatariota-chiede-chiarezza-afc-nota-infantino-627124",
       "source": "milannews.it",
       "date": "2026-08-19T13:35:48+00:00",
-      "summary": "(ANSA) - ROME, AUGUST 16 - The Qatar Football Federation (QFA) has urged the Asian Football Confederation (AFC) \"to consistently apply the principles of transparency and consultation, in order to preserve its credibility and strengthen trust ..."
-    },
-    {
-      "id": "8fa8572a4afb",
-      "title": "Odds Saelemaekers changes team: future at Milan, what the bookmakers say",
-      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-saelemaekers-cambia-squadra-milan-dicono-bookmaker-627176",
-      "source": "milannews.it",
-      "date": "2026-08-19T13:30:57+00:00",
-      "summary": "The Milan transfer market has significantly changed the squad available to Ruben Amorim and the last few days may still reserve some movement."
-    },
-    {
-      "id": "b83c80b25442",
-      "title": "Gonçalo Ramos: \"I never had any doubts about Milan. I share the same footballing ideas as Amorim\"",
-      "url": "https://www.milannews.it/primo-piano/goncalo-ramos-mai-dubbi-milan-condivido-idee-calcistiche-amorim-627178",
-      "source": "milannews.it",
-      "date": "2026-08-19T13:30:24+00:00",
-      "summary": "Gonçalo Ramos, Milan's new striker and the biggest blow in the club's history, gave an interview to Milan TV."
+      "summary": "(ANSA) - ROMA, 16 AGO - La Federcalcio del Qatar (Qfa) ha esortato la Confederazione Asiatica di Calcio (Afc) \"ad applicare con coerenza i principi di trasparenza e consultazione, in modo da preservarne la credibilità e rafforzare la fidu ..."
     },
     {
       "id": "eee6b90d956b",
@@ -226,36 +266,12 @@
       "summary": "AC Milan have sorted the wing-back position with the signing of Diego Moreira, and now they have a centre-back target in mind. With the purchase of Moreira, Milan have got their transfer spending back underway. However, as per reports from both Corriere dello Sport and Tuttosport (via MilanVibes) to"
     },
     {
-      "id": "933884a99c29",
-      "title": "MN - Jorge Mendes arrived at Casa Milan",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-jorge-mendes-arrivato-casa-milan-627177",
-      "source": "milannews.it",
-      "date": "2026-08-19T13:24:45+00:00",
-      "summary": "Jorge Mendes, the Portuguese super agent of Diego Moreira and Gonçalo Ramos, has just arrived at Casa Milan."
-    },
-    {
-      "id": "e9de0876a2be",
-      "title": "Marianella: \"It would hurt Milan to see Leao become a champion in another team, but maybe I would stop waiting for him\"",
-      "url": "https://www.milannews.it/news/marianella-farebbe-milan-vedere-leao-campione-altra-squadra-smetterei-aspettarlo-627147",
-      "source": "milannews.it",
-      "date": "2026-08-19T13:11:00+00:00",
-      "summary": "Massimo Marianella, journalist, expressed himself to SkySport on the future of Rafael Leao, the striker leaving Milan: \"You've been asking me the same question for three years and I haven't changed my mind."
-    },
-    {
       "id": "0611336435f7",
       "title": "Serginho optimistic about Milan’s season and Moreira signing but has Chukwueze concerns",
       "url": "https://sempremilan.com/serginho-moreira-milan-season-chukwueze",
       "source": "sempremilan.com",
       "date": "2026-08-19T13:00:00+00:00",
       "summary": "Serginho has given an optimistic outlook regarding AC Milan’s upcoming season, touching on a couple of players in his old wing-back role. It has already been a very interesting summer at Milan, with a lot of movement. After the mass sacking following the defeat to Cagliari to close out 2025-26, ther"
-    },
-    {
-      "id": "45ad730ffd81",
-      "title": "Pedro Neto in uscita, Leao spera che il Chelsea scelga lui come sostituto",
-      "url": "https://www.milannews.it/calciomercato-milan/pedro-neto-uscita-chelsea-leao-spera-blues-vadano-627175",
-      "source": "milannews.it",
-      "date": "2026-08-19T12:59:22+00:00",
-      "summary": "The Leao affair is still far from over. Rafa is currently still in the pits due to the muscle problem he suffered last week, waiting to understand what his future will be."
     },
     {
       "id": "1f02289901da",
@@ -376,22 +392,6 @@
       "source": "football-italia.net",
       "date": "2026-08-18T18:40:00+00:00",
       "summary": "Diogo Dalot has spoken glowingly of his Portugal compatriots Gonçalo Ramos and Rafael Leao, with..."
-    },
-    {
-      "id": "2a1b62b9352b",
-      "title": "Aspirin for Amorim: Why Moreira’s versatility can solve multiple headaches for Milan",
-      "url": "https://sempremilan.com/aspirin-amorim-moreira-solve-headaches-milan",
-      "source": "sempremilan.com",
-      "date": "2026-08-18T18:00:00+00:00",
-      "summary": "When a new signing arrives it is often obvious exactly which hole they are going to plug in the squad, or even better the starting XI. That might not quite apply to Diego Moreira. In case you missed the big news that broke on Monday, AC Milan and Strasbourg agreed a deal worth €50m plus […]\nThe post"
-    },
-    {
-      "id": "426866ce7344",
-      "title": "GdS: Amorim’s decisions and a chat with Cardinale – Rabiot and Maignan hope to silence noise",
-      "url": "https://sempremilan.com/rabiot-and-maignan-hope-silence-noise",
-      "source": "sempremilan.com",
-      "date": "2026-08-18T17:30:00+00:00",
-      "summary": "Among the smiling faces at Milanello on Tuesday were Mike Maignan and Adrien Rabiot, which should bring an end to the more negative talk. La Gazzetta dello Sport write that Maignan and Rabiot ‘perhaps had some hesitation over the summer at the prospect of staying at Milanello’. Who knows, the Manche"
     },
     {
       "id": "a80ec5057384",
