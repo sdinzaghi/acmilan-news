@@ -1,17 +1,57 @@
 {
-  "lastUpdated": "2026-08-20T20:24:45.693311+00:00",
+  "lastUpdated": "2026-08-20T21:24:37.667793+00:00",
   "articles": [
+    {
+      "id": "4b82753d7524",
+      "title": "Pellegatti: \"Amorim was decided, well followed by Cardinale, to put the environmental needs of Milanello before the economic and technical ones\"",
+      "url": "https://www.milannews.it/news/pellegatti-amorim-deciso-cardinale-anteporre-esigenze-ambientali-milanello-economiche-tecniche-627233",
+      "source": "milannews.it",
+      "date": "2026-08-20T21:11:49+00:00",
+      "summary": "During his editorial for MilanNews."
+    },
+    {
+      "id": "66f3c645e24a",
+      "title": "Di Marzio on Kessiè's future: \"The player has given priority to Juventus\"",
+      "url": "https://www.milannews.it/gli-ex/marzio-kessie-il-giocatore-dato-priorita-juventus-627321",
+      "source": "milannews.it",
+      "date": "2026-08-20T21:00:17+00:00",
+      "summary": "Gianluca Di Marzio spoke a little while ago about Franck Kessiè's possible return to Serie A. The former Milan midfielder would have given priority to Juventus."
+    },
     {
       "id": "ce530da15950",
       "title": "PROBABLE LINEUP - Towards Turin-Milan, Amorim with the men counted. But there is some doubt",
       "url": "https://www.milannews.it/news/probabile-formazione-torino-milan-amorim-maignan-rabiot-leao-pulisic-ramos-moreira-627223",
       "source": "milannews.it",
-      "date": "2026-08-20T20:15:00+00:00",
-      "summary": "Finally back on the pitch! On Sunday evening, Milan will face Torino on the first day of the Serie A championship: kick-off at 8.45pm at the \"Olimpico - Grande Torino\" Stadium."
+      "date": "2026-08-20T21:00:00+00:00",
+      "summary": "Finally back on the pitch! On Sunday evening, Milan will face Torino on the first day of the Serie A championship: kick-off at 8.45pm at the \"Olimpico - Grande Torino\" stadium."
+    },
+    {
+      "id": "b5f8fab05295",
+      "title": "La Scarpa d'Oro per la stagione 2025-2026 è stata consegnata da Toni a Kane",
+      "url": "https://www.milannews.it/news/kane-premiato-scarpa-oro-627226",
+      "source": "milannews.it",
+      "date": "2026-08-20T20:48:15+00:00",
+      "summary": "(ANSA) - ROME, AUGUST 19 - \"I think this one tastes even better than the first, considering what we have achieved with the team."
+    },
+    {
+      "id": "37cde482f0fc",
+      "title": "Diego Moreira: \"I arrive at Milan with great ambition and the desire to live up to this shirt\"",
+      "url": "https://www.milannews.it/news/diego-moreira-arrivo-milan-ambizione-voglia-altezza-maglia-627320",
+      "source": "milannews.it",
+      "date": "2026-08-20T20:37:00+00:00",
+      "summary": "Diego Moreira's first Rossoneri social post a little while ago. These are the words posted on his Instagram profile:\n\nA new chapter for me and immense pride."
+    },
+    {
+      "id": "36d29efda3f0",
+      "title": "Tiribocchi harsh on Leao: \"It's a situation he created himself...\"",
+      "url": "https://www.milannews.it/news/tiribocchi-duro-leao-e-situazione-cercato-solo-627192",
+      "source": "milannews.it",
+      "date": "2026-08-20T20:24:11+00:00",
+      "summary": "The former Atalanta striker, Simone Tiribocchi, now a sports commentator, spoke about Rafa Leao and his delicate moment in Milan."
     },
     {
       "id": "0e0af74dd172",
-      "title": "Criscitiello: \"I expect sensational sales: those who haven't sold will have to do so later\"",
+      "title": "Criscitiello: \"Mi aspetto delle svendite clamorose: chi non ha venduto dovrà farlo più avanti\"",
       "url": "https://www.milannews.it/news/criscitiello-m-aspetto-svendite-clamorose-venduto-farlo-avanti-627251",
       "source": "milannews.it",
       "date": "2026-08-20T20:12:17+00:00",
@@ -43,7 +83,7 @@
     },
     {
       "id": "162145df96b8",
-      "title": "Di Stefano describes Amorim's methods: \"He doesn't delegate his work, but above all he manages the field\"",
+      "title": "Di Stefano descrive i metodi di Amorim: \"Non demanda il proprio operato, ma gestisce soprattutto lui il campo\"",
       "url": "https://www.milannews.it/news/stefano-descrive-metodi-amorim-non-demanda-operato-gestisce-campo-627144",
       "source": "milannews.it",
       "date": "2026-08-20T19:23:25+00:00",
@@ -138,14 +178,6 @@
       "summary": "Rafael Leao's future remains in the balance, but the Galatasaray track seems to be losing strength."
     },
     {
-      "id": "ac958ef430e7",
-      "title": "Gimenez-Porto, Santiago's father: \"It's a great opportunity. If a club like this contacts you even in a complex moment it's a very positive thing\"",
-      "url": "https://www.milannews.it/news/gimenez-porto-papa-santiago-e-opportunita-club-contatta-complesso-positiva-627296",
-      "source": "milannews.it",
-      "date": "2026-08-20T17:25:56+00:00",
-      "summary": "Speaking on Fox Sports Mexico, Christian Gimenez, Santiago's father, spoke thus of the interest of Porto which is in negotiations with Milan to sign his son: \"It's a great team, with a long tradition ..."
-    },
-    {
       "id": "12dfeb93c74e",
       "title": "Diego Moreira insight: Scouting report, stats, transfer rating and more",
       "url": "https://sempremilan.com/diego-moreira-scouting-report-stats-rating",
@@ -154,44 +186,12 @@
       "summary": "AC Milan officially welcomed their fourth signing of the summer on Wednesday as Diego Moreira joined from Strasbourg. Milan had not been linked with a move for Moreira, or at least not since his days at Benfica, so it came as a surprise on Monday when talk of an agreement arose. Fabrizio Romano quic"
     },
     {
-      "id": "3c61e1dee95b",
-      "title": "Sabatini: \"If Leao is sold for less than 40 million it will be a scandal for Milan\"",
-      "url": "https://www.milannews.it/news/sabatini-se-leao-viene-venduto-40-scandalo-milan-627253",
-      "source": "milannews.it",
-      "date": "2026-08-20T17:13:21+00:00",
-      "summary": "Sandro Sabatini, journalist, expressed himself on Radio Sportiva about Alphadjo Cisse, probable starter for Milan on Sunday in Turin: \"I still have some doubts about Cisse from Milan because I still consider him a little ..."
-    },
-    {
-      "id": "94ef60aac7ca",
-      "title": "Milan, the sale of Leao to finance new purchases. With Mendes still the protagonist?",
-      "url": "https://www.milannews.it/primo-piano/milan-cessione-leao-finanziare-acquisti-mendes-protagonista-627292",
-      "source": "milannews.it",
-      "date": "2026-08-20T17:00:12+00:00",
-      "summary": "After having orchestrated the arrivals of Gonçalo Ramos and Diego Moreira, Jorge Mendes now has a new task given to him by Milan, that is, finding a buyer for Rafael Leao."
-    },
-    {
-      "id": "164c2dbfd326",
-      "title": "Moreira introduces herself: \"Joy is the best word to describe myself\"",
-      "url": "https://www.milannews.it/news/moreira-presenta-gioia-parola-migliore-descrivere-stesso-627286",
-      "source": "milannews.it",
-      "date": "2026-08-20T16:48:57+00:00",
-      "summary": "Diego Moreira, speaking on the official channels of the Rossoneri club, introduced himself to the AC Milan fans like this: \n\nMOREIRA PRESENTS HIMSELF TO THE FANS\n\n\"People see me on social media, I always laugh and dance there, but it doesn't mean c..."
-    },
-    {
       "id": "be8d0996e5d7",
       "title": "Moreira discusses joining Milan, goals and life away from football: “I’ll give everything”",
       "url": "https://sempremilan.com/moreira-milan-goals-life-away-football",
       "source": "sempremilan.com",
       "date": "2026-08-20T16:40:00+00:00",
       "summary": "Diego Moreira has pledged to give everything for his new club AC Milan, revealing why it was such an easy decision to make the move. At the start of the week, only those involved in the negotiation even knew that Moreira was a target for Milan. By Monday night, news had broken that the Rossoneri […]"
-    },
-    {
-      "id": "274fb5ffb95c",
-      "title": "MN - Como, before going strong on Ricci one of Mazzitelli and Caqueret must come out",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-como-andare-forte-ricci-uscire-mazzitelli-caqueret-627293",
-      "source": "milannews.it",
-      "date": "2026-08-20T16:35:51+00:00",
-      "summary": "Among the Milan players who could say goodbye in these last days of the summer transfer window there is also Samuele Ricci, whose name is on Como's list."
     },
     {
       "id": "b0a7e89b5361",
