@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-08-20T06:40:56.042620+00:00",
+  "lastUpdated": "2026-08-20T07:38:13.226342+00:00",
   "articles": [
+    {
+      "id": "91b926c405c4",
+      "title": "The suggestion. The QS: \"Milan, the dream is Ruben Dias\"",
+      "url": "https://www.milannews.it/rassegna-stampa/suggestione-qs-milan-sogno-ruben-dias-627240",
+      "source": "milannews.it",
+      "date": "2026-08-20T07:24:57+00:00",
+      "summary": "Having closed the Diawara, Gila, Moreira and Ramos deals, Gerry Cardinale wants to close this summer transfer market with a bang by giving Ruben Amorim at least another couple of signings."
+    },
+    {
+      "id": "ce530da15950",
+      "title": "PROBABLE LINEUP - Towards Turin-Milan, Amorim with the men counted. But there is some doubt",
+      "url": "https://www.milannews.it/news/probabile-formazione-torino-milan-amorim-maignan-rabiot-leao-pulisic-ramos-moreira-627223",
+      "source": "milannews.it",
+      "date": "2026-08-20T07:15:00+00:00",
+      "summary": "Finally back on the pitch! On Sunday evening, Milan will face Torino on the first day of the Serie A championship: kick-off at 8.45pm at the \"Olimpico - Grande Torino\" Stadium."
+    },
+    {
+      "id": "eec0d18d1246",
+      "title": "For sale. La Gazzetta: \"Aston Villa winks at Tomori\"",
+      "url": "https://www.milannews.it/rassegna-stampa/vendita-gazzetta-l-aston-villa-strizza-occhio-tomori-627237",
+      "source": "milannews.it",
+      "date": "2026-08-20T07:12:24+00:00",
+      "summary": "Fikayo Tomori is part of that circle of players who do not fit into Ruben Amorim's plans."
+    },
+    {
+      "id": "fb0d5d70f93b",
+      "title": "The Rossoneri exits. Tuttosport: \"Kostic leaves from Rotterdam. And Gimenez is waiting\"",
+      "url": "https://www.milannews.it/rassegna-stampa/uscite-rossonere-tuttosport-kostic-riparte-rotterdam-gimenez-aspetta-627235",
+      "source": "milannews.it",
+      "date": "2026-08-20T07:00:18+00:00",
+      "summary": "Not just revenue. In these last, intense days of the transfer market, Milan will also and above all work on exits, such as that of Rafael Leao."
+    },
+    {
+      "id": "ba1fb25367a0",
+      "title": "It is the second most expensive in the history of Milan. CorSport: \"Moreira golden joker\"",
+      "url": "https://www.milannews.it/rassegna-stampa/caro-storia-milan-corsport-moreira-jolly-oro-627231",
+      "source": "milannews.it",
+      "date": "2026-08-20T06:48:25+00:00",
+      "summary": "Diego Moreira is the second most expensive player in the history of Milan."
+    },
     {
       "id": "fcbeb943953d",
       "title": "Milan double match. La Gazzetta: \"Mendes' signature for Moreira's yes and Leao's exit\"",
@@ -32,14 +72,6 @@
       "source": "milannews.it",
       "date": "2026-08-20T06:00:59+00:00",
       "summary": "Diego Moreira is officially a new AC Milan player."
-    },
-    {
-      "id": "ce530da15950",
-      "title": "PROBABLE LINEUP - Towards Turin-Milan, Amorim with the men counted. But there is some doubt",
-      "url": "https://www.milannews.it/news/probabile-formazione-torino-milan-amorim-maignan-rabiot-leao-pulisic-ramos-moreira-627223",
-      "source": "milannews.it",
-      "date": "2026-08-20T05:53:00+00:00",
-      "summary": "Finally back on the pitch! On Sunday evening, Milan will face Torino on the first day of the Serie A championship: kick-off at 8.45pm at the \"Olimpico - Grande Torino\" Stadium."
     },
     {
       "id": "a8363df17f14",
@@ -128,38 +160,6 @@
       "source": "milannews.it",
       "date": "2026-08-19T22:12:48+00:00",
       "summary": "On the occasion of the meeting with the fans at the Flagship Store in via Dante, in Milan, Gonçalo Ramos also had a meeting with the press."
-    },
-    {
-      "id": "39b91b8ccbac",
-      "title": "Many of us were wrong. The other Milan's choices are ok. Market: now to be completed",
-      "url": "https://www.milannews.it/editoriale/c-eravamo-sbagliati-ok-scelte-dell-altro-milan-mercato-completare-627185",
-      "source": "milannews.it",
-      "date": "2026-08-19T22:00:01+00:00",
-      "summary": "When the picture becomes clearer it is good to take note of the wrong predictions and correct them to maintain your credibility."
-    },
-    {
-      "id": "55b3b1eb1f3e",
-      "title": "Minotti with many doubts: \"The serious flaw of this Milan is in the management side\"",
-      "url": "https://www.milannews.it/news/minotti-tanti-dubbi-la-grave-pecca-milan-dirigenziale-627214",
-      "source": "milannews.it",
-      "date": "2026-08-19T21:48:31+00:00",
-      "summary": "Lorenzo Minotti, former defender now sports commentator, spoke to Sky Calcio Club about Ruben Amorim's new Milan."
-    },
-    {
-      "id": "7c1162df0683",
-      "title": "Bucciantini praises Ramos: \"Finally a striker who stays in the area, before him there were ghosts\"",
-      "url": "https://www.milannews.it/news/bucciantini-esalta-ramos-finalmente-punta-area-fantasmi-627212",
-      "source": "milannews.it",
-      "date": "2026-08-19T21:36:00+00:00",
-      "summary": "Milan's transfer market continues to expand, day after day."
-    },
-    {
-      "id": "79d8c4dac3cb",
-      "title": "Di Marzio: \"Como has blocked Ricci, an operation close to closure\"",
-      "url": "https://www.milannews.it/calciomercato-milan/marzio-il-como-bloccato-ricci-operazione-prossima-chiusura-627215",
-      "source": "milannews.it",
-      "date": "2026-08-19T21:31:00+00:00",
-      "summary": "Milan's transfer market continues to expand, day after day."
     },
     {
       "id": "227cd706d50b",
