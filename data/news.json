@@ -1,13 +1,77 @@
 {
-  "lastUpdated": "2026-08-21T12:40:53.068432+00:00",
+  "lastUpdated": "2026-08-21T13:42:27.202383+00:00",
   "articles": [
+    {
+      "id": "ef4b5b67a343",
+      "title": "Milan, the last two league matches against Torino were positive: the statistics",
+      "url": "https://www.milannews.it/news/milan-torino-positivi-ultimi-incontri-campionato-statistica-627308",
+      "source": "milannews.it",
+      "date": "2026-08-21T13:37:00+00:00",
+      "summary": "The new AC Milan led by Ruben Amorim is getting closer and closer to making its debut in Serie A 2026/2027. On Sunday evening, the Rossoneri will be guests of former AC Milan Ignazio Abate's Torino."
+    },
+    {
+      "id": "3f452490ebe3",
+      "title": "Capello discusses Amorim’s project, Scudetto race and Milan’s ‘must’: “Taking shape”",
+      "url": "https://sempremilan.com/capello-discusses-amorim-scudetto-race-milan-must",
+      "source": "sempremilan.com",
+      "date": "2026-08-21T13:30:00+00:00",
+      "summary": "This summer, AC Milan have made steps in the right direction under Ruben Amorim, but they must prove it in the season. Amorim’s pre-season has not gone perfectly; there have certainly been issues. However, Milan looked like an Amorim team against Manchester United and there were plenty of positives "
+    },
+    {
+      "id": "2c834e9bec61",
+      "title": "Serafini recalls: \"Almost all companies have their friends among the agents. Mendes is a resource\"",
+      "url": "https://www.milannews.it/calciomercato-milan/serafini-ricorda-quasi-societa-amichetti-procuratori-mendes-risorsa-627347",
+      "source": "milannews.it",
+      "date": "2026-08-21T13:25:50+00:00",
+      "summary": "During his editorial for MilanNews.it, journalist Luca Serafini expressed himself as follows on Jorge Mendes' involvement in Milan: \"I believe that Jorge Mendes constitutes a resource and not a problem."
+    },
     {
       "id": "ce530da15950",
       "title": "PROBABLE LINEUP - Towards Turin-Milan, Amorim with the men counted. But there is some doubt",
       "url": "https://www.milannews.it/news/probabile-formazione-torino-milan-amorim-maignan-rabiot-leao-pulisic-ramos-moreira-627223",
       "source": "milannews.it",
-      "date": "2026-08-21T12:30:00+00:00",
+      "date": "2026-08-21T13:20:00+00:00",
       "summary": "Finally back on the pitch! On Sunday evening, Milan will face Torino on the first day of the Serie A championship: kick-off at 8.45pm at the \"Olimpico - Grande Torino\" Stadium."
+    },
+    {
+      "id": "37d0d702adfe",
+      "title": "Marocchi: \"At the back I only trust Maignan, but from midfield up I'm quite optimistic about Milan's value\"",
+      "url": "https://www.milannews.it/news/marocchi-leao-come-punta-fallito-627302",
+      "source": "milannews.it",
+      "date": "2026-08-21T13:13:27+00:00",
+      "summary": "The Milan transfer market continues with news and new updates in this new season. The championship is now upon us, with coach Ruben Amorim's Rossoneri who will be busy on Sunday evening against Torino, away."
+    },
+    {
+      "id": "467703f84b8d",
+      "title": "Ronaldinho would like a friendly match to be played between Ravenna and Milan with him present",
+      "url": "https://www.milannews.it/gli-ex/ronaldinho-ammette-mi-piacerebbe-amichevole-ravenna-milan-627311",
+      "source": "milannews.it",
+      "date": "2026-08-21T13:00:49+00:00",
+      "summary": "In Ravenna yesterday was incredibly Ronaldinho day. The former 2004 Golden Ball winner was presented by the Italian team, playing in Serie C, as a real (rightly) star."
+    },
+    {
+      "id": "8f875fc6fbca",
+      "title": "“I continue to follow Milan” – Ronaldinho admits derby goal is among ‘proudest’ memories",
+      "url": "https://sempremilan.com/ronaldinho-admits-derby-goal-proudest-memories",
+      "source": "sempremilan.com",
+      "date": "2026-08-21T13:00:00+00:00",
+      "summary": "Ronaldinho has returned to the headlines this week with his return to football in Serie C with Ravenna and he was asked about his AC Milan days.  The Brazilian is one of the most loved icons of the game; a player who made the beautiful game beautiful. Although he joined the club late in his […]\nThe "
+    },
+    {
+      "id": "b9d796ead039",
+      "title": "Order: \"You have to ask yourself why Milan suddenly changed gear on the transfer market. The answer is simple\"",
+      "url": "https://www.milannews.it/news/ordine-c-e-chiedersi-d-improvviso-milan-cambiato-marcia-mercato-risposta-semplice-627345",
+      "source": "milannews.it",
+      "date": "2026-08-21T12:48:16+00:00",
+      "summary": "Franco Ordine, journalist, expressed himself as follows in the Corriere dello Sport on the new Milan that is being born under the name of Gerry Cardinale: \"If on the one hand Milan's operations have not suffered serious shocks, there is ..."
+    },
+    {
+      "id": "feabf752b81d",
+      "title": "Towards Turin-Milan, historically a match full of goals: the data",
+      "url": "https://www.milannews.it/news/torino-milan-storicamente-sfida-ricca-gol-dato-627307",
+      "source": "milannews.it",
+      "date": "2026-08-21T12:36:00+00:00",
+      "summary": "The new AC Milan led by Ruben Amorim is getting closer and closer to making its debut in Serie A 2026/2027. On Sunday evening, the Rossoneri will be guests of former AC Milan Ignazio Abate's Torino."
     },
     {
       "id": "773838da3272",
@@ -170,44 +234,12 @@
       "summary": "As testified by Lorenzo De Angelis, MilanNews correspondent."
     },
     {
-      "id": "464dedcd5dfd",
-      "title": "Leao-Milan-Galatasaray, the frost returns: Mendes seeks solutions in the Premier League",
-      "url": "https://www.milannews.it/calciomercato-milan/leao-milan-galatasaray-torna-gelo-mendes-cerca-soluzioni-premier-627339",
-      "source": "milannews.it",
-      "date": "2026-08-21T09:48:27+00:00",
-      "summary": "Rafael Leao remains the most delicate issue in the Milan transfer market."
-    },
-    {
-      "id": "d4f844429553",
-      "title": "Ceccarini on Leao: \"Situation at a standstill. The only real possibility remains Galatasaray\"",
-      "url": "https://www.milannews.it/calciomercato-milan/ceccarini-situazione-leao-situazione-fase-stallo-unica-vera-possibilita-rimane-galatasaray-627336",
-      "source": "milannews.it",
-      "date": "2026-08-21T09:36:23+00:00",
-      "summary": "During the usual appointment with his editorial for TMW, the director and transfer market expert Niccolò Ceccarini took stock of the AC Milan transfer market, between purchases and sales scheduled in the latter, intense and slow ..."
-    },
-    {
       "id": "9b066b4a9b67",
       "title": "GdS: Modric still the ‘guiding light’ for Milan as Amorim hands him the midfield keys",
       "url": "https://sempremilan.com/modric-guiding-light-milan-amorim-keys",
       "source": "sempremilan.com",
       "date": "2026-08-21T09:30:00+00:00",
       "summary": "Luka Modric seems to be heading towards another season at the heart of AC Milan, with Ruben Amorim likely to rely on him. When Modric was heading towards a renewal, it seemed that he could be a ‘part-time’ player for Milan. Yet, after last season, it seemed unlikely that that would be the case. Modr"
-    },
-    {
-      "id": "6559142559ff",
-      "title": "Europa League results: Salah falls at home, everything is easy for the Italian and for Benfica",
-      "url": "https://www.milannews.it/news/risultati-europa-league-cade-salah-casa-facile-italiano-benfica-627356",
-      "source": "milannews.it",
-      "date": "2026-08-21T09:24:53+00:00",
-      "summary": "Below are the results of the first leg of the Europa League playoffs, a competition in which Milan will also be involved from the championship phase:\n\nTrabzonspor-Ferencvaros 0-1\n\nUniversitatea Craiova-Ararat 1-1\n\nSint Truide ..."
-    },
-    {
-      "id": "4bb2e206ed33",
-      "title": "Gozzini scares: \"In defence, Milan could remain as they are, while up front...\"",
-      "url": "https://www.milannews.it/calciomercato-milan/gozzini-spaventa-in-difesa-milan-restare-com-e-davanti-627343",
-      "source": "milannews.it",
-      "date": "2026-08-21T09:12:00+00:00",
-      "summary": "Alessandra Gozzini, journalist, expressed herself as follows in La Gazzetta dello Sport on Milan's transfer market and its developments after today: \"Cardinale wants to convey his enthusiasm and closeness, demonstrated by his ..."
     },
     {
       "id": "c24536d6f450",
@@ -218,28 +250,12 @@
       "summary": "Gerry Cardinale will meet with Milan players and staff at Milanello today and according to..."
     },
     {
-      "id": "39739a055c01",
-      "title": "The latest towards Turin: Amorim debuts with the 3-4-2-1, Gila starts and Cissè behind Ramos",
-      "url": "https://www.milannews.it/news/ultime-torino-amorim-debutta-3-4-2-1-gila-titolare-cisse-ramos-627338",
-      "source": "milannews.it",
-      "date": "2026-08-21T09:00:03+00:00",
-      "summary": "Ruben Amorim's official debut on the Milan bench is approaching. Against Torino, the Portuguese coach should confirm the 3-4-2-1 used throughout the summer."
-    },
-    {
       "id": "99d84b9f6f8c",
       "title": "Romano: Nwaneri more likely to stay at Arsenal after unfavourable offers – Milan’s position",
       "url": "https://sempremilan.com/nwaneri-more-likely-stay-arsenal-unfavourable-offers",
       "source": "sempremilan.com",
       "date": "2026-08-21T09:00:00+00:00",
       "summary": "In recent weeks, AC Milan have slowed on their hunt for an attacking midfielder. Yet, it is still one of the biggest desires of the summer. In a mercato of names, Milan have certainly searched far and wide for an attacking midfielder, with plenty of different names brought forward. However, they hav"
-    },
-    {
-      "id": "e29b2d2d1529",
-      "title": "Cardinale at Milanello: summit with Amorim and face to face with the redundancies",
-      "url": "https://www.milannews.it/calciomercato-milan/cardinale-milanello-summit-amorim-esuberi-627337",
-      "source": "milannews.it",
-      "date": "2026-08-21T08:48:23+00:00",
-      "summary": "Gerry Cardinale will be in Milanello today to take stock of the market together with the management and Ruben Amorim."
     },
     {
       "id": "a7b3c9ae5281",
@@ -344,22 +360,6 @@
       "source": "football-italia.net",
       "date": "2026-08-20T13:35:23+00:00",
       "summary": "Aston Villa have identified Fikayo Tomori as a potential defensive reinforcement, with Ezri Konsa’s move..."
-    },
-    {
-      "id": "b28c6acaf509",
-      "title": "Mediaset: Man City star ‘a major target’ for Milan – deal difficult but Mendes at work",
-      "url": "https://sempremilan.com/manchester-city-dias-major-target-milan",
-      "source": "sempremilan.com",
-      "date": "2026-08-20T13:30:00+00:00",
-      "summary": "AC Milan are ready to try and pull off the audacious signing of Ruben Dias from Manchester City, a report claims. SportMediaset report that Milan is becoming increasingly Portuguese. After Ruben Amorim, Goncalo Ramos, and Diego Moreira (who chose Belgium but holds dual citizenship), the Rossoneri’s "
-    },
-    {
-      "id": "1a241a219a7a",
-      "title": "GdS: ‘Ready to amaze’ – why Jashari is the leading candidate to become Milan’s new star",
-      "url": "https://sempremilan.com/why-jashari-leading-candidate-milan-star",
-      "source": "sempremilan.com",
-      "date": "2026-08-20T13:00:00+00:00",
-      "summary": "Ardon Jashari is hoping for a bounce-back season after a difficult first campaign with AC Milan, and everything suggests he can have one. Today’s La Gazzetta dello Sport (via MilanPress) outlines the potential 20 new Serie A stars, with one chosen for each team. Jashari has been selected for Milan, "
     },
     {
       "id": "3a157c89a095",
