@@ -1,13 +1,61 @@
 {
-  "lastUpdated": "2026-08-23T06:36:37.107114+00:00",
+  "lastUpdated": "2026-08-23T07:31:07.323346+00:00",
   "articles": [
+    {
+      "id": "09e4d78a3cb8",
+      "title": "Milan at 8.45pm. The QS: \"Amorim, Toro exam immediately\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-20-45-qs-amorim-esame-toro-627513",
+      "source": "milannews.it",
+      "date": "2026-08-23T07:24:47+00:00",
+      "summary": "Today Milan will make their championship debut at 8.45pm against former Ignazio Abate's Torino."
+    },
+    {
+      "id": "0d7dff7c6ffd",
+      "title": "Schools of thought. La Gazzetta: \"He's a Toro with an Italian stamp. The foreigner has moved to Milan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/scuole-pensiero-gazzetta-e-toro-timbro-italiano-milan-passato-straniero-627512",
+      "source": "milannews.it",
+      "date": "2026-08-23T07:12:00+00:00",
+      "summary": "This evening in Turin two different schools of thought will face each other, especially regarding the management of Italian resources. In fact, La Gazzetta dello Sport writes this morning that “He is a Bull with an Italian stamp."
+    },
+    {
+      "id": "ce530da15950",
+      "title": "PROBABLE LINEUP - Towards Turin-Milan, Amorim without many starters. Moreira and Pulisic on the bench",
+      "url": "https://www.milannews.it/news/probabile-formazione-torino-milan-amorim-maignan-rabiot-leao-pulisic-ramos-moreira-627223",
+      "source": "milannews.it",
+      "date": "2026-08-23T07:05:00+00:00",
+      "summary": "Finally back on the pitch! On Sunday evening, Milan will face Torino on the first day of the Serie A championship: kick-off at 8.45pm at the \"Olimpico - Grande Torino\" Stadium."
+    },
+    {
+      "id": "e85e19f6a047",
+      "title": "Amorim relies on the 75 million tip. Tuttosport: \"Ramos also challenges...the 9\"",
+      "url": "https://www.milannews.it/rassegna-stampa/amorim-affida-punta-75-milioni-tuttosport-ramos-sfida-pure-la-9-627510",
+      "source": "milannews.it",
+      "date": "2026-08-23T07:00:47+00:00",
+      "summary": "On the occasion of his debut against Torino, Ruben Amorim will rely on the best possible 11 to start his adventure in the Italian championship in the best possible way."
+    },
+    {
+      "id": "8fe1d6eb5a6d",
+      "title": "The first official match with Milan. CorSport: \"The attack on Ramos' shoulders\"",
+      "url": "https://www.milannews.it/rassegna-stampa/ufficiale-milan-corsport-l-attacco-spalle-ramos-627509",
+      "source": "milannews.it",
+      "date": "2026-08-23T06:48:47+00:00",
+      "summary": "Tonight will be the most classic of first-time matches not only for the two coaches, making their debut in Serie A, but also for some of the players who will be deployed on the pitch, either from the 1st minute or during the match in progress."
+    },
+    {
+      "id": "ebed3e78e60f",
+      "title": "Toro-Milan, on the attack. La Gazzetta: \"Abate and Amorim the time for the game (and for the debutants)\"",
+      "url": "https://www.milannews.it/rassegna-stampa/toro-milan-attacco-gazzetta-abate-amorim-gioco-e-debuttanti-627508",
+      "source": "milannews.it",
+      "date": "2026-08-23T06:36:00+00:00",
+      "summary": "The countdown is almost over, also because there are less than 12 hours left until the kick-off of Torino-Milan, the debut match in the Serie A championship for Ruben Amorim, but also for Ignazio Abate, in his first experience in ..."
+    },
     {
       "id": "d58b0e20020d",
       "title": "Championship debut. Tuttosport: \"Milan, the new Amorim era\"",
       "url": "https://www.milannews.it/rassegna-stampa/debutto-campionato-tuttosport-milan-nuova-amorim-627507",
       "source": "milannews.it",
       "date": "2026-08-23T06:24:00+00:00",
-      "summary": "After months of chatter, friendlies and indications, today we're back to getting serious, also because Milan will take the field in Turin against Ignazio Abate's team for an interesting and complicated debut in the championship."
+      "summary": "After months of chatter, friendlies and indications, today we get serious again, also because Milan will take the field in Turin against Ignazio Abate's team for an interesting and complicated debut in the championship."
     },
     {
       "id": "2f5200686613",
@@ -24,14 +72,6 @@
       "source": "milannews.it",
       "date": "2026-08-23T06:00:51+00:00",
       "summary": "Today's match between Turin and Milan will not be any ordinary match. On the first day of Serie A, two young coaches, both making their debut in the top Italian league, will face each other: Ignazio Abate and Ruben Amorim."
-    },
-    {
-      "id": "ce530da15950",
-      "title": "PROBABLE LINEUP - Towards Turin-Milan, Amorim without many starters. Moreira and Pulisic on the bench",
-      "url": "https://www.milannews.it/news/probabile-formazione-torino-milan-amorim-maignan-rabiot-leao-pulisic-ramos-moreira-627223",
-      "source": "milannews.it",
-      "date": "2026-08-23T05:50:00+00:00",
-      "summary": "Finally back on the pitch! On Sunday evening, Milan will face Torino on the first day of the Serie A championship: kick-off at 8.45pm at the \"Olimpico - Grande Torino\" Stadium."
     },
     {
       "id": "686e98a300e8",
@@ -107,7 +147,7 @@
     },
     {
       "id": "44a6ff858a20",
-      "title": "Amorim believes in Milan's potential: \"I don't know how long it will take but we want to win the Scudetto\"",
+      "title": "Amorim believes in Milan's potential: \"I don't know how long it will take but we want to win the scudetto\"",
       "url": "https://www.milannews.it/news/amorim-so-vorra-vogliamo-vincere-scudetto-627491",
       "source": "milannews.it",
       "date": "2026-08-22T22:12:38+00:00",
@@ -120,46 +160,6 @@
       "source": "milannews.it",
       "date": "2026-08-22T22:00:01+00:00",
       "summary": "The 2026-2027 season also begins for Milan, a year that promises to be very, very important. It should be remembered that the Rossoneri team comes from two failures: a fifth place last year and an eighth two years ago."
-    },
-    {
-      "id": "d4478405aa35",
-      "title": "MN - Demichelis on Nkunku: \"He's a great player, but my job is to train the players I have available\"",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-demichelis-nkunku-e-giocatore-compito-allenare-giocatori-disposizione-627498",
-      "source": "milannews.it",
-      "date": "2026-08-22T21:48:38+00:00",
-      "summary": "At the end of the large victory in the DFB Pokal against Eintracht Tier, Red Bull Leipzig coach Martin Demichelis spoke exclusively to his colleague Alessandro Schiavone for MilanNews."
-    },
-    {
-      "id": "55e7d329fb4f",
-      "title": "Fabregas warns: \"I am convinced that very few important teams will win in Udine\"",
-      "url": "https://www.milannews.it/news/fabregas-partita-nuove-regole-627492",
-      "source": "milannews.it",
-      "date": "2026-08-22T21:36:28+00:00",
-      "summary": "(ANSA) - UDINE, AUGUST 22 - \"It was a great match, really fun. The new rules are very good, they raise the pace of the match a lot.\""
-    },
-    {
-      "id": "ce09ce5ea172",
-      "title": "The Serie A standings updated after the previews of the first day",
-      "url": "https://www.milannews.it/news/classifica-serie-aggiornata-anticipi-giornata-627502",
-      "source": "milannews.it",
-      "date": "2026-08-22T21:24:35+00:00",
-      "summary": "The Serie A standings updated after the previews of the first day. Inter ahead of everyone."
-    },
-    {
-      "id": "aa3b005d591b",
-      "title": "Cagliari, blow at Tardini: Romano's pearl knocks out Parma",
-      "url": "https://www.milannews.it/news/cagliari-colpo-tardini-perla-romano-stende-parma-627499",
-      "source": "milannews.it",
-      "date": "2026-08-22T21:12:00+00:00",
-      "summary": "Cagliari opens their Serie A with a precious victory, winning 1-0 on Parma."
-    },
-    {
-      "id": "c936f76772bb",
-      "title": "Allegri's Napoli wins at Marassi: De Bruyne and Vergara knock out Genoa",
-      "url": "https://www.milannews.it/news/napoli-allegri-vince-marassi-de-bruyne-vergara-stendono-genoa-627500",
-      "source": "milannews.it",
-      "date": "2026-08-22T21:00:47+00:00",
-      "summary": "Napoli opens Serie A with a 2-0 success at Genoa, but the result does not tell all the difficulties of Massimiliano Allegri's team."
     },
     {
       "id": "b06f95fab61d",
