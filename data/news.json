@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-24T20:26:49.196234+00:00",
+  "lastUpdated": "2026-08-24T21:25:19.715885+00:00",
   "articles": [
+    {
+      "id": "4fb728d19e7d",
+      "title": "Capello: \"In generale bisogna considerare che si è visto un Milan inizialmente senza tenori, quindi non si poteva considerare completo\"",
+      "url": "https://www.milannews.it/news/capello-in-bisogna-considerare-e-milan-inizialmente-tenori-poteva-considerare-completo-627663",
+      "source": "milannews.it",
+      "date": "2026-08-24T21:13:13+00:00",
+      "summary": "Fabio Capello, ex allenatore, si è così espresso su La Gazzetta dello Sport commentando la vittoria del Milan di Amorim a Torino: \"Si è già iniziato a vedere qualcosa di Amorim, sin da un primo tempo molto intenso anche grazie  ..."
+    },
+    {
+      "id": "2cafcc29a146",
+      "title": "Serie A, alla Lazio risponde la Roma: la classifica aggiornata",
+      "url": "https://www.milannews.it/news/classifica-aggiornata-serie-627697",
+      "source": "milannews.it",
+      "date": "2026-08-24T21:00:09+00:00",
+      "summary": "Di seguito la classifica aggiornata dopo Roma-Fiorentina 4-0\n\nSERIE A, LA CLASSIFICA AGGIORNATA \n\n1. Inter 3\n2."
+    },
+    {
+      "id": "e56287ddea73",
+      "title": "Serie A, è Malen show all’Olimpico: Roma-Fiorentina 4-0",
+      "url": "https://www.milannews.it/news/risultato-roma-fiorentina-627696",
+      "source": "milannews.it",
+      "date": "2026-08-24T20:48:55+00:00",
+      "summary": "Non c'è stata partita allo Stadio Olimpico dove i padroni di casa hanno letteralmente travolto una Fiorentina troppo inerme. Ad aprire le danze è il solito Malen che al 27' porta avanti i suoi."
+    },
+    {
+      "id": "3737a83e5b52",
+      "title": "Primavera, Zanaga entusiasta: “Emozione unica dopo l’operazione, siamo forti e dobbiamo dimostrarlo”",
+      "url": "https://www.milannews.it/la-primavera/primavera-zanaga-entusiasta-627746",
+      "source": "milannews.it",
+      "date": "2026-08-24T20:36:51+00:00",
+      "summary": "Il Milan Primavera di Mister Renna parte bene in campionato e sconfigge per 3-2 il Torino al termine di una partita folle, vinta dai rossoneri al minuto 93 grazie al gol di Dotta."
+    },
     {
       "id": "21b1aa60ed2a",
       "title": "Pavlovic gioisce così sui social per la prima vittoria del Milan (da vice-capitano)",
@@ -146,44 +178,12 @@
       "summary": "Michael Cuomo, giornalista, ha rilasciato una intervista esclusiva a MilanNews.it all'indomani di Torino-Milan, sfida valida per 1-2 dai rossoneri."
     },
     {
-      "id": "86067e975e58",
-      "title": "Amorim come Leonardo: il portoghese il primo straniero dal 2009 a vincere all'esordio in campionato in trasferta",
-      "url": "https://www.milannews.it/news/amorim-leonardo-portoghese-straniero-2009-vincere-esordio-campionato-trasferta-627630",
-      "source": "milannews.it",
-      "date": "2026-08-24T17:37:27+00:00",
-      "summary": "Davvero una buonissima partenza per il nuovo Milan di Ruben Amorim che trova un successo non semplice all'Olimpico contro il Torino di Ignazio Abate battuto per 2-1."
-    },
-    {
-      "id": "021df6ecf5b7",
-      "title": "MN - Il Milan sarà attivo sul mercato in entrata in questi giorni finali: la strategia",
-      "url": "https://www.milannews.it/primo-piano/bozza-627736",
-      "source": "milannews.it",
-      "date": "2026-08-24T17:30:00+00:00",
-      "summary": "Il nuovo Milan di Ruben Amorim prende sempre più forma, e in questo c'è stata sicuramente la decisiva impronta di Gerry Cardinale."
-    },
-    {
       "id": "a4590e385912",
       "title": "MN: Discussions constant with Aston Villa for Tomori – why Milan must sell for €5m+",
       "url": "https://sempremilan.com/discussions-constant-aston-villa-milan-must-sell-5m",
       "source": "sempremilan.com",
       "date": "2026-08-24T17:30:00+00:00",
       "summary": "Fikayo Tomori can leave AC Milan this summer, but the defender could leave for much less than what was originally expected, it seems. For most of the summer, Tomori has been available. He’s been used frequently in pre-season, but a lack of alternative options has helped him significantly. However, R"
-    },
-    {
-      "id": "d4d07bd34f65",
-      "title": "Gila entusiasta: \"Felice per il mio esordio ufficiale con questa maglia\"",
-      "url": "https://www.milannews.it/news/gila-entusiasta-felice-esordio-ufficiale-maglia-627691",
-      "source": "milannews.it",
-      "date": "2026-08-24T17:25:16+00:00",
-      "summary": "Il Milan ha vinto all'esordio in campionato per 1-2 contro il Torino, conquistato i primi tre punti del campionato."
-    },
-    {
-      "id": "2e2ac3c7ca2e",
-      "title": "Vernazza: \"C'è un unico appunto che rivolgiamo ad Amorim, ma la rotta ci sembra corretta\"",
-      "url": "https://www.milannews.it/news/vernazza-c-unico-appunto-rivolgiamo-amorim-rotta-corretta-627660",
-      "source": "milannews.it",
-      "date": "2026-08-24T17:13:59+00:00",
-      "summary": "Sebastiano Vernazza, giornalista, si è così espresso su La Gazzetta dello Sport commentando Torino-Milan di ieri sera: \"Poche cose sono più ingannevoli di una prima giornata di campionato e così, con tutte le cautele possibili, ..."
     },
     {
       "id": "0b1d19c483fc",
