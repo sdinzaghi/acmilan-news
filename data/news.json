@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-08-25T09:32:19.532477+00:00",
+  "lastUpdated": "2026-08-25T10:29:15.793027+00:00",
   "articles": [
+    {
+      "id": "07730b31b122",
+      "title": "Capello: \"Cissè? Sono molto contento che si sia data subito fiducia a un giovane italiano\"",
+      "url": "https://www.milannews.it/news/capello-cisse-contento-data-fiducia-giovane-italiano-627771",
+      "source": "milannews.it",
+      "date": "2026-08-25T10:24:58+00:00",
+      "summary": "Intervistato dai colleghi de La Gazzetta dello Sport, l'ex allenatore Fabio Capello ha parlato di Milan dopo il vincente (e convincente) esordio in campionato della formazione di Ruben Amorim: \"Si è presentato molto preparato e h ..."
+    },
+    {
+      "id": "3588e91a0ef7",
+      "title": "Messaggio social enigmatico di Leao: \"Dio sta guidando tutto\"",
+      "url": "https://www.milannews.it/news/messaggio-social-enigmatico-leao-dio-guidando-tutto-627780",
+      "source": "milannews.it",
+      "date": "2026-08-25T10:24:18+00:00",
+      "summary": "Rafael Leao alimenta le voci di mercato con un messaggio pubblicato sui social: \"God is directing this\", traducibile in italiano con \"Dio sta guidando tutto\"."
+    },
+    {
+      "id": "0d00416c7214",
+      "title": "Torino-Milan, caso Vlasic: per l’AIA era rigore, episodio giudicato “grigio”",
+      "url": "https://www.milannews.it/news/torino-milan-vlasic-l-aia-rigore-episodio-giudicato-grigio-627783",
+      "source": "milannews.it",
+      "date": "2026-08-25T10:12:15+00:00",
+      "summary": "Continua a far discutere l'episodio che ha coinvolto Vlasic in Torino-Milan. In un primo momento la valutazione arbitrale era stata orientata sul non rigore, senza intervento del VAR."
+    },
+    {
+      "id": "5f0e9d2d5c82",
+      "title": "Milan Primavera 3-2 Torino: Dotta scores late winner for 10-man Rossoneri",
+      "url": "https://sempremilan.com/milan-primavera-3-2-torino-match-report-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-08-25T10:00:00+00:00",
+      "summary": "It has been a good couple of days for AC Milan against Torino, as the Primavera won their season-opener on Monday night. The Primavera kicked off their 2026-27 league campaign with three points in a thrilling game at the PUMA House of Football, winning it right at the end after the first team had al"
+    },
+    {
+      "id": "1e8eaa18a537",
+      "title": "MN - Aston Villa-Leao, la pista si raffredda,  il Gala rimane in corsa e spunta il Tottenham",
+      "url": "https://www.milannews.it/primo-piano/mn-aston-villa-leao-pista-raffredda-gala-rimane-corsa-627782",
+      "source": "milannews.it",
+      "date": "2026-08-25T09:52:34+00:00",
+      "summary": "Si raffredda la pista Aston Villa per Rafael Leao."
+    },
+    {
+      "id": "9aa999bb2502",
+      "title": "Weekend di polemiche arbitrali. Capuano: \"Per Osato quello di Vlasic non era rigore. I club osservano preoccupati la rivoluzione del nuovo designatore\"",
+      "url": "https://www.milannews.it/news/weekend-polemiche-arbitrali-capuano-per-osato-vlasic-rigore-club-osservano-preoccupati-rivoluzione-d-627778",
+      "source": "milannews.it",
+      "date": "2026-08-25T09:48:46+00:00",
+      "summary": "Intervenuto sui propri profili social, il giornalista Giovanni Capuano ha commentato gli episodi del weekend di campionato, che hanno visto al Milan non assegnare un calcio di rigore netto mentre al Napoli convalidare un gol viziato da un fallo  ..."
+    },
+    {
+      "id": "11f9ef17c6fd",
+      "title": "Zanetti ricorda il primo Cissè del Verona: \"Era giovanissimo, ma si vedeva che aveva delle capacità tecniche superiori alla media\"",
+      "url": "https://www.milannews.it/news/zanetti-ricorda-cisse-verona-era-giovanissimo-vedeva-capacita-tecniche-superiori-media-627772",
+      "source": "milannews.it",
+      "date": "2026-08-25T09:36:05+00:00",
+      "summary": "Intervistato dai colleghi de Il Corriere dello Sport, l'ex allenatore del Verona Paolo Zanetti ha parlato di Alphadjo Cissè, ragazzo che ha avuto quando allenava gli scaligeri e che si è messo in mostra domenica nella vittoria del M ..."
+    },
+    {
+      "id": "4600ea6267b4",
+      "title": "MN - Retroscena Leao: era la prima scelta dell'Al-Hilal prima di Martinelli",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-retroscena-leao-scelta-al-hilal-martinelli-627781",
+      "source": "milannews.it",
+      "date": "2026-08-25T09:33:15+00:00",
+      "summary": "Aston Villa (di nuovo), Newcastle (sullo sfondo) e Galatasaray sono i tre club che hanno mosso, in maniera diversa, dei passi per Rafael Leao."
+    },
     {
       "id": "5dc8bf5e483a",
       "title": "CM: Amorim still wants a new playmaker – the list of targets in the final week",
@@ -55,7 +119,7 @@
       "url": "https://www.milannews.it/calciomercato-milan/moretto-leao-ricevuto-approccio-ufficiale-aston-villa-627768",
       "source": "milannews.it",
       "date": "2026-08-25T08:48:30+00:00",
-      "summary": "Sui propri profili social l'esperto di calciomercato Matteo Moretto ha fatto il punto sul futuro di Rafael Leao, diventato un obiettivo dell'Aston Villa in questa ultima, intensa, settimana di sessione: \n\n\"Aston Villa e Milan ..."
+      "summary": "On his social profiles, transfer market expert Matteo Moretto took stock of the future of Rafael Leao, who has become a target for Aston Villa in this last, intense week of session: \n\n\"Aston Villa and Milan..."
     },
     {
       "id": "223b8002abca",
@@ -71,7 +135,7 @@
       "url": "https://www.milannews.it/news/zanetti-racconta-cisse-penso-altissimo-livello-627767",
       "source": "milannews.it",
       "date": "2026-08-25T08:36:00+00:00",
-      "summary": "Intervistato dai colleghi de Il Corriere dello Sport, l'ex allenatore del Verona Paolo Zanetti ha parlato di Alphadjo Cissè, ragazzo che ha avuto quando allenava gli scaligeri e che si è messo in mostra domenica nella vittoria del M ..."
+      "summary": "Interviewed by colleagues from Il Corriere dello Sport, the former Verona coach Paolo Zanetti spoke about Alphadjo Cissè, a boy he had when he was coaching the Scala team and who showed off on Sunday in the victory of M ..."
     },
     {
       "id": "ee5edbb36a88",
@@ -87,7 +151,7 @@
       "url": "https://www.milannews.it/news/capello-amorim-idea-calcio-combina-milan-volta-627766",
       "source": "milannews.it",
       "date": "2026-08-25T08:24:45+00:00",
-      "summary": "Intervistato dai colleghi de La Gazzetta dello Sport, l'ex allenatore Fabio Capello ha parlato di Milan dopo il vincente (e convincente) esordio in campionato della formazione di Ruben Amorim: \"Si è presentato molto preparato e h ..."
+      "summary": "Interviewed by colleagues from La Gazzetta dello Sport, former coach Fabio Capello spoke about Milan after the winning (and convincing) debut in the championship of Ruben Amorim's team: \"He showed up very prepared and h ..."
     },
     {
       "id": "a86ff11612ff",
@@ -99,7 +163,7 @@
     },
     {
       "id": "ab9684868a9a",
-      "title": "Amorim, milanista prima ancora di allenarlo: identità, pressing e un debutto che accende il nuovo Milan",
+      "title": "Amorim, a Milan supporter even before coaching him: identity, pressing and a debut that lights up the new Milan",
       "url": "https://www.milannews.it/primo-piano/amorim-milanista-allenarlo-identita-pressing-debutto-accende-milan-627769",
       "source": "milannews.it",
       "date": "2026-08-25T08:00:00+00:00",
@@ -131,7 +195,7 @@
     },
     {
       "id": "2f6671202dba",
-      "title": "Nkunku ha terminato una prima parte di visite con il Lipsia: presto la firma sul contratto",
+      "title": "Nkunku has completed the first part of his visits with Leipzig: the contract will soon be signed",
       "url": "https://www.milannews.it/calciomercato-milan/nkunku-terminato-visite-lipsia-presto-firma-contratto-627765",
       "source": "milannews.it",
       "date": "2026-08-25T07:25:25+00:00",
@@ -144,62 +208,6 @@
       "source": "milannews.it",
       "date": "2026-08-25T07:12:18+00:00",
       "summary": "Vive in centro, è direttamente coinvolto negli allenamenti insieme ai suoi giocatori e vuole integrarsi alla perfezione nella cultura del club che ha sempre seguito e tifato fin da quando era bambino."
-    },
-    {
-      "id": "9ec83cb70337",
-      "title": "I movimenti in uscita. Tuttosport: \"Nkunku se ne va. L'Aston Villa su Rafa e Tomori\"",
-      "url": "https://www.milannews.it/rassegna-stampa/movimenti-uscita-tuttosport-nkunku-va-aston-villa-rafa-tomori-627760",
-      "source": "milannews.it",
-      "date": "2026-08-25T07:00:12+00:00",
-      "summary": "Arrivati a questo punto il discorso è molto semplice: possiamo aspettarci un colpo (o più colpi) dal Milan in questo finale di calciomercato solo nel momento in cui venissero piazzati gli esuberi della formazione di Ruben Amorim."
-    },
-    {
-      "id": "20f03d839d10",
-      "title": "Le uscite del Milan. Il CorSport: \"Nkunku va, Gimenez vede il Porto\"",
-      "url": "https://www.milannews.it/rassegna-stampa/uscite-milan-corsport-nkunku-va-gimenez-vede-porto-627759",
-      "source": "milannews.it",
-      "date": "2026-08-25T06:48:38+00:00",
-      "summary": "Rafael Leao non è l'unica (delicata) uscita alla quale starebbe lavorando in Milan in questa ultima settimana di calciomercato."
-    },
-    {
-      "id": "163c6433f72e",
-      "title": "Leao verso l'addio. La Gazzetta: \"Spunta l'Aston Villa, servono 50 milioni. Rafa vede la Premier\"",
-      "url": "https://www.milannews.it/rassegna-stampa/leao-addio-gazzetta-spunta-aston-villa-servono-50-milioni-rafa-vede-premier-627757",
-      "source": "milannews.it",
-      "date": "2026-08-25T06:36:04+00:00",
-      "summary": "Alla fine potrebbe essere proprio la Premier League la destinazione finale di Rafael Leao."
-    },
-    {
-      "id": "a48cc22ac3c2",
-      "title": "Amorim ci ha visto lungo. Tuttosport: \"Milan, il fattore Alpha mette all'angolo Leao\"",
-      "url": "https://www.milannews.it/rassegna-stampa/amorim-lungo-tuttosport-milan-fattore-alpha-mette-angolo-leao-627756",
-      "source": "milannews.it",
-      "date": "2026-08-25T06:24:07+00:00",
-      "summary": "Con quel \"I love Cissè\" durante la conferenza stampa di presentazione della sfida di domenica contro il Torino, Ruben Amorim ci aveva visto lungo, anche perché il giovane trequartista italiano l'ha ripagato con una prestaz ..."
-    },
-    {
-      "id": "62d78025fe1b",
-      "title": "Si è preso il Milan. Il CorSport: \"Cissè, il principe azzurro\"",
-      "url": "https://www.milannews.it/rassegna-stampa/preso-milan-corsport-cisse-principe-azzurro-627755",
-      "source": "milannews.it",
-      "date": "2026-08-25T06:12:00+00:00",
-      "summary": "È incredibile come la vita possa ribaltarsi da un momento all'altro senza avvisare."
-    },
-    {
-      "id": "55ccbff03de5",
-      "title": "Leao, adesso è un duello Aston Villa-Galatasaray: Premier o maxi-ingaggio turco per il futuro del 10",
-      "url": "https://www.milannews.it/primo-piano/leao-duello-aston-villa-galatasaray-premier-maxi-ingaggio-turco-10-627754",
-      "source": "milannews.it",
-      "date": "2026-08-25T06:00:00+00:00",
-      "summary": "L'ultima settimana di mercato può essere decisiva per il futuro di Rafael Leao."
-    },
-    {
-      "id": "bfa0ab459f31",
-      "title": "Calciomercato Milan: acquisti, cessioni ed obiettivi. Il borsino del 25 agosto",
-      "url": "https://www.milannews.it/calciomercato-milan/calciomercato-milan-acquisti-cessioni-obiettivi-borsino-25-agosto-627740",
-      "source": "milannews.it",
-      "date": "2026-08-25T05:48:00+00:00",
-      "summary": "Si riporta di seguito il borsino completo del calciomercato del Milan, per la sessione estiva 2026, con gli acquisti e cessioni ufficiali del club rossonero e della seconda squadra Milan Futuro:\n\nACQUISTI MILAN\n\nAndrej Kostic (attaccante, Pa ..."
     },
     {
       "id": "957bde90b897",
@@ -368,14 +376,6 @@
       "source": "sempremilan.com",
       "date": "2026-08-24T11:00:00+00:00",
       "summary": "Torino head coach Ignazio Abate believes that AC Milan will battle for the Scudetto this season, based on Sunday’s contest. When the 2026-27 Serie A fixture list came out, Abate’s heart must have skipped a beat as it pitted his Torino side against Milan, a club where he has a lot of history and many"
-    },
-    {
-      "id": "0d3631fee36b",
-      "title": "Game-changers and disappointments: Player ratings for Torino-Milan from Italian papers",
-      "url": "https://sempremilan.com/paper-ratings-torino-1-2-milan-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-08-24T10:30:00+00:00",
-      "summary": "AC Milan began their season in the best possible way as they recorded a win over Torino in the first match of the campaign. After a goalless first half it was Alphadjo Cisse and Adrien Rabiot who struck twice in quick succession just after the hour mark to put Milan into a good position. Che […]\nThe"
     },
     {
       "id": "e26d9e224006",
