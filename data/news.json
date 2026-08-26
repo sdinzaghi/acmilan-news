@@ -1,13 +1,61 @@
 {
-  "lastUpdated": "2026-08-26T08:39:17.797331+00:00",
+  "lastUpdated": "2026-08-26T09:37:39.265621+00:00",
   "articles": [
+    {
+      "id": "7395b7f9ecaa",
+      "title": "Romano: Exit ‘possible’ for Milan-linked Inacio – Barcelona out of the running",
+      "url": "https://sempremilan.com/exit-possible-inacio-sporting-barcelona-out",
+      "source": "sempremilan.com",
+      "date": "2026-08-26T09:30:00+00:00",
+      "summary": "Fabrizio Romano has confirmed Goncalo Inacio could still leave Sporting CP this summer, amid strong links with AC Milan. Even after Milan secured the signing of Mario Gila from Lazio for €30m including bonuses, there was talk that the management wanted another central defender, ideally one who could"
+    },
+    {
+      "id": "bd47aeab8265",
+      "title": "Adani ricorda: \"Rabiot aveva fatto il trequartista con De Zerbi: sa ricoprire quel ruolo\"",
+      "url": "https://www.milannews.it/news/adani-ricorda-rabiot-trequartista-de-zerbi-sa-ricoprire-ruolo-627877",
+      "source": "milannews.it",
+      "date": "2026-08-26T09:24:32+00:00",
+      "summary": "Lele Adani, opinionista, si è così espresso a La Domenica Sportiva su Rai2 sulla nuova posizione di Adrien Rabiot nel Milan di Amorim: “La posizione di trequartista l’aveva già provata in passato, proprio nello stesso ..."
+    },
+    {
+      "id": "391cdb7bb077",
+      "title": "Il Giornale: \"Milan, Juve & C.: sei giorni per candidarsi ad anti Inter\"",
+      "url": "https://www.milannews.it/news/giornale-milan-juve-c-candidarsi-anti-inter-627889",
+      "source": "milannews.it",
+      "date": "2026-08-26T09:12:50+00:00",
+      "summary": "L'edizione odierna de Il Giornale titola così stamattina: \"Milan, Juve & C.: sei giorni per candidarsi ad anti Inter\"."
+    },
+    {
+      "id": "1cad75d05b08",
+      "title": "Mercato Milan, Repubblica titola: \"Leao piace in Premier, ma vuole la Turchia\"",
+      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-repubblica-titola-leao-piace-premier-vuole-turchia-627888",
+      "source": "milannews.it",
+      "date": "2026-08-26T09:00:44+00:00",
+      "summary": "In merito al mercato del Milan, l'edizione odierna di Repubblica titola così stamattina: \"Leao piace in Premier, ma vuole la Turchia\"."
+    },
+    {
+      "id": "60e8a419625c",
+      "title": "“How much trust they have” – Nkunku sheds light on Leipzig return after Milan nightmare",
+      "url": "https://sempremilan.com/nkunku-reacts-leipzig-return-milan-nightmare",
+      "source": "sempremilan.com",
+      "date": "2026-08-26T09:00:00+00:00",
+      "summary": "Christopher Nkunku has admitted that he always wanted to return to RB Leipzig once he heard that they were interested. It has been a strange 12 months for Nkunku, who was a big-money signing for Milan last summer and scored seven league goals for the Rossoneri, but never really found consistency. Ru"
+    },
+    {
+      "id": "faf9ed8dbcbd",
+      "title": "Buona la prima del Milan in campionato. Stramaccioni: \"Mi sono piaciute due cose su tutte\"",
+      "url": "https://www.milannews.it/news/buona-milan-campionato-stramaccioni-mi-piaciute-cose-tutte-627887",
+      "source": "milannews.it",
+      "date": "2026-08-26T08:46:48+00:00",
+      "summary": "Intervistato dalla Gazzetta dello Sport, Andrea Stramaccioni ha commentato anche l'esordio vincente in campionato del Milan che ha battuto 2-1 in trasferta il Torino grazie alle reti nel secondo tempo di Alphadjo Cissé e Adrien Rabiot."
+    },
     {
       "id": "8a65ccc83ab9",
       "title": "Mercato Milan: il Milan sta riflettendo se tentare l’assalto a Gonçalo Inacio",
       "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-milan-riflettendo-tentare-l-assalto-goncalo-inacio-627879",
       "source": "milannews.it",
       "date": "2026-08-26T08:34:54+00:00",
-      "summary": "In recent days there has been talk above all of a new reinforcement for the attacking midfield, but Milan are also carefully evaluating a possible new arrival in defense after a drop in tension was noticed in the match against Torino just & ..."
+      "summary": "Negli ultimi giorni si parla soprattutto di un nuovo rinforzo per la trequarti, ma il Milan sta valutando con attenzione anche un possibile nuovo arrivo in difesa dopo che nella partita contro il Torino si è notato un calo di tensione appena & ..."
     },
     {
       "id": "fce044b0472e",
@@ -19,7 +67,7 @@
     },
     {
       "id": "fc215a4a7b9f",
-      "title": "Milan, Pulisic towards his debut on Friday against Venezia",
+      "title": "Milan, Pulisic verso il debutto venerdì contro il Venezia",
       "url": "https://www.milannews.it/news/milan-pulisic-debutto-venerdi-venezia-627868",
       "source": "milannews.it",
       "date": "2026-08-26T08:22:02+00:00",
@@ -35,7 +83,7 @@
     },
     {
       "id": "7f3286a8239d",
-      "title": "MN - Towards Milan-Venice: Amorim's press conference at Milanello tomorrow at 1.30pm",
+      "title": "MN - Verso Milan-Venezia: domani alle 13.30 la conferenza stampa di Amorim a Milanello",
       "url": "https://www.milannews.it/news/mn-milan-venezia-domani-13-30-conferenza-stampa-amorim-milanello-627870",
       "source": "milannews.it",
       "date": "2026-08-26T08:10:03+00:00",
@@ -59,11 +107,11 @@
     },
     {
       "id": "9883ba3916e6",
-      "title": "Milan, Tomori would have no problem staying with the Rossoneri if a team he likes doesn't arrive",
+      "title": "Milan, Tomori non avrebbe problemi a rimanere in rossonero se non arrivasse una squadra a lui gradita",
       "url": "https://www.milannews.it/rassegna-stampa/milan-tomori-problemi-rimanere-rossonero-arrivasse-squadra-gradita-627875",
       "source": "milannews.it",
       "date": "2026-08-26T07:47:59+00:00",
-      "summary": "After David Odogu and Christopher Nkunku, Milan hopes to place the other two players cut by Ruben Amorim, namely Fikayo Tomori and Youssouf Fofana, in the last days of the summer transfer window."
+      "summary": "Dopo David Odogu e Christopher Nkunku, il Milan spera di piazzare negli ultimi giorni del mercato estivo anche gli altri due giocatori tagliati da Ruben Amorim, cioè Fikayo Tomori e Youssouf Fofana."
     },
     {
       "id": "f2015c1cdc7c",
@@ -75,11 +123,11 @@
     },
     {
       "id": "d1993f942374",
-      "title": "Nkunku stings Milan: \"I'm in excellent shape and I want to help the team, they have faith in me here\"",
+      "title": "Nkunku punge il Milan: “Sono in ottima forma e voglio aiutare la squadra, qui hanno fiducia in me”",
       "url": "https://www.milannews.it/news/nkunku-punge-milan-sono-ottima-forma-voglio-aiutare-squadra-fiducia-me-627839",
       "source": "milannews.it",
       "date": "2026-08-26T07:24:00+00:00",
-      "summary": "Christopher Nkunku, who joined Leipzig on loan set at 4 million with the right to buy at 28 million, commented on his return to the red and white jersey in this way."
+      "summary": "Christopher Nkunku, passato in prestito fissato a 4 milioni con diritto di riscatto a 28 al Lipsia, ha commentato così il suo ritorno in maglia bianco-rossa."
     },
     {
       "id": "c92798023a01",
@@ -87,11 +135,11 @@
       "url": "https://www.milannews.it/rassegna-stampa/milan-leao-offerte-aston-villa-tottnham-fredde-gala-avvicina-50-chiedono-rossoneri-627861",
       "source": "milannews.it",
       "date": "2026-08-26T07:11:28+00:00",
-      "summary": "Milan is working to place several players in these last few days of the transfer market, but the most intricate, thorny and complicated case is undoubtedly the one involving Rafael Leao who at the beginning of the summer had declared that he wanted ..."
+      "summary": "Il Milan è al lavoro per piazzare diversi giocatori in questi ultimi giorni di mercato, ma il caso più intricato, spinoso e complicato è senza dubbio quello che riguarda Rafael Leao che ad inizio estate aveva dichiarato di voler  ..."
     },
     {
       "id": "6167fdf82c85",
-      "title": "Milan, Diego Moreira is eager: probable debut against Venezia",
+      "title": "Milan, Diego Moreira scalpita: probabile esordio contro il Venezia",
       "url": "https://www.milannews.it/rassegna-stampa/milan-diego-moreira-scalpita-probabile-esordio-venezia-627854",
       "source": "milannews.it",
       "date": "2026-08-26T06:59:22+00:00",
@@ -103,7 +151,7 @@
       "url": "https://www.milannews.it/news/romano-goncalo-inacio-lasciare-sporting-barcellona-627853",
       "source": "milannews.it",
       "date": "2026-08-26T06:48:21+00:00",
-      "summary": "Despite the words of the president of Sporting Lisbon who in recent days assured that Gonçalo Inacio is not leaving, the defender could change team in these last days of the transfer window."
+      "summary": "Nonostante le parole del presidente dello Sporting Lisbona che nei giorni scorsi ha assicurato che Gonçalo Inacio non è in uscita, il difensore potrebbe cambiare squadra in questi ultimi giorni di mercato."
     },
     {
       "id": "70c7b2d74729",
@@ -111,7 +159,7 @@
       "url": "https://www.milannews.it/rassegna-stampa/mercato-milan-tuttosport-corsa-leao-accelera-627852",
       "source": "milannews.it",
       "date": "2026-08-26T06:36:25+00:00",
-      "summary": "\"Three-way race for Leao."
+      "summary": "\"Corsa a tre per Leao."
     },
     {
       "id": "2f86e9d57423",
@@ -123,27 +171,27 @@
     },
     {
       "id": "4980a2d3dc32",
-      "title": "CorSport opens: \"Leao, sprint Aston Villa\"",
+      "title": "Il CorSport in apertura: \"Leao, sprint Aston Villa\"",
       "url": "https://www.milannews.it/rassegna-stampa/corsport-apertura-leao-sprint-aston-villa-627850",
       "source": "milannews.it",
       "date": "2026-08-26T06:12:10+00:00",
-      "summary": "Today's edition of Corriere dello Sport headlines this morning on the front page: \"Leao, sprint Aston Villa\"."
+      "summary": "L'edizione odierna del Corriere dello Sport titola così stamattina in prima pagina: \"Leao, sprint Aston Villa\"."
     },
     {
       "id": "b3a8b8e4d769",
-      "title": "Rebus Leao: the Premier League remains cold, Galatasaray remains in the running but must raise its offers to Milan and the player",
+      "title": "Rebus Leao: la Premier resta fredda, resta in corsa il Galatasaray ma deve alzare le sue offerte a Milan e giocatore",
       "url": "https://www.milannews.it/primo-piano/rebus-leao-premier-resta-fredda-resta-corsa-galatasaray-alzare-offerte-milan-giocatore-627849",
       "source": "milannews.it",
       "date": "2026-08-26T06:00:00+00:00",
-      "summary": "The question that all Milan fans have been asking themselves in recent months is always the same: what will be Rafael Leao's future? There is less and less left until the summer transfer window closes and for the moment the Portuguese is still a r..."
+      "summary": "La domanda che si fanno tutti i tifosi del Milan negli ultimi mesi è sempre la stessa: quale sarà il futuro di Rafael Leao? Manca sempre meno alla chiusura del mercato estivo e per il momento il portoghese è ancora un giocatore r ..."
     },
     {
       "id": "c424254e5c19",
-      "title": "Milan transfer market: signings, sales and objectives. The stock market of August 26th",
+      "title": "Calciomercato Milan: acquisti, cessioni ed obiettivi. Il borsino del 26 agosto",
       "url": "https://www.milannews.it/news/calciomercato-milan-acquisti-cessioni-obiettivi-borsino-26-agosto-627835",
       "source": "milannews.it",
       "date": "2026-08-26T05:48:00+00:00",
-      "summary": "Below is the complete purse of the AC Milan transfer market, for the 2026 summer session, with the official purchases and sales of the Rossoneri club and the second team Milan Futuro:\n\nMILAN PURCHASES\n\nAndrej Kostic (forward, Pa ..."
+      "summary": "Si riporta di seguito il borsino completo del calciomercato del Milan, per la sessione estiva 2026, con gli acquisti e cessioni ufficiali del club rossonero e della seconda squadra Milan Futuro:\n\nACQUISTI MILAN\n\nAndrej Kostic (attaccante, Pa ..."
     },
     {
       "id": "044c26c54baf",
@@ -151,39 +199,7 @@
       "url": "https://www.milannews.it/news/europa-league-affrontera-milan-campionato-partite-coppa-calendario-completo-627841",
       "source": "milannews.it",
       "date": "2026-08-26T05:36:00+00:00",
-      "summary": "Europa League, all the info on the preliminaries, dates and format of the 2026/2027 competition."
-    },
-    {
-      "id": "b946d2d4ea47",
-      "title": "Europa League, the draw for the championship phase on Friday: the regulations",
-      "url": "https://www.milannews.it/news/europa-league-venerdi-sorteggio-fase-campionato-regolamento-627840",
-      "source": "milannews.it",
-      "date": "2026-08-26T05:24:00+00:00",
-      "summary": "The official UEFA website reports how the draw for the championship phase of the 2026-2027 Europa League will work, a competition in which Ruben Amorim's Milan will also participate: \n\nHow does the championship phase of the ..."
-    },
-    {
-      "id": "d09606b308d9",
-      "title": "Venerdi sera riparte la Serie A: date, orari e guida tv della seconda giornata",
-      "url": "https://www.milannews.it/news/venerdi-sera-riparte-serie-a-date-orari-guida-tv-seconda-giornata-627836",
-      "source": "milannews.it",
-      "date": "2026-08-26T05:12:00+00:00",
-      "summary": "Terminata la prima giornata di Serie A, di seguito tutte le partite con orari e guida tv. \n\nSERIE A, SECONDA GIORNATA: TUTTE LE INFO\n\nMilan-Venezia venerdì 28 agosto ore 20."
-    },
-    {
-      "id": "6e247ecb3d72",
-      "title": "Two days until the seasonal debut at San Siro, all the info on Milan-Venice: we're heading for a full house",
-      "url": "https://www.milannews.it/news/all-esordio-stagionale-san-siro-info-milan-venezia-esaurito-627834",
-      "source": "milannews.it",
-      "date": "2026-08-26T05:00:00+00:00",
-      "summary": "After the Rossoneri's beautiful victory over Ignazio Abate's Torino, on the second day it will be Amorim and his team's turn to open the ball."
-    },
-    {
-      "id": "8b14661d8f66",
-      "title": "Serie A Women's Cup, sabato Milan-Como 1907: biglietti in vendita",
-      "url": "https://www.milannews.it/milan-femminile/serie-women-s-cup-sabato-milan-como-1907-biglietti-vendita-627811",
-      "source": "milannews.it",
-      "date": "2026-08-25T22:48:04+00:00",
-      "summary": "The official AC Milan website reports all the information on the sale of tickets for the AC Milan Women's next match against Como 1907 in the second day of Group C of the Serie A Women's Cup: \"New match\" the ..."
+      "summary": "Europa League, tutte le info su preliminari, date e format della competizione 2026/2027."
     },
     {
       "id": "ea36ea606c56",
@@ -408,22 +424,6 @@
       "source": "football-italia.net",
       "date": "2026-08-25T10:00:12+00:00",
       "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "5f0e9d2d5c82",
-      "title": "Milan Primavera 3-2 Torino: Dotta scores late winner for 10-man Rossoneri",
-      "url": "https://sempremilan.com/milan-primavera-3-2-torino-match-report-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-08-25T10:00:00+00:00",
-      "summary": "It has been a good couple of days for AC Milan against Torino, as the Primavera won their season-opener on Monday night. The Primavera kicked off their 2026-27 league campaign with three points in a thrilling game at the PUMA House of Football, winning it right at the end after the first team had al"
-    },
-    {
-      "id": "5dc8bf5e483a",
-      "title": "CM: Amorim still wants a new playmaker – the list of targets in the final week",
-      "url": "https://sempremilan.com/amorim-new-playmaker-list-targets",
-      "source": "sempremilan.com",
-      "date": "2026-08-25T09:30:00+00:00",
-      "summary": "AC Milan are looking to try and sign another attacking midfielder in the final part of the window, and there is still a long list of potential names. The win in their league opener away against Torino means that there is a positive mood surrounding Milan. However, head coach Ruben Amorim has request"
     },
     {
       "id": "223b8002abca",
