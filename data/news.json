@@ -1,13 +1,101 @@
 {
-  "lastUpdated": "2026-08-26T11:26:34.728887+00:00",
+  "lastUpdated": "2026-08-26T12:45:57.108130+00:00",
   "articles": [
+    {
+      "id": "e8a1ec210021",
+      "title": "Hapoel Beer Sheva, Nec e Celtic perdono i playoff di Champions e vanno in Europa League",
+      "url": "https://www.milannews.it/news/champions-sabah-bodo-lask-qualificano-fase-campionato-627855",
+      "source": "milannews.it",
+      "date": "2026-08-26T12:36:44+00:00",
+      "summary": "(ANSA) - ROMA, 25 AGO - Sabah Baku, Bodo Glimt e Lask si qualificano per la prossima edizione della Champions League battendo rispettivamente Hapoel Beer Sheva, Nijmegen e Celtic nei preliminari validi per l'accesso alla fase campionato della mas ..."
+    },
+    {
+      "id": "4ea847be97de",
+      "title": "CorSport: Moreira eager to make Milan debut – what filters on his role and minutes vs. Venezia",
+      "url": "https://sempremilan.com/moreira-milan-debut-role-minutes-venezia",
+      "source": "sempremilan.com",
+      "date": "2026-08-26T12:30:00+00:00",
+      "summary": "Diego Moreira watched AC Milan’s first game of the season from the bench, but should get himself involved on Friday. This morning’s edition of Corriere dello Sport (via MilanPress) recall that Moreira had only signed and trained a couple of days prior, but the fact he was named in the squad for the "
+    },
+    {
+      "id": "dbbec334f615",
+      "title": "L'interista Berti: \"Il Milan mi sta un po’ sul c***o, ma è una squadra interessante\"",
+      "url": "https://www.milannews.it/news/berti-milan-mi-po-c-squadra-interessante-627808",
+      "source": "milannews.it",
+      "date": "2026-08-26T12:24:46+00:00",
+      "summary": "Nicola Berti, ex giocatore dell'Inter, ha rilasciato un'intervista alla Gazzetta dello Sport nella quale non ha parlato dei nerazzurri, ma anche del nuovo Milan di Ruben Amorim: \"Il Milan, che mi sta un po’ sul c."
+    },
+    {
+      "id": "1656d9f09505",
+      "title": "Albanese: \"Koopmeiners' move to Milan is a suggestion, we'll see in the next few days\"",
+      "url": "https://www.milannews.it/calciomercato-milan/albanese-quella-koopmeiners-milan-suggestione-vedremo-prossimi-giorni-627867",
+      "source": "milannews.it",
+      "date": "2026-08-26T12:12:54+00:00",
+      "summary": "Giovanni Albanese, giornalista al seguito della Juventus per La Gazzetta dello Sport, si è così espresso a MilanVibes sul calciomercato: \"I dirigenti di Milan e Juventus si sono incontrati su diversi scenari."
+    },
+    {
+      "id": "f24df15ab86f",
+      "title": "Raimondi: \"Ecco la nuova offerta del Galatasaray al Milan per Leao\"",
+      "url": "https://www.milannews.it/calciomercato-milan/raimondi-ecco-nuova-offerta-galatasaray-milan-leao-627897",
+      "source": "milannews.it",
+      "date": "2026-08-26T12:00:02+00:00",
+      "summary": "Secondo quanto riferisce Claudio Raimondi a SportMediaset su Italia Uno, l'Aston Villa, accostato a Rafael Leao nelle ultime ore, è più orientata su altri profili che sono più prime punte che attaccanti esterni come il portog ..."
+    },
+    {
+      "id": "c11f50093783",
+      "title": "GdS: Celtic, Beer Sheva and NEC drop into Europa League – the teams for Milan to look out for",
+      "url": "https://sempremilan.com/teams-milan-look-out-europa-league",
+      "source": "sempremilan.com",
+      "date": "2026-08-26T12:00:00+00:00",
+      "summary": "In two days, AC Milan will find out their opponents for the league phase of the UEFA Europa League, along with 35 other teams. As La Gazzetta dello Sport write, Milan and Juventus are in Pot 1. This is one of the certainties we already have ahead of Friday’s draw for the Europa League domestic […]\nT"
+    },
+    {
+      "id": "d1dcd2b75b45",
+      "title": "Leao returns to Milan training but remains up for sale in final week of transfer window",
+      "url": "https://football-italia.net/leao-returns-milan-training-still-up-for-sale/",
+      "source": "football-italia.net",
+      "date": "2026-08-26T11:54:59+00:00",
+      "summary": "Rafael Leao is back in training with Milan after missing almost the last two weeks,..."
+    },
+    {
+      "id": "29a2387dac1f",
+      "title": "MN - Milan, Leao in gruppo. Duello Galatasaray-Aston Villa: Mendes torna a spingere. I turchi arrivano a 42 mln",
+      "url": "https://www.milannews.it/primo-piano/mn-milan-leao-gruppo-duello-galatasaray-aston-villa-mendes-stamattina-tornato-spingere-rafa-premier-627896",
+      "source": "milannews.it",
+      "date": "2026-08-26T11:48:47+00:00",
+      "summary": "Da Milanello arriva una novità importante: Rafael Leao è infatti rientrato in gruppo."
+    },
+    {
+      "id": "f2f40c0a8f30",
+      "title": "Il ds del Lipsia ha affermato che Nkunku, nonostante le offerte di tanti top club, ha voluto tornare in Germania",
+      "url": "https://www.milannews.it/calciomercato-milan/schafer-ds-lipsia-entusiasta-nkunku-talento-eccezionale-differenza-top-club-voluto-tornare-noi-627838",
+      "source": "milannews.it",
+      "date": "2026-08-26T11:36:22+00:00",
+      "summary": "Christopher Nkunku, attaccante rossonero, è passato ufficialmente in prestito per 4 milioni con diritto fissato a 28 al Lipsia."
+    },
+    {
+      "id": "41597cefed6d",
+      "title": "Di Marzio: Cardinale and Amorim ‘very interested’ in Swiss playmaker – the latest",
+      "url": "https://sempremilan.com/cardinale-amorim-very-interested-alvyn-sanches",
+      "source": "sempremilan.com",
+      "date": "2026-08-26T11:30:00+00:00",
+      "summary": "AC Milan are interested in signing Young Boys star Alvyn Sanches, but there are currently no negotiations underway. Milan have done business with Young Boys in the recent past, having signed Zachary Athekame from them last summer. On Tuesday, reports from Sky emerged suggesting that Sanches is the l"
+    },
+    {
+      "id": "96d77d6a58ee",
+      "title": "Sabatini critica Amorim: \"Inventarsi la formazione iniziale del Milan significa farsi del male da solo\"",
+      "url": "https://www.milannews.it/news/sabatini-critica-amorim-formazione-torino-milan-627829",
+      "source": "milannews.it",
+      "date": "2026-08-26T11:24:42+00:00",
+      "summary": "Nel suo canale YouTube, Sandro Sabatini ha commentato la vittoria dei rossoneri ai danni del Torino per 2-1. Queste le sue parole."
+    },
     {
       "id": "b7f4ff6bc958",
       "title": "Gozzini: \"La permanenza di Leao al Milan rischierebbe di compromettere gli equilibri del gruppo\"",
       "url": "https://www.milannews.it/calciomercato-milan/gozzini-la-permanenza-leao-milan-rischierebbe-compromettere-equilibri-gruppo-627862",
       "source": "milannews.it",
       "date": "2026-08-26T11:12:00+00:00",
-      "summary": "Alessandra Gozzini, giornalista, si è così espressa su La Gazzetta dello Sport sul futuro di Rafael Leao, attaccante del Milan: \"Gli ultimi giorni di mercato sono sempre i più intensi e ricchi di movimenti per cui la possibi ..."
+      "summary": "Alessandra Gozzini, journalist, expressed herself as follows in La Gazzetta dello Sport on the future of Rafael Leao, Milan striker: \"The last days of the transfer market are always the most intense and full of movements so the possibility ..."
     },
     {
       "id": "8346b6443634",
@@ -31,11 +119,11 @@
       "url": "https://www.milannews.it/news/longhi-a-torino-viste-premesse-milan-campionato-627880",
       "source": "milannews.it",
       "date": "2026-08-26T10:49:23+00:00",
-      "summary": "Bruno Longhi, giornalista, si è così espresso a RadioSportiva sulla prestazione del Milan di Ruben Amorim contro il Torino: \"Il Milan è stato un buon Milan ed è stato un vero Milan quando ha effettuato i cambi."
+      "summary": "Bruno Longhi, journalist, expressed himself to RadioSportiva on Ruben Amorim's Milan's performance against Torino: \"Milan were a good Milan and they were a true Milan when they made the substitutions."
     },
     {
       "id": "3bed60206f2b",
-      "title": "Moretto: \"Leao tra Galatasaray e Aston Villa: la situazione. Nuovi contatti Milan-Porto per Gimenez\"",
+      "title": "Moretto: \"Leao between Galatasaray and Aston Villa: the situation. New AC Milan-Porto contacts for Gimenez\"",
       "url": "https://www.milannews.it/calciomercato-milan/moretto-leao-galatasaray-aston-villa-situazione-contatti-milan-porto-gimenez-627894",
       "source": "milannews.it",
       "date": "2026-08-26T10:37:51+00:00",
@@ -51,7 +139,7 @@
     },
     {
       "id": "3bfdc0c4a8ca",
-      "title": "Milan-Venezia: arbitra Manganiello, al VAR Camplone e Pezzuto",
+      "title": "Milan-Venice: Manganiello referee, Camplone and Pezzuto at VAR",
       "url": "https://www.milannews.it/l-arbitro/milan-venezia-arbitra-manganiello-var-camplone-pezzuto-627893",
       "source": "milannews.it",
       "date": "2026-08-26T10:25:44+00:00",
@@ -59,15 +147,15 @@
     },
     {
       "id": "f12c9a3275e0",
-      "title": "Milan, altro no di Leao: secondo Il Giornale Rafa ha rifiutato anche l'Aston Villa dopo Al-Hilal e Newcastle",
+      "title": "Milan, another no from Leao: according to Il Giornale Rafa also rejected Aston Villa after Al-Hilal and Newcastle",
       "url": "https://www.milannews.it/calciomercato-milan/milan-leao-giornale-rafa-rifiutato-aston-villa-al-hilal-newcastle-627891",
       "source": "milannews.it",
       "date": "2026-08-26T10:13:57+00:00",
-      "summary": "Dopo aver detto no all'Al Hilal e al Newcastle, Rafael Leao, che non è ufficialmente un esubero come Tomori, Fofana e Gimenez ma è comunque stato messo sul mercato dal Milan, avrebbe declinato anche la corte dell'Aston Villa."
+      "summary": "After saying no to Al Hilal and Newcastle, Rafael Leao, who is not officially redundant like Tomori, Fofana and Gimenez but was still put on the market by Milan, would also have declined the court of Aston Villa."
     },
     {
       "id": "9c00069a7138",
-      "title": "Questi prestiti può fare ancora il Milan dopo Nkunku al Lipsia? La situazione aggiornata",
+      "title": "Can Milan still make these loans after Nkunku at Leipzig? The updated situation",
       "url": "https://www.milannews.it/primo-piano/prestiti-milan-nkunku-lipsia-situazione-aggiornata-627892",
       "source": "milannews.it",
       "date": "2026-08-26T10:00:29+00:00",
@@ -83,11 +171,11 @@
     },
     {
       "id": "a3fc397ec5e2",
-      "title": "F. Galli: \"Il Milan di Amorim come quello di Sacchi? Gli interpreti ovviamente sono diversi, ma le intenzioni sono simili\"",
+      "title": "F. Galli: \"Amorim's Milan like Sacchi's? The interpreters are obviously different, but the intentions are similar\"",
       "url": "https://www.milannews.it/news/f-galli-il-milan-amorim-sacchi-interpreti-ovviamente-diversi-intenzioni-simili-627883",
       "source": "milannews.it",
       "date": "2026-08-26T09:48:11+00:00",
-      "summary": "Filippo Galli, ex calciatore e opinionista, si è così espresso a RadioSportiva sulla prestazione del MIlan di Amorim contro il Torino: \"Il Milan di Amorim come quello di Sacchi? Gli interpreti ovviamente sono diversi, ma le intenzi ..."
+      "summary": "Filippo Galli, former footballer and commentator, expressed himself to RadioSportiva on the performance of Amorim's AC Milan against Torino: \"Is Amorim's AC Milan like Sacchi's? The interpreters are obviously different, but the intentions ..."
     },
     {
       "id": "9fb268190756",
@@ -107,7 +195,7 @@
     },
     {
       "id": "bd47aeab8265",
-      "title": "Adani ricorda: \"Rabiot aveva fatto il trequartista con De Zerbi: sa ricoprire quel ruolo\"",
+      "title": "Adani recalls: \"Rabiot had been an attacking midfielder with De Zerbi: he knows how to play that role\"",
       "url": "https://www.milannews.it/news/adani-ricorda-rabiot-trequartista-de-zerbi-sa-ricoprire-ruolo-627877",
       "source": "milannews.it",
       "date": "2026-08-26T09:24:32+00:00",
@@ -151,15 +239,7 @@
       "url": "https://www.milannews.it/news/buona-milan-campionato-stramaccioni-mi-piaciute-cose-tutte-627887",
       "source": "milannews.it",
       "date": "2026-08-26T08:46:48+00:00",
-      "summary": "Intervistato dalla Gazzetta dello Sport, Andrea Stramaccioni ha commentato anche l'esordio vincente in campionato del Milan che ha battuto 2-1 in trasferta il Torino grazie alle reti nel secondo tempo di Alphadjo Cissé e Adrien Rabiot."
-    },
-    {
-      "id": "8a65ccc83ab9",
-      "title": "Mercato Milan: il Milan sta riflettendo se tentare l’assalto a Gonçalo Inacio",
-      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-milan-riflettendo-tentare-l-assalto-goncalo-inacio-627879",
-      "source": "milannews.it",
-      "date": "2026-08-26T08:34:54+00:00",
-      "summary": "Negli ultimi giorni si parla soprattutto di un nuovo rinforzo per la trequarti, ma il Milan sta valutando con attenzione anche un possibile nuovo arrivo in difesa dopo che nella partita contro il Torino si è notato un calo di tensione appena & ..."
+      "summary": "Interviewed by Gazzetta dello Sport, Andrea Stramaccioni also commented on Milan's winning debut in the championship, which beat Torino 2-1 away thanks to goals in the second half from Alphadjo Cissé and Adrien Rabiot."
     },
     {
       "id": "fce044b0472e",
@@ -170,14 +250,6 @@
       "summary": "Alphadjo Cisse stole the headlines with his first goal in his first competitive AC Milan game on Sunday, and his fairytale could continue. La Gazzetta dello Sport (seen below) recall that dazzling debut from Cisse, complete with a magnificent goal. It should be just the beginning of the journey for "
     },
     {
-      "id": "fc215a4a7b9f",
-      "title": "Milan, Pulisic verso il debutto venerdì contro il Venezia",
-      "url": "https://www.milannews.it/news/milan-pulisic-debutto-venerdi-venezia-627868",
-      "source": "milannews.it",
-      "date": "2026-08-26T08:22:02+00:00",
-      "summary": "Dopo essersi goduto dalla panchina il bel successo del Milan contro il Torino, ora Christian Pulisic vuole giocare i suoi primi minuti stagionali venerdì contro il Venezia a San Siro."
-    },
-    {
       "id": "4e408db93c92",
       "title": "Aston Villa pull out of Leao negotiations, Tottenham also unlikely",
       "url": "https://football-italia.net/aston-villa-pull-out-of-leao-negotiations/",
@@ -186,52 +258,12 @@
       "summary": "Reports in Italy claim that Aston Villa have decided against proceeding in negotiations for Milan..."
     },
     {
-      "id": "7f3286a8239d",
-      "title": "MN - Verso Milan-Venezia: domani alle 13.30 la conferenza stampa di Amorim a Milanello",
-      "url": "https://www.milannews.it/news/mn-milan-venezia-domani-13-30-conferenza-stampa-amorim-milanello-627870",
-      "source": "milannews.it",
-      "date": "2026-08-26T08:10:03+00:00",
-      "summary": "Dopo il successo all'esordio contro il Torino, il Milan è atteso venerdì dalla prima partita stagionale casalinga contro il Venezia."
-    },
-    {
-      "id": "1018ee949aec",
-      "title": "Milan, si complicano le uscite di Tomori e Fofana. Anche Gimenez-Porto non si sblocca: la situazione",
-      "url": "https://www.milannews.it/primo-piano/milan-complicano-uscite-tomori-fofana-gimenez-porto-sblocca-situazione-627881",
-      "source": "milannews.it",
-      "date": "2026-08-26T08:00:22+00:00",
-      "summary": "Oltre che provare a vendere Rafael Leao, il Milan è al lavoro in questi ultimi giorni di mercato anche piazzare gli esuberi."
-    },
-    {
       "id": "00e8eec3a5b5",
       "title": "Reports: Galatasaray ready to relaunch for Leao – second bid worth €50m ready",
       "url": "https://sempremilan.com/galatasaray-relaunch-leao-second-bid-50m",
       "source": "sempremilan.com",
       "date": "2026-08-26T08:00:00+00:00",
       "summary": "The Rafael Leao saga continues to rumble on, with the latest reports suggesting a new attempt from Galatasaray is coming. The rumours earlier in the week regarding Leao’s potential destination were mostly surrounding a move to the Premier League. The Athletic reported that Aston Villa had made a ten"
-    },
-    {
-      "id": "9883ba3916e6",
-      "title": "Milan, Tomori non avrebbe problemi a rimanere in rossonero se non arrivasse una squadra a lui gradita",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-tomori-problemi-rimanere-rossonero-arrivasse-squadra-gradita-627875",
-      "source": "milannews.it",
-      "date": "2026-08-26T07:47:59+00:00",
-      "summary": "Dopo David Odogu e Christopher Nkunku, il Milan spera di piazzare negli ultimi giorni del mercato estivo anche gli altri due giocatori tagliati da Ruben Amorim, cioè Fikayo Tomori e Youssouf Fofana."
-    },
-    {
-      "id": "f2015c1cdc7c",
-      "title": "QS: \"Leao studia da Premier. La punta del Milan tra Aston Villa, Tottenham e Newcastle\"",
-      "url": "https://www.milannews.it/rassegna-stampa/qs-leao-studia-premier-punta-milan-aston-villa-tottenham-newcastle-627865",
-      "source": "milannews.it",
-      "date": "2026-08-26T07:35:12+00:00",
-      "summary": "Il Quotidiano Sportivo in edicola oggi titola così: \"Leao studia da Premier. La punta del Milan tra Aston Villa, Tottenham e Newcastle\"."
-    },
-    {
-      "id": "d1993f942374",
-      "title": "Nkunku punge il Milan: “Sono in ottima forma e voglio aiutare la squadra, qui hanno fiducia in me”",
-      "url": "https://www.milannews.it/news/nkunku-punge-milan-sono-ottima-forma-voglio-aiutare-squadra-fiducia-me-627839",
-      "source": "milannews.it",
-      "date": "2026-08-26T07:24:00+00:00",
-      "summary": "Christopher Nkunku, passato in prestito fissato a 4 milioni con diritto di riscatto a 28 al Lipsia, ha commentato così il suo ritorno in maglia bianco-rossa."
     },
     {
       "id": "ea36ea606c56",
@@ -378,36 +410,12 @@
       "summary": "Milan have reportedly registered an interest in Jack Grealish, with the Manchester City forward’s future..."
     },
     {
-      "id": "86c60d1ada59",
-      "title": "Official: AC Milan announce FPG Fortune Prime Global as Premium Partner",
-      "url": "https://sempremilan.com/ac-milan-fortune-prime-global-premium-partner",
-      "source": "sempremilan.com",
-      "date": "2026-08-25T13:00:00+00:00",
-      "summary": "AC Milan have announced that a new Premium Partner has officially been welcomed: FPG Fortune Prime Global. A statement on the club’s official website confirms that Milan and FPG Fortune Prime Global have begun a new partnership, which will see the financial broker become the ‘Club’s Premium Partner "
-    },
-    {
       "id": "0e2eb9279a9a",
       "title": "Nkunku completes Leipzig medical as Milan exit nears",
       "url": "https://football-italia.net/nkunku-completes-leipzig-medical/",
       "source": "football-italia.net",
       "date": "2026-08-25T12:35:00+00:00",
       "summary": "Christopher Nkunku has completed his medical with Leipzig and is expected to sign on Tuesday,..."
-    },
-    {
-      "id": "eba7bb9289de",
-      "title": "Reports: Spurs now a possibility for Leao as Aston Villa baulk at Milan’s demands",
-      "url": "https://sempremilan.com/spurs-leao-aston-villa-baulk-demands",
-      "source": "sempremilan.com",
-      "date": "2026-08-25T12:30:00+00:00",
-      "summary": "The Rafael Leao soap opera keeps adding new episodes, and the latest one involves an approach from Tottenham. Earlier on Tuesday, reports claimed that Aston Villa had become the latest side to express an interest in signing Leao in the final few days of the window. The Athletic even spoke of an expl"
-    },
-    {
-      "id": "ddc4b01038d8",
-      "title": "Reports: Brighton emerge as contenders to sign Milan midfielder – the asking price",
-      "url": "https://sempremilan.com/brighton-contenders-milan-fofana-asking-price",
-      "source": "sempremilan.com",
-      "date": "2026-08-25T12:00:00+00:00",
-      "summary": "Youssouf Fofana is one of the players AC Milan hope can find a new home in the final part of the window, and there is interest from England. Fofana continues to train individually at Milanello, waiting for a final decision regarding his future. The French midfielder has been excluded from Ruben Amor"
     },
     {
       "id": "4f9bb50aa97e",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-08-24T14:00:15+00:00",
       "summary": "The first weekend of 2026-27 Serie A action is behind us and of the Italy..."
-    },
-    {
-      "id": "e26d9e224006",
-      "title": "Today’s Papers – Milan’s flashes, Spalletti slaps Kolo Muani",
-      "url": "https://football-italia.net/todays-papers-milan-flashes-spalletti-kolo/",
-      "source": "football-italia.net",
-      "date": "2026-08-24T07:38:50+00:00",
-      "summary": "La Gazzetta dello Sport Spalletti: ‘I want another No.9.’ Bremer scores, Juve win, but risk..."
     }
   ]
 }
