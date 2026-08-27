@@ -1,13 +1,277 @@
 {
-  "lastUpdated": "2026-08-27T13:46:03.199268+00:00",
+  "lastUpdated": "2026-08-27T23:35:11.962441+00:00",
   "articles": [
     {
-      "id": "0525e5e3825f",
-      "title": "Acquisitions? Amorim is still keeping everything open: \"I don't know what will happen between now and the end of the transfer window\"",
-      "url": "https://www.milannews.it/news/amorim-tiene-aperto-non-so-succedera-mercato-628004",
+      "id": "4fcc0c6ba4a2",
+      "title": "Amorim: \"Leao is very strong: with the right mentality he can play in any team in the world. Sometimes, however...\"",
+      "url": "https://www.milannews.it/news/amorim-leao-e-forte-giusta-mentalita-giocare-qualsiasi-squadra-mondo-volte-pero-628010",
       "source": "milannews.it",
-      "date": "2026-08-27T13:36:51+00:00",
-      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at the press conference to present the match against the lagoon players, valid for the second day of the Enilive 2026/27 Serie A championship."
+      "date": "2026-08-27T22:48:04+00:00",
+      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at a press conference to present the match against the lagoon players, valid for the second day of the 2026/27 Enilive Serie A championship."
+    },
+    {
+      "id": "77d6e3de169e",
+      "title": "MN - Bazzani on the Milan market: \"Priorities would be an attacker and a defender\"",
+      "url": "https://www.milannews.it/news/mn-bazzani-mercato-milan-priorita-attaccante-difensore-628042",
+      "source": "milannews.it",
+      "date": "2026-08-27T22:36:00+00:00",
+      "summary": "This is how the former Sampdoria striker, now a sports commentator for DAZN, Fabio Bazzani spoke to the microphones of MilanNews.it."
+    },
+    {
+      "id": "0667f3e2a0de",
+      "title": "Several AC Milan players present among the candidates for the top 11 of the 2026 Gran Galà del Calcio",
+      "url": "https://www.milannews.it/news/lautaro-dimarco-nico-paz-pronto-gran-gala-calcio-627974",
+      "source": "milannews.it",
+      "date": "2026-08-27T22:24:00+00:00",
+      "summary": "(by Luca Guazzoni) (ANSA) - MILAN, AUGUST 26 - The Teatro alla Scala in Milan will host the AIC 2026 Football Grand Gala on 2 September, the event dedicated to the protagonists of the Italian football season."
+    },
+    {
+      "id": "389f97f98a7f",
+      "title": "Pasotto: \"The great afflicted by Allegri's farewell has shown that he can play football even without Max\"",
+      "url": "https://www.milannews.it/news/pasotto-il-afflitto-addio-allegri-dimostrato-poter-giocare-pallone-max-rabiot-627967",
+      "source": "milannews.it",
+      "date": "2026-08-27T22:12:00+00:00",
+      "summary": "Marco Pasotto, journalist, expressed himself as follows in La Gazzetta dello Sport on Adrien Rabiot, Milan's French midfielder: \"In three minutes of the clock the orphan, the disillusioned, the greatly afflicted by Massimilian's farewell..."
+    },
+    {
+      "id": "051ae9b43c2c",
+      "title": "Leao, a huge regret. The purchases are good (a couple are missing), but the redundancies are serious mistakes. Don't pressure Cisse",
+      "url": "https://www.milannews.it/editoriale/leao-enorme-rimpianto-acquisti-ne-mancano-paio-esuberi-errori-gravi-pressate-cisse-628035",
+      "source": "milannews.it",
+      "date": "2026-08-27T22:00:01+00:00",
+      "summary": "Former GR1 director Andrea Vianello criticized Milan fans: \"Instead of enjoying the beauty of his talent, you clogged up chats (and social media, I might add."
+    },
+    {
+      "id": "33f9a9485447",
+      "title": "Milan, tomorrow at San Siro an evening of great guests: the girls of the Rossoneri Women's Spring team will also be present",
+      "url": "https://www.milannews.it/news/milan-domani-san-siro-serata-grandi-ospiti-presenti-ragazze-primavera-femminile-rossonera-628041",
+      "source": "milannews.it",
+      "date": "2026-08-27T21:48:50+00:00",
+      "summary": "After the beautiful victory in Turin, Ruben Amorim's new Milan intends to continue their good momentum, albeit short in form in this new 2026/2027 season. In fact, for Milan, tomorrow evening at 8pm."
+    },
+    {
+      "id": "92f0564e61b9",
+      "title": "Ricci greets Milan: \"I felt good. I will continue to cheer for them\"",
+      "url": "https://www.milannews.it/calciomercato-milan/ricci-saluta-milan-mi-bene-continuero-tifo-loro-628050",
+      "source": "milannews.it",
+      "date": "2026-08-27T21:36:42+00:00",
+      "summary": "Intercepted by colleagues from Sportitalia outside the Hotel Melia, home of Milan's training camp ahead of the match scheduled for tomorrow against Venezia, the now former Rossoneri midfielder Samuele Ricci wanted to greet the fans, ..."
+    },
+    {
+      "id": "6b69693f9c89",
+      "title": "He was skeptical about Leao in the Premier League: \"I don't know how much he sees her in England\"",
+      "url": "https://www.milannews.it/news/condo-scettico-leao-premier-non-so-veda-inghilterra-628036",
+      "source": "milannews.it",
+      "date": "2026-08-27T21:24:28+00:00",
+      "summary": "Speaking in the Sky Sport 24 studios on the sidelines of the draws for the next edition of the Champions League, Paolo Condò had his say on the future of Rafael Leao, contested between Aston Villa and Galatasaray."
+    },
+    {
+      "id": "3daa64a58519",
+      "title": "Milan transfer market, a new name appears: Jean-Mattèo Bahoya, Frankfurt talent",
+      "url": "https://www.milannews.it/calciomercato-milan/calciomercato-milan-spunta-nome-jean-matteo-bahoya-talento-francoforte-628049",
+      "source": "milannews.it",
+      "date": "2026-08-27T21:22:00+00:00",
+      "summary": "The Milan market in this summer session takes on more and more particular nuances and new updates every day."
+    },
+    {
+      "id": "4d69b53fdfeb",
+      "title": "Milan triumphs at the 47th “Nereo Rocco” International Tournament: beating Pisa in the final in Florence",
+      "url": "https://www.milannews.it/settore-giovanile/milan-trionfa-47-torneo-internazionale-nereo-rocco-battuto-pisa-finalissima-firenze-628031",
+      "source": "milannews.it",
+      "date": "2026-08-27T21:12:11+00:00",
+      "summary": "It's the A.C."
+    },
+    {
+      "id": "2e99b65701da",
+      "title": "Milan transfer market, Di Marzio: \"Ricci's medical visits with Como tomorrow\"",
+      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-marzio-domani-visite-mediche-ricci-como-628048",
+      "source": "milannews.it",
+      "date": "2026-08-27T21:02:19+00:00",
+      "summary": "As confirmed in the last few hours, Samuele Ricci's adventure at Milan is currently over, with the Italian midfielder now virtually a Como player."
+    },
+    {
+      "id": "2ea37ea91e33",
+      "title": "Europa League qualifiers: Milan's possible opponents and the draw groups",
+      "url": "https://www.milannews.it/news/qualificate-europa-league-possibili-avversarie-milan-fasce-sorteggio-628047",
+      "source": "milannews.it",
+      "date": "2026-08-27T20:49:23+00:00",
+      "summary": "Below are the slots for the Europa League draws, scheduled for tomorrow at 1pm:\n\nFIRST BAND\n\nBayer Leverkusen\nBenfica\nJuventus\nMilan\nLyon\nAZ Alkmaar\nOlympiacos\nReal Sociedad\nMarseille \n\nSECOND BAND\n\nFer..."
+    },
+    {
+      "id": "6320ba1128b8",
+      "title": "Arsenal target Bahoya on Milan wish list if Rafael Leao sold for €50m",
+      "url": "https://football-italia.net/bahoya-on-milan-wish-list-if-rafael-leao-sold/",
+      "source": "football-italia.net",
+      "date": "2026-08-27T20:47:21+00:00",
+      "summary": "With Rafael Leao finally heading to either Galatasaray or Aston Villa, Milan are looking towards..."
+    },
+    {
+      "id": "870c0af8cc52",
+      "title": "Milan-Venice: Cardinale invites Milanello employees to watch the match in the stands",
+      "url": "https://www.milannews.it/news/milan-venezia-cardinale-invita-dipendenti-milanello-assistere-partita-tribuna-628040",
+      "source": "milannews.it",
+      "date": "2026-08-27T20:36:37+00:00",
+      "summary": "There's very little left until Ruben Amorim's new AC Milan make their debut at the San Siro. In fact, the Rossoneri are fresh off the beautiful and convincing victory on the Turin pitch on the first day of the 2026/2027 championship."
+    },
+    {
+      "id": "649096c619c6",
+      "title": "He didn't play against Milan, but will face them soon: Ilic leaves Turin and goes to Lecce",
+      "url": "https://www.milannews.it/news/ilic-saluta-toro-trasferisce-lecce-627857",
+      "source": "milannews.it",
+      "date": "2026-08-27T20:12:06+00:00",
+      "summary": "(ANSA) - TURIN, AUGUST 25 - Torino have found a place for Ivan Ilic, the midfielder will be a new player for Lecce."
+    },
+    {
+      "id": "f04d3f728bd0",
+      "title": "MN - Aston Villa ready to buy Leao: what has changed. Crucial tomorrow",
+      "url": "https://www.milannews.it/primo-piano/mn-l-aston-villa-pronto-leao-domani-giornata-cruciale-628046",
+      "source": "milannews.it",
+      "date": "2026-08-27T20:06:01+00:00",
+      "summary": "It was a long and intense day that involved Rafael Leao and his farewell to Milan."
+    },
+    {
+      "id": "474a247f7b70",
+      "title": "In two days there is Lazio-Milan and Lotito has made Gattuso the new starting striker",
+      "url": "https://www.milannews.it/news/lazio-ufficiale-arrivo-pinamonti-attaccante-numero-9-627977",
+      "source": "milannews.it",
+      "date": "2026-08-27T20:00:47+00:00",
+      "summary": "(ANSA) - ROME, AUGUST 27 - Andrea Pinamonti is officially a new Lazio player. After arriving in Formello yesterday for medical visits, the former Sassuolo player has in fact signed the contract that will bind him to the Biancocelesti colours."
+    },
+    {
+      "id": "8117c8164b2e",
+      "title": "MN - Chukwueze ransom? Bazzani: \"He is a player who has quality one-on-one, but to give a positive opinion he must wait a little longer\"",
+      "url": "https://www.milannews.it/news/mn-riscatto-chukwueze-bazzani-e-giocatore-qualita-nell-uno-uno-dare-giudizio-positivo-aspettato-anco-628000",
+      "source": "milannews.it",
+      "date": "2026-08-27T19:48:06+00:00",
+      "summary": "This is how the former Sampdoria striker, now a sports commentator for DAZN, Fabio Bazzani spoke to the microphones of MilanNews.it."
+    },
+    {
+      "id": "3806c6695d12",
+      "title": "PROBABLE LINEUP - Towards Milan-Venice: Amorim surprises. Is it like in Turin?",
+      "url": "https://www.milannews.it/news/probabile-formazione-milan-venezia-amorim-rabiot-modric-leao-pulisic-cisse-627951",
+      "source": "milannews.it",
+      "date": "2026-08-27T19:40:16+00:00",
+      "summary": "After the victory in the first match against Torino, Ruben Amorim's Milan will make their home debut tomorrow on the second day of the Serie A championship against Venezia: kick-off at 8.45pm at San Siro."
+    },
+    {
+      "id": "68c17c762547",
+      "title": "Towards Milan-Venice, San Siro responds presently: it will be sold out",
+      "url": "https://www.milannews.it/news/milan-venezia-san-siro-risponde-presente-sold-out-628039",
+      "source": "milannews.it",
+      "date": "2026-08-27T19:36:00+00:00",
+      "summary": "Ruben Amorim's new Milan is ready to make their home debut in front of their own fans."
+    },
+    {
+      "id": "d56dceac87b6",
+      "title": "Amorim warns everyone about Venezia: \"It's a team that did very well last year in Serie B\"",
+      "url": "https://www.milannews.it/news/amorim-mette-guardia-venezia-e-squadra-serie-b-627988",
+      "source": "milannews.it",
+      "date": "2026-08-27T19:23:04+00:00",
+      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at a press conference to present the match against the lagoon players, valid for the second day of the 2026/27 Enilive Serie A championship."
+    },
+    {
+      "id": "6f55497488ca",
+      "title": "Leao taking time for big decision between Aston Villa and Galatasaray",
+      "url": "https://football-italia.net/leao-big-decision-aston-villa-and-galatasaray/",
+      "source": "football-italia.net",
+      "date": "2026-08-27T18:43:34+00:00",
+      "summary": "Multiple sources warn Rafael Leao has not yet made a decision on his future, with..."
+    },
+    {
+      "id": "ba106ad32b86",
+      "title": "Como hope in Kean talks, but ‘stalling’ with Milan for Ricci",
+      "url": "https://football-italia.net/como-hope-for-kean-talks-stalling-ricci/",
+      "source": "football-italia.net",
+      "date": "2026-08-27T18:28:46+00:00",
+      "summary": "Como director Carlalberto Ludi admits advanced talks with Fiorentina for Moise Kean, but warns they..."
+    },
+    {
+      "id": "0aa42c0eec52",
+      "title": "Europa League draw 2026-27: How it will work and Milan’s possible opponents",
+      "url": "https://sempremilan.com/europa-league-draw-2026-27-date-time-pots",
+      "source": "sempremilan.com",
+      "date": "2026-08-27T18:00:00+00:00",
+      "summary": "For the first time ever, AC Milan will play in the Europa League League Phase this season and ahead of tomorrow’s draw, here is a complete guide. After an underwhelming season, Milan will head back into the Europa League pot tomorrow. However, they will play in the first stage for the first time sin"
+    },
+    {
+      "id": "96a225fa538f",
+      "title": "Watch: Amorim gives passionate response to Camarda question – “He needs to step up”",
+      "url": "https://sempremilan.com/amorim-passionate-response-camarda-question",
+      "source": "sempremilan.com",
+      "date": "2026-08-27T17:30:00+00:00",
+      "summary": "Francesco Camarda is something of a guarantee for AC Milan. However, he has not had the chance to prove that yet, at least until now… When Ruben Amorim arrived, it was clear that he was going to have the opportunity to invest in the mercato. However, he also opted to keep some of the young […]\nThe p"
+    },
+    {
+      "id": "b254bbf469c9",
+      "title": "MN: Amorim close to naming unchanged XI vs. Venezia – the expected lineup at San Siro",
+      "url": "https://sempremilan.com/amorim-close-naming-unchanged-xi-venezia",
+      "source": "sempremilan.com",
+      "date": "2026-08-27T17:00:00+00:00",
+      "summary": "After a big win on the opening day, it is possible that Ruben Amorim will keep his AC Milan squad unchanged on Friday night. In recent years, Milan have been made to pay for constant changes to the XI. For example, Paulo Fonseca’s extreme defensive rotations had a rather large impact on the defensiv"
+    },
+    {
+      "id": "c04ad999995e",
+      "title": "“Crucial to our project” – Amorim puts Maignan and Rabiot controversy to bed",
+      "url": "https://sempremilan.com/amorim-puts-maignan-rabiot-controversy-bed",
+      "source": "sempremilan.com",
+      "date": "2026-08-27T16:30:00+00:00",
+      "summary": "All summer, there have been doubts about Mike Maignan and Adrien Rabiot. However, Ruben Amorim has protected them and their AC Milan futures. Throughout the World Cup, there were questions about Milan’s French talents. So, when they were late to return for pre-season, these fears rose again. However"
+    },
+    {
+      "id": "c7fb7506c161",
+      "title": "Serie A preview: AC Milan vs. Venezia – Team news, opposition insight, stats and prediction",
+      "url": "https://sempremilan.com/preview-ac-milan-venezia-team-news-stats-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-08-27T16:00:00+00:00",
+      "summary": "AC Milan will play their first home game of the 2026-27 season on Friday night, facing Venezia in the round’s early kick-off. Milan began the Ruben Amorim era in the best possible way, going away to a tricky opponent in Torino and emerging with three points. Now, attention shifts to facing a newly-p"
+    },
+    {
+      "id": "79bb55b65e18",
+      "title": "Leao & Milan toxic relationship finally over. Ahanor to Chelsea: good or bad for Italy? VIDEO",
+      "url": "https://football-italia.net/leao-milan-toxic-relationship-ahanor-chelsea/",
+      "source": "football-italia.net",
+      "date": "2026-08-27T15:42:46+00:00",
+      "summary": "Matt Santangelo of That Milan Podcast joins Football Italia editor Lorenzo Bettoni for the latest..."
+    },
+    {
+      "id": "54939a52d42c",
+      "title": "Record: Leao opts for Aston Villa as deal could be improved today – the latest on his Milan exit",
+      "url": "https://sempremilan.com/leao-opts-aston-villa-deal-improved-today",
+      "source": "sempremilan.com",
+      "date": "2026-08-27T15:33:42+00:00",
+      "summary": "It seems Rafael Leao has made his decision on his future away from AC Milan, with a move to the Premier League potentially on the cards. All summer, there have been questions about Leao and his future. They were opened long before the summer mercato began, and in fairness, he opened the door to them"
+    },
+    {
+      "id": "d9880d92e93b",
+      "title": "CM: Sanches and Soule – who Milan could entrust to take Leao’s reins moving forward",
+      "url": "https://sempremilan.com/sanches-soule-milan-entrust-take-leao-reins",
+      "source": "sempremilan.com",
+      "date": "2026-08-27T15:12:42+00:00",
+      "summary": "AC Milan have never been so close to parting with Rafael Leao and it seems that he will be gone before the mercato is finished. The Leao saga has lasted a lot longer than most had expected it to. Indeed, the Portuguese expected a quick offer from Manchester United or Arsenal. Yet, neither came forwa"
+    },
+    {
+      "id": "333e150f2ba0",
+      "title": "Stroppa previews Milan clash and discusses respect for Amorim: “We need to score”",
+      "url": "https://sempremilan.com/stroppa-previews-milan-respect-amorim",
+      "source": "sempremilan.com",
+      "date": "2026-08-27T14:30:33+00:00",
+      "summary": "Tomorrow night, AC Milan will take on Serie A newbies Venezia and head coach Giovanni Stroppa has previewed the game. After their win against Torino, the expectation is that Milan will comfortably beat Venezia on Matchday 2. It’s a strange feeling, heading into the second matchday with three points "
+    },
+    {
+      "id": "a1965a8ccfc6",
+      "title": "Report Leao eager for Aston Villa to match Galatasaray €45m plus bonus package",
+      "url": "https://football-italia.net/leao-aston-villa-match-galatasaray-e45m-bonus/",
+      "source": "football-italia.net",
+      "date": "2026-08-27T14:04:33+00:00",
+      "summary": "While multiple sources confirm Milan accepted Galatasaray’s €45m plus bonus proposal for Rafael Leao, Sky..."
+    },
+    {
+      "id": "3704d8dc8b4e",
+      "title": "Di Marzio: Milan in no rush to replace Leao with Amorim content – the strategy",
+      "url": "https://sempremilan.com/milan-no-rush-replace-leao-strategy",
+      "source": "sempremilan.com",
+      "date": "2026-08-27T14:00:00+00:00",
+      "summary": "AC Milan will be in no rush to replace Rafael Leao if he does leave, because the targets on the list are not available. According to Gianluca Di Marzio, Milan and Leao are about to part ways, we just need to see if he will head to Turkey or England. Galatasaray reached a verbal agreement […]\nThe pos"
     },
     {
       "id": "7e3cb4ef4c65",
@@ -26,30 +290,6 @@
       "summary": "Ruben Amorim has thanked his predecessor Massimiliano Allegri for the culture that he brought to..."
     },
     {
-      "id": "d67fccffe743",
-      "title": "Amorim puts to rest the controversy over Maignan: \"He is very involved in the project and I see him very happy with the new goalkeeping coach\"",
-      "url": "https://www.milannews.it/news/amorim-mette-tacere-polemiche-maignan-e-coinvolto-progetto-vedo-contento-preparatore-portieri-627992",
-      "source": "milannews.it",
-      "date": "2026-08-27T13:24:32+00:00",
-      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at the press conference to present the match against the lagoon players, valid for the second day of the Enilive 2026/27 Serie A championship."
-    },
-    {
-      "id": "ec2f2e71c48a",
-      "title": "Is the roster short in some roles? Amorim: \"We cannot think of solving all the problems in a single market session\"",
-      "url": "https://www.milannews.it/news/rosa-corta-ruoli-amorim-non-possiamo-pensare-risolvere-problemi-sola-sessione-mercato-627987",
-      "source": "milannews.it",
-      "date": "2026-08-27T13:12:51+00:00",
-      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at the press conference to present the match against the lagoon players, valid for the second day of the Enilive 2026/27 Serie A championship."
-    },
-    {
-      "id": "52d21b1f8732",
-      "title": "Will Leao be in the team if he stays? Amorim: \"Sometimes in football there comes a moment when you have to go elsewhere\"",
-      "url": "https://www.milannews.it/news/leao-squadra-dovesse-rimanere-amorim-a-calcio-arriva-bisogna-andare-altrove-627986",
-      "source": "milannews.it",
-      "date": "2026-08-27T13:00:00+00:00",
-      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at the press conference to present the match against the lagoon players, valid for the second day of the Enilive 2026/27 Serie A championship."
-    },
-    {
       "id": "a47d497b1d18",
       "title": "MN: Leao rejects Aston Villa’s first contract offer – talks with Galatasaray continue",
       "url": "https://sempremilan.com/leao-reject-villa-contract-talks-galatasaray",
@@ -66,60 +306,12 @@
       "summary": "Ruben Amorim has confirmed that Rafael Leao will not be in the Milan squad for..."
     },
     {
-      "id": "3806c6695d12",
-      "title": "PROBABLE LINE-UP - Towards Milan-Venice: will the big names return? Some yes, others maybe",
-      "url": "https://www.milannews.it/news/probabile-formazione-milan-venezia-amorim-rabiot-modric-leao-pulisic-cisse-627951",
-      "source": "milannews.it",
-      "date": "2026-08-27T12:55:16+00:00",
-      "summary": "After the victory in the first match against Torino, Ruben Amorim's Milan will make their home debut tomorrow on the second day of the Serie A championship against Venezia: kick-off at 8.45pm at San Siro."
-    },
-    {
-      "id": "e8aefc1e88d1",
-      "title": "Amorim: \"Leao won't be part of the match. Rabiot? We want to renew his contract\"",
-      "url": "https://www.milannews.it/primo-piano/conferenza-stampa-ruben-amorim-pre-milan-venezia-627980",
-      "source": "milannews.it",
-      "date": "2026-08-27T12:52:39+00:00",
-      "summary": "Friends of MilanNews.it good afternoon and welcome to the live broadcast of Ruben Amorim's press conference before Milan-Venice."
-    },
-    {
-      "id": "e7805890f5a9",
-      "title": "5 days until the end of the transfer market. Amorim: \"If someone arrives it is because they will be able to help us both in the present and in the future\"",
-      "url": "https://www.milannews.it/news/5-calciomercato-amorim-se-arrivera-potra-aiutarci-presente-furtirp-627984",
-      "source": "milannews.it",
-      "date": "2026-08-27T12:48:32+00:00",
-      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at the press conference to present the match against the lagoon players, valid for the second day of the Enilive 2026/27 Serie A championship."
-    },
-    {
-      "id": "9eef5636887e",
-      "title": "Rabiot armored by Amorim: \"He is crucial for our project. If there is the possibility, his contract must be renewed\"",
-      "url": "https://www.milannews.it/news/rabiot-blindato-amorim-e-cruciale-progetto-possibilita-rinnovato-contratto-627991",
-      "source": "milannews.it",
-      "date": "2026-08-27T12:36:22+00:00",
-      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at the press conference to present the match against the lagoon players, valid for the second day of the Enilive 2026/27 Serie A championship."
-    },
-    {
       "id": "a237dc0ddea3",
       "title": "Amorim discusses Leao’s situation, Venezia test, excluded players and possible late signings",
       "url": "https://sempremilan.com/amorim-leao-venezia-excluded-players-signings",
       "source": "sempremilan.com",
       "date": "2026-08-27T12:30:00+00:00",
       "summary": "AC Milan head coach Ruben Amorim confirmed a few players could leave before the deadline, but stopped short of guaranteeing more signings. Things started well for Amorim on Sunday night as Milan put in a good performance for 70 minutes of the season opener against Torino, doing enough to establish a"
-    },
-    {
-      "id": "e390ac45e741",
-      "title": "Amorim clear: \"Rotations necessary: ​​it is impossible to be competitive in all matches if the same ones always play\"",
-      "url": "https://www.milannews.it/news/amorim-chiaro-rotazioni-necessarie-impossibile-competitivi-partite-giocano-stessi-627982",
-      "source": "milannews.it",
-      "date": "2026-08-27T12:24:39+00:00",
-      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at the press conference to present the match against the lagoon players, valid for the second day of the Enilive 2026/27 Serie A championship."
-    },
-    {
-      "id": "d209d10baa5a",
-      "title": "Will Leao be at the match? Amorim: \"He is not ready to be called up\"",
-      "url": "https://www.milannews.it/news/leao-partita-amorim-non-pronto-convocato-627983",
-      "source": "milannews.it",
-      "date": "2026-08-27T12:12:00+00:00",
-      "summary": "On the eve of Milan-Venice, the Rossoneri coach Ruben Amorim spoke at the press conference to present the match against the lagoon players, valid for the second day of the Enilive 2026/27 Serie A championship."
     },
     {
       "id": "6a4a9dac0357",
@@ -130,60 +322,12 @@
       "summary": "There is a possibility that Ruben Amorim will make no changes for the game against Venezia compared to the team that beat Torino. Tuttosport (via MilanNews) have an update on the expected line-up for tomorrow’s match against Venezia, which will of course be Amorim’s first game at San Siro since arri"
     },
     {
-      "id": "618f1a964bed",
-      "title": "Di Marzio: \"Not because Cardinale doesn't want to spend, but to date Milan doesn't seem willing to replace Leao\"",
-      "url": "https://www.milannews.it/calciomercato-milan/marzio-non-cardinale-voglia-spendere-milan-intenzionato-sostituire-leao-627981",
-      "source": "milannews.it",
-      "date": "2026-08-27T11:53:32+00:00",
-      "summary": "Gianluca Di Marzio, market expert, expressed himself as follows on his official website on Milan's transfer market and the strategies in the event of Leao's sale, one step away from leaving either Galatasaray or Aston Villa: \"..."
-    },
-    {
-      "id": "7e35c857c341",
-      "title": "Vianello already greets Leao: \"Instead of enjoying the beauty of his talent, you have clogged chats with obsessive criticism. I say thank you\"",
-      "url": "https://www.milannews.it/news/vianello-saluta-leao-invece-godervi-bellezza-talento-intasato-chat-critiche-ossessive-dico-grazie-627973",
-      "source": "milannews.it",
-      "date": "2026-08-27T11:37:56+00:00",
-      "summary": "Andrea Vianello, journalist, expressed himself thus on"
-    },
-    {
       "id": "cd18925e6658",
       "title": "Ambrosini praises ‘really strong’ Cisse after Milan debut: “Made me think of Robinho”",
       "url": "https://sempremilan.com/ambrosini-cisse-milan-made-think-robinho",
       "source": "sempremilan.com",
       "date": "2026-08-27T11:30:00+00:00",
       "summary": "Massimo Ambrosini has compared Alphadjo Cisse to Robinho, based on the way that he took his goal against Torino. It was a fairytale Serie A debut with Milan for Cisse, who was rewarded for a positive preseason by being given a start as the left attacking midfielder in Sunday’s season opener. He repa"
-    },
-    {
-      "id": "2900b721d3ea",
-      "title": "Europa League, this evening the picture will be complete: the scheduled matches",
-      "url": "https://www.milannews.it/news/europa-league-sera-quadro-completo-squadre-qualificate-627942",
-      "source": "milannews.it",
-      "date": "2026-08-27T11:25:15+00:00",
-      "summary": "QUALIFIED BY LAW\nAZ Alkmaar (NED),\nBournemouth (ENG),\nCeltic (ESP),\nCrystal Palace (ENG),\nHoffenheim (GER),\nJuventus (ITA),\nLeverkusen (GER),\nMarseille (FRA),\nMilan (ITA),\nOlympiacos (GRE),\nReal Sociedad (ESP),\nRennes (FRA),\nSparta..."
-    },
-    {
-      "id": "66c4eba191aa",
-      "title": "Bucciantini: \"Amorim admitted something after Torino-Milan and I liked it\"",
-      "url": "https://www.milannews.it/news/bucciantini-amorim-ammesso-torino-milan-piaciuto-qui-627882",
-      "source": "milannews.it",
-      "date": "2026-08-27T11:13:08+00:00",
-      "summary": "Marco Bucciantini, commentator, expressed himself on Radio Sportiva about Amorim's AC Milan performance against Torino: \"Amorim also admitted it, I liked it here: he said he made four changes in the 60th minute and in the ..."
-    },
-    {
-      "id": "f3806015591a",
-      "title": "Leao's next team odds: Aston Villa-Galatasaray duel for the Portuguese",
-      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-prossima-squadra-leao-623147",
-      "source": "milannews.it",
-      "date": "2026-08-27T11:05:00+00:00",
-      "summary": "The soap opera that accompanied the summer of the Italian market may have reached its final stages."
-    },
-    {
-      "id": "46cc6b36cd1c",
-      "title": "Where to follow Amorim's press conference live before Milan-Venice",
-      "url": "https://www.milannews.it/news/seguire-diretta-conferenza-stampa-amorim-pre-milan-venezia-627972",
-      "source": "milannews.it",
-      "date": "2026-08-27T11:00:36+00:00",
-      "summary": "After the debut success against Torino, Milan awaits their first home match of the season against Venezia on Friday."
     },
     {
       "id": "1e0ed23445f1",
@@ -194,44 +338,12 @@
       "summary": "While remaining attentive to matters concerning AC Milan’s mercato and on-field performances, Gerry Cardinale remains busy elsewhere. In a statement on their official website, EverPass announced that DAZN have agreed a deal to acquire EverPass Media. The acquisition marks the full global launch of D"
     },
     {
-      "id": "452642bd49d9",
-      "title": "Letizia: \"Leao will remove the disturbance without speculating on his contractual situation as done by Theo and Tomori\"",
-      "url": "https://www.milannews.it/calciomercato-milan/letizia-leao-togliera-disturbo-speculare-situazione-contrattuale-theo-tomori-627949",
-      "source": "milannews.it",
-      "date": "2026-08-27T10:48:03+00:00",
-      "summary": "Francesco Letizia, journalist, expressed himself thus during his editorial on Sportitalia on Rafael Leao, the striker leaving Milan: \"Collecting 50 million, euros more euros less, is a major operation for the ..."
-    },
-    {
-      "id": "40aa696c3cea",
-      "title": "Surprises for Gimenez cannot be ruled out. Also because Porto doesn't raise the ball",
-      "url": "https://www.milannews.it/calciomercato-milan/escludersi-sorprese-gimenez-porto-rilancia-627970",
-      "source": "milannews.it",
-      "date": "2026-08-27T10:36:35+00:00",
-      "summary": "Surprises are not excluded. This is the comment from La Gazzetta dello Sport on the article regarding the future of Santiago Gimenez, AC Milan striker."
-    },
-    {
       "id": "e5b92303fd69",
       "title": "GdS: Two goal involvements, two roles – how Rabiot silenced noise after ‘turbulent’ summer",
       "url": "https://sempremilan.com/how-rabiot-silenced-noise-turbulent-summer",
       "source": "sempremilan.com",
       "date": "2026-08-27T10:30:00+00:00",
       "summary": "Adrien Rabiot lit up the game in Turin on Sunday night, putting a bit of a bumpy summer fully behind him. La Gazzetta dello Sport write how in just three minutes, the player supposedly ‘deeply saddened by Massimiliano Allegri’s departure’ demonstrated that he can play football and have fun doing so "
-    },
-    {
-      "id": "31904ce8709c",
-      "title": "Excited voice and Yamal smile, but zero fear of Pulisic. Cisse introduced himself like this",
-      "url": "https://www.milannews.it/news/voce-emozionata-sorriso-yamal-zero-paura-pulisic-cisse-presentato-627964",
-      "source": "milannews.it",
-      "date": "2026-08-27T10:24:03+00:00",
-      "summary": "In reporting the statements from Alphadjo Cisse's presentation conference at the AC Milan Flaship Store in via Dante in Milan, Corriere dello Sport underlined the attitude of the boy born in 2006 in front of the microphones and the ..."
-    },
-    {
-      "id": "03f36d896875",
-      "title": "Tough order with Leao: \"He has a serious flaw: he doesn't have passion for his work\"",
-      "url": "https://www.milannews.it/news/ordine-duro-leao-ha-grave-difetto-passione-lavoro-627968",
-      "source": "milannews.it",
-      "date": "2026-08-27T10:12:00+00:00",
-      "summary": "Franco Ordine, journalist, expressed himself as follows to TMW Radio."
     },
     {
       "id": "b25ff0970379",
@@ -290,44 +402,12 @@
       "summary": "Samuele Ricci is on the verge of joining Como from Milan as the two clubs..."
     },
     {
-      "id": "9cb487468af2",
-      "title": "Reports: Decision in Leao’s hands as Aston Villa and Galatasaray have bids accepted – the figures",
-      "url": "https://sempremilan.com/decision-leao-villa-galatasaray-bids-accepted",
-      "source": "sempremilan.com",
-      "date": "2026-08-27T08:00:00+00:00",
-      "summary": "A head-to-head duel between Aston Villa and Galatasaray has broken out regarding Rafael Leao, various reports claim. As of last night, Fabrizio Romano was among the sources claiming that Galatasaray and Milan were very close to an agreement worth €45m plus bonuses for Leao. All that needed to be res"
-    },
-    {
       "id": "909a730c8789",
       "title": "Cisse: ‘Everything was almost done with PSV, then Milan came in’",
       "url": "https://football-italia.net/cisse-everything-was-almost-done-psv-milan/",
       "source": "football-italia.net",
       "date": "2026-08-26T18:35:00+00:00",
       "summary": "Alphadjo Cisse has revealed he came close to joining PSV in January before Milan intervened,..."
-    },
-    {
-      "id": "fd14a609a7c9",
-      "title": "One chance at a first impression: Amorim era at Milan begins with a much-needed smile",
-      "url": "https://sempremilan.com/amorim-era-milan-first-impression-smile",
-      "source": "sempremilan.com",
-      "date": "2026-08-26T18:00:00+00:00",
-      "summary": "As Ruben Amorim celebrated AC Milan’s goals in the Turin night like a fan, you’d be forgiven for getting carried away. Frankly, the phrase ‘new era’ has been used too much at Milan in recent years. It is not even the first Portuguese relaunch either, given that the season before last there was a lot"
-    },
-    {
-      "id": "559c367d1845",
-      "title": "Romano: Galatasaray ‘closing in’ on €45m agreement with Milan for Leao – the situation",
-      "url": "https://sempremilan.com/galatasaray-closing-in-leao-45m-milan",
-      "source": "sempremilan.com",
-      "date": "2026-08-26T17:46:12+00:00",
-      "summary": "Galatasaray and AC Milan are closing in on reaching an agreement over the transfer fee for Rafael Leao at long last. The Leao saga has dragged on for weeks now, ever since he publicly declared a desire to leave Milan before the World Cup. The amount of concrete offers that arrived have perhaps not b"
-    },
-    {
-      "id": "94071f900b91",
-      "title": "Diawara sheds light on ‘surprise’ Milan call, qualities and aspirations: “Why not the Scudetto?”",
-      "url": "https://sempremilan.com/diawara-milan-call-qualities-aspirations-scudetto",
-      "source": "sempremilan.com",
-      "date": "2026-08-26T17:30:00+00:00",
-      "summary": "Sankhoun Diawara has admitted he was ‘a little surprised’ when AC Milan’s call came, but he is eager to make his debut. Diawara was the third signing of the summer after Goncalo Ramos and Mario Gila. Though he might have cost a fraction of what was paid out for those two, he is in the […]\nThe post D"
     },
     {
       "id": "f64903b424ea",
@@ -338,52 +418,12 @@
       "summary": "Galatasaray have submitted an improved offer for Rafael Leao, proposing €45m plus bonuses to Milan..."
     },
     {
-      "id": "f6192c59a502",
-      "title": "Cisse discusses PSV rumours, start at Milan, debut goal and relationship with Amorim",
-      "url": "https://sempremilan.com/cisse-psv-milan-debut-goal-amorim",
-      "source": "sempremilan.com",
-      "date": "2026-08-26T17:00:00+00:00",
-      "summary": "Alphadjo Cisse has admitted that he was close to joining PSV Eindhoven at one point, but is glad he ended up at AC Milan. It has been a whirlwind few weeks for Cisse, who joined Milan officially a few months ago but was left on loan at Catanzaro and then had to recover from a […]\nThe post Cisse disc"
-    },
-    {
-      "id": "eca452a73839",
-      "title": "Moretto: Milan and Como hold ‘positive contacts’ over midfielder",
-      "url": "https://sempremilan.com/milan-como-positive-contacts-ricci",
-      "source": "sempremilan.com",
-      "date": "2026-08-26T16:30:00+00:00",
-      "summary": "Things had gone quiet on the Samuele Ricci front in recent weeks, but it seems that an exit is still very much on the cards. It is only last summer that Ricci was one of the most talked about players within Serie A as he made the switch from Torino – where he had become […]\nThe post Moretto: Milan a"
-    },
-    {
       "id": "208575105886",
       "title": "Napoli coach Allegri: ‘8 teams to watch in Scudetto race’",
       "url": "https://football-italia.net/napoli-coach-allegri-8-teams-to-watch/",
       "source": "football-italia.net",
       "date": "2026-08-26T16:20:00+00:00",
       "summary": "Massimiliano Allegri expects an unusually crowded title race this season, naming eight clubs he believes..."
-    },
-    {
-      "id": "38aaaeb44471",
-      "title": "Cisse’s mother reveals emotions after Torino goal: “A tremendous emotion”",
-      "url": "https://sempremilan.com/cisse-mother-torino-goal-tremendous-emotion",
-      "source": "sempremilan.com",
-      "date": "2026-08-26T16:00:00+00:00",
-      "summary": "Alphadjo Cisse’s mother has revealed the family’s emotions after watching their son score his first ever competitive goal for AC Milan. Ruben Amorim’s era started in the best possible way with 2-1 win away from home against Torino. Cisse was the one who scored the first goal of the Serie A campaign "
-    },
-    {
-      "id": "0c6e0e387666",
-      "title": "MN: Leao back in full training but may not be called up vs. Venezia – the reason",
-      "url": "https://sempremilan.com/leao-back-training-venezia-call-up",
-      "source": "sempremilan.com",
-      "date": "2026-08-26T15:30:00+00:00",
-      "summary": "Rafael Leao returned to full training at Milanello today, but his involvement on Friday night remains uncertain for now. According to the latest from MilanNews, there was some significant news from Milanello today: Leao was back training with the squad. The Portuguese has overcome the muscle problem"
-    },
-    {
-      "id": "5b794fe166c2",
-      "title": "CaughtOffside: Milan still interested in versatile Man Utd defender Amorim loved",
-      "url": "https://sempremilan.com/milan-still-interested-mazraoui-amorim-loved",
-      "source": "sempremilan.com",
-      "date": "2026-08-26T15:00:00+00:00",
-      "summary": "AC Milan are once again being linked with Noussair Mazraoui, one of Ruben Amorim’s favourites from his time at Manchester United. Milan have just completed the signing of Diego Moreira from Strasbourg for a fee of €50m that could rise to around €65-66m with add-ons. The Belgian can play both wing-ba"
     },
     {
       "id": "232d8b17b1bb",
@@ -440,46 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-08-25T17:20:00+00:00",
       "summary": "Emiliano Viviano has been struck by Ruben Amorim’s early work at Milan, describing the Portuguese..."
-    },
-    {
-      "id": "353e79f8c0c2",
-      "title": "Florenzi on Maldini: ‘He could have revolutionised Italian football’",
-      "url": "https://football-italia.net/florenzi-on-maldini-italian-football/",
-      "source": "football-italia.net",
-      "date": "2026-08-25T16:15:00+00:00",
-      "summary": "Alessandro Florenzi believes Paolo Maldini could have transformed Italian football had he been given the..."
-    },
-    {
-      "id": "3afcfd3fe255",
-      "title": "Ex-Chelsea and Milan player Begovic on Leao: ‘He would be an incredible signing for Aston Villa’",
-      "url": "https://football-italia.net/ex-chelsea-milan-begovic-on-leao-villa/",
-      "source": "football-italia.net",
-      "date": "2026-08-25T15:50:00+00:00",
-      "summary": "Asmir Begovic believes Rafael Leao would be a transformative signing for Aston Villa, with the..."
-    },
-    {
-      "id": "55f41fe3f9d9",
-      "title": "Fiorentina reignite Bakayoko interest as Poku heads to Italiano’s Besiktas",
-      "url": "https://football-italia.net/fiorentina-reignite-bakayoko-interest/",
-      "source": "football-italia.net",
-      "date": "2026-08-25T14:50:00+00:00",
-      "summary": "Fiorentina have returned to the trail of Johan Bakayoko as they look to hand Fabio..."
-    },
-    {
-      "id": "e0b9e32ce1da",
-      "title": "Report: Milan consider move for Manchester City’s Jack Grealish",
-      "url": "https://football-italia.net/report-milan-linked-with-man-city-grealish/",
-      "source": "football-italia.net",
-      "date": "2026-08-25T13:10:00+00:00",
-      "summary": "Milan have reportedly registered an interest in Jack Grealish, with the Manchester City forward’s future..."
-    },
-    {
-      "id": "0e2eb9279a9a",
-      "title": "Nkunku completes Leipzig medical as Milan exit nears",
-      "url": "https://football-italia.net/nkunku-completes-leipzig-medical/",
-      "source": "football-italia.net",
-      "date": "2026-08-25T12:35:00+00:00",
-      "summary": "Christopher Nkunku has completed his medical with Leipzig and is expected to sign on Tuesday,..."
     }
   ]
 }
