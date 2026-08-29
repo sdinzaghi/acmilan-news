@@ -1,13 +1,253 @@
 {
-  "lastUpdated": "2026-08-29T10:46:58.935637+00:00",
+  "lastUpdated": "2026-08-29T15:28:49.904277+00:00",
   "articles": [
     {
-      "id": "968d1884bd1f",
-      "title": "Dusty on the European sides of Milan: \"In terms of charm, the match against Benfica is the match. The English teams also represent a risk\"",
-      "url": "https://www.milannews.it/news/polveroni-parti-europee-milan-come-fascino-benfica-partita-inglesi-rappresentano-rischio-628226",
+      "id": "03250cf54642",
+      "title": "F. Galli clear: \"The question to ask is not whether Leao is strong, but whether he was the right player for Amorim\"",
+      "url": "https://www.milannews.it/news/f-galli-chiaro-la-domanda-porsi-leao-forte-giocatore-giusto-amorim-628193",
       "source": "milannews.it",
-      "date": "2026-08-29T10:36:16+00:00",
-      "summary": "In the columns of Il Corriere dello Sport Alberto Polverosi gave a personal comment on the Europa League draws which saw two Italians as protagonists, Juventus and Ruben Amorim's Milan, decidedly more unlucky than the ..."
+      "date": "2026-08-29T15:25:03+00:00",
+      "summary": "During his editorial for MilanNews."
+    },
+    {
+      "id": "7e6e04ed61d5",
+      "title": "Milan want another two new buys after summit, but Gimenez and Tomori frustrated",
+      "url": "https://football-italia.net/milan-want-another-two-new-buys-after-summit/",
+      "source": "football-italia.net",
+      "date": "2026-08-29T15:23:47+00:00",
+      "summary": "Milan are reportedly planning another two signings following a long summit with Gerry Cardinale, but..."
+    },
+    {
+      "id": "54bda1f1d508",
+      "title": "Leao, first words as a Gala striker: \"I'm very happy, I rejected Aston Villa because they really wanted me here\"",
+      "url": "https://www.milannews.it/news/leao-prime-parole-attaccante-gala-sono-felice-rifiutato-villa-volevano-davvero-628262",
+      "source": "milannews.it",
+      "date": "2026-08-29T15:12:15+00:00",
+      "summary": "Rafa Leao, new Galatasaray player (waiting for the official press release), released his first words as the new striker of the Turkish club which are reported below and revealed a market curiosity regarding the deal ..."
+    },
+    {
+      "id": "13b4a5a538cf",
+      "title": "How can Galatasaray give all that money to Leao? The club also owns an island",
+      "url": "https://www.milannews.it/news/galatasaray-dare-quei-soldi-leao-club-proprietario-isola-628191",
+      "source": "milannews.it",
+      "date": "2026-08-29T15:00:37+00:00",
+      "summary": "Gianfranco Teotino, commentator for SkySport, expressed himself as follows to 'Calciomercato - L'Originale' on Leao's transfer to Galatasaray: \"I am much further ahead in the organization of stadiums in Turkey, many ..."
+    },
+    {
+      "id": "e06f66d55215",
+      "title": "Photos: Milan players react to Venezia win on social media – “Thank you San Siro”",
+      "url": "https://sempremilan.com/milan-players-react-venezia-win-thank-you",
+      "source": "sempremilan.com",
+      "date": "2026-08-29T15:00:00+00:00",
+      "summary": "AC Milan clinched their second win of the season in as many games on Friday evening, beating Venezia 2-0, and the players were understandably pleased afterwards.  Just two games into the season, it’s clear that there is a lot of optimism in the Milan environment. Six points in two games speaks for i"
+    },
+    {
+      "id": "e07995202614",
+      "title": "Gozzini: \"The new Milan returns to an old and dear tradition: they have a center forward who scores and decides\"",
+      "url": "https://www.milannews.it/news/gozzini-il-milan-torna-vecchia-cara-tradizione-centravanti-segna-decide-628192",
+      "source": "milannews.it",
+      "date": "2026-08-29T14:48:48+00:00",
+      "summary": "Alessandra Gozzini, journalist, expressed herself as follows in La Gazzetta dello Sport on Goncalo Ramos' performance against Venezia: \"He lights up San Siro with the number 9 shirt...\" and a roar calls Gonçal's name..."
+    },
+    {
+      "id": "8ad74a8899a8",
+      "title": "Leao, last social message from the Rossoneri: post two photos with Maldini and Ibrahimovic",
+      "url": "https://www.milannews.it/news/leao-messaggio-social-rossonero-posta-foto-maldini-ibrahimovic-628256",
+      "source": "milannews.it",
+      "date": "2026-08-29T14:36:43+00:00",
+      "summary": "Rafa Leao made it official this morning that he began his new adventure with the Galatasaray shirt (awaiting press release)."
+    },
+    {
+      "id": "80255607ea6e",
+      "title": "Reports: Two more signings, targets identified – what filters from Milan’s Saturday summit",
+      "url": "https://sempremilan.com/two-signings-targets-milans-filters-summit",
+      "source": "sempremilan.com",
+      "date": "2026-08-29T14:30:00+00:00",
+      "summary": "AC Milan intend to make two more signings before the window closes next week, and the targets have already been identified, according to a report.  The transfer window deadline is fast approaching for Milan, who appear keen to make some additional reinforcements now that Rafael Leao has been shipped"
+    },
+    {
+      "id": "2a798dca2aaf",
+      "title": "Guidi announces: \"If Tomori, Fofana and Gimenez are not sold by September 1st, they would still remain out of the project\"",
+      "url": "https://www.milannews.it/calciomercato-milan/guidi-annuncia-se-tomori-fofana-gimenez-verranno-venduti-entro-1-settembre-resterebbero-progetto-628064",
+      "source": "milannews.it",
+      "date": "2026-08-29T14:24:17+00:00",
+      "summary": "Marco Guidi, journalist, expressed himself as follows in La Gazzetta dello Sport on Tomori, Fofana and Gimenez, the Milan players purged: \"Out of Milan. Even if they were to remain on the payroll."
+    },
+    {
+      "id": "f7c2b84228f9",
+      "title": "Rafael Leao greeted by huge Galatasaray crowd after Milan exit",
+      "url": "https://football-italia.net/rafael-leao-greeted-galatasaray-crowd-milan/",
+      "source": "football-italia.net",
+      "date": "2026-08-29T14:21:15+00:00",
+      "summary": "Rafael Leao was greeted by thousands of fans as he landed in Istanbul to begin..."
+    },
+    {
+      "id": "a0816dde842a",
+      "title": "Leao, huge crowd to welcome him at the airport: and there is the usual \"ritual\" with the Gala fans. The video",
+      "url": "https://www.milannews.it/news/leao-bagno-folla-accoglierlo-all-aeroporto-c-e-rito-tifosi-gala-video-628255",
+      "source": "milannews.it",
+      "date": "2026-08-29T14:12:49+00:00",
+      "summary": "Rafa Leao landed an hour ago at Istanbul airport, the city where the Portuguese will spend the next few years following his transfer to Galatasaray."
+    },
+    {
+      "id": "ba76a674bc25",
+      "title": "MN - The point on Milan's transfers: the situations of Tomori, Fofana and Gimenez",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-punto-cessioni-milan-situazione-tomori-fofana-gimenez-628254",
+      "source": "milannews.it",
+      "date": "2026-08-29T14:00:00+00:00",
+      "summary": "This morning there was a summit in Milan that lasted about 4 and a half hours where Cardinale, Amorim and company took stock of the market. As the MilanNews editorial team learns."
+    },
+    {
+      "id": "88a8052e11fc",
+      "title": "Watch: Galatasaray fans turn up in numbers as Leao lands in Turkey",
+      "url": "https://sempremilan.com/watch-galatasaray-fans-numbers-leao-lands",
+      "source": "sempremilan.com",
+      "date": "2026-08-29T14:00:00+00:00",
+      "summary": "Rafael Leao has landed in Turkey, Istanbul to be precise, and he was greeted by tons of Galatasaray fans at the airport.  Yesterday, the ‘Here we go’ arrived for Leao’s transfer to Galatasaray as the Turkish club reached a total agreement with Milan. The move, which is a permanent one, is worth €45m"
+    },
+    {
+      "id": "4b7ad5f00bd3",
+      "title": "MN - 4 and a half hour market summit: the intention is to give Amorim two more purchases",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-summit-mercato-4-mezza-l-intenzione-regalare-amorim-acquisti-628253",
+      "source": "milannews.it",
+      "date": "2026-08-29T13:47:51+00:00",
+      "summary": "As the MilanNews editorial team learns."
+    },
+    {
+      "id": "9b5fea05c3ca",
+      "title": "Kean at Como, agreement reached between the clubs: the details",
+      "url": "https://www.milannews.it/news/kean-como-raggiunto-accordo-club-628006",
+      "source": "milannews.it",
+      "date": "2026-08-29T13:35:00+00:00",
+      "summary": "(ANSA) - COMO, AUGUST 27 - Moise Kean will be a Como player in a few days."
+    },
+    {
+      "id": "97d4dcc57797",
+      "title": "MN - Transfer summit between the club and Amorim: the club will remain active on the market until the end with the idea of ​​making a couple of signings",
+      "url": "https://www.milannews.it/primo-piano/mn-summit-mercato-societa-amorim-club-restera-attivo-mercato-628252",
+      "source": "milannews.it",
+      "date": "2026-08-29T13:30:05+00:00",
+      "summary": "As the MilanNews editorial team learns."
+    },
+    {
+      "id": "ab645a005161",
+      "title": "Two in two for Amorim: All the key stats from AC Milan 2-0 Venezia",
+      "url": "https://sempremilan.com/key-stats-ac-milan-2-0-venezia-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-08-29T13:30:00+00:00",
+      "summary": "Ruben Amorim and Goncalo Ramos both had individual accomplishments to celebrate last night, as AC Milan beat Venezia by two goals to nil. Considering that it was the first home game of the season, and against the newly promoted side Venezia, the pressure was definitely on Milan to clinch all three p"
+    },
+    {
+      "id": "d94ae88de8f9",
+      "title": "Ambrosini's transfer advice: \"If Milan have to add someone, they'll take a defender\"",
+      "url": "https://www.milannews.it/news/mercato-ambrosini-se-milan-aggiungere-qualcuno-prenda-difensore-628187",
+      "source": "milannews.it",
+      "date": "2026-08-29T13:23:31+00:00",
+      "summary": "In the post match of Milan-Venice, Massimo Ambrosini expressed himself as follows on what must be done in this final transfer market to complete Ruben Amorim's squad in view of a very intense season to compete in the league and in Europe..."
+    },
+    {
+      "id": "04cd56bdbd1f",
+      "title": "MN - Leao jokes: \"You have made me angry many times, I will teach the Turks to surf\"",
+      "url": "https://www.milannews.it/news/mn-leao-scherza-mi-arrabbiare-tante-volte-insegnero-turchi-surfare-628245",
+      "source": "milannews.it",
+      "date": "2026-08-29T13:12:42+00:00",
+      "summary": "Rafa Leao left Milan Linate this morning to go to Istanbul, destination Galatasaray, his new team. The former Milan number 10 also spoke to the microphones of MilanNews."
+    },
+    {
+      "id": "f2e32e8cc8fc",
+      "title": "MN - Leao landed in Istanbul: with him the vice-president of Galatasaray",
+      "url": "https://www.milannews.it/news/mn-leao-atterrato-istanbul-accoglierlo-vicepresidente-gala-628251",
+      "source": "milannews.it",
+      "date": "2026-08-29T13:03:08+00:00",
+      "summary": "As our editorial team has learned, Rafa Leao landed a few moments ago at the airport of Istanbul, the Turkish capital, where he will play for the next seasons with the Galatasaray shirt."
+    },
+    {
+      "id": "6a1819c5c75b",
+      "title": "UEFA makes official its choice to take a step back in the threat of not participating in tournaments organized by FIFA",
+      "url": "https://www.milannews.it/news/uefa-ritiriamo-boicotaggio-resta-inganno-abuso-potere-fifa-628044",
+      "source": "milannews.it",
+      "date": "2026-08-29T13:00:00+00:00",
+      "summary": "(ANSA) - ROME, AUGUST 27 - \"We are withdrawing the boycott, but renouncing the FFE plan does not erase the deception, intimidation and abuse of power\"."
+    },
+    {
+      "id": "2815df5aae55",
+      "title": "GdS: Juventus identify Milan outcast Fofana as new midfield target after Kessie failure",
+      "url": "https://sempremilan.com/juventus-milan-fofana-target-kessie-failure",
+      "source": "sempremilan.com",
+      "date": "2026-08-29T13:00:00+00:00",
+      "summary": "Juventus have failed to convince Franck Kessie, a former AC Milan man, to join the club and are now reportedly ready to turn to Youssouf Fofana instead.  Due to the injury of Khephren Thuram, as well as the squad depth in general, Juventus are looking to bolster their midfield this summer. The only "
+    },
+    {
+      "id": "c16026469003",
+      "title": "Serena: \"I noticed that Goncalo Ramos suffered a foul and got angry: that's where he scored. He shook off his anger\"",
+      "url": "https://www.milannews.it/news/serena-ho-notato-goncalo-ramos-fallo-arrabbiato-li-gol-scrollato-rabbia-628189",
+      "source": "milannews.it",
+      "date": "2026-08-29T12:48:11+00:00",
+      "summary": "Aldo Serena, commentator for SkySport, expressed himself as follows to 'Calciomercato - L'Originale' on Goncalo Ramos' goal in Milan-Venice: \"It was a healthy goal for him and for Milan."
+    },
+    {
+      "id": "6bc73e7cbfc0",
+      "title": "Juventus have taken their second goalkeeper on loan, but could buy him for 11.5 million",
+      "url": "https://www.milannews.it/news/juve-ufficiale-grabara-arriva-prestito-500mila-euro-627856",
+      "source": "milannews.it",
+      "date": "2026-08-29T12:36:26+00:00",
+      "summary": "(ANSA) - TURIN, AUGUST 25 - The official announcement from Juventus has also arrived: Kamil Grabara is a new Juventus player."
+    },
+    {
+      "id": "e7d9088e68f0",
+      "title": "Official: Samuele Ricci joins Como on loan with option to buy deal",
+      "url": "https://sempremilan.com/official-samuele-ricci-como-loan-option",
+      "source": "sempremilan.com",
+      "date": "2026-08-29T12:28:39+00:00",
+      "summary": "Como have announced the signing of Samuele Ricci on loan from AC Milan, confirming that there is also an option to buy in the deal. At the start of the summer, it was believed that Ricci would remain at Milan, especially since he’s Italian and thus helps with the squad lists. However, he wasn’t conv"
+    },
+    {
+      "id": "4e737630be7e",
+      "title": "Di Stefano says: \"Leao never argued with anyone in the locker room: shy, introverted, perhaps too much. But he made himself loved\"",
+      "url": "https://www.milannews.it/news/stefano-racconta-leao-litigato-spogliatoio-timido-introverso-troppo-amare-628185",
+      "source": "milannews.it",
+      "date": "2026-08-29T12:24:00+00:00",
+      "summary": "Peppe Di Stefano, journalist for SkySport, expressed himself as follows to 'Calciomercato - L'Originale' about Rafael Leao, now a former AC Milan striker: \"He left a lot to Milanello. He never argued with anyone in the dressing room."
+    },
+    {
+      "id": "25f7f44e737b",
+      "title": "MN - Leao orgoglioso: “Mi sono sentito a casa, abbiamo vinto trofei importanti e porterò il Milan ovunque”",
+      "url": "https://www.milannews.it/news/mn-leao-orgoglioso-mi-sentito-casa-vinto-trofei-importanti-portero-milan-ovunque-628244",
+      "source": "milannews.it",
+      "date": "2026-08-29T12:12:25+00:00",
+      "summary": "Rafa Leao left Milan Linate this morning to go to Istanbul, destination Galatasaray, his new team. The former Milan number 10 also spoke to the microphones of MilanNews."
+    },
+    {
+      "id": "1e2f95fb59fd",
+      "title": "UFFICIALE: Samuele Ricci passa al Como in prestito con diritto di riscatto. Il comunicato ufficiale",
+      "url": "https://www.milannews.it/calciomercato-milan/ufficiale-samuele-ricci-passa-como-prestito-comunicato-ufficiale-628248",
+      "source": "milannews.it",
+      "date": "2026-08-29T12:11:00+00:00",
+      "summary": "Samuele Ricci officially joins Como on a loan with right to buy. Below is the official press release from the Rossoneri club."
+    },
+    {
+      "id": "2e49a2d2d6b3",
+      "title": "Watch: Substitutes and Ramos secure another three points for Milan – the highlights",
+      "url": "https://sempremilan.com/watch-substitutes-ramos-three-points-highlights",
+      "source": "sempremilan.com",
+      "date": "2026-08-29T12:00:00+00:00",
+      "summary": "AC Milan added three more points to their tally last night, finding the back of the net twice against Venezia. However, as the highlights show, it wasn’t the easiest of games.  The strong start against Torino certainly boosted Milan’s confidence ahead of their San Siro opener against Venezia. That w"
+    },
+    {
+      "id": "3f432a1f34d3",
+      "title": "Moretto: Nottingham Forest youngster ‘offered to Milan’ as Leao waves goodbye",
+      "url": "https://sempremilan.com/nottingham-forest-youngster-offered-milan-leao",
+      "source": "sempremilan.com",
+      "date": "2026-08-29T11:30:00+00:00",
+      "summary": "Rafael Leao’s departure could prompt AC Milan to reinforce their attack and according to a report, Omari Hutchinson has been offered to the club.  After many weeks of speculating and some very intense days, it has been confirmed that Rafael Leao will join Galatasaray and not Aston Villa. The player "
+    },
+    {
+      "id": "f1cb7731611d",
+      "title": "Leao admits he wanted Milan farewell on the pitch: “It wasn’t possible”",
+      "url": "https://sempremilan.com/leao-wanted-milan-farewell-on-pitch",
+      "source": "sempremilan.com",
+      "date": "2026-08-29T11:00:00+00:00",
+      "summary": "Intercepted by reporters at Linate Airport, the Galatasaray-bound Rafael Leao admitted that he would have wanted to say goodbye to the AC Milan fans on the pitch.  After an agreement was reached between Milan and Galatasaray yesterday afternoon, arrangements were made for the forward’s travel today."
     },
     {
       "id": "2f498c91f4b3",
@@ -26,52 +266,12 @@
       "summary": "Goncalo Ramos was very pleased with getting his first goal for AC Milan, revealing that he will treat his new teammates to dinner to celebrate.  Milan’s new No.9 certainly showed good signs in the season opener against Torino, pressing a lot and combining well with his new teammates. However, he nev"
     },
     {
-      "id": "32f7e64f5993",
-      "title": "Zazzaroni on the emotional memory of Baresi: \"Baresi was there last night too. The first and last time at San Siro\"",
-      "url": "https://www.milannews.it/news/zazzaroni-emozionante-ricordo-baresi-c-baresi-sera-ultima-san-siro-628224",
-      "source": "milannews.it",
-      "date": "2026-08-29T10:24:12+00:00",
-      "summary": "In the columns of Il Corriere della Sport, director Ivan Zazzaroni spoke about Milan, commenting on the victory of Ruben Amorim's team over Venezia: \"There was the captain in Milan who won the last scudetto in '..."
-    },
-    {
-      "id": "f4f261fdb3ff",
-      "title": "MN - Leao leaving: \"Thank you very much for everything. I wish Milan the best\"",
-      "url": "https://www.milannews.it/primo-piano/video-mn-rafael-leao-partenza-istanbul-628237",
-      "source": "milannews.it",
-      "date": "2026-08-29T10:16:26+00:00",
-      "summary": "Rafael Leao is departing for Istanbul from Linate Prime airport, as the images of the MilanNews.it correspondents certify."
-    },
-    {
-      "id": "17b382d39972",
-      "title": "Mauro on the Europa League between Milan and Juventus: \"The minimum objective must be the semi-final\"",
-      "url": "https://www.milannews.it/news/mauro-europa-league-milan-juventus-l-obiettivo-minimo-semifinale-628234",
-      "source": "milannews.it",
-      "date": "2026-08-29T10:12:20+00:00",
-      "summary": "Interviewed this morning by the notebooks of La Gazzetta dello Sport, Massimo Mauro commented on the draws of the next League Phase of the Europa League which will feature two Italian teams, Milan and Juventus: \"Probably ..."
-    },
-    {
       "id": "404d294d08bf",
       "title": "MN: Cardinale will remain in Milan as mercato deadline approaches – the latest",
       "url": "https://sempremilan.com/cardinale-remain-milan-mercato-deadline-latest",
       "source": "sempremilan.com",
       "date": "2026-08-29T10:05:00+00:00",
       "summary": "Gerry Cardinale was present at San Siro for Milan-Venezia on Friday and according to a report, he will remain in the city ahead of deadline day.  The Milan owner got to see his team beat Venezia in front of a sold-out San Siro, making it two wins out of a possible two. The start to […]\nThe post MN: "
-    },
-    {
-      "id": "f7a4c303769e",
-      "title": "Saelemaekers after the victory over Venezia: \"Homecoming + 3 points\"",
-      "url": "https://www.milannews.it/news/saelemaekers-vittoria-venezia-ritorno-casa-3-punti-628233",
-      "source": "milannews.it",
-      "date": "2026-08-29T09:48:22+00:00",
-      "summary": "Alexis Saelemaekers completely changed the momentum of the match against Venezia."
-    },
-    {
-      "id": "f48aaca875f6",
-      "title": "MN - Soon Leao departing from Linate Prime towards Istanbul",
-      "url": "https://www.milannews.it/news/mn-leao-partenza-linate-prime-direzione-istanbul-628240",
-      "source": "milannews.it",
-      "date": "2026-08-29T09:41:56+00:00",
-      "summary": "According to what has been learned by the editorial staff of MilanNews.it, Rafael Leao will soon leave Milan for Istanbul to become a new player for Galatasaray."
     },
     {
       "id": "a8f6f912432c",
@@ -82,52 +282,12 @@
       "summary": "Ruben Amorim praised the Milan fans after the 2-0 win against Venezia, while reiterating that they won’t have a set starting eleven this season.  Milan continued their good run of form with a decent performance against the newly promoted side Venezia. Goncalo Ramos and an own-goal secured the deal i"
     },
     {
-      "id": "74517da9f074",
-      "title": "Ravezzani on Ramos: \"It's better than the previous ones, but it's not a phenomenon\"",
-      "url": "https://www.milannews.it/news/ravezzani-ramos-e-migliore-precedenti-fenomeno-628230",
-      "source": "milannews.it",
-      "date": "2026-08-29T09:36:20+00:00",
-      "summary": "Speaking on the QSVS YouTube channel, director Fabio Ravezzani gave a very personal assessment of Gonçalo Ramos, not letting himself be blinded by the beautiful, decisive goal scored last night against Venezia: \n\n\"We have ..."
-    },
-    {
-      "id": "379ad56e65fb",
-      "title": "Zazzaroni: \"Leao is also out, Maignan from Milan from the last Scudetto survives, Tomori is out of the technical project, Gabbia and Saelemaekers\"",
-      "url": "https://www.milannews.it/news/zazzaroni-uscito-leao-milan-scudetto-sopravvivono-maignan-tomori-progetto-tecnico-gabbia-saelemaeker-628223",
-      "source": "milannews.it",
-      "date": "2026-08-29T09:24:41+00:00",
-      "summary": "In the columns of Il Corriere dello Sport, director Ivan Zazzaroni spoke about Milan, commenting on the victory of Ruben Amorim's team over Venezia: \"There was the captain in Milan who won the last scudetto in '..."
-    },
-    {
       "id": "67c7ed2083d5",
       "title": "Trio instrumental for Amorim: Player ratings for Milan-Venezia from Italian papers",
       "url": "https://sempremilan.com/paper-ratings-milan2-0-venezia-2026-27",
       "source": "sempremilan.com",
       "date": "2026-08-29T09:15:00+00:00",
       "summary": "AC Milan managed to build on their momentum with a 2-0 win against Venezia at San Siro. According to the papers this morning, three players were instrumental in making that happen.  After two games, Milan are sitting at the top of the standings with six points, four goals scored, and just one goal c"
-    },
-    {
-      "id": "7b94603c5b7f",
-      "title": "PHOTO MN - Fans outside Linate Prime for Leao",
-      "url": "https://www.milannews.it/news/foto-mn-tifosi-esterno-linate-prime-leao-628239",
-      "source": "milannews.it",
-      "date": "2026-08-29T09:13:06+00:00",
-      "summary": "Rafael Leao will soon depart from Linate Prime towards Istanbul to begin his new adventure at Galatasaray."
-    },
-    {
-      "id": "43aae40c77e2",
-      "title": "Jashari rejoices on social media: \"Another 3 points, I save the result once again\"",
-      "url": "https://www.milannews.it/news/jashari-esulta-social-altri-3-punti-risultato-volta-628229",
-      "source": "milannews.it",
-      "date": "2026-08-29T09:12:34+00:00",
-      "summary": "Coming on in the second half in place of an exhausted Luka Modric, Ardon Jashari almost missed the first goal of his career in the Milan shirt."
-    },
-    {
-      "id": "4287f0884299",
-      "title": "Gonçalo Ramos' report cards: the evening started very badly, then he scored a goal as a pure centre-forward",
-      "url": "https://www.milannews.it/news/pagelle-goncalo-ramos-serata-partita-malissimo-segna-gol-centravanti-puro-628221",
-      "source": "milannews.it",
-      "date": "2026-08-29T09:00:00+00:00",
-      "summary": "Milan beat Venezia also thanks to Gonçalo Ramos, who presented himself in front of his new fans, in his new stadium, in the best possible way: scoring goals."
     },
     {
       "id": "b44a7bad279c",
@@ -146,52 +306,12 @@
       "summary": "Yunus Musah spoke to the media after Milan’s 2-0 win against Venezia, citing Ruben Amorim’s trust as a key component for his positive performances lately.  Musah was initially expected to leave Milan this summer, but after being tested by Amorim in pre-season, the decision was made to keep him. So f"
     },
     {
-      "id": "0f5262e7611c",
-      "title": "Leao says goodbye to Milan: from the ocean to the Black Sea, between immense talent and regrets",
-      "url": "https://www.milannews.it/news/leao-saluta-milan-oceano-mar-nero-talento-immenso-rimpianti-628228",
-      "source": "milannews.it",
-      "date": "2026-08-29T08:48:56+00:00",
-      "summary": "On the day in which Rafael Leao decided to accept Galatasaray's proposal, \"an almost symbolic storm hit Milan: like a rebellion for what could still be and will no longer be\"..."
-    },
-    {
-      "id": "c13a6d255068",
-      "title": "Dusty on the Europa League draws: \"It went well for Spalletti, so-so for Amorim who will find a more complicated path\"",
-      "url": "https://www.milannews.it/news/polverosi-sorteggi-europa-league-e-andata-spalletti-amorim-trovera-cammino-complicato-628225",
-      "source": "milannews.it",
-      "date": "2026-08-29T08:36:00+00:00",
-      "summary": "In the columns of Il Corriere dello Sport Alberto Polverosi gave a personal comment on the Europa League draws which saw two Italians as protagonists, Juventus and Ruben Amorim's Milan, decidedly more unlucky than the ..."
-    },
-    {
       "id": "8dc7702cf157",
       "title": "GdS: Full marks as Amorim and Ramos impress in first San Siro outing",
       "url": "https://sempremilan.com/gds-amorim-ramos-impress-first-san-siro",
       "source": "sempremilan.com",
       "date": "2026-08-29T08:25:00+00:00",
       "summary": "AC Milan clinched their second win of the season on Friday evening, beating Venezia by two goals to nil, and it’s safe to say that Ruben Amorim’s tenure has started well.  After the success with Sporting, and then the nightmare tenure at Man Utd, Amorim is rebuilding his career with Milan piece by p"
-    },
-    {
-      "id": "376d41a82be4",
-      "title": "Zazzaroni on the new Milan: \"We can't yet talk about a good game: Amorim's imprint is material for trumpeters in actual permanent service\"",
-      "url": "https://www.milannews.it/news/zazzaroni-milan-di-bel-gioco-parlare-impronta-amorim-materia-trombettieri-servizio-permanente-effett-628222",
-      "source": "milannews.it",
-      "date": "2026-08-29T08:24:42+00:00",
-      "summary": "In the columns of Il Corriere dello Sport, director Ivan Zazzaroni spoke about Milan, commenting on the victory of Ruben Amorim's team over Venezia: \"There was the captain in Milan who won the last scudetto in '..."
-    },
-    {
-      "id": "6f6716370fe0",
-      "title": "Moretto on Hutchinson: \"An offer has been made to Milan, who are evaluating the profile\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-hutchinson-e-offerta-milan-valutando-profilo-628227",
-      "source": "milannews.it",
-      "date": "2026-08-29T08:12:00+00:00",
-      "summary": "During the usual appointment with the video update on his YouTube channel, Fabrizio Romano in the company of Matteo Moretto took stock of the future of Rafael Leao, who is about to become a new Galatasaray player: \"Today is ..."
-    },
-    {
-      "id": "ff9d5d96abf9",
-      "title": "Here's the bomber jacket! Ramos leads Milan. The mental strength of the Portuguese...",
-      "url": "https://www.milannews.it/primo-piano/ramos-croce-delizia-portoghese-trascina-milan-628236",
-      "source": "milannews.it",
-      "date": "2026-08-29T08:00:00+00:00",
-      "summary": "Milan beat Venezia 2-0 on the evening of memory of Franco Baresi at San Siro and remain with full points after two days, but the match against the lagoon players leaves mixed feelings."
     },
     {
       "id": "62341e0316e3",
@@ -202,44 +322,12 @@
       "summary": "AC Milan continued their positive start to the season last night, beating Venezia at home, and they were rightfully praised by the newspapers.  The positive display in the season opener gave Milan some momentum as they headed into the second clash. However, with it being Venezia and at San Siro, the"
     },
     {
-      "id": "421ca4ca4695",
-      "title": "San Siro in celebration. La Repubblica: \"Two goals against Venezia and the discovery of Ramos. Leao is already far away\"",
-      "url": "https://www.milannews.it/rassegna-stampa/san-siro-festa-repubblica-due-gol-venezia-scoperta-ramos-leao-lontano-628220",
-      "source": "milannews.it",
-      "date": "2026-08-29T07:48:52+00:00",
-      "summary": "Milan make two out of two in the league, something that hasn't happened since the 2023/24 season with Stefano Pioli on the bench."
-    },
-    {
       "id": "8f46e644df1b",
       "title": "Today’s Papers – Ramos makes Milan smile, Napoli need miracle for new striker",
       "url": "https://football-italia.net/todays-papers-ramos-milan-napoli-miracle/",
       "source": "football-italia.net",
       "date": "2026-08-29T07:48:52+00:00",
       "summary": "La Gazzetta dello Sport Juve, Kessié at all costs Midfield emergency: there’s the meeting for..."
-    },
-    {
-      "id": "70eee21299e1",
-      "title": "Milan-Venice, Il CorSera: \"Leao's farewell and homage to Baresi\"",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-venezia-corsera-l-addio-leao-omaggio-baresi-628219",
-      "source": "milannews.it",
-      "date": "2026-08-29T07:36:46+00:00",
-      "summary": "Milan-Venice was not only the evening of Gonçalo Ramos's first goal for the Rossoneri and the second consecutive championship victory for the Devil, but also of Rafael Leao's farewell and yet another tribute from the AC Milan people..."
-    },
-    {
-      "id": "14c2b81145e4",
-      "title": "Bis Amorim and the homage to Baresi. The QS: \"Milan all Ramos\"",
-      "url": "https://www.milannews.it/rassegna-stampa/bis-amorim-omaggio-baresi-qs-milan-ramos-628218",
-      "source": "milannews.it",
-      "date": "2026-08-29T07:24:25+00:00",
-      "summary": "The second was also good for Ruben Amorim's Milan, who yesterday evening beat Giovanni Stroppa's Venezia by 2 goals to 0."
-    },
-    {
-      "id": "1f387caec94e",
-      "title": "MN - Cardinale remains in Milan: direct contact with Amorim to close the transfer market",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-cardinale-resta-milano-contatto-diretto-amorim-chiudere-mercato-628232",
-      "source": "milannews.it",
-      "date": "2026-08-29T07:23:01+00:00",
-      "summary": "According to what has been learned by the editorial staff of MilanNews.it, Gerry Cardinale will remain in Milan in these last decisive hours of the transfer market."
     },
     {
       "id": "e6eceaa43f5c",
@@ -290,22 +378,6 @@
       "summary": "Ruben Amorim admits Milan have ‘a lot of work to do’ especially with their defenders..."
     },
     {
-      "id": "bb0b1b74a0b9",
-      "title": "Ramos reflects on ‘wonderful feeling’ after first Milan goal but admits he ‘had to’ score more",
-      "url": "https://sempremilan.com/ramos-wonderful-feeling-goal-score-more",
-      "source": "sempremilan.com",
-      "date": "2026-08-28T21:15:43+00:00",
-      "summary": "Goncalo Ramos has admitted that he should have scored more, but was happy above all that AC Milan got the win against Venezia. In truth, with an hour of the game gone it was looking like being quite a rough home debut for the new club-record signing. He had missed some glorious chances including a ["
-    },
-    {
-      "id": "3fefbbb67273",
-      "title": "Player Ratings: AC Milan 2-0 Venezia – Saelemaekers super sub; Ramos off the mark",
-      "url": "https://sempremilan.com/player-ratings-ac-milan-2-0-venezia-saelemaekers",
-      "source": "sempremilan.com",
-      "date": "2026-08-28T21:12:48+00:00",
-      "summary": "AC Milan managed to build on their win in the season opener with another three points against Venezia, as one substitute ended up playing a big role. Below are the ratings for the Rossoneri.  In front of the home fans at San Siro, the pressure was on Ruben Amorim and his men to clinch the […]\nThe po"
-    },
-    {
       "id": "6e456232210c",
       "title": "Ramos: ‘Milan want to win every match, but also enjoy our football’",
       "url": "https://football-italia.net/ramos-milan-want-win-also-enjoy-our-football/",
@@ -314,36 +386,12 @@
       "summary": "Goncalo Ramos insists Milan ‘want to win every game and also enjoy our football’ after..."
     },
     {
-      "id": "04934dcd8776",
-      "title": "Watch: Milan seal win against Venezia as own-goal from Jashari shot makes it 2-0",
-      "url": "https://sempremilan.com/watch-milan-own-goal-venezia-2-0",
-      "source": "sempremilan.com",
-      "date": "2026-08-28T20:59:29+00:00",
-      "summary": "AC Milan established a bit of breathing room right at the end of their home game against Venezia, thanks to an own-goal. Goncalo Ramos broke the deadlock inside the final half-hour with a lovely finish, then the game was put to bed in the 89th minute with a little help from the away side. It […]\nThe"
-    },
-    {
-      "id": "87ef894f4b19",
-      "title": "AC Milan 2-0 Venezia: Ramos scores and Saelemaekers stars as Amorim wins home debut",
-      "url": "https://sempremilan.com/ac-milan-2-0-venezia-match-report-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-08-28T20:49:05+00:00",
-      "summary": "AC Milan made it two wins from two to begin the new Serie A season as they beat Venezia 2-0 at San Siro on Friday night. Just like in the season-opening game against Torino, Milan wasted first-half chances to make it an easier night for themselves, most of them spurned by Goncalo Ramos. However, jus"
-    },
-    {
       "id": "adcc3ad8517a",
       "title": "Serie A | Milan 2-0 Venezia: Ramos breaks duck in first San Siro show",
       "url": "https://football-italia.net/serie-a-milan-2-0-venezia-ramos-breaks-duck/",
       "source": "football-italia.net",
       "date": "2026-08-28T20:46:37+00:00",
       "summary": "Goncalo Ramos scored in his first appearance at San Siro, an own goal also giving..."
-    },
-    {
-      "id": "eda5897c42c3",
-      "title": "Watch: Goncalo Ramos gets first goal for Milan with lovely finish to make it 1-0 vs. Venezia",
-      "url": "https://sempremilan.com/watch-goal-goncalo-ramos-1-0-venezia",
-      "source": "sempremilan.com",
-      "date": "2026-08-28T20:28:36+00:00",
-      "summary": "AC Milan finally took the lead against Venezia at San Siro with just over 20 minutes left as Goncalo Ramos got off the mark. Finally Milan did break the deadlock, and finally Ramos did get his goal. It was probably a harder chance than the previous few he had failed to convert, which had many […]\nTh"
     },
     {
       "id": "db482eae8ec2",
@@ -370,22 +418,6 @@
       "summary": "Milan have contacted Nottingham Forest and Omari Hutchinson’s agents to ask about his availability after..."
     },
     {
-      "id": "fa4aaa308444",
-      "title": "Amorim sheds light on changes vs. Venezia, San Siro emotions and Leao’s sale",
-      "url": "https://sempremilan.com/amorim-changes-venezia-san-siro-leao",
-      "source": "sempremilan.com",
-      "date": "2026-08-28T18:33:41+00:00",
-      "summary": "Ruben Amorim has explained the changes he made to the team to face Venezia, and discussed the imminent sale of Rafael Leao. The challenge for Milan tonight in front of a newly-promoted Venezia side is to build on the positive aspects from their win over Torino in game one. The hope for Ruben Amorim "
-    },
-    {
-      "id": "0730275a1a49",
-      "title": "Gila says Milan must ‘give everything’ to beat Venezia and ‘honour Baresi’",
-      "url": "https://sempremilan.com/gila-milan-everything-venezia-honour-baresi",
-      "source": "sempremilan.com",
-      "date": "2026-08-28T18:32:03+00:00",
-      "summary": "Ahead of the game between AC Milan and Venezia this evening, the Rossoneri’s new signing Mario Gila spoke to the media about the first home game of the season. Milan started strong with a 2-1 win against Torino in the season opener, which wasn’t a given especially since it was away from home. Tonigh"
-    },
-    {
       "id": "971b42cd48ea",
       "title": "Amorim explains Milan changes on ‘special’ debut and Leao sale",
       "url": "https://football-italia.net/amorim-explains-milan-changes-debut-leao-sale/",
@@ -402,28 +434,12 @@
       "summary": "Napoli received a double whammy of bad news today, as Chelsea agreed the sale of..."
     },
     {
-      "id": "8872d305a252",
-      "title": "AC Milan vs. Venezia: Live updates and commentary from the Serie A clash",
-      "url": "https://sempremilan.com/ac-milan-venezia-live-updates-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-08-28T18:00:00+00:00",
-      "summary": "{rsn-live-v2}\nThe post AC Milan vs. Venezia: Live updates and commentary from the Serie A clash appeared first on SempreMilan."
-    },
-    {
       "id": "eb23f4943a40",
       "title": "Serie A official line-ups: Milan vs. Venezia",
       "url": "https://football-italia.net/serie-a-official-line-ups-milan-vs-venezia/",
       "source": "football-italia.net",
       "date": "2026-08-28T17:39:52+00:00",
       "summary": "Milan host Serie A new boys Venezia with Goncalo Ramos and Alphadjo Cisse, but Luka..."
-    },
-    {
-      "id": "b6c4626c6f81",
-      "title": "Official: AC Milan vs. Venezia starting XIs – two changes from Torino win",
-      "url": "https://sempremilan.com/official-starting-xis-milan-venezia-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-08-28T17:34:06+00:00",
-      "summary": "Ruben Amorim has named his first ever starting line-up as the AC Milan head coach at San Siro, and he has opted for continuity. The new era starting well last Sunday as Milan won 2-1 away from home against Torino, but the challenge is to follow that up with another win that would put the […]\nThe pos"
     },
     {
       "id": "6420e4588c07",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-08-28T13:33:50+00:00",
       "summary": "The latest updates confirm that Rafael Leao is continuing to give his priority to Aston..."
-    },
-    {
-      "id": "b25ff0970379",
-      "title": "LIVE Done Deals Tracker: Every confirmed transfer on August 29",
-      "url": "https://football-italia.net/live-done-deal-tracker-latest-serie-a-transfer/",
-      "source": "football-italia.net",
-      "date": "2026-08-28T13:00:12+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "6fd680f708bc",
-      "title": "Europa League draw: Juventus and Milan opponents include Celta, Bournemouth and Sunderland",
-      "url": "https://football-italia.net/europa-league-draw-juventus-milan-celtic-sund/",
-      "source": "football-italia.net",
-      "date": "2026-08-28T11:36:46+00:00",
-      "summary": "Juventus and Milan have learned their opponents for the league phase of the Europa League..."
     }
   ]
 }
