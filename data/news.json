@@ -1,29 +1,221 @@
 {
-  "lastUpdated": "2026-09-01T17:35:43.272630+00:00",
+  "lastUpdated": "2026-09-01T20:32:49.122362+00:00",
   "articles": [
     {
-      "id": "e0aab0441150",
-      "title": "Visnadi critical: \"Depriving yourself of Fofana, depriving yourself of Ricci: it seems to me that Milan are a bit short everywhere\"",
-      "url": "https://www.milannews.it/news/visnadi-critico-privarsi-fofana-privarsi-ricci-milan-corto-dappertutto-628551",
+      "id": "893cc664e279",
+      "title": "David will not face Milan: the Canadian leaves Juventus for Atletico Madrid",
+      "url": "https://www.milannews.it/news/david-lascia-juve-partenza-caselle-madrid-628545",
       "source": "milannews.it",
-      "date": "2026-09-01T17:24:50+00:00",
-      "summary": "Gianni Visnadi, journalist, expressed himself thus to Radio Sportiva on the choices that the management and Amorim have made during this transfer market between entries, exits and players excluded from the project: \"I believe that Milan are ..."
+      "date": "2026-09-01T20:24:00+00:00",
+      "summary": "(ANSA) - TURIN, SEPTEMBER 01 - Jonathan David and Juventus part ways, the attacker is departing from Turin Caselle airport."
     },
     {
-      "id": "d6797d4145a0",
-      "title": "MN - Bondo remains at Milan: the French track was skipped, Monaco was on him",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-bondo-resta-milan-saltata-pista-francese-monaco-628586",
+      "id": "a3cae9a7d936",
+      "title": "Top 10 most expensive Serie A signings of 2026 summer transfer window",
+      "url": "https://football-italia.net/top-10-most-expensive-serie-a-signings-2026/",
+      "source": "football-italia.net",
+      "date": "2026-09-01T20:15:00+00:00",
+      "summary": "Goncalo Ramos remains was the most expensive Serie A signing of the 2026 Serie A..."
+    },
+    {
+      "id": "03c65312a306",
+      "title": "Hutchinson admits: \"Milan is a dream, I want to work well with Amorim\"",
+      "url": "https://www.milannews.it/news/hutchinson-milan-sogno-voglio-lavorare-amorim-628582",
       "source": "milannews.it",
-      "date": "2026-09-01T17:17:00+00:00",
-      "summary": "Warren Bondo's future, for now, would remain linked to Milan. As learned a little while ago by the MilanNews editorial team."
+      "date": "2026-09-01T20:12:23+00:00",
+      "summary": "(ANSA) - MILAN, SEPTEMBER 01 - \"It's crazy, a dream. When a club as important as Milan knocks on your door it's incredible."
+    },
+    {
+      "id": "58fced549bc1",
+      "title": "Every transfer completed by Serie A clubs in 2026 summer transfer window",
+      "url": "https://football-italia.net/every-transfer-completed-serie-a-2026-summer/",
+      "source": "football-italia.net",
+      "date": "2026-09-01T20:05:35+00:00",
+      "summary": "The Serie A summer transfer window closed today, Tuesday, September 1, at 20:00 CET: here..."
+    },
+    {
+      "id": "32a4f2b750aa",
+      "title": "Tomori welcomed back to Milan fold after failure to guarantee transfer",
+      "url": "https://football-italia.net/tomori-welcomed-back-milan-failure-transfer/",
+      "source": "football-italia.net",
+      "date": "2026-09-01T20:05:15+00:00",
+      "summary": "Fikayo Tomori resisted all attempts for Milan to sell him again and it paid off..."
+    },
+    {
+      "id": "a7409775617e",
+      "title": "Safe order: \"300 million were needed to do everything that needed to be done. And Cardinale's constant presence at Milanello...\"",
+      "url": "https://www.milannews.it/news/ordine-sicuro-per-c-era-servivano-300-milioni-presenza-costante-cardinale-milanello-628596",
+      "source": "milannews.it",
+      "date": "2026-09-01T20:00:29+00:00",
+      "summary": "During the episode of QSVS, on Telelombardia, the well-known journalist Franco Ordine spoke about the Rossoneri transfer market and the fact that in the end, Cardinale helped Amorim in building the squad and is continuing to do so..."
+    },
+    {
+      "id": "ba5c3ee3a04c",
+      "title": "Argentina's greeting for Leo Messi is thrilling: the message",
+      "url": "https://www.milannews.it/news/argentina-inconsolabile-messi-e-storia-628554",
+      "source": "milannews.it",
+      "date": "2026-09-01T19:48:52+00:00",
+      "summary": "(ANSA) - ROME, SEPTEMBER 01 - \"A beautiful story, between ups and downs, a great story\"."
+    },
+    {
+      "id": "6fca9a3e4e8e",
+      "title": "Fabrizio Romano confirms: \"Tomori will return to training with Amorim\"",
+      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-conferma-tomori-tornera-allenarsi-amorim-628595",
+      "source": "milannews.it",
+      "date": "2026-09-01T19:35:40+00:00",
+      "summary": "Fabrizio Romano, a transfer expert, expressed himself on X on the situation of Fikayo Tomori, AC Milan's English defender: \"AC Milan informs Fikayo Tomori and his agents of the decision to reinstate the defender in the roster ..."
+    },
+    {
+      "id": "d50d84b53818",
+      "title": "Rabiot-Cisse the most likely pairing for the attacking midfield against Juventus",
+      "url": "https://www.milannews.it/news/rabiot-cisse-coppia-probabile-trequarti-juventus-628556",
+      "source": "milannews.it",
+      "date": "2026-09-01T19:24:18+00:00",
+      "summary": "Since yesterday, Milan has put its head back on the championship and Juventus."
+    },
+    {
+      "id": "b6983df6d3bd",
+      "title": "Today Milan discovers their opponent for the round of 16 of the Italian Cup",
+      "url": "https://www.milannews.it/news/milan-scopre-avversario-ottavi-finale-coppa-italia-628566",
+      "source": "milannews.it",
+      "date": "2026-09-01T19:12:27+00:00",
+      "summary": "The Italian Cup round of 32 program begins today."
+    },
+    {
+      "id": "3bdfe7a9515b",
+      "title": "AC Milan’s 2026 summer mercato: All the official signings and details",
+      "url": "https://sempremilan.com/ac-milan-all-2026-summer-signings-details",
+      "source": "sempremilan.com",
+      "date": "2026-09-01T19:09:02+00:00",
+      "summary": "The 2026 summer mercato came to an end at 20:00 CEST, and AC Milan made a total of five signings for the first team, reinforcing a few key positions. While the key details of every transfer are listed below, we would recommend signing up for our Substack to get our annual mercato financial breakdown"
+    },
+    {
+      "id": "39b18ad28196",
+      "title": "OFFICIAL: Kevin Zeroli goes on loan to Sudtirol",
+      "url": "https://www.milannews.it/calciomercato-milan/ufficiale-kevin-zeroli-passa-prestito-sudtirol-628591",
+      "source": "milannews.it",
+      "date": "2026-09-01T18:51:43+00:00",
+      "summary": "Through an official press release, Milan announce that they have loaned Kevin Zeroli's performances to Sudtirol with the right to buy. Below is the statement from the Rossoneri club."
+    },
+    {
+      "id": "f4b038b3ac93",
+      "title": "OFFICIAL: Jacopo Sardo goes on loan to Pescara",
+      "url": "https://www.milannews.it/calciomercato-milan/ufficiale-jacopo-sardo-passa-prestito-pescara-628590",
+      "source": "milannews.it",
+      "date": "2026-09-01T18:50:06+00:00",
+      "summary": "Milan, through an official press release, announces the loan transfer of Jacopo Sardo to Pescara. Below is the club's press release."
+    },
+    {
+      "id": "a31dda613d5f",
+      "title": "Leao-mania in Istanbul: 50,000 shirts sold in three days",
+      "url": "https://www.milannews.it/news/leao-mania-istanbul-vendute-50-000-maglie-628536",
+      "source": "milannews.it",
+      "date": "2026-09-01T18:36:27+00:00",
+      "summary": "After a wait that lasted all summer and an uncertainty that never stopped hovering over Milanello, Rafael Leao accepted Galtasaray's proposal and moved to Istanbul after seven years at Milan."
+    },
+    {
+      "id": "badc8a02dced",
+      "title": "Di Marzio: Fofana’s move to Lyon falls apart in the final hour – the reasons",
+      "url": "https://sempremilan.com/fofana-move-lyon-falls-apart",
+      "source": "sempremilan.com",
+      "date": "2026-09-01T18:27:31+00:00",
+      "summary": "Youssouf Fofana seemed all set to return to France on deadline day, and yet his move has fallen apart right at the end. Fabrizio Romano reported earlier this afternoon that the deal that would see Fofana reunite with Paulo Fonseca in Lyon was done, even giving it the ‘here we go’ stamp. “Olympique L"
+    },
+    {
+      "id": "bc8ae9b0fe2d",
+      "title": "Di Canio says Hutchinson: \"A winger with legs and resourcefulness, in the last year he has worked hard even when not in possession\"",
+      "url": "https://www.milannews.it/news/canio-racconta-hutchinson-628569",
+      "source": "milannews.it",
+      "date": "2026-09-01T18:24:00+00:00",
+      "summary": "The offensive reinforcement for coach Ruben Amorim is called Omari Hutchinson. The Anglo-Jamaican born in 2003 arrives after an experience from Nottingham Forest last season."
+    },
+    {
+      "id": "171178051974",
+      "title": "Milan fury at Fofana failure of Lyon €12m deal, hope for Besiktas",
+      "url": "https://football-italia.net/milan-fury-fofana-failure-lyon-e12m-besiktas/",
+      "source": "football-italia.net",
+      "date": "2026-09-01T18:22:32+00:00",
+      "summary": "Milan are furious with Olympique Lyonnais, because the Youssouf Fofana move failed due to trouble..."
+    },
+    {
+      "id": "f824ecf4417a",
+      "title": "Milan, dietrofront Tomori: potrebbe essere reintegrato in rosa",
+      "url": "https://www.milannews.it/news/milan-dietrofront-tomori-reintegrato-rosa-628589",
+      "source": "milannews.it",
+      "date": "2026-09-01T18:20:50+00:00",
+      "summary": "Come riporta Fabrizio Romano, il Milan starebbe rivalutando di reintegrare in rosa Fikayo Tomori, dichiarato ad inizio mercato esubero."
+    },
+    {
+      "id": "9e28580d7ab2",
+      "title": "Sabatini: \"This great Milan from last year's Scudetto wasn't there, otherwise they wouldn't have sold half the starting team\"",
+      "url": "https://www.milannews.it/news/sabatini-questo-milan-scudetto-era-venduto-mezza-squadra-titolare-628548",
+      "source": "milannews.it",
+      "date": "2026-09-01T18:12:09+00:00",
+      "summary": "Sandro Sabatini, journalist, expressed himself as follows on Radio Sportiva on the construction of Amorim's Milan team, starting with the latest acquisition Hutchinson: \"In certain situations one must trust those who have seen him ..."
+    },
+    {
+      "id": "dabeaae6b753",
+      "title": "Mercato in uscita: saltato Fofana al Lione: su di lui c'è la pista Besiktas",
+      "url": "https://www.milannews.it/calciomercato-milan/mercato-uscita-saltato-fofana-lione-pista-besiktas-628588",
+      "source": "milannews.it",
+      "date": "2026-09-01T18:09:00+00:00",
+      "summary": "Come riportato poco fa da Gianluca Di Marzio, il futuro di Youssouf Fofana potrebbe clamorosamente restare legato al Milan. Infatti, il centrocampista francese non sarebbe più così vicino al Lione, anzi tutt'altro."
+    },
+    {
+      "id": "a993a513f8c2",
+      "title": "Calciomercato finito: tutte le operazioni del Milan. Cos'è andato bene e cosa manca",
+      "url": "https://www.milannews.it/primo-piano/calciomercato-finito-operazioni-milan-andato-manca-628570",
+      "source": "milannews.it",
+      "date": "2026-09-01T18:00:00+00:00",
+      "summary": "È il primo settembre e sono scoccate le ore 20: la finestra estiva di calciomercato si è ufficialmente conclusa."
+    },
+    {
+      "id": "1c2b23ebe04b",
+      "title": "Reports: Bondo and Tomori set for deadline day disappointment as moves fade",
+      "url": "https://sempremilan.com/bondo-tomori-deadline-moves-fade",
+      "source": "sempremilan.com",
+      "date": "2026-09-01T18:00:00+00:00",
+      "summary": "Warren Bondo and Fikayo Tomori are both expected to remain AC Milan players beyond the summer deadline. As MilanNews report, Bondo hasn’t reached an agreement with the club regarding a loan. The midfielder wanted to play in France, and Monaco had made strong moves towards him in the last few hours. "
     },
     {
       "id": "5b50a09156cf",
-      "title": "Milan transfer market news: the day LIVE! Chaos Tiago Gabriel, Fofana sold, Tomori no Fulham",
+      "title": "Notizie calciomercato Milan: la giornata LIVE! Saltato Fofana al Lione! Tomori niente Fulham",
       "url": "https://www.milannews.it/calciomercato-milan/notizie-calciomercato-milan-giornata-live-tiago-gabriel-fofana-difensore-mercato-628509",
       "source": "milannews.it",
-      "date": "2026-09-01T17:15:00+00:00",
-      "summary": "MILAN TRANSFER MARKET NEWS: THE LATEST MINUTE BY MINUTE\n\n---------- [constantly updated]\n\n7.15pm | BONDO REMAINS AT MILAN\n\nAs reported by the editorial staff of MilanNews."
+      "date": "2026-09-01T17:59:00+00:00",
+      "summary": "NOTIZIE CALCIOMERCATO MILAN: LE ULTIME MINUTO PER MINUTO\n\n---------- [in aggiornamento costante]\n\n20.00 | FOFANA NIENTE LIONE: VA IN TURCHIA?\n\nCome riportato da Gianluca Di Marzio, Youssouf Fofana non andrà al Lione."
+    },
+    {
+      "id": "408e46c62d02",
+      "title": "Hutchinson: \"Spero di fare bene al Milan, di segnare e di esultare con una capriola all'indietro\"",
+      "url": "https://www.milannews.it/news/hutchinson-628579",
+      "source": "milannews.it",
+      "date": "2026-09-01T17:48:00+00:00",
+      "summary": "Il nuovo giocatore del Milan Omari Hutchinson, da poco ufficializzato come rinforzo rossonero per questa sessione di mercato estiva, è intervenuto così ai canali ufficiali del club rossonero."
+    },
+    {
+      "id": "c6661595a394",
+      "title": "Diego Moreira allo Store di Via Dante: giovedì l'abbraccio con i tifosi rossoneri",
+      "url": "https://www.milannews.it/news/diego-moreira-store-via-dante-giovedi-abbraccio-tifosi-rossoneri-628587",
+      "source": "milannews.it",
+      "date": "2026-09-01T17:36:00+00:00",
+      "summary": "Diego Moreira potrà presto incontrare i tifosi rossoneri. In attesa del suo esordio in campo, il neo estero belga rossonero sarà presente al solito Store in Via Dante per il primo abbraccio con il mondo rossonero."
+    },
+    {
+      "id": "e0aab0441150",
+      "title": "Visnadi critico: \"Privarsi di Fofana, privarsi di Ricci: a me sembra che il Milan sia un po' corto dappertutto\"",
+      "url": "https://www.milannews.it/news/visnadi-critico-privarsi-fofana-privarsi-ricci-milan-corto-dappertutto-628551",
+      "source": "milannews.it",
+      "date": "2026-09-01T17:24:50+00:00",
+      "summary": "Gianni Visnadi, giornalista, si è così espresso a Radio Sportiva sulle scelte che la dirigenza e Amorim hanno preso durante questo calciomercato tra entrate, uscite e calciatori messi fuori dal progetto: \"Credo che il Milan si ..."
+    },
+    {
+      "id": "d6797d4145a0",
+      "title": "MN - Bondo resta al Milan: saltata la pista francese, su di lui c'era il Monaco",
+      "url": "https://www.milannews.it/calciomercato-milan/mn-bondo-resta-milan-saltata-pista-francese-monaco-628586",
+      "source": "milannews.it",
+      "date": "2026-09-01T17:17:00+00:00",
+      "summary": "Il futuro di Warren Bondo, per ora resterebbe legato al Milan. Come appreso poco fa dalla redazione di MilanNews."
     },
     {
       "id": "3114672cb0af",
@@ -34,52 +226,12 @@
       "summary": "Adrien Rabiot’s importance to AC Milan hasn’t changed one bit, and the ownership plan to show this in gestures. In a summer of profound changes for the Rossoneri, as well as conflicting rumours about the French midfielder’s future, Rabiot remains a pillar of the team. Ruben Amorim confirmed this in "
     },
     {
-      "id": "7455352bbc46",
-      "title": "Ravezzani: \"Woltemade could have been a solution for Milan\"",
-      "url": "https://www.milannews.it/news/ravezzani-woltemade-poteva-soluzione-milan-manca-difensore-628530",
-      "source": "milannews.it",
-      "date": "2026-09-01T17:12:22+00:00",
-      "summary": "Fabio Ravezzani, director of TeleLombardia, expressed himself as follows on his Youtube channel on Milan's transfer market: \"Milan have done things strategically different from those of Juventus."
-    },
-    {
       "id": "937d8ed22aff",
       "title": "LIVE Done Deals Tracker: Every confirmed transfer on deadline day",
       "url": "https://football-italia.net/live-transfer-tracker-2025-26-summer-window/",
       "source": "football-italia.net",
       "date": "2026-09-01T17:10:00+00:00",
       "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "8419778a890b",
-      "title": "Milan transfer market, no return to the Premier League for Tomori: Fulham fades",
-      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-tomori-ritorno-premier-sfuma-fulham-628585",
-      "source": "milannews.it",
-      "date": "2026-09-01T17:08:00+00:00",
-      "summary": "As reported earlier by Alfredo Pedullà, the future of Fikayo Tomori would not be destined to be far from Milan. The English center back certainly won't go to Fulham."
-    },
-    {
-      "id": "f1180b8c204d",
-      "title": "Sunderland strengthens for Milan: Fofana signed from Lyon and a defender from Tottenham",
-      "url": "https://www.milannews.it/news/sunderland-rinforza-milan-preso-fofana-lione-difensore-tottenham-628553",
-      "source": "milannews.it",
-      "date": "2026-09-01T17:00:14+00:00",
-      "summary": "Sunderland, Milan's next opponent in the championship phase of the Europa League, made two signings in the final hours of the transfer market, taking both defender Kevin Danso from Tottenham and attacking winger Malick Fofana from Lyon..."
-    },
-    {
-      "id": "297dd98d0b7c",
-      "title": "Hutchinson talks about his idols who played for Milan",
-      "url": "https://www.milannews.it/news/hutchinson-racconta-idoli-giocato-milan-628577",
-      "source": "milannews.it",
-      "date": "2026-09-01T16:48:06+00:00",
-      "summary": "Omari Hutchinson, new offensive reinforcement for Ruben Amorim's new Milan, spoke to the official channels of the Rossoneri club."
-    },
-    {
-      "id": "35722ed36f8b",
-      "title": "MN - Bondo, return to France blocked. Milan has run out of loan slots for abroad",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-bondo-ritorno-franca-bloccato-milan-esaurito-slot-prestiti-estero-628584",
-      "source": "milannews.it",
-      "date": "2026-09-01T16:47:21+00:00",
-      "summary": "Among the players still looking for accommodation in these last hours of the transfer market there is also Warren Bondo, midfielder born in 2003."
     },
     {
       "id": "834bdc31a1af",
@@ -90,36 +242,12 @@
       "summary": "Fiorentina will close the summer transfer window with the surprise signing of Pedro Gonçalves, one that will make AC Milan take note too. Fabrizio Romano announced the deal: “Fiorentina agree surprise deal to sign Pedro Gonçalves from Sporting, here we go! Loan deal with a €22.5m option to buy claus"
     },
     {
-      "id": "710ec75fa19c",
-      "title": "Milan Women, the Rossonere calendar for the month of September",
-      "url": "https://www.milannews.it/milan-femminile/milan-femminile-calendario-rossonere-mese-settembre-628555",
-      "source": "milannews.it",
-      "date": "2026-09-01T16:36:54+00:00",
-      "summary": "The season of the Milan Femminile has also resumed in full force and there will be many events in this month of September."
-    },
-    {
-      "id": "ad96d724c502",
-      "title": "Biasin on the AC Milan squad: \"I continue to think that an alternative to Goncalo Ramos would have been useful\"",
-      "url": "https://www.milannews.it/news/biasin-continuo-pensare-alternativa-goncalo-ramos-serva-milan-628549",
-      "source": "milannews.it",
-      "date": "2026-09-01T16:24:15+00:00",
-      "summary": "Fabrizio Biasin, journalist, expressed himself to RadioSportiva on Milan's transfer market and Omari Hutchinson: \"I believe that, from the perspective of a module that we are learning to know, the one with the two central midfielders..."
-    },
-    {
       "id": "fe7e816f38eb",
       "title": "Hutchinson lifts lid on ‘dream’ Milan move, talks with Amorim and playing style",
       "url": "https://sempremilan.com/hutchinson-dream-milan-amorim-playing-style",
       "source": "sempremilan.com",
       "date": "2026-09-01T16:15:00+00:00",
       "summary": "AC Milan’s new signing Omari Hutchinson has described his move as ‘crazy’ and ‘a dream’, and he cannot wait to get going. Milan were linked with countless attacking midfielders in the weeks prior, but in the end the name they signed came a bit out of nowhere. On Monday night the club announced the c"
-    },
-    {
-      "id": "32212f4bf74e",
-      "title": "Pastore: \"Milan fans ask for signings, but the last Scudetto arrived without buying anyone. Wenger says that...\"",
-      "url": "https://www.milannews.it/news/pastore-i-tifosi-milan-chiedono-acquisti-acquisti-scudetto-arrivo-nessuno-wenger-calciomercato-628522",
-      "source": "milannews.it",
-      "date": "2026-09-01T16:12:00+00:00",
-      "summary": "Giuseppe Pastore, journalist, expressed himself as follows on 'Fontana di Trevi', broadcast on Cronache di Spogliatoio, about the transfer market: \"There is a real dependence on the transfer market which affects a lot of football fans ..."
     },
     {
       "id": "7c59053c7e74",
@@ -130,36 +258,12 @@
       "summary": "The Coppa Italia Round of 32 kicks off today with two matches, as Parma host..."
     },
     {
-      "id": "4891a0319f49",
-      "title": "Milan transfer market: agreement with Lyon, Fofana loaned out",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-accordo-lione-ceduto-fofana-prestito-628583",
-      "source": "milannews.it",
-      "date": "2026-09-01T16:00:00+00:00",
-      "summary": "(ANSA) - MILAN, SEPTEMBER 01 - Youssouf Fofana is one step away from wearing the Lyon shirt. The French club and Milan have in fact reached an agreement for a loan with right of redemption set at 12 million euros."
-    },
-    {
-      "id": "f6dd9219d67b",
-      "title": "Hutchinson and his dad's stories about Milan: \"He always spoke to me about the legends who played here\"",
-      "url": "https://www.milannews.it/news/hutchinson-628574",
-      "source": "milannews.it",
-      "date": "2026-09-01T15:48:00+00:00",
-      "summary": "The new Rossoneri attacking midfielder Omari Hutchinson thus spoke to the official channels of the Rossoneri club, analyzing and commenting on his first sensations as a Milan player."
-    },
-    {
       "id": "2544401d711d",
       "title": "GdS: 50,000 shirts in three days – Galatasaray fans gripped by Leao-mania",
       "url": "https://sempremilan.com/galatasaray-fans-gripped-leao-mania-shirts",
       "source": "sempremilan.com",
       "date": "2026-09-01T15:45:00+00:00",
       "summary": "It would be fair to say that Rafael Leao mania has gripped Istanbul, with Galatasaray shirts flying off the shelves that have his name on. According to La Gazzetta dello Sport, 50,000 Galatasaray shirts with the new number 27’s name on have been sold in three days. Even considering the usual enthusi"
-    },
-    {
-      "id": "c110fcbcbb60",
-      "title": "Bianchin: \"Milan will decide to take the risk by relying on Diawara and Vladimirov as alternatives in defense\"",
-      "url": "https://www.milannews.it/calciomercato-milan/bianchin-il-milan-decidera-correre-rischio-affidandosi-diawara-vladimirov-alternative-difesa-628543",
-      "source": "milannews.it",
-      "date": "2026-09-01T15:36:19+00:00",
-      "summary": "Luca Bianchin, journalist, expressed himself in La Gazzetta dello Sport on Amorim's choices for Milan's defence: \"Milan think they already have six rotation defenders: Gila, De Winter, Pavlovic, Gabbia, Diawara, Vl..."
     },
     {
       "id": "ea8a81db997b",
@@ -170,22 +274,6 @@
       "summary": "Milan send Youssouf Fofana to Olympique Lyonnais, but Fikayo Tomori is reportedly in London for..."
     },
     {
-      "id": "b272d2216e73",
-      "title": "Passerini underlines: \"Amorim, on the market, has been completely or almost completely satisfied. But two pieces are missing\"",
-      "url": "https://www.milannews.it/calciomercato-milan/passerini-sottolinea-amorim-voluto-fortemente-moreira-hutchinson-aspetto-rendere-cifre-spese-628544",
-      "source": "milannews.it",
-      "date": "2026-09-01T15:24:05+00:00",
-      "summary": "Carlos Passerini, journalist for Corriere della Sera, expressed himself as follows on his Youtube channel on the AC Milan transfer market and its consequences: \"A lot depends on Amorim, here and from here onwards."
-    },
-    {
-      "id": "463c56a2088f",
-      "title": "Serie A Milan Scudetto odds, bets on the Rossoneri",
-      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-scudetto-serie-a-milan-le-scommesse-sui-rossoneri-579454",
-      "source": "milannews.it",
-      "date": "2026-09-01T15:18:00+00:00",
-      "summary": "Milan has changed its face and is also trying to change its perspectives."
-    },
-    {
       "id": "a344c4051b31",
       "title": "MN: Gabbia forced to leave training with ankle discomfort – what filters ahead of Juventus",
       "url": "https://sempremilan.com/gabbia-ankle-discomfort-what-filters-juventus",
@@ -194,44 +282,12 @@
       "summary": "Matteo Gabbia was forced to leave training early on Tuesday due to picking up an ankle issue, and he could miss the Juventus game. According to MilanNews, Gabbia suffered an ankle problem – one described as being ‘more of a nuisance than anything else’ – in training today at Milanello. He underwent "
     },
     {
-      "id": "daf1badd292f",
-      "title": "MN - Meeting with Bondo's agents concluded: the midfielder would like to play in France, a new solution is being sought",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-terminato-incontro-agenti-bondo-centrocampista-vorrebbe-giocare-francia-cerca-nuova-soluzione-628581",
-      "source": "milannews.it",
-      "date": "2026-09-01T15:14:00+00:00",
-      "summary": "Warren Bondo's future will no longer be, in all likelihood linked to Italy and the Italian championship. In fact, as learned by the MilanNews editorial staff."
-    },
-    {
-      "id": "7ba3dc05535c",
-      "title": "Nothing to do for Tiago Gabriel at Milan: too wide a gap between supply and demand",
-      "url": "https://www.milannews.it/calciomercato-milan/tiago-gabriel-milan-distanza-ampia-domanda-offerta-628578",
-      "source": "milannews.it",
-      "date": "2026-09-01T15:00:00+00:00",
-      "summary": "According to what was reported by Claudio Raimondi, a market expert for SportMediaset, no agreement has been found between Milan and Lecce for Tiago Gabriel: too wide a gap between the request of the Salento club and the spending intentions..."
-    },
-    {
-      "id": "de35b38e53d3",
-      "title": "MN - Kevin Zeroli at Sud Tirol on loan with right to buy",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-kevin-zeroli-sud-tirol-prestito-diritto-riscatto-628580",
-      "source": "milannews.it",
-      "date": "2026-09-01T14:48:00+00:00",
-      "summary": "The adventure of midfielder Kevin Zeroli, at least for this season, will not be in Milan. Yes, because as learned by the MilanNews editorial team."
-    },
-    {
       "id": "3bc0948df9a4",
       "title": "Sky: Milan pondering last-minute move but not for Tiago Gabriel",
       "url": "https://sempremilan.com/milan-last-minute-move-not-tiago-gabriel",
       "source": "sempremilan.com",
       "date": "2026-09-01T14:45:00+00:00",
       "summary": "AC Milan are currently deciding whether to make a late move for a centre-back, but it will not be Lecce’s Tiago Gabriel. According to what is being reported by Sky (via MilanNews), in the last few hours the Milan management have also been evaluating whether to try a last-minute move for a central de"
-    },
-    {
-      "id": "888c6f28e0b1",
-      "title": "MN - Bondo's agent at Casa Milan to finalize the midfielder's transfer",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-agente-bondo-casa-milan-definire-trasferimento-centrocampista-628576",
-      "source": "milannews.it",
-      "date": "2026-09-01T14:34:49+00:00",
-      "summary": "According to what has been learned by the editorial staff of MilanNews.it, Malu Mpasinkatu, Warren Bondo's agent, is at Casa Milan to discuss with the Rossoneri managers the transfer of the midfielder, who is out of the squad at the Rossoneri club."
     },
     {
       "id": "07681625bb35",
@@ -330,36 +386,12 @@
       "summary": "Santiago Gimenez has introduced himself at FC Porto, admitting that things with AC Milan did not go as he had hoped. On Monday night, Porto confirmed the signing of Gimenez on an initial loan deal with an option to buy. There is actually a conditional obligation to buy, which would be triggered if c"
     },
     {
-      "id": "2b182eb2f8ef",
-      "title": "Di Marzio: Milan and Lyon working to resolve ‘snags’ in Fofana deal – the latest",
-      "url": "https://sempremilan.com/milan-lyon-working-resolve-fofana-snags",
-      "source": "sempremilan.com",
-      "date": "2026-09-01T09:00:00+00:00",
-      "summary": "It looked as though Youssouf Fofana was heading for a return to Ligue 1, but the deal between AC Milan and Lyon has hit some difficulties. There are not expected to be any incomings on transfer deadline day for Milan, but it could be busy on the outgoing front. Warren Bondo’s camp are in talks […]\nT"
-    },
-    {
       "id": "08ab09968739",
       "title": "Rafael Leao’s message to Milan fans: ‘I leave with a smile, I’m one of you’",
       "url": "https://football-italia.net/rafael-leao-message-milan-fans-smile-1-you/",
       "source": "football-italia.net",
       "date": "2026-09-01T08:34:55+00:00",
       "summary": "Former Milan star Rafael Leao has shared a video message to thank Milan fans: ‘I..."
-    },
-    {
-      "id": "f38ebeec1a55",
-      "title": "Leao bids emotional goodbye to Milan: “Thank you from the heart to everyone”",
-      "url": "https://sempremilan.com/leao-bids-emotional-goodbye-to-milan",
-      "source": "sempremilan.com",
-      "date": "2026-09-01T08:30:00+00:00",
-      "summary": "Rafael Leao has delivered an emotional goodbye message to AC Milan as a club and the supporters, insisting he will remain a fan. Over the weekend, Leao’s move to Galatasaray on a permanent basis was announced by both clubs. The Turkish side even confirmed that the fee will be €38m plus bonuses, whil"
-    },
-    {
-      "id": "e0649b492313",
-      "title": "AC Milan Deadline Day LIVE: Centre-back mystery, midfielder ‘here we go’",
-      "url": "https://sempremilan.com/ac-milan-deadline-day-live-2026-summer",
-      "source": "sempremilan.com",
-      "date": "2026-09-01T08:00:00+00:00",
-      "summary": "{rsn-live-v2}\nThe post AC Milan Deadline Day LIVE: Centre-back mystery, midfielder ‘here we go’ appeared first on SempreMilan."
     },
     {
       "id": "0b3e1437def9",
@@ -448,38 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-08-30T13:56:58+00:00",
       "summary": "Milan are still hoping to add to their centre-back and wing-back departments before the close..."
-    },
-    {
-      "id": "4e077678e40b",
-      "title": "Official: Milan sell Leao to Galatasaray after seven seasons",
-      "url": "https://football-italia.net/official-milan-sell-leao-to-galatasaray/",
-      "source": "football-italia.net",
-      "date": "2026-08-30T10:07:57+00:00",
-      "summary": "Milan have officially announced that former Serie A MVP winner Rafael Leao has joined Turkish..."
-    },
-    {
-      "id": "c3a36c1e005a",
-      "title": "Today’s Papers: Juventus’s unwanted stars win it, Fiorentina’s anniversary nightmare",
-      "url": "https://football-italia.net/todays-papers-juventuss-unwanted-stars-win-it/",
-      "source": "football-italia.net",
-      "date": "2026-08-30T07:49:44+00:00",
-      "summary": "La Gazzetta dello Sport  An overflowing Juve  Nico and Koopmeiners surprise goals  Parma beaten by..."
-    },
-    {
-      "id": "b8704a8b5519",
-      "title": "Done Deal: Gimenez ready for FC Porto in €20m Milan agreement",
-      "url": "https://football-italia.net/done-deal-gimenez-ready-for-fc-porto-milan/",
-      "source": "football-italia.net",
-      "date": "2026-08-29T22:56:40+00:00",
-      "summary": "Multiple sources confirm Milan have agreed the transfer of Santiago Gimenez to FC Porto, on..."
-    },
-    {
-      "id": "22aa0bf0ba8a",
-      "title": "Report Hutchinson ready for Milan after verbal agreement with Nottingham Forest",
-      "url": "https://football-italia.net/report-hutchinson-read-milan-nottingham-forest/",
-      "source": "football-italia.net",
-      "date": "2026-08-29T19:26:14+00:00",
-      "summary": "Milan have reportedly agreed a loan with option to buy for Nottingham Forest winger Omari..."
     }
   ]
 }
