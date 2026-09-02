@@ -1,37 +1,61 @@
 {
-  "lastUpdated": "2026-09-02T00:58:29.889076+00:00",
+  "lastUpdated": "2026-09-02T05:35:47.434134+00:00",
   "articles": [
     {
+      "id": "1cb92013529a",
+      "title": "Milan transfer market, all outgoing operations: more than 10 players sold",
+      "url": "https://www.milannews.it/news/calciomercato-milan-operazioni-uscita-628602",
+      "source": "milannews.it",
+      "date": "2026-09-02T05:24:00+00:00",
+      "summary": "Last night, at 8.00 pm sharp, the summer transfer transfer session for the 2025/2026 season officially ended."
+    },
+    {
+      "id": "c0a6e8a09bb2",
+      "title": "Milan transfer market, all incoming operations: reaching 125 million euros spent",
+      "url": "https://www.milannews.it/news/calciomercato-milan-operazioni-entrata-tocca-quota-165-euro-628601",
+      "source": "milannews.it",
+      "date": "2026-09-02T05:12:00+00:00",
+      "summary": "Last night, at 8.00 pm sharp, the summer transfer transfer session for the 2025/2026 season officially ended."
+    },
+    {
+      "id": "3485c6e87ea0",
+      "title": "Transfer market: the complete portfolio of AC Milan's incoming and outgoing operations",
+      "url": "https://www.milannews.it/news/calciomercato-borsino-completo-operazioni-entrata-uscita-milan-628600",
+      "source": "milannews.it",
+      "date": "2026-09-02T05:00:00+00:00",
+      "summary": "Once the summer transfer market has officially ended, this is the definitive list of AC Milan's incoming and outgoing operations."
+    },
+    {
       "id": "e44b4795a7d1",
-      "title": "Ordine: \"Il Milan ha strapagato Ramos e Moreira ma se non avesse fatto così avrebbe perso i suoi obiettivi”",
+      "title": "Order: \"Milan overpaid Ramos and Moreira but if they hadn't done so they would have lost their goals\"",
       "url": "https://www.milannews.it/news/ordine-mercato-milan-il-milan-strapagato-ramos-moreira-perso-obiettivi-628598",
       "source": "milannews.it",
       "date": "2026-09-01T22:48:50+00:00",
-      "summary": "Durante la puntata in onda di QSVS, su Telelombardia, il noto giornalista Franco Ordine si è espresso sul mercato rossonero e sulle operazione fatte in entrata, in uscita e sui bisogni che non sono stati colmati.Queste le sue parole."
+      "summary": "During the episode of QSVS, on Telelombardia, the well-known journalist Franco Ordine expressed himself on the Rossoneri market and on the incoming and outgoing operations carried out and on the needs that have not been filled. These are his words."
     },
     {
       "id": "b2b1bc2589db",
-      "title": "Como: Kean, 'mi rispecchio molto nelle idee di Fabregas'",
+      "title": "Como, Kean: “I am very much reflected in Fabregas' ideas”",
       "url": "https://www.milannews.it/news/como-kean-rispecchio-idee-fabregas-628605",
       "source": "milannews.it",
       "date": "2026-09-01T22:36:42+00:00",
-      "summary": "(ANSA) - MILANO, 01 SET - \"Qui a Como ho trovato un ambiente compatto, tanti ragazzi con grande voglia di fare bene e un ottimo progetto."
+      "summary": "(ANSA) - MILAN, 01 SEPTEMBER - \"Here in Como I found a compact environment, many kids with a great desire to do well and an excellent project."
     },
     {
       "id": "effffdc4a4a7",
-      "title": "Cuomo stupefatto: \"Tomori poteva stare a passeggiare a Milanello tanto chissenefrega e ora viene reintegrato? Che disordine!\"",
+      "title": "Cuomo amazed: \"Tomori could have been walking around Milanello, who cares and now he's being reinstated? What a mess!\"",
       "url": "https://www.milannews.it/calciomercato-milan/cuomo-tomori-reintegrato-calciomercato-milan-amorim-cardinale-milanello-mercato-628593",
       "source": "milannews.it",
       "date": "2026-09-01T22:24:07+00:00",
-      "summary": "Michael Cuomo, giornalista, si è così espresso sul canale Youtube di Carlos Passerini sull'esito finale del calciomercato del Milan: \"Spendere tanto non è sinonimo di spendere bene."
+      "summary": "Michael Cuomo, journalist, expressed himself as follows on Carlos Passerini's YouTube channel on the final outcome of the AC Milan transfer market: \"Spending a lot is not synonymous with spending well."
     },
     {
       "id": "63ded1b5d59e",
-      "title": "Letizia: \"Chissà se sapremo mai la verità su ciò che è successo a Casa Milan nelle ultime ore”",
+      "title": "Letizia: \"Who knows if we will ever know the truth about what happened at Casa Milan in the last few hours\"",
       "url": "https://www.milannews.it/calciomercato-milan/letizia-tomori-reintegrato-calciomercato-milan-amorim-cardinale-milanello-mercato-628594",
       "source": "milannews.it",
       "date": "2026-09-01T22:12:33+00:00",
-      "summary": "Francesco Letizia, giornalista, si è così espresso sul suo canale Youtube sul calciomercato del Milan e sul reintegro di Tomori: \"Chissà se sapremo mai la verità."
+      "summary": "Francesco Letizia, journalist, expressed himself as follows on his YouTube channel on the Milan transfer market and Tomori's reinstatement: \"Who knows if we will ever know the truth."
     },
     {
       "id": "a847fc0ca9f4",
@@ -47,11 +71,11 @@
       "url": "https://www.milannews.it/calciomercato-milan/ufficiale-youssouf-fofana-giocatore-siviglia-operazione-prestito-628610",
       "source": "milannews.it",
       "date": "2026-09-01T22:10:47+00:00",
-      "summary": "Proprio sulla sirena della fine del calciomercato in Spagna è arrivato un colpo clamoroso per il Siviglia: il centrocampista rossonero Youssouf Fofana passa infatti in prestito secco alla squadra spagnola."
+      "summary": "Right at the siren of the end of the transfer market in Spain, a sensational blow arrived for Sevilla: the Rossoneri midfielder Youssouf Fofana went on loan to the Spanish team."
     },
     {
       "id": "1b50b5be8403",
-      "title": "Clamoroso Fofana: niente Francia ed Inghilterra: il francese è un nuovo giocatore del Siviglia",
+      "title": "Sensational Fofana: nothing France and England: the Frenchman is a new player for Sevilla",
       "url": "https://www.milannews.it/calciomercato-milan/clamoroso-fofana-francia-inghilterra-francese-giocatore-siviglia-corsa-628609",
       "source": "milannews.it",
       "date": "2026-09-01T22:03:14+00:00",
@@ -59,15 +83,15 @@
     },
     {
       "id": "39baa9b14162",
-      "title": "Il mercato del Milan come il fiume Okavango. È INCOMPLETO! Cardinale, le speranze e una congiunzione!",
+      "title": "The Milan market like the Okavango river. IT IS INCOMPLETE! Cardinal, hopes and a conjunction!",
       "url": "https://www.milannews.it/editoriale/mercato-milan-fiume-okavango-incompleto-cardinale-speranze-congiunzione-628608",
       "source": "milannews.it",
       "date": "2026-09-01T22:00:01+00:00",
-      "summary": "Vi racconto qui la storia del fiume Okavango, che scorre per 1600 chilometri nell’Africa sud-occidentale."
+      "summary": "Here I tell you the story of the Okavango River, which flows for 1600 kilometers in southwestern Africa."
     },
     {
       "id": "f1ae03d0b8fa",
-      "title": "Quattro gare per il Milan a settembre: il calendario completo",
+      "title": "Four matches for Milan in September: the complete calendar",
       "url": "https://www.milannews.it/news/gare-milan-settembre-calendario-completo-628547",
       "source": "milannews.it",
       "date": "2026-09-01T21:48:51+00:00",
@@ -75,7 +99,7 @@
     },
     {
       "id": "85b094ee4167",
-      "title": "Tempi di recupero lunghissimi per Yildiz: la Juve resterà senza il 10 per tre mesi",
+      "title": "Very long recovery times for Yildiz: Juve will be without the number 10 for three months",
       "url": "https://www.milannews.it/news/calcio-juve-yildiz-operato-piede-augsburg-out-628516",
       "source": "milannews.it",
       "date": "2026-09-01T21:36:21+00:00",
@@ -176,30 +200,6 @@
       "source": "milannews.it",
       "date": "2026-09-01T20:00:29+00:00",
       "summary": "During the episode of QSVS, on Telelombardia, the well-known journalist Franco Ordine spoke about the Rossoneri transfer market and the fact that in the end, Cardinale helped Amorim in building the squad and is continuing to do so..."
-    },
-    {
-      "id": "ba5c3ee3a04c",
-      "title": "Argentina's greeting for Leo Messi is thrilling: the message",
-      "url": "https://www.milannews.it/news/argentina-inconsolabile-messi-e-storia-628554",
-      "source": "milannews.it",
-      "date": "2026-09-01T19:48:52+00:00",
-      "summary": "(ANSA) - ROME, SEPTEMBER 01 - \"A beautiful story, between ups and downs, a great story\"."
-    },
-    {
-      "id": "6fca9a3e4e8e",
-      "title": "Fabrizio Romano confirms: \"Tomori will return to training with Amorim\"",
-      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-conferma-tomori-tornera-allenarsi-amorim-628595",
-      "source": "milannews.it",
-      "date": "2026-09-01T19:35:40+00:00",
-      "summary": "Fabrizio Romano, a transfer expert, expressed himself on X on the situation of Fikayo Tomori, AC Milan's English defender: \"AC Milan informs Fikayo Tomori and his agents of the decision to reinstate the defender in the roster ..."
-    },
-    {
-      "id": "d50d84b53818",
-      "title": "Rabiot-Cisse the most likely pairing for the attacking midfield against Juventus",
-      "url": "https://www.milannews.it/news/rabiot-cisse-coppia-probabile-trequarti-juventus-628556",
-      "source": "milannews.it",
-      "date": "2026-09-01T19:24:18+00:00",
-      "summary": "Since yesterday, Milan has put its head back on the championship and Juventus."
     },
     {
       "id": "3bdfe7a9515b",
