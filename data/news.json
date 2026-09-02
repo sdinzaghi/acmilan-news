@@ -1,6 +1,142 @@
 {
-  "lastUpdated": "2026-09-02T18:29:09.582816+00:00",
+  "lastUpdated": "2026-09-02T21:35:39.210429+00:00",
   "articles": [
+    {
+      "id": "01906b96a021",
+      "title": "Borghi positive: \"Milan's market is overbearing, they signed a great defender and immediately extinguished the Maignan and Rabiot cases\"",
+      "url": "https://www.milannews.it/news/borghi-positivo-mercato-milan-prepotente-preso-gran-difensore-spento-casi-maignan-rabiot-628698",
+      "source": "milannews.it",
+      "date": "2026-09-02T21:24:38+00:00",
+      "summary": "On his YouTube channel, my colleague Stefano Borghi commented on the transfer market of the 20 Serie A teams. Below is an extract of his words on the Rossoneri transfer market."
+    },
+    {
+      "id": "eecbc3dd4565",
+      "title": "Milan Futuro, beat Everton 2-1 in the first match of the Premier League International Cup",
+      "url": "https://www.milannews.it/milan-futuro/milan-futuro-battuto-2-1-l-everton-partita-premier-league-international-cup-628711",
+      "source": "milannews.it",
+      "date": "2026-09-02T21:12:34+00:00",
+      "summary": "This evening, in the historic Goodison Park stadium in Liverpool, the Rossoneri of Milan Futuro faced the hosts Everton in the first valid match of group B of the Premier League International Cup, a continental competition for ..."
+    },
+    {
+      "id": "a0f5b65bd674",
+      "title": "Tomorrow Diego Moreira meets the Rossoneri fans in the center of Milan",
+      "url": "https://www.milannews.it/news/domani-diego-moreira-incontra-tifosi-rossoneri-centro-milano-628611",
+      "source": "milannews.it",
+      "date": "2026-09-02T21:00:00+00:00",
+      "summary": "Diego Moreira has not yet had the chance to show off on the pitch, collecting two benches in Milan's first two official outings of the season, but tomorrow he will have the opportunity to meet the fans r..."
+    },
+    {
+      "id": "25580a92b77e",
+      "title": "Modric at the Gran Galà del Calcio: “I immediately understood how difficult the championship was, I hope it can be an even better year for us”",
+      "url": "https://www.milannews.it/news/modric-serie-a-ho-capito-difficile-campionato-spero-migliore-628712",
+      "source": "milannews.it",
+      "date": "2026-09-02T20:49:04+00:00",
+      "summary": "This evening, at the Scala in Milan, the Gran Galà del Calcio ceremony is taking place, an event dedicated to the excellence of Italian football."
+    },
+    {
+      "id": "92a810e0c4a2",
+      "title": "MN - Koller believes it: \"I support Milan. Maybe this year we will win the championship\"",
+      "url": "https://www.milannews.it/news/mn-koller-crede-tifo-milan-vinciamo-campionato-628666",
+      "source": "milannews.it",
+      "date": "2026-09-02T20:48:47+00:00",
+      "summary": "Jan Koller, one of the greatest center forwards of his generation and the Czech Republic's all-time best scorer, expressed himself thus to Alessandro Schiavone for MilanNews."
+    },
+    {
+      "id": "028d5650383e",
+      "title": "Europa League, Ferencavors' UEFA list for the championship phase",
+      "url": "https://www.milannews.it/l-avversario/europa-league-lista-uefa-ferencavors-fase-campionato-628695",
+      "source": "milannews.it",
+      "date": "2026-09-02T20:36:37+00:00",
+      "summary": "Ferencvaros, AC Milan's opponents on matchday four, will travel to Milan on Thursday 5 November for the match against the Rossoneri which will be played at 9pm at San Siro. Below is the UEFA list of Hungarians."
+    },
+    {
+      "id": "d3bc0b7df67c",
+      "title": "Europa League, Salzburg's UEFA list for the championship phase",
+      "url": "https://www.milannews.it/l-avversario/europa-league-lista-uefa-salisburgo-fase-campionato-628694",
+      "source": "milannews.it",
+      "date": "2026-09-02T20:24:00+00:00",
+      "summary": "Salzburg will be Milan's second opponent in the championship phase of the Europa League. The Austrians will host the Rossoneri in their stadium on Thursday 15 October at 6.45pm."
+    },
+    {
+      "id": "c038fb237182",
+      "title": "MN - Koller: \"Between Shevchenko and Filippo Inzaghi the strongest was the Ukrainian\"",
+      "url": "https://www.milannews.it/news/mn-koller-tra-shevchenko-filippo-inzaghi-forte-ucraino-628665",
+      "source": "milannews.it",
+      "date": "2026-09-02T20:12:41+00:00",
+      "summary": "Jan Koller, one of the greatest center forwards of his generation and the Czech Republic's all-time best scorer, expressed himself thus to Alessandro Schiavone for MilanNews."
+    },
+    {
+      "id": "ef043778fcfb",
+      "title": "Costacurta on Baresi: \"In training he was a war machine, he gave the greatest performance that a defender can do on clay\"",
+      "url": "https://www.milannews.it/news/costacurta-baresi-in-allenamento-macchina-guerra-prestazione-difensore-terra-628710",
+      "source": "milannews.it",
+      "date": "2026-09-02T20:00:01+00:00",
+      "summary": "This evening, at the Scala in Milan, the Gran Galà del Calcio ceremony is taking place, an event dedicated to the excellence of Italian football."
+    },
+    {
+      "id": "d81dda7d29b4",
+      "title": "Capello remembers Baresi: \"He was an example for everyone, a beautiful, healthy and honest person\"",
+      "url": "https://www.milannews.it/news/capello-ricorda-baresi-era-tutti-persona-bella-sana-onesta-628709",
+      "source": "milannews.it",
+      "date": "2026-09-02T19:49:55+00:00",
+      "summary": "This evening, at the Scala in Milan, the Gran Galà del Calcio ceremony is taking place, an event dedicated to the excellence of Italian football."
+    },
+    {
+      "id": "5d5805512643",
+      "title": "Borghi sure: \"Milan have changed their skin, in modern football to win you need risks and no more speculation\"",
+      "url": "https://www.milannews.it/news/borghi-sicuro-il-milan-cambiato-pelle-calcio-moderno-vincere-servono-rischi-speculazione-628696",
+      "source": "milannews.it",
+      "date": "2026-09-02T19:36:43+00:00",
+      "summary": "On his YouTube channel, my colleague Stefano Borghi commented on the transfer market of the 20 Serie A teams. Below is an extract of his words on the Rossoneri transfer market."
+    },
+    {
+      "id": "c486e0ec089d",
+      "title": "Gimenez's father: \"When he arrived at Milan, Santi forgot about the other teams. We thought it would be a great opportunity\"",
+      "url": "https://www.milannews.it/news/papa-gimenez-quando-arrivato-milan-santi-dimenticato-squadre-pensavamo-opportunita-628659",
+      "source": "milannews.it",
+      "date": "2026-09-02T19:25:05+00:00",
+      "summary": "Christian 'Chaco' Gimenez, Santiago's father, expressed himself thus to FOX a few hours after his son's transfer on loan with right of redemption which becomes obligation with dete was made official..."
+    },
+    {
+      "id": "6a7b3ee459a1",
+      "title": "Garlando: \"There are still imperfections in Milan, but the atmosphere has changed and this was very important\"",
+      "url": "https://www.milannews.it/news/garlando-nel-milan-imperfezioni-cambiata-aria-importantissimo-628643",
+      "source": "milannews.it",
+      "date": "2026-09-02T19:13:20+00:00",
+      "summary": "Luigi Garlando, journalist, expressed himself as follows during 'La Tripletta', a podcast by La Gazzetta dello Sport, on the AC Milan transfer market: \"The important thing was to have clear ideas and make decisive choices: therefore in or out ..."
+    },
+    {
+      "id": "280eb6f97642",
+      "title": "Europa League, the UEFA Ararat-Armenia list for the championship phase",
+      "url": "https://www.milannews.it/l-avversario/europa-league-lista-uefa-dell-ararat-armenia-fase-campionato-628693",
+      "source": "milannews.it",
+      "date": "2026-09-02T19:00:39+00:00",
+      "summary": "Ararat-Armenia will be Milan's last opponent in the championship phase of the Europa League. The Rossoneri will face the Armenians on Thursday 28 January at 9.00 pm at San Siro."
+    },
+    {
+      "id": "cf8dc38a6f8e",
+      "title": "MN - Koller: \"For me Marco van Basten was the great childhood idol. He was a magnificent striker\"",
+      "url": "https://www.milannews.it/news/mn-koller-per-marco-van-basten-idolo-d-infanzia-attaccante-magnifico-628668",
+      "source": "milannews.it",
+      "date": "2026-09-02T18:48:58+00:00",
+      "summary": "Jan Koller, one of the greatest center forwards of his generation and the Czech Republic's all-time best scorer, expressed himself thus to Alessandro Schiavone for MilanNews."
+    },
+    {
+      "id": "889e292c7e61",
+      "title": "Europa League, Benfica's UEFA list for the championship phase",
+      "url": "https://www.milannews.it/l-avversario/europa-league-lista-uefa-benfica-fase-campionato-628692",
+      "source": "milannews.it",
+      "date": "2026-09-02T18:36:00+00:00",
+      "summary": "Benfica, a team playing in the Portuguese top flight, will be Milan's first opponent in the Europa League championship phase. The match will be played at San Siro on September 16th at 9pm."
+    },
+    {
+      "id": "5cfaf83e6a4f",
+      "title": "AC Milan’s 2026 summer mercato: All the official departures and details",
+      "url": "https://sempremilan.com/ac-milan-2026-summer-mercato-official-departures",
+      "source": "sempremilan.com",
+      "date": "2026-09-02T18:30:00+00:00",
+      "summary": "The 2026 summer mercato came to an end at 20:00 CEST, and a total of nine players left AC Milan. However, there were a variety of different formulas used. While the key details of every transfer are listed below, we would recommend signing up for our Substack to get our annual mercato financial brea"
+    },
     {
       "id": "f88fdc32a7a7",
       "title": "Bianchin highlights: \"Milan's transfer market is strange and asymmetrical. With no Italian and a surprise\"",
@@ -15,7 +151,7 @@
       "url": "https://www.milannews.it/news/pato-felice-modric-deciso-giocare-maglia-628650",
       "source": "milannews.it",
       "date": "2026-09-02T18:12:53+00:00",
-      "summary": "Luka Modric gave a gift to football and Milan by deciding to play another year. No retirement despite the 42 year old knocking on the Croatian champion's door."
+      "summary": "Luka Modric gave a gift to football and Milan by deciding to play another year. No retirement despite the 42 year old knocking on the door of the Croatian champion."
     },
     {
       "id": "9f4482eee99b",
@@ -47,23 +183,7 @@
       "url": "https://www.milannews.it/news/mn-koller-maldini-completo-tecnicamente-nesta-baresi-abbinava-intelligenza-rapidita-robusto-628667",
       "source": "milannews.it",
       "date": "2026-09-02T17:47:53+00:00",
-      "summary": "Jan Koller, one of the greatest center forwards of his generation and the Czech Republic's all-time best scorer, expressed himself thus to Alessandro Schiavone's microphones for MilanNews."
-    },
-    {
-      "id": "45ea14ff0f96",
-      "title": "Atalanta satisfies Sarri and takes Rowe. This is how he introduced himself",
-      "url": "https://www.milannews.it/news/rowe-contento-top-club-atalanta-628621",
-      "source": "milannews.it",
-      "date": "2026-09-02T17:35:29+00:00",
-      "summary": "(ANSA) - ROME, SEPTEMBER 01 - \"Atalanta is one of the top clubs in Italy\"."
-    },
-    {
-      "id": "471416e891d5",
-      "title": "Mancini tones down criticism of Leao: \"Players are not machines and everything needs to go in the right way for them to perform\"",
-      "url": "https://www.milannews.it/news/mancini-attenua-critiche-leao-i-giocatori-macchine-serve-vada-giusto-rendano-628653",
-      "source": "milannews.it",
-      "date": "2026-09-02T17:23:44+00:00",
-      "summary": "Riccardo Mancini, commentator for Dazn, expressed himself as follows to allMilan.it on Rafael Leao, a former AC Milan player who moved to Galatasaray: “In my opinion with Leao it should have ended differently."
+      "summary": "Jan Koller, one of the greatest center forwards of his generation and the Czech Republic's all-time best scorer, expressed himself thus to Alessandro Schiavone for MilanNews."
     },
     {
       "id": "55529a7af1e4",
@@ -74,68 +194,12 @@
       "summary": "It is no secret by now that AC Milan had considered making a late signing for a central defender. However, they did not get any over the line. Throughout the summer, several names were posed as potential targets for Milan. Of course, Goncalo Inacio was the priority target, with Ruben Amorim reported"
     },
     {
-      "id": "1b04825af27d",
-      "title": "Longhi: \"Let's remember what Ibrahimovic said to Allegri last year: Milan can't think about fourth place\"",
-      "url": "https://www.milannews.it/news/longhi-ricordiamoci-diceva-ibrahimovic-allegri-scorso-milan-pensare-posto-628655",
-      "source": "milannews.it",
-      "date": "2026-09-02T17:11:34+00:00",
-      "summary": "Bruno Longhi, journalist, expressed himself thus on Radio Sportiva commenting on Milan's transfer market and the construction of the Rossoneri squad for coach Ruben Amorim: \"Milan must necessarily aspire to fourth place."
-    },
-    {
-      "id": "47b686e1146a",
-      "title": "It happened again: Marco Giampaolo wins and is sacked at the end of the match",
-      "url": "https://www.milannews.it/news/coppa-italia-2-0-parma-cremonese-ottavi-628672",
-      "source": "milannews.it",
-      "date": "2026-09-02T17:00:31+00:00",
-      "summary": "(ANSA) - BOLOGNA, 01 SEPTEMBER - It ends in the rain and with boos from the 4."
-    },
-    {
-      "id": "b008dbb8ff05",
-      "title": "Pellegatti: \"Ausilio must sign with Milan today! Cardinale cannot miss this opportunity\"",
-      "url": "https://www.milannews.it/news/pellegatti-ausilio-firmare-milan-cardinale-occasione-inter-calciomercato-628688",
-      "source": "milannews.it",
-      "date": "2026-09-02T16:48:00+00:00",
-      "summary": "Carlo Pellegatti, journalist, expressed himself as follows on his YouTube channel, sending management advice to Gerry Cardinale: \"An idea struck me, and this time you shouldn't say no to me: Piero Ausilio today will ..."
-    },
-    {
       "id": "6fa4f9d10149",
       "title": "The Athletic: Emery’s reason and changing conditions – why Estupinan’s exit fell through",
       "url": "https://sempremilan.com/changing-condition-why-estupinan-exit-fell-through",
       "source": "sempremilan.com",
       "date": "2026-09-02T16:40:00+00:00",
       "summary": "Pervis Estupinan was on the verge of leaving AC Milan this summer, but he remains at Milanello, with the move falling through. There are plenty of deals that don’t go through in the mercato; look at Youssouf Fofana’s deadline day, for example. However, Estupinan’s case is a strange one, given it was"
-    },
-    {
-      "id": "f2f6b3908b37",
-      "title": "MN - Here is the UEFA list of Milan. The preview: Tomori is also on the list, the young players are there",
-      "url": "https://www.milannews.it/primo-piano/mn-lista-uefa-milan-anticipazione-elenco-tomori-giovani-628689",
-      "source": "milannews.it",
-      "date": "2026-09-02T16:38:14+00:00",
-      "summary": "It is not yet official, as it has not yet been filed with the competent bodies, but MilanNews."
-    },
-    {
-      "id": "aa48534b56d8",
-      "title": "Raimondo critical: \"If you work without CEO and director with the owner who makes the market for the first time, the consequences are bad figures and U-turns\"",
-      "url": "https://www.milannews.it/news/raimondo-critico-se-lavori-ceo-ds-proprietario-mercato-conseguenze-brutte-figure-inversioni-u-628660",
-      "source": "milannews.it",
-      "date": "2026-09-02T16:24:32+00:00",
-      "summary": "Felice Raimondo, lawyer expert in football matters and AC Milan fan, expressed his opinion on X commenting on the Rossoneri transfer market: \"If you work without a Sports CEO and/or without a Sports Director, improvising a structure ..."
-    },
-    {
-      "id": "c6a918acd0a3",
-      "title": "Ferrè: \"Paradoxically, Tomori's way of playing is very suitable for Amorim, except for his positional sense\"",
-      "url": "https://www.milannews.it/news/ferre-paradossalmente-giocare-tomori-adatto-amorim-senso-posizione-628649",
-      "source": "milannews.it",
-      "date": "2026-09-02T16:12:12+00:00",
-      "summary": "Stefano Ferrè, a tactical expert, expressed himself as follows to Cronache di Spogliatoio on Tomori's reinstatement in Amorim's Milan squad: \"Paradoxically, Tomori's way of playing is very suitable for Amorim: he is ..."
-    },
-    {
-      "id": "039593fcb7cb",
-      "title": "Milan expenses for purchases and sales: for annual costs, the deficit is only 6 million. But Cardinale is on the podium with cards",
-      "url": "https://www.milannews.it/primo-piano/spese-milan-acquisti-cessioni-costi-annui-cardinale-cartellini-calciomercato-628682",
-      "source": "milannews.it",
-      "date": "2026-09-02T16:00:11+00:00",
-      "summary": "The 2026 summer transfer market has concluded and below is the ranking of the Serie A teams - drawn up by Transfermakt - who spent the most during this negotiation session.\n\n1."
     },
     {
       "id": "739f4915c149",
@@ -146,30 +210,6 @@
       "summary": "This summer, most expected AC Milan to sign two starting central defenders. However, only one arrived – Mario Gila. Milan signing a central defender was expected throughout the window. So, the arrival of Mario Gila was a welcome addition. Yet, it would be fair to state that most fans expected anothe"
     },
     {
-      "id": "7b3fbe6c4dc1",
-      "title": "Passerini: \"Milan's transfer market is schizophrenic, but sufficient. Here are the weak and strong points\"",
-      "url": "https://www.milannews.it/news/passerini-mercato-milan-schizofrenico-sufficiente-punti-deboli-punti-forti-628670",
-      "source": "milannews.it",
-      "date": "2026-09-02T15:49:25+00:00",
-      "summary": "Carlos Passerini, journalist, expressed himself as follows on his YouTube channel giving a rating to the Milan transfer market: \"Let's try to give an opinion to the Milan transfer market: a judgment which in my opinion cannot be fully positive ..."
-    },
-    {
-      "id": "096ee2d0858c",
-      "title": "Inter, Ausilio's farewell is official. The new sporting director has already been appointed",
-      "url": "https://www.milannews.it/news/inter-ufficiale-addio-ausilio-nominato-direttore-sportivo-628687",
-      "source": "milannews.it",
-      "date": "2026-09-02T15:37:58+00:00",
-      "summary": "FC Internazionale Milano and Piero Ausilio announce that they have decided by mutual agreement to separate their ways from today.\n\nAusilio has worked in the club's management for around 28 years, with ever-increasing responsibilities."
-    },
-    {
-      "id": "a1959eda0cfb",
-      "title": "Marinozzi explains: \"Milan didn't have any fluidity against Venezia, but rightly so! It takes time to assimilate it\"",
-      "url": "https://www.milannews.it/news/marinozzi-spiega-il-milan-fluido-venezia-giustamente-vuole-assimilarla-628644",
-      "source": "milannews.it",
-      "date": "2026-09-02T15:25:49+00:00",
-      "summary": "Andrea Marinozzi, journalist for Dazn and Cronache di Spogliatoio, expressed himself as follows on his Youtube channel about Amorim's Milan: \"I like Amorim's work."
-    },
-    {
       "id": "a861efb891e0",
       "title": "GdS: Why Rabiot and Nico Gonzalez could be the protagonists of Juventus-Milan",
       "url": "https://sempremilan.com/why-rabiot-nico-gonzales-protagonists-juventus-milan",
@@ -178,44 +218,12 @@
       "summary": "AC Milan have started this Serie A season perfectly after a hit-and-miss summer. However, they’re not the only team to boast six points so far. After a summer where some questions were not answered, Milan have started the new season leaving few doubts in the table. It’s been a flawless start and whi"
     },
     {
-      "id": "767b398de468",
-      "title": "Order: \"You can't have everything in life: if he already lost a season last year, now is the time to let Camarda really play\"",
-      "url": "https://www.milannews.it/news/ordine-non-vita-perso-stagione-far-giocare-davvero-camarda-628678",
-      "source": "milannews.it",
-      "date": "2026-09-02T15:13:31+00:00",
-      "summary": "Franco Ordine, journalist, expressed himself as follows in TeleLombardia's studies on Milan's transfer market and the management of youth: \"Milan said it openly to Amorim: we must also start preparing the Milan of the future..."
-    },
-    {
-      "id": "1b8b7c2f7287",
-      "title": "A former Milan player ready to sensationally return to Serie A as a free agent",
-      "url": "https://www.milannews.it/news/torino-avvicina-ritorno-rodriguez-628685",
-      "source": "milannews.it",
-      "date": "2026-09-02T15:00:15+00:00",
-      "summary": "(ANSA) - TURIN, 02 SEPTEMBER - Torino is about to complete another return, after Rolando Mandragora, Ricardo Rodriguez is also ready to wear the grenade shirt again."
-    },
-    {
-      "id": "a2d73d5ce83a",
-      "title": "Letizia: \"If I were a Milan player taken out of the team, I wouldn't worry too much, sooner or later they'll reinstate me\"",
-      "url": "https://www.milannews.it/calciomercato-milan/letizia-se-giocatore-milan-messo-squadra-preoccuperei-tanto-reintegrano-628679",
-      "source": "milannews.it",
-      "date": "2026-09-02T14:48:45+00:00",
-      "summary": "Francesco Letizia, journalist, expressed himself as follows on his Youtube channel on the current affairs of Milan in the aftermath of the end of the transfer market: \"Unfortunately the last month of the transfer window didn't drive me crazy, as you ..."
-    },
-    {
       "id": "4e655f6b439e",
       "title": "Signings, sales, squad picture and more: Rating AC Milan’s 2026 summer window",
       "url": "https://sempremilan.com/rating-ac-milan-2026-summer-window",
       "source": "sempremilan.com",
       "date": "2026-09-02T14:40:00+00:00",
       "summary": "Join Oli and Ben for a bonus mercato recap podcast, going through the sales, signings, state of the squad and how the management did. This week’s topics include… ↳ €165m spent wisely? ↳ Struggles with sales ↳ Squad deeper or thinner? ↳ The missing director Want more Milan content? Check out our othe"
-    },
-    {
-      "id": "30e2bd0df330",
-      "title": "Estupinan background: The Athletic writes that Villa chased him for a month, but conditions kept changing",
-      "url": "https://www.milannews.it/calciomercato-milan/retroscena-estupinan-the-athletic-il-villa-inseguito-mese-condizioni-continuavano-cambiare-628677",
-      "source": "milannews.it",
-      "date": "2026-09-02T14:36:06+00:00",
-      "summary": "There was a moment in the summer when it seemed done for the transfer of Pervis Estupinan from Milan to Aston Villa."
     },
     {
       "id": "264d0cb6353f",
@@ -400,14 +408,6 @@
       "source": "football-italia.net",
       "date": "2026-09-01T20:05:15+00:00",
       "summary": "Fikayo Tomori resisted all attempts for Milan to sell him again and it paid off..."
-    },
-    {
-      "id": "3bdfe7a9515b",
-      "title": "AC Milan’s 2026 summer mercato: All the official signings and details",
-      "url": "https://sempremilan.com/ac-milan-all-2026-summer-signings-details",
-      "source": "sempremilan.com",
-      "date": "2026-09-01T19:09:02+00:00",
-      "summary": "The 2026 summer mercato came to an end at 20:00 CEST, and AC Milan made a total of five signings for the first team, reinforcing a few key positions. While the key details of every transfer are listed below, we would recommend signing up for our Substack to get our annual mercato financial breakdown"
     },
     {
       "id": "171178051974",
