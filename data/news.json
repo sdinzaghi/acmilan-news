@@ -1,13 +1,165 @@
 {
-  "lastUpdated": "2026-09-03T16:55:38.211848+00:00",
+  "lastUpdated": "2026-09-03T19:39:11.142982+00:00",
   "articles": [
     {
+      "id": "0e36c3fb3a31",
+      "title": "Capello: \"A Juventus-Milan Europa League final would be nice...\"",
+      "url": "https://www.milannews.it/news/capello-sarebbe-bello-finale-europa-league-juventus-milan-628799",
+      "source": "milannews.it",
+      "date": "2026-09-03T19:35:00+00:00",
+      "summary": "Fabio Capello, former Milan coach, spoke this way this evening on Sky Sport, on the occasion of the presentation of the European Cup season. His words directly from the stage of Villa Vecchia in Milan."
+    },
+    {
+      "id": "8722d8a0dede",
+      "title": "Nizegorodcew warns: \"Terracciano, Diawara and Vladimirov will often be starters. Mea culpa on intelligent Tomori\"",
+      "url": "https://www.milannews.it/news/nizegorodcew-avverte-terracciano-diawara-vladimirov-titolari-mea-culpa-tomori-intelligente-628764",
+      "source": "milannews.it",
+      "date": "2026-09-03T19:23:00+00:00",
+      "summary": "Alessandro Nizegorodcew, sports journalist and AC Milan fan, expressed himself as follows on"
+    },
+    {
+      "id": "c046669e76d6",
+      "title": "Visnadi: \"Milan would have been lucky not to sell Gimenez and were lucky not to sell Tomori\"",
+      "url": "https://www.milannews.it/news/visnadi-il-milan-fortuna-vendere-gimenez-fortunato-cedere-tomori-628761",
+      "source": "milannews.it",
+      "date": "2026-09-03T19:11:55+00:00",
+      "summary": "Gianni Visnadi, journalist, expressed himself thus on Radio Sportiva, commenting on Milan's transfer market and the lack of another striker: \"Something was missing."
+    },
+    {
+      "id": "736c39ba4b20",
+      "title": "Who was entrusted with the two super big matches of the third day of Serie A",
+      "url": "https://www.milannews.it/news/sozza-arbitra-inter-napoli-mariani-juve-milan-628739",
+      "source": "milannews.it",
+      "date": "2026-09-03T19:00:32+00:00",
+      "summary": "(ANSA) - ROME, SEPTEMBER 02 - Sozza is the referee designated to referee Inter-Napoli, one of the big matches of the third day of Serie A, scheduled for Saturday 5 September at 6pm."
+    },
+    {
+      "id": "c5e3f4ad7e65",
+      "title": "Moreira: \"Milan is one of the biggest clubs in Italy: if they are interested, you don't think twice\"",
+      "url": "https://www.milannews.it/news/moreira-milan-grandi-club-italia-interessano-pensi-volte-628790",
+      "source": "milannews.it",
+      "date": "2026-09-03T18:48:53+00:00",
+      "summary": "During the interview that Diego Moreira, the new player for Milan who arrived during the last summer transfer session from Strasbourg, gave in front of the press at the Flagship Store in via Dante i ..."
+    },
+    {
+      "id": "5f31aa9424f9",
+      "title": "Rather than against Infantino, the FIGC sided in favor of UEFA. Malagò explains it",
+      "url": "https://www.milannews.it/news/malago-infantino-incoscienti-andare-uefa-628738",
+      "source": "milannews.it",
+      "date": "2026-09-03T18:36:55+00:00",
+      "summary": "(ANSA) - MILAN, SEPTEMBER 02 - \"Do we need a new president after Infantino? It's not a problem of the person."
+    },
+    {
+      "id": "08ffa98883a0",
+      "title": "Hutchinson names three Milan idols and reveals what Amorim told him before signing",
+      "url": "https://football-italia.net/hutchinson-milan-idols-what-amorim-told-him/",
+      "source": "football-italia.net",
+      "date": "2026-09-03T18:26:08+00:00",
+      "summary": "Omari Hutchinson has revealed who his biggest Rossoneri role-models are and has told supporters what..."
+    },
+    {
+      "id": "fc2d9d5fdb2a",
+      "title": "Bucchioni is clear: \"I understand the Milan fans disappointed by the transfer market, but Amorim got the players he needed\"",
+      "url": "https://www.milannews.it/news/bucchioni-chiaro-io-milanisti-delusi-mercato-capisco-amorim-prendere-giocatori-servivano-628762",
+      "source": "milannews.it",
+      "date": "2026-09-03T18:24:34+00:00",
+      "summary": "Enzo Bucchioni, journalist, expressed himself as follows on RadioSportiva, commenting on the choices made by Milan during the transfer market: \"Did you see in Turin that Amorim let Cisse play and did you see the results he gave? It's..."
+    },
+    {
+      "id": "5d4e37891234",
+      "title": "Viviano: \"The only thing I don't like about Milan is Musah. Among other things, for me Jashari is very strong\"",
+      "url": "https://www.milannews.it/news/viviano-unica-piace-milan-musah-altro-jashari-fortissimo-628758",
+      "source": "milannews.it",
+      "date": "2026-09-03T18:12:20+00:00",
+      "summary": "Emiliano Viviano, former goalkeeper and current commentator, expressed himself thus to Cronache di Spogliatoio giving his rating to Milan's transfer market: \"I don't agree with Giuseppe Pastore's rating."
+    },
+    {
+      "id": "41c1d53976d2",
+      "title": "Moreira: \"Magical first days. I feel at home: I'm just waiting for my moment\"",
+      "url": "https://www.milannews.it/news/moreira-primi-magici-sento-casa-aspetto-momento-628794",
+      "source": "milannews.it",
+      "date": "2026-09-03T18:00:00+00:00",
+      "summary": "On Thursday afternoon the new Rossoneri footballer Diego Moreira spoke to the press at the Flagship Store in via Dante, in the center of Milan, where he went to meet his new fans with ..."
+    },
+    {
+      "id": "3c4d885edce0",
+      "title": "A smile that shone and a love that faded: Rafael Leao’s seven-year AC Milan supernova",
+      "url": "https://sempremilan.com/rafael-leao-seven-year-milan-supernova",
+      "source": "sempremilan.com",
+      "date": "2026-09-03T18:00:00+00:00",
+      "summary": "Be honest: when you saw Rafael Leao donning the red and yellow of Galatasaray for the first time, it just didn’t look right, did it? We’d had some time to get used to the idea that Leao would be heading to the Turkish giants, and even longer to prepare for the notion that he would not […]\nThe post A"
+    },
+    {
+      "id": "b24e09ec085a",
+      "title": "Tossani highlights: \"Last season at Nottingham, Hutchinson was the player who tried and managed the most dribbles\"",
+      "url": "https://www.milannews.it/news/tossani-evidenzia-nela-scorsa-stagione-nottingham-hutchinson-giocatore-tentava-riuscivano-dribbling-628760",
+      "source": "milannews.it",
+      "date": "2026-09-03T17:48:00+00:00",
+      "summary": "Michele Tossani, match analyst, expressed himself as follows on Ultimo Uomo describing the technical and tactical characteristics of Hutchinson, Milan's new signing: \"Hutchinson's career began to derail last season, n ..."
+    },
+    {
+      "id": "5462d79d72eb",
+      "title": "Coach Mancini reveals that he is looking for players with double passports for the national team",
+      "url": "https://www.milannews.it/news/azzurri-mancini-servono-decisioni-veloci-dobbiamo-risultati-628736",
+      "source": "milannews.it",
+      "date": "2026-09-03T17:35:09+00:00",
+      "summary": "(ANSA) - ROME, SEPTEMBER 02 - \"We will have to be very quick in making decisions, understanding as quickly as possible how we can bring together players who have already been playing for the national team for years, with some young players."
+    },
+    {
+      "id": "deb4f9b162e1",
+      "title": "PROBABLE LINE-UP - Towards Juve-Milan: a big starter returns, two new players called up",
+      "url": "https://www.milannews.it/news/probabile-formazione-juve-milan-juventus-news-amorim-rabiot-pulisic-modric-628782",
+      "source": "milannews.it",
+      "date": "2026-09-03T17:30:00+00:00",
+      "summary": "After the two victories in the first two matches of the championship, Ruben Amorim's AC Milan faces the first big match of the season, valid for the third day of the Serie A championship: at the Allianz Stadium, with kick-off on Sunday ..."
+    },
+    {
+      "id": "70d1a3cb9934",
+      "title": "Moreira: \"Right is the position where I feel best. That's why I chose 22\"",
+      "url": "https://www.milannews.it/news/moreira-a-destra-posizione-sento-meglio-scelto-22-628787",
+      "source": "milannews.it",
+      "date": "2026-09-03T17:24:00+00:00",
+      "summary": "First official words in front of the press for Diego Moreira who this afternoon presented himself to the microphones of journalists, including the correspondent of MilanNews."
+    },
+    {
+      "id": "05c04004c292",
+      "title": "Bianchin offers explanation for Hutchinson after other targets got away: “Big clubs never do that”",
+      "url": "https://sempremilan.com/bianchin-explains-hutchinson-other-targets-got-away",
+      "source": "sempremilan.com",
+      "date": "2026-09-03T17:20:00+00:00",
+      "summary": "All summer, AC Milan tried to sign a right-sided attacking midfielder, but when they did, the response wasn’t as warm as it would’ve been for other names. It’s fair to say that the decision to sign Omari Hutchinson hasn’t excited the Milan fanbase. After the signings of Mario Gila and Goncalo Ramos,"
+    },
+    {
+      "id": "08f56f93a2d2",
+      "title": "Paganin: \"Think about what Allegri had to do in the role: now Milan is more complete with Ramos\"",
+      "url": "https://www.milannews.it/news/paganin-si-pensi-dovuto-allegri-ruolo-milan-completo-ramos-628755",
+      "source": "milannews.it",
+      "date": "2026-09-03T17:11:14+00:00",
+      "summary": "Antonio Paganin, former footballer and current commentator, expressed himself on the frequencies of TMW Radio during Maracanà, to comment on the main themes of Serie A, delving into the discussions on the transfer market of the big teams in the ..."
+    },
+    {
+      "id": "b9f8d9bb4a4e",
+      "title": "Moreira: \"I feel at home. Pressure? No, I'm honoured. I prefer to play on the right\"",
+      "url": "https://www.milannews.it/primo-piano/moreira-mi-sento-casa-sento-pressione-onorato-preferisco-giocare-destra-628784",
+      "source": "milannews.it",
+      "date": "2026-09-03T17:08:54+00:00",
+      "summary": "On the occasion of the meeting with the Rossoneri fans at the Flagship Store in via Dante in Milan, the new AC Milan player Diego Moreira intervened in a meeting with the press and spoke about the first sensations he had ..."
+    },
+    {
+      "id": "4a293c9fd33d",
+      "title": "Amorim has an opportunity to make history if Milan beat Juventus",
+      "url": "https://football-italia.net/amorim-has-opportunity-to-make-milan-history/",
+      "source": "football-italia.net",
+      "date": "2026-09-03T17:08:08+00:00",
+      "summary": "Milan are gearing up for their first real test of the Serie A season away..."
+    },
+    {
       "id": "6cef1b50b4ac",
-      "title": "Il Como chiude il suo mercato per la Champions con l'arrivo del portiere titolare del Chelsea",
+      "title": "Como closes its transfer market for the Champions League with the arrival of Chelsea's starting goalkeeper",
       "url": "https://www.milannews.it/news/como-arriva-sanchez-uscita-tornqvist-628661",
       "source": "milannews.it",
       "date": "2026-09-03T16:48:10+00:00",
-      "summary": "(ANSA) - MILANO, 01 SET - Al Como arriva in prestito secco Robert Sanchez dal Chelsea. Il portiere spagnolo arriva per rimpiazzare Tornqvist che è stato ceduto al Monza."
+      "summary": "(ANSA) - MILAN, SEPTEMBER 01 - Robert Sanchez arrives at Como on loan from Chelsea. The Spanish goalkeeper arrives to replace Tornqvist who was sold to Monza."
     },
     {
       "id": "7204fff50f33",
@@ -19,7 +171,7 @@
     },
     {
       "id": "4618beb0f934",
-      "title": "La Lega Serie A annuncia che ci sarà un cooling break più lungo nei match pomeridiani",
+      "title": "Lega Serie A announces that there will be a longer cooling break in afternoon matches",
       "url": "https://www.milannews.it/news/simonelli-cooling-break-match-pomeridiani-628735",
       "source": "milannews.it",
       "date": "2026-09-03T16:24:43+00:00",
@@ -31,15 +183,15 @@
       "url": "https://www.milannews.it/news/graziani-polemico-quando-rigore-torino-milan-arbitro-richiamato-var-morto-628759",
       "source": "milannews.it",
       "date": "2026-09-03T16:12:44+00:00",
-      "summary": "Ciccio Graziani, former footballer and current commentator, expressed himself thus on Radio Sportiva on the refereeing controversies of these first days of the championship: \"I have already exposed myself on the first day, both on the possible foul ..."
+      "summary": "Ciccio Graziani, ex calciatore e attuale opinionista, si è così espresso a Radio Sportiva sulle polemiche arbitrali di queste prime giornate di campionato: \"Mi sono già esposto alla prima giornata, sia sull'eventuale fal ..."
     },
     {
       "id": "2b9ecfe1ff27",
-      "title": "Borghi: “Very interesting pairs of attacking midfielders, Bartesaghi pays for the offensive concept of Amorim's wingers”",
+      "title": "Borghi: “Coppie di trequartisti molto interessanti, Bartesaghi paga la concezione offensiva degli esterni di Amorim”",
       "url": "https://www.milannews.it/news/borghi-coppie-trequartisti-interessanti-bartesaghi-paga-concezione-offensiva-esterni-amorim-628704",
       "source": "milannews.it",
       "date": "2026-09-03T16:00:23+00:00",
-      "summary": "Nel suo canale YouTube, il collega Stefano Borghi ha commentato il calciomercato delle 20 squadre di Serie A. Di seguito un estratto delle parole sul mercato dei rossoneri."
+      "summary": "On his YouTube channel, my colleague Stefano Borghi commented on the transfer market of the 20 Serie A teams. Below is an extract of his words on the Rossoneri transfer market."
     },
     {
       "id": "c463a0f5fe86",
@@ -58,44 +210,12 @@
       "summary": "First official close encounter with the fans for Diego Moreira, one of the new faces of Milan led by Ruben Amorim."
     },
     {
-      "id": "68dc52df5c40",
-      "title": "Serie A advances and postponements defined until the 12th matchday",
-      "url": "https://www.milannews.it/news/definiti-anticipi-posticipi-serie-12-a-giornata-628783",
-      "source": "milannews.it",
-      "date": "2026-09-03T15:36:44+00:00",
-      "summary": "(ANSA) - ROME, SEPTEMBER 03 - Advances and postponements of Serie A from the sixth to the twelfth matchdays have been defined."
-    },
-    {
-      "id": "de6104cff34d",
-      "title": "Pastore critical of Milan's transfer market: \"I lowered my rating! It's not a top four squad\"",
-      "url": "https://www.milannews.it/news/pastore-critico-mercato-milan-ho-abbassato-voto-rosa-prime-quattro-628757",
-      "source": "milannews.it",
-      "date": "2026-09-03T15:25:39+00:00",
-      "summary": "Giuseppe Pastore, journalist, expressed himself thus to Cronache di Spogliatoio giving his rating to the Milan transfer market which has just concluded: \"It has gone from 6 to 5 in the last few days because, in a very 'mend' transfer market..."
-    },
-    {
       "id": "716ad1782fe4",
       "title": "“I had no doubts” – Hojlund rejects idea that he was close to Milan last summer",
       "url": "https://sempremilan.com/hojlund-rejects-idea-close-to-milan",
       "source": "sempremilan.com",
       "date": "2026-09-03T15:20:00+00:00",
       "summary": "Rasmus Hojlund was one of several names put forward to AC Milan last summer, but the striker instead headed to Napoli with Antonio Conte. Hojlund was just one of several names identified to finally sort the striker issue at Milan last summer. As we know, neither he nor any of the other names actuall"
-    },
-    {
-      "id": "deb4f9b162e1",
-      "title": "PROBABLE LINE-UP - Towards Juve-Milan: a big starter returns, two new players called up",
-      "url": "https://www.milannews.it/news/probabile-formazione-juve-milan-juventus-news-amorim-rabiot-pulisic-modric-628782",
-      "source": "milannews.it",
-      "date": "2026-09-03T15:14:00+00:00",
-      "summary": "After the two victories in the first two matches of the championship, Ruben Amorim's AC Milan faces the first big match of the season, valid for the third day of the Serie A championship: at the Allianz Stadium, with kick-off on Sunday ..."
-    },
-    {
-      "id": "7219b70d954d",
-      "title": "Ramazzotti: \"Amorim dotes on Jashari. His growth in performance is fundamental\"",
-      "url": "https://www.milannews.it/news/ramazzotti-amorim-stravede-jashari-fondamentale-crescita-rendimento-628752",
-      "source": "milannews.it",
-      "date": "2026-09-03T15:13:39+00:00",
-      "summary": "Andrea Ramazzotti, journalist, expressed himself in La Gazzetta dello Sport on Milan's midfield, focusing in particular on Modric: \"Ruben Amorim wants to resolve the Modric-dependency that Milan had last year."
     },
     {
       "id": "fe814e03e51c",
@@ -106,44 +226,12 @@
       "summary": "The full Serie A schedule including times and dates have now been confirmed for all..."
     },
     {
-      "id": "32f81156bd79",
-      "title": "Inter, Lautaro Martinez confirms that there has been an offer from Barcelona",
-      "url": "https://www.milannews.it/news/lautaro-voci-barcellona-vere-voglio-restare-inter-628731",
-      "source": "milannews.it",
-      "date": "2026-09-03T15:00:49+00:00",
-      "summary": "(ANSA) - MILAN, SEPTEMBER 02 - \"The rumors about Barcelona were not true. But I will always be at Inter because I feel good, because I'm fine."
-    },
-    {
-      "id": "8e2e6e40f43a",
-      "title": "Stramaccioni: \"I like Amorim's ideas. Intensity with and without the ball\"",
-      "url": "https://www.milannews.it/news/stramaccioni-elogia-amorim-piacciono-idee-intensita-palla-628726",
-      "source": "milannews.it",
-      "date": "2026-09-03T14:48:34+00:00",
-      "summary": "Taking advantage of the columns of La Gazzetta dello Sport, former coach Andrea Stramaccioni gave a personal comment on Serie A after these first two days, also focusing on the two big matches scheduled for the weekend and on Milan."
-    },
-    {
       "id": "df6fce4955a4",
       "title": "Romano: Bondo ‘decided to remain’ with Milan but late departure cannot be ruled out",
       "url": "https://sempremilan.com/bondo-decided-remain-milan-late-departure-not-ruled-out",
       "source": "sempremilan.com",
       "date": "2026-09-03T14:40:00+00:00",
       "summary": "Warren Bondo is something of a forgotten player at AC Milan, given he has played just 164 minutes for the club. Now Fabrizio Romano has provided an update about his future. Before signing Bondo, Milan had been interested in the Frenchman for a decent bit of time. They’d assessed the deal and Geoffre"
-    },
-    {
-      "id": "b7065464b9ff",
-      "title": "Woltemade says Juve is the biggest Italian club. On Sunday he will be against Milan",
-      "url": "https://www.milannews.it/news/woltemade-juve-club-italia-vedo-628686",
-      "source": "milannews.it",
-      "date": "2026-09-03T14:36:48+00:00",
-      "summary": "(ANSA) - TURIN, SEPTEMBER 02 - \"Juventus is the biggest Italian club, where I am very happy and proud of myself: I can't wait to get started\": these are Nick Woltemade's first declarations as a Juventus player."
-    },
-    {
-      "id": "58a29691fe82",
-      "title": "Dazn or Sky? Here's where to watch AC Milan matches until November. The official calendar",
-      "url": "https://www.milannews.it/news/dazn-sky-vedere-partite-milan-novembre-calendario-serie-a-628777",
-      "source": "milannews.it",
-      "date": "2026-09-03T14:23:02+00:00",
-      "summary": "The dates and times of the Serie A championship calendar from the sixth to the twelfth matchday have been made official."
     },
     {
       "id": "dc66668a1340",
@@ -154,22 +242,6 @@
       "summary": "England international Fikayo Tomori returned to training with Milan on Thursday after being frozen out..."
     },
     {
-      "id": "93eb441bb54e",
-      "title": "Nava: \"Juventus have their eyes on a Milan player for June\"",
-      "url": "https://www.milannews.it/calciomercato-milan/nava-la-juventus-messo-occhi-calciatore-milan-giugno-628747",
-      "source": "milannews.it",
-      "date": "2026-09-03T14:12:11+00:00",
-      "summary": "Matteo Nava, journalist following Juventus for La Gazzetta dello Sport, expressed himself as follows on the Juventus transfer market: \"Juventus, at the end of an unpredictable session full of twists and turns, makes no mistake in ..."
-    },
-    {
-      "id": "4969cf3bde9e",
-      "title": "Agresti summarizes Rafael Leao's experience at Milan in this way",
-      "url": "https://www.milannews.it/news/agresti-riassume-esperienza-leao-milan-uno-scudetto-troppe-illusioni-628627",
-      "source": "milannews.it",
-      "date": "2026-09-03T14:00:10+00:00",
-      "summary": "After seven years, Milan will be without Rafael Leao."
-    },
-    {
       "id": "5a5d5ffd0899",
       "title": "Spalletti believes seven teams will fight for the Champions League: “Very realistic”",
       "url": "https://sempremilan.com/spalletti-seven-teams-fight-champions-league",
@@ -178,52 +250,12 @@
       "summary": "We’re two games into the Serie A season and it already looks like it could be the most competitive season in years, with AC Milan also starting strongly.  Two wins from two games, Milan have started perfectly under Ruben Amorim in Serie A. However, they will face a much bigger test this weekend as t"
     },
     {
-      "id": "8e8cfa27a297",
-      "title": "Fabrizio Romano: \"Handshake with Amorim and smiles: this is Tomori's first day at Milanello\". And about the renewal...",
-      "url": "https://www.milannews.it/calciomercato-milan/fabrizio-romano-stretta-mano-amorim-sorrisi-tomori-milanello-rinnovo-628776",
-      "source": "milannews.it",
-      "date": "2026-09-03T13:49:21+00:00",
-      "summary": "Fabrizio Romano, a transfer expert, expressed himself as follows on his Youtube channel on the reinstatement of Fikayo Tomori into the AC Milan squad: \"The player was out for the entire summer transfer window, practically from June until ..."
-    },
-    {
-      "id": "cc3091ec31dd",
-      "title": "Dimarco calls Inter on the renewal issue: he was expecting a proposal",
-      "url": "https://www.milannews.it/news/inter-dimarco-rinnovo-parlato-speravo-accadesse-628733",
-      "source": "milannews.it",
-      "date": "2026-09-03T13:37:29+00:00",
-      "summary": "(ANSA) - MILAN, 02 SEPTEMBER - \"Renewal? Unfortunately we haven't talked about it, I was hoping it would happen given how last season ended, but there will be a chance to talk about it soon\": so Inter defender Fede ..."
-    },
-    {
       "id": "5d25908b54b4",
       "title": "Tuttosport: Tomori ‘rescued’ by Cardinale – Englishman returns to training before Juventus",
       "url": "https://sempremilan.com/tomori-rescued-cardinale-englishman-returns-training",
       "source": "sempremilan.com",
       "date": "2026-09-03T13:30:00+00:00",
       "summary": "Fikayo Tomori has been reintroduced to the AC Milan squad after he didn’t leave this summer, and he could feature this weekend. Tomori’s mercato history with Milan has been interesting. For the past four windows now, the Englishman has been linked with a move away from San Siro. However, he’s reject"
-    },
-    {
-      "id": "50316d3ccac8",
-      "title": "Hojlund reveals: \"I spoke to AC Milan, but when I heard that Conte wanted me I had no doubts. About Amorim...\"",
-      "url": "https://www.milannews.it/news/hojlund-rivela-ho-parlato-milan-sentito-voleva-conte-dubbi-amorim-628775",
-      "source": "milannews.it",
-      "date": "2026-09-03T13:25:10+00:00",
-      "summary": "Rasmus Hojlund, Napoli striker, gave an interview to La Gazzetta dello Sport, also mentioning Milan in two replies.\n\nClose to Milan? \n\n\"Actually, no."
-    },
-    {
-      "id": "40e1dabc26e3",
-      "title": "Sabatini: \"Jorge Mendes, maybe you haven't understood, makes you spend and not cash. But Ramos is not Joao Felix\"",
-      "url": "https://www.milannews.it/calciomercato-milan/sabatini-calciomercato-milan-jorge-mendes-spendere-incassare-ramos-joao-felix-628745",
-      "source": "milannews.it",
-      "date": "2026-09-03T13:13:54+00:00",
-      "summary": "Sandro Sabatini, a journalist, expressed himself as follows on Carlo Pellegatti's YouTube channel, giving a rating to Milan's transfer market: \"I give an 8 for how the market started! Because, even if 100 thousand were spent..."
-    },
-    {
-      "id": "be105b9adc9c",
-      "title": "Milan, now it's no longer a joke: September and October will tell how much the Amorim project is worth",
-      "url": "https://www.milannews.it/primo-piano/milan-scherza-piu-settembre-ottobre-diranno-progetto-amorim-628772",
-      "source": "milannews.it",
-      "date": "2026-09-03T13:00:35+00:00",
-      "summary": "The transfer market is over, September has begun and for Milan the phase in which there are no more alibis officially begins."
     },
     {
       "id": "5e65bcbe61dc",
@@ -338,22 +370,6 @@
       "summary": "The Coppa Italia Round of 32 is now at the halfway stage, and Udinese and..."
     },
     {
-      "id": "77c21d1821cb",
-      "title": "Omari Hutchinson insight: Scouting report, stats, transfer rating and more",
-      "url": "https://sempremilan.com/omari-hutchinson-insight-scouting-report-stats-transfer-rating-and-more",
-      "source": "sempremilan.com",
-      "date": "2026-09-02T18:00:00+00:00",
-      "summary": "Omari Hutchinson was AC Milan’s fifth signing of the summer transfer window, and he would end up being the final one. Milan were linked with a number of different names for the attacking midfielder role, and it was reported from early on that Ruben Amorim wanted a left-footed player who could operat"
-    },
-    {
-      "id": "55529a7af1e4",
-      "title": "MilanVibes: Milan attempted last-minute Scalvini deal – Amorim’s appreciation and Atalanta’s block",
-      "url": "https://sempremilan.com/milan-attempted-last-minute-scalvini-deal",
-      "source": "sempremilan.com",
-      "date": "2026-09-02T17:20:00+00:00",
-      "summary": "It is no secret by now that AC Milan had considered making a late signing for a central defender. However, they did not get any over the line. Throughout the summer, several names were posed as potential targets for Milan. Of course, Goncalo Inacio was the priority target, with Ruben Amorim reported"
-    },
-    {
       "id": "264d0cb6353f",
       "title": "Top 10 most expensive Italy players of the 2026 summer transfer window revealed",
       "url": "https://football-italia.net/most-expensive-italy-transfers-summer-2026/",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-01T15:35:06+00:00",
       "summary": "Milan send Youssouf Fofana to Olympique Lyonnais, but Fikayo Tomori is reportedly in London for..."
-    },
-    {
-      "id": "07681625bb35",
-      "title": "Done Deal: Fofana ready for Olympique Lyonnais, loan with total €14m option from Milan",
-      "url": "https://football-italia.net/done-deal-fofana-olympique-lyonnais-loan-milan/",
-      "source": "football-italia.net",
-      "date": "2026-09-01T14:23:00+00:00",
-      "summary": "Milan have reportedly finalised the agreement for Youssouf Fofana to Olympique Lyonnais, on a €2m..."
-    },
-    {
-      "id": "08ab09968739",
-      "title": "Rafael Leao’s message to Milan fans: ‘I leave with a smile, I’m one of you’",
-      "url": "https://football-italia.net/rafael-leao-message-milan-fans-smile-1-you/",
-      "source": "football-italia.net",
-      "date": "2026-09-01T08:34:55+00:00",
-      "summary": "Former Milan star Rafael Leao has shared a video message to thank Milan fans: ‘I..."
     }
   ]
 }
