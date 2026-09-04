@@ -1,6 +1,134 @@
 {
-  "lastUpdated": "2026-09-04T18:04:59.652097+00:00",
+  "lastUpdated": "2026-09-04T21:13:44.662271+00:00",
   "articles": [
+    {
+      "id": "4f1a7d58180c",
+      "title": "Serie A, Fabregas domina al Marassi: Genoa-Como 1-4",
+      "url": "https://www.milannews.it/news/serie-a-genoa-como-628857",
+      "source": "milannews.it",
+      "date": "2026-09-04T21:00:00+00:00",
+      "summary": "Allo Stadio Marassi di Genova è da poco finito l'anticipo del venerdì sera tra Genoa e Como. Una partita molto vivace partita con il vantaggio dei padroni di casa dopo 19 minuti."
+    },
+    {
+      "id": "5fd6b3438a2e",
+      "title": "Serie A, terza giornata: tutti gli indisponibili, squalificati e diffidati",
+      "url": "https://www.milannews.it/news/serie-a-terza-giornata-indisponibili-squalificati-diffidati-628875",
+      "source": "milannews.it",
+      "date": "2026-09-04T20:48:56+00:00",
+      "summary": "Di seguito la lista completa dei diffidati, degli indisponibili e degli squalificati di Serie A.\n\nATALANTA\nIndisponibili: Sulemana, Hien."
+    },
+    {
+      "id": "e56634ef9d98",
+      "title": "Diddi sicuro: “Reintegro di Tomori necessario, vi spiego perché il Milan ha messo dei giocatori fuori rosa”",
+      "url": "https://www.milannews.it/news/diddi-sicuro-reintegro-tomori-necessario-spiego-milan-messo-giocatori-rosa-628869",
+      "source": "milannews.it",
+      "date": "2026-09-04T20:36:10+00:00",
+      "summary": "Ospite nel canale YouTube di Carlo Pellegatti, Luca Diddi ha parlato del reintegro in rosa di Fikayo Tomori e dei fuori rosa del Milan. Queste le sue parole."
+    },
+    {
+      "id": "98e1f6ba65c6",
+      "title": "Goncalo Inacio ready to wait for Milan in January",
+      "url": "https://football-italia.net/goncalo-inacio-ready-to-wait-for-milan-january/",
+      "source": "football-italia.net",
+      "date": "2026-09-04T20:32:03+00:00",
+      "summary": "Milan are expected to try again for Sporting CP defender Goncalo Inacio in January, claim..."
+    },
+    {
+      "id": "daaff0cbf30e",
+      "title": "Borghi si sbilancia: “Pressione sul risultato più sulla Juve, i bianconeri batteranno il Milan”",
+      "url": "https://www.milannews.it/news/borghi-sbilancia-pressione-risultato-juve-bianconeri-batteranno-milan-628866",
+      "source": "milannews.it",
+      "date": "2026-09-04T20:24:25+00:00",
+      "summary": "Nel suo canale YouTube, il noto giornalista Stefano Borghi ha fatto una live nella quale rispondeva alle domande degli utenti collegati in merito a diversi temi su Serie A e non solo."
+    },
+    {
+      "id": "5f260888a8e9",
+      "title": "Milan, senti Sarri: “De Ketelaere è un fenomeno, e può ancora migliorare tanto”",
+      "url": "https://www.milannews.it/news/milan-senti-sarri-de-ketelaere-fenomeno-top-628874",
+      "source": "milannews.it",
+      "date": "2026-09-04T20:12:03+00:00",
+      "summary": "Domani sera, alle ore 20:45, l'Atalanta di Maurizio Sarri sarà ospite allo Stadio Olimpico di Roma per affrontare i giallorossi di Gian Piero Gasperini."
+    },
+    {
+      "id": "eac339a44c42",
+      "title": "Gasperini 'esami ok per Dybala, proverà a esserci con l'Atalanta'",
+      "url": "https://www.milannews.it/news/gasperini-esami-ok-dybala-provera-esserci-atalanta-628873",
+      "source": "milannews.it",
+      "date": "2026-09-04T20:00:45+00:00",
+      "summary": "(ANSA) - ROMA, 04 SET - \"Dybala non ha avuto niente di particolare, gli esami non hanno evidenziato nulla. Oggi prova, poi deve sentirsi sicuro e tranquillo."
+    },
+    {
+      "id": "573dccd88491",
+      "title": "Juventus-Milan, gli ultimi 10 precedenti in Serie A tra le mura amiche bianconere: ultima vittoria rossonera nel 2023",
+      "url": "https://www.milannews.it/news/juventus-milan-ultimi-10-precedenti-serie-mura-amiche-bianconere-ultima-vittoria-rossonera-2023-628872",
+      "source": "milannews.it",
+      "date": "2026-09-04T19:48:16+00:00",
+      "summary": "Domenica sera il Milan di Ruben Amorim affronterà la Juventus nel suo primo big match stagionale."
+    },
+    {
+      "id": "14c854b04144",
+      "title": "Diddi su Tomori: “Per me Tomori era lì in stand-by. Dopo i 65 milioni per Moreira dovevano metterne 40 per un difensore forte”",
+      "url": "https://www.milannews.it/news/diddi-tomori-per-tomori-li-stand-by-65-moreira-dovevano-metterne-40-difensore-forte-628868",
+      "source": "milannews.it",
+      "date": "2026-09-04T19:36:01+00:00",
+      "summary": "Ospite nel canale YouTube di Carlo Pellegatti, Luca Diddi ha parlato del reintegro in rosa di Fikayo Tomori. Queste le sue parole."
+    },
+    {
+      "id": "0eb0b41b928a",
+      "title": "Borghi su Moreira: “Non vedo l’ora di vederlo in campo, non credo farà la riserva di Chukwueze”",
+      "url": "https://www.milannews.it/news/borghi-moreira-non-vedo-l-ora-vederlo-campo-credo-riserva-chukwueze-628865",
+      "source": "milannews.it",
+      "date": "2026-09-04T19:24:00+00:00",
+      "summary": "Durante l’ultima diretta sul suo canale YouTube, il collega Stefano Borghi ha commentato diversi temi in merito alla prossima giornata di Serie A e, parlando di Diego Moreira, queste sono state le sue parole."
+    },
+    {
+      "id": "554b3399dd68",
+      "title": "Torino, Abate: \"Serve tempo ma c'è l'energia giusta\"",
+      "url": "https://www.milannews.it/news/torino-abate-serve-tempo-energia-giusta-628842",
+      "source": "milannews.it",
+      "date": "2026-09-04T19:12:30+00:00",
+      "summary": "(ANSA) - TORINO, 04 SET - \"La Fiorentina è l'esempio lampante: quando crei un progetto nuovo hai bisogno di tempo, anche noi siamo in questa situazione ma vedo l'energia giusta e dobbiamo avere la voglia feroce di far nostra quest ..."
+    },
+    {
+      "id": "9a2555e31d76",
+      "title": "Serie A: Sarri, 'con la Roma sfida tra chi lavora da 14 mesi e chi da 45 giorni'",
+      "url": "https://www.milannews.it/news/serie-a-sarri-roma-sfida-lavora-14-45-628870",
+      "source": "milannews.it",
+      "date": "2026-09-04T19:00:37+00:00",
+      "summary": "(ANSA) - ROMA, 04 SET - \"E' una partita tra una squadra che ha già 13-14 mesi di lavoro addosso e una come la nostra da 45 giorni. La partita è importante e in questo momento per noi difficile\"."
+    },
+    {
+      "id": "a4b314f94da5",
+      "title": "Quote risultato esatto Juventus Milan",
+      "url": "https://www.milannews.it/scommesse/pronostici/quote-risultato-esatto-juventus-milan-628785",
+      "source": "milannews.it",
+      "date": "2026-09-04T18:45:00+00:00",
+      "summary": "Due vittorie nelle prime due partite, ora per il Milan di Ruben Amorim arriva il primo crush test. Altra trasferta a Torino, si gioca in casa della Juventus che è partita altrettanto bene."
+    },
+    {
+      "id": "6512086671e2",
+      "title": "Diddi sul mercato: “La mia valutazione è 6.5, la squadra è incompleta”",
+      "url": "https://www.milannews.it/news/diddi-mercato-la-valutazione-6-5-squadra-incompleta-628867",
+      "source": "milannews.it",
+      "date": "2026-09-04T18:36:00+00:00",
+      "summary": "Ospite nel canale YouTube di Carlo Pellegatti, Luca Diddi ha analizzato e commentato il mercato estivo rossonero. Queste le sue parole."
+    },
+    {
+      "id": "e67cb03481bc",
+      "title": "Borghi non ha dubbi: “Milan e Juve devono giocare per vincere l’Europa League, è il modo più semplice per qualificarsi in Champions”",
+      "url": "https://www.milannews.it/news/borghi-dubbi-milan-juve-devono-giocare-vincere-l-europa-league-semplice-qualificarsi-champions-628864",
+      "source": "milannews.it",
+      "date": "2026-09-04T18:24:00+00:00",
+      "summary": "Durante l’ultima diretta sul suo canale YouTube, il collega Stefano Borghi ha commentato diversi temi in merito alla prossima giornata di Serie A e, parlando di Milan e Juventus ha dichiarato quanto segue."
+    },
+    {
+      "id": "4a057014060d",
+      "title": "Goncalo Inacio, tre mesi di calciomercato con in testa solo il Milan: il suo nome potrebbe tornare a gennaio",
+      "url": "https://www.milannews.it/calciomercato-milan/romano-svela-goncalo-inacio-pensato-milan-escludo-ritorno-auge-gennaio-l-estate-prossima-628877",
+      "source": "milannews.it",
+      "date": "2026-09-04T18:11:00+00:00",
+      "summary": "Nel suo canale YouTube, Fabrizio Romano ha rivelato dei retroscena molto interessanti riseptto alla trattativa Milan-Goncalo Inacio, lasciando aperto qualche spiraglio per il futuro. Queste le sue parole."
+    },
     {
       "id": "496c85a2a4bc",
       "title": "Contro la Juve sarà la notte di Rabiot: il francese il vero motore offensivo di Amorim",
@@ -58,68 +186,12 @@
       "summary": "Over the summer, the idea of AC Milan hiring a sporting director faded, with Markus Krösche extending his stay in Germany. However, it’s now a conversation again.  Milan pursued Krösche heavily before the mercato really got going. In fact, it seemed the German was extremely close to a move to San Si"
     },
     {
-      "id": "eac186e1b11b",
-      "title": "Rampulla presenta Juventus-Milan: \"Non cambia nulla per chi perderà questa sfida\"",
-      "url": "https://www.milannews.it/news/rampulla-presenta-juventus-milan-non-cambia-perdera-sfida-628850",
-      "source": "milannews.it",
-      "date": "2026-09-04T17:12:36+00:00",
-      "summary": "Intervenuto sulle frequenze di TMW Radio nel corso del pomeriggio, l'ex portiere Michelangelo Rampulla ha un po' presentato il prossimo weekend di campionato dicendo la sua su uno dei due big match della giornata: Juventus-Milan."
-    },
-    {
-      "id": "44663ab9d6f8",
-      "title": "Verso Juventus-Milan, numeri e dati: interessante il tema clean sheet",
-      "url": "https://www.milannews.it/news/juventus-milan-numeri-dati-interessante-tema-clean-sheet-628849",
-      "source": "milannews.it",
-      "date": "2026-09-04T17:00:00+00:00",
-      "summary": "Dopo i successi contro Torino e Venezia, il nuovo Milan di Milan di mister Amorim si prepara al primo e vero big match della stagione 2026/2027. Domenica alle 20."
-    },
-    {
-      "id": "eafcc608db12",
-      "title": "Ramos racconta il primo approccio con Ruben Amorim mentre era ai Mondiali",
-      "url": "https://www.milannews.it/news/ramos-racconta-approccio-ruben-amorim-mondiali-628843",
-      "source": "milannews.it",
-      "date": "2026-09-04T16:48:20+00:00",
-      "summary": "L'operazione che ha portato Gonçalo Ramos al Milan si è conclusa in un lampo, specialmente se la si mette in rapporto con i tempi delle trattative rossonere in periodi recenti o in generale con quelle del mercato in senso pi&ug ..."
-    },
-    {
       "id": "b1255f979d8d",
       "title": "GdS: Moreira debut and Rabiot’s return – the changes expected in Juventus-Milan",
       "url": "https://sempremilan.com/moreira-debut-rabiot-return-juventus-milan-changes",
       "source": "sempremilan.com",
       "date": "2026-09-04T16:40:00+00:00",
       "summary": "Ahead of Sunday’s game against Juventus, AC Milan are expected to make a few changes to the starting XI, it seems. After a perfect start, you would expect changes to be minimal to a Milan side which has looked strong in their opening two games. However, certain players are perhaps deserving of a cha"
-    },
-    {
-      "id": "3c6fccf97116",
-      "title": "Boban non vede il Milan: \"Sono tifoso del progetto Como e di come Fabregas sta allenando la squadra\"",
-      "url": "https://www.milannews.it/news/boba-628847",
-      "source": "milannews.it",
-      "date": "2026-09-04T16:36:37+00:00",
-      "summary": "Milan di mister Amorim si prepara al primo e vero big match della stagione 2026/2027. Domenica alle 20."
-    },
-    {
-      "id": "715bec9c89cb",
-      "title": "Serie A: Andrea De Marco è il nuovo referente degli arbitri per i club",
-      "url": "https://www.milannews.it/news/de-marco-referente-arbitri-club-serie-628846",
-      "source": "milannews.it",
-      "date": "2026-09-04T16:24:00+00:00",
-      "summary": "(ANSA) - ROMA, 04 SET - Il presidente della Figc, Giovanni Malagò - apprende l'ANSA - ha comunicato poco fa alla Lega calcio Serie A, avendone preventivamente raccolto la preferenza, e contestualmente all'Associazione Italiana Arbitri, ..."
-    },
-    {
-      "id": "f40ad28bab40",
-      "title": "A$AP Rocky firma una maglia speciale per il Milan: rosso e nero tra heritage e street culture",
-      "url": "https://www.milannews.it/news/a-ap-rocky-firma-maglia-speciale-milan-rosso-nero-heritage-street-culture-628844",
-      "source": "milannews.it",
-      "date": "2026-09-04T16:12:06+00:00",
-      "summary": "A$AP Roscky e PUMA hanno presentato una maglia speciale dedicata al Milan, ispirata all'estetica dell'album, Don't Be Dumb del noto rapper americano- Il design mantiene il contrastro rossone nero tipico del club, reinterpretandolo con il  ..."
-    },
-    {
-      "id": "f65e8c660970",
-      "title": "Milan, abbondanza sulla trequarti: quattro uomini per due posti, con Rabiot jolly di lusso",
-      "url": "https://www.milannews.it/primo-piano/milan-abbondanza-trequarti-uomini-posti-rabiot-jolly-lusso-628856",
-      "source": "milannews.it",
-      "date": "2026-09-04T16:00:00+00:00",
-      "summary": "Nel 3-4-2-1 di Ruben Amorim la zona alle spalle di Gonçalo Ramos può diventare uno dei punti di forza del nuovo Milan."
     },
     {
       "id": "9a752f49b489",
@@ -138,30 +210,6 @@
       "summary": "Nick Woltemade has taken another step towards making his Juventus debut after training with his..."
     },
     {
-      "id": "3ce63b514963",
-      "title": "La frecciatina di Chivu: \"Che significa scontro diretto? Perché Milan e Juve sono finte tanto dietro l'anno scorso che scontro diretto è?\"",
-      "url": "https://www.milannews.it/l-avversario/chivu-frecciatina-milan-alcune-partite-possono-perdere-raggiunto-obiettivo-628848",
-      "source": "milannews.it",
-      "date": "2026-09-04T15:48:25+00:00",
-      "summary": "Alla vigilia di Inter-Napoli, sfida valida per la terza giornata del campionato di Serie A Enilive, nonché primo dei due big match di questo weekend, l'allenatore nerazzurro Cristian Chivu ha lanciato una provazione a due delle più  ..."
-    },
-    {
-      "id": "7c3dadd76d3b",
-      "title": "Contro la Juventus Amorim cambierà qualcosa rispetto alle prime due partite: Gabbia indisponibile",
-      "url": "https://www.milannews.it/news/juventus-amorim-cambiera-prime-partite-gabbia-indisponibile-628854",
-      "source": "milannews.it",
-      "date": "2026-09-04T15:36:35+00:00",
-      "summary": "Intervenuto in diretta su Sky Sport 24 durante un collegamento dall'esterno di Milanello, il collega Peppe Di Stefano ha fatto un pò il punto in casa Milan in vista del primo big match della stagione, in programma domenica sera all'All ..."
-    },
-    {
-      "id": "bf6ffed1622f",
-      "title": "Mariani per Juve-Milan: il bilancio dell'arbitro con bianconeri e rossoneri",
-      "url": "https://www.milannews.it/news/mariani-juve-milan-bilancio-arbitro-bianconeri-rossoneri-628841",
-      "source": "milannews.it",
-      "date": "2026-09-04T15:24:52+00:00",
-      "summary": "Per la sfida di domenica sera tra Juventus e Milan, big match della terza giornata, l'AIA ha designato l'arbitro Maurizio Mariani della sezione di Aprilia come fischietto."
-    },
-    {
       "id": "5548885e184d",
       "title": "Reports: Contrasting views – Juventus offers Moreira the chance to silence doubters",
       "url": "https://sempremilan.com/juventus-offers-moreira-chance-silence-doubters",
@@ -170,52 +218,12 @@
       "summary": "Diego Moreira was AC Milan’s last ‘big’ signing of the mercato, but he hasn’t been received as the two that came before him, it’s fair to say. For Goncalo Ramos and Mario Gila, their additions were no brainers, they solved issues instantly. They solved known issues, too. With Moreira, though, the si"
     },
     {
-      "id": "c717e6ebaed1",
-      "title": "Garlando: \"Juve-Milan sfida tra aspiranti anti-Inter ma anche derby del riciclo\"",
-      "url": "https://www.milannews.it/news/garlando-juve-milan-sfida-aspiranti-anti-inter-derby-riciclo-628839",
-      "source": "milannews.it",
-      "date": "2026-09-04T15:12:23+00:00",
-      "summary": "La sfida tra Juventus e Milan di domenica sera, in programma allo Stadium di Torino alle ore 20.45, mette di fronte due squadre che sono accomunate da diverse similitudini negli ultimi tempi."
-    },
-    {
-      "id": "086f2ca882d0",
-      "title": "La Uefa apre un procedimento nei confronti di Guendouzi e Greenwood",
-      "url": "https://www.milannews.it/news/champions-uefa-apre-procedimento-confronti-guendouzi-greenwood-628763",
-      "source": "milannews.it",
-      "date": "2026-09-04T15:00:41+00:00",
-      "summary": "(ANSA) - ROMA, 03 SET - La Uefa ha avviato una procedura disciplinare contro i giocatori del Fenerbahçe Matteo Guendouzi e Mason Greenwood a seguito della gara di Champions League della scorsa settimana tra i turchi e l'Olympique Lione che ..."
-    },
-    {
-      "id": "44e0ed1d3ea6",
-      "title": "Ramos subito a suo agio: \"Facile stare nel nostro spogliatoio e nella nostra squadra\"",
-      "url": "https://www.milannews.it/news/ramos-agio-facile-stare-spogliatoio-squadra-628835",
-      "source": "milannews.it",
-      "date": "2026-09-04T14:48:19+00:00",
-      "summary": "Non è mai facile ambientarsi in una nuova squadra, specialmente se arrivi da un altro campionato."
-    },
-    {
       "id": "3c579621c7e0",
       "title": "MN: Big games, defence and attack – the big questions Milan must answer vs. Juventus",
       "url": "https://sempremilan.com/questions-milan-must-answer-juventus",
       "source": "sempremilan.com",
       "date": "2026-09-04T14:40:00+00:00",
       "summary": "In this weekend’s game against Juventus, there are a few tests facing AC Milan and a number of questions will be answered.  The mercato is now over, so the football is left to do the talking. For Milan, their football has done more than enough so far; a perfect record and only one goal conceded. […]"
-    },
-    {
-      "id": "03c120d2c709",
-      "title": "Di Chiara: \"Ad uscire da questo mercato sicuramente rafforzate sono Milan e Inter\"",
-      "url": "https://www.milannews.it/news/chiara-ad-uscire-mercato-sicuramente-rafforzate-milan-inter-628753",
-      "source": "milannews.it",
-      "date": "2026-09-04T14:36:11+00:00",
-      "summary": "Filippo Di Chiara, giornalista, si è così espresso su La Gazzetta dello Sport commentando le rose di Inter e Milan: \"A mercato chiuso ogni squadra, agli occhi del proprio architetto, sembra bellissima e in grado di raggiungere gli  ..."
-    },
-    {
-      "id": "4f87179cb501",
-      "title": "Il Real Madrid avvia un procedimento disciplinare contro Raul Asencio coinvolto in diversi casi giudiziari ed extrasportivi",
-      "url": "https://www.milannews.it/news/calcio-real-madrid-avvia-procedimento-disciplinare-raul-asencio-628770",
-      "source": "milannews.it",
-      "date": "2026-09-04T14:24:07+00:00",
-      "summary": "(ANSA) - ROMA, 03 SET - L'allenatore del Real Madrid, José Mourinho, ha confermato che il club ha aperto un procedimento disciplinare contro l'attaccante spagnolo Raul Asencio, coinvolto in diversi casi giudiziari ed extrasportivi."
     },
     {
       "id": "ff731e6aa94d",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-01T20:15:00+00:00",
       "summary": "Goncalo Ramos remains was the most expensive Serie A signing of the 2026 Serie A..."
-    },
-    {
-      "id": "58fced549bc1",
-      "title": "Every transfer completed by Serie A clubs in 2026 summer transfer window",
-      "url": "https://football-italia.net/every-transfer-completed-serie-a-2026-summer/",
-      "source": "football-italia.net",
-      "date": "2026-09-01T20:05:35+00:00",
-      "summary": "The Serie A summer transfer window closed today, Tuesday, September 1, at 20:00 CET: here..."
     }
   ]
 }
