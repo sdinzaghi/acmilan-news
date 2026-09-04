@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-09-04T00:45:36.196323+00:00",
+  "lastUpdated": "2026-09-04T05:29:28.583505+00:00",
   "articles": [
+    {
+      "id": "eb63abbfc900",
+      "title": "Calendario Milan: date e orari dalla 6^ alla 12^ giornata di Serie A",
+      "url": "https://www.milannews.it/news/calendario-milan-date-orari-6-12-giornata-serie-628801",
+      "source": "milannews.it",
+      "date": "2026-09-04T05:24:00+00:00",
+      "summary": "Il nuovo Milan di Ruben Amorim si prepara alla delicata e prima vera sfida contro una big, domenica sera a Torino contro la Juventus. Una partita che potrebbe già creare uno spartiacque in questo inizio di campionato."
+    },
+    {
+      "id": "0b4230c59c44",
+      "title": "Juventus-Milan, la probabile formazione: novità Rabiot, spazio ancora a Cisse",
+      "url": "https://www.milannews.it/news/juventus-milan-probabile-formazione-novita-rabiot-spazio-cisse-628798",
+      "source": "milannews.it",
+      "date": "2026-09-04T05:12:00+00:00",
+      "summary": "Il Milan di mister Amorim si prepara al primo e vero big match della stagione 2026/2027. Domenica alle 20."
+    },
+    {
+      "id": "2e3056ce715d",
+      "title": "Milan, le parole di Diego Moreira verso la sfida contro la Juventus",
+      "url": "https://www.milannews.it/news/milan-parole-diego-moreira-628797",
+      "source": "milannews.it",
+      "date": "2026-09-04T05:00:00+00:00",
+      "summary": "Diego Moreira, nuovo giocatore del Milan arrivato nell'ultima e recente sessione di mercato estiva, ha parlato così ai microfoni rossoneri prima del bagno di folla accaduto ieri pomeriggio allo Store milanista di Via Dante."
+    },
+    {
+      "id": "deb4f9b162e1",
+      "title": "PROBABILE FORMAZIONE - Verso Juve-Milan: torna un big titolare, convocati due novità",
+      "url": "https://www.milannews.it/news/probabile-formazione-juve-milan-juventus-news-amorim-rabiot-pulisic-modric-628782",
+      "source": "milannews.it",
+      "date": "2026-09-04T04:05:00+00:00",
+      "summary": "Dopo le due vittoria nelle prime due gare del campionato, il Milan di Ruben Amorim affronta il primo big match della stagione, valido per la terza giornata del campionato di Serie A: all'Allianz Stadium, con calcio d'inizio dom ..."
+    },
     {
       "id": "daf5be813ea4",
       "title": "Il voto di Sandro Sabatini al mercato del Milan è prima ottimo e poi pessimo",
@@ -23,7 +55,7 @@
       "url": "https://www.milannews.it/news/borghi-sorpresa-rosa-milan-ricca-forte-dell-anno-scorso-628705",
       "source": "milannews.it",
       "date": "2026-09-03T22:36:00+00:00",
-      "summary": "On his YouTube channel, my colleague Stefano Borghi commented on the transfer market of the 20 Serie A teams. Below is an extract of his words on the Rossoneri transfer market."
+      "summary": "Nel suo canale YouTube, il collega Stefano Borghi ha commentato il calciomercato delle 20 squadre di Serie A. Di seguito un estratto delle parole sul mercato dei rossoneri."
     },
     {
       "id": "e022f9f5f313",
@@ -43,7 +75,7 @@
     },
     {
       "id": "787708000512",
-      "title": "Zlatan: wherever you are, stay there. The new Cardinal course, a necessary act. Everything on the shoulders of Amorim who must learn to help himself, but the team is with him",
+      "title": "Zlatan: ovunque tu sia, restaci. Il nuovo corso Cardinale, un atto dovuto. Tutto sulle spalle di Amorim che deve imparare ad aiutarsi da solo, ma la squadra è con lui",
       "url": "https://www.milannews.it/editoriale/zlatan-ovunque-sia-restaci-corso-cardinale-atto-dovuto-spalle-amorim-imparare-aiutarsi-solo-squadra-628778",
       "source": "milannews.it",
       "date": "2026-09-03T22:00:00+00:00",
@@ -99,7 +131,7 @@
     },
     {
       "id": "5bc900b1d10e",
-      "title": "Moreira altruistic: \"If you don't reach team goals you can't get personal recognition\"",
+      "title": "Moreira altruista: \"Se non raggiungi gli obiettivi di squadra non puoi ottenere riconoscimenti personali\"",
       "url": "https://www.milannews.it/news/moreira-altruista-se-raggiungi-obiettivi-squadra-puoi-ottenere-riconoscimenti-personali-628792",
       "source": "milannews.it",
       "date": "2026-09-03T20:48:26+00:00",
@@ -122,14 +154,6 @@
       "summary": "Sfruttando le colonne de La Gazzetta dello Sport l'ex allenatore Andrea Stramaccioni ha dato un personale commento sulla Serie A dopo queste prime due giornate, soffermandosi anche sui due big match in programma nel weekend e sul Milan."
     },
     {
-      "id": "deb4f9b162e1",
-      "title": "PROBABILE FORMAZIONE - Verso Juve-Milan: torna un big titolare, convocati due novità",
-      "url": "https://www.milannews.it/news/probabile-formazione-juve-milan-juventus-news-amorim-rabiot-pulisic-modric-628782",
-      "source": "milannews.it",
-      "date": "2026-09-03T20:20:00+00:00",
-      "summary": "Dopo le due vittoria nelle prime due gare del campionato, il Milan di Ruben Amorim affronta il primo big match della stagione, valido per la terza giornata del campionato di Serie A: all'Allianz Stadium, con calcio d'inizio dom ..."
-    },
-    {
       "id": "03797e0b5390",
       "title": "Diddi: \"Se l'obiettivo del Milan è lo Scudetto, la rosa è incompleta. Se è la Champions, allora va bene\"",
       "url": "https://www.milannews.it/news/diddi-se-obiettivo-milan-scudetto-rosa-incompleta-champions-bene-628774",
@@ -144,30 +168,6 @@
       "source": "milannews.it",
       "date": "2026-09-03T20:00:21+00:00",
       "summary": "Billy Costacurta, ex difensore del Milan oggi noto opinionsta di Sky Sport, è intervenuto così questa sera in occasione della presentazione di questa nuova edizione di Coppe Europe presentata da Sky Sport a Milano, precisamente a Villa  ..."
-    },
-    {
-      "id": "e255681934a3",
-      "title": "Moreira, quale pressione: \"Devo dimostrare che hanno fatto bene a credere in me: darò tutto\"",
-      "url": "https://www.milannews.it/news/moreira-pressione-devo-dimostrare-credere-me-daro-tutto-628789",
-      "source": "milannews.it",
-      "date": "2026-09-03T19:48:00+00:00",
-      "summary": "Questo pomeriggio al Milan Flaghsip Store di via Dante, in centro a Milano, il nuovo acquisto rossonero Diego Moreira, arrivato dallo Strasburgo per una cifra attorno ai 50 milioni di euro, ha incontrato da vicino i tifosi rossoneri."
-    },
-    {
-      "id": "0e36c3fb3a31",
-      "title": "Capello: \"Sarebbe bello una finale in Europa League Juventus-Milan...\"",
-      "url": "https://www.milannews.it/news/capello-sarebbe-bello-finale-europa-league-juventus-milan-628799",
-      "source": "milannews.it",
-      "date": "2026-09-03T19:35:00+00:00",
-      "summary": "Fabio Capello, ex allenatore del Milan è intervenuto così stasera a Sky Sport, in occasione della presentazione della stagione delle Coppe Europee. Le sue parole direttamente dal palco di Villa Vecchia a Milano."
-    },
-    {
-      "id": "8722d8a0dede",
-      "title": "Nizegorodcew avverte: \"Terracciano, Diawara e Vladimirov saranno spesso titolari. Mea culpa su Tomori intelligente\"",
-      "url": "https://www.milannews.it/news/nizegorodcew-avverte-terracciano-diawara-vladimirov-titolari-mea-culpa-tomori-intelligente-628764",
-      "source": "milannews.it",
-      "date": "2026-09-03T19:23:00+00:00",
-      "summary": "Alessandro Nizegorodcew, giornalista sportivo e tifoso milanista, si è così espresso su X commentando il calciomercato del Milan: \"Gestione del calciomercato del Milan folle e sciagurata."
     },
     {
       "id": "08ffa98883a0",
