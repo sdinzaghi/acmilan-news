@@ -1,29 +1,133 @@
 {
-  "lastUpdated": "2026-09-05T02:56:31.238982+00:00",
+  "lastUpdated": "2026-09-05T07:27:39.797405+00:00",
   "articles": [
     {
+      "id": "c63249d0b710",
+      "title": "Towards Juventus. CorSport: \"The only injured cage. De Winter is there\"",
+      "url": "https://www.milannews.it/rassegna-stampa/juventus-corsport-gabbia-unico-infortunato-de-winter-628891",
+      "source": "milannews.it",
+      "date": "2026-09-05T07:24:46+00:00",
+      "summary": "For the match against Juventus, Ruben Amorim will have to do without Matteo Gabbia, who is struggling with an ankle inflammation from which he hopes to recover next week (CLICK HERE to read the MilanNews preview."
+    },
+    {
+      "id": "66394e24bc1e",
+      "title": "Jashari: \"Amorim brought a new energy. His idea of ​​football is very clear\"",
+      "url": "https://www.milannews.it/news/jashari-amorim-portato-nuova-energia-idea-calcio-chiara-628901",
+      "source": "milannews.it",
+      "date": "2026-09-05T07:12:00+00:00",
+      "summary": "Milan midfielder Ardon Jashari was interviewed exclusively by the notebooks of his Sportmediaset colleagues on the eve of an important and delicate match like the one against Juventus, the real first big match of the season."
+    },
+    {
+      "id": "10b8664de0e1",
+      "title": "The latest from Milanello. La Gazzetta: \"The defensive wall at the Juventus test. Gila leads the line\"",
+      "url": "https://www.milannews.it/rassegna-stampa/ultime-milanello-gazzetta-il-muro-difensivo-test-bianconero-gila-guida-linea-628890",
+      "source": "milannews.it",
+      "date": "2026-09-05T07:00:56+00:00",
+      "summary": "If in the other roles Ruben Amorim will only release his last reservations tomorrow, close to the match, in defense the Rossoneri coach doesn't have much to decide, also because the defense that wins cannot be changed."
+    },
+    {
       "id": "deb4f9b162e1",
-      "title": "PROBABILE FORMAZIONE - Verso Juve-Milan: torna un big titolare, convocati due novità",
+      "title": "PROBABLE LINE-UP - Towards Juve-Milan: a big starter returns, two new players called up",
       "url": "https://www.milannews.it/news/probabile-formazione-juve-milan-juventus-news-amorim-rabiot-pulisic-modric-628782",
       "source": "milannews.it",
-      "date": "2026-09-04T23:05:00+00:00",
-      "summary": "Dopo le due vittoria nelle prime due gare del campionato, il Milan di Ruben Amorim affronta il primo big match della stagione, valido per la terza giornata del campionato di Serie A: all'Allianz Stadium, con calcio d'inizio dom ..."
+      "date": "2026-09-05T06:50:00+00:00",
+      "summary": "After the two victories in the first two matches of the championship, Ruben Amorim's AC Milan faces the first big match of the season, valid for the third day of the Serie A championship: at the Allianz Stadium, with kick-off on Sunday ..."
+    },
+    {
+      "id": "b9dc0be59f94",
+      "title": "Pavlovic reveals: \"In the summer I could have gone away but I didn't want to\"",
+      "url": "https://www.milannews.it/news/pavlovic-svela-in-estate-potevo-andare-via-volevo-628897",
+      "source": "milannews.it",
+      "date": "2026-09-05T06:48:05+00:00",
+      "summary": "Milan defender Strahinja Pavlovic was interviewed exclusively by the notebooks of Tuttosport colleagues on the eve of an important and delicate match like the one against Juventus, the real first big match of the season."
+    },
+    {
+      "id": "e873aad7596a",
+      "title": "Only one goal conceded in two games. Tuttosport: \"With Amorim the first defender is Gonçalo Ramos\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gol-partite-tuttosport-con-amorim-difensore-goncalo-ramos-628887",
+      "source": "milannews.it",
+      "date": "2026-09-05T06:36:43+00:00",
+      "summary": "In the first two days of the championship, Milan conceded just one goal, which was also rather coincidental considering the way in which Che Adams, two Sundays ago, overtook and surprised Maignan, closing the gap for Torino after the game was over."
+    },
+    {
+      "id": "d0ac61b839cc",
+      "title": "An exorcism of the Devil. CorSport: \"Milan, over three years without goals and successes with Juve in Serie A\"",
+      "url": "https://www.milannews.it/rassegna-stampa/esorcismo-diavolo-corsport-milan-gol-successi-juve-serie-a-628886",
+      "source": "milannews.it",
+      "date": "2026-09-05T06:24:47+00:00",
+      "summary": "Tomorrow evening the third big match of the day will be staged at the Allianz Stadium after Inter-Juventus and Roma-Atalanta, both scheduled for today."
+    },
+    {
+      "id": "23aab0db491f",
+      "title": "Jashari to Sportmediaset: \"With Amorim we feel that something has changed and that it is going in the right direction\"",
+      "url": "https://www.milannews.it/news/jashari-sportmediaset-con-amorim-sentiamo-cambiato-direzione-giusta-628889",
+      "source": "milannews.it",
+      "date": "2026-09-05T06:12:23+00:00",
+      "summary": "Milan midfielder Ardon Jashari was interviewed exclusively by the notebooks of his Sportmediaset colleagues on the eve of an important and delicate match like the one against Juventus, the real first big match of the season."
+    },
+    {
+      "id": "cd46ed6ea62f",
+      "title": "Pavlovic: \"I feel good at Milan and I want to stay. I like Amorim, our game has changed with him\"",
+      "url": "https://www.milannews.it/primo-piano/pavlovic-al-milan-voglio-restare-amorim-piace-cambiato-gioco-628885",
+      "source": "milannews.it",
+      "date": "2026-09-05T06:00:00+00:00",
+      "summary": "Milan defender Strahinja Pavlovic was interviewed exclusively by the notebooks of Tuttosport colleagues on the eve of an important and delicate match like the one against Juventus, the real first big match of the season."
+    },
+    {
+      "id": "d3d191062904",
+      "title": "Serie A, the third day continues: the complete program with timetables and TV guide",
+      "url": "https://www.milannews.it/news/serie-a-prosegue-terza-giornata-programma-completo-orari-guida-tv-628859",
+      "source": "milannews.it",
+      "date": "2026-09-05T05:48:00+00:00",
+      "summary": "After last night's match between Genoa and Como, this is the program for the third day of Serie A.\n\nTHIRD DAY OF SERIES A: THE COMPLETE PROGRAMME\n\nFiorentina-Turin Saturday 5 September at 3pm."
+    },
+    {
+      "id": "6b05abfd1502",
+      "title": "Serie A, dates and times from matchdays 6 to 12: derby on Halloween",
+      "url": "https://www.milannews.it/news/serie-a-date-orari-6-12-giornata-derby-halloween-628861",
+      "source": "milannews.it",
+      "date": "2026-09-05T05:36:00+00:00",
+      "summary": "A few days ago the Lega Serie A revealed the dates and times from matchday number 6 to matchday number 12. Below are all the commitments with the times and the TV guide of the Rossoneri."
+    },
+    {
+      "id": "e7cf3effb107",
+      "title": "Serie A, today we return to the pitch: two big matches will set the championship Saturday on fire",
+      "url": "https://www.milannews.it/news/serie-a-torna-campo-big-match-infiammano-sabato-campionato-628863",
+      "source": "milannews.it",
+      "date": "2026-09-05T05:24:00+00:00",
+      "summary": "After last night's advance between Como and Genoa, today the third day of Serie A continues. Three games scheduled with two big matches that will give the first indications of the top teams."
+    },
+    {
+      "id": "fad37b39a1b3",
+      "title": "Juventus-Milan eve, where to follow the big match at the Alianz Stadium: all the info",
+      "url": "https://www.milannews.it/news/vigilia-juventus-milan-seguire-big-match-dell-alianz-stadium-info-628860",
+      "source": "milannews.it",
+      "date": "2026-09-05T05:12:00+00:00",
+      "summary": "We have arrived on the eve of tomorrow evening's big match which will be played at 8.45pm in an Alianz Stadium which will clearly be sold out."
+    },
+    {
+      "id": "ad64d5fca4ee",
+      "title": "Juve-Milan, one day at the big match in Turin: the probable Rossoneri lineup",
+      "url": "https://www.milannews.it/news/juve-milan-big-match-torino-probabile-formazione-rossonera-628862",
+      "source": "milannews.it",
+      "date": "2026-09-05T05:00:00+00:00",
+      "summary": "After the two victories in the first two matches of the championship, Ruben Amorim's AC Milan faces the first big match of the season, valid for the third day of the Serie A championship: at the Allianz Stadium, with kick-off on Sunday ..."
     },
     {
       "id": "33e3d73be150",
-      "title": "Milan, tre mesi di fuoco tra Europa League e campionato: il programma completo tra le due competizioni",
+      "title": "Milan, three months of fire between the Europa League and the championship: the complete program between the two competitions",
       "url": "https://www.milannews.it/news/milan-fuoco-europa-league-campionato-programma-completo-competizioni-628883",
       "source": "milannews.it",
       "date": "2026-09-04T22:48:42+00:00",
-      "summary": "Si riporta di seguito il calendario del Milan tra campionato di Serie A e fase campionato di Europa League da oggi ad inizio novembre, cioè per le partite la cui data e la cui ora sono già state ufficializzate dalla Lega Serie A e dalla ..."
+      "summary": "Below is Milan's calendar between the Serie A championship and the Europa League championship phase from today to the beginning of November, i.e. for the matches whose date and time have already been made official by the Lega Serie A and the ..."
     },
     {
       "id": "b0d078bdce2f",
-      "title": "Il Premier albanese Rama scherza sul Milan nel fare i complimenti a Meloni per il governo più longevo della storia. Il video",
+      "title": "Albanian Prime Minister Rama jokes about Milan in complimenting Meloni for the longest-serving government in history. The video",
       "url": "https://www.milannews.it/news/premier-albanese-rama-scherza-milan-complimenti-meloni-governo-longevo-storia-video-628882",
       "source": "milannews.it",
       "date": "2026-09-04T22:36:43+00:00",
-      "summary": "Il premier albanese Edi Rama, dichiaratamente tifoso bianconero, ha postato nel suo profilo Instagram un video nel quale si complimenta con la premier Giorgia Meloni per essere ufficialmente il governo più lungo della storia della Repubblica I ..."
+      "summary": "The Albanian Prime Minister Edi Rama, an avowed Juventus fan, posted a video on his Instagram profile in which he congratulated Prime Minister Giorgia Meloni for officially having the longest government in the history of the Republic."
     },
     {
       "id": "f022fb213dd4",
@@ -39,11 +143,11 @@
       "url": "https://www.milannews.it/news/athekame-decisivo-maglia-lione-gol-seconda-campionato-628880",
       "source": "milannews.it",
       "date": "2026-09-04T22:12:00+00:00",
-      "summary": "Inizia alla grande, come meglio non poteva chiedere, l'avventura di Zachary Athekame con la maglia del Lione. Il giovane esterno, passato in Francia in prestito secco, ha da subito inciso il suo nome nei titolari della squadra."
+      "summary": "Zachary Athekame's adventure with the Lyon shirt begins in a great way, as he couldn't have asked for better. The young winger, who moved to France on a dry loan, immediately made his name among the team's starters."
     },
     {
       "id": "2145df501bff",
-      "title": "L'anticipo di Galli - Mercato Milan: incompleto ma interessante!",
+      "title": "Galli's advance - Milan transfer market: incomplete but interesting!",
       "url": "https://www.milannews.it/editoriale/galli-mercato-milan-incompleto-interessante-628884",
       "source": "milannews.it",
       "date": "2026-09-04T22:00:01+00:00",
@@ -51,59 +155,11 @@
     },
     {
       "id": "cbbac45236fe",
-      "title": "Serie A: Gasperini, 'innamorato di questa Roma, ambiente dove ho piacere a venire'",
+      "title": "Serie A: Gasperini, 'in love with this Roma, an environment where I like to come'",
       "url": "https://www.milannews.it/news/serie-a-gasperini-innamorato-roma-ambiente-piacere-venire-628878",
       "source": "milannews.it",
       "date": "2026-09-04T21:48:33+00:00",
-      "summary": "(ANSA) - ROMA, 04 SET -\"Sono innamorato di questo gruppo e di questi giocatori."
-    },
-    {
-      "id": "9cf48ee99427",
-      "title": "Juve-Milan, domenica sera il posticipo della 3° giornata: la probabile formazione dei bianconeri",
-      "url": "https://www.milannews.it/l-avversario/juve-milan-domenica-sera-posticipo-3-giornata-probabile-formazione-bianconeri-628879",
-      "source": "milannews.it",
-      "date": "2026-09-04T21:36:21+00:00",
-      "summary": "On Sunday evening Luciano Spalletti's Juventus will host Amorim's Milan in the first big match of the season for both teams."
-    },
-    {
-      "id": "3c4f5f6809d4",
-      "title": "Pedullà sul mercato del Milan: “Per me è un 6.5 perché si sono contraddetti su Tomori”",
-      "url": "https://www.milannews.it/news/pedulla-mercato-milan-per-6-5-contraddetti-tomori-628871",
-      "source": "milannews.it",
-      "date": "2026-09-04T21:24:00+00:00",
-      "summary": "In his YouTube channel, Alfredo Pedullà at the end of the summer session of the 2025/2026 transfer market judged all the operations and movements of the twenty Serie A teams to which he then gave an evaluation."
-    },
-    {
-      "id": "38de1e91f117",
-      "title": "Serie A, il Como passeggia a Genova: la classifica aggiornata",
-      "url": "https://www.milannews.it/news/serie-a-classifica-aggiornata-628858",
-      "source": "milannews.it",
-      "date": "2026-09-04T21:12:40+00:00",
-      "summary": "Following the result of Genoa-Como 1-4, this is the updated ranking. \n\nBelow is the updated Serie A ranking\n\n1."
-    },
-    {
-      "id": "4f1a7d58180c",
-      "title": "Serie A, Fabregas domina al Marassi: Genoa-Como 1-4",
-      "url": "https://www.milannews.it/news/serie-a-genoa-como-628857",
-      "source": "milannews.it",
-      "date": "2026-09-04T21:00:00+00:00",
-      "summary": "The Friday evening match between Genoa and Como has just ended at the Marassi Stadium in Genoa. A very lively match which started with the hosts taking the lead after 19 minutes."
-    },
-    {
-      "id": "5fd6b3438a2e",
-      "title": "Serie A, third day: all unavailable, disqualified and banned",
-      "url": "https://www.milannews.it/news/serie-a-terza-giornata-indisponibili-squalificati-diffidati-628875",
-      "source": "milannews.it",
-      "date": "2026-09-04T20:48:56+00:00",
-      "summary": "Di seguito la lista completa dei diffidati, degli indisponibili e degli squalificati di Serie A.\n\nATALANTA\nIndisponibili: Sulemana, Hien."
-    },
-    {
-      "id": "e56634ef9d98",
-      "title": "Diddi sure: \"Tomori's reinstatement is necessary, I'll explain why Milan put players out of the squad\"",
-      "url": "https://www.milannews.it/news/diddi-sicuro-reintegro-tomori-necessario-spiego-milan-messo-giocatori-rosa-628869",
-      "source": "milannews.it",
-      "date": "2026-09-04T20:36:10+00:00",
-      "summary": "Ospite nel canale YouTube di Carlo Pellegatti, Luca Diddi ha parlato del reintegro in rosa di Fikayo Tomori e dei fuori rosa del Milan. Queste le sue parole."
+      "summary": "(ANSA) - ROME, SEPTEMBER 04 -\"I am in love with this group and these players."
     },
     {
       "id": "98e1f6ba65c6",
@@ -112,62 +168,6 @@
       "source": "football-italia.net",
       "date": "2026-09-04T20:32:03+00:00",
       "summary": "Milan are expected to try again for Sporting CP defender Goncalo Inacio in January, claim..."
-    },
-    {
-      "id": "daaff0cbf30e",
-      "title": "Borghi si sbilancia: “Pressione sul risultato più sulla Juve, i bianconeri batteranno il Milan”",
-      "url": "https://www.milannews.it/news/borghi-sbilancia-pressione-risultato-juve-bianconeri-batteranno-milan-628866",
-      "source": "milannews.it",
-      "date": "2026-09-04T20:24:25+00:00",
-      "summary": "Nel suo canale YouTube, il noto giornalista Stefano Borghi ha fatto una live nella quale rispondeva alle domande degli utenti collegati in merito a diversi temi su Serie A e non solo."
-    },
-    {
-      "id": "5f260888a8e9",
-      "title": "Milan, senti Sarri: “De Ketelaere è un fenomeno, e può ancora migliorare tanto”",
-      "url": "https://www.milannews.it/news/milan-senti-sarri-de-ketelaere-fenomeno-top-628874",
-      "source": "milannews.it",
-      "date": "2026-09-04T20:12:03+00:00",
-      "summary": "Domani sera, alle ore 20:45, l'Atalanta di Maurizio Sarri sarà ospite allo Stadio Olimpico di Roma per affrontare i giallorossi di Gian Piero Gasperini."
-    },
-    {
-      "id": "eac339a44c42",
-      "title": "Gasperini 'esami ok per Dybala, proverà a esserci con l'Atalanta'",
-      "url": "https://www.milannews.it/news/gasperini-esami-ok-dybala-provera-esserci-atalanta-628873",
-      "source": "milannews.it",
-      "date": "2026-09-04T20:00:45+00:00",
-      "summary": "(ANSA) - ROMA, 04 SET - \"Dybala non ha avuto niente di particolare, gli esami non hanno evidenziato nulla. Oggi prova, poi deve sentirsi sicuro e tranquillo."
-    },
-    {
-      "id": "573dccd88491",
-      "title": "Juventus-Milan, gli ultimi 10 precedenti in Serie A tra le mura amiche bianconere: ultima vittoria rossonera nel 2023",
-      "url": "https://www.milannews.it/news/juventus-milan-ultimi-10-precedenti-serie-mura-amiche-bianconere-ultima-vittoria-rossonera-2023-628872",
-      "source": "milannews.it",
-      "date": "2026-09-04T19:48:16+00:00",
-      "summary": "Domenica sera il Milan di Ruben Amorim affronterà la Juventus nel suo primo big match stagionale."
-    },
-    {
-      "id": "14c854b04144",
-      "title": "Diddi su Tomori: “Per me Tomori era lì in stand-by. Dopo i 65 milioni per Moreira dovevano metterne 40 per un difensore forte”",
-      "url": "https://www.milannews.it/news/diddi-tomori-per-tomori-li-stand-by-65-moreira-dovevano-metterne-40-difensore-forte-628868",
-      "source": "milannews.it",
-      "date": "2026-09-04T19:36:01+00:00",
-      "summary": "Ospite nel canale YouTube di Carlo Pellegatti, Luca Diddi ha parlato del reintegro in rosa di Fikayo Tomori. Queste le sue parole."
-    },
-    {
-      "id": "0eb0b41b928a",
-      "title": "Borghi on Moreira: \"I can't wait to see him on the pitch, I don't think he'll be Chukwueze's reserve\"",
-      "url": "https://www.milannews.it/news/borghi-moreira-non-vedo-l-ora-vederlo-campo-credo-riserva-chukwueze-628865",
-      "source": "milannews.it",
-      "date": "2026-09-04T19:24:00+00:00",
-      "summary": "Durante l’ultima diretta sul suo canale YouTube, il collega Stefano Borghi ha commentato diversi temi in merito alla prossima giornata di Serie A e, parlando di Diego Moreira, queste sono state le sue parole."
-    },
-    {
-      "id": "554b3399dd68",
-      "title": "Torino, Abate: \"Serve tempo ma c'è l'energia giusta\"",
-      "url": "https://www.milannews.it/news/torino-abate-serve-tempo-energia-giusta-628842",
-      "source": "milannews.it",
-      "date": "2026-09-04T19:12:30+00:00",
-      "summary": "(ANSA) - TORINO, 04 SET - \"La Fiorentina è l'esempio lampante: quando crei un progetto nuovo hai bisogno di tempo, anche noi siamo in questa situazione ma vedo l'energia giusta e dobbiamo avere la voglia feroce di far nostra quest ..."
     },
     {
       "id": "a3e658e01102",
