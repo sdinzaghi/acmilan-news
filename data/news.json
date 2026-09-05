@@ -1,89 +1,129 @@
 {
-  "lastUpdated": "2026-09-05T21:56:18.567482+00:00",
+  "lastUpdated": "2026-09-05T23:34:02.745273+00:00",
   "articles": [
     {
+      "id": "c6115f96de1a",
+      "title": "Marotta snobba il Milan nella corsa allo Scudetto: \" Ci sono anche Roma, Juve... e Como\"",
+      "url": "https://www.milannews.it/news/serie-a-marotta-scudetto-roma-juve-como-628972",
+      "source": "milannews.it",
+      "date": "2026-09-05T22:48:18+00:00",
+      "summary": "(ANSA) - MILANO, 05 SET - \"Se è il Napoli l'anti-Inter? Secondo me non c'è solo il Napoli e non c'è solo l'Inter, ci sono anche Roma, Juve e altre che non voglio assolutamente dimenticare, anche il Como &egra ..."
+    },
+    {
+      "id": "4db6c013f97c",
+      "title": "Pavlovic sulla Juventus: \"Conceiçao difficile da arginare. Mi piacciono molto Bremer e Lucumi\"",
+      "url": "https://www.milannews.it/news/pavlovic-juventus-conceicao-difficile-arginare-piacciono-bremer-lucumi-628968",
+      "source": "milannews.it",
+      "date": "2026-09-05T22:36:56+00:00",
+      "summary": "Il difensore del Milan Strahinja Pavlovic è stato intervistato in esclusiva dai taccuini dei colleghi di Tuttosport alla vigilia di una sfida importante e delicata come quella contro la Juventus, il vero primo big match della stagione."
+    },
+    {
+      "id": "8ad9bd1d915c",
+      "title": "Zambrotta sul nuovo Milan di Amorim: \"Mi piace, ha iniziato bene e ha alti margini di miglioramento\"",
+      "url": "https://www.milannews.it/news/zambrotta-milan-amorim-mi-piace-iniziato-alti-margini-miglioramento-628958",
+      "source": "milannews.it",
+      "date": "2026-09-05T22:24:23+00:00",
+      "summary": "Intervistato dai colleghi de La Gazzetta dello Sport, il doppio grande ex della partita Gianluca Zambrotta ha presentato la sfida dell'Allianz Stadium. Di seguito alcuni estratti della sua intervista."
+    },
+    {
+      "id": "e92c5b424c5a",
+      "title": "3 sconfitte su 3 per la Fiorentina, Grosso: \"Non mi dimetto, deciderà chi è sopra di me\"",
+      "url": "https://www.milannews.it/news/fiorentina-grosso-dimetto-decidera-628967",
+      "source": "milannews.it",
+      "date": "2026-09-05T22:12:15+00:00",
+      "summary": "(ANSA) - FIRENZE, 05 SET - \"Io faccio l'allenatore e mi rimetto alle decisioni di chi è sopra di me. Dimettermi? Non ci ho mai pensato\"."
+    },
+    {
+      "id": "1252b6e8f643",
+      "title": "Anno zero di Cardinale? No, anno quinto. Rosa incompleta e nessun mercato faraonico",
+      "url": "https://www.milannews.it/editoriale/zero-cardinale-no-quinto-rosa-incompleta-mercato-faraonico-628944",
+      "source": "milannews.it",
+      "date": "2026-09-05T22:00:01+00:00",
+      "summary": "Juve-Milan gara interessantissima, perchè darà maggiori indicazioni e risposte su entrambe le squadre, per le quali oggi abbiamo ancora pochi elementi da analizzare."
+    },
+    {
       "id": "79ed0ea552b2",
-      "title": "Costacurta: \"The fact that Milan will have an offensive game is already a small thing that gives us hope\"",
+      "title": "Costacurta: \"Il fatto che il Milan avrà un gioco offensivo è già una piccola cosa che fa ben sperare\"",
       "url": "https://www.milannews.it/news/costacurta-il-milan-gioco-offensivo-piccola-sperare-628961",
       "source": "milannews.it",
       "date": "2026-09-05T21:48:59+00:00",
-      "summary": "The match against Juventus on Sunday evening will begin to tell what Milan's future can be over the course of this season."
+      "summary": "La partita contro la Juventus di domenica sera inizierà a dire quale può essere il futuro del Milan nell'arco di questa stagione."
     },
     {
       "id": "53489b814399",
-      "title": "Chivu satisfied after Inter-Napoli: \"It was an advertisement for Italian football\"",
+      "title": "Chivu soddisfatto dopo Inter-Napoli: \"È stata una pubblicità per il calcio italiano\"",
       "url": "https://www.milannews.it/news/calcio-chivu-inter-napoli-pubblicita-calcio-italiano-628962",
       "source": "milannews.it",
       "date": "2026-09-05T21:36:00+00:00",
-      "summary": "(ANSA) - MILAN, SEPTEMBER 05 - \"Great match to watch, fun, good publicity for Italian football, with two teams playing openly at 2-2."
+      "summary": "(ANSA) - MILANO, 05 SET - \"Gara bella da vedere, divertente, una bella pubblicità al calcio italiano, sul 2-2 due squadre che hanno giocato a viso aperto."
     },
     {
       "id": "645609e932a0",
-      "title": "Zambrotta on Ramos: \"Even if he missed some goals, I really liked the work he did\"",
+      "title": "Zambrotta su Ramos: \"Anche se ha sbagliato qualche gol, mi è piaciuto molto il lavoro fatto da lui\"",
       "url": "https://www.milannews.it/news/zambrotta-ramos-anche-sbagliato-gol-piaciuto-lavoro-lui-628957",
       "source": "milannews.it",
       "date": "2026-09-05T21:24:00+00:00",
-      "summary": "Interviewed by colleagues from La Gazzetta dello Sport, the double great ex of the match Gianluca Zambrotta presented the challenge of the Allianz Stadium. Below are some excerpts from his interview."
+      "summary": "Intervistato dai colleghi de La Gazzetta dello Sport, il doppio grande ex della partita Gianluca Zambrotta ha presentato la sfida dell'Allianz Stadium. Di seguito alcuni estratti della sua intervista."
     },
     {
       "id": "2672216437b9",
-      "title": "Serie A, the updated ranking: Roma joins Inter in first place while waiting for Juventus-Milan",
+      "title": "Serie A, la classifica aggiornata: la Roma aggancia l'Inter al primo posto in attesa di Juventus-Milan",
       "url": "https://www.milannews.it/news/serie-a-classifica-aggiornata-roma-aggancia-inter-juventus-milan-628970",
       "source": "milannews.it",
       "date": "2026-09-05T21:12:09+00:00",
-      "summary": "Below is the updated Serie A ranking after Roma's incredible comeback victory over Maurizio Sarri's Atalanta. Thanks to these three points, Gian Piero Gasperini's team joins Inter at the top with full points."
+      "summary": "Di seguito la classifica di Serie A aggiornata dopo l'incredibile vittoria in rimonta della Roma sull'Atalanta di Maurizio Sarri. Grazie a questi tre punti la formazione di Gian Piero Gasperini aggancia in vetta l'Inter a punteggio pieno."
     },
     {
       "id": "bda8f617f05c",
-      "title": "Roma, thrilling comeback: Hermoso and Soulé overturn Atalanta in the 94th minute",
+      "title": "Roma, rimonta da brividi: Hermoso e Soulé ribaltano l’Atalanta al 94’",
       "url": "https://www.milannews.it/news/roma-rimonta-brividi-hermoso-soule-ribaltano-l-atalanta-94-628969",
       "source": "milannews.it",
       "date": "2026-09-05T21:00:01+00:00",
-      "summary": "Roma achieved a resounding victory against Atalanta, winning 2-1 at the Olimpico after going behind at the start of the second half. Ederson gave Dea the lead in the 46th minute, while the Giallorossi also hit two posts with Castro."
+      "summary": "La Roma conquista una vittoria clamorosa contro l'Atalanta, imponendosi 2-1 all'Olimpico dopo essere andata sotto a inizio ripresa. Ederson porta in vantaggio la Dea al 46', mentre i giallorossi colpiscono anche due pali con Castro."
     },
     {
       "id": "7aa3b6a9b5c8",
-      "title": "Costacurta: \"It seems a little premature to me to speak badly of this Milan\"",
+      "title": "Costacurta: \"Mi sembra un pochino prematuro parlare male di questo Milan\"",
       "url": "https://www.milannews.it/news/costacurta-mi-pochino-prematuro-parlare-milan-628960",
       "source": "milannews.it",
       "date": "2026-09-05T20:48:27+00:00",
-      "summary": "The match against Juventus on Sunday evening will begin to tell what Milan's future can be over the course of this season."
+      "summary": "La partita contro la Juventus di domenica sera inizierà a dire quale può essere il futuro del Milan nell'arco di questa stagione."
     },
     {
       "id": "4ddecba83b55",
-      "title": "Jashari on Juventus' summer interest: \"I never had doubts nor did I ever think of leaving Milan for Juve\"",
+      "title": "Jashari sull'interesse estivo della Juventus: \"Non ho mai avuto dubbi né ho mai pensato di lasciare il Milan per la Juve\"",
       "url": "https://www.milannews.it/news/jashari-interesse-estivo-juventus-non-dubbi-ne-pensato-lasciare-milan-juve-628959",
       "source": "milannews.it",
       "date": "2026-09-05T20:36:33+00:00",
-      "summary": "AC Milan midfielder Ardon Jashari was interviewed exclusively by the notebooks of his colleagues from La Gazzetta dello Sport on the eve of an important and delicate match like the one against Juventus, which during this ..."
+      "summary": "Il centrocampista del Milan Ardon Jashari è stato intervistato in esclusiva dai taccuini dei colleghi de La Gazzetta dello Sport alla vigilia di una sfida importante e delicata come quella contro la Juventus, che nel corso di qu ..."
     },
     {
       "id": "6a3421912cde",
-      "title": "Zambrotta praises Mario Gila: \"He is a strong defender with personality\"",
+      "title": "Zambrotta elogia Mario Gila: \"È un difensore forte e di personalità\"",
       "url": "https://www.milannews.it/news/zambrotta-elogia-mario-gila-e-difensore-forte-personalita-628956",
       "source": "milannews.it",
       "date": "2026-09-05T20:24:22+00:00",
-      "summary": "Interviewed by colleagues from La Gazzetta dello Sport, the double great ex of the match Gianluca Zambrotta presented the challenge of the Allianz Stadium. Below are some excerpts from his interview."
+      "summary": "Intervistato dai colleghi de La Gazzetta dello Sport, il doppio grande ex della partita Gianluca Zambrotta ha presentato la sfida dell'Allianz Stadium. Di seguito alcuni estratti della sua intervista."
     },
     {
       "id": "14bd4242a050",
-      "title": "Spalletti confirms the absence of seven Juventus players against Milan",
+      "title": "Spalletti conferma l'assenza di sette giocatori bianconeri contro il Milan",
       "url": "https://www.milannews.it/l-avversario/spalletti-conferma-assenza-giocatori-bianconeri-milan-628955",
       "source": "milannews.it",
       "date": "2026-09-05T20:12:21+00:00",
-      "summary": "Juventus and Milan will face each other on Sunday evening at 8.45pm on the occasion of the first big match for both this season and in which they will often be paired together, given their simultaneous participation - with ambitions - in the Europa League."
+      "summary": "Juventus e Milan si affronteranno domenica sera alle ore 20.45 in occasione del primo big match per entrambe in questa stagione e in cui saranno spesso accomunate, vista la partecipazione contemporanea - con ambizioni - in Europa League."
     },
     {
       "id": "293b338edb91",
-      "title": "Sabatini on Juve-Milan: “Both want revenge and claim their big status”",
+      "title": "Sabatini su Juve-Milan: “Entrambe vogliono vendetta e rivendicare il loro status di big”",
       "url": "https://www.milannews.it/news/sabatini-juve-milan-entrambe-vogliono-vendetta-rivendicare-status-big-628921",
       "source": "milannews.it",
       "date": "2026-09-05T20:00:59+00:00",
-      "summary": "In his YouTube channel, Sandro Sabatini presented and talked about the big match that will take place tomorrow evening at the Alianz Stadium in Turin between Juventus and Milan. These are his words."
+      "summary": "Nel suo canale YouTube, Sandro Sabatini ha presentato e parlato del big match che andrà in scena domani sera all'Alianz Stadium di Torino tra Juventus e Milan. Queste le sue parole."
     },
     {
       "id": "9d523c4d5a35",
-      "title": "Champions League: fines and suspensions to Lyon and Fenerbahce for the brawl at the end of the match",
+      "title": "Champions: multe e squalifiche a Lione e Fenerbahce per la rissa a fine gara",
       "url": "https://www.milannews.it/news/champions-multe-squalifiche-lione-fenerbahce-rissa-gara-628941",
       "source": "milannews.it",
       "date": "2026-09-05T19:48:34+00:00",
@@ -91,35 +131,35 @@
     },
     {
       "id": "900010b798e1",
-      "title": "Francesco Sità, talent coach, between a system that favors politics and not competence and the need for change to return to having our say in football",
+      "title": "Francesco Sità, allenatore dei talenti, tra un sistema che favorisce la politica e non la competenza e la necessità di un cambiamento per tornare a dire la nostra nel calcio",
       "url": "https://www.milannews.it/news/pensiero-francesco-sita-allenatore-talenti-talento-italia-cultura-andata-persa-tornare-628920",
       "source": "milannews.it",
       "date": "2026-09-05T19:36:56+00:00",
-      "summary": "Francesco Sità, a coach who, in addition to being Giovanni Stroppa's second between youth and spring, also trained talents at an individual level, released this thought on football in Italy, on a fallacious system since ..."
+      "summary": "Francesco Sità, allenatore che oltre ad essere stato il secondo di Giovanni Stroppa tra giovanili e primavera ha anche allenato talenti a livello individuale, ha rilasciato questo pensiero sul calcio in Italia, su un sistema fallace fin dalle  ..."
     },
     {
       "id": "57fed18f39cf",
-      "title": "Alexandre Pato involved in the project to purchase an English fourth-tier club",
+      "title": "Alexandre Pato coinvolto nel progetto per l'acquisto di un club di quarta serie inglese",
       "url": "https://www.milannews.it/news/alexandre-pato-coinvolto-progetto-acquisto-club-quarta-serie-inglese-628950",
       "source": "milannews.it",
       "date": "2026-09-05T19:24:06+00:00",
-      "summary": "His career ended too soon, compared to the talent and expectations of his early years, which is why Alexandre Pato wants to reinvent himself in the world of football but off the pitch."
+      "summary": "La sua carriera è finita troppo presto, rispetto al talento e alle aspettative dei primi anni, per questo Alexandre Pato vuole reinventarsi nel mondo del calcio ma al di fuori del campo."
     },
     {
       "id": "a75fb740ba9b",
-      "title": "Sabatini on Juve-Milan: \"It was once defined as the derby of Europe due to the level of the teams, I'll tell you an anecdote about Manchester 2003\"",
+      "title": "Sabatini su Juve-Milan: “Una volta veniva definito il derby d’Europa per il livello delle squadre, vi racconto un aneddoto su Manchester 2003”",
       "url": "https://www.milannews.it/news/sabatini-juve-milan-una-veniva-definito-derby-d-europa-livello-squadre-racconto-aneddoto-manchester-628922",
       "source": "milannews.it",
       "date": "2026-09-05T19:12:53+00:00",
-      "summary": "In his YouTube channel, Sandro Sabatini, in presenting the big match on Sunday evening between Juventus and Milan, went back to talking about the 2003 Manchester final and told some anecdotes about that match. These are his words."
+      "summary": "Nel suo canale YouTube, Sandro Sabatini nel presentare il big match di domenica sera tra Juventus e Milan è tornato a parlare della finale di Manchester del 2003 ed ha raccontato degli aneddoti in merito a quella partita. Queste le sue parole."
     },
     {
       "id": "c3c5824ba7af",
-      "title": "Spalletti: \"Chivu was sincere: his words must be a stimulus\"",
+      "title": "Spalletti: \"Chivu è stato sincero: le sue parole devono essere uno stimolo\"",
       "url": "https://www.milannews.it/news/spalletti-chivu-sincero-parole-devono-stimolo-628954",
       "source": "milannews.it",
       "date": "2026-09-05T19:00:46+00:00",
-      "summary": "The statements of the Nerazzurri coach Cristian Chivu in the press conference on the eve of Inter-Napoli in which the Romanian coach took the opportunity to make some statements against Milan and Juv have made the rounds on the web..."
+      "summary": "Hanno fatto il giro del web le dichiarazioni del tecnico nerazzurro Cristian Chivu nella conferenza stampa della vigilia di Inter-Napoli in cui l'allenatore rumeno ne ha approfittato per fare alcune dichiarazioni contro Milan e Juv ..."
     },
     {
       "id": "f901ebbd0bc9",
@@ -130,52 +170,12 @@
       "summary": "Pervis Estupinan and Adrien Rabiot should be the only changes to AC Milan’s starting eleven for the game against Juventus, according to a report.  Considering that Milan have started the season with two wins out of a possible two, one can definitely understand why Ruben Amorim wants to rely on rough"
     },
     {
-      "id": "1fc736558cee",
-      "title": "Juventus-Milan prediction, first Rossoneri crash test. Blank goals in 4 of the last 6 matches",
-      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-juventus-milan-quote-628786",
-      "source": "milannews.it",
-      "date": "2026-09-05T18:45:30+00:00",
-      "summary": "Third day full of clashes between titans: weekend featuring Inter-Napoli, Roma-Atalanta and above all Juventus-Milan."
-    },
-    {
-      "id": "91ec3d7fbc45",
-      "title": "Luis Enrique renews with Paris Saint Germain until 2030",
-      "url": "https://www.milannews.it/news/ligue-luis-enrique-paris-saint-germain-2030-628949",
-      "source": "milannews.it",
-      "date": "2026-09-05T18:36:00+00:00",
-      "summary": "(ANSA) - ROME, SEPTEMBER 04 - Luis Enrique has extended his contract with Paris Saint Germain until 2030, with a three-year renewal that brought forward the expiration of the agreement, scheduled for next June."
-    },
-    {
-      "id": "f5caaaed2661",
-      "title": "Costacurta on Juve-Milan: \"Let's hope it's not like recent years\"",
-      "url": "https://www.milannews.it/news/costacurta-juve-milan-speriamo-ultimi-anni-628948",
-      "source": "milannews.it",
-      "date": "2026-09-05T18:24:58+00:00",
-      "summary": "The first big match of the Rossoneri season puts Juventus on the path to Milan. The match will be played in Turin on Sunday evening at 8pm."
-    },
-    {
       "id": "96161deca5cb",
       "title": "Serie A preview: Juventus vs. AC Milan – Team news, opposition insight, stats and prediction",
       "url": "https://sempremilan.com/preview-juventus-ac-milan-team-news-stats-2026-27",
       "source": "sempremilan.com",
       "date": "2026-09-05T18:22:17+00:00",
       "summary": "AC Milan and Juventus are gearing up for a big clash at Allianz Stadium, with both sides looking to continue their perfect record so far.  After two games, the Rossoneri and the Bianconeri are both on six points with a +3 goal difference in the league standings. In other words, they have started the"
-    },
-    {
-      "id": "ae1a1dba80b8",
-      "title": "Spalletti on Milan: \"They are very strong, like many others and like us\"",
-      "url": "https://www.milannews.it/news/spalletti-milan-sono-fortissimi-tanti-noi-628953",
-      "source": "milannews.it",
-      "date": "2026-09-05T17:48:58+00:00",
-      "summary": "Also Luciano Spalletti, coach of Juventus, spoke at a press conference on the eve of the first big match of the season scheduled for tomorrow evening against Milan in Turin at 8.45pm."
-    },
-    {
-      "id": "a33be4340695",
-      "title": "The Milan Club Castelfidardo organized a commemorative evening to remember Franco Baresi",
-      "url": "https://www.milannews.it/news/milan-club-castelfidardo-628924",
-      "source": "milannews.it",
-      "date": "2026-09-05T17:36:54+00:00",
-      "summary": "On Friday 4 September the Milan Club Castelfidardo organized a commemorative evening in Potenza Picena (MC) at the Tavolo Matto restaurant, to remember our Captain Franco Baresi."
     },
     {
       "id": "cc7c27094d1f",
