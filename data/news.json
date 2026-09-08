@@ -1,17 +1,81 @@
 {
-  "lastUpdated": "2026-09-08T21:33:44.617170+00:00",
+  "lastUpdated": "2026-09-08T23:49:06.011594+00:00",
   "articles": [
     {
+      "id": "480226be382e",
+      "title": "Biasin: \"Milan must find its dimension and in the meantime catch up on the teams ahead\"",
+      "url": "https://www.milannews.it/news/biasin-perplesso-il-milan-trovare-dimensione-recuperare-squadre-avanti-629252",
+      "source": "milannews.it",
+      "date": "2026-09-08T23:00:02+00:00",
+      "summary": "During the last episode of QSVS, on Telelombardia, the well-known journalist Fabrizio Biasin spoke about Sunday evening's match between Juventus and Milan, which ended in a draw, and expressed his doubts regarding the two teams."
+    },
+    {
+      "id": "ae1ca288f6a3",
+      "title": "Pastore: \"Ecco il solito circo mediatico: discutere allenatori con 7 punti. Sono passi falsi che fanno parte del percorso\"",
+      "url": "https://www.milannews.it/news/pastore-ecco-circo-mediatico-discutere-amorim-7-punti-passi-falsi-percorso-629219",
+      "source": "milannews.it",
+      "date": "2026-09-08T22:48:41+00:00",
+      "summary": "Giuseppe Pastore, giornalista, si è così espresso su Cronache di Spogliatoio sul nuovo Milan di Ruben Amorim reduce dal pari per 1-1 a Torino contro la Juventus: \"Siamo ad inizio stagione, la stagione è in corso."
+    },
+    {
+      "id": "aa3f52bc7303",
+      "title": "Secondo Caressa, Chukwueze in questo momento dà al Milan più certezze di Moreira",
+      "url": "https://www.milannews.it/news/caressa-sicuro-chukwueze-da-garanzie-milan-sistemare-2-3-cose-potenziale-farlo-629258",
+      "source": "milannews.it",
+      "date": "2026-09-08T22:36:33+00:00",
+      "summary": "In his YouTube channel, the well-known journalist Fabio Caressa talked about the third day of Serie A and, in doing so, analyzed the big match that took place on Sunday evening between Juventus and Milan."
+    },
+    {
+      "id": "eafe22d7b88f",
+      "title": "Cruciani non ci sta: \"Inter-Napoli calcio e Juve-Milan anticalcio? Allora inventiamoci nuove regole. Discorso senza senso\"",
+      "url": "https://www.milannews.it/news/cruciani-sta-inter-napoli-calcio-juve-milan-anticalcio-inventiamoci-nuove-regole-discorso-senso-629217",
+      "source": "milannews.it",
+      "date": "2026-09-08T22:24:24+00:00",
+      "summary": "Giuseppe Cruciani, giornalista, si è così espresso a Numer1 Podcast sulla differenza tra Inter-Napoli di sabato e Juventus-Milan di domenica: \"L'altro giorno, ascoltando la Domenica Sportiva, ho sentito l'intervento del mio ..."
+    },
+    {
+      "id": "4039d57e1fce",
+      "title": "Trevisani: \"Ad Amorim giravano le palle, ma mi tolgo il cappello davanti a lui: ha avuto una sincerità ammirevole\"",
+      "url": "https://www.milannews.it/news/trevisani-amorim-spalletti-juventus-milan-commento-interviste-629209",
+      "source": "milannews.it",
+      "date": "2026-09-08T22:12:00+00:00",
+      "summary": "Riccardo Trevisani, journalist, expressed himself as follows on Cronache di Spogliatoio on the third half of Juventus-Milan, judged to be better than the first two on the pitch: \"Juventus-Milan was a match in which Milan - who made a ..."
+    },
+    {
+      "id": "1e6b09e99673",
+      "title": "Da temere i “Lobster Radical” del calcio. Le differenze tra Sacchi e Amorim. Mr Cardinale, bisogna fare presto!!",
+      "url": "https://www.milannews.it/editoriale/temere-lobster-radical-calcio-differenze-sacchi-amorim-mr-cardinale-bisogna-presto-629270",
+      "source": "milannews.it",
+      "date": "2026-09-08T22:00:01+00:00",
+      "summary": "“L’undici rossonero è ancor oggi privo di schemi necessari e sufficienti per definire una linea accettabile di gioco, per smarcare un uomo per la realizzazione\"."
+    },
+    {
+      "id": "c6ad7327fd2c",
+      "title": "Bianchin: \"Chivu non ha tutti i torti. Inter, Roma e Como sembrano altra cosa rispetto a Milan e Juve\"",
+      "url": "https://www.milannews.it/news/bianchin-chivu-torti-inter-roma-como-sembrano-altra-milan-juve-629198",
+      "source": "milannews.it",
+      "date": "2026-09-08T21:48:28+00:00",
+      "summary": "Luca Bianchin, giornalista, si è così espresso su La Gazzetta dello Sport riallacciando le parole di Chivu sugli scontri diretti al match tra Juventus e Milan: \"Proprio tutti i torti, Cristian Chivu non li aveva."
+    },
+    {
+      "id": "d49bd4573cf5",
+      "title": "Pallone d’Oro, rivelati i 30 candidati: premiazione il 26 ottobre",
+      "url": "https://www.milannews.it/news/pallone-d-oro-rivelati-30-candidati-premiazione-26-ottobre-629267",
+      "source": "milannews.it",
+      "date": "2026-09-08T21:36:09+00:00",
+      "summary": "Qualche ora fa sono stati resi noti i 30 nomi inseriti nella lista dei candidati per la vittoria finale del premio individuale più importante, il Pallone d'Oro."
+    },
+    {
       "id": "5d181aeb1def",
-      "title": "Diddi analyses: \"During the match I would have switched Saelemaekers and Moreira to upset Juve's match plan\"",
+      "title": "Diddi analizza: “A gara in corso avrei invertito Saelemaekers e Moreira per scombussolare il piano gara della Juve”",
       "url": "https://www.milannews.it/news/diddi-analizza-a-gara-corso-invertito-saelemaekers-moreira-scombussolare-piano-gara-juve-629261",
       "source": "milannews.it",
       "date": "2026-09-08T21:24:56+00:00",
-      "summary": "Guest on Carlo Pellegatti's YouTube channel, Luca Diddi spoke about Sunday evening's match which saw Milan and Juventus draw 1-1 and analyzed the tactical script of the match. These are his words."
+      "summary": "Ospite nel canale YouTube di Carlo Pellegatti, Luca Diddi ha parlato della partita di domenica sera che ha visto Milan e Juventus pareggiare per 1-1 ed ha analizzato il copione tattico della partita. Queste le sue parole."
     },
     {
       "id": "6829d82523d3",
-      "title": "Biasin: \"The problem is not with Goncalo Ramos, but with those behind who did not support him\"",
+      "title": "Biasin: \"Il problema non è di Goncalo Ramos, ma di quelli dietro che non l’hanno supportato”",
       "url": "https://www.milannews.it/news/biasin-ramos-il-problema-l-hanno-supportato-629254",
       "source": "milannews.it",
       "date": "2026-09-08T21:12:04+00:00",
@@ -19,23 +83,23 @@
     },
     {
       "id": "b5945ffa620b",
-      "title": "Champions League, Mourinho trips Chivu: Real beats Inter. All results",
+      "title": "Champions, Mourinho sgambetta Chivu: il Real batte l'Inter. Tutti i risultati",
       "url": "https://www.milannews.it/news/risultati-champions-629275",
       "source": "milannews.it",
       "date": "2026-09-08T21:00:00+00:00",
-      "summary": "The first of three days dedicated to the first round of the League Phase of the Champions League ends. Only one Italian on the pitch, Inter, who lost at the Bernabeu against Mourinho's Real Madrid 2-1."
+      "summary": "Si conclude il primo dei tre giorni dedicati al primo turno della League Phase di Champions League. Una sola italiana in campo, l'Inter, che ha perso al Bernabeu contro il Real Madrid di Mourinho per 2-1."
     },
     {
       "id": "4654b6e1f2ca",
-      "title": "Ravezzani: “Pulisic is a mystery, Amorim is causing a bit of confusion with interpreters and roles”",
+      "title": "Ravezzani: “Pulisic è un mistero, Amorim sta facendo un po’ di confusione con interpreti e ruoli”",
       "url": "https://www.milannews.it/news/ravezzani-dubbioso-pulisic-mistero-amorim-po-confusione-interpreti-ruoli-629264",
       "source": "milannews.it",
       "date": "2026-09-08T20:48:16+00:00",
-      "summary": "On his YouTube channel, Fabio Ravezzani analyzed Sunday evening's postponement between Juventus and Milan, which ended 1-1 thanks to goals from Cisse and Gatti. This is his thoughts on the Rossoneri match."
+      "summary": "Nel suo canale YouTube, Fabio Ravezzani ha analizzato il posticipo di domenica sera tra Juventus e Milan, terminato 1-1 grazie ai gol di Cisse e Gatti. Questo il suo pensiero in merito alla partita dei rossoneri."
     },
     {
       "id": "097c1f6f643b",
-      "title": "AIMC, Roma Rossonera leads the Milan Club rankings by number of members 2025/26",
+      "title": "AIMC, Roma Rossonera guida la classifica dei Milan Club per numero di soci 2025/26",
       "url": "https://www.milannews.it/news/aimc-roma-rossonera-guida-classifica-milan-club-numero-soci-2025-26-629266",
       "source": "milannews.it",
       "date": "2026-09-08T20:36:03+00:00",
@@ -43,7 +107,7 @@
     },
     {
       "id": "29917fc29c24",
-      "title": "Lamine Yamal: \"Golden Ball? I don't need to promote myself\"",
+      "title": "Lamine Yamal: \"Pallone d'Oro? Non ho bisogno di promuovermi\"",
       "url": "https://www.milannews.it/news/lamine-yamal-pallone-oro-bisogno-promuovermi-629273",
       "source": "milannews.it",
       "date": "2026-09-08T20:24:24+00:00",
@@ -51,19 +115,19 @@
     },
     {
       "id": "cd2471810e07",
-      "title": "Legrottaglie: \"Milan's solidity, as a team, has already convinced me. They must register something up front\"",
+      "title": "Legrottaglie: \"La solidità del Milan, come squadra, mi ha già convinto. Deve registrare qualcosa davanti\"",
       "url": "https://www.milannews.it/news/legrottaglie-la-solidita-milan-squadra-convinto-registrare-davanti-629243",
       "source": "milannews.it",
       "date": "2026-09-08T20:12:16+00:00",
-      "summary": "Nicola Legrottaglie, a former footballer, expressed himself as follows on Tuttomercatoweb.com radio to talk about Juve-Milan: \"I was convinced by the solidity of Milan, as a team, which has a well-defined structure."
+      "summary": "Nicola Legrottaglie, ex calciatore, si è così espresso alla radio di Tuttomercatoweb.com per parlare di Juve-Milan: \"Mi hanno convinto la solidità del Milan, come squadra, che ha una struttura ben delineata."
     },
     {
       "id": "0d7f495a8d04",
-      "title": "Croatia coach Bilic talks about how Modric will be managed in the national team",
+      "title": "Il ct della Croazia Bilic parla di come verrà gestito Modric in nazionale",
       "url": "https://www.milannews.it/news/ct-croazia-bilic-modric-con-juve-migliore-convocato-nations-league-verra-gestito-milan-629265",
       "source": "milannews.it",
       "date": "2026-09-08T20:00:14+00:00",
-      "summary": "As communicated last week, Luka Modric has decided to continue playing with his national team and in fact he has been called up by the new coach Slaven Bilic for the next Nations League which will see the Croatians challenge ..."
+      "summary": "Come comunicato nella scorsa settimana, Luka Modric ha deciso di continuare a giocare con la maglia dell sua nazionale ed infatti è stato convocato dal nuovo tecnico Slaven Bilic per la prossima Nations League che vedrà i croati sfidare ..."
     },
     {
       "id": "3dd85fde590b",
@@ -75,11 +139,11 @@
     },
     {
       "id": "7ba72ef53882",
-      "title": "Six-year renewal, until 30 June 2032, for Pio Esposito with Inter",
+      "title": "Rinnovo di sei anni, fino al 30 giugno 2032, per Pio Esposito con l'Inter",
       "url": "https://www.milannews.it/news/inter-ufficiale-rinnovo-esposito-2032-629231",
       "source": "milannews.it",
       "date": "2026-09-08T19:36:24+00:00",
-      "summary": "(ANSA) - MILAN, SEPTEMBER 06 - Pio Esposito's contract renewal with Inter is official. \"The striker born in 2005 will be with the Nerazzurri until 30 June 2032\", reads the club note."
+      "summary": "(ANSA) - MILANO, 06 SET - Ufficiale il rinnovo di contratto di Pio Esposito con l'Inter. \"L'attaccante classe 2005 sarà nerazzurro fino al 30 giugno 2032\", si legge nella nota del club."
     },
     {
       "id": "c394befc41cc",
@@ -87,63 +151,15 @@
       "url": "https://www.milannews.it/news/biasin-analizza-mi-aspettavo-milan-offensivo-torino-fermato-centrocampo-629253",
       "source": "milannews.it",
       "date": "2026-09-08T19:23:41+00:00",
-      "summary": "During the last episode of QSVS, on Telelombardia, the well-known journalist Fabrizio Biasin spoke about Sunday evening's match between Juventus and Milan, which ended in a draw, and expressed his expectations of the Rossoneri."
+      "summary": "Durante l'ultima puntata di QSVS, su Telelombardia, il noto giornalista Fabrizio Biasin ha parlato della partita di domenica sera tra Juventus e Milan, terminata in pareggio, e ha esternato quelle che erano le sue aspettative sui rossoneri."
     },
     {
       "id": "73cd9a869c23",
-      "title": "Caressa: \"I like how Amorim communicates and he is an excellent coach. He needs to fix something\"",
+      "title": "Caressa: \"Mi piace come comunica Amorim ed è un ottimo allenatore. Deve aggiustare qualcosa”",
       "url": "https://www.milannews.it/news/caressa-apprezza-amorim-mi-piace-comunica-ottimo-allenatore-aggiustare-qualcosa-629255",
       "source": "milannews.it",
       "date": "2026-09-08T19:11:02+00:00",
-      "summary": "In his YouTube channel, the well-known journalist Fabio Caressa talked about the third day of Serie A and, in doing so, analyzed the big match that took place on Sunday evening between Juventus and Milan. Below is an excerpt of his words."
-    },
-    {
-      "id": "8afc84031717",
-      "title": "Former Milan Taarabt retires. Here is his message with the announcement",
-      "url": "https://www.milannews.it/gli-ex/milan-taarabt-ritira-a-squadre-onore-rappresentare-storia-629251",
-      "source": "milannews.it",
-      "date": "2026-09-08T19:00:24+00:00",
-      "summary": "Adel Taarabt says goodbye to playing football."
-    },
-    {
-      "id": "026d5b94831e",
-      "title": "Ravezzani: \"Instead of a dominant Milan, it was a dominated Milan, a sad performance from the Rossoneri\"",
-      "url": "https://www.milannews.it/news/ravezzani-deluso-invece-milan-dominante-milan-dominato-prestazione-rossoneri-triste-629263",
-      "source": "milannews.it",
-      "date": "2026-09-08T18:48:12+00:00",
-      "summary": "On his YouTube channel, Fabio Ravezzani analyzed Sunday evening's postponement between Juventus and Milan, which ended 1-1 thanks to goals from Cisse and Gatti. This is his thoughts on the Rossoneri match."
-    },
-    {
-      "id": "477ddea17d95",
-      "title": "Serie A, the Sports Judge's decisions: two days for Tedesco",
-      "url": "https://www.milannews.it/news/calcio-turno-squalifica-gaetano-tecnico-bologna-tedesco-629248",
-      "source": "milannews.it",
-      "date": "2026-09-08T18:36:29+00:00",
-      "summary": "(ANSA) - ROME, SEPTEMBER 08 - Only one Serie A player has been disqualified for the next matchday."
-    },
-    {
-      "id": "ddcc76bb66d8",
-      "title": "The Catanzaro sporting director says: \"Cisse? It was with PSV, then Milan joined and...\"",
-      "url": "https://www.milannews.it/news/ds-catanzaro-racconta-cisse-psv-inserito-milan-e-629249",
-      "source": "milannews.it",
-      "date": "2026-09-08T18:24:21+00:00",
-      "summary": "Alphadjo Cisse is certainly the big surprise of Milan's start to the season, with two goals scored in the first three days of Serie A."
-    },
-    {
-      "id": "536406a058d9",
-      "title": "Diddi: \"Amorim prepared it on containment and restart: I'll explain how...\"",
-      "url": "https://www.milannews.it/news/diddi-notare-amorim-l-ha-preparata-contenimento-ripartenza-spiego-come-629260",
-      "source": "milannews.it",
-      "date": "2026-09-08T18:12:32+00:00",
-      "summary": "Guest on Carlo Pellegatti's YouTube channel, Luca Diddi spoke about Sunday evening's match which saw Milan and Juventus draw 1-1 and analyzed the tactical script of the match. These are his words."
-    },
-    {
-      "id": "88bc6da39b30",
-      "title": "Comotto and Camarda, the moment may come soon: Milan have chosen them, now it's their turn",
-      "url": "https://www.milannews.it/primo-piano/comotto-camarda-arrivare-presto-milan-scelti-tocca-629271",
-      "source": "milannews.it",
-      "date": "2026-09-08T18:00:33+00:00",
-      "summary": "Milan made a precise choice: to believe in Christian Comotto and Francesco Camarda. Not just in words."
+      "summary": "Nel suo canale YouTube, il noto giornalista Fabio Caressa ha parlato della terza giornata di Serie A e, nel farlo, ha analizzato il big match andato in scena domenica sera tra Juventus e Milan. Di seguito un estratto delle sue parole."
     },
     {
       "id": "126d18abbbdf",
@@ -152,22 +168,6 @@
       "source": "sempremilan.com",
       "date": "2026-09-08T18:00:00+00:00",
       "summary": "Palmeiras have moved to renew the contract of one of their rising stars, amid interest from AC Milan and Atletico Madrid. Milan hope that they have their long-term options for the centre-forward position with club-record signing Goncalo Ramos and teenage sensation Francesco Camarda. However, they ar"
-    },
-    {
-      "id": "00c4fdc25327",
-      "title": "Pasotto: \"In recent seasons Moreira has played mainly on the left, but Amorim sees him on the right\"",
-      "url": "https://www.milannews.it/news/pasotto-nelle-ultime-stagioni-diego-giocato-sinistra-amorim-vede-destra-629194",
-      "source": "milannews.it",
-      "date": "2026-09-08T17:47:44+00:00",
-      "summary": "Marco Pasotto, journalist, expressed himself in La Gazzetta dello Sport on Diego Moreira's performance against Juventus: \"The numbers of his match read - in 61 minutes - 59 balls touched (a fair figure: on the other hand ..."
-    },
-    {
-      "id": "57c375fd795d",
-      "title": "Naples, McTominay undergoes heart surgery: this is how long he will have to stay out",
-      "url": "https://www.milannews.it/news/calcio-napoli-mctominay-operato-cuore-inghilterra-settimane-riposo-629245",
-      "source": "milannews.it",
-      "date": "2026-09-08T17:35:07+00:00",
-      "summary": "(ANSA) - NAPLES, SEPTEMBER 08 - During the morning, Napoli midfielder Scott McTominay underwent heart surgery in England where the ablation procedure was carried out at the Spire Manchester Hospital."
     },
     {
       "id": "62e7bb56e688",
