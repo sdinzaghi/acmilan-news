@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-09-12T21:15:15.217368+00:00",
+  "lastUpdated": "2026-09-12T23:43:35.970326+00:00",
   "articles": [
+    {
+      "id": "a0a2c71248d5",
+      "title": "Retroscena da Lazio-Milan: Amorim disperato dopo 10 minuti, lo spogliatoio incredulo e la frustrazione di Gila",
+      "url": "https://www.milannews.it/primo-piano/retroscena-lazio-milan-amorim-disperato-minuti-spogliatoio-incredulo-frustrazione-gila-629645",
+      "source": "milannews.it",
+      "date": "2026-09-12T23:00:21+00:00",
+      "summary": "Ovviamente sarebbe troppo facile dire che non avrebbe fatto le scelte che ha fatto con la formazione iniziale, ma Ruben Amorim, intervenuto in conferenza stampa al termine di Lazio-Milan, aveva già capito, dopo una manciata di minuti, come sar ..."
+    },
+    {
+      "id": "c0cef71f1682",
+      "title": "Amorim non è soddisfatto: “Non sono state due squadre ma due partite diverse, sono frustrato”",
+      "url": "https://www.milannews.it/news/amorim-soddisfatto-non-squadre-partite-diverse-frustrato-629646",
+      "source": "milannews.it",
+      "date": "2026-09-12T22:48:57+00:00",
+      "summary": "Ruben Amorim, allenatore del Milan, nella conferenza stampa post-partita di Lazio-Milan, terminata 2-2 con i rossoneri che hanno recuperato il doppio svantaggio del primo tempo, ha risposto alle domande dei giornalisti presenti."
+    },
+    {
+      "id": "75f397561d29",
+      "title": "Gimenez, spezzata la maledizione: oggi primo gol con il Porto",
+      "url": "https://www.milannews.it/news/gimenez-spezzata-maledizione-gol-porto-629649",
+      "source": "milannews.it",
+      "date": "2026-09-12T22:36:29+00:00",
+      "summary": "Una maledizione che andava avanti da un anno quella tra Santiago Gimenez e il gol. Il messicano l'anno scorso non era riuscito a trovare nemmeno un gol con la maglia del Milan in campionato (1 solo gol in Coppa Italia)."
+    },
+    {
+      "id": "567e440b7e11",
+      "title": "Gattuso onesto: “Nel secondo tempo il Milan è venuto fuori con qualità, pensavo di prendere l’imbarcata alla fine”",
+      "url": "https://www.milannews.it/news/gattuso-onesto-nel-milan-venuto-qualita-pensavo-prendere-l-imbarcata-fine-629633",
+      "source": "milannews.it",
+      "date": "2026-09-12T22:24:25+00:00",
+      "summary": "Durante l'intervista post-partita di Gennaro Gattuso, allenatore della Lazio, ha parlato ai microfoni di DAZN e, rispondendo alle domande consuete dei giornalisti presenti in studio, si è espresso sulla reazione dei rossoneri nel secondo t ..."
+    },
+    {
+      "id": "8b8c8d7eb68d",
+      "title": "Giaccherini non convinto da Modric: “In Serie A in ritmi sono aumentati, non puoi avere un giocatore in meno in fase di non possesso”",
+      "url": "https://www.milannews.it/news/giaccherini-convinto-modric-in-serie-ritmi-aumentati-puoi-giocatore-fase-possesso-629628",
+      "source": "milannews.it",
+      "date": "2026-09-12T22:12:15+00:00",
+      "summary": "Nell'immediato post partita di Lazio-Milan, match terminato 2-2 grazie alla doppietta in pochi minuti del nuovo arrivato Diego Moreira, nello studio di Vamos l'ex calciatore Emanuele Giaccherini ha commentato così a caldo la partita&nb ..."
+    },
+    {
+      "id": "d3225e26f554",
+      "title": "Horror Milan, poi arriva Moreira",
+      "url": "https://www.milannews.it/editoriale/horror-milan-arriva-moreira-629648",
+      "source": "milannews.it",
+      "date": "2026-09-12T22:00:01+00:00",
+      "summary": "Milan a 2 facce contro la Lazio. Il primo tempo è stato inaccettabile: 2 gol subiti e una serie infinita di rischi, con una produzione offensiva a dir poco sterile."
+    },
+    {
+      "id": "a157e53795ee",
+      "title": "Serie A had zero penalties or VAR reviews for first 31 games",
+      "url": "https://football-italia.net/serie-a-zero-penalties-var-reviews-31-games/",
+      "source": "football-italia.net",
+      "date": "2026-09-12T21:52:28+00:00",
+      "summary": "It took until the 32nd match of the Serie A season for the first penalty..."
+    },
+    {
+      "id": "d70e9989d2e4",
+      "title": "Pastore: “Il Milan sembra che abbiamo paura di fare bene, Amorim ha bisogno di tempo. Il gol di Moreira è alla Theo”",
+      "url": "https://www.milannews.it/news/pastore-il-milan-paura-bene-amorim-bisogno-tempo-gol-moreira-theo-629637",
+      "source": "milannews.it",
+      "date": "2026-09-12T21:48:07+00:00",
+      "summary": "Nell'immediato post partita di Lazio-Milan, match terminato 2-2 grazie alla doppietta in pochi minuti del nuovo arrivato Diego Moreira, nello studio di Vamos il giornalista Giuseppe Pastore ha commentato così a caldo la partita."
+    },
+    {
+      "id": "6091c7d6cc78",
+      "title": "Serie A, il Cagliari batte l’Atalanta e fa tre su quattro: la classifica aggiornata",
+      "url": "https://www.milannews.it/news/serie-a-classifica-aggiornata-629653",
+      "source": "milannews.it",
+      "date": "2026-09-12T21:36:01+00:00",
+      "summary": "Di seguito la classifica aggiornata dopo le partite del sabato."
+    },
+    {
+      "id": "761030725963",
+      "title": "Serie A, Pisacane sbanca la New Balance Arena: Atalanta-Cagliari 1-2",
+      "url": "https://www.milannews.it/news/serie-a-atalanta-cagliari-629652",
+      "source": "milannews.it",
+      "date": "2026-09-12T21:24:59+00:00",
+      "summary": "Dopo il match delle 18:00 tra Lazio e Milan, terminato 2-2 grazie ai gol di Cancellieri, Noslin, e la doppietta di Diego Moreira, questa sera Atalanta e Cagliari sono scese in campo nel posticipo del sabato sera."
+    },
+    {
+      "id": "6880365eb487",
+      "title": "Napoli, Allegri: \"Strutturalmente la squadra ha bisogno di più tempo\"",
+      "url": "https://www.milannews.it/news/napoli-allegri-strutturalmente-squadra-bisogno-629586",
+      "source": "milannews.it",
+      "date": "2026-09-12T21:12:26+00:00",
+      "summary": "(ANSA) - NAPOLI, 12 SET - \"Strutturalmente questa squadra ha bisogno di un po' più di tempo. Ci sono giocatori che vengono da poche partite nelle gambe."
+    },
     {
       "id": "87f6c57b2101",
       "title": "Woltemade: \"La Juve il miglior club italiano, posso giocare da 10\"",
@@ -47,15 +135,7 @@
       "url": "https://www.milannews.it/news/moreira-tl-629655",
       "source": "milannews.it",
       "date": "2026-09-12T20:12:34+00:00",
-      "summary": "Nel post-partita di Lazio-Milan, il man of the match Diego Moreira, subentrato all'intervallo e autore di una doppietta nel giro di due minuti, ha parlato in esclusiva ai microfoni di Telelombardia. Queste le sue parole."
-    },
-    {
-      "id": "a0a2c71248d5",
-      "title": "Retroscena da Lazio-Milan: Amorim disperato dopo 10 minuti, lo spogliatoio incredulo e la frustrazione di Gila",
-      "url": "https://www.milannews.it/primo-piano/retroscena-lazio-milan-amorim-disperato-minuti-spogliatoio-incredulo-frustrazione-gila-629645",
-      "source": "milannews.it",
-      "date": "2026-09-12T20:00:21+00:00",
-      "summary": "Ovviamente sarebbe troppo facile dire che non avrebbe fatto le scelte che ha fatto con la formazione iniziale, ma Ruben Amorim, intervenuto in conferenza stampa al termine di Lazio-Milan, aveva già capito, dopo una manciata di minuti, come sar ..."
+      "summary": "Nel post-partita di Lazio-Milan, il man of the match Diego Moreira, subentrato all'intervallo e autore di una doppietta nel giro di due minuti, ha parlato in esclusiva ai microfoni del collega di Telelombardia Michael Cuomo. Queste le sue parole."
     },
     {
       "id": "e87838b34ede",
@@ -98,14 +178,6 @@
       "summary": "Yunus Musah, entrato nel secondo tempo al posto di un non brillante Luka Modric, nel post partita ha risposto alle domande dei giornalisti su DAZN. Queste le sue parole."
     },
     {
-      "id": "5ca2f027dd88",
-      "title": "Musah in conferenza: \"In spogliatoio ci siamo chiesti come abbiamo fatto a non giocare il primo tempo come il secondo\"",
-      "url": "https://www.milannews.it/news/musah-conferenza-in-spogliatoio-chiesti-giocare-secondo-629643",
-      "source": "milannews.it",
-      "date": "2026-09-12T19:03:26+00:00",
-      "summary": "Yunus Musah, centrocampista del Milan, è presente in conferenza stampa al termine di Lazio-Milan, sfida valida per la quarta giornata di Serie A. Segui in diretta le dichiarazioni del calciatore rossonero con il live testuale su MilanNews."
-    },
-    {
       "id": "de528f706ded",
       "title": "Gattuso on Lazio fan boycott: ‘It feels like the COVID period’",
       "url": "https://football-italia.net/gattuso-on-lazio-fan-boycott-after-milan-draw/",
@@ -122,36 +194,12 @@
       "summary": "Ben reacted to AC Milan’s draw against Lazio straight after the full-time whistle, highlighting concerns even though the second-half comeback was strong.  Milan headed into the game with the hopes of offering more excitement, having been held to a 1-1 draw against Juventus last weekend. Unfortunatel"
     },
     {
-      "id": "c905724b3fc9",
-      "title": "Moreira a Sky: \"Amorim ha toccato le corde giuste all'intervallo\"",
-      "url": "https://www.milannews.it/news/moreira-sky-amorim-toccato-corde-giuste-intervallo-629639",
-      "source": "milannews.it",
-      "date": "2026-09-12T19:00:04+00:00",
-      "summary": "Diego Moreira, autore di una splendida doppietta, ha parlato a Sky Sport al termine di Lazio-Milan 2-2.\n\nChe partita è stata?\n\n“Sono molto contento per la doppietta, lo sarei stato di più se fossero arrivati i tre punti."
-    },
-    {
       "id": "87890d937b07",
       "title": "Gila believes Milan ‘deserved something more’ despite ‘disastrous’ first half",
       "url": "https://sempremilan.com/gila-milan-deserved-more-disastrous-half",
       "source": "sempremilan.com",
       "date": "2026-09-12T18:59:42+00:00",
       "summary": "Mario Gila has admitted that it was very much a game of two halves for AC Milan as they came from behind to draw with Lazio. After 45 minutes it looked like being a negative return to the capital for Gila, who of course arrived from Lazio in the summer window. Mattia Zaccagni and Tijjani […]\nThe pos"
-    },
-    {
-      "id": "56e4490c2f87",
-      "title": "Gattuso in conferenza: \"Sono andato via io e il Milan e il Napoli hanno vinto lo Scudetto\"",
-      "url": "https://www.milannews.it/news/lazio-milan-gattuso-parole-conferenza-stampa-live-diretta-629605",
-      "source": "milannews.it",
-      "date": "2026-09-12T18:55:21+00:00",
-      "summary": "Gennaro Gattuso, allenatore della Lazio, è presente in conferenza stampa al termine di Lazio-Milan, sfida valida per la quarta giornata di Serie A."
-    },
-    {
-      "id": "741a5ba293ef",
-      "title": "Zaccagni in conferenza: \"Gila era duro in allenamento, figuriamoci in partita\"",
-      "url": "https://www.milannews.it/news/zaccagni-conferenza-gila-duro-allenamento-figuriamoci-partita-629640",
-      "source": "milannews.it",
-      "date": "2026-09-12T18:52:23+00:00",
-      "summary": "Mattia Zaccagni, attaccante della Lazio, è presente in conferenza stampa al termine di Lazio-Milan, sfida valida per la quarta giornata di Serie A."
     },
     {
       "id": "77e81d10feb5",
@@ -162,22 +210,6 @@
       "summary": "AC Milan head coach Ruben Amorim offered another honest reflection of how his side played in their comeback draw against Lazio. It was looking very much like being Amorim’s first loss as Milan boss at the break as Lazio – who had won three of three to start the season – led by two goals […]\nThe post"
     },
     {
-      "id": "aee2c30f1965",
-      "title": "Borghi: \"La Lazio mi è piaciuta molto. Poi Amorim ha fatto tre cambi potenti\"",
-      "url": "https://www.milannews.it/news/borghi-la-lazio-piaciuta-molto-amorim-cambi-potenti-629622",
-      "source": "milannews.it",
-      "date": "2026-09-12T18:47:44+00:00",
-      "summary": "Un primo tempo horror e una ripresa che invece ha ridato speranza e qualche gioia. Lazio-Milan è stata un'altalena di emozioni e sensazioni, con la squadra di Amorim che ha fatto e disfatto."
-    },
-    {
-      "id": "c067b45105bf",
-      "title": "Amorim in conferenza: \"Formazione titolare? Non sono pazzo. Su Moreira e Chukwueze assieme...\"",
-      "url": "https://www.milannews.it/news/serie-a-lazio-milan-amorim-conferenza-stampa-diretta-live-629603",
-      "source": "milannews.it",
-      "date": "2026-09-12T18:45:35+00:00",
-      "summary": "Ruben Amorim, allenatore del Milan, è presente in conferenza stampa al termine di Lazio-Milan, sfida valida per la quarta giornata di Serie A. Segui in diretta le dichiarazioni del tecnico rossonero con il live testuale su MilanNews."
-    },
-    {
       "id": "7ecee4e31c86",
       "title": "Serie A Liveblog: Lazio vs. Milan, Genoa vs. Frosinone, Atalanta vs. Cagliari",
       "url": "https://football-italia.net/serie-a-live-lazio-milan-gen-fro-atalanta-cag/",
@@ -186,36 +218,12 @@
       "summary": "{rsn-live-v2}"
     },
     {
-      "id": "98ffb18b3063",
-      "title": "Lazio, Gattuso: \"Bravi a non subire l'imbarcata, abbiamo subito due eurogol\"",
-      "url": "https://www.milannews.it/news/lazio-gattuso-bravi-subire-imbarcata-eurogol-629635",
-      "source": "milannews.it",
-      "date": "2026-09-12T18:36:58+00:00",
-      "summary": "Le dichiarazioni di mister Gennaro Gattuso, tecnico della Lazio, al termine della partita contro il Milan finita 2-2- Le sue parole ai microfoni di DAZN."
-    },
-    {
       "id": "843dc651d798",
       "title": "Amorim: ‘Milan completely different, but need control for Modric’ to work",
       "url": "https://football-italia.net/amorim-milan-completely-different-modric-need/",
       "source": "football-italia.net",
       "date": "2026-09-12T18:35:44+00:00",
       "summary": "Ruben Amorim admits Milan were ‘a completely different team’ when clawing Lazio back from 2-0..."
-    },
-    {
-      "id": "203b8e703677",
-      "title": "Amorim: \"Moreira è veloce e nei cross può fare la differenza. Quando gioca a destra...\"",
-      "url": "https://www.milannews.it/news/amorim-moreira-veloce-cross-differenza-gioca-destra-629630",
-      "source": "milannews.it",
-      "date": "2026-09-12T18:33:52+00:00",
-      "summary": "Milan dai due volti a Roma, i rossoneri con un gran secondo tempo rimettono in piedi la partita con la Lazio giocata malissimo nel primo: rimonta e 2-2 finale che, per come si era messa, vale come punto guadagnato."
-    },
-    {
-      "id": "4723559d2709",
-      "title": "L'altro 4 in pagella è per Loftus-Cheek \"il bell'addormentato\": non è più presentabile",
-      "url": "https://www.milannews.it/news/4-pagella-loftus-cheek-il-bell-addormentato-presentabile-629631",
-      "source": "milannews.it",
-      "date": "2026-09-12T18:30:40+00:00",
-      "summary": "Si riporta di seguito la pagella di Lazio-Milan di Pietro Mazzara di Ruben Loftus-Cheek:\n\nLoftus-Cheek 4\n\nLa strigliata pubblica di Amorim non ha sortito alcun effetto sul bell’addormentato."
     },
     {
       "id": "4491ac40067a",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-10T13:15:00+00:00",
       "summary": "Former Barcelona and Croatia midfielder Ivan Rakitić has praised long-time international teammate Luka Modrić following..."
-    },
-    {
-      "id": "0ee0dc64be31",
-      "title": "Nkunku ‘surprised’ by Milan sale: ‘I don’t understand why they acted that way’",
-      "url": "https://football-italia.net/nkunku-surprised-by-milan-sale/",
-      "source": "football-italia.net",
-      "date": "2026-09-09T19:57:05+00:00",
-      "summary": "Christopher Nkunku admits he was surprised by Milan’s decision to send him back to RB..."
     }
   ]
 }
