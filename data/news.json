@@ -1,25 +1,57 @@
 {
-  "lastUpdated": "2026-09-11T22:15:00.046387+00:00",
+  "lastUpdated": "2026-09-12T00:54:40.957558+00:00",
   "articles": [
     {
+      "id": "2312d2776db1",
+      "title": "Lazio, a look at the Rossoneri's opponents: the Biancocelesti's numbers at home",
+      "url": "https://www.milannews.it/l-avversario/lazio-sguardo-avversari-rossoneri-numeri-biancocelesti-casa-629536",
+      "source": "milannews.it",
+      "date": "2026-09-11T22:48:43+00:00",
+      "summary": "Mister Ruben Amorim's new Milan is eager to find the three points in the next and imminent round of the championship. In fact, after the recent draw at Juventus, tomorrow evening at 6pm."
+    },
+    {
+      "id": "80398c124b3e",
+      "title": "Braglia has no doubts: \"Milan are not yet a high-ranking team\"",
+      "url": "https://www.milannews.it/news/braglia-dubbi-il-milan-squadra-alta-classifica-629535",
+      "source": "milannews.it",
+      "date": "2026-09-11T22:36:02+00:00",
+      "summary": "After the draw in Turin against Juventus, mister Ruben Amorim's Milan is eager to find the three points in the next and imminent round of the championship."
+    },
+    {
+      "id": "9c0646470a78",
+      "title": "Milan, Amorim come Terim? Spunta il curioso dato",
+      "url": "https://www.milannews.it/news/milan-amorim-terim-spunta-curioso-dato-629537",
+      "source": "milannews.it",
+      "date": "2026-09-11T22:24:40+00:00",
+      "summary": "Tomorrow evening against Lazio, for coach Ruben Amorim's new Milan it will almost be like facing an old friend eager for revenge. Rino Gattuso, always a Rossoneri heart, will be AC ​​Milan's opponent."
+    },
+    {
       "id": "aa8548b15071",
-      "title": "Amorim pungente: \"Se si vuole giocare come il Como allora bisogna prendere l'allenatore del Como\"",
+      "title": "Amorim biting: \"If you want to play like Como then you have to hire the Como coach\"",
       "url": "https://www.milannews.it/news/amorim-piace-como-bisogna-prendere-allenatore-como-629534",
       "source": "milannews.it",
       "date": "2026-09-11T22:12:08+00:00",
-      "summary": "(ANSA) - ROMA, 11 SET - \"Siamo allenatori diversi con un passato diverso e in club diversi. Cardinale non mi ha mai detto che avrei dovuto ispirarmi al Como."
+      "summary": "(ANSA) - ROME, SEPTEMBER 11 - \"We are different coaches with different pasts and in different clubs. Cardinale never told me that I should take inspiration from Como."
+    },
+    {
+      "id": "e038a6078ffe",
+      "title": "Galli's advance - Am I going backwards in Turin? No, method. Which deserves trust",
+      "url": "https://www.milannews.it/editoriale/galli-torino-passo-indietro-no-metodo-merita-fiducia-629550",
+      "source": "milannews.it",
+      "date": "2026-09-11T22:00:01+00:00",
+      "summary": "The problem is not the seven points in three days. In fact, we would have put our signature on it."
     },
     {
       "id": "6b3e055e4c94",
-      "title": "Verso Lazio-Milan: statistiche e precedenti all'Olimpico",
+      "title": "Towards Lazio-Milan: statistics and precedents at the Olimpico",
       "url": "https://www.milannews.it/news/lazio-milan-statistiche-precedenti-olimpico-629533",
       "source": "milannews.it",
       "date": "2026-09-11T21:48:12+00:00",
-      "summary": "Dopo il pareggio di Torino contro la Juventus, il Milan di mister Ruben Amorim è desideroso di trovare i tre punti nel prossimo ed imminente turno di campionato."
+      "summary": "After the draw in Turin against Juventus, mister Ruben Amorim's Milan is eager to find the three points in the next and imminent round of the championship."
     },
     {
       "id": "b3c402bb63ba",
-      "title": "Malagò: “tranquillo su elezione Figc, è tutto regolare”",
+      "title": "Malagò: \"don't worry about the FIGC election, everything is in order\"",
       "url": "https://www.milannews.it/news/malago-tranquillo-elezione-figc-regolare-629527",
       "source": "milannews.it",
       "date": "2026-09-11T21:36:45+00:00",
@@ -27,139 +59,107 @@
     },
     {
       "id": "c8b8276572ea",
-      "title": "Lazio-Milan, i rossoneri tornano all’Olimpico: gli ultimi 10 precedenti in Serie A tra le due squadre",
+      "title": "Lazio-Milan, the Rossoneri return to the Olimpico: the last 10 meetings in Serie A between the two teams",
       "url": "https://www.milannews.it/news/lazio-milan-rossoneri-tornano-all-olimpico-ultimi-10-precedenti-serie-squadre-629521",
       "source": "milannews.it",
       "date": "2026-09-11T21:24:00+00:00",
-      "summary": "Domani, alle ore 18:00, i rossoneri di Ruben Amorim scenderanno in campo nella capitale ospiti della Lazio di Gennaro Gattuso, momentaneo al primo posto in classifica grazie alle tre vittorie ottenute nelle prime tre partite."
+      "summary": "Tomorrow, at 6.00 pm, Ruben Amorim's Rossoneri will take to the field in the capital hosting Gennaro Gattuso's Lazio, currently in first place in the standings thanks to the three victories obtained in the first three matches."
     },
     {
       "id": "504fa9c439fc",
-      "title": "Serie A, la classifica aggiornata: prima vittoria per la Fiorentina",
+      "title": "Serie A, the updated standings: first victory for Fiorentina",
       "url": "https://www.milannews.it/news/serie-a-classifica-aggiornata-vittoria-fiorentina-629548",
       "source": "milannews.it",
       "date": "2026-09-11T21:12:19+00:00",
-      "summary": "La Fiorentina trova la sua prima vittoria in campionato, 4-2 sul campo del Venezia. Tripletta di Mastantuono e rete di Pellegrino."
+      "summary": "Fiorentina finds its first victory in the championship, 4-2 on the pitch of Venezia. Hat-trick by Mastantuono and goal by Pellegrino."
     },
     {
       "id": "8ac631f171c9",
-      "title": "Serie A, tripletta di Mastantuono: la Fiorentina vince a Venezia",
+      "title": "Serie A, Mastantuono hat-trick: Fiorentina wins in Venice",
       "url": "https://www.milannews.it/news/serie-a-tripletta-mastantuono-fiorentina-vince-venezia-629549",
       "source": "milannews.it",
       "date": "2026-09-11T21:00:00+00:00",
-      "summary": "Prima vittoria in campionato per la Fiorentina, che batte in trasferta per 4-2 il Venezia grazie alla tripletta di uno scatenato Mastantuono."
+      "summary": "First victory in the championship for Fiorentina, who beat Venezia 4-2 away thanks to a hat-trick from a wild Mastantuono."
     },
     {
       "id": "7c9b31755338",
-      "title": "Iori: \"Il sistema del centrocampo a due del Milan con Modric può saltare. Con la Juve...\"",
+      "title": "Iori: \"Milan's two-man midfield system with Modric can fail. With Juve...\"",
       "url": "https://www.milannews.it/news/iori-il-sistema-centrocampo-milan-modric-saltare-juve-629487",
       "source": "milannews.it",
       "date": "2026-09-11T20:48:21+00:00",
-      "summary": "Alessandro Iori, telecronista, si è così espresso a Dazn su quanto può reggere Luka Modric nel centrocampo a due di Amorim: \"Non è Modric che va per primo sulla palla, è Musah."
+      "summary": "Alessandro Iori, commentator, expressed himself to Dazn as follows on how much Luka Modric can handle in Amorim's two-man midfield: \"It's not Modric who goes first on the ball, it's Musah."
     },
     {
       "id": "27a004ade744",
-      "title": "Modric, Amorim ammette: \"Con Luka forse perdiamo in pressing, ma abbiamo più controllo con la palla\"",
+      "title": "Modric, Amorim admit: \"With Luka perhaps we lose in pressing, but we have more control with the ball\"",
       "url": "https://www.milannews.it/news/milan-amorim-modric-perdiamo-pressing-ottima-gestione-palla-629532",
       "source": "milannews.it",
       "date": "2026-09-11T20:36:54+00:00",
-      "summary": "(ANSA) - MILANO, 11 SET - \"Modric? A volte non è in grado di pressare in ogni azione ma è il nostro miglior giocatore nella gestione del possesso palla. Da allenatore devo scegliere."
+      "summary": "(ANSA) - MILAN, SEPTEMBER 11 - \"Modric? Sometimes he isn't able to press in every action but he is our best player in managing ball possession. As a coach I have to choose."
     },
     {
       "id": "4207104d7dfa",
-      "title": "Braglia non è convinto: “Lazio-Milan? Ho dei dubbi sui rossoneri, non sono una squadra d’alta classifica”",
+      "title": "Braglia is not convinced: \"Lazio-Milan? I have doubts about the Rossoneri, they are not a high-ranking team\"",
       "url": "https://www.milannews.it/news/braglia-convinto-lazio-milan-dubbi-milan-squadra-d-alta-classifica-629524",
       "source": "milannews.it",
       "date": "2026-09-11T20:24:24+00:00",
-      "summary": "Intervenuto a TMW Radio, Simone Braglia, ha parlato di vari temi riguardanti la quarta giornata di Serie A e, in merito a Lazio-Milan, si è espresso così.\n\nLazio-Milan, come la vede? \"E' un big match."
+      "summary": "Speaking on TMW Radio, Simone Braglia spoke about various topics regarding the fourth day of Serie A and, regarding Lazio-Milan, he expressed himself as follows.\n\nLazio-Milan, how do you see it? \"It's a big match."
     },
     {
       "id": "5f309021328c",
-      "title": "Milan-Atalanta, parte la vendita dei biglietti: ecco tutte le info utili",
+      "title": "Milan-Atalanta, ticket sales begin: here is all the useful information",
       "url": "https://www.milannews.it/news/milan-atalanta-vendita-biglietti-info-utili-629526",
       "source": "milannews.it",
       "date": "2026-09-11T20:12:28+00:00",
-      "summary": "Di seguito tutte le informazioni sulla vendita dei tagliandi per la partita Milan-Atalanta, in programma domenica 18 ottobre alle ore 18:00."
+      "summary": "Below is all the information on the sale of tickets for the AC Milan-Atalanta match, scheduled for Sunday 18 October at 6pm."
     },
     {
       "id": "ebfa1e514f96",
-      "title": "Orlando su Lazio-Milan: “Sarà difficile per il Milan, i rossoneri non riesco a capirli bene”",
+      "title": "Orlando on Lazio-Milan: \"It will be difficult for Milan, I can't understand the Rossoneri well\"",
       "url": "https://www.milannews.it/news/orlando-lazio-milan-sara-difficile-milan-rossoneri-riesco-capirli-bene-629523",
       "source": "milannews.it",
       "date": "2026-09-11T20:00:34+00:00",
-      "summary": "Intervenuto a TMW Radio, Massimo Orlando, ex giocatore, ha parlato di vari temi riguardanti la quarta giornata di Serie A e, in merito a Lazio-Milan, si è espresso così."
+      "summary": "Speaking on TMW Radio, Massimo Orlando, a former player, spoke about various topics regarding the fourth day of Serie A and, regarding Lazio-Milan, he expressed himself as follows."
     },
     {
       "id": "8cec80d87ab6",
-      "title": "PROBABILE FORMAZIONE - Verso Lazio-Milan: con Cisse titolare c'è Pulisic in panchina. Dubbio Rabiot",
+      "title": "PROBABLE LINEUP - Towards Lazio-Milan: with Cisse starting, Pulisic is on the bench. Doubt Rabiot",
       "url": "https://www.milannews.it/news/probabile-formazione-lazio-milan-news-amorim-rabiot-pulisic-modric-cisse-629417",
       "source": "milannews.it",
       "date": "2026-09-11T20:00:00+00:00",
-      "summary": "Terza trasferta nelle prime quattro partite di campionato per il Milan di Ruben Amorim."
+      "summary": "Third away match in the first four league matches for Ruben Amorim's Milan."
     },
     {
       "id": "5745f087e09e",
-      "title": "Milan, Amorim: \"Gattuso? Una leggenda, la sua passione è mancata nel Milan\"",
+      "title": "Milan, Amorim: \"Gattuso? A legend, his passion was missing at Milan\"",
       "url": "https://www.milannews.it/news/amorim-gattuso-leggenda-passione-mancata-milan-629531",
       "source": "milannews.it",
       "date": "2026-09-11T19:48:52+00:00",
-      "summary": "(ANSA) - MILANO, 11 SET - \"Gattuso è una leggenda, una leggenda del Milan. Il talento non è tutto lo sono anche passione e aggressività, dobbiamo rispondere anche noi con queste qualità."
+      "summary": "(ANSA) - MILAN, SEPTEMBER 11 - \"Gattuso is a legend, a Milan legend. Talent isn't everything, so are passion and aggression, we too must respond with these qualities."
     },
     {
       "id": "44b72aeed83e",
-      "title": "Cisse sorprende tutti: dal rischio prestito alla Nazionale",
+      "title": "Cisse surprises everyone: from the loan risk to the national team",
       "url": "https://www.milannews.it/news/cisse-sorprende-tutti-rischio-prestito-nazionale-629495",
       "source": "milannews.it",
       "date": "2026-09-11T19:36:53+00:00",
-      "summary": "La crescita di Alphadjo Cisse continua a stupire. Dopo i primi minuti in Serie A con il Verona (proprio contro il Milan), la parentesi al Catanzaro e il mancato trasferimento al PSV, il talento italiano si è preso il Milan."
+      "summary": "Alphadjo Cisse's growth continues to amaze. After the first minutes in Serie A with Verona (against Milan), the parenthesis at Catanzaro and the failed transfer to PSV, the Italian talent took Milan."
     },
     {
       "id": "05c5b0fcb730",
-      "title": "Albertini approva l'affare Ramos: \"Vero centravanti. Deve essere supportato al meglio\"",
+      "title": "Albertini approves the Ramos deal: \"True center forward. He must be supported in the best possible way\"",
       "url": "https://www.milannews.it/news/amorim-approva-affare-ramos-vero-centravanti-supportato-meglio-629475",
       "source": "milannews.it",
       "date": "2026-09-11T19:23:18+00:00",
-      "summary": "Demtrio Albertini è stato intervistato questa mattina dai colleghi de La Gazzetta dello Sport. L'ex calciatore ha parlato di Milan in vista della sfida contro la Lazio."
+      "summary": "Demtrio Albertini was interviewed this morning by colleagues from La Gazzetta dello Sport. The former footballer spoke about Milan in view of the match against Lazio."
     },
     {
       "id": "6e62e38d89c5",
-      "title": "Serie A, al via la quarta giornata: la lista degli squalificati, diffidati e indisponibili",
+      "title": "Serie A, the fourth day begins: the list of those disqualified, banned and unavailable",
       "url": "https://www.milannews.it/news/serie-a-via-quarta-giornata-lista-squalificati-diffidati-indisponibili-629520",
       "source": "milannews.it",
       "date": "2026-09-11T19:12:18+00:00",
-      "summary": "Di seguito la lista completa dei diffidati, degli indisponibili e degli squalificati di Serie A.\n\nATALANTA\nIndisponibili: Sulemana, Hien."
-    },
-    {
-      "id": "0391f359525a",
-      "title": "Anche i giornali esteri esaltano la prima in Champions del Como di Fabregas",
-      "url": "https://www.milannews.it/news/champions-como-fabregas-incanta-meraviglia-629501",
-      "source": "milannews.it",
-      "date": "2026-09-11T19:00:04+00:00",
-      "summary": "(ANSA) - ROMA, 11 SET - Il Como visto in Champions League è una \"meraviglia\"."
-    },
-    {
-      "id": "7c0f08f17236",
-      "title": "F. Galli convinto: \"Al mercato del Milan è mancato qualcosa, ma non la punta: si dia spazio a Camarda\"",
-      "url": "https://www.milannews.it/news/f-galli-convinto-al-mercato-milan-mancato-qualcosa-punta-dia-spazio-camarda-629489",
-      "source": "milannews.it",
-      "date": "2026-09-11T18:48:47+00:00",
-      "summary": "Filippo Galli, ex calciatore e attuale opinionista, si è così espresso a RadioSportiva sulla questione inerente alla proprietà del Milan: \"Ognuno poi reagisce a proprio modo rispetto al sentimento e all'amore per la prop ..."
-    },
-    {
-      "id": "7e4de968788f",
-      "title": "Milan contro il trend: sono tre anni di fila che perde almeno una delle prime quattro di campionato",
-      "url": "https://www.milannews.it/news/milan-trend-fila-perde-almeno-prime-campionnato-629500",
-      "source": "milannews.it",
-      "date": "2026-09-11T18:36:57+00:00",
-      "summary": "Il Milan ha perso almeno una delle prime quattro partite di Serie A in ciascuna delle precedenti tre stagioni (tra il 2023/24 e il 2025/26), dopo che era rimasto imbattuto nelle prime quattro gar ..."
-    },
-    {
-      "id": "eaf318ed4edf",
-      "title": "Matri dubbioso: \"Non so quanto Modric sia adatto al tipo di calcio di Amorim\"",
-      "url": "https://www.milannews.it/news/matri-dubbioso-non-so-modric-adatto-tipo-calcio-amorim-629488",
-      "source": "milannews.it",
-      "date": "2026-09-11T18:24:40+00:00",
-      "summary": "Alessandro Matri, ex calciatore e attuale opinionista, si è così espresso a Dazn sulla posizione in campo di Luka Modric nel Milan di Amorim: \"Non ne faccio una questione di età né di qualità fisiche, ma di car ..."
+      "summary": "Below is the complete list of those who have been warned, unavailable and suspended in Serie A.\n\nATALANTA\nUnavailable: Sulemana, Hien."
     },
     {
       "id": "6b6b7bd4bfa9",
