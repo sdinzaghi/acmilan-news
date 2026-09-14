@@ -1,6 +1,166 @@
 {
-  "lastUpdated": "2026-09-14T17:41:21.755227+00:00",
+  "lastUpdated": "2026-09-14T21:28:27.720517+00:00",
   "articles": [
+    {
+      "id": "e07dd96fef56",
+      "title": "Prof. Perugia: \"Modric può essere un problema per il gioco di Amorim. Andava bene per Allegri\"",
+      "url": "https://www.milannews.it/news/prof-perugia-modric-problema-gioco-amorim-andava-allegri-629824",
+      "source": "milannews.it",
+      "date": "2026-09-14T21:12:41+00:00",
+      "summary": "Intervenuto sulle frequenze di TMW Radio il professore Dario Perugia ha parlato dei più importanti temi d'attualità legate alla Serie A, soffermandosi in modo particolare sul Milan dopo il pareggio di Roma contro la Lazio."
+    },
+    {
+      "id": "e1eb4ab3c5fc",
+      "title": "Serie A, due squadre a punteggio pieno: la classifica aggiornata",
+      "url": "https://www.milannews.it/news/classifica-aggiornata-serie-629812",
+      "source": "milannews.it",
+      "date": "2026-09-14T21:00:02+00:00",
+      "summary": "Di seguito la classifica aggiornata dopo i risultati della quarta giornata di Serie A."
+    },
+    {
+      "id": "8fa6cd994e62",
+      "title": "PROBABILE FORMAZIONE - Verso Milan-Benfica: finalmente Pulisic e Moreira, fuori Modric",
+      "url": "https://www.milannews.it/news/probabile-formazione-milan-benfica-pulisic-moreira-modric-629828",
+      "source": "milannews.it",
+      "date": "2026-09-14T20:55:00+00:00",
+      "summary": "Ci siamo per l'esordio europeo del Milan di Ruben Amorim."
+    },
+    {
+      "id": "574590aa8cad",
+      "title": "Serie A, i nerazzurri rispondono a Como e Roma: Inter-Udinese 5-3",
+      "url": "https://www.milannews.it/news/risultato-inter-udinese-629811",
+      "source": "milannews.it",
+      "date": "2026-09-14T20:48:47+00:00",
+      "summary": "Dopo le vittorie di Como e Roma ai danni di Parma e Torino, poco fa l'Inter di Chivu ha battuto l'Udinese con un'altra rimonta."
+    },
+    {
+      "id": "68cf719294f0",
+      "title": "Marchegiani con premura su Cisse: \"Diventerà un crack, ma oggi non ha ancora la giusta malizia\"",
+      "url": "https://www.milannews.it/news/marchegiani-premura-cisse-diventera-crack-giusta-malizia-629823",
+      "source": "milannews.it",
+      "date": "2026-09-14T20:36:13+00:00",
+      "summary": "Ai microfoni di Sky Calcio Club, l'ex portiere della Lazio oggi noto opinionista sportivo, Luca Marchegiani, ha commentato così il recente pareggio del Milan all'Olimpico contro i biancocelest."
+    },
+    {
+      "id": "b6bdfa67eee6",
+      "title": "Albertini pubblica un libro: le esperienze vissute da giocatore per parlare di ciò che resta davvero",
+      "url": "https://www.milannews.it/news/libri-lezioni-campo-vita-talento-responsabilita-albertini-629751",
+      "source": "milannews.it",
+      "date": "2026-09-14T20:24:05+00:00",
+      "summary": "(ANSA) - ROMA, 11 SET - Un libro autentico, profondo, capace di parlare a chi cerca nel racconto sportivo un'ispirazione per il lavoro, le relazioni, le sfide personali di ogni giorno."
+    },
+    {
+      "id": "4ba639659153",
+      "title": "Estupinan ha un nuovo allenatore in nazionale: Marcelo Gallardo ct dell'Ecuador",
+      "url": "https://www.milannews.it/news/calcio-marcelo-gallardo-ct-ecuador-629782",
+      "source": "milannews.it",
+      "date": "2026-09-14T20:12:04+00:00",
+      "summary": "(ANSA) - ROMA, 14 SET - Marcelo Gallardo è il nuovo allenatore dell'Ecuador con \"l'obiettivo di guodare la squadra alla Coppa del mondo 2030\". Lo ha annunciato la Federcalcio ecuadoriana."
+    },
+    {
+      "id": "89e12dcd42e5",
+      "title": "I 5 minuti del Milan: sei gol su sette segnati tra il 64' e il 69'",
+      "url": "https://www.milannews.it/news/5-minuti-milan-gol-segnati-64-69-629817",
+      "source": "milannews.it",
+      "date": "2026-09-14T20:00:03+00:00",
+      "summary": "Il profilo Instagram di DAZN riporta una statistica molto interessante sul rendimento realizzativo del Milan in questo inizio di campionato: sei dei sette gol segnati finora, la squadra di Ruben Amorim li ha realizzati tra il 64' e il 69'."
+    },
+    {
+      "id": "dd173c482e7b",
+      "title": "Passerini: \"Amorim deve sciogliere i nodi formazione rapidamente, perché il tempo c'è, ma al Milan non è infinito\"",
+      "url": "https://www.milannews.it/news/passerini-amorim-sciogliere-nodi-formazione-rapidamente-e-milan-infinito-629770",
+      "source": "milannews.it",
+      "date": "2026-09-14T19:48:00+00:00",
+      "summary": "Carlos Passerini, giornalista del Corriere della Sera, si è così espresso sul suo canale Youtube sulla formazione del Milan di Amorim: \"Quattro partite: ora è tempo che ci si dia una definizione, anche degli interpreti."
+    },
+    {
+      "id": "6cb8d0b398db",
+      "title": "Allegri ha spiegato perché si è arrabbiato in quel modo con Lucca nel finale di Napoli-Bologna",
+      "url": "https://www.milannews.it/news/calcio-allegri-facile-ragazzi-buona-partita-629746",
+      "source": "milannews.it",
+      "date": "2026-09-14T19:36:11+00:00",
+      "summary": "(ANSA) - NAPOLI, 13 SET - \"Oggi i ragazzi hanno fatto una bella partita, a parte la dormita sulla punizione all'inizio su cui poi c'è stato il fuorigioco. Non era facile, perché c'era paura di non far risultato\"."
+    },
+    {
+      "id": "aa993dbb44c6",
+      "title": "Malagò avvisa tutti: \"Non ho paura di decadere da presidente della FIGC\"",
+      "url": "https://www.milannews.it/news/calcio-malago-paura-decadere-presidenza-figc-629818",
+      "source": "milannews.it",
+      "date": "2026-09-14T19:24:36+00:00",
+      "summary": "(ANSA) - ROMA, 14 SET - \"Non ho paura di decadere da presidente della Federcalcio\"."
+    },
+    {
+      "id": "bd0179f81f2e",
+      "title": "Bucchioni: \"Non funziona più Luka Modric. E dirlo mi dispiace\"",
+      "url": "https://www.milannews.it/news/bucchioni-non-funziona-luka-modric-dirlo-dispiace-629806",
+      "source": "milannews.it",
+      "date": "2026-09-14T19:12:50+00:00",
+      "summary": "Nel corso del consueto appuntamento con il suo editoriale per TMW, il collega Enzo Bucchioni ha analizzato i temi più importanti di questa quarta giornata di campionato, soffermandosi anche su Modric e le difficoltà che il croato sta ri ..."
+    },
+    {
+      "id": "4b06404f564e",
+      "title": "Serie A, Como e Roma avvisano l’Inter: la classifica aggiornata",
+      "url": "https://www.milannews.it/news/classifica-aggiornata-serie-629798",
+      "source": "milannews.it",
+      "date": "2026-09-14T19:00:10+00:00",
+      "summary": "In seguito ai risultati dei due match delle 18:30, questa è la classifica aggiornata."
+    },
+    {
+      "id": "5e1aba2af780",
+      "title": "Quote risultato esatto Milan-Benfica",
+      "url": "https://www.milannews.it/scommesse/pronostici/quote-risultato-esatto-milan-benfica-629830",
+      "source": "milannews.it",
+      "date": "2026-09-14T19:00:00+00:00",
+      "summary": "Diciannove mesi dopo, il Milan torna a giocare una partita di una competizione europea."
+    },
+    {
+      "id": "5c63d918359c",
+      "title": "Serie A, Fabregas non si ferma più: Como-Parma 2-1",
+      "url": "https://www.milannews.it/news/risultato-parma-como-629797",
+      "source": "milannews.it",
+      "date": "2026-09-14T18:48:57+00:00",
+      "summary": "Dopo la prima nottata storica in Champions League, condita da una larghissima e dominante vittoria per 4-1 sul Lipsia, Fabregas e i suoi sono tornati al Sinigaglia per affrontare il Parma nell'anticipo del luendi sera, valevole per la quarta gior ..."
+    },
+    {
+      "id": "c606eb625729",
+      "title": "How Amorim solved the midfield problem: Tactical analysis of Lazio 2-2 AC Milan",
+      "url": "https://sempremilan.com/tactical-analysis-lazio-2-2-ac-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-09-14T18:45:22+00:00",
+      "summary": "AC Milan came from two goals down to rescue a point against Lazio in an entertaining game at the Stadio Olimpico on Saturday. Milan went behind for the first time all season when Matteo Cancellieri snuck in at the far post to turn in a low cross. The setback became a hole to climb out […]\nThe post H"
+    },
+    {
+      "id": "34b70c9a997b",
+      "title": "Serie A, i giallorossi fanno 4 su 4: Torino-Roma 0-2",
+      "url": "https://www.milannews.it/news/risultato-torino-roma-629796",
+      "source": "milannews.it",
+      "date": "2026-09-14T18:36:45+00:00",
+      "summary": "All'Olimpico Grande Torino i giallorossi di Gian Piero Gasperini sono stati ospiti dei Granata di Ignazio Abate, ex rossonero, nell'anticipo del lunedi di Serie A."
+    },
+    {
+      "id": "7a1e814356fa",
+      "title": "Behrami polemico con Amorim: \"Non so perché stia cercando dei nemici\"",
+      "url": "https://www.milannews.it/news/behrami-polemico-amorim-non-so-cercando-nemici-629801",
+      "source": "milannews.it",
+      "date": "2026-09-14T18:24:06+00:00",
+      "summary": "Valon Behrami, ex calciatore e attuale opinionista, si è così espresso a Dazn commentando la comunicazione di Amorim, allenatore del Milan: \"Lui ha un modo molto moderno, come piace a me."
+    },
+    {
+      "id": "2d5206af6672",
+      "title": "Matri: \"Se Amorim vuole giocare con Modric, deve adattarsi con un modulo che lo faccia rendere al meglio\"",
+      "url": "https://www.milannews.it/news/matri-se-amorim-vuole-giocare-modric-adattarsi-modulo-rendere-meglio-629800",
+      "source": "milannews.it",
+      "date": "2026-09-14T18:12:02+00:00",
+      "summary": "Alessandro Matri, ex calciatore e attuale opinionista, si è così espresso a Dazn sul rendimento di Luka Modric nel Milan di Amorim, in difficoltà nel match di sabato sera contro la Lazio all'Olimpico terminato con un par ..."
+    },
+    {
+      "id": "00ea255f2f01",
+      "title": "MN - Grimshaw (Milan Femminile): \"Siamo pronte per giocare una grande stagione, perchè il Milan è il club più grande del mondo\"",
+      "url": "https://www.milannews.it/news/mn-grimshaw-milan-femminile-siamo-pronte-giocare-stagione-milan-club-mondo-629836",
+      "source": "milannews.it",
+      "date": "2026-09-14T17:48:59+00:00",
+      "summary": "In occasione della presentazione della nuova collaborazione tra AC Milan e Boggi Milano, la redazione di MilanNews.it ha intercettato in esclusiva il capitano del Milan Femminile, Christy Grimshaw."
+    },
     {
       "id": "2def8c49d36f",
       "title": "MN - La promessa di Costacurta: \"Porterò avanti la Legacy Baresi\"",
@@ -8,14 +168,6 @@
       "source": "milannews.it",
       "date": "2026-09-14T17:36:00+00:00",
       "summary": "Il ricordo di Franco Baresi per tutti i milanisti e non solo, resta ogni giorno più vivo che mai. Questa è infatti la prima stagione che i rossoneri stanno vivendo senza l'eterno numero 6 milanista."
-    },
-    {
-      "id": "b1ccdeafe2a9",
-      "title": "MN - Costacurta su Pavlovic: \"Ha una bella aggressività, ogni tanto c’è bisogno di questo tipo di giocatore, ti dà una sveglia\"",
-      "url": "https://www.milannews.it/news/mn-costacurta-pavlovic-ha-bella-aggressivita-c-e-bisogno-tipo-giocatore-da-sveglia-629834",
-      "source": "milannews.it",
-      "date": "2026-09-14T17:24:05+00:00",
-      "summary": "Il nuovo Milan di Ruben Amorim si prepara per la prossima sfida di questa stagione. Dopo il pareggio di Roma contro la Lazio, i rossoneri saranno attesi dall'esordio in Europa League mercoledì sera a San Siro contro il Benfica."
     },
     {
       "id": "ab90677d6e22",
@@ -26,14 +178,6 @@
       "summary": "Ahead of AC Milan’s game against Benfica on Wednesday, Ruben Amorim’s expected team has been predicted and it’s a strong one. The Europa League may offer youngsters a chance to get some rare minutes. However, the opener against Benfica at San Siro will not grant that opportunity. Instead, a pretty s"
     },
     {
-      "id": "eaa0e0f7f2f9",
-      "title": "Marinozzi: \"Con Ambrosini abbiamo notato subito allo stadio che Estupinan guarda sempre a sinistra e mai Cancellieri\"",
-      "url": "https://www.milannews.it/news/marinozzi-avvisa-amorim-sono-entrati-giocatori-possono-uscire-squadra-629795",
-      "source": "milannews.it",
-      "date": "2026-09-14T17:13:46+00:00",
-      "summary": "Andrea Marinozzi, giornalista, si è così espresso a Dazn commentando la prestazione del Milan di Amorim contro la Lazio: \"Il Milan nel primo tempo ha fatto molta fatica per meriti tanti della Lazio e per grossi demeriti del Milan:  ..."
-    },
-    {
       "id": "db9dc3fd9265",
       "title": "English refereeing line-up confirmed for Milan vs. Benfica Europa League clash",
       "url": "https://football-italia.net/referee-line-up-confirmed-milan-vs-benfica/",
@@ -42,36 +186,12 @@
       "summary": "Milan get their 2026-27 Europa League campaign later this week, and it has recently been..."
     },
     {
-      "id": "77a0a78a6a86",
-      "title": "AC Milan e Boggi Milano: una nuova partnership nel segno dell'eleganza",
-      "url": "https://www.milannews.it/news/ac-milan-boggi-milano-nuova-partnership-segno-eleganza-629833",
-      "source": "milannews.it",
-      "date": "2026-09-14T17:00:08+00:00",
-      "summary": "Milano, 14 settembre 2026 – AC Milan presenta una nuova collaborazione con Boggi Milano, che entra tra i Global Partner del Club in qualità di Official Formalwear Partner e, da questa stagione, fornirà le divise di rappresentanza  ..."
-    },
-    {
-      "id": "8fa6cd994e62",
-      "title": "PROBABILE FORMAZIONE - Verso Milan-Benfica: finalmente Pulisic e Moreira, fuori Modric",
-      "url": "https://www.milannews.it/news/probabile-formazione-milan-benfica-pulisic-moreira-modric-629828",
-      "source": "milannews.it",
-      "date": "2026-09-14T17:00:00+00:00",
-      "summary": "Ci siamo per l'esordio europeo del Milan di Ruben Amorim."
-    },
-    {
       "id": "a2ec0b1abaf3",
       "title": "Official: AC Milan announce Boggi as new Formalwear Partner – the statement",
       "url": "https://sempremilan.com/ac-milan-announce-boggi-milano-formalwear-partner",
       "source": "sempremilan.com",
       "date": "2026-09-14T16:58:12+00:00",
       "summary": "This evening, AC Milan have confirmed a switch to a new formalwear provider, with the heavily rumoured Boggi becoming an official partner. In recent years, Milan have had several collaborations with Off-White – both with their kit releases and leisurewear, too – but it now seems that the club are he"
-    },
-    {
-      "id": "6da8ba46fa77",
-      "title": "Ordine: \"Denuncio una volgare campagna nei confronti di Modric patrocinata dai social occupati da improvvisati tattici\"",
-      "url": "https://www.milannews.it/news/ordine-modric-denuncia-milan-amorim-ruolo-social-629786",
-      "source": "milannews.it",
-      "date": "2026-09-14T16:48:07+00:00",
-      "summary": "Franco Ordine, giornalista, si è così espresso su Il Giornale commentando le parole e le scelte tecniche di Ruben Amorim: \"Per il Milan, sospeso tra una rifondazione tormentata e l’altra, è già tempo di fare chi ..."
     },
     {
       "id": "fdf3aefff3db",
@@ -90,60 +210,12 @@
       "summary": "Ruben Amorim’s way of speaking to the media could be perceived as a red flag. However, the AC Milan head coach is perhaps the best communicator in some time. Several coaches have fallen at the media stage when moving to Milan. Questions are different, more intense and less forgiving than elsewhere. "
     },
     {
-      "id": "5ae2ace773d5",
-      "title": "Daniel Maldini pubblica sui social esiti negativi dei test tossicologici",
-      "url": "https://www.milannews.it/news/daniel-maldini-pubblica-social-esiti-negativi-test-tossicologici-629831",
-      "source": "milannews.it",
-      "date": "2026-09-14T16:36:28+00:00",
-      "summary": "(ANSA) - CAGLIARI, 14 SET - Il calciatore del Cagliari Daniel Maldini ha pubblicato su Instagram il referto sui test tossicologici. Gli esami privati sono stati effettuati da un centro medico cagliaritano accreditato dal sistema sanitario regionale."
-    },
-    {
-      "id": "335455d6ddaa",
-      "title": "Pasotto si chiede: \"È più corretto parlare di un Amorim fenomenale nell'azzeccare i cambi o di un Amorim che sbaglia la formazione titolare?\"",
-      "url": "https://www.milannews.it/news/pasotto-chiede-e-corretto-parlare-amorim-fenomenale-azzeccare-cambi-amorim-sbaglia-formazione-titola-629763",
-      "source": "milannews.it",
-      "date": "2026-09-14T16:24:20+00:00",
-      "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport discutendo delle formazioni di Ruben Amorim: \"Quando succede quattro volte in quattro uscite, la domanda è lecita: è più ortodosso  ..."
-    },
-    {
-      "id": "e253c6a40fef",
-      "title": "Pancaro: \"Amorim più bravo a rimetterla in piedi che negativo nello scegliere la formazione titolare\"",
-      "url": "https://www.milannews.it/news/pancaro-amorim-rimetterla-negativo-scegliere-formazione-titolare-629777",
-      "source": "milannews.it",
-      "date": "2026-09-14T16:12:42+00:00",
-      "summary": "Giuseppe Pancaro, ex calciatore di Lazio e Milan e attuale allenatore, si è così espresso a RadioSportiva su Lazio-Milan: \"È stato bravo Amorim a rimettere in piedi una partita quasi compromessa."
-    },
-    {
-      "id": "16261536781c",
-      "title": "Ma il Milan si può permettere di far giocare insieme dal 1' Moreira e Chukwueze?",
-      "url": "https://www.milannews.it/podcast-mn/milan-permettere-far-giocare-1-moreira-chukwueze-629816",
-      "source": "milannews.it",
-      "date": "2026-09-14T16:00:09+00:00",
-      "summary": "Dopo la trasferta di Roma contro la Lazio la domanda è inevitabile: ma il Milan può permettersi d schierare Chukwuezze e Moreira insieme dal primo minuto? La risposta, oggi, è più complessa di un semplice sì o no."
-    },
-    {
       "id": "165074c40280",
       "title": "CorSera: New San Siro to be unveiled in October – the strict schedule for EURO 2032",
       "url": "https://sempremilan.com/new-san-siro-unveiled-october-schedule",
       "source": "sempremilan.com",
       "date": "2026-09-14T16:00:00+00:00",
       "summary": "Today, an update has arrived about the new San Siro, the timings of construction and even the financials of the project for AC Milan and Inter.  Building a new stadium in Milano has been discussed for years, but it has never gone further than drawn-up designs and ideas. Now, though, there is a concr"
-    },
-    {
-      "id": "c6475b2e7c01",
-      "title": "Biasin: \"Continuo a domandarvi e a domandarvi: la distanza tra la rosa del Milan e le rivali è aumentata o diminuita?\"",
-      "url": "https://www.milannews.it/news/biasin-il-milan-rosa-importante-altezza-titolare-riserva-equivalgono-629778",
-      "source": "milannews.it",
-      "date": "2026-09-14T15:49:06+00:00",
-      "summary": "Fabrizio Biasin, giornalista, si è così espresso a Pressing, in onda su Mediaset, sulle scelte di Ruben Amorim nel suo Milan di questo inizio stagione, tra le formazioni di queste prime quattro giornate e le scelte fatte da al ..."
-    },
-    {
-      "id": "ba04df711c93",
-      "title": "Milan-Benfica: svelata la designazione arbitrale della partita",
-      "url": "https://www.milannews.it/news/milan-benfica-svelata-designazione-arbitrale-partita-629829",
-      "source": "milannews.it",
-      "date": "2026-09-14T15:36:35+00:00",
-      "summary": "Il Milan di Amorim si prepara al proprio personale esordio in questa nuova edizione di Europa League 2026/2027. La prima partita europea del Milan in questa stagione sarà mercoledì sera alle 21."
     },
     {
       "id": "95fb4c9e2e7d",
@@ -154,30 +226,6 @@
       "summary": "Diego Moreira has not had the easiest start to life at AC Milan, but things could change after a brace at the weekend. Moreira joined Milan with excitement, then when the fee was reported, the reaction was reeled in a little – or even a lot. A debut against Juventus didn’t allow him to show […]\nThe "
     },
     {
-      "id": "07c689242c54",
-      "title": "Teotino chiaro: \"Per fare azioni d'attacco efficaci, serve schierare gli attaccanti: Amorim non ne aveva messo nessuno\"",
-      "url": "https://www.milannews.it/news/teotino-chiaro-per-azioni-attacco-efficaci-serve-schierare-attaccanti-tempo-invece-nessuno-629775",
-      "source": "milannews.it",
-      "date": "2026-09-14T15:25:00+00:00",
-      "summary": "Gianfranco Teotino, giornalista, si è così espresso a Radio Sportiva commentando il pareggio del Milan contro la Lazio: \"Quando la squadra migliora con i cambi, non si sa mai se sia stato bravo l'allenatore a indovinare le sost ..."
-    },
-    {
-      "id": "7937b542e457",
-      "title": "Ordine: \"Finalmente schierato a sinistra Diego Moreira è stato esplosivo\"",
-      "url": "https://www.milannews.it/news/impatto-moreira-ordine-finalmente-schierato-sinistra-esplosivo-629821",
-      "source": "milannews.it",
-      "date": "2026-09-14T15:13:52+00:00",
-      "summary": "Dopo il pareggio in rimonta sul campo della Lazio, il nuovo Milan di Ruben Amorim si prepara all'esordio in Europa League, previsto per mercoledì sera a San Siro contro il Benfica."
-    },
-    {
-      "id": "ed7f0dbb029e",
-      "title": "MN - Ibrahimovic torna a Milanello: incontro con Amorim e la squadra",
-      "url": "https://www.milannews.it/news/mn-ibrahimovic-torna-milanello-incontro-amorim-squadra-629825",
-      "source": "milannews.it",
-      "date": "2026-09-14T15:00:58+00:00",
-      "summary": "Mattinata a Milanello per Zlatan Ibrahimovic, che ha fatto visita al centro sportivo rossonero dopo 6 mesi dall'ultima volta. Stando a quanto appreso dalla redazione di MilanNews."
-    },
-    {
       "id": "7c35bfc96b07",
       "title": "Marco Silva admits to mistakes ahead of Milan clash at San Siro: “Players back to normal”",
       "url": "https://sempremilan.com/silva-previews-milan-clash-admits-mistake",
@@ -186,52 +234,12 @@
       "summary": "Marco Silva previewed Benfica’s visit to face AC Milan this week after they won at the weekend, admitting some regrets. This week, Milan will return to the Europa League for the first time since Stefano Pioli’s time at the club. It’s an unwanted situation. However, it could actually be a chance for "
     },
     {
-      "id": "7754adfb8731",
-      "title": "Guidi: \"Ma quindi Modric deve stare in panchina? La risposta l'ha già data Amorim\"",
-      "url": "https://www.milannews.it/news/guidi-ma-modric-stare-panchina-risposta-data-amorim-629765",
-      "source": "milannews.it",
-      "date": "2026-09-14T14:48:11+00:00",
-      "summary": "Marco Guidi, giornalista, si è così espresso su La Gazzetta dello Sport sul ruolo di Luka Modric nel Milan di Amorim: \"Come cambia la vita in pochi mesi."
-    },
-    {
-      "id": "a0a680d8e25f",
-      "title": "Daniel Maldini regolarmente presente in gruppo oggi pomeriggio alla ripresa degli allenamenti del Cagliari",
-      "url": "https://www.milannews.it/news/cagliari-test-tossicologici-negativi-maldini-campo-allenamenti-629810",
-      "source": "milannews.it",
-      "date": "2026-09-14T14:36:17+00:00",
-      "summary": "(ANSA) - CAGLIARI, 14 SET - Il giocatore del Cagliari Daniel Maldini sarà \"regolarmente presente in gruppo oggi pomeriggio alla ripresa degli allenamenti in vista dei prossimi impegni della squadra\"."
-    },
-    {
       "id": "1c78d0935da2",
       "title": "GdS: System, style and security – how Modric has gone ‘off the rails’ under Amorim",
       "url": "https://sempremilan.com/how-modric-gone-off-rails-amorim",
       "source": "sempremilan.com",
       "date": "2026-09-14T14:30:00+00:00",
       "summary": "AC Milan are facing a difficult decision regarding Luka Modric and his playing time moving forward, putting everyone in a new position. In the past, Milan didn’t have to think twice about using Modric. However, it seems they will have to this season. Against Lazio, the former Real Madrid man struggl"
-    },
-    {
-      "id": "765d6ad6efb5",
-      "title": "F. Galli sicuro: \"Penso che due rossoneri difficilmente rivedranno il campo\"",
-      "url": "https://www.milannews.it/news/f-galli-sicuro-penso-rossoneri-difficilmente-rivedranno-campo-629773",
-      "source": "milannews.it",
-      "date": "2026-09-14T14:24:01+00:00",
-      "summary": "Filippo Galli, ex calciatore e atuale opinionista, si è così espresso a RadioSportiva sulle scelte di Amorim per il suo Milan: \"La mia opinione sulle scelte riguardanti Estupiñán e Loftus-Cheek dal punto di vista del  ..."
-    },
-    {
-      "id": "1af3c6cd8546",
-      "title": "Passerini: \"Inutile aspettarsi cose da Ibra: nel Milan non ci vuole stare con continuità. Cardinale dice che...\"",
-      "url": "https://www.milannews.it/news/passerini-inutile-aspettarsi-cose-ibra-milan-vuole-stare-continuita-cardinale-629819",
-      "source": "milannews.it",
-      "date": "2026-09-14T14:12:44+00:00",
-      "summary": "Carlos Passerini, giornalista del Corriere della Sera, si è così espresso sul suo canale Youtube sulla presenza di Ibrahimovic a Milanello: \"Si rivede Zlatan Ibrahimovic."
-    },
-    {
-      "id": "636ff0fffdc8",
-      "title": "A fine ottobre verrà svelato il nuovo San Siro: mantenute alcune caratteristiche dell'attuale stadio. Un cronoprogramma rigidissimo per non perdere Euro 2032",
-      "url": "https://www.milannews.it/primo-piano/ottobre-verra-svelato-san-siro-mantenute-alcune-caratteristiche-attuale-stadio-cronoprogramma-rigidi-629813",
-      "source": "milannews.it",
-      "date": "2026-09-14T14:00:43+00:00",
-      "summary": "Se la stagione sul campo è iniziata da poche settimane, Milan e Inter sono al lavoro da molto più tempo per arrivare alla costruzione del loro nuovo stadio di proprietà."
     },
     {
       "id": "8578068c83e3",
@@ -336,14 +344,6 @@
       "source": "sempremilan.com",
       "date": "2026-09-14T08:30:00+00:00",
       "summary": "Luka Modric was perhaps AC Milan’s biggest certainty last season, but this season he has become arguably the main question mark. As Tuttosport (via MilanNews) reports this morning, Saturday’s draw at Lazio has left Milan and Ruben Amorim with a big dilemma to solve: how can and should Modric be used"
-    },
-    {
-      "id": "d4e1b40df8ad",
-      "title": "GdS: Amorim ‘changes it up’ – why the first half vs. Lazio will bring ‘significant’ decisions",
-      "url": "https://sempremilan.com/amorim-changes-benfica-significant-decisions",
-      "source": "sempremilan.com",
-      "date": "2026-09-14T08:00:00+00:00",
-      "summary": "Ruben Amorim saw enough from the first half in Rome against Lazio to know that changes are needed versus Benfica, a report claims. La Gazzetta dello Sport (seen below) writes this morning that the first 45 minutes at the Stadio Olimpico is destined to leave a mark on Milan’s season. Four games into "
     },
     {
       "id": "e1e522926eeb",
