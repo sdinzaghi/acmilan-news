@@ -1,37 +1,269 @@
 {
-  "lastUpdated": "2026-09-16T13:07:22.421025+00:00",
+  "lastUpdated": "2026-09-16T17:57:26.962699+00:00",
   "articles": [
     {
-      "id": "137cabe7fd4b",
-      "title": "Milan-Benfica, una classica del calcio europeo, torna dopo 19 anni in gare ufficiali",
-      "url": "https://www.milannews.it/news/milan-benfica-classica-calcio-europeo-torna-19-gare-ufficiali-629970",
+      "id": "41e71bf12519",
+      "title": "Official: Starting XIs for Milan vs. Benfica – five changes from Lazio draw",
+      "url": "https://sempremilan.com/official-starting-xis-ac-milan-benfica-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T17:49:46+00:00",
+      "summary": "AC Milan head coach Ruben Amorim has named his starting line-up for the Europa League round one game against Benfica. Given that both Milan and Benfica are among the favourites to go deep in the competition, this is certainly a tough and intriguing test right off the bat. The Portuguese side have st"
+    },
+    {
+      "id": "0341498cf507",
+      "title": "Europa League official line-ups: Milan vs. Benfica",
+      "url": "https://football-italia.net/europa-league-official-line-ups-milan-benfica/",
+      "source": "football-italia.net",
+      "date": "2026-09-16T17:49:39+00:00",
+      "summary": "Omari Hutchinson gets his first start for Milan against Benfica in the Europa League, with..."
+    },
+    {
+      "id": "9d4f84c6d780",
+      "title": "Milan-Benfica, le formazioni ufficiali: Hutchinson-Cisse dietro Ramos, in difesa c'è Terracciano",
+      "url": "https://www.milannews.it/primo-piano/milan-benfica-formazioni-ufficiali-trequarti-hutchinson-difesa-chance-terracciano-629994",
       "source": "milannews.it",
-      "date": "2026-09-16T13:00:00+00:00",
-      "summary": "Il debutto del Milan in Europa League, in occasione della prima giornata della League Phase, mette di fronte ai rossoneri il Benfica, un'altra grande squadra storica del calcio continentale."
+      "date": "2026-09-16T17:49:22+00:00",
+      "summary": "Milan e Benfica si affronteranno questa sera a San Siro nella partita valida per la prima giornata della fase campionato di Europa League."
+    },
+    {
+      "id": "dd46cf363be9",
+      "title": "Verso Milan-Benfica: uscite le ufficiali, tutto confermato nel Diavolo",
+      "url": "https://www.milannews.it/primo-piano/milan-benfica-hutchinson-esordio-titolare-gila-modric-rabiot-riposo-629959",
+      "source": "milannews.it",
+      "date": "2026-09-16T17:48:00+00:00",
+      "summary": "LE FORMAZIONI UFFICIALI DI MILAN-BENFICA\n\n\n\nMILAN: (3-4-2-1) Maignan; Terracciano, De Winter, Pavlovic; Chukwueze, Jashari, Musah, Bartesaghi; Hutchinson, Cisse; Ramos. A disp."
+    },
+    {
+      "id": "9fe8f45898fb",
+      "title": "VIDEO MN - Il Milan è arrivato a San Siro per la partita contro il Benfica",
+      "url": "https://www.milannews.it/news/video-mn-milan-arrivato-san-siro-partita-benfica-629993",
+      "source": "milannews.it",
+      "date": "2026-09-16T17:46:40+00:00",
+      "summary": "Pochi istanti fa, il pullman con a bordo il Milan è arrivato a San Siro in vista della partita di questa sera alle 21 contro il Benfica, valida per la prima giornata della fase campionato di Europa League."
+    },
+    {
+      "id": "064040273554",
+      "title": "Europa League Liveblog: Milan vs. Benfica",
+      "url": "https://football-italia.net/europa-league-liveblog-milan-vs-benfica/",
+      "source": "football-italia.net",
+      "date": "2026-09-16T17:41:17+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "f459deb25643",
+      "title": "Dalle notti di Coppa a Euro 2028: Sky raddoppia con le nazionali",
+      "url": "https://www.milannews.it/news/tv-notti-coppa-euro-2028-sky-raddoppia-nazionali-629982",
+      "source": "milannews.it",
+      "date": "2026-09-16T17:36:31+00:00",
+      "summary": "(ANSA) - ROMA, 16 SET - Dalle notti di Coppa a Euro 2028: Sky Sport raddoppia con i diritti di trasmissione degli Europei 2028, European Qualifiers e Uefa Nations League 2026-2027."
+    },
+    {
+      "id": "a06336ce09b1",
+      "title": "Goncalo Ramos: ‘I don’t feel pressure of being most expensive Milan player’",
+      "url": "https://football-italia.net/goncalo-ramos-pressure-most-expensive-milan/",
+      "source": "football-italia.net",
+      "date": "2026-09-16T17:27:35+00:00",
+      "summary": "Goncalo Ramos insists he doesn’t ‘feel pressure for being the most expensive player’ in Milan..."
+    },
+    {
+      "id": "4d5da3b3a06c",
+      "title": "Pochesci sul Milan: \"Ha tutte mezzepunte che possono cambiare la partita\"",
+      "url": "https://www.milannews.it/news/pochesci-milan-ha-mezzepunte-possono-cambiare-partita-629995",
+      "source": "milannews.it",
+      "date": "2026-09-16T17:24:03+00:00",
+      "summary": "Mister Sandro Pochesci, intervenuto alla radio di Tuttomercatoweb."
+    },
+    {
+      "id": "39bd3aa34d0b",
+      "title": "Altafini: \"Per partite come Juve-Milan, Ramos non ha colpe\"",
+      "url": "https://www.milannews.it/news/altafini-per-partite-juve-milan-ramos-colpe-629981",
+      "source": "milannews.it",
+      "date": "2026-09-16T17:12:49+00:00",
+      "summary": "Il Milan aspetta Gonçalo Ramos e si augura che questa sera contro il Benfica possa riuscire a sbloccarsi mentalmente, in attesa che prenda le misure con il calcio italiano: il ritorno sulla scena europea potrebbe aiutarlo,  ..."
+    },
+    {
+      "id": "b7bebbc1c78f",
+      "title": "La Commissione nazionale antimonopolio messicana ha aperto un'indagine d'ufficio per presunte irregolarità nel calcio professionistico",
+      "url": "https://www.milannews.it/news/calcio-indagine-messico-pratiche-monopolistiche-629992",
+      "source": "milannews.it",
+      "date": "2026-09-16T17:01:54+00:00",
+      "summary": "(ANSA) - CITTÀ DEL MESSICO, 15 SET - La Commissione nazionale antimonopolio messicana ha aperto un'indagine d'ufficio per presunte irregolarità nel calcio professionistico."
+    },
+    {
+      "id": "4a25dc1494e3",
+      "title": "GdS: Hard work rewarded – Terracciano’s path from relegation to a chance in Europe",
+      "url": "https://sempremilan.com/terracciano-path-relegation-start-europe",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T17:00:00+00:00",
+      "summary": "Looking at the predicted line-ups for AC Milan’s Europa League opener against Benfica, Filippo Terracciano’s name is a bit of a surprise. La Gazzetta dello Sport have retraced the steps of an interesting summer for Terracciano. On May 24, Cremonese’s relegation to Serie B meant their €3.5m buy-out o"
+    },
+    {
+      "id": "25dd8c05b9a5",
+      "title": "Verso Salisburgo-Milan: biglietti per il settore ospiti in vendita da domani",
+      "url": "https://www.milannews.it/news/salisburgo-milan-biglietti-settore-ospiti-vendita-domani-629990",
+      "source": "milannews.it",
+      "date": "2026-09-16T16:48:46+00:00",
+      "summary": "Il sito ufficiale del Milan riporta tutte le informazioni sulla vendita dei biglietti per il settore ospiti per la partita di Europa League in casa del Salisburgo in programma il prossimo 15 ottobre: \"AC Milan comunica che i biglietti  ..."
+    },
+    {
+      "id": "a11268ae4d4b",
+      "title": "Lecce, verso il Milan: Berisha, Gandelman e Geubbels hanno svolto un lavoro personalizzato",
+      "url": "https://www.milannews.it/l-avversario/lecce-milan-berisha-gandelman-geubbels-svolto-lavoro-personalizzato-629991",
+      "source": "milannews.it",
+      "date": "2026-09-16T16:36:33+00:00",
+      "summary": "Dopo la convincente vittoria ottenuta contro il Monza nella quarta giornata di campionato, il Lecce di Eusebio Di Francesco è già proiettato verso il prossimo impegno di Serie A."
+    },
+    {
+      "id": "e23f3c24b49c",
+      "title": "Reports: Milan, Roma and Man Utd circle as Real Madrid could sanction forward’s exit",
+      "url": "https://sempremilan.com/milan-roma-manchester-united-real-madrid-endrick",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T16:30:00+00:00",
+      "summary": "AC Milan’s chances of signing Endrick from Real Madrid in the winter window are growing with each passing week. José Mourinho brought Endrick on in the dying moments of the match against Elche, which Real Madrid won in the last gasp thanks to a goal from Carlos Espí. It was his first appearance of t"
+    },
+    {
+      "id": "ea2636197475",
+      "title": "Altra sconfitta per il Tottenham. De Zerbi: \"Frustrato, ma credo in questa squadra\"",
+      "url": "https://www.milannews.it/news/calcio-tottenham-perde-ancora-de-zerbi-frustrato-credo-squadra-629987",
+      "source": "milannews.it",
+      "date": "2026-09-16T16:24:14+00:00",
+      "summary": "(ANSA) - LONDRA, 16 SET - Il Tottenham non riesce a invertire la rotta: gli Spurs sono già fuori dalla Coppa di Lega, eliminati dal Liverpool 3-1, e continuano a rimandare l'appuntamento con la prima vittoria e il primo gol in Premier Leag ..."
+    },
+    {
+      "id": "415e7d21b495",
+      "title": "Ramos crede nel Milan: \"Abbiamo le qualità per vincere ogni competizione a cui partecipiamo\"",
+      "url": "https://www.milannews.it/news/ramos-crede-milan-abbiamo-qualita-vincere-competizione-partecipiamo-629986",
+      "source": "milannews.it",
+      "date": "2026-09-16T16:12:33+00:00",
+      "summary": "Gonçalo Ramos, ai microfoni del sito ufficiale dell'UEFA, ha raccontato: \"Essere sempre preparato, credere nel lavoro e nelle mie capacità è una delle mie qualità."
+    },
+    {
+      "id": "ad6989344b80",
+      "title": "Reports: James Fontanella-Khan to join Milan from the Financial Times – his role",
+      "url": "https://sempremilan.com/james-fontanella-khan-milan-financial-times",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T16:00:00+00:00",
+      "summary": "AC Milan have announced a new key addition to their operational structure, according to a report: James Fontanella-Khan. According to Calcio e Finanza, Fontanella-Khan – who is currently US Finance Editor of the Financial Times – will leave the British financial newspaper after more than 20 years to"
+    },
+    {
+      "id": "bbabbe5dd1e5",
+      "title": "Serie D, le formazioni ufficiali di Milan Futuro-Brusaporto",
+      "url": "https://www.milannews.it/milan-futuro/serie-d-formazioni-ufficiali-milan-futuro-brusaporto-629998",
+      "source": "milannews.it",
+      "date": "2026-09-16T15:59:03+00:00",
+      "summary": "Oggi alle 18 torna in campo il Milan Futuro nel primo turno infrasettimanale della Serie D 2026/27: i rossoneri di mister Navarro affronteranno il Brusaporto allo Stadio Chinetti di Solbiate Arno."
+    },
+    {
+      "id": "cad59061beaf",
+      "title": "Serie A, tutte le designazione della 5ª giornata: Massa per Roma-Inter, La Penna per il Milan",
+      "url": "https://www.milannews.it/news/serie-a-designazione-5a-giornata-massa-roma-inter-penna-milan-629976",
+      "source": "milannews.it",
+      "date": "2026-09-16T15:48:38+00:00",
+      "summary": "Tutte le designazioni arbitrali della quinta giornata del campionato di Serie A Enilive che si giocherà tra venerdì 18 e domenica 20 settembre, l'ultimo turno prima della pausa per le Nazionali che durerà due settim ..."
+    },
+    {
+      "id": "ee2cc47d84f0",
+      "title": "Benfica, Nuno Gomes avverte: \"Per il Milan sarà come andare dal dentista\"",
+      "url": "https://www.milannews.it/news/benfica-nuno-gomes-avverte-per-milan-andare-dentista-629977",
+      "source": "milannews.it",
+      "date": "2026-09-16T15:36:04+00:00",
+      "summary": "Questa sera il Milan scende in campo per l'esordio stagionale europeo."
+    },
+    {
+      "id": "9efb4bd9ee23",
+      "title": "Lecce star Tiago Gabriel previews Milan meeting and addresses transfer rumours",
+      "url": "https://sempremilan.com/lecce-tiago-gabriel-preview-milan-rumours",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T15:30:00+00:00",
+      "summary": "Tiago Gabriel has looked ahead to Sunday’s game between AC Milan and Lecce at San Siro, also responding to the transfer speculation. Gabriel got himself on the scoresheet for the second time this season during Sunday’s big win over Monza. The Salento side won 3-2 to move up to 12th in the table, bea"
+    },
+    {
+      "id": "2a08be5e92d2",
+      "title": "L'indiscrezione su Ronaldo: pregò a Fatima affinché Messi perdesse i Mondiali",
+      "url": "https://www.milannews.it/news/edizioni-san-paolo-rivela-ronaldo-prego-fatima-messi-perdesse-mondiali-629980",
+      "source": "milannews.it",
+      "date": "2026-09-16T15:24:42+00:00",
+      "summary": "(ANSA) - ROMA, 16 SET - Una preghiera si', ma al contrario: protagonista Cristiano Ronaldo, che secondo quanto raccontato da 'Maria con Te', rivista mariana del gruppo editoriale San Paolo, da devoto della Madonna di Fatima avrebbe chiest ..."
+    },
+    {
+      "id": "50eeb61cee55",
+      "title": "Europa League, tra oggi e domani si gioca la prima giornata: ecco tutte le partite",
+      "url": "https://www.milannews.it/news/europa-league-domani-gioca-giornata-partite-629988",
+      "source": "milannews.it",
+      "date": "2026-09-16T15:12:20+00:00",
+      "summary": "Tra oggi e domani si giocherà la prima giornata della fase campionato dell'Europa League 2026-2027."
+    },
+    {
+      "id": "9ff4f5a25c84",
+      "title": "Opta: Milan given less than 6% chance of Europa League success – the favourites",
+      "url": "https://sempremilan.com/milan-less-than-6-chance-europa-league",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T15:00:00+00:00",
+      "summary": "AC Milan do not have a great chance of winning this season’s Europa League, at least if the ‘Opta Supercomputer’ is to be believed. Milan begin their 2026-27 European campaign tonight with a game against Benfica, one that certainly has more of a Champions League feel to it given the six previous mee"
+    },
+    {
+      "id": "4ed627d3088c",
+      "title": "Ramos: \"Io e Amorim abbiamo un modo simile di intendere il calcio. Modric? E' ancora più speciale di quanto pensassi\"",
+      "url": "https://www.milannews.it/news/ramos-io-amorim-simile-intendere-calcio-modric-speciale-pensassi-629984",
+      "source": "milannews.it",
+      "date": "2026-09-16T14:59:11+00:00",
+      "summary": "Nell'intervista rilasciata al sito ufficiale dell'UEFA, Gonçalo Ramos ha parlato di Ruben Amorim, del suo idolo Zlatan Ibrahimovic e di Luka Modric: \n\nSull'impatto con Amorim: \"È stato molto positivo e, in un cer ..."
+    },
+    {
+      "id": "cfa35b31fc49",
+      "title": "Milan-Benfica, info mobilità da ATM: M1 e M5 chiudono più tardi",
+      "url": "https://www.milannews.it/news/milan-benfica-info-mobilita-atm-m1-m5-chiudono-tardi-629978",
+      "source": "milannews.it",
+      "date": "2026-09-16T14:48:58+00:00",
+      "summary": "In occasio di Milan-Benfica di questa sera ATM ha previsto un potenziamento di alcune linee del servizio per facilitare gli spostamenti dei tifosi da e per lo stadio di San Siro. Nel dettaglio:\n\n- M1."
+    },
+    {
+      "id": "019d2c1c5986",
+      "title": "Milan, James Fontanella-Khan sarà il nuovo Chief Corporate Affairs Officer",
+      "url": "https://www.milannews.it/news/milan-james-fontanella-khan-chief-corporate-affairs-officer-629989",
+      "source": "milannews.it",
+      "date": "2026-09-16T14:37:21+00:00",
+      "summary": "Nuovo ingresso di peso nella struttura operativa del Milan."
+    },
+    {
+      "id": "abaaaca6ed5a",
+      "title": "GdS: Valuable points available – why Milan and Juventus can ‘help themselves’ in the Europa League",
+      "url": "https://sempremilan.com/why-milan-juventus-help-europa-league",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T14:30:00+00:00",
+      "summary": "AC Milan and Juventus go into the Europa League with the obligation to win as many games as possible and to go as far as they can. La Gazzetta dello Sport write how it’s no longer just a matter of winning or losing, of groups and simple qualification as it was before. For some years […]\nThe post GdS"
+    },
+    {
+      "id": "07d6c1d66abd",
+      "title": "Ramos e la maglia numero 9 del Milan: \"E' pesante da indossare, ma sono orgoglioso di averla ricevuta\"",
+      "url": "https://www.milannews.it/news/ramos-maglia-numero-9-milan-e-pesante-indossare-orgoglioso-averla-ricevuta-629983",
+      "source": "milannews.it",
+      "date": "2026-09-16T14:23:08+00:00",
+      "summary": "Intervistato dal sito dell'UEFA, Gonçalo Ramos ha parlato così della sua scelta di trasferirsi al Milan: \"La dimensione del Milan è stata sicuramente un fattore importante, ma per me contano molto anche la filosofia calc ..."
+    },
+    {
+      "id": "261d0ade60df",
+      "title": "Six previous meetings without defeat: All the key stats ahead of Milan vs. Benfica",
+      "url": "https://sempremilan.com/all-key-stats-ac-milan-benfica-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T14:00:00+00:00",
+      "summary": "AC Milan begin their 2026-27 Europa League campaign at San Siro, with over 65,000 fans expected for the visit of SL Benfica. Milan have faced Benfica six times in their history with a good record, having won four and drawn two. They have never lost to the Eagles in previous encounters, which have al"
+    },
+    {
+      "id": "d5eb055782ce",
+      "title": "Rui Costa looks ahead to San Siro return for Milan-Benfica: “A mix of contrasting feelings”",
+      "url": "https://sempremilan.com/rui-costa-san-siro-return-milan-benfica",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T13:30:00+00:00",
+      "summary": "Tonight’s game between AC Milan and Benfica carries some extra meaning for a few involved, and Rui Costa is among them. Having arrived for a big fee from Fiorentina, Rui Costa made history with Milan. During his three seasons with the Rossoneri, he won a Scudetto, an Italian Cup, an Italian Supercop"
     },
     {
       "id": "fb0fd5afe676",
-      "title": "Alberini discusses ‘fascinating’ Benfica match, impressions of Amorim and ‘decisive’ Pulisic",
+      "title": "Albertini discusses ‘fascinating’ Benfica match, impressions of Amorim and ‘decisive’ Pulisic",
       "url": "https://sempremilan.com/albertini-fascinating-benfica-amorim-pulisic",
       "source": "sempremilan.com",
       "date": "2026-09-16T13:00:00+00:00",
       "summary": "Demetrio Albertini believes that the Europa League must be an arena for AC Milan’s younger players to shine. Milan are back on the European stage and they begin with a tough first test against Benfica at San Siro. Both the Rossoneri and the Eagles are among the favourites to win the competition, whi"
-    },
-    {
-      "id": "1074bff5c8b0",
-      "title": "Rui Costa: \"Ecco cosa auguro ad Amorim. Ramos grandissimo giocatore, Moreira bravissimo\"",
-      "url": "https://www.milannews.it/news/rui-costa-ecco-auguro-amorim-ramos-grandissimo-giocatore-moreira-bravissimo-629971",
-      "source": "milannews.it",
-      "date": "2026-09-16T12:48:02+00:00",
-      "summary": "Manuel Rui Costa oggi vivrà una partita del cuore: a San Siro alle ore 21, in occasione della prima giornata di League Phase  di Europa League, si scontreranno Milan e Benfica."
-    },
-    {
-      "id": "01540a22961f",
-      "title": "Milan-Lecce, arbitrerà La Penna. Al Var Maggioni e Santoro",
-      "url": "https://www.milannews.it/l-arbitro/milan-lecce-arbitrera-penna-var-maggioni-santoro-629975",
-      "source": "milannews.it",
-      "date": "2026-09-16T12:36:00+00:00",
-      "summary": "La testa del Milan è tutta orientata alla sfida di questa sera contro il Benfica, in occasione dell'esordio della formazione rossonera nella League Phase dell'Europa League che si terrà a San Siro."
     },
     {
       "id": "155e55300f4b",
@@ -42,38 +274,6 @@
       "summary": "Paolo Scaroni offered a few words to journalists while meeting with a delegation from Benfica for the customary UEFA lunch. Milan are back on the European stage, and with it comes the return of the lunches between the managements of the Rossoneri and their opponent. Representatives of Milan and Benf"
     },
     {
-      "id": "81954e651bee",
-      "title": "Nuno Gomes: \"Cisse farà strada: ha l'irriverenza del grande campione\"",
-      "url": "https://www.milannews.it/news/nuno-gomes-cisse-strada-irriverenza-campione-629967",
-      "source": "milannews.it",
-      "date": "2026-09-16T12:24:26+00:00",
-      "summary": "L'esordio del Milan nell'Europa League 2026/2027 sarà subito vertiginoso: a San Siro arriva il Benfica, una delle sfide più ostiche nel calendario rossonero europeo."
-    },
-    {
-      "id": "418630a06105",
-      "title": "Milan-Benfica, arbitra un australiano all'esordio in una fase finale di un torneo europeo per club",
-      "url": "https://www.milannews.it/news/milan-benfica-arbitra-australiano-esordio-fase-finale-torneo-europeo-club-629966",
-      "source": "milannews.it",
-      "date": "2026-09-16T12:12:07+00:00",
-      "summary": "La partita di questa sera tra Milan e Benfica sarà arbitrata da un direttore di gara australiano. A fischiare a San Siro nella gara d'esordio della League Phase di Europa League sarà il signor Jarred Gillett."
-    },
-    {
-      "id": "dd46cf363be9",
-      "title": "Verso Milan-Benfica: Hutchinson e F.Terracciano verso la titolarità",
-      "url": "https://www.milannews.it/primo-piano/milan-benfica-hutchinson-esordio-titolare-gila-modric-rabiot-riposo-629959",
-      "source": "milannews.it",
-      "date": "2026-09-16T12:10:00+00:00",
-      "summary": "PROBABILE FORMAZIONE MILAN (3-4-2-1): MAIGNAN; F. TERRACCIANO, DE WINTER, PAVLOVIC; CHUKWUEZE, MUSAH, JASHARI, BARTESAGHI; HUTCHINSON, CISSE; RAMOS."
-    },
-    {
-      "id": "408a3c437e01",
-      "title": "L'augurio di Rui Costa: \"Speriamo di ritrovare il Milan in finale\"",
-      "url": "https://www.milannews.it/news/augurio-rui-costa-speriamo-ritrovare-milan-finale-629969",
-      "source": "milannews.it",
-      "date": "2026-09-16T12:00:00+00:00",
-      "summary": "Non è una partita come le altre quella di questa sera per Manuel Rui Costa."
-    },
-    {
       "id": "986b5ae02af1",
       "title": "Big opportunities and the ex returns: The five key battles in Milan vs. Benfica",
       "url": "https://sempremilan.com/five-key-battles-milan-benfica-2026-27",
@@ -82,52 +282,12 @@
       "summary": "AC Milan and Benfica kick start their Europa League campaigns at San Siro tonight in a fixture that has only been a Champions League one throughout history. Milan will return to the European stage with perhaps their toughest test in this league phase, at home against one of the other pre-tournament "
     },
     {
-      "id": "abb1045bd9c6",
-      "title": "Bologna, Tedesco si dice amareggiato dopo l'esonero: le sue dichiarazioni",
-      "url": "https://www.milannews.it/news/calcio-tedesco-esonero-dispiaciuto-amareggiato-629962",
-      "source": "milannews.it",
-      "date": "2026-09-16T11:48:50+00:00",
-      "summary": "(ANSA) - BOLOGNA, 16 SET - \"Sono dispiaciuto e amareggiato, avrei voluto ripagare la città per l'affetto cho ricevuto\"."
-    },
-    {
-      "id": "3e8c256ebddb",
-      "title": "Di Marzio: \"Dei nuovi Moreira è quello che mi incuriosisce di più\"",
-      "url": "https://www.milannews.it/news/marzio-dei-moreira-incuriosisce-piu-629964",
-      "source": "milannews.it",
-      "date": "2026-09-16T11:36:34+00:00",
-      "summary": "Negli occhi dei tifosi del Milan ci sono ancora i due gol in due minuti di Diego Moreira, grazie ai quali il Diavolo ha pareggiato una gara che si era messa malissimo con la Lazio."
-    },
-    {
       "id": "28a02a61a254",
       "title": "GdS: ‘More than a derby’ – Amorim, Ramos and Moreira gear up to face old club Benfica",
       "url": "https://sempremilan.com/amorim-ramos-moreira-more-derby-benfica",
       "source": "sempremilan.com",
       "date": "2026-09-16T11:30:00+00:00",
       "summary": "It will be a special match for Rúben Amorim, Gonçalo Ramos and Diego Moreira tonight, all of whom are connected to Benfica. La Gazzetta dello Sport recall that all three came up through Benfica’s youth academy, and the Lisbon club remains close to their hearts. Tonight will be a unique occasion, one"
-    },
-    {
-      "id": "58b358b23b2f",
-      "title": "VIDEO MN - Rui Costa: \"Sensazioni contrastanti, è molto speciale. Amorim non ha bisogno di consigli, Ramos fortissimo\"",
-      "url": "https://www.milannews.it/news/video-mn-rui-costa-sensazioni-contrastanti-speciale-amorim-bisogno-consigli-ramos-fortissimo-629968",
-      "source": "milannews.it",
-      "date": "2026-09-16T11:24:00+00:00",
-      "summary": "Manuel Rui Costa, grande ex calciatore del Milan e presidente del Benfica, ha parlato ai microfoni dei giornalisti presenti in occasione del pranzo UEFA tra le delegazioni dei due club che oggi si affronteranno a San Siro."
-    },
-    {
-      "id": "e806a4848ea5",
-      "title": "La benedizione di Nuno Gomes: \"Ramos in Serie A può fare davvero bene\"",
-      "url": "https://www.milannews.it/news/benedizione-nuno-gomes-ramos-serie-davvero-bene-629956",
-      "source": "milannews.it",
-      "date": "2026-09-16T11:12:08+00:00",
-      "summary": "Gonçalo Ramos sta ancora prendendo le misure con il calcio italiano."
-    },
-    {
-      "id": "186a46d851b0",
-      "title": "Demetrio Albertini presenta il suo nuovo libro: \"Le lezioni del campo\"",
-      "url": "https://www.milannews.it/news/le-lezioni-campo-libro-albertini-italia-talento-e-valorizzato-629945",
-      "source": "milannews.it",
-      "date": "2026-09-16T11:00:00+00:00",
-      "summary": "(ANSA) - ROMA, 15 SET - Un incontro per ricordare il passato e analizzare il presente."
     },
     {
       "id": "5e82255c99d3",
@@ -146,30 +306,6 @@
       "summary": "The full selection of referees, assistants, fourth officials and VARs have been announced for the..."
     },
     {
-      "id": "4a167dcf568c",
-      "title": "VIDEO MN - Scaroni al pranzo UEFA: \"Noi vogliamo sempre vincere\"",
-      "url": "https://www.milannews.it/news/mn-scaroni-pranzo-uefa-noi-vogliamo-vincere-629965",
-      "source": "milannews.it",
-      "date": "2026-09-16T10:55:00+00:00",
-      "summary": "Torna l'Europa nella Milano rossonera e con essa tornano i pranzi UEFA tra le varie delegazioni."
-    },
-    {
-      "id": "d07875159035",
-      "title": "Vocalelli crede in Amorim: \"Le premesse per migliorare ci sono tutte\"",
-      "url": "https://www.milannews.it/news/vocalelli-crede-amorim-le-premesse-migliorare-tutte-629960",
-      "source": "milannews.it",
-      "date": "2026-09-16T10:48:50+00:00",
-      "summary": "Un inizio di campionato da 8 punti in classifica, considerate tre trasferte di cui due a Torino e una a Roma con la Lazio, può essere considerato un buon bottino per il Milan di Ruben Amorim."
-    },
-    {
-      "id": "b55eb9d4f889",
-      "title": "Condò sul Milan in Europa League: \"Sarà bene che Amorim faccia giocare i migliori\"",
-      "url": "https://www.milannews.it/news/condo-milan-europa-league-sara-amorim-giocare-migliori-629947",
-      "source": "milannews.it",
-      "date": "2026-09-16T10:36:38+00:00",
-      "summary": "Ai blocchi di partenza dell'Europa League che inizia questa sera, con il Milan impegnato a San Siro alle ore 21 contro il Benfica, la squadra rossonera si presenta sicuramente come una delle formazioni che per storia e ambizione pu ..."
-    },
-    {
       "id": "4bd545dea4ee",
       "title": "CM: The chance to show €50m worth – why Amorim will start Hutchinson vs. Benfica",
       "url": "https://sempremilan.com/hutchinson-benfica-chance-show-worth-50m",
@@ -178,52 +314,12 @@
       "summary": "Omari Hutchinson will certainly get some playing time in the Europa League against Benfica, and could even start. According to Calciomercato.com, the Milan head coach Ruben Amorim needs to resolve his final doubts regarding the starting line-up he will field against his old club, but is tempted by t"
     },
     {
-      "id": "b3908665c971",
-      "title": "Turnover in mezzo: Modric-Rabiot verso la panchina, chi schiera Amorim contro il Benfica",
-      "url": "https://www.milannews.it/news/turnover-mezzo-modric-rabiot-panchina-schiera-amorim-benfica-629958",
-      "source": "milannews.it",
-      "date": "2026-09-16T10:24:19+00:00",
-      "summary": "Nell'ultima partita del Milan, sabato contro la Lazio, per la prima volta Ruben Amorim ha schierato la coppia Luka Modric-Adrien Rabiot in mezzo al campo."
-    },
-    {
-      "id": "8dfdb1f0bdfb",
-      "title": "Di Marzio: \"Milan-Benfica da Champions più che da Europa League\"",
-      "url": "https://www.milannews.it/news/marzio-milan-benfica-champions-europa-league-629955",
-      "source": "milannews.it",
-      "date": "2026-09-16T10:12:39+00:00",
-      "summary": "Questa sera alle ore 21 il Milan farà il suo esordio stagionale in Europa League. A San Siro verrà a far visita il Benfica, formazione in cui hanno giocato Ruben Amorim (per una vita), Gonçalo Ramos e Diego Moreira."
-    },
-    {
       "id": "25f9c0d164e9",
       "title": "GdS: Predicted XIs for Milan vs. Benfica – no Pulisic, Modric, Moreira or Gila",
       "url": "https://sempremilan.com/gazzetta-predicted-xis-milan-benfica-2026-27",
       "source": "sempremilan.com",
       "date": "2026-09-16T10:00:00+00:00",
       "summary": "AC Milan are back on the European stage this evening after an absence of 18 months, as they take on Benfica at San Siro. Milan are unbeaten in the league having won two and drawn two, but attention now turns to continental competition and the first game against one of the other favourites to lift […"
-    },
-    {
-      "id": "8fa6cd994e62",
-      "title": "PROBABILE FORMAZIONE - Verso Milan-Benfica: possibili sorprese in difesa e a centrocampo. C'è Hutchinson",
-      "url": "https://www.milannews.it/news/probabile-formazione-milan-benfica-pulisic-moreira-modric-629828",
-      "source": "milannews.it",
-      "date": "2026-09-16T09:55:00+00:00",
-      "summary": "Ci siamo per l'esordio europeo del Milan di Ruben Amorim."
-    },
-    {
-      "id": "75a199a4d3fc",
-      "title": "Nuno Gomes avverte: \"Il Milan di Amorim può arrivare lontano. Credetemi\"",
-      "url": "https://www.milannews.it/news/nuno-gomes-avverte-il-milan-amorim-arrivare-lontano-credetemi-629953",
-      "source": "milannews.it",
-      "date": "2026-09-16T09:48:54+00:00",
-      "summary": "L'esperienza vincente di Ruben Amorim con lo Sporting Club di Lisbona ha lasciato profondamente il segno in Portogallo, tanto che sono davvero in molti quelli che credono che il vero tecnico sia quello visto alla guida dei Leo ..."
-    },
-    {
-      "id": "8687a67a1a0f",
-      "title": "Turno di riposo per Mario Gila: con il Benfica in pole c'è Filippo Terracciano",
-      "url": "https://www.milannews.it/news/turno-riposo-mario-gila-benfica-pole-filippo-terracciano-629957",
-      "source": "milannews.it",
-      "date": "2026-09-16T09:36:46+00:00",
-      "summary": "Dopo le prime quattro partite ufficiali di campionato, l'acquisto con il miglior impatto è stato sicuramente Mario Gila."
     },
     {
       "id": "9eb4e3a6a25f",
@@ -282,84 +378,12 @@
       "summary": "La Gazzetta dello Sport  Europe calls  Milan back in the cup after 575 days  Benfica..."
     },
     {
-      "id": "41716afeb88a",
-      "title": "Sky: Hutchinson, Jashari and Bartesaghi – Amorim expected to name several changes in Milan-Benfica",
-      "url": "https://sempremilan.com/amorim-expected-name-several-changes-milan-benfica",
-      "source": "sempremilan.com",
-      "date": "2026-09-15T18:00:00+00:00",
-      "summary": "It seemed pretty likely that Ruben Amorim would make a few changes for the Europa League clash against Benfica. However, the AC Milan manager has now turned that up to the max. With few chances to rest given this season, Amorim is now expected to offer a few opportunities to new starters against Ben"
-    },
-    {
-      "id": "ee478a22994a",
-      "title": "GdS: Stats, stars and Silva – the dangers that Milan will face against Benfica",
-      "url": "https://sempremilan.com/dangers-milan-will-face-benfica",
-      "source": "sempremilan.com",
-      "date": "2026-09-15T17:30:00+00:00",
-      "summary": "AC Milan host Benfica at San Siro tomorrow night and it’s fair to suggest that it’ll be a big test as they re-enter the Europa League. Not qualifying for the Champions League was deemed a chance to face ‘lesser’ opponents. However, Benfica are very comparable to Milan in being a team that knows the "
-    },
-    {
       "id": "8c3beebdfd45",
       "title": "Milan defender Gila: ‘An honour to play with and learn from Modric’",
       "url": "https://football-italia.net/milan-defender-gila-honour-to-play-with-modric/",
       "source": "football-italia.net",
       "date": "2026-09-15T17:05:00+00:00",
       "summary": "Milan centre-back Mario Gila is still adjusting to the idea that a player he grew..."
-    },
-    {
-      "id": "0ca547c06cef",
-      "title": "Europa League preview: AC Milan vs. Benfica – Team news, opposition insight, stats and prediction",
-      "url": "https://sempremilan.com/preview-ac-milan-benfica-team-news-prediction-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-09-15T17:00:00+00:00",
-      "summary": "AC Milan will begin their 2026-27 Europa League campaign when they face SL Benfica at San Siro on Wednesday night. Milan are unbeaten in the league having won two (against Torino and Venezia) and drawn two (against Juventus and Lazio), but attention now turns to continental competition and against o"
-    },
-    {
-      "id": "006033e2c228",
-      "title": "Tuttosport: Cardinale expected to miss Europa League opener – Ibrahimovic ‘could be’ present",
-      "url": "https://sempremilan.com/cardinale-expected-miss-europa-league-opener",
-      "source": "sempremilan.com",
-      "date": "2026-09-15T16:30:00+00:00",
-      "summary": "Tomorrow night, AC Milan will begin their Europa League campaign against Benfica in front of a packed San Siro crowd.  The game against Benfica is a huge one. It’s not a chance to dip their toes into the waters of the Europa League. Instead, it’s a difficult welcome back to European competition, not"
-    },
-    {
-      "id": "b03dfac68ac1",
-      "title": "Costacurta feels Pavlovic has Baresi element to his game: “Brings so much energy”",
-      "url": "https://sempremilan.com/costacurta-feels-pavlovic-has-baresi-element",
-      "source": "sempremilan.com",
-      "date": "2026-09-15T16:00:00+00:00",
-      "summary": "Today, Billy Costacurta explained how AC Milan defender Strahinja Pavlovic doesn’t share any characteristics with him, but shares some with Franco Baresi. Pavlovic’s journey at Milan has been a strange one. In his first season, there were regular questions about him and whether he was up to the stan"
-    },
-    {
-      "id": "97c5f7fe62bd",
-      "title": "Tuttosport: Ibrahimovic expected to remain ‘low-key’ after avoiding lunch with Amorim",
-      "url": "https://sempremilan.com/ibrahimovic-remain-low-key-avoiding-amorim-lunch",
-      "source": "sempremilan.com",
-      "date": "2026-09-15T15:30:00+00:00",
-      "summary": "Zlatan Ibrahimovic returned to Milanello yesterday, but reports would suggest that he’s not returning to a major role at AC Milan. Last season, Ibrahimovic was a regular at Milanello, just as he had been in previous seasons. However, cracks started to form and by the end, he and Massimiliano Allegri"
-    },
-    {
-      "id": "f902e4c79e04",
-      "title": "GdS: How the Europa League can help Milan bridge a €100m loss – why the final must be reached",
-      "url": "https://sempremilan.com/how-europa-league-help-milan-bridge-100m-loss",
-      "source": "sempremilan.com",
-      "date": "2026-09-15T15:00:00+00:00",
-      "summary": "AC Milan will operate at a loss with the Europa League success this season, compared to if they’d qualified for the Champions League and the figures have been looked at. Not qualifying for Europe’s top competition was always going to affect Milan – that was an unavoidable fact. However, the finances"
-    },
-    {
-      "id": "815c8113beb2",
-      "title": "Opposition insight for Milan-Benfica: Form, injuries, predicted XI and more",
-      "url": "https://sempremilan.com/opposition-insight-milan-benfica-form-predicted-xi",
-      "source": "sempremilan.com",
-      "date": "2026-09-15T14:30:00+00:00",
-      "summary": "There will be a Champions League flavour to AC Milan’s Europa League opener on Wednesday night as Benfica visit San Siro. The game in round one might well be the showpiece tie of the entire league phase given the history of both clubs, who as mentioned have pedigree more recognised in the biggest Eu"
-    },
-    {
-      "id": "5dbf499a31c4",
-      "title": "Gila talks ‘dream’ move, iconic Milan defenders, mentality and Amorim’s style",
-      "url": "https://sempremilan.com/gila-dream-milan-iconic-defenders-amorim",
-      "source": "sempremilan.com",
-      "date": "2026-09-15T14:00:00+00:00",
-      "summary": "Mario Gila has shed some light on his path to joining AC Milan, insisting the Europa League is a target they must aim for. Gila was one of the summer signings that many Milan fans were excited about given how well he had done at Lazio. Sure enough, after four games in Serie A he […]\nThe post Gila ta"
     },
     {
       "id": "d6d78ef55afc",
@@ -456,30 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-12T20:56:05+00:00",
       "summary": "Mattia Zaccagni believes Lazio are buying into Gennaro Gattuso’s methods, even if the 2-2 draw..."
-    },
-    {
-      "id": "de528f706ded",
-      "title": "Gattuso on Lazio fan boycott: ‘It feels like the COVID period’",
-      "url": "https://football-italia.net/gattuso-on-lazio-fan-boycott-after-milan-draw/",
-      "source": "football-italia.net",
-      "date": "2026-09-12T19:02:30+00:00",
-      "summary": "Gennaro Gattuso is proud of his Lazio side after their 2-2 draw with Milan, claiming..."
-    },
-    {
-      "id": "7ecee4e31c86",
-      "title": "Serie A Liveblog: Lazio vs. Milan, Genoa vs. Frosinone, Atalanta vs. Cagliari",
-      "url": "https://football-italia.net/serie-a-live-lazio-milan-gen-fro-atalanta-cag/",
-      "source": "football-italia.net",
-      "date": "2026-09-12T18:40:30+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "843dc651d798",
-      "title": "Amorim: ‘Milan completely different, but need control for Modric’ to work",
-      "url": "https://football-italia.net/amorim-milan-completely-different-modric-need/",
-      "source": "football-italia.net",
-      "date": "2026-09-12T18:35:44+00:00",
-      "summary": "Ruben Amorim admits Milan were ‘a completely different team’ when clawing Lazio back from 2-0..."
     }
   ]
 }
