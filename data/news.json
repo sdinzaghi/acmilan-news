@@ -1,21 +1,221 @@
 {
-  "lastUpdated": "2026-09-16T21:02:05.024536+00:00",
+  "lastUpdated": "2026-09-17T00:04:23.777387+00:00",
   "articles": [
     {
-      "id": "aecab5415abc",
-      "title": "LIVE MN - Milan-Benfica (0-2): rossoneri sconfitti all'esordio in Europa League",
-      "url": "https://www.milannews.it/primo-piano/live-mn-milan-benfica-0-0-breve-calcio-inizio-san-siro-630004",
+      "id": "4bcef16ebac7",
+      "title": "Amorim fa una lista infinita di difetti del Milan: \"Non è solo mancanza di energia, è una questione di organizzazione, qualità di palleggio e comprensione dei momenti\"",
+      "url": "https://www.milannews.it/news/amorim-lista-infinita-difetti-milan-non-mancanza-energia-questione-organizzazione-qualita-palleggio-630046",
       "source": "milannews.it",
-      "date": "2026-09-16T20:58:00+00:00",
-      "summary": "FINE PARTITA\n\nIl Benfica espugna San Siro per la prima volta nella sua storia, vincendo di fatti una partita gestita con merito e più attenzione. Sblocca la gara Lukebakio nel primo tempo, il migliore in campo per i suoi."
+      "date": "2026-09-16T23:09:53+00:00",
+      "summary": "Ruben Amorim, allenatore del Milan, è presente in conferenza stampa al termine di Milan-Benfica, sfida valida per la prima giornata della League Phase di Europa League."
     },
     {
-      "id": "d6ecde262cc5",
-      "title": "Milan-Benfica 0-2, voti e pagelle: insufficienze tra il 4.5 e il 5. Bruttissimi",
-      "url": "https://www.milannews.it/pagelle/milan-benfica-0-2-voti-pagelle-insufficienze-4-5-5-bruttissimi-630018",
+      "id": "4c892a6bae19",
+      "title": "Amorim: \"Tutti erano nervosi, compresi i tifosi, ed è stata una partita difficile. Dobbiamo migliorare in ogni situazione\"",
+      "url": "https://www.milannews.it/news/amorim-tutti-nervosi-compresi-tifosi-partita-difficile-dobbiamo-migliorare-situazione-630044",
       "source": "milannews.it",
-      "date": "2026-09-16T20:57:00+00:00",
-      "summary": "È amarissimo e preoccupante l’esordio del Milan in Europa League. Il Benfica si impone per 0-2 senza mai soffrire davvero i rossoneri."
+      "date": "2026-09-16T23:05:36+00:00",
+      "summary": "Ruben Amorim, allenatore del Milan, si è così espresso a CBS Sports Golazo al termine del match perso contro il Benfica: \"Il primo tempo e l'inizio del secondo tempo ci hanno condannati."
+    },
+    {
+      "id": "223d347138a2",
+      "title": "\"Se facciamo queste merdate...\": Jashari ci va giù pesante dopo Milan-Benfica",
+      "url": "https://www.milannews.it/news/se-merdate-jashari-giu-pesante-milan-benfica-630045",
+      "source": "milannews.it",
+      "date": "2026-09-16T23:00:24+00:00",
+      "summary": "Ardon Jashari ha parlato a Sky Sport dopo la sconfitta per 2-0 contro il Benfica a San Siro."
+    },
+    {
+      "id": "d7bf7a0efff6",
+      "title": "Amorim spiega: \"Tanti cambi rispetto a Roma? Ecco come stavano Rabiot e Moreira...\"",
+      "url": "https://www.milannews.it/news/bozza-amorim-630037",
+      "source": "milannews.it",
+      "date": "2026-09-16T22:50:00+00:00",
+      "summary": "Dopo l'esordio negativo in Europa League, culminato con la sconfitta casalinga contro il Benfica, Ruben Amorim ha parlato così a Sky Sport."
+    },
+    {
+      "id": "4ecba8c9ac07",
+      "title": "Milan-Benfica: in tribuna era presente anche Antonio Conte",
+      "url": "https://www.milannews.it/news/milan-benfica-tribuna-presente-antonio-conte-630031",
+      "source": "milannews.it",
+      "date": "2026-09-16T22:40:57+00:00",
+      "summary": "Spettatore di una brutta sconfitta del Milan, questa sera a San Siro in occasione dell'esordio in Europa League dei rossoneri contro il Benfica era presente anche Antonio Conte."
+    },
+    {
+      "id": "4c97430c7069",
+      "title": "Capello commenta il secondo gol del Benfica: \"Guardano solo la palla, non esiste\". Costacurta: \"Il mister mi ha lasciato a casa per un errore così\"",
+      "url": "https://www.milannews.it/news/capello-commenta-gol-benfica-guardano-palla-esiste-costacurta-il-mister-casa-errore-cosi-630041",
+      "source": "milannews.it",
+      "date": "2026-09-16T22:30:51+00:00",
+      "summary": "A Sky Sport, nel post partita di Milan-Benfica 0-2, si commenta il secondo gol degli ospiti. Kaminski calcia tutto solo in area di rigore senza che nessuno si accorga del suo inserimento per il più classico dei cutback."
+    },
+    {
+      "id": "4768a955adb0",
+      "title": "VIDEO MN - Ruben Amorim lascia per ultimo San Siro",
+      "url": "https://www.milannews.it/news/bozza-amo-630043",
+      "source": "milannews.it",
+      "date": "2026-09-16T22:27:00+00:00",
+      "summary": "Come riportato dalla redazione di MilanNews.it, il mister rossonero Ruben Amorim è stato l'ultimo a lasciare San Siro dopo la sconfitta di questa sera contro il Benfica, all'esordio in questa edizione di Europa League."
+    },
+    {
+      "id": "15ec5aab6851",
+      "title": "Amorim si domanda: \"Difficoltà mentale? Non so, è la seconda volta di fila che nel primo tempo non siamo in partita\"",
+      "url": "https://www.milannews.it/news/amorim-domanda-difficolta-mentale-so-seconda-fila-partita-630035",
+      "source": "milannews.it",
+      "date": "2026-09-16T22:20:33+00:00",
+      "summary": "Il Milan di Amorim cade all'esordio in Europa League contro il Benfica. Di seguito un estratto delle parole del tecnico rossonero a fine partita ai microfoni di Sky Sport:\n\nRitorno in Europa che è stato una delusione."
+    },
+    {
+      "id": "a1aded485178",
+      "title": "Costacurta: \"È vero che l’allenatore aveva sorpreso con alcune scelte, ma speravo che i giocatori in campo facessero un pochino meglio\"",
+      "url": "https://www.milannews.it/news/costacurta-e-vero-l-allenatore-sorpreso-alcune-scelte-speravo-giocatori-campo-pochino-meglio-630030",
+      "source": "milannews.it",
+      "date": "2026-09-16T22:10:47+00:00",
+      "summary": "Billy Costacurta, nel post partita di Milan-Benfica 0-2, parla della prestazione dei rossoneri. L'ex difensore è sinceramente dispiaciuto per la sconfitta ed è anche un po' deluso dalla partita disputata a San Siro dal Milan."
+    },
+    {
+      "id": "166272a1c06e",
+      "title": "Amorim in conferenza: \"Se sono preoccupato? Sempre. Ci mancano energia, organizzazione, qualità e comprensione\"",
+      "url": "https://www.milannews.it/news/milan-benfica-live-diretta-conferenza-stampa-amorim-europa-league-629996",
+      "source": "milannews.it",
+      "date": "2026-09-16T22:05:09+00:00",
+      "summary": "Ruben Amorim, allenatore del Milan, è presente in conferenza stampa al termine di Milan-Benfica, sfida valida per la prima giornata della League Phase di Europa League."
+    },
+    {
+      "id": "705786302403",
+      "title": "Jashari defiant despite early European setback: “We have to believe in this project”",
+      "url": "https://sempremilan.com/jashari-defiant-have-to-believe-project",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T22:01:09+00:00",
+      "summary": "Ardon Jashari still has full faith in where AC Milan are heading under Ruben Amorim, but admitted the team were ‘missing something’ against Benfica. Milan got their 2026-27 Europa League campaign underway in disastrous fashion as they lost 2-0 to one of the other pre-tournament favourites at San Sir"
+    },
+    {
+      "id": "db5d7401b42f",
+      "title": "MN - Rui Costa sul Milan: \"E' una squadra nuova e avrà bisogno di tempo, Amorim credo potrà fare bene qui\"",
+      "url": "https://www.milannews.it/news/mn-rui-costa-milan-e-squadra-nuova-bisogno-tempo-amorim-credo-potra-qui-630042",
+      "source": "milannews.it",
+      "date": "2026-09-16T22:01:07+00:00",
+      "summary": "Manuel Rui Costa, presidente del Benfica ed ex storico centrocampista rossonero è intervenuto così in mix zone a fine partita. Le sue parole in esclusva ai microfoni di MilanNews."
+    },
+    {
+      "id": "6b48d8b9effe",
+      "title": "Amorim non ha ancora “pesato” i suoi. Ecco un altro manager in società, ma il capo dell’area tecnica?",
+      "url": "https://www.milannews.it/editoriale/amorim-pesato-suoi-manager-societa-capo-dell-area-tecnica-630032",
+      "source": "milannews.it",
+      "date": "2026-09-16T22:00:01+00:00",
+      "summary": "Nel calcio contano le idee, è vero. Ma poi bisogna passare dalla teoria alla pratica."
+    },
+    {
+      "id": "b3367f4fb493",
+      "title": "De Winter in conferenza: \"Non c'è bisogno di arrabbiarsi, abbiamo fiducia nelle idee di Amorim\"",
+      "url": "https://www.milannews.it/news/de-winter-conferenza-non-bisogno-arrabbiarsi-fiducia-idee-amorim-630040",
+      "source": "milannews.it",
+      "date": "2026-09-16T21:59:08+00:00",
+      "summary": "Koni De Winter, difensore del Milan, è presente in conferenza stampa al termine di Milan-Benfica, sfida valida per la prima giornata della League Phase di Europa League."
+    },
+    {
+      "id": "1f733a9a0ac7",
+      "title": "SIlva in conferenza: \"Amorim sa che, quando non gioca contro di me, tifo per lui. Verso San Siro ho detto ai giocatori che...\"",
+      "url": "https://www.milannews.it/news/mn-milan-benfica-allenatore-portoghesi-parlera-conferenza-629997",
+      "source": "milannews.it",
+      "date": "2026-09-16T21:53:18+00:00",
+      "summary": "Marco Silva, allenatore del Benfica, è presente in conferenza stampa al termine di Milan-Benfica, sfida valida per la prima giornata della League Phase di Europa League."
+    },
+    {
+      "id": "2860c0ccc027",
+      "title": "MN - Musah predica calma: \"Perso una partita per dettagli, siamo fiduciosi di poter migliorare\"",
+      "url": "https://www.milannews.it/news/mn-musah-predica-calma-perso-partita-dettagli-fiduciosi-poter-migliorare-630039",
+      "source": "milannews.it",
+      "date": "2026-09-16T21:48:00+00:00",
+      "summary": "Yunus Musah, al temrine della partita è stato incercettato in mix zone dal nostro inviato sul posto. Queste le sue considerazioni ai microfoni di MilanNews."
+    },
+    {
+      "id": "c715e8bf8d06",
+      "title": "Saelemaekers insists Milan have ‘no excuse’ for Benfica loss after lacking ‘determination and grit’",
+      "url": "https://sempremilan.com/saelemaekers-milan-no-excuse-benfica-lacking",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T21:46:38+00:00",
+      "summary": "Alexis Saelemaekers believes AC Milan ‘prepared well’ for the game against Benfica, but mistakes ultimately derailed the night. Milan went into their first Europa League game of the season hoping to make a statement at San Siro against Benfica, but the only statement they made was a negative one as "
+    },
+    {
+      "id": "8f2f38604db5",
+      "title": "Jashari: \"Dobbiamo credere in questo progetto, così non è sufficiente. Ma se facciamo certe merdate...\"",
+      "url": "https://www.milannews.it/news/jashari-dobbiamo-credere-progetto-sufficiente-merdate-630038",
+      "source": "milannews.it",
+      "date": "2026-09-16T21:45:43+00:00",
+      "summary": "Ardon Jashari ha parlato a Sky Sport dopo la sconfitta per 2-0 contro il Benfica a San Siro."
+    },
+    {
+      "id": "f9cca6a2df11",
+      "title": "Saelemaekers: ‘Milan have no excuse’ for 2-0 defeat to Benfica",
+      "url": "https://football-italia.net/saelemaekers-milan-have-no-excuse-benfica/",
+      "source": "football-italia.net",
+      "date": "2026-09-16T21:44:06+00:00",
+      "summary": "Alexis Saelemaekers warns Milan ‘have no excuse’ after the 2-0 loss to Benfica in the..."
+    },
+    {
+      "id": "39299f3a4e19",
+      "title": "Big L to start Europa League adventure: Instant reaction to Milan 0-2 Benfica",
+      "url": "https://sempremilan.com/instant-reaction-milan-0-2-benfica-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T21:42:25+00:00",
+      "summary": "Lorenzo recorded his reaction to AC Milan’s defeat against Benfica straight after the full-time whistle, highlighting that it didn’t look like the Rossoneri knew what they were doing.  As we saw against Lazio, it didn’t take long for Milan’s opponents to take control of the game. Dodi Lukebakio open"
+    },
+    {
+      "id": "34db3ef9d89a",
+      "title": "Benfica, Marco Silva: \"Abbiamo fatto 9 cambi ma sono molto fiero della squadra\"",
+      "url": "https://www.milannews.it/news/benfica-marco-silva-abbiamo-9-cambi-fiero-squadra-630036",
+      "source": "milannews.it",
+      "date": "2026-09-16T21:38:22+00:00",
+      "summary": "Marco Silva, allenatore del Benfica, ha parlato a Sky Sport dopo la vittoria sul Milan per 2-0."
+    },
+    {
+      "id": "957c928fa139",
+      "title": "Amorim: ‘Milan not in the game during first half, I’m ready to adapt’",
+      "url": "https://football-italia.net/amorim-milan-not-in-the-game-during-first-half/",
+      "source": "football-italia.net",
+      "date": "2026-09-16T21:34:23+00:00",
+      "summary": "Ruben Amorim admits Milan might have a mental block after their 2-0 Europa League defeat..."
+    },
+    {
+      "id": "02b03e3f9769",
+      "title": "VIDEO MN - Anche Hutchinson e Cisse lasciano lo stadio",
+      "url": "https://www.milannews.it/news/video-mn-hutchinson-cisse-lasciano-stadio-630034",
+      "source": "milannews.it",
+      "date": "2026-09-16T21:33:08+00:00",
+      "summary": "Come appreso dalla redazione di MilanNews.it grazie al nostro inviato, i due rossoneri Omari Hutchinson e Alphadjo Cisse hanno appena lasciato San Siro dopo la sconfitta di questa sera contro il Benfica."
+    },
+    {
+      "id": "87e28d57c967",
+      "title": "Amorim ‘ready to adapt’ as Milan sink against Benfica: “We’re not very organised”",
+      "url": "https://sempremilan.com/amorim-adapt-milan-sink-benfica",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T21:31:51+00:00",
+      "summary": "AC Milan head coach Ruben Amorim has admitted that there are some frustrations emerging with how his side are approaching games. Over 65,000 fans turned out at San Siro on Wednesday night for what was probably the showpiece tie of the Europa League first phase between Milan and Benfica. The vast maj"
+    },
+    {
+      "id": "0f565b7952f7",
+      "title": "Saelemaekers: \"Devo lavorare ogni giorno per meritare il mio posto. Sconfitta? Non abbiamo scuse\"",
+      "url": "https://www.milannews.it/news/saelemaekers-devo-lavorare-meritare-posto-sconfitta-scuse-630033",
+      "source": "milannews.it",
+      "date": "2026-09-16T21:31:15+00:00",
+      "summary": "Alexis Saelemaekers ha parlato a Sky Sport al termine di Milan-Benfica 0-2. Le sue parole:\n\nPrima sconfitta stagionale."
+    },
+    {
+      "id": "f56be6565b06",
+      "title": "Capello boccia tutti: \"Ci sono tanti giocatori che giochicchiano, è un Milan che giochicchia\"",
+      "url": "https://www.milannews.it/news/capello-boccia-tutti-ci-tanti-giocatori-giochicchiano-milan-giochicchia-630025",
+      "source": "milannews.it",
+      "date": "2026-09-16T21:23:12+00:00",
+      "summary": "Fabio Capello boccia totalmente Amorim e la squadra dopo la sconfitta di San Siro contro il Benfica. I portoghesi vincono agilmente 2-0 e il Milan, secondo Don Fabio, \"giochicchia\"."
+    },
+    {
+      "id": "61bbd5073c60",
+      "title": "Player Ratings: AC Milan 0-2 Benfica – Back three struggle; Ramos baffles",
+      "url": "https://sempremilan.com/player-ratings-ac-milan-0-2-benfica-three",
+      "source": "sempremilan.com",
+      "date": "2026-09-16T21:18:21+00:00",
+      "summary": "AC Milan registered their first defeat of the season, showcasing really poor defending in the Europa League opener against Benfica. Below are the player ratings for the Rossoneri.  Benfica quickly took control of the game under the San Siro lights, definitely making the most of Milan’s sloppy defend"
     },
     {
       "id": "d4bd53d8565b",
@@ -42,92 +242,12 @@
       "summary": "Antonio Conte was in the stands for this evening’s match between Milan and Benfica, as..."
     },
     {
-      "id": "b060a9bfc3b9",
-      "title": "MN - Milan-Benfica, il dato sulle presenze a San Siro: 68.393 biglietti venduti",
-      "url": "https://www.milannews.it/news/mn-milan-benfica-dato-presenze-san-siro-68-393-biglietti-venduti-630016",
-      "source": "milannews.it",
-      "date": "2026-09-16T20:26:38+00:00",
-      "summary": "Il Milan ha comunicato il dato definitivo degli spettatori presenti questa sera a San Siro per la gara contro il Benfica, valida per la 1^ giornata della League Phase di Europa League: sono stati venduti 68.393 biglietti, abbonamenti compresi."
-    },
-    {
-      "id": "9b666c21906c",
-      "title": "MIL-BEN (0-2): quinto ed ultimo cambio nel Milan, dentro Rabiot",
-      "url": "https://www.milannews.it/news/mil-ben-0-2-cambio-milan-rabiot-630017",
-      "source": "milannews.it",
-      "date": "2026-09-16T20:25:59+00:00",
-      "summary": "Quinto ed ultimo cambio nel Milan. Fuori Ardon Jashari, dentro Adrien Rabiot."
-    },
-    {
-      "id": "b751ea03e92c",
-      "title": "MIL-BEN (0-2): altra doppia sostituzione nel Milan, dentro Saelemaekers e Moreira",
-      "url": "https://www.milannews.it/news/mil-ben-0-2-altra-doppia-sostituzione-milan-saelemaekers-moreira-630015",
-      "source": "milannews.it",
-      "date": "2026-09-16T20:17:35+00:00",
-      "summary": "Poco dopo il raddoppio di Kaminski Ruben Amorim ha deciso di mettere nuovamente mano alla sua squadra cambiando tutta la corsia di sinistra."
-    },
-    {
-      "id": "c7b30e68a266",
-      "title": "MIL-BEN (0-2): altra bella dormita della difesa del Milan, raddoppia Kaminski",
-      "url": "https://www.milannews.it/news/mil-ben-0-2-altra-bella-dormita-difesa-milan-raddoppia-kaminski-630014",
-      "source": "milannews.it",
-      "date": "2026-09-16T20:14:51+00:00",
-      "summary": "Il Milan sembrava aver cominciato meglio questo secondo tempo anche grazie all'inerzia dei cambi, ma il Benfica ci ha tenuto a mettere le cose in chiaro trovando rubito la rete del raddoppio."
-    },
-    {
-      "id": "f260896adf30",
-      "title": "MIL-BEN (0-1): subito doppio cambio per il Milan, dentro Pulisic e Gila",
-      "url": "https://www.milannews.it/news/mil-ben-0-1-cambio-milan-pulisic-gila-630013",
-      "source": "milannews.it",
-      "date": "2026-09-16T20:08:15+00:00",
-      "summary": "Come spesso successo in questo inizio di stagione, anche per l'esordio in Europa League contro il Benfica Ruben Amorim ha deciso di mettere mano alla panchina all'intervallo per cercare di fare una scossa alla sua squadra."
-    },
-    {
-      "id": "30a5c58f5895",
-      "title": "Milan-Benfica 0-1 all'intervallo: Amorim e squadra sbagliano un altro primo tempo. San Siro fischia",
-      "url": "https://www.milannews.it/news/milan-benfica-0-1-intervallo-amorim-squadra-sbagliano-tempo-san-siro-fischia-630012",
-      "source": "milannews.it",
-      "date": "2026-09-16T19:48:00+00:00",
-      "summary": "Milan decisamente sotto ritmo in questa prima frazione di gioco contro il Benfica."
-    },
-    {
-      "id": "9123b99b1450",
-      "title": "MIL-BEN (0-1): Lukebakio porta in vantaggio il Benfica con un mancino dal limite",
-      "url": "https://www.milannews.it/news/mil-ben-0-1-lukebakio-porta-vantaggio-benfica-mancino-limite-630011",
-      "source": "milannews.it",
-      "date": "2026-09-16T19:20:03+00:00",
-      "summary": "Dopo 16' si sblocca il risultato a San Siro. Lukebakio porta in vantaggio il Benfica con una conclusione dal limite sulla quale Maignan non può nulla."
-    },
-    {
-      "id": "4e8affcdfbbd",
-      "title": "Di Canio: \"Ho seguito Amorim allo United, sta facendo le stesse scelte al Milan\"",
-      "url": "https://www.milannews.it/news/canio-ho-amorim-united-scelte-milan-630009",
-      "source": "milannews.it",
-      "date": "2026-09-16T19:11:41+00:00",
-      "summary": "Paolo Di Canio, dagli studi di Sky Sport per il pre partita di Milan-Benfica, parla di Ruben Amorim."
-    },
-    {
       "id": "064040273554",
       "title": "Europa League Liveblog: Milan vs. Benfica",
       "url": "https://football-italia.net/europa-league-liveblog-milan-vs-benfica/",
       "source": "football-italia.net",
       "date": "2026-09-16T18:49:17+00:00",
       "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "4537d32e9ad8",
-      "title": "MN - Rui Costa saluta San Siro: \"Fare parte di questa storia mi riempie di orgoglio\"",
-      "url": "https://www.milannews.it/news/mn-rui-costa-saluta-san-siro-fare-storia-riempie-orgoglio-630010",
-      "source": "milannews.it",
-      "date": "2026-09-16T18:47:34+00:00",
-      "summary": "Milan-Benfica è una partita speciale per tanti motivi: uno di quelli principali è il ritorno a San Siro di Manuel Rui Costa, che ha vissuto la maglia numero 10 del Milan per cinque stagioni."
-    },
-    {
-      "id": "f9d2c905299e",
-      "title": "Capello: \"Mi pongo una domanda: Amorim conosce il valore dei giocatori che sta allenando?\"",
-      "url": "https://www.milannews.it/news/capello-mi-pongo-domanda-amorim-conosce-valore-giocatori-allenando-630006",
-      "source": "milannews.it",
-      "date": "2026-09-16T18:40:40+00:00",
-      "summary": "Scelte di formazione abbastanza sorprendenti per Ruben Amorim, che questa sera affronta il Benfica nella prima giornata della fase campionato di Europa League."
     },
     {
       "id": "a923748c74c5",
@@ -146,46 +266,6 @@
       "summary": "Ruben Amorim compares Milan difficulties to Manchester United, admitting he would rather ‘fail big’ than..."
     },
     {
-      "id": "48a2e53668dd",
-      "title": "Milan, prima da titolare in rossonero per Omari Hutchinson",
-      "url": "https://www.milannews.it/news/milan-titolare-rossonero-omari-hutchinson-630003",
-      "source": "milannews.it",
-      "date": "2026-09-16T18:36:57+00:00",
-      "summary": "Lo scorso 31 agosto, il Milan ha annunciato l'arrivo in rossonero di Omari Hutchinson con questo comunicato ufficiale: \"AC Milan comunica l'acquisizione a titolo temporaneo, con diritto di opzione per il trasferimento a titolo definitivo ..."
-    },
-    {
-      "id": "50c6e9d8a524",
-      "title": "Bartesaghi a Sky: \"Sognavo queste partite. Amorim mi chiede di essere più presente in area di rigore quando l'azione si sviluppa dalla parte opposta\"",
-      "url": "https://www.milannews.it/news/bartesaghi-sky-sognavo-partite-amorim-chiede-presente-area-rigore-azione-sviluppa-opposta-630008",
-      "source": "milannews.it",
-      "date": "2026-09-16T18:34:22+00:00",
-      "summary": "Davide Bartesaghi ha parlato a Sky Sport prima di Milan-Benfica. Queste le sue dichiarazioni:  \"Chi viene chiamato in causa deve sentirsi importante per tutta la squadra, sognavo di giocare queste partite."
-    },
-    {
-      "id": "4b7b23c34c58",
-      "title": "Amorim a Sky: \"Modric? Ha 41 anni, devo fare delle rotazioni. Spero di avere il tempo per cambiare le cose\"",
-      "url": "https://www.milannews.it/primo-piano/amorim-sky-modric-41-anni-rotazioni-spero-cambiare-cose-630007",
-      "source": "milannews.it",
-      "date": "2026-09-16T18:30:15+00:00",
-      "summary": "Mister Ruben Amorim è stato intervistato da Sky Sport nel pre partita di Milan-Benfica di Europa League. Queste le sue parole:\n\nSi parla tanto di Luka Modric."
-    },
-    {
-      "id": "f6b52c657acd",
-      "title": "Filippo Terracciano dal 1' contro il Benfica: non gioca titolare nel Milan dal 29 dicembre 2024",
-      "url": "https://www.milannews.it/news/filippo-terracciano-1-benfica-gioca-titolare-milan-29-dicembre-2024-630002",
-      "source": "milannews.it",
-      "date": "2026-09-16T18:24:52+00:00",
-      "summary": "Tra le sorprese della formazione titolare scelta da Ruben Amorim per la partita di questa sera contro il Benfica, c'è sicuramente la presenza in difesa di Filippo Terracciano che comporrà il reparto arretrato milanista con Koni De W ..."
-    },
-    {
-      "id": "8c801d1dee9b",
-      "title": "Di Marzio: \"L'Italia Under 21 potrà contare ancora su Alphadjo Cisse\"",
-      "url": "https://www.milannews.it/news/marzio-l-italia-under-21-potra-contare-alphadjo-cisse-630001",
-      "source": "milannews.it",
-      "date": "2026-09-16T18:23:10+00:00",
-      "summary": "C'è grande curiosità per le prime convocazioni di Roberto Mancini."
-    },
-    {
       "id": "684e2ceeaac1",
       "title": "AC Milan vs. Benfica: Live updates and commentary from the Europa League clash",
       "url": "https://sempremilan.com/ac-milan-benfica-live-updates-2026-27",
@@ -200,22 +280,6 @@
       "source": "sempremilan.com",
       "date": "2026-09-16T18:12:57+00:00",
       "summary": "Ahead of AC Milan’s opener in the Europa League, taking on Benfica at San Siro, Davide Bartesaghi spoke to the media about making his full debut in Europe.  Ruben Amorim has switched things up compared to the 2-2 draw against Lazio, making a total of five changes to the starting eleven. Bartesaghi i"
-    },
-    {
-      "id": "fb3f3309af21",
-      "title": "Capello: \"Non so se Amorim ha già capito chi sono i leader del Milan...\"",
-      "url": "https://www.milannews.it/news/capello-non-so-amorim-capito-leader-milan-630005",
-      "source": "milannews.it",
-      "date": "2026-09-16T18:11:45+00:00",
-      "summary": "Fabio Capello ha parlato a Sky Sport, presentando la prima giornata di Europa League che vede in campo Milan e Juventus."
-    },
-    {
-      "id": "6d0d45da29b1",
-      "title": "Ramos ribadisce: \"Una delle mie più grandi fonti d’ispirazione è stato Ibrahimovic\"",
-      "url": "https://www.milannews.it/news/ramos-ribadisce-una-grandi-fonti-d-ispirazione-ibrahimovic-629985",
-      "source": "milannews.it",
-      "date": "2026-09-16T18:01:11+00:00",
-      "summary": "Nell'intervista rilasciata al sito ufficiale dell'UEFA, Gonçalo Ramos ha parlato di Ruben Amorim, del suo idolo Zlatan Ibrahimovic e di Luka Modric: \n\nSull'impatto con Amorim: \"È stato molto positivo e, in un cer ..."
     },
     {
       "id": "f127c1e3784f",
@@ -240,14 +304,6 @@
       "source": "football-italia.net",
       "date": "2026-09-16T17:49:39+00:00",
       "summary": "Omari Hutchinson gets his first start for Milan against Benfica in the Europa League, with..."
-    },
-    {
-      "id": "9d4f84c6d780",
-      "title": "Milan-Benfica, le formazioni ufficiali: Hutchinson-Cisse dietro Ramos, in difesa c'è Terracciano",
-      "url": "https://www.milannews.it/primo-piano/milan-benfica-formazioni-ufficiali-trequarti-hutchinson-difesa-chance-terracciano-629994",
-      "source": "milannews.it",
-      "date": "2026-09-16T17:49:22+00:00",
-      "summary": "Milan e Benfica si affronteranno questa sera a San Siro nella partita valida per la prima giornata della fase campionato di Europa League."
     },
     {
       "id": "a06336ce09b1",
@@ -338,52 +394,12 @@
       "summary": "Paolo Scaroni offered a few words to journalists while meeting with a delegation from Benfica for the customary UEFA lunch. Milan are back on the European stage, and with it comes the return of the lunches between the managements of the Rossoneri and their opponent. Representatives of Milan and Benf"
     },
     {
-      "id": "986b5ae02af1",
-      "title": "Big opportunities and the ex returns: The five key battles in Milan vs. Benfica",
-      "url": "https://sempremilan.com/five-key-battles-milan-benfica-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-09-16T12:00:00+00:00",
-      "summary": "AC Milan and Benfica kick start their Europa League campaigns at San Siro tonight in a fixture that has only been a Champions League one throughout history. Milan will return to the European stage with perhaps their toughest test in this league phase, at home against one of the other pre-tournament "
-    },
-    {
-      "id": "28a02a61a254",
-      "title": "GdS: ‘More than a derby’ – Amorim, Ramos and Moreira gear up to face old club Benfica",
-      "url": "https://sempremilan.com/amorim-ramos-moreira-more-derby-benfica",
-      "source": "sempremilan.com",
-      "date": "2026-09-16T11:30:00+00:00",
-      "summary": "It will be a special match for Rúben Amorim, Gonçalo Ramos and Diego Moreira tonight, all of whom are connected to Benfica. La Gazzetta dello Sport recall that all three came up through Benfica’s youth academy, and the Lisbon club remains close to their hearts. Tonight will be a unique occasion, one"
-    },
-    {
-      "id": "5e82255c99d3",
-      "title": "“Two great teams” – Circati respects Milan but insists Benfica are coming to win",
-      "url": "https://sempremilan.com/circati-respects-milan-benfica-coming-win",
-      "source": "sempremilan.com",
-      "date": "2026-09-16T11:00:00+00:00",
-      "summary": "Alessandro Circati has insisted that Benfica are coming to San Siro to try and win, in order to make an early statement in the Europa League. Benfica replaced Jose Mourinho with Marco Silva in the summer, and they have made an almost perfect start to the new campaign. They have five wins from six in"
-    },
-    {
       "id": "7a7099bd6668",
       "title": "Refereeing selections confirmed for Serie A week 5 including Roma vs. Inter",
       "url": "https://football-italia.net/serie-a-week-5-referee-selections-confirmed/",
       "source": "football-italia.net",
       "date": "2026-09-16T10:57:13+00:00",
       "summary": "The full selection of referees, assistants, fourth officials and VARs have been announced for the..."
-    },
-    {
-      "id": "4bd545dea4ee",
-      "title": "CM: The chance to show €50m worth – why Amorim will start Hutchinson vs. Benfica",
-      "url": "https://sempremilan.com/hutchinson-benfica-chance-show-worth-50m",
-      "source": "sempremilan.com",
-      "date": "2026-09-16T10:30:00+00:00",
-      "summary": "Omari Hutchinson will certainly get some playing time in the Europa League against Benfica, and could even start. According to Calciomercato.com, the Milan head coach Ruben Amorim needs to resolve his final doubts regarding the starting line-up he will field against his old club, but is tempted by t"
-    },
-    {
-      "id": "25f9c0d164e9",
-      "title": "GdS: Predicted XIs for Milan vs. Benfica – no Pulisic, Modric, Moreira or Gila",
-      "url": "https://sempremilan.com/gazzetta-predicted-xis-milan-benfica-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-09-16T10:00:00+00:00",
-      "summary": "AC Milan are back on the European stage this evening after an absence of 18 months, as they take on Benfica at San Siro. Milan are unbeaten in the league having won two and drawn two, but attention now turns to continental competition and the first game against one of the other favourites to lift […"
     },
     {
       "id": "b90f544fbae1",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-14T17:08:39+00:00",
       "summary": "Milan get their 2026-27 Europa League campaign later this week, and it has recently been..."
-    },
-    {
-      "id": "fdf3aefff3db",
-      "title": "Juventus, Milan & Napoli are confusing everyone, De Zerbi needs to watch Serie A",
-      "url": "https://football-italia.net/juventus-milan-napoli-confuse-de-zerbi-serie-a/",
-      "source": "football-italia.net",
-      "date": "2026-09-14T16:44:48+00:00",
-      "summary": "Lorenzo Bettoni and Giancarlo Rinaldi look back on an action-packed weekend in Serie A, discussing..."
-    },
-    {
-      "id": "e08789e592e8",
-      "title": "Ibrahimovic returns to Milan training centre six months after Allegri clash",
-      "url": "https://football-italia.net/ibrahimovic-returns-milanello-6-months-allegri/",
-      "source": "football-italia.net",
-      "date": "2026-09-14T11:54:00+00:00",
-      "summary": "Sky Sport Italia reports that RedBird advisor Zlatan Ibrahimovic returned to Milanello for the first..."
     }
   ]
 }
