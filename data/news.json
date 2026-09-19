@@ -1,13 +1,237 @@
 {
-  "lastUpdated": "2026-09-19T10:18:09.096169+00:00",
+  "lastUpdated": "2026-09-19T14:09:47.120790+00:00",
   "articles": [
     {
-      "id": "dfe59b16a3e6",
-      "title": "San Siro compie 100 anni: quanti ricordi tra calcio, sport e musica. E un futuro già scritto",
-      "url": "https://www.milannews.it/primo-piano/san-siro-compie-100-anni-ricordi-calcio-sport-musica-scritto-630260",
+      "id": "a5d67e3f60d1",
+      "title": "Il Milan ha tanto da migliorare nel pressing, Amorim: \"Bisogna farlo nel tempismo e capire quando e come pressare\"",
+      "url": "https://www.milannews.it/news/milan-migliorare-pressing-amorim-bisogna-farlo-tempismo-capire-pressare-630274",
       "source": "milannews.it",
-      "date": "2026-09-19T10:00:46+00:00",
-      "summary": "19 settembre 1926-19 settembre 2026: lo stadio di San Siro festeggia oggi i 100 anni dalla prima partita che è stata giocata nello stadio milanese voluto dall'allora presidente del Milan Pirelli."
+      "date": "2026-09-19T14:00:50+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "ac879c47c78e",
+      "title": "GdS: Amorim’s ‘restless’ 10s – why Milan cannot settle on attacking midfield partnership",
+      "url": "https://sempremilan.com/why-milan-cannot-settle-restless-10s",
+      "source": "sempremilan.com",
+      "date": "2026-09-19T14:00:00+00:00",
+      "summary": "So far this season, AC Milan have not found an attacking midfielder combination to settle on, leaving many confused… Ruben Amorim’s teams have not been completely without controversy yet. He’s had to deal with players returning from injuries and a squad that he’s not completely worked out. So, it’s "
+    },
+    {
+      "id": "08c903bb6a01",
+      "title": "Pulisic e Cisse insieme dal 1'? Amorim: \"Tutti possono giocare insieme. Magari domani li vedrete giocare insieme\"",
+      "url": "https://www.milannews.it/news/pulisic-cisse-1-amorim-tutti-possono-giocare-insieme-domani-vedrete-giocare-insieme-630273",
+      "source": "milannews.it",
+      "date": "2026-09-19T13:48:12+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "7870806166d9",
+      "title": "Il Milan cambierà modulo? Amorim: \"La mia idea non si basa sul modo, ma sui principi: quello conta\"",
+      "url": "https://www.milannews.it/news/milan-cambiera-modulo-amorim-la-idea-basa-modo-principi-conta-630272",
+      "source": "milannews.it",
+      "date": "2026-09-19T13:36:57+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "7b4d6cbf122c",
+      "title": "Report: RedBird hoping for Al-Nassr agreement by next summer – the latest",
+      "url": "https://sempremilan.com/redbird-hoping-al-nassr-agreement-next-summer",
+      "source": "sempremilan.com",
+      "date": "2026-09-19T13:30:00+00:00",
+      "summary": "In the past week, it has been reported that AC Milan owner Gerry Cardinale has been interested in buying a stake in Al-Nassr and there’s now an update. Over the past few years, there has been a lot said about Cardinale’s interest in getting investment from Saudi Arabia in Milan. However, it seems th"
+    },
+    {
+      "id": "74e8c9d5d425",
+      "title": "Amorim: \"La visita di Ibra è stata quella di una persona che lavora col club. Contatto con Cardinale? Cosa normale\"",
+      "url": "https://www.milannews.it/news/amorim-la-visita-ibra-persona-lavora-club-contatto-cardinale-normale-630271",
+      "source": "milannews.it",
+      "date": "2026-09-19T13:24:26+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "2f2cf2413814",
+      "title": "Amorim: \"Siamo ancora in fase di costruzione, soprattutto in fase di possesso. Domani è una bella opportunità per migliorare\"",
+      "url": "https://www.milannews.it/news/amorim-siamo-fase-costruzione-fase-possesso-domani-bella-opportunita-migliorare-630270",
+      "source": "milannews.it",
+      "date": "2026-09-19T13:12:48+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "1a43b9e4a482",
+      "title": "PROBABILE FORMAZIONE - Verso Milan-Lecce: è l'ora di Pulisic e Moreira? Diversi dubbi",
+      "url": "https://www.milannews.it/news/probabile-formazione-milan-lecce-pulisic-moreira-diversi-dubbi-630175",
+      "source": "milannews.it",
+      "date": "2026-09-19T13:01:00+00:00",
+      "summary": "Dopo il brutto esordio europeo, il Milan di Ruben Amorim si rituffa sul campionato prima della lunga sosta tra settembre e ottobre."
+    },
+    {
+      "id": "bf1d75b590cb",
+      "title": "Perché il turnover contro il Benfica? Amorim: \"Non abbiamo perso per i giocatori che erano in campo nel primo tempo\"",
+      "url": "https://www.milannews.it/news/turnover-benfica-amorim-non-perso-giocatori-campo-tempo-630269",
+      "source": "milannews.it",
+      "date": "2026-09-19T13:00:12+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "5c58fe8430fc",
+      "title": "PM: Back to square one – Azzurri without Milan representation in Mancini’s first squad",
+      "url": "https://sempremilan.com/azzurri-without-milan-representation-mancini",
+      "source": "sempremilan.com",
+      "date": "2026-09-19T13:00:00+00:00",
+      "summary": "In recent squads, AC Milan have had quite a few international call-ups. However, it appears they’re back to square one with the national team. Having an Italian core is an idea that many Milanisti desire. It’s something to be proud of, players from your club – who support your club – representing yo"
+    },
+    {
+      "id": "5c4ccc610669",
+      "title": "Amorim: ‘Milan are dominant and not clinical, something wrong if you lose and feel the same’",
+      "url": "https://football-italia.net/amorim-milan-dominant-not-clinical-wrong-feel/",
+      "source": "football-italia.net",
+      "date": "2026-09-19T12:50:35+00:00",
+      "summary": "Ruben Amorim insists Milan are being ‘dominant’ in their matches, albeit with costly errors, and..."
+    },
+    {
+      "id": "b982aac6de32",
+      "title": "Il Milan non segna nel primo tempo, Amorim: \"È un caso. Nei primi 45' le squadre sono molto organizzate a attente\"",
+      "url": "https://www.milannews.it/news/milan-segna-tempo-amorim-e-caso-primi-45-squadre-organizzate-attente-630268",
+      "source": "milannews.it",
+      "date": "2026-09-19T12:48:47+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "21863ab8587c",
+      "title": "Amorim discusses Benfica defeat, Lecce opportunity and stopping experiments: “My job, not yours”",
+      "url": "https://sempremilan.com/amorim-benfica-defeat-lecce-opportunity-stopping-experiments",
+      "source": "sempremilan.com",
+      "date": "2026-09-19T12:40:49+00:00",
+      "summary": "Ahead of the Lecce game this weekend, AC Milan head coach Ruben Amorim spoke to the media about what is needed after the midweek defeat. It’s been another difficult week for Milan, though this time it was due to the midweek loss to Benfica. A poor draw against Lazio meant something more needed to be"
+    },
+    {
+      "id": "40159a8849c3",
+      "title": "Amorim: \"Ho detto che quando si arriva in un nuovo club è impossibile avere tutte le caratteristiche giuste in ogni aspetto. E non dite che critico i miei calciatori\"",
+      "url": "https://www.milannews.it/primo-piano/breve-conferenza-stampa-amorim-milan-lecce-630259",
+      "source": "milannews.it",
+      "date": "2026-09-19T12:37:00+00:00",
+      "summary": "Amici e amiche di MilanNews.it, ben ritrovati."
+    },
+    {
+      "id": "98530226c52e",
+      "title": "Verso il Lecce, Amorim: \"La squadra è pronta per la partita, ma ci sono tante cose da migliorare\"",
+      "url": "https://www.milannews.it/news/lecce-amorim-la-squadra-pronta-partita-tante-cose-migliorare-630267",
+      "source": "milannews.it",
+      "date": "2026-09-19T12:36:09+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "87aa6f67b561",
+      "title": "San Siro compie 100 anni, Amorim: \"Vogliamo vincere e giocare bene per onorare lo stadio\"",
+      "url": "https://www.milannews.it/news/san-siro-compie-100-anni-amorim-vogliamo-vincere-giocare-onorare-stadio-630266",
+      "source": "milannews.it",
+      "date": "2026-09-19T12:24:13+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "679a3166440c",
+      "title": "Amorim ricorda Mazzola: \"Condoglianze per la famiglia, per l'Inter e per tutta la nazione\"",
+      "url": "https://www.milannews.it/news/amorim-ricorda-mazzola-condoglianze-famiglia-inter-nazione-630265",
+      "source": "milannews.it",
+      "date": "2026-09-19T12:12:04+00:00",
+      "summary": "Ruben Amorim ha parlato in conferenza stampa alla vigilia di Milan-Lecce. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "ddf858bfecae",
+      "title": "Lecce, Antonino Gallo ha rinnovato fino al 30 giugno 2029",
+      "url": "https://www.milannews.it/l-avversario/lecce-antonino-gallo-rinnovato-30-giugno-2029-630256",
+      "source": "milannews.it",
+      "date": "2026-09-19T12:00:10+00:00",
+      "summary": "Il Lecce, prossimo avversario in campionato del Milan (domani alle 20.45 a San Siro), ha annunciato sul suo sito il rinnovo di contratto di Antonino Gallo, terzino sinistro classe 2000 che ha firmato fino al 2029."
+    },
+    {
+      "id": "3e3b3b5db50b",
+      "title": "GdS: Still in development – the latest on the new stadium on San Siro turns 100",
+      "url": "https://sempremilan.com/latest-new-stadium-san-siro-100",
+      "source": "sempremilan.com",
+      "date": "2026-09-19T12:00:00+00:00",
+      "summary": "AC Milan and Inter will open their new stadium in 2031, 12 years after the idea was first conceived, but they’re not there yet. The San Siro debacle has gone on for years. Both clubs have looked at their futures and at one point, it seemed they’d split. However, finances and opportunities meant that"
+    },
+    {
+      "id": "3781471e79e4",
+      "title": "Lecce, Di Francesco: \"E’ un Milan diverso, più aggressivo. Non credo che il loro problema sia il centrocampo\"",
+      "url": "https://www.milannews.it/l-avversario/lecce-francesco-e-milan-diverso-aggressivo-credo-problema-centrocampo-630261",
+      "source": "milannews.it",
+      "date": "2026-09-19T11:48:51+00:00",
+      "summary": "Intervenuto oggi in conferenza stampa, Eusebio Di Francesco, tecnico del Lecce che domani sarà ospite del Milan a San Siro, ha rilasciato queste parole sulla squadra di Ruben Amorim: \"Hanno perso col Benfica, non con l’ultima arriva ..."
+    },
+    {
+      "id": "39bc8969f2ae",
+      "title": "Kane segna la 100esima rete in 98 partite: è nuovo record in Bundesliga",
+      "url": "https://www.milannews.it/news/kane-segna-100-a-rete-98-partite-record-bundesliga-630233",
+      "source": "milannews.it",
+      "date": "2026-09-19T11:36:25+00:00",
+      "summary": "(ANSA) - ROMA, 18 SET - Harry Kane, attaccante del Bayern Monaco, ha segnato la sua 100/a gol in Bundesliga questa sera all'Allianz Arena, nella sua 98/a partita di campionato, battendo il precedente record tedesco detenuto da Dieter Müller  ..."
+    },
+    {
+      "id": "1ed3421809e0",
+      "title": "CorSport: De Winter expected to keep Milan role as Gabbia remains on the bench",
+      "url": "https://sempremilan.com/de-winter-expected-keep-milan-role-gabbia-bench",
+      "source": "sempremilan.com",
+      "date": "2026-09-19T11:30:00+00:00",
+      "summary": "Ahead of Sunday’s game, some news has filtered through about the AC Milan defence and how Koni De Winter has kept his spot.  Over the summer, Matteo Gabbia was a mainstay in the centre of defence. However, there were worries about his ability to play how Amorim needed him to. A progressor of the bal"
+    },
+    {
+      "id": "e1380af30eb4",
+      "title": "Marinozzi sta con Amorim: “Giusto che si affidi alle sue certezze, le sfumature ci saranno più avanti”",
+      "url": "https://www.milannews.it/news/marinozzi-amorim-giusto-affidi-certezze-sfumature-avanti-630225",
+      "source": "milannews.it",
+      "date": "2026-09-19T11:24:44+00:00",
+      "summary": "Nel suo canale YouTube, il collega Andrea Marinozzi, giornalista di DAZN, ha commentato la sconfitta dei rossoneri contro il Benfica e ha parlato dell’avvio di stagione del Milan di Amorim. Di seguito le sue parole."
+    },
+    {
+      "id": "cc69ad2ebd9b",
+      "title": "Passerini: \"Ho detto ad Amorim che apprezzo molto la sua schiettezza, però la frase sul fallimento è uno scivolone\"",
+      "url": "https://www.milannews.it/news/passerini-ho-amorim-apprezzo-schiettezza-frase-fallimento-scivolone-630243",
+      "source": "milannews.it",
+      "date": "2026-09-19T11:12:28+00:00",
+      "summary": "Carlos Passerini, giornalista del Corriere della Sera, si è così espresso sul suo canale Youtube sulla comunicazione di Amorim: \"Tra Cardinale e Amorim nessuno dei due è esente da colpe."
+    },
+    {
+      "id": "7be7ad0c197e",
+      "title": "Altro 0-0 mancato in Serie A. Il Monza non interrompe la striscia positiva",
+      "url": "https://www.milannews.it/news/vittoria-monza-sassuolo-battuto-2-1-630232",
+      "source": "milannews.it",
+      "date": "2026-09-19T11:00:45+00:00",
+      "summary": "(ANSA) - MONZA, 18 SET - Una doppietta di Varela nella ripresa - la seconda rete dal dischetto - ha permesso al Monza di cogliere la prima vittoria in campionato, un 2-1 ai danni del Sassuolo, che risolleva la squadra di Juric e la porta a 4 punti in ..."
+    },
+    {
+      "id": "0da15232faf1",
+      "title": "GdS: Contracts, signings and protection – why Cardinale would find it difficult to sack Amorim",
+      "url": "https://sempremilan.com/why-cardinale-find-it-difficult-sack-amorim",
+      "source": "sempremilan.com",
+      "date": "2026-09-19T11:00:00+00:00",
+      "summary": "This morning, a report has looked at why it is difficult to imagine Gerry Cardinale sacking Ruben Amorim only a few months into his AC Milan tenure. It is clear that the discussions surrounding Amorim and his future are not going to disappear. The result on Wednesday did significant damage to Milan "
+    },
+    {
+      "id": "69be16b87f8b",
+      "title": "Marinozzi analizza: “Milan poco fluido ma è normale, prima devono assimilare i concetti”",
+      "url": "https://www.milannews.it/news/marinozzi-analizza-milan-fluido-normale-devono-assimilare-concetti-630226",
+      "source": "milannews.it",
+      "date": "2026-09-19T10:49:14+00:00",
+      "summary": "Nel suo canale YouTube, il collega Andrea Marinozzi, giornalista di DAZN, ha commentato la sconfitta dei rossoneri contro il Benfica e ha parlato dell’avvio di stagione del Milan di Amorim. Di seguito le sue parole."
+    },
+    {
+      "id": "453f68bb4ff5",
+      "title": "Uefa e Concacaf a Infantino: \"Riserve Fifa miliardarie, distribuirle a federazioni\"",
+      "url": "https://www.milannews.it/news/uefa-concacaf-infantino-riserve-fifa-miliardarie-distribuirle-federazioni-630235",
+      "source": "milannews.it",
+      "date": "2026-09-19T10:37:22+00:00",
+      "summary": "(ANSA) - ROMA, 18 SET - Le riserve finanziarie della Fifa sono \"molto alte\", e la Uefa chiede a Gianni Infantino di distribuirne una quota alle 211 federazioni associate."
+    },
+    {
+      "id": "5897d91b163b",
+      "title": "A daunting five-game run: How long does Amorim have to get results?",
+      "url": "https://sempremilan.com/bonus-podcast-how-long-amorim-have",
+      "source": "sempremilan.com",
+      "date": "2026-09-19T10:30:00+00:00",
+      "summary": "The loss to Benfica has deepened concerns about Ruben Amorim’s future at AC Milan and we took a look at the matter on this week’s Bonus Podcast. A defeat in midweek has raised worries. It’s been a difficult run of games for Milan, but they’ve not helped themselves. Amorim’s selections have been stra"
     },
     {
       "id": "a16ef524d421",
@@ -18,60 +242,12 @@
       "summary": "Ruben Amorim has tried several things as the AC Milan head coach; there have been some successes so far, but denying the misses would be wrong. It is no secret that Amorim has experimented a little this season, as seen with his starting XIs, if nothing else. However, it seems that the experiments wi"
     },
     {
-      "id": "1a43b9e4a482",
-      "title": "PROBABILE FORMAZIONE - Verso Milan-Lecce: è l'ora di Pulisic e Moreira? Diversi dubbi",
-      "url": "https://www.milannews.it/news/probabile-formazione-milan-lecce-pulisic-moreira-diversi-dubbi-630175",
-      "source": "milannews.it",
-      "date": "2026-09-19T09:55:00+00:00",
-      "summary": "Dopo il brutto esordio europeo, il Milan di Ruben Amorim si rituffa sul campionato prima della lunga sosta tra settembre e ottobre."
-    },
-    {
-      "id": "10a624ebcee2",
-      "title": "Pm Monza: \"Archiviare l'inchiesta sugli arbitri per le 'bussate' in sala Var\"",
-      "url": "https://www.milannews.it/news/pm-monza-archiviare-inchiesta-arbitri-bussate-sala-var-630257",
-      "source": "milannews.it",
-      "date": "2026-09-19T09:48:49+00:00",
-      "summary": "(ANSA) - MILANO, 18 SET - La Procura di Monza, diretta da Claudio Gittardi, ha chiesto l'archiviazione della tranche di indagine, trasmessa nei mesi scorsi dai pm di Milano, che vedeva indagati per concorso in frode sportiva l'ex designatore  ..."
-    },
-    {
-      "id": "126d1cb80dd0",
-      "title": "Milan, altra panchina per Gabbia: contro il Lecce spazio anche a De Winter",
-      "url": "https://www.milannews.it/news/milan-altra-panchina-gabbia-lecce-spazio-de-winter-630253",
-      "source": "milannews.it",
-      "date": "2026-09-19T09:36:06+00:00",
-      "summary": "Si prospetta un'altra panchina per Matteo Gabbia che non dovrebbe partire titolare nemmeno domani sera contro il Lecce a San Siro."
-    },
-    {
       "id": "9391764c5362",
       "title": "GdS: Return of the talisman – Cardinale back at San Siro for Milan-Lecce",
       "url": "https://sempremilan.com/cardinale-back-san-siro-milan-lecce",
       "source": "sempremilan.com",
       "date": "2026-09-19T09:30:00+00:00",
       "summary": "Tomorrow’s game against Lecce is a big one for AC Milan. It’s not do-or-die, but failing to show signs of something would be a problem, you’d think. The recent games haven’t been the best for Milan; there’s no denying it. A last-minute equaliser conceded against Juventus, that start against Lazio an"
-    },
-    {
-      "id": "ab4d541d8f59",
-      "title": "San Siro stregato per il Milan: solo due vittorie dall'ultima sosta per le nazionali di marzo ad oggi",
-      "url": "https://www.milannews.it/news/san-siro-stregato-milan-vittorie-ultima-sosta-nazionali-marzo-630252",
-      "source": "milannews.it",
-      "date": "2026-09-19T09:24:14+00:00",
-      "summary": "L'edizione odierna del Corriere dello Sport riporta stamattina piuttosto preoccupante per il Milan: dall'ultima sosta per le nazionali di marzo ad oggi, il Diavolo ha vinto solo due volte (contro il Torino nello scorso campionato e contro il  ..."
-    },
-    {
-      "id": "f4645d589ab9",
-      "title": "FIGC, disposto un momento di raccoglimento in memoria di Sandro Mazzola",
-      "url": "https://www.milannews.it/news/figc-disposto-raccoglimento-memoria-sandro-mazzola-630251",
-      "source": "milannews.it",
-      "date": "2026-09-19T09:12:47+00:00",
-      "summary": "Per ricordare Sandro Mazzola, ex giocatore di Inter e Nazionale scomparso nelle scorse, la FIGC ha disposto un minuto di raccoglimento in occasione delle gare di tutte le competizioni in programma nel fine settimana: \"Il presidente Giovanni ..."
-    },
-    {
-      "id": "e48f54406086",
-      "title": "Condò sul Milan: \"Amorim deve battere il Lecce facendo segnare Ramos e reinserendo Pulisic\"",
-      "url": "https://www.milannews.it/news/condo-milan-amorim-battere-lecce-segnare-ramos-reinserendo-pulisic-630241",
-      "source": "milannews.it",
-      "date": "2026-09-19T09:00:28+00:00",
-      "summary": "Paolo Condò, sulle pagine del Corriere della Sera, ha commentato il momento del Milan ed in particolare quello di Ruben Amorim che nelle ultime settimane è finito al centro di parecchie critiche per il gioco deludente della sua squadra."
     },
     {
       "id": "9afa031d928c",
@@ -82,22 +258,6 @@
       "summary": "When AC Milan spent big on Goncalo Ramos, there was an instant expectation that goals would come. However, it hasn’t been the case yet.  Signing a striker should be a guarantee of goals, especially for €75 million. Yet, Ramos hasn’t been so far. He’s scored once in five games and hasn’t had a shot o"
     },
     {
-      "id": "7603af5f3537",
-      "title": "CorSport: \"Ramos il solitario. Spesso isolato e spalle alla porta: il Milan non lo aiuta\"",
-      "url": "https://www.milannews.it/rassegna-stampa/corsport-ramos-solitario-isolato-spalle-porta-milan-aiuta-630250",
-      "source": "milannews.it",
-      "date": "2026-09-19T08:46:43+00:00",
-      "summary": "Il Corriere dello Sport in edicola stamattina titola così: \"Ramos il solitario. Spesso isolato e spalle alla porta: il Milan non lo aiuta\"."
-    },
-    {
-      "id": "161872a69b7c",
-      "title": "I dubbi di Pasquino sul Milan: \"Chi dà consigli ad Amorim?\"",
-      "url": "https://www.milannews.it/news/dubbi-pasquino-milan-chi-da-consigli-amorim-630249",
-      "source": "milannews.it",
-      "date": "2026-09-19T08:34:30+00:00",
-      "summary": "Sulle pagine di Tuttosport, Stefano Pasquino ha commentato così la sua situazione al Milan: \"Il proprietario del club ascolta i dirigenti (da lui scelti perché possiedono una comprovata esperienza), e decide in base ai report ricev ..."
-    },
-    {
       "id": "ad6fa20a337b",
       "title": "CM: Milan goalless in first halves – Cardinale’s ‘requests’ and Amorim’s ‘solutions’",
       "url": "https://sempremilan.com/milan-goalless-cardinale-request-amorim-solution",
@@ -106,100 +266,12 @@
       "summary": "AC Milan have one more game before the international break and it’s perhaps their most important fixture of the season so far. Who’d have thought a home game against Lecce would be pivotal already? However, Ruben Amorim is already facing questions from the media and the press. A pretty standard post"
     },
     {
-      "id": "06ef1010d53b",
-      "title": "Settore giovanile, il programma del weekend: domani in campo la Primavera",
-      "url": "https://www.milannews.it/la-primavera/settore-giovanile-programma-weekend-domani-campo-primavera-630248",
-      "source": "milannews.it",
-      "date": "2026-09-19T08:22:55+00:00",
-      "summary": "Il sito ufficiale del Milan riporta il programma del weekend del settore giovanile rossonero: \"Domenica di grandi appuntamenti per il Settore Giovanile rossonero, con ben cinque partite in programma."
-    },
-    {
-      "id": "a39a5b0ee6b7",
-      "title": "San Siro compie 100 anni. A.Serena: \"Andava ammodernato come il Bernabeu\"",
-      "url": "https://www.milannews.it/gli-ex/san-siro-compie-100-anni-a-serena-andava-ammodernato-bernabeu-630244",
-      "source": "milannews.it",
-      "date": "2026-09-19T08:10:15+00:00",
-      "summary": "Esattamente 100 anni fa, il 19 settembre 1926, si giocava la prima partita a San Siro, guarda caso un derby tra Milan e Inter: la partita finì 6-3 per i nerazzurri, ma il primo gol nel nuovo stadio milanese lo mise a segno il rossonero Sa ..."
-    },
-    {
-      "id": "00fa1bae83f0",
-      "title": "Milan, Pulisic verso la prima da titolare in stagione. E punta anche alla prima rete nel 2026",
-      "url": "https://www.milannews.it/primo-piano/milan-pulisic-titolare-stagione-punta-rete-2026-630247",
-      "source": "milannews.it",
-      "date": "2026-09-19T08:00:50+00:00",
-      "summary": "Ieri Chistian Pulisic ha festeggiato il suo 28° compleanno e Ruben Amorim è pronto a fargli un regalo: domani sera a San Siro contro il Lecce, l'attaccante americano dovrebbe infatti partite titolare per la prima volta in questa stagio ..."
-    },
-    {
       "id": "7a1e428db73e",
       "title": "GdS: ‘Experiments over’ – Amorim to rely on big names from now on",
       "url": "https://sempremilan.com/amorim-rely-on-big-names-now-on",
       "source": "sempremilan.com",
       "date": "2026-09-19T08:00:00+00:00",
       "summary": "For the past few weeks, AC Milan have had questions asked of their teams due to the choices made by Ruben Amorim. Now, it seems they’ll become a thing of the past. The loss to Benfica was a frustrating one, but it was not helped by the decisions made by Amorim. A sort of half […]\nThe post GdS: ‘Expe"
-    },
-    {
-      "id": "0ddce7d5705d",
-      "title": "Addio a Sandro Mazzola, il cordoglio del Milan: \"Rivale storico e leale, un uomo che ha rappresentato un’epoca indimenticabile del nostro calcio\"",
-      "url": "https://www.milannews.it/news/addio-sandro-mazzola-cordoglio-milan-rivale-storico-leale-rappresentato-un-epoca-indimenticabile-cal-630246",
-      "source": "milannews.it",
-      "date": "2026-09-19T07:47:05+00:00",
-      "summary": "Nelle scorse ore, è scomparso Sandro Mazzola, ex giocatore dell'Inter."
-    },
-    {
-      "id": "f87822382eff",
-      "title": "Milan, il ritorno di Cardinale a Milano non è legato alla sconfitta contro il Benfica: era già in programma",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-ritorno-cardinale-milano-legato-sconfitta-benfica-programma-630245",
-      "source": "milannews.it",
-      "date": "2026-09-19T07:35:13+00:00",
-      "summary": "Dopo il match di sabato scorso in casa della Lazio, Gerry Cardinale era ritornato negli Stati Uniti dopo alcune settimane in Europa per impegni lavorativi."
-    },
-    {
-      "id": "7536b60bd9ea",
-      "title": "Il QS verso Milan-Lecce: \"Amorim, stop agli esperimenti: Modric, Rabiot e Pulisic titolari\"",
-      "url": "https://www.milannews.it/rassegna-stampa/qs-milan-lecce-amorim-stop-esperimenti-modric-rabiot-pulisic-titolari-630242",
-      "source": "milannews.it",
-      "date": "2026-09-19T07:23:43+00:00",
-      "summary": "In vista di Milan-Lecce di domani sera a San Siro, il Quotidiano Sportivo titola così stamattina: \"Amorim, stop agli esperimenti: Modric, Rabiot e Pulisic titolari\"."
-    },
-    {
-      "id": "2e7c08ff5c6c",
-      "title": "Condò non ha dubbi: \"Amorim non rischia, a un allenatore così strutturato devi dare tempo\"",
-      "url": "https://www.milannews.it/rassegna-stampa/condo-dubbi-amorim-rischia-allenatore-strutturato-devi-dare-tempo-630240",
-      "source": "milannews.it",
-      "date": "2026-09-19T07:11:14+00:00",
-      "summary": "Paolo Condò, sulle pagine del Corriere della Sera, ha commentato il momento del Milan ed in particolare quello di Ruben Amorim che nelle ultime settimane è finito al centro di parecchie critiche per il gioco deludente della sua squadra."
-    },
-    {
-      "id": "cd8f0c3ed7dd",
-      "title": "Tuttosport titola sul Milan: \"Modric e Ramos. I volti della crisi\"",
-      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-titola-milan-modric-ramos-volti-crisi-630239",
-      "source": "milannews.it",
-      "date": "2026-09-19T06:59:39+00:00",
-      "summary": "\"Modric e Ramos. I volti della crisi\": titola così stamattina Tuttosport che spiega che il leader indiscusso dello spogliatoio del Milan e il grande colpo del mercato estivo rossonero non stanno riuscendo ad incidere."
-    },
-    {
-      "id": "7f03bc311b1c",
-      "title": "Milan, le possibili scelte di Amorim contro il Lecce: Pulisic e Rabiot sulla trequarti, anche Gila, Modric e Moreira dal 1'",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-possibili-scelte-amorim-lecce-pulisic-rabiot-trequarti-gila-modric-moreira-1-630238",
-      "source": "milannews.it",
-      "date": "2026-09-19T06:48:00+00:00",
-      "summary": "Dopo l'allenamento di scarico di giovedì all'indomani della gara di Europa League contro il Benfica, ieri il Milan ha iniziato a preparare la prossima partita di campionato contro il Lecce a Milanello."
-    },
-    {
-      "id": "ac18c48e7c9c",
-      "title": "Verso Milan-Lecce, Gazzetta: \"Torna il talismano Cardinale. Con lui rossoneri imbattuti\"",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-lecce-gazzetta-torna-talismano-cardinale-rossoneri-imbattuti-630237",
-      "source": "milannews.it",
-      "date": "2026-09-19T06:36:57+00:00",
-      "summary": "La Gazzetta dello Sport in edicola oggi titola così in vista di Milan-Lecce di domani sera: \"Torna il talismano Cardinale. Con lui rossoneri imbattuti\"."
-    },
-    {
-      "id": "2049cadb3a2c",
-      "title": "Tuttosport in prima pagina sull'Italia: \"Mancini, 9 deb e Milan sparito\"",
-      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-pagina-italia-mancini-9-deb-milan-sparito-630236",
-      "source": "milannews.it",
-      "date": "2026-09-19T06:24:12+00:00",
-      "summary": "L'edizione odierna di Tuttosport titola così stamattina in prima pagina: \"Mancini, 9 deb e Milan sparito\"."
     },
     {
       "id": "801aa6b8d5f3",
@@ -314,70 +386,6 @@
       "summary": "Serie A Round 5 is around the corner, and Football Italia has the full list..."
     },
     {
-      "id": "bc04daa51fb0",
-      "title": "GdS: From Milan’s pursuit to scoring against them – the background on Lukebakio",
-      "url": "https://sempremilan.com/milan-pursuit-scoring-against-background-lukebakio",
-      "source": "sempremilan.com",
-      "date": "2026-09-18T14:00:00+00:00",
-      "summary": "There was a time when Dodi Lukebakio could have been scoring goals for AC Milan rather than against them, as he did on Wednesday. La Gazzetta dello Sport rewind the clock to August 2025, when Milan were also negotiating for Adrien Rabiot with Marseille. Lukebakio’s name had also ended up on the list"
-    },
-    {
-      "id": "1498fa1f550b",
-      "title": "CM: ‘I’m ready to adapt’ – what Amorim could change to get more from Milan squad",
-      "url": "https://sempremilan.com/what-amorim-change-more-milan-squad",
-      "source": "sempremilan.com",
-      "date": "2026-09-18T13:30:00+00:00",
-      "summary": "Ruben Amorim revealed after the Benfica game that he is willing to adapt in order to get the most out of his AC Milan squad, but how might he change? The disappointing defeat against Benfica – both in terms of the result and the performance – has sparked debate over Amorim’s selection decisions. It "
-    },
-    {
-      "id": "96029eaff318",
-      "title": "Never right from minute one: Amorim’s worrying trend with starting XIs and substitutions",
-      "url": "https://sempremilan.com/amorim-worrying-trend-xis-substitutions",
-      "source": "sempremilan.com",
-      "date": "2026-09-18T13:00:00+00:00",
-      "summary": "Ruben Amorim’s AC Milan are digging themselves a hole with their first-half performances, and the starting line-ups might be to blame. Milan’s loss against Benfica confirmed what everyone has been saying about them so far: they start games poorly. The starting XI always seems wrong and Amorim, who d"
-    },
-    {
-      "id": "57513e0c3944",
-      "title": "SM Exclusive: Daniele Massaro on San Siro debut, favourite memories and Baresi’s influence",
-      "url": "https://sempremilan.com/massaro-exclusive-san-siro-memories-baresi",
-      "source": "sempremilan.com",
-      "date": "2026-09-18T12:30:00+00:00",
-      "summary": "San Siro is celebrating a very special landmark over the weekend as it turns 100 years old, and Daniele Massaro knows the stadium better than most. Massaro became one of the faces of Milan’s most successful era and is the embodiment of being a fan-favourite, among so many of his legendary team-mates"
-    },
-    {
-      "id": "34e281498209",
-      "title": "CM: A renewal and a €30-35m signing – the plan to strengthen Milan’s defence",
-      "url": "https://sempremilan.com/pavlovic-inacio-plan-strengthen-milan-defence",
-      "source": "sempremilan.com",
-      "date": "2026-09-18T12:00:00+00:00",
-      "summary": "The AC Milan management are plotting how to bolster the defensive department Ruben Amorim has to work with, a report claims. Calciomercato.com begin a report by stating that among the current weaknesses of Milan is a defensive line that Amorim himself defines as not yet being as calibrated as he wou"
-    },
-    {
-      "id": "ffd8612abeae",
-      "title": "GdS: Moreira, Modric, Pulisic, Rabiot – Amorim’s expected choices vs. Lecce",
-      "url": "https://sempremilan.com/amorim-expected-choices-vs-lecce",
-      "source": "sempremilan.com",
-      "date": "2026-09-18T11:30:00+00:00",
-      "summary": "Yet more changes in personnel are expected from Ruben Amorim when AC Milan take on Lecce in their final game before the break. As La Gazzetta dello Sport write, Milan returned to work immediately at Milanello yesterday. Those who started in the Europa League defeat Benfica underwent lighter work, bu"
-    },
-    {
-      "id": "195b1a02eb6e",
-      "title": "CorSport: Milan’s starts under Allegri and Amorim make for interesting comparison",
-      "url": "https://sempremilan.com/milan-starts-allegri-amorim-interesting-comparison",
-      "source": "sempremilan.com",
-      "date": "2026-09-18T11:00:00+00:00",
-      "summary": "AC Milan lost their first game of the season against Benfica on Wednesday night, but there is already a fatalistic narrative. Corriere dello Sport recall what Ruben Amorim said after the Europa League defeat: “We create few chances and don’t fill the penalty area.” This is just a brief summary of th"
-    },
-    {
-      "id": "6e3bea9b1d91",
-      "title": "“Wine with the grapes you have” – Capello critical of Milan’s performances under Amorim",
-      "url": "https://sempremilan.com/capello-amorim-wine-with-grapes-have",
-      "source": "sempremilan.com",
-      "date": "2026-09-18T10:30:00+00:00",
-      "summary": "Fabio Capello has some worries about the way that AC Milan are playing under Ruben Amorim, and about some individuals within the squad. There has been a lot of criticism levelled at Amorim and the Milan squad after their 2-0 loss to Benfica on Wednesday night. Not only did they lose their first Euro"
-    },
-    {
       "id": "fcf76fcd6d5f",
       "title": "Two Amorim priorities after Cardinale talks as Pulisic set for first Milan start of 2026-27",
       "url": "https://football-italia.net/amorim-priority-cardinale-pulisic-start-milan/",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-16T21:34:23+00:00",
       "summary": "Ruben Amorim admits Milan might have a mental block after their 2-0 Europa League defeat..."
-    },
-    {
-      "id": "f950a9b90246",
-      "title": "UEL | Milan 0-2 Benfica: Nightmare start to Europa League",
-      "url": "https://football-italia.net/uel-milan-0-2-benfica-nightmare-europa-league/",
-      "source": "football-italia.net",
-      "date": "2026-09-16T20:55:07+00:00",
-      "summary": "Milan had a nightmare start to the Europa League with a 2-0 home defeat to..."
     }
   ]
 }
