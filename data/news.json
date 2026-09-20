@@ -1,13 +1,277 @@
 {
-  "lastUpdated": "2026-09-20T20:25:41.937209+00:00",
+  "lastUpdated": "2026-09-20T22:58:24.078461+00:00",
   "articles": [
     {
-      "id": "99fb220bb924",
-      "title": "MILAN-LECCE (2-0). Stavolta altro che intervallo: primi cambi di Amorim al 69'. Moreira trequartista",
-      "url": "https://www.milannews.it/primo-piano/milan-lecce-diretta-live-serie-a-quinta-giornata-630397",
+      "id": "c56f097da5da",
+      "title": "Pulisic commenta con tristezza il suo 2026: \"È stato molto difficile\". Poi assicura: \"Ora basta, continuiamo a vincere\"",
+      "url": "https://www.milannews.it/news/pulisic-commenta-tristezza-2026-e-difficile-assicura-ora-basta-continuiamo-vincere-630444",
       "source": "milannews.it",
-      "date": "2026-09-20T20:16:01+00:00",
-      "summary": "69' | Stavolta niente sostituzioni all'intervallo, anzi: i primi cambi del Milan arrivano al minuto 69. Esce, tra gli applausi di San Siro, Christian Pulisic lasciando il posto a Ruben Loftus-Cheek."
+      "date": "2026-09-20T22:48:09+00:00",
+      "summary": "Christian Pulisic, attaccante rossonero, ha parlato a Dazn al termine di Milan-Lecce, match vinto per 3-0 dai rossoneri."
+    },
+    {
+      "id": "dc71de326a4a",
+      "title": "Occhio a Moreira: \"Credo di essere l'esempio principale ora: non parto titolare, ma entro dalla panchina, segno e penso di disputare buone partite\"",
+      "url": "https://www.milannews.it/news/occhio-moreira-credo-principale-ora-parto-titolare-entro-panchina-segno-penso-disputare-buone-partit-630445",
+      "source": "milannews.it",
+      "date": "2026-09-20T22:36:26+00:00",
+      "summary": "Diego Moreira, esterno del Milan, ha parlato a Dazn al termine della partita tra Milan e Lecce, vinta per 3-0 dai rossoneri."
+    },
+    {
+      "id": "387144be3998",
+      "title": "Rivelazione di Amorim: \"A Manchester ho fatto un errore, qui al Milan non voglio ripeterlo\"",
+      "url": "https://www.milannews.it/news/rivelazione-amorim-a-manchester-errore-milan-voglio-ripeterlo-630443",
+      "source": "milannews.it",
+      "date": "2026-09-20T22:24:18+00:00",
+      "summary": "Ruben Amorim, allenatore rossonero, ha rilasciato una intervista a Dazn al termine di Milan-Lecce, match vinto 3-0 da Pulisic e compagni."
+    },
+    {
+      "id": "886b07fc7da2",
+      "title": "Bergomi: \"Ramos sa giocare a calcio, lo vedi da come lega il gioco\"",
+      "url": "https://www.milannews.it/news/bergomi-ramos-sa-giocare-calcio-vedi-lega-gioco-630438",
+      "source": "milannews.it",
+      "date": "2026-09-20T22:12:59+00:00",
+      "summary": "Tra i temi di serata, e non mancheremo di snocciolarlo al meglio nei prossimi giorni con varie analisi, c'è quello della posizione e della prestazione di Gonçalo Ramos."
+    },
+    {
+      "id": "031d23422bd1",
+      "title": "L'atto di Amorim: cambiare per arrivare al risultato. Krosche può tornare in auge per il ruolo di ds",
+      "url": "https://www.milannews.it/editoriale/atto-amorim-cambiare-arrivare-risultato-krosche-tornare-auge-ruolo-ds-630436",
+      "source": "milannews.it",
+      "date": "2026-09-20T22:00:01+00:00",
+      "summary": "Il Milan ha vinto contro il Lecce e chiude per come doveva chiudere il primo ciclo di partite in campionato, con la macchia della sconfitta in Europa League contro il Benfica."
+    },
+    {
+      "id": "1231e0ab6661",
+      "title": "Pulisic on ‘difficult 2026’ as Saelemaekers says Milan ‘enjoyed ourselves’",
+      "url": "https://football-italia.net/pulisic-on-difficult-2026-saelemaekers-milan/",
+      "source": "football-italia.net",
+      "date": "2026-09-20T21:59:35+00:00",
+      "summary": "Christian Pulisic admits he had a ‘very difficult’ 2026 for Milan and the USMNT, but..."
+    },
+    {
+      "id": "b26aff297060",
+      "title": "Moreira content with super sub role but also ‘ready to start every game’",
+      "url": "https://sempremilan.com/moreira-content-super-sub-ready-start",
+      "source": "sempremilan.com",
+      "date": "2026-09-20T21:56:56+00:00",
+      "summary": "Diego Moreira got another goal off the bench for AC Milan, sealing the deal against Lecce, and he seems to be content with his role.  Many raised their eyebrows at Ruben Amorim’s decision to start Pervis Estupinan on the left-hand side as opposed to Moreira. The Ecuadorian wasn’t bad overall, but th"
+    },
+    {
+      "id": "8da3e84f2b8b",
+      "title": "“Need time to find the right harmony” – Cardinale comments after Milan beat Lecce",
+      "url": "https://sempremilan.com/cardinale-comments-after-milan-beat-lecce",
+      "source": "sempremilan.com",
+      "date": "2026-09-20T21:52:25+00:00",
+      "summary": "AC Milan owner Gerry Cardinale spoke to the media after the final whistle at San Siro following the 3-0 win over Lecce. Milan won rather comfortably at San Siro against Lecce, but above all it was the convincing nature of their performance which stood out. It means that Ruben Amorim’s team go into t"
+    },
+    {
+      "id": "ed988936fc19",
+      "title": "Il gol di Pulisic ha sfatato un tabù: il Milan è tornato a segnare nel primo tempo",
+      "url": "https://www.milannews.it/news/gol-pulisic-sfatato-tabu-milan-tornato-segnare-630408",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:48:40+00:00",
+      "summary": "Oltre ad essere stato molto bello, la rete al quindicesimo minuto di Christian Pulisic è stata anche piuttosto significativa, dato che ha sfatato una sorta di tabù che durava da inizio stagione."
+    },
+    {
+      "id": "a260369e99cd",
+      "title": "Pulisic happy but ‘very tired’ after breaking Milan goal drought in ‘very difficult’ 2026",
+      "url": "https://sempremilan.com/pulisic-happy-very-tired-milan-drought",
+      "source": "sempremilan.com",
+      "date": "2026-09-20T21:44:43+00:00",
+      "summary": "Christian Pulisic was delighted to get off the mark for AC Milan in 2026, and was even happier that it came in a winning effort. Milan needed to get back to winning ways after a difficult couple of weeks, and they did so in convincing fashion by beating Lecce 3-0. Pulisic was the Man of […]\nThe post"
+    },
+    {
+      "id": "39512544997e",
+      "title": "Moreira: ‘So happy at first Milan home goal, ready to start’ after three off bench",
+      "url": "https://football-italia.net/moreira-happy-milan-home-goal-ready-start/",
+      "source": "football-italia.net",
+      "date": "2026-09-20T21:40:55+00:00",
+      "summary": "Diego Moreira ‘really loved’ scoring at San Siro in front of the Milan fans, and..."
+    },
+    {
+      "id": "96d00a310186",
+      "title": "Huge win to bounce back: Instant reaction to AC Milan 3-0 Lecce",
+      "url": "https://sempremilan.com/instant-reaction-milan-3-0-lecce-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-09-20T21:39:29+00:00",
+      "summary": "Lorenzo recorded his reaction to AC Milan’s important 3-0 win against Lecce straight after the full-time whistle, praising the Rossoneri for their response.  After the draws against Juventus and Lazio, and the mid-week defeat against Benfica, a reaction is exactly what was needed this evening. After"
+    },
+    {
+      "id": "8d916096b2b9",
+      "title": "MN - Cardinale: \"Tra i migliori 90 minuti di calcio visti. Non deve sfuggire a nessuno che un nuovo allenatore avrà bisogno di tempo\"",
+      "url": "https://www.milannews.it/primo-piano/mn-cardinale-tra-migliori-90-minuti-calcio-visti-sfuggire-allenatore-bisogno-tempo-630437",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:38:00+00:00",
+      "summary": "Il Milan vince 3-0 a San Siro contro il Lecce, ma soprattutto convince. La squadra di Amorim arriva alla sosta per le nazionali con tre vittorie e due pareggi in Serie A, senza mai perdere."
+    },
+    {
+      "id": "b459e9ff0172",
+      "title": "LIVE MN - Gaspar: \"Dobbiamo capire il momento e prenderci le nostre responsabilità\"",
+      "url": "https://www.milannews.it/l-avversario/live-mn-gaspar-dobbiamo-capire-prenderci-responsabilita-630441",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:36:15+00:00",
+      "summary": "Kialonda Gaspar, giocatore del Lecce, è intervenuto in conferenza stampa post Milan-Lecce."
+    },
+    {
+      "id": "8fdfe1eae101",
+      "title": "Saelemaekers a Dazn: \"Settimana difficile, ma oggi ci siamo divertiti. Amorim sta cercando di trasmettere mentalità\"",
+      "url": "https://www.milannews.it/news/saelemaekers-dazn-settimana-difficile-divertiti-amorim-cercando-trasmettere-mentalita-630440",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:35:24+00:00",
+      "summary": "Alexis Saelemaekers, attaccante rossonero, ha parlato a Dazn al termine di Milan-Lecce, match vinto per 3-0 dai rossoneri.\n\nC'era da festeggiare oggi."
+    },
+    {
+      "id": "ce05c1818ecb",
+      "title": "La pagella di Goncalo Ramos: assist al bacio per Rabiot e fa partire lui il gol di Moreira",
+      "url": "https://www.milannews.it/news/pagella-goncalo-ramos-assist-bacio-rabiot-partire-gol-moreira-630442",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:34:24+00:00",
+      "summary": "Si riporta di seguito la pagella per Milan-Lecce di Goncalo Ramos, calciatore rossonero, scritta da Pietro Mazzara per MilanNews.it."
+    },
+    {
+      "id": "a529222105a5",
+      "title": "Pulisic a Dazn: \"Ho corso troppo, sono stanco. 2026 difficile per me e per la squadra. Ma ora basta!\"",
+      "url": "https://www.milannews.it/news/pulisic-dazn-ho-corso-troppo-stanco-2026-difficile-squadra-basta-630439",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:31:36+00:00",
+      "summary": "Christian Pulisic, attaccante rossonero, ha parlato a Dazn al termine di Milan-Lecce, match vinto per 3-0 dai rossoneri, con un gol segnato proprio dall'americano utile per aprire le danze."
+    },
+    {
+      "id": "a64b7b4be03e",
+      "title": "De Winter explains why Milan went with a back four vs. Lecce: “Did what the coach said”",
+      "url": "https://sempremilan.com/de-winter-why-milan-back-four-lecce",
+      "source": "sempremilan.com",
+      "date": "2026-09-20T21:30:14+00:00",
+      "summary": "Koni De Winter has revealed that AC Milan set up with a four-man defence against Lecce to try and exploit one key aspect. It was important that Milan bounced back after drawing their two most recent Serie A games before losing to Benfica in their Europa League opener on Wednesday night, and they did"
+    },
+    {
+      "id": "04833862211b",
+      "title": "Moreira a Dazn: \"Non parto titolare, entro e segno: so bene cosa voglio. Tre gol in 75 minuti? Not bad\"",
+      "url": "https://www.milannews.it/news/moreira-dazn-non-parto-titolare-entro-segno-so-voglio-gol-75-minuti-not-bad-630435",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:25:10+00:00",
+      "summary": "Diego Moreira, esterno del Milan, ha parlato a Dazn al termine della partita tra Milan e Lecce, vinta per 3-0 dai rossoneri.\n\nTre gol in 75 minuti."
+    },
+    {
+      "id": "b41c3eab13d3",
+      "title": "Lecce, Di Francesco: \"Non accettabile è la differenza che c'è stata tra noi e loro. Gol di Pulisic eccellente\"",
+      "url": "https://www.milannews.it/news/lecce-francesco-non-accettabile-differenza-loro-gol-pulisic-eccellente-630434",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:19:48+00:00",
+      "summary": "Eusebio Di Francesco, allenatore del Lecce, ha parlato a Dazn al termine della partita contro il Milan, vinta per 3-0 dai rossoneri.\n\nNon avevate il giusto spirito?\n\n\"Credo che se veniamo a giocare qui e non siamo accesi, facciamo fatica."
+    },
+    {
+      "id": "bd333051aa6f",
+      "title": "Amorim: ‘Milan freedom, I can’t make same Manchester United mistakes’",
+      "url": "https://football-italia.net/amorim-milan-freedom-manchester-united-mistake/",
+      "source": "football-italia.net",
+      "date": "2026-09-20T21:16:51+00:00",
+      "summary": "Ruben Amorim admits he gave Milan ‘more freedom’ in the 3-0 win over Lecce, because..."
+    },
+    {
+      "id": "56da02ae85c7",
+      "title": "Amorim outlines ‘key factor’ as ‘dangerous’ Milan play with ‘freedom’ in Lecce win",
+      "url": "https://sempremilan.com/amorim-key-factor-dangerous-milan-freedom",
+      "source": "sempremilan.com",
+      "date": "2026-09-20T21:16:43+00:00",
+      "summary": "Ruben Amorim was happy that his AC Milan side begun to show what they can be during their convincing win over Lecce. Milan needed to return to winning ways before the first extended international break of the season, and they did so with a comfortable 3-0 win over Lecce. Christian Pulisic scored his"
+    },
+    {
+      "id": "74d2e770d95b",
+      "title": "Amorim spiega: \"A Manchester avevo fatto un errore e al Milan non voglio commetterlo: se non abbiamo le caratteristiche ideali, ci adattiamo un minimo\"",
+      "url": "https://www.milannews.it/news/amorim-spiega-a-manchester-errore-milan-voglio-commetterlo-caratteristiche-ideali-adattiamo-minimo-630433",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:14:09+00:00",
+      "summary": "Ruben Amorim, allenatore rossonero, ha rilasciato una intervista a Dazn al termine di Milan-Lecce, match vinto 3-0 da Pulisic e compagni."
+    },
+    {
+      "id": "538b4a550506",
+      "title": "LIVE MN - De Winter: \"Ci siamo messi a 4 per rendere Chukwu più offensivo. Avere la fiducia del mister aiuta molto\"",
+      "url": "https://www.milannews.it/news/live-mn-de-winter-ci-messi-4-rendere-chukwu-offensivo-fiducia-mister-aiuta-molto-630432",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:13:50+00:00",
+      "summary": "Koni De Winter, giocatore del Milan, è intervenuto in conferenza stampa post Milan-Lecce.\n\nCome mai vi siete schierati a 4 dietro?\n\"Abbiamo iniziato a 4 per rendere Chukwu un po' più offensivo."
+    },
+    {
+      "id": "dfe416a2e1d5",
+      "title": "Di Canio: \"Il gol di Pulisic è da fuoriclasse, un pezzo da Messi o Ronaldo\"",
+      "url": "https://www.milannews.it/news/canio-il-gol-pulisic-fuoriclasse-pezzo-messi-ronaldo-630431",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:10:50+00:00",
+      "summary": "Lancio lungo di Pavlovic, inserimento alle spalle, controllo spaziale e sinistro immediato per il ritorno al gol che mancava da oltre 250 giorni. La rete di Christian Pulisic è da cineteca e a Sky Calcio Club l'hanno analizzato a lungo."
+    },
+    {
+      "id": "9449f0c40998",
+      "title": "Amorim a Dazn: \"Nelle ultime partite eravamo rigidi nelle posizioni, oggi più liberi. Inter e Roma distanti da noi\"",
+      "url": "https://www.milannews.it/news/amorim-nelle-ultime-partite-rigidi-posizioni-liberi-inter-roma-distanti-noi-630430",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:05:00+00:00",
+      "summary": "Ruben Amorim, allenatore rossonero, ha rilasciato una intervista a Dazn al termine di Milan-Lecce, match vinto 3-0 da Pulisic e compagni.\n\nÈ soddisfatto della partita?\n\n\"Siamo migliorati molto."
+    },
+    {
+      "id": "de2c089440e9",
+      "title": "Player Ratings: AC Milan 3-0 Lecce – Pulisic shines; midfield duo key",
+      "url": "https://sempremilan.com/player-ratings-ac-milan-3-0-lecce-pulisic",
+      "source": "sempremilan.com",
+      "date": "2026-09-20T21:03:15+00:00",
+      "summary": "AC Milan bounced back with a dominant performance against Lecce on Sunday evening, finding the back of the net three times. Below are the player ratings for the Rossoneri.  After the mid-week defeat to Benfica and the subsequent criticism, Ruben Amorim and his men were eager to clinch all three poin"
+    },
+    {
+      "id": "a8983ca2bb24",
+      "title": "LIVE MN - Di Francesco: \"Certi momenti di black out contro il Milan non te li puoi permettere. Camarda? Lo lascerei tranquillo\"",
+      "url": "https://www.milannews.it/l-avversario/live-mn-conferenza-stampa-francesco-post-milan-lecce-630426",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:00:13+00:00",
+      "summary": "Tra poco il tecnico del Lecce Eusebio Di Francesco interverrà in conferenza stampa nel post partita di Milan-Lecce."
+    },
+    {
+      "id": "effb2055fccc",
+      "title": "Player ratings: Milan 3-0 Lecce – Pulisic steals the show, Moreira off the bench again",
+      "url": "https://football-italia.net/player-ratings-milan-3-0-lecce-pulisic/",
+      "source": "football-italia.net",
+      "date": "2026-09-20T21:00:10+00:00",
+      "summary": "Christian Pulisic stole the show with his brilliantly-taken opening goal in Milan’s eventual 3-0 Serie..."
+    },
+    {
+      "id": "09126f782fa4",
+      "title": "LIVE MN - Amorim: \"Siamo ancora all'inizio. Utilizzerò al meglio questa sosta\"",
+      "url": "https://www.milannews.it/primo-piano/live-mn-conferenza-stampa-amorim-post-milan-lecce-630423",
+      "source": "milannews.it",
+      "date": "2026-09-20T21:00:00+00:00",
+      "summary": "Tra poco il tecnico del Milan Ruben Amorim interverrà in conferenza stampa nel post partita di Milan-Lecce. \n\nL'obiettivo è quello di continuare sempre così?\n\"Certo."
+    },
+    {
+      "id": "38a3e17b74fd",
+      "title": "Bergomi: \"Durante la partita mi è arrivato un messaggino...\"",
+      "url": "https://www.milannews.it/news/bergomi-durante-partita-arrivato-messaggino-630428",
+      "source": "milannews.it",
+      "date": "2026-09-20T20:59:16+00:00",
+      "summary": "Il Milan vince 3-0 contro il Lecce con una prestazione finalmente molto convincente. Piccola sorpresa da parte di Ruben Amorim, che ha schierato la squadra con un inedito 4-4-2."
+    },
+    {
+      "id": "2371b87ff303",
+      "title": "AC Milan 3-0 Lecce: Pulisic, Rabiot and Moreira score to celebrate San Siro’s 100th birthday in style",
+      "url": "https://sempremilan.com/ac-milan-3-0-lecce-match-report-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-09-20T20:43:21+00:00",
+      "summary": "AC Milan ensured they will go into the international break with a bit more positivity as they comfortably beat Lecce 3-0 at San Siro. The first goal of the game came in the first half through Christian Pulisic, who brought down an aerial through ball brilliantly and then finished with his next touch"
+    },
+    {
+      "id": "12017e548aa3",
+      "title": "Serie A | Milan 3-0 Lecce: Pulisic first goal inspires Amorim",
+      "url": "https://football-italia.net/serie-a-milan-3-0-lecce-pulisic-goal-inspires/",
+      "source": "football-italia.net",
+      "date": "2026-09-20T20:39:14+00:00",
+      "summary": "Christian Pulisic made a triumphant return to the starting XI, scoring in Milan’s 3-0 win..."
+    },
+    {
+      "id": "bf371a50367c",
+      "title": "Watch: Moreira gets third Milan goal to put the game to bed against Lecce",
+      "url": "https://sempremilan.com/watch-moreira-third-milan-goal-lecce",
+      "source": "sempremilan.com",
+      "date": "2026-09-20T20:26:19+00:00",
+      "summary": "AC Milan got their third of the night and Diego Moreira his third goal of the season, creating some nice breathing room against Lecce. Amorim’s side were really beginning to enjoy themselves in San Siro’s 100th birthday game after Adrien Rabiot scored the second goal of the night, and they got a thi"
     },
     {
       "id": "e9283885093b",
@@ -18,92 +282,12 @@
       "summary": "AC Milan doubled their advantage against Lecce right on the hour mark, with Adrien Rabiot netting his second goal of the season. Just as Milan were perhaps beginning to wonder if the second goal was ever going to come following a string of missed chances and an offside goal from Strahinja Pavlovic, "
     },
     {
-      "id": "fc3813658005",
-      "title": "MIL-LEC (2-0): standing ovation per Pulisic, fuori anche Saelemaekers. Dentro Loftus e Moreira",
-      "url": "https://www.milannews.it/news/mil-lec-2-0-standing-ovation-pulisic-saelemaekers-loftus-moreira-630412",
-      "source": "milannews.it",
-      "date": "2026-09-20T20:14:00+00:00",
-      "summary": "Arrivati al minuto 70 Ruben Amorim ha deciso di mettere mano alla panchina cambiando un po' gli interpreti della sua squadra."
-    },
-    {
-      "id": "a4b5b0a067cf",
-      "title": "La Juventus si schiera contro i suoi tifosi che hanno voltato le spalle a Sandro Mazzola",
-      "url": "https://www.milannews.it/news/juventus-schiera-tifosi-voltato-spalle-sandro-mazzola-630411",
-      "source": "milannews.it",
-      "date": "2026-09-20T20:10:00+00:00",
-      "summary": "\"Non c’è rivalità che possa giustificare la mancanza di rispetto durante un minuto di silenzio."
-    },
-    {
-      "id": "c6e68d76bd63",
-      "title": "MIL-LEC (2-0): raddoppio rossonero, ha segnato Rabiot",
-      "url": "https://www.milannews.it/news/mil-lec-2-0-raddoppio-rossonero-segnato-rabiot-630410",
-      "source": "milannews.it",
-      "date": "2026-09-20T20:06:59+00:00",
-      "summary": "Al minuto 62 il Milan trova la rete del raddoppio (meritato)."
-    },
-    {
-      "id": "7f1833311633",
-      "title": "MIL-LEC (1-0): annullata la rete del raddoppio a Pavlovic per fuorigioco",
-      "url": "https://www.milannews.it/news/mil-lec-1-0-annullata-rete-raddoppio-pavlovic-fuorigioco-630409",
-      "source": "milannews.it",
-      "date": "2026-09-20T20:01:56+00:00",
-      "summary": "Al minuto 56 il Milan aveva trovato la rete del raddoppio dopo aver chiuso nella propria area di rigore il Lecce per qualche minuto."
-    },
-    {
-      "id": "faf204b70a77",
-      "title": "Milan, Giaccherini avvisa: \"I rossoneri corrono tanto in avanti, ma subiscono molto in ripartenza\"",
-      "url": "https://www.milannews.it/news/milan-giaccherini-avvisa-i-rossoneri-corrono-avanti-subiscono-ripartenza-630379",
-      "source": "milannews.it",
-      "date": "2026-09-20T19:48:04+00:00",
-      "summary": "Dopo la debacle in Europa League contro il Benfica, il Milan di Ruben Amorim cerca riscatto immediato in campionato. Stasera alle 20."
-    },
-    {
-      "id": "5fa78fbe6e7b",
-      "title": "Milan-Lecce 1-0 all'intervallo: buona prova dei rossoneri e idee interessanti",
-      "url": "https://www.milannews.it/news/milan-lecce-1-0-intervallo-buona-prova-rossoneri-idee-interessanti-630407",
-      "source": "milannews.it",
-      "date": "2026-09-20T19:42:02+00:00",
-      "summary": "I primi quarantacinque minuti di Milan-Lecce si concludono con i rossoneri in vantaggio per 1-0 grazie al gran gol di Pulisic, ma il punteggio sarebbe potuto essere ancora più rotondo."
-    },
-    {
-      "id": "f7d7411c38ff",
-      "title": "MN - Presenti in tribuna autorità per la sfida contro il Lecce i campioni d'Italia del Milan U15",
-      "url": "https://www.milannews.it/news/mn-presente-tribuna-autorita-sfida-lecce-campioni-italia-milan-u15-630399",
-      "source": "milannews.it",
-      "date": "2026-09-20T19:36:49+00:00",
-      "summary": "Apprende la redazione di MilanNews.it che in occasione della sfida di questa sera contro il Lecce a San Siro, in tribuna autorità, è presente il Milan U15 maschile che nella passata stagione si è laureato campione d'Italia."
-    },
-    {
-      "id": "89129b209998",
-      "title": "MIL-LEC (1-0): primo tempo di controllo dei rossoneri. Pulisic fa la differenza, ma poi troppo egoismo",
-      "url": "https://www.milannews.it/news/mil-lec-1-0-controllo-rossoneri-pulisic-differenza-egoismo-630406",
-      "source": "milannews.it",
-      "date": "2026-09-20T19:36:16+00:00",
-      "summary": "Termina il primo tempo a San Siro: Milan in vantaggio per 1-0 grazie ad un gol superbo di Pulisic su lancio di Pavlovic al 14esimo minuto."
-    },
-    {
-      "id": "f6526ed1c936",
-      "title": "MN - Sala crede in Ramos: \"Da Milanello me lo raccontano come un giocatore fuori categoria\"",
-      "url": "https://www.milannews.it/news/mn-sala-crede-ramos-da-milanello-raccontano-giocatore-categoria-630384",
-      "source": "milannews.it",
-      "date": "2026-09-20T19:24:55+00:00",
-      "summary": "In esclusiva per MilanNews.it, il giornalista e bordocampista di DAZN Federico Sala, ha parlato così dell'attuale momento dei rossoneri di mister Amorim."
-    },
-    {
       "id": "c4939e19f211",
       "title": "Video: Pulisic finally breaks Milan drought with first goal of 2026 at club level",
       "url": "https://football-italia.net/video-pulisic-finally-breaks-milan-drought/",
       "source": "football-italia.net",
       "date": "2026-09-20T19:20:36+00:00",
       "summary": "Christian Pulisic has finally ended his goalscoring drought for Milan, opening the scoring against Lecce..."
-    },
-    {
-      "id": "46c9f011fb72",
-      "title": "Ferrara difende Amorim: \"Lui è per la prima volta in Italia. Anche le difficoltà della lingua...non è certamente facile\"",
-      "url": "https://www.milannews.it/news/ferrara-difende-amorim-lui-italia-difficolta-lingua-non-certamente-facile-630394",
-      "source": "milannews.it",
-      "date": "2026-09-20T19:12:56+00:00",
-      "summary": "Ciro Ferrara, nel pre partita di Milan-Lecce su DAZN, dice la sua sul discorso tempo e pazienza per quanto riguarda gli allenatori stranieri in Italia."
     },
     {
       "id": "893fc7c2fe0c",
@@ -114,84 +298,12 @@
       "summary": "AC Milan got the first goal of the night against Lecce at San Siro, and it came thanks to a beautiful touch from Christian Pulisic. Milan broke the deadlock in the 14th minute and it was a moment of real quality that yielded the opening goal. Pulisic made a dart in behind off the shoulder […]\nThe po"
     },
     {
-      "id": "b00cdf58dc73",
-      "title": "MN - Milan-Lecce, per Amorim prime prove di 4-4-2",
-      "url": "https://www.milannews.it/news/mn-milan-lecce-amorim-prime-prove-4-4-2-630405",
-      "source": "milannews.it",
-      "date": "2026-09-20T19:07:50+00:00",
-      "summary": "Nell'avvicinamento a Milan-Lecce Amorim alla fine l'aveva detto: la sua idea calcistica non è confinata al modulo - il 3-4-2-1 - ma a movimenti, interpretazioni, velocità e mentalità."
-    },
-    {
-      "id": "396b01e31c09",
-      "title": "MIL-LEC (1-0): dopo 266 giorni Pulisic torna a segnare, e lo fa in grande stile. Milan in vantaggio",
-      "url": "https://www.milannews.it/news/mil-lec-1-0-266-pulisic-torna-segnare-stile-milan-vantaggio-630404",
-      "source": "milannews.it",
-      "date": "2026-09-20T19:01:28+00:00",
-      "summary": "Dopo 15 minuti si sblocca il risultato a San Siro. A 266 giorni dall'ultima volta Christian Pulisic torna a timbrare il tabellino dei marcatori, e lo fa in grandissimo stile."
-    },
-    {
-      "id": "2d2b8451451a",
-      "title": "MN - Milan-Lecce, il dato sulle presenze a San Siro: 73.197 biglietti venduti",
-      "url": "https://www.milannews.it/news/mn-milan-lecce-dato-presenze-san-siro-73-197-biglietti-venduti-630403",
-      "source": "milannews.it",
-      "date": "2026-09-20T19:00:58+00:00",
-      "summary": "Il Milan ha comunicato il dato definitivo degli spettatori presenti questa sera a San Siro per la gara contro il Lezze, valida per la 5^ giornata del campionato di Serie A Enilve: sono stati venduti 73.197 biglietti, abbonamenti compresi."
-    },
-    {
-      "id": "d92d6b508b36",
-      "title": "MN - Applausi di San Siro al termine del minuto di raccoglimento per Mazzola",
-      "url": "https://www.milannews.it/news/mn-applausi-san-siro-termine-minuto-raccoglimento-mazzola-630402",
-      "source": "milannews.it",
-      "date": "2026-09-20T18:47:58+00:00",
-      "summary": "Poco prima e dopo il minuto di raccoglimento nel ricordo di Sandro Mazzola, leggenda dell'Inter scomparsa ieri all'età di 83 anni, San Siro gli ha dedicato un caloroso abbraccio, riconoscendo il grande avversario che è stato."
-    },
-    {
-      "id": "93b2eeb00d03",
-      "title": "Pavlovic non si fa distrarre: \"Dobbiamo pensare solo a noi stessi, lavorare di più\"",
-      "url": "https://www.milannews.it/news/pavlovic-distrarre-dobbiamo-pensare-stessi-lavorare-piu-630392",
-      "source": "milannews.it",
-      "date": "2026-09-20T18:46:01+00:00",
-      "summary": "Strahinja Pavlovic, anche oggi titolare, ha parlato a DAZN nel pre partita di Milan-Lecce a San Siro. Queste le sue dichiarazioni:\n\nSulla classifica:\n\n“Siamo ancora all’inizio della stagione."
-    },
-    {
-      "id": "598485f628f9",
-      "title": "San Siro fa 100 anni ed il Milan lo omaggia con un video prima della partita col Lecce",
-      "url": "https://www.milannews.it/news/san-siro-100-milan-omaggia-video-partita-lecce-630401",
-      "source": "milannews.it",
-      "date": "2026-09-20T18:40:24+00:00",
-      "summary": "19 settembre 1926, 19 settembre 2026. San Siro compie 100 anni ed il Milan, nella sera della sfida di Serie A contro il Lecce, rende omaggio all'impianto che ha fatto la storia dei rossoneri, di Milano e dell'Italia intera."
-    },
-    {
       "id": "7ad820ea1e62",
       "title": "Serie A Liveblog: Fiorentina-Napoli, Juventus-Atalanta, Milan-Lecce and more",
       "url": "https://football-italia.net/serie-a-liveblog-fiorentina-napoli-juventus-atalanta-milan-lecce-and-more/",
       "source": "football-italia.net",
       "date": "2026-09-20T18:40:08+00:00",
       "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "42eb8e920d51",
-      "title": "MN - Presente a bordocampo con Cardinale anche la tennista Aryna Sabalenka",
-      "url": "https://www.milannews.it/news/mn-presente-bordocampo-cardinale-tennista-aryna-sabalenka-630400",
-      "source": "milannews.it",
-      "date": "2026-09-20T18:38:03+00:00",
-      "summary": "Durante il riscaldamento del Milan, al fianco di Gerry Cardinale, proprietario del Milan, era presente anche la tennista bielorussa Aryna Sabalenka, reduce dalla finale agli US Open."
-    },
-    {
-      "id": "200905e78cd2",
-      "title": "Behrami: \"Sto vedendo una squadra che sta cercando di fare quello che sta chiedendo Amorim, forse anche troppo: sta diventando troppo robotica\"",
-      "url": "https://www.milannews.it/news/behrami-sto-vedendo-squadra-cercando-chiedendo-amorim-troppo-diventando-robotica-630391",
-      "source": "milannews.it",
-      "date": "2026-09-20T18:34:50+00:00",
-      "summary": "Nel pre partita di Milan-Lecce su DAZN si parla delle idee di Amorim e di come la squadra rossonera sta provando a metterle in campo in questo avvio di campionato."
-    },
-    {
-      "id": "d1c63f86df2b",
-      "title": "Lecce, Danilo Veiga: \"Dobbiamo provare a rubare punti oggi\"",
-      "url": "https://www.milannews.it/l-avversario/lecce-danilo-veiga-dobbiamo-provare-rubare-punti-oggi-630389",
-      "source": "milannews.it",
-      "date": "2026-09-20T18:24:53+00:00",
-      "summary": "Danilo Veiga, terzino del Lecce, ha parlato a DAZN prima della sfida di San Siro contro il Milan. Queste le sue parole."
     },
     {
       "id": "74761cafba43",
@@ -282,38 +394,6 @@
       "summary": "Giovanni Renna spoke to the club’s channels after Milan Primavera’s defeat against Roma, once again putting themselves in a difficult position.  The defeat to Hellas Verona last weekend was followed up by yet another defeat earlier today. Instead of one red card as against the Gialloblu, Milan recei"
     },
     {
-      "id": "950280179bc0",
-      "title": "Milan Primavera 0-1 Roma: Second consecutive defeat after two red cards",
-      "url": "https://sempremilan.com/milan-primavera-0-1-roma-report-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-09-20T13:00:00+00:00",
-      "summary": "Milan Primavera suffered yet another defeat against Roma earlier today as red cards, once again, affected the outcome of the game.  After starting the season with two wins and a draw, certainly showing promising signs, Milan Primavera have now lost two games on the trot. 0-2 against Hellas Verona la"
-    },
-    {
-      "id": "512c139bb680",
-      "title": "CM: Starting spot and revived renewal talks – Milan’s plan for Pulisic",
-      "url": "https://sempremilan.com/starting-spot-renewal-talks-milan-pulisic",
-      "source": "sempremilan.com",
-      "date": "2026-09-20T12:30:00+00:00",
-      "summary": "Christian Pulisic will be back in the starting eleven for the first time this season tonight, which AC Milan believe could be a turning point on multiple fronts.  Five games into the season, including the Europa League, Pulisic is finally ready to make his first start of the campaign. An injury forc"
-    },
-    {
-      "id": "564780e82d80",
-      "title": "La Penna is the referee for Milan vs. Lecce: His record with the Rossoneri",
-      "url": "https://sempremilan.com/la-penna-referee-milan-lecce-record",
-      "source": "sempremilan.com",
-      "date": "2026-09-20T12:00:00+00:00",
-      "summary": "Federico La Penna has been named the referee for AC Milan’s clash against Lecce, officiating his third game of the season.  Milan are looking to bounce back from a little bit of a slump, drawing two games and losing one. The most frustrating part has arguably been the slow first halves which, at lea"
-    },
-    {
-      "id": "34bbd024ed16",
-      "title": "A perfect rebound match: All the key stats ahead of Milan vs. Lecce",
-      "url": "https://sempremilan.com/all-key-stats-ac-milan-lecce-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-09-20T11:30:00+00:00",
-      "summary": "AC Milan are taking on Lecce in the fifth round of Serie A this evening, desperate to get back to winning ways ahead of the international break.  Two draws against Juventus and Lazio, as well as a mid-week defeat to Benfica, have put Milan in a somewhat troubling position. The pressure is mounting o"
-    },
-    {
       "id": "8f3ae9782c2e",
       "title": "Serie A: Milan vs. Lecce – probable line-ups, where to watch on TV",
       "url": "https://football-italia.net/serie-a-milan-v-lecce-probable-line-ups-tv/",
@@ -322,52 +402,12 @@
       "summary": "Christian Pulisic is set to make his first Milan start of the season as the..."
     },
     {
-      "id": "4cfcaceeb900",
-      "title": "Wing-back worry and a must up front: The five key battles in Milan vs. Lecce",
-      "url": "https://sempremilan.com/five-key-battles-milan-lecce-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-09-20T11:00:00+00:00",
-      "summary": "AC Milan are taking on Lecce at San Siro this evening, hoping to get back to winning ways, and there are five key battles to keep an extra eye on.  After the draws against Juventus and Lazio in the league, as well the defeat to Benfica in the Europa League, Milan need to clinch a […]\nThe post Wing-b"
-    },
-    {
-      "id": "4f0bb97bffbb",
-      "title": "Watch: “A nice little statement” – Score predictions for Milan-Lecce",
-      "url": "https://sempremilan.com/little-statement-score-predictions-milan-lecce",
-      "source": "sempremilan.com",
-      "date": "2026-09-20T10:30:00+00:00",
-      "summary": "The podcast crew are all optimistic about AC Milan’s game against Lecce this evening, tipping them to win and to keep a clean sheet.  After the draws against Juventus and Lazio, Milan really need to bounce back with a win in the league and they have a perfect opportunity tonight. Lecce may have won "
-    },
-    {
-      "id": "05c2dae427f6",
-      "title": "Start attempt or super sub: Amorim faces Moreira dilemma ahead of Milan-Lecce",
-      "url": "https://sempremilan.com/amorim-moreira-dilemma-milan-lecce",
-      "source": "sempremilan.com",
-      "date": "2026-09-20T10:05:00+00:00",
-      "summary": "Ruben Amorim has yet to decide whether to start Diego Moreira against Lecce or not, weighing up the pros and cons against his current super-sub role. Since his arrival from Strasbourg in the summer, Moreira has made three appearances for Milan: one from start and two off the bench. The one from star"
-    },
-    {
       "id": "bfd9c152d0e8",
       "title": "Lecce look to end 7-year wait for a goal against Milan at San Siro",
       "url": "https://football-italia.net/lecce-look-to-end-7-year-wait-for-a-goal-milan/",
       "source": "football-italia.net",
       "date": "2026-09-20T10:00:00+00:00",
       "summary": "Lecce arrive at San Siro carrying a statistical curse that stretches back almost seven years...."
-    },
-    {
-      "id": "5db063dc3d29",
-      "title": "Pulisic returns from start: Amorim banking on him to help end first-half struggles",
-      "url": "https://sempremilan.com/pulisic-returns-start-amorim-first-half",
-      "source": "sempremilan.com",
-      "date": "2026-09-20T09:40:00+00:00",
-      "summary": "Christian Pulisic will make his first start for AC Milan this season against Lecce tonight, looking to build on what have been some very encouraging performances.  Due to an injury sustained at the World Cup, Pulisic wasn’t able to work properly with the Rossoneri during the pre-season. In turn, he "
-    },
-    {
-      "id": "ac803fc1931c",
-      "title": "GdS: Predicted XIs for Milan vs. Lecce – Back to the roots for Amorim",
-      "url": "https://sempremilan.com/predicted-xis-milan-lecce-roots-amorim",
-      "source": "sempremilan.com",
-      "date": "2026-09-20T09:15:00+00:00",
-      "summary": "Ruben Amorim is expected to make quite a few changes to AC Milan’s starting eleven against Lecce tonight, looking for a reaction from his players.  After five games of struggling to get his team going in the first half, suggesting that he hasn’t got the starting eleven right, Amorim is set to make s"
     },
     {
       "id": "b497d8f8c17b",
@@ -440,46 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-18T16:27:00+00:00",
       "summary": "Zinedine Zidane has pulled a few surprises with his first France squad, where he’ll also..."
-    },
-    {
-      "id": "f0bdea31ab97",
-      "title": "Italy U21: Reggiani, Liberali and Lulli get first calls",
-      "url": "https://football-italia.net/italy-u21-reggiani-liberali-lulli-first-calls/",
-      "source": "football-italia.net",
-      "date": "2026-09-18T16:14:48+00:00",
-      "summary": "Coach Silvio Baldini called 25 Italy players for the final Under-21 European Championship qualifiers against..."
-    },
-    {
-      "id": "543e82102200",
-      "title": "Scotland duo, Stones and Calhanoglu unavailable for Serie A Round 5: Full list",
-      "url": "https://football-italia.net/full-list-unavailable-players-serie-a-stones/",
-      "source": "football-italia.net",
-      "date": "2026-09-18T14:22:56+00:00",
-      "summary": "Serie A Round 5 is around the corner, and Football Italia has the full list..."
-    },
-    {
-      "id": "fcf76fcd6d5f",
-      "title": "Two Amorim priorities after Cardinale talks as Pulisic set for first Milan start of 2026-27",
-      "url": "https://football-italia.net/amorim-priority-cardinale-pulisic-start-milan/",
-      "source": "football-italia.net",
-      "date": "2026-09-18T10:07:22+00:00",
-      "summary": "Ruben Amorim reportedly explained his tactical decisions against Benfica during a remote meeting with Gerry..."
-    },
-    {
-      "id": "07d86d1ba0a4",
-      "title": "Today’s Papers  – New Juventus goals, Amorim under fire, Mancini’s Italy squad",
-      "url": "https://football-italia.net/todays-papers-new-juventus-goals-amorim-under-fire-mancinis-italy-squad/",
-      "source": "football-italia.net",
-      "date": "2026-09-18T07:32:39+00:00",
-      "summary": "La Gazzetta dello Sport Amorim under fire (But he’s untouchable) Milan want an immediate breakthrough..."
-    },
-    {
-      "id": "e0c2cce23502",
-      "title": "Football Italia Show – Milan and Amorim confused: ‘Similar to what he did in Manchester’",
-      "url": "https://football-italia.net/milan-amorim-confused-similar-did-manchester/",
-      "source": "football-italia.net",
-      "date": "2026-09-17T17:10:54+00:00",
-      "summary": "Milan lost their first match under Ruben Amorim on Wednesday, falling 2-0 to Benfica at..."
     }
   ]
 }
