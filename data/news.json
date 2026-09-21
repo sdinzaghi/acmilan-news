@@ -1,6 +1,182 @@
 {
-  "lastUpdated": "2026-09-21T18:28:04.374891+00:00",
+  "lastUpdated": "2026-09-21T22:26:31.064548+00:00",
   "articles": [
+    {
+      "id": "d97b49453c37",
+      "title": "Foscale promuove il Milan: \"Sta esprimendo un ottimo gioco. Amorim è estremamente intelligente, sia dal punto di vista tattico che di adattamento\"",
+      "url": "https://www.milannews.it/news/foscale-promuove-milan-sta-esprimendo-ottimo-gioco-amorim-estremamente-intelligente-punto-vista-tatt-630528",
+      "source": "milannews.it",
+      "date": "2026-09-21T22:12:36+00:00",
+      "summary": "Intervenuto sulle frequenze di TMW Radio nel corso del pomeriggio, l'AD Top Player Academy Luigi Foscale ha parlato di Milan dopo la bella vittoria di ieri contro il Lecce: \"Il Milan sta esprimendo un ottimo gioco."
+    },
+    {
+      "id": "c6987635c83b",
+      "title": "Il cambio che farà svoltare? Bentornato al Milan! L'ammissione di Amorim",
+      "url": "https://www.milannews.it/editoriale/cambio-svoltare-bentornato-milan-ammissione-amorim-630535",
+      "source": "milannews.it",
+      "date": "2026-09-21T22:01:18+00:00",
+      "summary": "Era la vittoria che tutti attendevamo."
+    },
+    {
+      "id": "3fed46bbec83",
+      "title": "Il derby di Madrid va all'Atletico: Real battuto e ora gia a -6 dal Barcellona",
+      "url": "https://www.milannews.it/news/liga-real-resta-10-atletico-approfitta-vince-derby-madrid-630454",
+      "source": "milannews.it",
+      "date": "2026-09-21T21:48:14+00:00",
+      "summary": "(ANSA) - ROMA, 20 SET - Il 'Cholo' Simeone vince la sfida con Mourinho nel derby di Madrid, che si chiude 2-1 per i padroni di casa dell'Atletico."
+    },
+    {
+      "id": "d4200e517943",
+      "title": "Italia, Mancini: \"Malagò è molto tranquillo, noi pensiamo a battere il Belgio\"",
+      "url": "https://www.milannews.it/news/calcio-mancini-malago-tranquillo-pensiamo-battere-belgio-630517",
+      "source": "milannews.it",
+      "date": "2026-09-21T21:36:40+00:00",
+      "summary": "(ANSA) - FIRENZE, 21 SET - \"Il caso Malagò? Lui è molto tranquillo, noi dobbiamo pensare a fare bene e a vincere la prima partita con il Belgio, non sarà semplice\"."
+    },
+    {
+      "id": "c4c50859c303",
+      "title": "Bucchioni promuove il Milan dopo l'ultima sfida: \"Qualcosa si muove, ora serviranno conferme e continuità\"",
+      "url": "https://www.milannews.it/news/bucchioni-promuove-milan-ultima-sfida-qualcosa-muove-serviranno-conferme-continuita-630526",
+      "source": "milannews.it",
+      "date": "2026-09-21T21:24:40+00:00",
+      "summary": "Nel suo editoriale su tuttomercatoweb.com, Enzo Bucchioni ha parlato anche di Milan e Juventus che sono tornate alla vittoria in campionato."
+    },
+    {
+      "id": "8f49cf10b586",
+      "title": "L'Italia U20 femminile vola: mercoledì la semifinale mondiale con la Spagna",
+      "url": "https://www.milannews.it/news/calcio-u-20-femminile-mercoledi-semifinale-mondiale-spagna-630452",
+      "source": "milannews.it",
+      "date": "2026-09-21T21:12:50+00:00",
+      "summary": "(ANSA) - ROMA, 20 SET - Mercoledì 23 settembre alle 15 le Azzurrine dell'Under 20 sfideranno le pari età iberiche per centrare qualcosa che non è mai stato raggiunto dalle Nazionali femminili italiane nella loro storia sotto  ..."
+    },
+    {
+      "id": "9f5c73ea1329",
+      "title": "Orlando dopo Milan-Lecce: \"Ho visto qualche passo in avanti, ma serve continuità e quell'equilibrio che ancora manca\"",
+      "url": "https://www.milannews.it/news/orlando-milan-lecce-ho-passo-avanti-serve-continuita-quell-equilibrio-manca-630525",
+      "source": "milannews.it",
+      "date": "2026-09-21T21:00:23+00:00",
+      "summary": "Intervenuto nel pomeriggio sulle frequenze di TMW Radio, Massimo Orlando ha detto la sua sui più importanti temi dell'ultimo weekend di Serie A, dando anche un commento personale sul Milan di Ruben Amorim, che ha vinto e convinto contro il ..."
+    },
+    {
+      "id": "34fa2036a588",
+      "title": "Caso Mazzola, Malagò: \"No a pene collettive per i fatti di Torino, siano puniti i singoli\"",
+      "url": "https://www.milannews.it/news/mazzola-malago-no-pene-collettive-fatti-torino-puniti-singoli-630519",
+      "source": "milannews.it",
+      "date": "2026-09-21T20:48:31+00:00",
+      "summary": "(ANSA) - ROMA, 21 SET - \"Dico no a pene collettive. Vanno individuate in modo chirurgico e scientifico tutte quelle persone che hanno fatto vergognare il 99% di tutti gli altri."
+    },
+    {
+      "id": "0cf8ffff961f",
+      "title": "Serafini sottolinea: \"Quando hai giocatori di qualità e di maggiore personalità che fanno la partita, fai meno fatica\"",
+      "url": "https://www.milannews.it/news/serafini-sottolinea-quando-giocatori-qualita-maggiore-personalita-partita-fatica-630467",
+      "source": "milannews.it",
+      "date": "2026-09-21T20:36:07+00:00",
+      "summary": "Luca Serafini, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan per 3-0 contro il Lecce: \"Il Milan vince e si porta in classifica al quinto posto, a due soli punti da Roma, Inter e Lazio, e a ..."
+    },
+    {
+      "id": "f62a05c8d129",
+      "title": "Coppa Italia Women, agli ottavi sarà Parma-Milan. Tutti gli accoppiamenti",
+      "url": "https://www.milannews.it/milan-femminile/coppa-italia-women-ottavi-parma-milan-accoppiamenti-630516",
+      "source": "milannews.it",
+      "date": "2026-09-21T20:24:36+00:00",
+      "summary": "Nell'ultimo weekend si sono giocate le gare valide per il primo turno della Coppa Italia Women e ora sono dunque ufficiali gli accoppiamenti per gli ottavi di finale: il Milan Femminile affronterà il Parma che ha battuto 3-0 l'Arezzo i ..."
+    },
+    {
+      "id": "5623775f4ca3",
+      "title": "Diego Moreira felice: \"Che emozioni il mio primo gol a San Siro!\"",
+      "url": "https://www.milannews.it/news/diego-moreira-felice-che-emozioni-gol-san-siro-630531",
+      "source": "milannews.it",
+      "date": "2026-09-21T20:12:15+00:00",
+      "summary": "Diego Moreira è sicuramente il giocatore che sin qui ha stupito tutti."
+    },
+    {
+      "id": "15e0de180994",
+      "title": "Non succedeva dai tempi di Pioli che il Milan rimanesse imbattuto nelle prime cinque giornate",
+      "url": "https://www.milannews.it/news/succedeva-tempi-pioli-milan-rimanesse-imbattuto-prime-giornate-630457",
+      "source": "milannews.it",
+      "date": "2026-09-21T20:00:42+00:00",
+      "summary": "Il Milan (3V, 2N) è rimasto imbattuto nelle prime cinque partite stagionali di Serie A per la prima volta dal 2022/23 (3V, 2N). Lo riporta Opta."
+    },
+    {
+      "id": "767de2a65312",
+      "title": "Orsato admission of five referee and VAR errors so far in 2026/27 season",
+      "url": "https://football-italia.net/orsato-admission-5-referee-var-errors-2026-27/",
+      "source": "football-italia.net",
+      "date": "2026-09-21T19:58:22+00:00",
+      "summary": "There were five major refereeing and VAR errors made this season, confirmed designator Daniele Orsato,..."
+    },
+    {
+      "id": "fd0dde79d1be",
+      "title": "Atalanta, tegola Kossounou: stop di un paio di mesi, salta il Milan",
+      "url": "https://www.milannews.it/l-avversario/atalanta-tegola-kossounou-stop-2-3-mesi-salta-milan-630513",
+      "source": "milannews.it",
+      "date": "2026-09-21T19:48:55+00:00",
+      "summary": "Brutte notizie in casa Atalanta. Dopo la sconfitta di ieri allo Stadium è arrivata un'altra tegola per Sarri."
+    },
+    {
+      "id": "a62d0510c7df",
+      "title": "Milan, Christian Pulisic eletto MVP della sfida contro il Lecce",
+      "url": "https://www.milannews.it/news/milan-christian-pulisic-eletto-mvp-sfida-lecce-630509",
+      "source": "milannews.it",
+      "date": "2026-09-21T19:36:11+00:00",
+      "summary": "Christian Pulisic, autore del gol che ha aperto le marcature del Milan, è stato eletto MVP della sfida contro il Lecce. Lo riferisce il sito ufficiale rossonero: \"Christian Pulisic è l'MVP di Milan-Lecce."
+    },
+    {
+      "id": "06af85f07261",
+      "title": "Pellegatti: \"Finalmente mi sono divertito. Forse molti non ci credevano, ma il Milan ha fatto punti importanti\"",
+      "url": "https://www.milannews.it/news/pellegatti-finalmente-divertito-credevano-milan-punti-importanti-630464",
+      "source": "milannews.it",
+      "date": "2026-09-21T19:24:55+00:00",
+      "summary": "Carlo Pellegatti, giornalista, si è così espresso sul suo canale Youtube dopo la vittoria del Milan per 3-0 contro il Lecce: \"Mi sono divertito, finalmente mi sono divertito, indipendentemente dal 3-0 e dalla posizione in classific ..."
+    },
+    {
+      "id": "0f002c1384ec",
+      "title": "Il presidente del Senato La Russa attacca i tifosi della Juve che hanno voltato le spalle a Mazzola",
+      "url": "https://www.milannews.it/news/russa-mazzola-leggenda-tutti-grandezza-misura-meschinita-630451",
+      "source": "milannews.it",
+      "date": "2026-09-21T19:12:05+00:00",
+      "summary": "(ANSA) - ROMA, 20 SET - \"Sandro Mazzola non è solo interista, è una leggenda del calcio. Ma la madre dei cretini è sempre incinta\"."
+    },
+    {
+      "id": "e8ee29c1bdb6",
+      "title": "Long vacation during international duty has benefits and dangers, warns fitness coach",
+      "url": "https://football-italia.net/long-vacation-international-duty-fitness-coach/",
+      "source": "football-italia.net",
+      "date": "2026-09-21T19:03:29+00:00",
+      "summary": "The three-week break for international duty is practically unheard of, so after Inter and Tottenham..."
+    },
+    {
+      "id": "f8a7935ffbbc",
+      "title": "Sassuolo, dieci giocatori convocati in nazionale: l'elenco completo",
+      "url": "https://www.milannews.it/l-avversario/sassuolo-dieci-giocatori-convocati-nazionale-elenco-completo-630510",
+      "source": "milannews.it",
+      "date": "2026-09-21T19:00:07+00:00",
+      "summary": "Il Sassuolo, prossimo avversario del Milan in campionato (domenica 11 ottobre alle 18), ha annunciato sul suo sito la lista dei giocatori neroverdi che saranno impegnati con le rispettive nazionali durante questa sosta."
+    },
+    {
+      "id": "39d7842585d2",
+      "title": "Pulisic-gol, ecco l'ultimo post social dell'americano su Instagram",
+      "url": "https://www.milannews.it/news/pulisic-gol-post-social-americano-instagram-630530",
+      "source": "milannews.it",
+      "date": "2026-09-21T18:48:54+00:00",
+      "summary": "Dopo nove mesi è tornato finalmente al gol Christian Pulisic. Un'azione bellissima, direttamente iniziata da Pavlovic e finita con lo stop al volo e gol di sinistro di Pulisic, abile ieri a battere Falcone in uscita."
+    },
+    {
+      "id": "9d8223ff0c24",
+      "title": "Pasotto: \"Amorim ha fatto di nuovo un amplissimo turnover, ma stavolta con smaccata tendenza verso l’usato sicuro e non con scelte singolari\"",
+      "url": "https://www.milannews.it/news/pasotto-amorim-amplissimo-turnover-stavolta-smaccata-tendenza-l-usato-sicuro-scelte-singolari-630463",
+      "source": "milannews.it",
+      "date": "2026-09-21T18:36:19+00:00",
+      "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport commentando la vittoria del Milan per 3-0 contro il Lecce: \"San Siro può spegnere le luci e andare a dormire tranquillo: il Milan ha onorato e santifi ..."
+    },
+    {
+      "id": "d57135141e4b",
+      "title": "Statistics show Serie A referees and VAR letting play flow in 2026/27",
+      "url": "https://football-italia.net/statistics-serie-a-referees-var-let-play-flow/",
+      "source": "football-italia.net",
+      "date": "2026-09-21T18:32:12+00:00",
+      "summary": "Refereeing designator Daniele Orsato outlined the statistics showing how this season’s new approach to fouls..."
+    },
     {
       "id": "2e9a872231c5",
       "title": "Como, Fabregas: \"Non posso ammazzare i miei calciatori dopo aver costruito almeno 7 palle gol\"",
@@ -18,76 +194,12 @@
       "summary": "AC Milan ended their winless run at three games as they beat Lecce convincingly at San Siro on Sunday night. It was important to win for a few reasons: above all to respond to the midweek defeat against Benfica but also to go into the international break with a bit of peace and also to […]\nThe post "
     },
     {
-      "id": "8852b0ac9429",
-      "title": "Condò: \"Il 3-0 al Lecce ha restituito al Milan il suo uomo migliore\"",
-      "url": "https://www.milannews.it/news/condo-il-3-0-lecce-restituito-milan-migliore-630506",
-      "source": "milannews.it",
-      "date": "2026-09-21T18:13:21+00:00",
-      "summary": "Paolo Condò, su corriere."
-    },
-    {
-      "id": "d59e8069d43a",
-      "title": "Modric non è e non sarà mai un problema per il Milan: la vera sfida è costruire una squadra capace di esaltarlo",
-      "url": "https://www.milannews.it/primo-piano/modric-problema-milan-vera-sfida-costruire-squadra-capace-esaltarlo-630523",
-      "source": "milannews.it",
-      "date": "2026-09-21T18:00:00+00:00",
-      "summary": "Da Lazio-Milan in poi è passata questa narrazione secondo la quale Luka Modric sarebbe un problema per la squadra di Ruben Amorim."
-    },
-    {
-      "id": "e4f7e52dfd35",
-      "title": "Letizia: \"Lo possiamo dire perché eravamo preoccupati: questo è il Milan che vogliamo vedere\"",
-      "url": "https://www.milannews.it/news/letizia-lo-possiamo-preoccupati-milan-vogliamo-vedere-630462",
-      "source": "milannews.it",
-      "date": "2026-09-21T17:48:08+00:00",
-      "summary": "Francesco Letizia, giornalista, si è così espresso sul suo canale Youtube dopo la vittoria per 3-0 del Milan contro il Lecce: \"3-0 contro il Lecce, siamo felici. Lo possiamo dire perché eravamo preoccupati."
-    },
-    {
-      "id": "1c335f1fee95",
-      "title": "Goncalo Ramos raggiunge Pato, Balotelli, Bacca, Higuaín e Giroud in uno special club di prime a San Siro",
-      "url": "https://www.milannews.it/news/goncalo-ramos-raggiunge-pato-balotelli-bacca-higuain-giroud-special-club-prime-san-siro-630460",
-      "source": "milannews.it",
-      "date": "2026-09-21T17:37:59+00:00",
-      "summary": "Da quando la Serie A è tornata a 20 squadre (2004/05), solo sei attaccanti hanno preso parte ad almeno una rete nelle prime due presenze casalinghe con il Milan nel torneo: Alexandre Pato, Mario Balotelli, Carlos Bacca, Gonzalo Higuaín, ..."
-    },
-    {
-      "id": "dd79fc7ecf58",
-      "title": "Rimedio difende Amorim: \"Che ci siano tante formazioni differenti ormai è abbastanza ovvio nel calcio\"",
-      "url": "https://www.milannews.it/news/rimedio-difende-amorim-che-tante-formazioni-differenti-ormai-ovvio-calcio-630476",
-      "source": "milannews.it",
-      "date": "2026-09-21T17:25:53+00:00",
-      "summary": "Alberto Rimedio, giornalista, si è così espresso su La Domenica Sportiva su Rai2 al termine di Milan-Lecce: \"Che ci siano tante formazioni differenti ormai è abbastanza ovvio nel calcio: con i tanti impegni è praticam ..."
-    },
-    {
       "id": "d3e01b7fb8b3",
       "title": "Pulisic-inspired domination across the board: All the key stats from AC Milan 3-0 Lecce",
       "url": "https://sempremilan.com/all-key-stats-ac-milan-3-0-lecce",
       "source": "sempremilan.com",
       "date": "2026-09-21T17:20:00+00:00",
       "summary": "AC Milan recorded a comfortable win before the first international break of the season, beating Lecce 3-0 on Sunday night. Christian Pulisic got the scoring underway in the first half with what was his first goal for Milan this calendar year. Then, Adrien Rabiot and Diego Moreira each scored in the "
-    },
-    {
-      "id": "328585cda06f",
-      "title": "Cagliari, Giulini: \"Maldini? Quando si esce a bere qualcosa sempre meglio non prendere l'auto\"",
-      "url": "https://www.milannews.it/news/giulini-maldini-jr-esce-bere-prendere-auto-630492",
-      "source": "milannews.it",
-      "date": "2026-09-21T17:12:31+00:00",
-      "summary": "(ANSA) - ROMA, 21 SET - \"La posizione resta quella del genitore, quando si esce a bere qualcosa è sempre meglio non prendere la macchina\"."
-    },
-    {
-      "id": "07be664441fc",
-      "title": "Dall'arrivo di Rabiot al Milan, solo Nico Paz e Calhanoglu, tra i centrocampisti, hanno preso parte a più gol in Serie A",
-      "url": "https://www.milannews.it/news/arrivo-rabiot-milan-nico-paz-calhanoglu-centrocampisti-preso-gol-serie-630459",
-      "source": "milannews.it",
-      "date": "2026-09-21T17:00:27+00:00",
-      "summary": "Dal suo arrivo al Milan (2025/26), tra i centrocampisti, solo Nico Paz (20) e Hakan Çalhanoglu (15) hanno preso parte a più reti in Serie A rispetto ad Adrien Rabiot: 13 (al pari di McTominay e Barella), frutto di sette gol e sei assist ..."
-    },
-    {
-      "id": "d2ad722c1c8b",
-      "title": "Graziani: \"Molto probabilmente Moreira e Chukwueze dovranno fare spesso staffetta, perché sono calciatori molto simili\"",
-      "url": "https://www.milannews.it/news/graziani-molto-moreira-chukwueze-dovranno-staffetta-calciatori-simili-630480",
-      "source": "milannews.it",
-      "date": "2026-09-21T16:48:23+00:00",
-      "summary": "Ciccio Graziani, opinionista, si è così espresso a La Domenica Sportiva su Rai2 sulla prestazione di Diego Moreira contro il Lecce: \"Già con la Lazio quando è entrato, ha dimostrato di avere qualità molto impor ..."
     },
     {
       "id": "29a942c4606f",
@@ -98,52 +210,12 @@
       "summary": "Goncalo Ramos remains stuck on one goal for the season, and yet there is no reason for Ruben Amorim to feel alarmed. Calciomercato.com begin a report on Ramos by stating a simple premise: if he doesn’t score, Ramos helps others to. For Amorim, that’s what really matters. The strikers goals will also"
     },
     {
-      "id": "17e2657e08e2",
-      "title": "La Nazionale Italiana si raduna a Coverciano: out Cristante, chiamato Ricci",
-      "url": "https://www.milannews.it/news/calcio-nazionale-raduna-coverciano-out-cristante-630455",
-      "source": "milannews.it",
-      "date": "2026-09-21T16:36:47+00:00",
-      "summary": "(ANSA) - ROMA, 20 SET - La Nazionale si raduna questa sera al Centro tecnico federale di Coverciano, dove da domani inizierà ad allenarsi in vista dei primi quattro incontri del girone di Nations League."
-    },
-    {
-      "id": "c9a864f51fc4",
-      "title": "Pistocchi attacca: \"Le vedove allegre volevano esonerare Amorim, che è alla miglior partenza degli ultimi anni\"",
-      "url": "https://www.milannews.it/news/pistocchi-attacca-le-vedove-allegre-volevano-esonerare-amorim-miglior-partenza-ultimi-anni-630473",
-      "source": "milannews.it",
-      "date": "2026-09-21T16:24:49+00:00",
-      "summary": "Maurizio Pistocchi, giornalista, si è così espresso su X commentando la vittoria del Milan contro il Lecce per 3-0: \"Il Milan di Amorim che le cariatidi tv e le vedove allegre volevano esonerare batte 3:0 il Lecce e sale a 11 punti ..."
-    },
-    {
-      "id": "8cadc1a6b32e",
-      "title": "Tacchinardi: \"La sensazione è però che il Milan possa avere due problemi\"",
-      "url": "https://www.milannews.it/news/tacchinardi-la-sensazione-milan-problemi-630483",
-      "source": "milannews.it",
-      "date": "2026-09-21T16:12:05+00:00",
-      "summary": "Alessio Tacchinardi, ex calciatore, si è così espresso a Pressing su Mediaset commentando la prestazione del Milan contro il Lecce: \"Troppe critiche, tante critiche: il Milan in campionato non ha ancora perso una partita."
-    },
-    {
-      "id": "1d5cfd56c125",
-      "title": "Amorim cambia il Milan: difesa a quattro, Chukwueze liberato e una lezione imparata a Manchester",
-      "url": "https://www.milannews.it/primo-piano/amorim-cambia-milan-difesa-quattro-chukwueze-liberato-lezione-imparata-manchester-630522",
-      "source": "milannews.it",
-      "date": "2026-09-21T16:00:55+00:00",
-      "summary": "La vittoria di ieri contro il Lecce non ha portato soltanto tre punti alla classifica del Milan, ma anche una novità tattica importante, oltre che interessante."
-    },
-    {
       "id": "4fb65ae7697f",
       "title": "Three stand out but substitutes struggle: Fan player ratings for Milan 3-0 Lecce",
       "url": "https://sempremilan.com/fan-player-ratings-milan-3-0-lecce",
       "source": "sempremilan.com",
       "date": "2026-09-21T16:00:00+00:00",
       "summary": "AC Milan got back to winning ways just before the first international break of the season, beating Lecce 3-0 at San Siro last night. Milan needed to get another victory on the board after three games without one and having tasted defeat in midweek against Benfica. In what was a dominant display, the"
-    },
-    {
-      "id": "d8d24585fc21",
-      "title": "Marinozzi: \"Abbiamo visto tante cose che finora avevamo visto poco o solo a tratti nel Milan\"",
-      "url": "https://www.milannews.it/news/marinozzi-abbiamo-tante-cose-finora-tratti-milan-630468",
-      "source": "milannews.it",
-      "date": "2026-09-21T15:49:11+00:00",
-      "summary": "Andrea Marinozzi, giornalista, si è così espresso a Dazn rispondendo alla domanda sul fatto che quello di ieri sia stato il miglior Milan della stagione: \"Rispondo di sì per quello che chiedevamo nel pre-gara: maggiore mobil ..."
     },
     {
       "id": "796a7df4663e",
@@ -154,14 +226,6 @@
       "summary": "160 Serie A players are set to be involved with their respective national teams in..."
     },
     {
-      "id": "4d3f6cbfb61e",
-      "title": "Orsato chiarisce sul Milan: errore sul rigore col Torino, regolare il gol contro la Juventus",
-      "url": "https://www.milannews.it/news/orsato-chiarisce-milan-errore-rigore-torino-regolare-gol-juventus-630527",
-      "source": "milannews.it",
-      "date": "2026-09-21T15:36:57+00:00",
-      "summary": "Nel corso dell'incontro di oggi con gli allenatori di Serie A, dove era presente anche il tecnico del Milan Ruben Amorim, Daniele Orsato ha chiarito due episodi che avevano fatto discutere nelle prime giornate."
-    },
-    {
       "id": "5b9daa40a865",
       "title": "Photos: Milan players react to Lecce win on social media – “Home”",
       "url": "https://sempremilan.com/milan-players-react-lecce-win-2026-27",
@@ -170,52 +234,12 @@
       "summary": "AC Milan made it three wins from five to begin their 2026-27 Serie A campaign, beating Lecce 3-0 at San Siro on Sunday night. The pressure was on Ruben Amorim and his side after three games without a victory, including a midweek loss to Benfica in the Europa League which saw the team jeered off. […]"
     },
     {
-      "id": "40b4846c7be3",
-      "title": "Behrami convinto da Moreira: \"Ad un certo punto sarà quasi lui a richiedere la titolarità\"",
-      "url": "https://www.milannews.it/news/behrami-convinto-moreira-ad-punto-richiedere-titolarita-630472",
-      "source": "milannews.it",
-      "date": "2026-09-21T15:25:19+00:00",
-      "summary": "Valon Behrami, ex calciatore e attuale opinionista, si è così espresso a Dazn commentando la prova di Diego Moreira contro il Lecce, autore del terzo gol rossonero dopo la doppietta rifilata alla Lazio: \"Ad un certo punto sar&agrav ..."
-    },
-    {
-      "id": "597bb408ec20",
-      "title": "Trevisani: \"Ramos sempre presente, anche troppo a centrocampo, ma bravissimo a gestire la palla con i compagni\"",
-      "url": "https://www.milannews.it/news/trevisani-ramos-presente-anche-centrocampo-bravissimo-gestire-palla-compagni-630471",
-      "source": "milannews.it",
-      "date": "2026-09-21T15:13:35+00:00",
-      "summary": "Riccardo Trevisani, giornalista, si è così espresso sul profilo Instagram di Fantacalcio.it selezionando i top e i flop di Milan-Lecce: \"La richiesta a gran voce di vedere Pulisic titolare viene accolta da Ruben Amorim."
-    },
-    {
-      "id": "e3ba699c848f",
-      "title": "Pulisic ha calciato 39 porta senza trovare il gol, arrivato invece al tiro numero 40",
-      "url": "https://www.milannews.it/news/pulisic-calciato-39-porta-trovare-gol-arrivato-tiro-numero-40-630458",
-      "source": "milannews.it",
-      "date": "2026-09-21T15:00:32+00:00",
-      "summary": "Christian Pulisic è tornato al gol 266 giorni dopo l'ultima volta in Serie A, ovvero dal 28 dicembre 2025 contro l'Hellas Verona; da allora, lo statunitense ha calciato ben 39 volte senza trovare la via della rete in campionato, andand ..."
-    },
-    {
       "id": "6aa05240891b",
       "title": "GdS: Quality and experience – Amorim returns to relying on four key pillars",
       "url": "https://sempremilan.com/amorim-returns-relying-four-key-pillars",
       "source": "sempremilan.com",
       "date": "2026-09-21T15:00:00+00:00",
       "summary": "AC Milan produced the best performance of their season so far against Lecce, and it came thanks to some of the squad’s leaders. La Gazzetta dello Sport begin a report by stating that we don’t know how many games Luka Modric will play between now and the end of the season, as it’s impossible to […]\nT"
-    },
-    {
-      "id": "54ba1fe14394",
-      "title": "Masini: \"Dopo diverse discutibili scelte di formazione, Amorim ha rilanciato molti senatori\"",
-      "url": "https://www.milannews.it/news/masini-dopo-diverse-discutibili-scelte-formazione-amorim-rilanciato-senatori-630470",
-      "source": "milannews.it",
-      "date": "2026-09-21T14:48:00+00:00",
-      "summary": "Federico Masini, giornalista, si è così espresso a Tuttosport commentando la vittoria del Milan contro il Lecce per 3-0: \"Dopo due pareggi con Juventus e Lazio e il brutto ko in Europa League col Benfica, il Milan è tornato  ..."
-    },
-    {
-      "id": "02f774b8c8c8",
-      "title": "Vi ricordate di Jan-Carlo Simic? Era il più giovane ad aver segnato alla prima a San Siro col Milan. Moreira ci si è avvicinato",
-      "url": "https://www.milannews.it/news/ricordate-jan-carlo-simic-giovane-segnato-san-siro-milan-moreira-avvicinato-630461",
-      "source": "milannews.it",
-      "date": "2026-09-21T14:36:24+00:00",
-      "summary": "Diego Moreira (22 anni e 45 giorn) è diventato il secondo giocatore più giovane ad andare a bersaglio nella sua prima gara casalinga con la maglia del Milan in Serie A nelle ultime 10 stagioni, dietro solo a Jan-Carlo Simic (18 anni e 2 ..."
     },
     {
       "id": "384797f76945",
@@ -456,30 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-19T20:13:51+00:00",
       "summary": "It is precisely 100 years ago today that the iconic San Siro stadium was inaugurated,..."
-    },
-    {
-      "id": "ae373a3b385d",
-      "title": "Amorim fires back at journalist: What’s the ‘best’ Milan starting XI?",
-      "url": "https://football-italia.net/amorim-fires-back-at-journalist-best-milan-xi/",
-      "source": "football-italia.net",
-      "date": "2026-09-19T16:10:09+00:00",
-      "summary": "Ruben Amorim had a rather interesting interaction with a journalist on Saturday. Asked at his..."
-    },
-    {
-      "id": "5c4ccc610669",
-      "title": "Amorim: ‘Milan are dominant and not clinical, something wrong if you lose and feel the same’",
-      "url": "https://football-italia.net/amorim-milan-dominant-not-clinical-wrong-feel/",
-      "source": "football-italia.net",
-      "date": "2026-09-19T12:50:35+00:00",
-      "summary": "Ruben Amorim insists Milan are being ‘dominant’ in their matches, albeit with costly errors, and..."
-    },
-    {
-      "id": "801aa6b8d5f3",
-      "title": "Italy call 34 players, but Mancini snub for Retegui, Udogie, Zaccagni and Politano",
-      "url": "https://football-italia.net/italy-snub-retegui-udogie-zaccagni-politano/",
-      "source": "football-italia.net",
-      "date": "2026-09-18T21:46:23+00:00",
-      "summary": "Roberto Mancini called a massive 34 players for his first Italy squad, but still left..."
     }
   ]
 }
