@@ -1,13 +1,237 @@
 {
-  "lastUpdated": "2026-09-23T14:40:15.265509+00:00",
+  "lastUpdated": "2026-09-23T18:49:51.779278+00:00",
   "articles": [
     {
-      "id": "03b4e4d8706b",
-      "title": "Manchester United, il licenziamento di Amorim è costato 9,5 milioni. Cifra più bassa \"grazie\" al Milan",
-      "url": "https://www.milannews.it/news/manchester-united-licenziamento-amorim-costato-9-5-milioni-cifra-bassa-grazie-milan-630696",
+      "id": "c26097daafcd",
+      "title": "Malagò assicura: \"Mai sentito meno l'appoggio della Lega Serie A\"",
+      "url": "https://www.milannews.it/news/malago-sentito-appoggio-lega-serie-630698",
       "source": "milannews.it",
-      "date": "2026-09-23T14:36:28+00:00",
-      "summary": "Come riporta A Bola, nelle scorse ore, il Manchester United ha presentato i risultati finanziari annuali e ha rivelato che il licenziamento di Ruben Amorim e del resto del suo staff è costato 9,5 milioni di euro."
+      "date": "2026-09-23T18:36:00+00:00",
+      "summary": "(ANSA) - FIRENZE, 23 SET - ''Se era venuto meno l'appoggio della Lega di Serie A ribadito oggi dal presidente Simonelli? Onestamente no, magari nella testa di qualcuno o nel retroscena di qualcuno, anche di qualche giornalista, ma la real ..."
+    },
+    {
+      "id": "4703dd88d378",
+      "title": "Francia, Zidane ha definito la gerarchia dei capitani:  Mbappé, Dembélé, Rabiot e Koundé",
+      "url": "https://www.milannews.it/news/francia-zidane-definito-gerarchia-capitani-mbappe-dembele-rabiot-kounde-630697",
+      "source": "milannews.it",
+      "date": "2026-09-23T18:24:44+00:00",
+      "summary": "Zinedine Zidane, nuovo ct della Francia, ha definito la gerarchia dei capitani in base al numero di presenze in nazionale: si tratta di Kylian Mbappé, Ousmane Dembélé, Adrien Rabiot e Jules Koundé."
+    },
+    {
+      "id": "ea530734a5ef",
+      "title": "Il Milan non ha ancora avviato trattative per il rinnovo di Pulisic, ma i rossoneri vogliono trattenerlo: la situazione",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-avviato-trattative-rinnovo-pulisic-rossoneri-vogliono-trattenerlo-situazione-630711",
+      "source": "milannews.it",
+      "date": "2026-09-23T18:10:16+00:00",
+      "summary": "Domenica sera contro il Lecce, Christian Pulisic si è finalmente sbloccato ed è tornato a segnare in partite ufficiali dopo ben 266 giorni."
+    },
+    {
+      "id": "80453187c060",
+      "title": "ESCLUSIVA MN - Iwelumo: “Estupinan? È bravo e vi dico perché Amorim ha sbagliato. Per quale motivo gli hanno fatto saltare il trasferimento all’Aston Villa?”",
+      "url": "https://www.milannews.it/primo-piano/esclusiva-mn-iwelumo-estupinan-dico-amorim-sbagliato-motivo-saltare-trasferimento-all-aston-villa-630707",
+      "source": "milannews.it",
+      "date": "2026-09-23T18:00:27+00:00",
+      "summary": "Intervista esclusiva del giornalista Alessandro Schiavone alla leggenda scozzese del Brighton & Hove Albion Chris Iwelumo, realizzata sabato scorso all’Amex Stadium di Brighton prima della gara di Premier League con l'Arsenal."
+    },
+    {
+      "id": "23e71177b783",
+      "title": "Athletic: Milan ‘yet to open’ Pulisic contract talks but intention is to ‘get a deal done’",
+      "url": "https://sempremilan.com/milan-yet-to-open-pulisic-contract-talks",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T18:00:00+00:00",
+      "summary": "AC Milan have not held talks with Christian Pulisic over a new contract yet, but they intend to try and renew his deal. In the past couple of days, the Italian newspapers have been awash with talk of Milan accelerating their attempts to get Pulisic to extend his current deal, which expires at the en"
+    },
+    {
+      "id": "3731726e66b7",
+      "title": "MN - Cattaneo convinto: \"Il Milan ha una rosa completa, d'ora in poi vedremo di più Camarda che ha bisogno di giocare\"",
+      "url": "https://www.milannews.it/news/mn-cattaneo-convinto-il-milan-rosa-completa-vedremo-camarda-bisogno-giocare-630670",
+      "source": "milannews.it",
+      "date": "2026-09-23T17:48:33+00:00",
+      "summary": "In esclusiva ai microfoni di MilanNews."
+    },
+    {
+      "id": "e26106905c94",
+      "title": "Valentini sul Milan: \"Non ha fatto una grande campagna acquisti\"",
+      "url": "https://www.milannews.it/news/valentini-milan-non-campagna-acquisti-630695",
+      "source": "milannews.it",
+      "date": "2026-09-23T17:37:31+00:00",
+      "summary": "Il dirigente Antonello Valentini è intervenuto in diretta alla radio di Tuttomercatoweb."
+    },
+    {
+      "id": "a2744cea329a",
+      "title": "Diddi spiega: “Goncalo Ramos non tira in porta perché Amorim gli chiede un certo tipo di lavoro”",
+      "url": "https://www.milannews.it/news/diddi-goncalo-ramos-non-tira-porta-amorim-chiede-tipo-lavoro-630621",
+      "source": "milannews.it",
+      "date": "2026-09-23T17:24:14+00:00",
+      "summary": "Durante l'ultimo video YouTube sul canale di Carlo Pellegatti, Luca Diddi ha analizzato e commentato le variazioni tattiche messe in atto dal Milan contro il Lecce. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "475c8a7fa1be",
+      "title": "From Yokohama to Yerevan: The 15 Milan players called up for international duty",
+      "url": "https://sempremilan.com/15-milan-players-international-duty-october-2026",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T17:20:00+00:00",
+      "summary": "AC Milan will be the most impacted Serie A team when it comes to international call-ups during the current break. Milan have started the season quite well in Serie A with three wins and two draws. They dropped points away against Juventus and Lazio – which are far from disastrous results – and beat "
+    },
+    {
+      "id": "4db6d1b4ef88",
+      "title": "\"Vinciamo Insieme\": a Torino il nuovo Hub di Insuperabili",
+      "url": "https://www.milannews.it/news/vinciamo-torino-hub-insuperabili-630693",
+      "source": "milannews.it",
+      "date": "2026-09-23T17:13:37+00:00",
+      "summary": "(ANSA) - TORINO, 23 SET - Il progetto nazionale 'Vinciamo Insieme' promosso dalla Figc - Lega Nazionale Dilettanti, attraverso il Dipartimento Lnd esport - Calcio Virtuale, in collaborazione con l'Area di Responsabilità Sociale, fa ..."
+    },
+    {
+      "id": "80c6e0f2b077",
+      "title": "Toni non ha dubbi: \"Un talento italiano su cui puntare? Alphadjo Cisse del Milan\"",
+      "url": "https://www.milannews.it/news/toni-dubbi-un-talento-italiano-puntare-alphadjo-cisse-milan-630692",
+      "source": "milannews.it",
+      "date": "2026-09-23T17:01:22+00:00",
+      "summary": "Luca Toni, ex attaccante, ha rilasciato una lunga intervista a Tuttosport nella quale ha parlato così della crisi del calcio italiano: \"Non vorrei che adesso, per comodità, qualcuno iniziasse a concentrarsi solo sul ct, o sul presi ..."
+    },
+    {
+      "id": "0f585297b971",
+      "title": "MN - Cattaneo non ha dubbi su Ramos: \"In costruzione è eccezionale, fa segnare tanto i compagni. I trequartisti devono aiutarlo di più\"",
+      "url": "https://www.milannews.it/news/mn-cattaneo-dubbi-ramos-in-costruzione-eccezionale-segnare-compagni-trequartisti-devono-aiutarlo-piu-630669",
+      "source": "milannews.it",
+      "date": "2026-09-23T16:48:13+00:00",
+      "summary": "In esclusiva ai microfoni di MilanNews."
+    },
+    {
+      "id": "87c154d94676",
+      "title": "Milan save Man Utd almost €10m: True figures of Amorim sacking revealed",
+      "url": "https://sempremilan.com/milan-save-manchester-united-10m-amorim",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T16:40:00+00:00",
+      "summary": "The figure that Manchester United agreed to pay Ruben Amorim and his staff to sack them has been revealed, as well as AC Milan’s helping hand. Amorim was sacked last season by United after just 14 months at the club. It was a turbulent tenure which followed his arrival from Sporting CP during the 20"
+    },
+    {
+      "id": "b93e34952042",
+      "title": "Ecco quando gioca Luka Modric con la Croazia durante la sosta",
+      "url": "https://www.milannews.it/news/gioca-luka-modric-croazia-sosta-630689",
+      "source": "milannews.it",
+      "date": "2026-09-23T16:36:33+00:00",
+      "summary": "Sembrava che il Mondiale americano potesse essere l'ultimo grande viaggio di Luka Modric con la maglia a scacchi della Croazia. Per alcuni sembrava anche l'ultimo grande viaggio della carriera."
+    },
+    {
+      "id": "ca971c086341",
+      "title": "De Laurentiis claims new Napoli stadium would ‘take 24 months’ and slams Milan patron Cardinale",
+      "url": "https://football-italia.net/de-laurentiis-new-napoli-stadium-24-months/",
+      "source": "football-italia.net",
+      "date": "2026-09-23T16:30:56+00:00",
+      "summary": "Napoli President Aurelio De Laurentiis outlines plans for a new stadium, warning ‘the Stadio Maradona..."
+    },
+    {
+      "id": "a3322b275d54",
+      "title": "Beneficenza, la Fifa apre due campi da gioco in Cisgiordania",
+      "url": "https://www.milannews.it/news/calcio-fifa-apre-campi-gioco-cisgiordania-630691",
+      "source": "milannews.it",
+      "date": "2026-09-23T16:24:37+00:00",
+      "summary": "(ANSA) - ROMA, 23 SET - La Fifa ha realizzato due nuovi campi da gioco a Marah Rabah, a sud di Betlemme, e a Qusin, nella parte settentrionale della Cisgiordania, per \"dare ai bambini e alle loro comunità uno spazio tanto necessario per g ..."
+    },
+    {
+      "id": "19a386a5c303",
+      "title": "Il disappunto di Graziani: \"Il Var è morto. Ringraziamo Orsato\"",
+      "url": "https://www.milannews.it/news/disappunto-graziani-il-var-morto-ringraziamo-orsato-630687",
+      "source": "milannews.it",
+      "date": "2026-09-23T16:12:56+00:00",
+      "summary": "Nell'ultimo turno di campionato c'è stata tantissima polemica da parte del Torino che ha reclamato un calcio di rigore nella partita contro il Bologna."
+    },
+    {
+      "id": "6f8c969869df",
+      "title": "Subito una certezza. Uno degli acquisti più importanti del Milan",
+      "url": "https://www.milannews.it/primo-piano/certezza-acquisti-importanti-milan-630690",
+      "source": "milannews.it",
+      "date": "2026-09-23T16:00:26+00:00",
+      "summary": "Mario Gila è entrato immediatamente nella lista delle certezze del Milan. E non sempre capita quando c'è un nuovo acquisto, anzi, molto spesso serve del tempo per entrare nei meccanismi di una nuova squadra e di un nuovo allenatore."
+    },
+    {
+      "id": "656165f71867",
+      "title": "Transfermarkt: Value of Milan squad rises thanks to two new signings",
+      "url": "https://sempremilan.com/value-milan-squad-rises-moreira-cisse",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T16:00:00+00:00",
+      "summary": "With the first international break of the season upon us, some updates have arrived regarding the market value of AC Milan’s squad members. The first five games of the Serie A season are done, and Transfermarkt have updated their market values. There are some rather big changes both upward and downw"
+    },
+    {
+      "id": "9eb1b4ab6194",
+      "title": "De Laurentiis: \"Ho invitato Cardinale a cena, mi ha fatto un discorso che avrei dovuto prenderlo e buttarlo fuori. Mi ha detto cose che non stavano né in cielo né in terra\"",
+      "url": "https://www.milannews.it/news/de-laurentiis-ho-invitato-cardinale-cena-discorso-dovuto-prenderlo-buttarlo-fuori-cose-ne-cielo-ne-t-630705",
+      "source": "milannews.it",
+      "date": "2026-09-23T15:48:14+00:00",
+      "summary": "Aurelio De Laurentiis, presidente del Napoli, è intervenuto oggi in conferenza stampa dopo aver ricevuto il Premio Sportivo alla Carriera presso la sede dell'Associazione della Stampa Estera in Italia, a Palazzo Grazioli a Roma."
+    },
+    {
+      "id": "f8f46e7f629d",
+      "title": "Mondiali femminile U20: Italia battuta 2-0, in finale va la Spagna",
+      "url": "https://www.milannews.it/news/mondiali-donne-u20-italia-battuta-2-0-finale-spagna-630704",
+      "source": "milannews.it",
+      "date": "2026-09-23T15:36:22+00:00",
+      "summary": "(ANSA) - ROMA, 23 SET - Sfuma il sogno delle azzurrine di raggiungere la finale dei Mondiali Under 20, in corso in Polonia."
+    },
+    {
+      "id": "b261ec4d0f7f",
+      "title": "Amorim dismissal cost Manchester United £8.2m, but Milan saved them another £8.5m",
+      "url": "https://football-italia.net/amorim-manchester-united-milan-saved-8-5m/",
+      "source": "football-italia.net",
+      "date": "2026-09-23T15:33:26+00:00",
+      "summary": "Financial statements confirm Manchester United paid £8.2m to fire Ruben Amorim in January, but Milan..."
+    },
+    {
+      "id": "45786abcbf29",
+      "title": "Ambrosini explains why Pulisic is crucial for Amorim but postpones evaluation to ‘difficult’ October",
+      "url": "https://sempremilan.com/ambrosini-pulisic-crucial-amorim-difficult-october",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T15:30:00+00:00",
+      "summary": "Massimo Ambrosini has offered his thoughts on Ruben Amorim’s tactical tweaks, reserving full judgement until next months. Amorim spoke after the rather disappointing defeat to Benfica one week ago about the need to adapt in order to get more out of a squad that, in his eyes, is not fully suited to h"
+    },
+    {
+      "id": "4953f94f0860",
+      "title": "Pancaro: \"Milan, ancora non si vedono i principi di gioco di Amorim\"",
+      "url": "https://www.milannews.it/gli-ex/pancaro-milan-vedono-principi-gioco-amorim-630701",
+      "source": "milannews.it",
+      "date": "2026-09-23T15:25:19+00:00",
+      "summary": "Intervenuto alla radio di tuttomercatoweb.com, l'ex terzino rossonero Giuseppe Pancaro ha parlato così di Kolo Muani e Goncalo Ramos: \"Le qualità sono fuori discussione, hanno caratteristiche diverse."
+    },
+    {
+      "id": "33d3d70d33a3",
+      "title": "Ferrè: \"Colpisce molto la posizione di Gila, che sembra quasi un terzino destro, con Estupinan terzino sinistro\"",
+      "url": "https://www.milannews.it/news/ferre-colpisce-posizione-gila-terzino-destro-estupinan-terzino-sinistro-630660",
+      "source": "milannews.it",
+      "date": "2026-09-23T15:13:37+00:00",
+      "summary": "Stefano Ferrè, match analyst, si è così espresso a Cronache di Spogliatoio sulle strategie tattiche del Milan contro il Lecce: \"Le posizioni medie di Milan-Lecce ci aiutano a comprendere cosa sia cambiato, soprattutto nella  ..."
+    },
+    {
+      "id": "77bf73a3504c",
+      "title": "Reijnders onesto: ha raccontato senza filtri perché ha scelto di andare in Arabia",
+      "url": "https://www.milannews.it/news/reijnders-onesto-i-nipoti-potranno-vivere-rendita-scelta-soldi-influito-630628",
+      "source": "milannews.it",
+      "date": "2026-09-23T15:00:00+00:00",
+      "summary": "Tijani Reijnders, ex centrocampista di Milan e City attualmente in forza al Al-Qadisiya, club militante nella prima serie Araba, la Saudi pro League, ha rilasciato un'intervista al sito olandese \"Mee Met Orange\", nella quale ha parlato  ..."
+    },
+    {
+      "id": "3b5efcdc08ce",
+      "title": "CM: Krösche ‘less certain’ about Eintracht future – why Milan remain eager to hire him",
+      "url": "https://sempremilan.com/why-milan-remain-eager-hire-krosche",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T15:00:00+00:00",
+      "summary": "Markus Krösche’s name burst onto the AC Milan scene and has never really fully gone away, especially in light of recent reports. It may be a case of there being no smoke without fire on the Krösche front. Matteo Moretto confirmed earlier today that Gerry Cardinale is working to improve the club’s st"
+    },
+    {
+      "id": "02145a1ee2b6",
+      "title": "MN - Cattaneo apprezza: \"Amorim sta cambiando totalmente i principi della squadra, mi piace tantissimo anche come comunica\"",
+      "url": "https://www.milannews.it/news/mn-cattaneo-apprezza-amorim-cambiando-totalmente-principi-squadra-piace-tantissimo-comunica-630666",
+      "source": "milannews.it",
+      "date": "2026-09-23T14:48:00+00:00",
+      "summary": "In esclusiva ai microfoni di MilanNews."
+    },
+    {
+      "id": "f76b58cf05fa",
+      "title": "Milan ready to use Pulisic and Rabiot contract clauses to June 2028",
+      "url": "https://football-italia.net/milan-ready-pulisic-rabiot-contract-clauses/",
+      "source": "football-italia.net",
+      "date": "2026-09-23T14:47:31+00:00",
+      "summary": "Milan are not in a rush to negotiate new contracts with Christian Pulisic and Adrien..."
     },
     {
       "id": "69eed5d0511f",
@@ -18,36 +242,12 @@
       "summary": "Yunus Musah has been one of the surprises of the season for AC Milan, yet he could have been a summer departure. According to MilanVibes, there was a point early in the preseason campaign when the exit of Musah seemed far more likely than unlikely. He returned after an unsuccessful loan at Atalanta,"
     },
     {
-      "id": "d963f9f84a4b",
-      "title": "UFFICIALE: Tommaso Mancioppi ha prolungato il suo contratto con il Milan",
-      "url": "https://www.milannews.it/milan-futuro/ufficiale-tommaso-mancioppi-prolungato-contratto-milan-630694",
-      "source": "milannews.it",
-      "date": "2026-09-23T14:24:43+00:00",
-      "summary": "Il Milan ha annunciato sul suo sito il prolungamento di contratto di Tommaso Mancioppi, centrocampista classe 2006 del Milan Futuro: \"AC Milan è lieto di annunciare il prolungamento del contratto di Tommaso Mancioppi."
-    },
-    {
-      "id": "409cdfca5f8e",
-      "title": "Ambrosini: \"Il Milan non poteva giocare come prima: la palla tornava sempre indietro. Con Pulisic, invece...\"",
-      "url": "https://www.milannews.it/news/ambrosini-il-milan-poteva-giocare-prima-palla-tornava-indietro-pulisic-invece-630658",
-      "source": "milannews.it",
-      "date": "2026-09-23T14:12:00+00:00",
-      "summary": "Massimo Ambrosini, ex calciatore, si è così espresso a Cronache di Spogliatoio sulla strategia tattica del Milan contro il Lecce: \"Se non hai Pulisic, tu non puoi giocare come giocava il Milan prima del Lecce."
-    },
-    {
       "id": "69700e072c6c",
       "title": "Computer predicts Serie A 2026/27 winners, top 4 and doomed to relegation",
       "url": "https://football-italia.net/computer-predict-serie-a-2026-27-winners-top-4/",
       "source": "football-italia.net",
       "date": "2026-09-23T14:07:08+00:00",
       "summary": "Inter remain the favourites to win the Serie A title this season, according to the..."
-    },
-    {
-      "id": "69c7340221a3",
-      "title": "ESCLUSIVA MN - Cattaneo: \"Amorim merita tempo perché è bravo, il Milan deve puntare in tutti i modi all'Europa League\"",
-      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-cattaneo-amorim-merita-bravo-milan-puntare-modi-europa-league-630665",
-      "source": "milannews.it",
-      "date": "2026-09-23T14:00:00+00:00",
-      "summary": "In esclusiva ai microfoni di MilanNews."
     },
     {
       "id": "ad467a7df0eb",
@@ -58,22 +258,6 @@
       "summary": "They say good things often come in threes, and AC Milan have announced a third renewal in quick succession for a young talent. On Tuesday evening, the club announced that young full-back Emanuele Borsani had put pen to paper on his first pro deal. Then, Milan announced yet another contract extension"
     },
     {
-      "id": "90739a721fc9",
-      "title": "Viviano: \"Ecco perché secondo me Amorim ha deciso di cambiare strategia, modulo e un po' i discorsi\"",
-      "url": "https://www.milannews.it/news/viviano-ecco-amorim-deciso-cambiare-strategia-modulo-discorsi-630657",
-      "source": "milannews.it",
-      "date": "2026-09-23T13:47:39+00:00",
-      "summary": "Emiliano Viviano, ex portiere e attuale opinionista, si è così espresso a Cronache di Spogliatoio sulle strategie tattiche di Amorim: \"Secondo me lui cambia un po' strategia, modulo e anche discorsi, perché fin dall' ..."
-    },
-    {
-      "id": "0c79213793fd",
-      "title": "Nonostante gli inviti di Gattuso, i tifosi della Lazio proseguono la protesta contro Lotito",
-      "url": "https://www.milannews.it/news/tifo-organizzato-lazio-prosegue-protesta-risultati-mancanza-630661",
-      "source": "milannews.it",
-      "date": "2026-09-23T13:35:03+00:00",
-      "summary": "La Lazio, con la vittoria contro il Venezia e approfittando del pareggio tra Roma e Inter, ritrova la testa della classifica."
-    },
-    {
       "id": "53c647ca4240",
       "title": "GdS: Milan looked at rising Italy star before Sporting CP won race with €26m bid",
       "url": "https://sempremilan.com/milan-doumbia-sporting-cp-26m-bid",
@@ -82,52 +266,12 @@
       "summary": "AC Milan were interesting in signing Issa Doumbia before Sporting CP swooped to sign him from Venezia, a report claims. La Gazzetta dello Sport have taken a look at the make-up of the Italy squad under the returning head coach Roberto Mancini, with 10 being players outside of Serie A. As part of it "
     },
     {
-      "id": "ca5bc2e4f15a",
-      "title": "Bianchin si chiede: \"Un centravanti maratoneta può essere abbastanza lucido da fare la scelta giusta in area?\"",
-      "url": "https://www.milannews.it/news/bianchin-chiede-un-centravanti-maratoneta-lucido-scelta-giusta-area-630645",
-      "source": "milannews.it",
-      "date": "2026-09-23T13:23:50+00:00",
-      "summary": "Luca Bianchin, giornalista, si è così espresso su La Gazzetta dello Sport commentando le prestazioni di Goncalo Ramos: \"Un allarme suona in lontananza."
-    },
-    {
-      "id": "c7fda11fefc1",
-      "title": "Passerini: \"Orsato ha parlato di due episodi arbitrali capitati al Milan\"",
-      "url": "https://www.milannews.it/news/passerini-orsato-parlato-episodi-arbitrali-capitati-milan-630654",
-      "source": "milannews.it",
-      "date": "2026-09-23T13:11:12+00:00",
-      "summary": "Carlos Passerini, giornalista del Corriere della Sera, si è così espresso sul suo canale Youtube sul tema arbitrale in Serie A, tornato in auge dopo il vertice di lunedì con gli allenatori del campionato: \"Dal vertice che c& ..."
-    },
-    {
-      "id": "b13c9a4e2ad1",
-      "title": "600 km per l'autografo di Belotti: l'attaccante del Modena lo invita allo stadio",
-      "url": "https://www.milannews.it/news/calcio-600-km-autografo-belotti-attaccante-invita-stadio-630643",
-      "source": "milannews.it",
-      "date": "2026-09-23T13:00:43+00:00",
-      "summary": "(ANSA) - MODENA, 22 SET - Mercoledì scorso aveva percorso assieme alla mamma gli oltre 300 chilometri che dividono Modena e Torino per poter finalmente incontrare il suo idolo calcistico Andrea Belotti, approdato nella scorsa sessione estiva d ..."
-    },
-    {
       "id": "80e7cb29d471",
       "title": "Opta: Milan have just 37.24% chance of Champions League qualification – the projections",
       "url": "https://sempremilan.com/opta-milan-champions-league-2026-27-projections",
       "source": "sempremilan.com",
       "date": "2026-09-23T13:00:00+00:00",
       "summary": "We are five games into the 2026-27 Serie A season, and some updated projections have arrived from Opta. It’s still too early to say what the final table will look like, but the Opta predictor – which analyses historical and statistical data and estimates the probability of teams finishing in a given"
-    },
-    {
-      "id": "d8eaae27a48b",
-      "title": "Trevisani: \"Amorim dice che il Milan meritava più punti: ma dove?! Però aprirei un suo fan club\"",
-      "url": "https://www.milannews.it/news/trevisani-amorim-milan-meritava-punti-dove-aprirei-fan-club-630652",
-      "source": "milannews.it",
-      "date": "2026-09-23T12:48:11+00:00",
-      "summary": "Riccardo Trevisani, giornalista, si è così espresso a Cronache di Spogliatoio sul Milan di Ruben Amorim nelle prime gare di campionato: \"A me raramente il Milan non è piaciuto, cioè non mi è piaciuto solo a Tor ..."
-    },
-    {
-      "id": "4cb762cf4f38",
-      "title": "Atalanta, si ferma Scalvini in Nazionale. Il 18 ottobre c'è la sfida al Milan",
-      "url": "https://www.milannews.it/news/azzurri-ferma-scalvini-problemi-caviglia-ruggeri-630642",
-      "source": "milannews.it",
-      "date": "2026-09-23T12:36:41+00:00",
-      "summary": "(ANSA) - FIRENZE, 22 SET - Il difensore dell'Atalanta Giorgio Scalvini ha saltato l'allenamento odierno degli azzurri per un problema alla caviglia: il suo rientro dovrebbe avvenire domani."
     },
     {
       "id": "feaa87640584",
@@ -146,30 +290,6 @@
       "summary": "Goncalo Ramos is finding ways to contribute for AC Milan, but Ruben Amorim has a new mission: to get him scoring goals. As Tuttosport write this morning, Milan go into the break off the back of their best performance under Amorim so far, who seemed to fix the first-half intensity issue and found som"
     },
     {
-      "id": "00dc8fe125f0",
-      "title": "Guidi sul futuro di Pavlovic: \"La volontà comune di proseguire insieme dovrebbe agevolare il rinnovo\"",
-      "url": "https://www.milannews.it/calciomercato-milan/guidi-pavlovic-la-volonta-comune-proseguire-dovrebbe-agevolare-rinnovo-630644",
-      "source": "milannews.it",
-      "date": "2026-09-23T12:24:05+00:00",
-      "summary": "Marco Guidi, giornalista, si è così espresso su La Gazzetta dello Sport sull'ipotesi rinnovo per Strahinja Pavlovic, difensore del Milan: \"La sosta per le nazionali è da sempre occasione di riflessioni sulla rosa e sul m ..."
-    },
-    {
-      "id": "922e5df1acfb",
-      "title": "Pellegatti: \"Faccio un mio bilancio su Furlani: sono stati i tre anni più brutti della storia del Milan\"",
-      "url": "https://www.milannews.it/news/pellegatti-faccio-bilancio-furlani-brutti-storia-milan-630649",
-      "source": "milannews.it",
-      "date": "2026-09-23T12:12:00+00:00",
-      "summary": "Carlo Pellegatti, giornalista, si è così espresso sul suo canale Youtube commentando l'operato dell'ex ad del Milan Giorgio Furlani: \"Volevo trarre un bilancio del lavoro di Giorgio Furlani."
-    },
-    {
-      "id": "77df41d80293",
-      "title": "Amorim, il Milan prende la sua forma: niente compromessi, ma la lezione di Manchester ha lasciato il segno",
-      "url": "https://www.milannews.it/primo-piano/amorim-milan-prende-forma-compromessi-lezione-manchester-segno-630610",
-      "source": "milannews.it",
-      "date": "2026-09-23T12:00:00+00:00",
-      "summary": "Ruben Amorim si sta facendo conoscere dal mondo Milan non soltanto per le sue idee tattiche, ma anche per il modo in cui gestisce comunicazione, spogliatoio e gerarchie."
-    },
-    {
       "id": "1d5cbb251d05",
       "title": "Moretto: Cardinale wants ‘world-class’ Milan management – Krösche a ‘strong contender’",
       "url": "https://sempremilan.com/cardinale-world-class-management-krosche",
@@ -186,22 +306,6 @@
       "summary": "Milan are moving to tie down two of Ruben Amorim’s key players, with new deals..."
     },
     {
-      "id": "080a6c64d362",
-      "title": "Pasotto: \"Amorim a Manchester è andato a schiantasi per il suo essere integralista. Al Milan si è già dimostrato più elastico\"",
-      "url": "https://www.milannews.it/news/pasotto-amorim-manchester-andato-schiantasi-integralista-milan-dimostrato-elastico-630647",
-      "source": "milannews.it",
-      "date": "2026-09-23T11:48:33+00:00",
-      "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport sul modo di allenare il Milan di Ruben Amorim: \"Il portoghese è sbarcato a Milanello preceduto dalla sua fama di allenatore integralista."
-    },
-    {
-      "id": "054ece6f33ab",
-      "title": "Juventus, il portiere Neto verso il ritorno in bianconero: trattativa ai dettagli",
-      "url": "https://www.milannews.it/news/juve-neto-ritorno-bianconero-trattativa-dettagli-630686",
-      "source": "milannews.it",
-      "date": "2026-09-23T11:36:19+00:00",
-      "summary": "(ANSA) - TORINO, 23 SET - La Juventus ha rotto gli indugi e ha deciso di intervenire sul mercato degli svincolati per sostituire l'infortunato Grabara."
-    },
-    {
       "id": "840807b8f6e3",
       "title": "GdS: Milan schedule friendly against Serie B side during break – the details",
       "url": "https://sempremilan.com/milan-schedule-friendly-padova-during-break",
@@ -210,44 +314,12 @@
       "summary": "Ruben Amorim and the AC Milan staff have decided to try keep the players sharp with a friendly match during the break. Milan won 3-0 against Lecce on Sunday night, but it will be the last football at San Siro for some time. As La Gazzetta dello Sport (seen below) report, the three-week international"
     },
     {
-      "id": "01e8cbaf3739",
-      "title": "Bisseck e il racconto del 5-0 contro il Psg: \"Mi sono detto: entro e la ribalto da solo. Poi mi sono infortunato\"",
-      "url": "https://www.milannews.it/news/bisseck-racconto-5-0-psg-mi-detto-entro-ribalto-solo-infortunato-630641",
-      "source": "milannews.it",
-      "date": "2026-09-23T11:24:01+00:00",
-      "summary": "Yann Bisseck, difensore dell'Inter, si è così espresso a Football Finance raccontando un retroscena dal 5-0 contro il Psg: \"Incubo credo sia la parola esatta per descriverla."
-    },
-    {
-      "id": "fc7c3564eff0",
-      "title": "Letizia: \"L'infortunio di Gila lo ha costretto ad uscire dal campo. Contro il Sassuolo...\"",
-      "url": "https://www.milannews.it/news/letizia-l-infortunio-gila-costretto-uscire-campo-sassuolo-630651",
-      "source": "milannews.it",
-      "date": "2026-09-23T11:12:00+00:00",
-      "summary": "Francesco Letizia, giornalista, si è così espresso sul suo canale Youtube commentando le prestazioni di Mario Gila, difensore del Milan: \"Mario Gila è una bestia, è incredibile."
-    },
-    {
-      "id": "1e74780acecc",
-      "title": "Il Venezia conferma Stroppa nonostante le cinque sconfitte",
-      "url": "https://www.milannews.it/news/venezia-conferma-stroppa-sconfitte-630635",
-      "source": "milannews.it",
-      "date": "2026-09-23T11:00:33+00:00",
-      "summary": "(ANSA) - VENEZIA, 22 SET - Giovanni Stroppa resta alla guida del Venezia. Il club lagunare ha confermato il tecnico in panchina, nonostante l'avvio di campionato estremamente negativo, con cinque sconfitte nelle prime cinque giornate di Serie A."
-    },
-    {
       "id": "e75923a9aacb",
       "title": "Official: Matteo Pagliei signs first professional contract with Milan Futuro",
       "url": "https://sempremilan.com/official-matteo-pagliei-professional-milan-contract",
       "source": "sempremilan.com",
       "date": "2026-09-23T11:00:00+00:00",
       "summary": "AC Milan have announced yet another contract extension as Matteo Pagliei has signed his first senior deal. On Tuesday evening, the club announced that young full-back Emanuele Borsani had put pen to paper on his first pro deal. It comes after a summer preseason spent partly with the first-team squad"
-    },
-    {
-      "id": "17f2cc082d42",
-      "title": "Aperta la vendita dei biglietti per il Derby contro l'Inter del 31 ottobre",
-      "url": "https://www.milannews.it/news/aperta-vendita-biglietti-derby-inter-31-ottobre-630673",
-      "source": "milannews.it",
-      "date": "2026-09-23T10:48:00+00:00",
-      "summary": "Di seguito si riportano le comunicazioni del Milan sulla vendita dei biglietti del Derby contro l'Inter del prossimo 31 ottobre.\n\nBIGLIETTI\nDisponibili online su booking."
     },
     {
       "id": "d48364c740f4",
@@ -296,54 +368,6 @@
       "source": "sempremilan.com",
       "date": "2026-09-23T08:00:00+00:00",
       "summary": "On Sunday night, AC Milan had a resounding victory to silence some critics and meant they can somewhat enjoy a more peaceful international break. La Gazzetta dello Sport (seen below) write this morning that the 3-0 win over Lecce has restored calm to the Milan camp. Above all, it gives some serenity"
-    },
-    {
-      "id": "44a1e02b7712",
-      "title": "Ramos’ key role and a 4-2-3-1 seen: Tactical analysis of AC Milan 3-0 Lecce",
-      "url": "https://sempremilan.com/tactical-analysis-ac-milan-3-0-lecce-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T18:00:00+00:00",
-      "summary": "AC Milan bounced back from their midweek defeat against Benfica in the right way as they beat Lecce 3-0 at San Siro on Sunday night. Coming off what was perhaps their worst performance under Ruben Amorim so far, there was a need to put things right especially before the first international break of "
-    },
-    {
-      "id": "47829a6b98ec",
-      "title": "MN: Modric ‘never the problem’ for Milan as narrative proven wrong vs. Lecce",
-      "url": "https://sempremilan.com/modric-never-problem-milan-narrative-proven-wrong",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T17:30:00+00:00",
-      "summary": "Questions have been asked about Luka Modric in the early stages of the season, but the AC Milan midfielder disproved them on Sunday. After struggling a little against Lazio – a first for him in a Milan shirt – there were a few questions about Modric and his role moving forward in the team. But […]\nT"
-    },
-    {
-      "id": "4e763bc1f7fe",
-      "title": "GdS: ‘A chance to sharpen principles’ – why Milan and Amorim can benefit from break",
-      "url": "https://sempremilan.com/why-milan-amorim-benefit-international-break",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T17:00:00+00:00",
-      "summary": "AC Milan left the first five games of the Serie A season unbeaten and with 11 points from 15. Now, the international break offers a chance to rest before a busy October. The international break can come at good times and bad. There can be several reasons why there’s good and bad, too. Whether it’s ["
-    },
-    {
-      "id": "61d66cfdd5f1",
-      "title": "MN: Milan hoping to complete Rabiot and Pulisic renewals by winter mercato – the latest",
-      "url": "https://sempremilan.com/milan-hoping-complete-rabiot-pulisic-renewals-2027",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T16:30:00+00:00",
-      "summary": "AC Milan have some stars whose deals need revising and the current plans are to finalise new contracts before 2027! Next summer could be a big one for Milan if they do not tie down some of their most important players. Of course, there will be a few departures – mainly involving those who should […]"
-    },
-    {
-      "id": "cb83c994531e",
-      "title": "Official: Emanuele Borsani signs first professional contract with Milan Futuro",
-      "url": "https://sempremilan.com/borsani-signs-first-professional-deal-futuro",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T16:00:00+00:00",
-      "summary": "This evening, AC Milan have confirmed that Emanuele Borsani has signed his first professional contract with the Futuro project. It is clear that Milan are insuring themselves with young players. In recent years, the club have lost far too many good youngsters, so they’re now looking to be proactive "
-    },
-    {
-      "id": "cd84adc42c84",
-      "title": "TMW: Ronaldo, new markets and growing interest – why RedBird are considering Al-Nassr stake",
-      "url": "https://sempremilan.com/why-redbird-considering-al-nassr-stake",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T15:30:00+00:00",
-      "summary": "AC Milan owner Gerry Cardinale and RedBird are seemingly very interested in a move to buy a stake in Al Nassr, with talks continuing, reports suggest today. In recent weeks, it has been reported that Cardinale would be leading a consortium alongside a few Saudi Arabian businessmen to buy a small sta"
     },
     {
       "id": "0538bc958258",
@@ -456,30 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-20T21:00:10+00:00",
       "summary": "Christian Pulisic stole the show with his brilliantly-taken opening goal in Milan’s eventual 3-0 Serie..."
-    },
-    {
-      "id": "12017e548aa3",
-      "title": "Serie A | Milan 3-0 Lecce: Pulisic first goal inspires Amorim",
-      "url": "https://football-italia.net/serie-a-milan-3-0-lecce-pulisic-goal-inspires/",
-      "source": "football-italia.net",
-      "date": "2026-09-20T20:39:14+00:00",
-      "summary": "Christian Pulisic made a triumphant return to the starting XI, scoring in Milan’s 3-0 win..."
-    },
-    {
-      "id": "c4939e19f211",
-      "title": "Video: Pulisic finally breaks Milan drought with first goal of 2026 at club level",
-      "url": "https://football-italia.net/video-pulisic-finally-breaks-milan-drought/",
-      "source": "football-italia.net",
-      "date": "2026-09-20T19:20:36+00:00",
-      "summary": "Christian Pulisic has finally ended his goalscoring drought for Milan, opening the scoring against Lecce..."
-    },
-    {
-      "id": "7ad820ea1e62",
-      "title": "Serie A Liveblog: Fiorentina-Napoli, Juventus-Atalanta, Milan-Lecce and more",
-      "url": "https://football-italia.net/serie-a-liveblog-fiorentina-napoli-juventus-atalanta-milan-lecce-and-more/",
-      "source": "football-italia.net",
-      "date": "2026-09-20T18:40:08+00:00",
-      "summary": "{rsn-live-v2}"
     }
   ]
 }
