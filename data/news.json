@@ -1,13 +1,277 @@
 {
-  "lastUpdated": "2026-09-23T09:04:17.806685+00:00",
+  "lastUpdated": "2026-09-23T14:40:15.265509+00:00",
   "articles": [
     {
-      "id": "14a4dd6d119c",
-      "title": "Guidi commenta: \"C'è un Milan con e un Milan senza Pulisic\"",
-      "url": "https://www.milannews.it/news/guidi-commenta-c-milan-milan-pulisic-630674",
+      "id": "03b4e4d8706b",
+      "title": "Manchester United, il licenziamento di Amorim è costato 9,5 milioni. Cifra più bassa \"grazie\" al Milan",
+      "url": "https://www.milannews.it/news/manchester-united-licenziamento-amorim-costato-9-5-milioni-cifra-bassa-grazie-milan-630696",
       "source": "milannews.it",
-      "date": "2026-09-23T09:00:00+00:00",
-      "summary": "Per ora le presenze stagionali di Christian Pulisic sono state tre, ognuna degna di nota. La prima è stata quella contro la Lazio: entrato all'intervallo con Musah e Moreira, ha cambiato volto alla squadra."
+      "date": "2026-09-23T14:36:28+00:00",
+      "summary": "Come riporta A Bola, nelle scorse ore, il Manchester United ha presentato i risultati finanziari annuali e ha rivelato che il licenziamento di Ruben Amorim e del resto del suo staff è costato 9,5 milioni di euro."
+    },
+    {
+      "id": "69eed5d0511f",
+      "title": "MilanVibes: How Musah convinced Amorim after West Ham’s serious enquiry",
+      "url": "https://sempremilan.com/how-musah-convinced-amorim-west-ham",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T14:30:00+00:00",
+      "summary": "Yunus Musah has been one of the surprises of the season for AC Milan, yet he could have been a summer departure. According to MilanVibes, there was a point early in the preseason campaign when the exit of Musah seemed far more likely than unlikely. He returned after an unsuccessful loan at Atalanta,"
+    },
+    {
+      "id": "d963f9f84a4b",
+      "title": "UFFICIALE: Tommaso Mancioppi ha prolungato il suo contratto con il Milan",
+      "url": "https://www.milannews.it/milan-futuro/ufficiale-tommaso-mancioppi-prolungato-contratto-milan-630694",
+      "source": "milannews.it",
+      "date": "2026-09-23T14:24:43+00:00",
+      "summary": "Il Milan ha annunciato sul suo sito il prolungamento di contratto di Tommaso Mancioppi, centrocampista classe 2006 del Milan Futuro: \"AC Milan è lieto di annunciare il prolungamento del contratto di Tommaso Mancioppi."
+    },
+    {
+      "id": "409cdfca5f8e",
+      "title": "Ambrosini: \"Il Milan non poteva giocare come prima: la palla tornava sempre indietro. Con Pulisic, invece...\"",
+      "url": "https://www.milannews.it/news/ambrosini-il-milan-poteva-giocare-prima-palla-tornava-indietro-pulisic-invece-630658",
+      "source": "milannews.it",
+      "date": "2026-09-23T14:12:00+00:00",
+      "summary": "Massimo Ambrosini, ex calciatore, si è così espresso a Cronache di Spogliatoio sulla strategia tattica del Milan contro il Lecce: \"Se non hai Pulisic, tu non puoi giocare come giocava il Milan prima del Lecce."
+    },
+    {
+      "id": "69700e072c6c",
+      "title": "Computer predicts Serie A 2026/27 winners, top 4 and doomed to relegation",
+      "url": "https://football-italia.net/computer-predict-serie-a-2026-27-winners-top-4/",
+      "source": "football-italia.net",
+      "date": "2026-09-23T14:07:08+00:00",
+      "summary": "Inter remain the favourites to win the Serie A title this season, according to the..."
+    },
+    {
+      "id": "69c7340221a3",
+      "title": "ESCLUSIVA MN - Cattaneo: \"Amorim merita tempo perché è bravo, il Milan deve puntare in tutti i modi all'Europa League\"",
+      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-cattaneo-amorim-merita-bravo-milan-puntare-modi-europa-league-630665",
+      "source": "milannews.it",
+      "date": "2026-09-23T14:00:00+00:00",
+      "summary": "In esclusiva ai microfoni di MilanNews."
+    },
+    {
+      "id": "ad467a7df0eb",
+      "title": "Official: Tommaso Mancioppi extends contract with Milan Futuro",
+      "url": "https://sempremilan.com/official-tommaso-mancioppi-extends-contract-milan",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T14:00:00+00:00",
+      "summary": "They say good things often come in threes, and AC Milan have announced a third renewal in quick succession for a young talent. On Tuesday evening, the club announced that young full-back Emanuele Borsani had put pen to paper on his first pro deal. Then, Milan announced yet another contract extension"
+    },
+    {
+      "id": "90739a721fc9",
+      "title": "Viviano: \"Ecco perché secondo me Amorim ha deciso di cambiare strategia, modulo e un po' i discorsi\"",
+      "url": "https://www.milannews.it/news/viviano-ecco-amorim-deciso-cambiare-strategia-modulo-discorsi-630657",
+      "source": "milannews.it",
+      "date": "2026-09-23T13:47:39+00:00",
+      "summary": "Emiliano Viviano, ex portiere e attuale opinionista, si è così espresso a Cronache di Spogliatoio sulle strategie tattiche di Amorim: \"Secondo me lui cambia un po' strategia, modulo e anche discorsi, perché fin dall' ..."
+    },
+    {
+      "id": "0c79213793fd",
+      "title": "Nonostante gli inviti di Gattuso, i tifosi della Lazio proseguono la protesta contro Lotito",
+      "url": "https://www.milannews.it/news/tifo-organizzato-lazio-prosegue-protesta-risultati-mancanza-630661",
+      "source": "milannews.it",
+      "date": "2026-09-23T13:35:03+00:00",
+      "summary": "La Lazio, con la vittoria contro il Venezia e approfittando del pareggio tra Roma e Inter, ritrova la testa della classifica."
+    },
+    {
+      "id": "53c647ca4240",
+      "title": "GdS: Milan looked at rising Italy star before Sporting CP won race with €26m bid",
+      "url": "https://sempremilan.com/milan-doumbia-sporting-cp-26m-bid",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T13:30:00+00:00",
+      "summary": "AC Milan were interesting in signing Issa Doumbia before Sporting CP swooped to sign him from Venezia, a report claims. La Gazzetta dello Sport have taken a look at the make-up of the Italy squad under the returning head coach Roberto Mancini, with 10 being players outside of Serie A. As part of it "
+    },
+    {
+      "id": "ca5bc2e4f15a",
+      "title": "Bianchin si chiede: \"Un centravanti maratoneta può essere abbastanza lucido da fare la scelta giusta in area?\"",
+      "url": "https://www.milannews.it/news/bianchin-chiede-un-centravanti-maratoneta-lucido-scelta-giusta-area-630645",
+      "source": "milannews.it",
+      "date": "2026-09-23T13:23:50+00:00",
+      "summary": "Luca Bianchin, giornalista, si è così espresso su La Gazzetta dello Sport commentando le prestazioni di Goncalo Ramos: \"Un allarme suona in lontananza."
+    },
+    {
+      "id": "c7fda11fefc1",
+      "title": "Passerini: \"Orsato ha parlato di due episodi arbitrali capitati al Milan\"",
+      "url": "https://www.milannews.it/news/passerini-orsato-parlato-episodi-arbitrali-capitati-milan-630654",
+      "source": "milannews.it",
+      "date": "2026-09-23T13:11:12+00:00",
+      "summary": "Carlos Passerini, giornalista del Corriere della Sera, si è così espresso sul suo canale Youtube sul tema arbitrale in Serie A, tornato in auge dopo il vertice di lunedì con gli allenatori del campionato: \"Dal vertice che c& ..."
+    },
+    {
+      "id": "b13c9a4e2ad1",
+      "title": "600 km per l'autografo di Belotti: l'attaccante del Modena lo invita allo stadio",
+      "url": "https://www.milannews.it/news/calcio-600-km-autografo-belotti-attaccante-invita-stadio-630643",
+      "source": "milannews.it",
+      "date": "2026-09-23T13:00:43+00:00",
+      "summary": "(ANSA) - MODENA, 22 SET - Mercoledì scorso aveva percorso assieme alla mamma gli oltre 300 chilometri che dividono Modena e Torino per poter finalmente incontrare il suo idolo calcistico Andrea Belotti, approdato nella scorsa sessione estiva d ..."
+    },
+    {
+      "id": "80e7cb29d471",
+      "title": "Opta: Milan have just 37.24% chance of Champions League qualification – the projections",
+      "url": "https://sempremilan.com/opta-milan-champions-league-2026-27-projections",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T13:00:00+00:00",
+      "summary": "We are five games into the 2026-27 Serie A season, and some updated projections have arrived from Opta. It’s still too early to say what the final table will look like, but the Opta predictor – which analyses historical and statistical data and estimates the probability of teams finishing in a given"
+    },
+    {
+      "id": "d8eaae27a48b",
+      "title": "Trevisani: \"Amorim dice che il Milan meritava più punti: ma dove?! Però aprirei un suo fan club\"",
+      "url": "https://www.milannews.it/news/trevisani-amorim-milan-meritava-punti-dove-aprirei-fan-club-630652",
+      "source": "milannews.it",
+      "date": "2026-09-23T12:48:11+00:00",
+      "summary": "Riccardo Trevisani, giornalista, si è così espresso a Cronache di Spogliatoio sul Milan di Ruben Amorim nelle prime gare di campionato: \"A me raramente il Milan non è piaciuto, cioè non mi è piaciuto solo a Tor ..."
+    },
+    {
+      "id": "4cb762cf4f38",
+      "title": "Atalanta, si ferma Scalvini in Nazionale. Il 18 ottobre c'è la sfida al Milan",
+      "url": "https://www.milannews.it/news/azzurri-ferma-scalvini-problemi-caviglia-ruggeri-630642",
+      "source": "milannews.it",
+      "date": "2026-09-23T12:36:41+00:00",
+      "summary": "(ANSA) - FIRENZE, 22 SET - Il difensore dell'Atalanta Giorgio Scalvini ha saltato l'allenamento odierno degli azzurri per un problema alla caviglia: il suo rientro dovrebbe avvenire domani."
+    },
+    {
+      "id": "feaa87640584",
+      "title": "Report Milan want Krosche for new Head of Football role",
+      "url": "https://football-italia.net/report-milan-want-krosche-head-football-role/",
+      "source": "football-italia.net",
+      "date": "2026-09-23T12:35:22+00:00",
+      "summary": "Milan are seeking to create a Head of Football role and marked Markus Krosche for..."
+    },
+    {
+      "id": "b2cec6997530",
+      "title": "Tuttosport: The ‘Ramos paradox’ – Amorim’s next mission to get €74m man firing",
+      "url": "https://sempremilan.com/ramos-paradox-amorim-74m-man-firing",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T12:30:00+00:00",
+      "summary": "Goncalo Ramos is finding ways to contribute for AC Milan, but Ruben Amorim has a new mission: to get him scoring goals. As Tuttosport write this morning, Milan go into the break off the back of their best performance under Amorim so far, who seemed to fix the first-half intensity issue and found som"
+    },
+    {
+      "id": "00dc8fe125f0",
+      "title": "Guidi sul futuro di Pavlovic: \"La volontà comune di proseguire insieme dovrebbe agevolare il rinnovo\"",
+      "url": "https://www.milannews.it/calciomercato-milan/guidi-pavlovic-la-volonta-comune-proseguire-dovrebbe-agevolare-rinnovo-630644",
+      "source": "milannews.it",
+      "date": "2026-09-23T12:24:05+00:00",
+      "summary": "Marco Guidi, giornalista, si è così espresso su La Gazzetta dello Sport sull'ipotesi rinnovo per Strahinja Pavlovic, difensore del Milan: \"La sosta per le nazionali è da sempre occasione di riflessioni sulla rosa e sul m ..."
+    },
+    {
+      "id": "922e5df1acfb",
+      "title": "Pellegatti: \"Faccio un mio bilancio su Furlani: sono stati i tre anni più brutti della storia del Milan\"",
+      "url": "https://www.milannews.it/news/pellegatti-faccio-bilancio-furlani-brutti-storia-milan-630649",
+      "source": "milannews.it",
+      "date": "2026-09-23T12:12:00+00:00",
+      "summary": "Carlo Pellegatti, giornalista, si è così espresso sul suo canale Youtube commentando l'operato dell'ex ad del Milan Giorgio Furlani: \"Volevo trarre un bilancio del lavoro di Giorgio Furlani."
+    },
+    {
+      "id": "77df41d80293",
+      "title": "Amorim, il Milan prende la sua forma: niente compromessi, ma la lezione di Manchester ha lasciato il segno",
+      "url": "https://www.milannews.it/primo-piano/amorim-milan-prende-forma-compromessi-lezione-manchester-segno-630610",
+      "source": "milannews.it",
+      "date": "2026-09-23T12:00:00+00:00",
+      "summary": "Ruben Amorim si sta facendo conoscere dal mondo Milan non soltanto per le sue idee tattiche, ma anche per il modo in cui gestisce comunicazione, spogliatoio e gerarchie."
+    },
+    {
+      "id": "1d5cbb251d05",
+      "title": "Moretto: Cardinale wants ‘world-class’ Milan management – Krösche a ‘strong contender’",
+      "url": "https://sempremilan.com/cardinale-world-class-management-krosche",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T12:00:00+00:00",
+      "summary": "AC Milan owner Gerry Cardinale is open to improving the club’s hierarchy, and Markus Krosche remains a ‘strong contender’. At one point during the summer, it appeared nailed on that Ruben Amorim’s arrival as the new head coach was going to be very closely followed by the hiring of Krosche from Eintr"
+    },
+    {
+      "id": "effe58a1c239",
+      "title": "Milan close in on Pulisic and Pavlovic renewals until 2031",
+      "url": "https://football-italia.net/milan-close-in-on-pulisic-and-pavlovic/",
+      "source": "football-italia.net",
+      "date": "2026-09-23T11:50:00+00:00",
+      "summary": "Milan are moving to tie down two of Ruben Amorim’s key players, with new deals..."
+    },
+    {
+      "id": "080a6c64d362",
+      "title": "Pasotto: \"Amorim a Manchester è andato a schiantasi per il suo essere integralista. Al Milan si è già dimostrato più elastico\"",
+      "url": "https://www.milannews.it/news/pasotto-amorim-manchester-andato-schiantasi-integralista-milan-dimostrato-elastico-630647",
+      "source": "milannews.it",
+      "date": "2026-09-23T11:48:33+00:00",
+      "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport sul modo di allenare il Milan di Ruben Amorim: \"Il portoghese è sbarcato a Milanello preceduto dalla sua fama di allenatore integralista."
+    },
+    {
+      "id": "054ece6f33ab",
+      "title": "Juventus, il portiere Neto verso il ritorno in bianconero: trattativa ai dettagli",
+      "url": "https://www.milannews.it/news/juve-neto-ritorno-bianconero-trattativa-dettagli-630686",
+      "source": "milannews.it",
+      "date": "2026-09-23T11:36:19+00:00",
+      "summary": "(ANSA) - TORINO, 23 SET - La Juventus ha rotto gli indugi e ha deciso di intervenire sul mercato degli svincolati per sostituire l'infortunato Grabara."
+    },
+    {
+      "id": "840807b8f6e3",
+      "title": "GdS: Milan schedule friendly against Serie B side during break – the details",
+      "url": "https://sempremilan.com/milan-schedule-friendly-padova-during-break",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T11:30:00+00:00",
+      "summary": "Ruben Amorim and the AC Milan staff have decided to try keep the players sharp with a friendly match during the break. Milan won 3-0 against Lecce on Sunday night, but it will be the last football at San Siro for some time. As La Gazzetta dello Sport (seen below) report, the three-week international"
+    },
+    {
+      "id": "01e8cbaf3739",
+      "title": "Bisseck e il racconto del 5-0 contro il Psg: \"Mi sono detto: entro e la ribalto da solo. Poi mi sono infortunato\"",
+      "url": "https://www.milannews.it/news/bisseck-racconto-5-0-psg-mi-detto-entro-ribalto-solo-infortunato-630641",
+      "source": "milannews.it",
+      "date": "2026-09-23T11:24:01+00:00",
+      "summary": "Yann Bisseck, difensore dell'Inter, si è così espresso a Football Finance raccontando un retroscena dal 5-0 contro il Psg: \"Incubo credo sia la parola esatta per descriverla."
+    },
+    {
+      "id": "fc7c3564eff0",
+      "title": "Letizia: \"L'infortunio di Gila lo ha costretto ad uscire dal campo. Contro il Sassuolo...\"",
+      "url": "https://www.milannews.it/news/letizia-l-infortunio-gila-costretto-uscire-campo-sassuolo-630651",
+      "source": "milannews.it",
+      "date": "2026-09-23T11:12:00+00:00",
+      "summary": "Francesco Letizia, giornalista, si è così espresso sul suo canale Youtube commentando le prestazioni di Mario Gila, difensore del Milan: \"Mario Gila è una bestia, è incredibile."
+    },
+    {
+      "id": "1e74780acecc",
+      "title": "Il Venezia conferma Stroppa nonostante le cinque sconfitte",
+      "url": "https://www.milannews.it/news/venezia-conferma-stroppa-sconfitte-630635",
+      "source": "milannews.it",
+      "date": "2026-09-23T11:00:33+00:00",
+      "summary": "(ANSA) - VENEZIA, 22 SET - Giovanni Stroppa resta alla guida del Venezia. Il club lagunare ha confermato il tecnico in panchina, nonostante l'avvio di campionato estremamente negativo, con cinque sconfitte nelle prime cinque giornate di Serie A."
+    },
+    {
+      "id": "e75923a9aacb",
+      "title": "Official: Matteo Pagliei signs first professional contract with Milan Futuro",
+      "url": "https://sempremilan.com/official-matteo-pagliei-professional-milan-contract",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T11:00:00+00:00",
+      "summary": "AC Milan have announced yet another contract extension as Matteo Pagliei has signed his first senior deal. On Tuesday evening, the club announced that young full-back Emanuele Borsani had put pen to paper on his first pro deal. It comes after a summer preseason spent partly with the first-team squad"
+    },
+    {
+      "id": "17f2cc082d42",
+      "title": "Aperta la vendita dei biglietti per il Derby contro l'Inter del 31 ottobre",
+      "url": "https://www.milannews.it/news/aperta-vendita-biglietti-derby-inter-31-ottobre-630673",
+      "source": "milannews.it",
+      "date": "2026-09-23T10:48:00+00:00",
+      "summary": "Di seguito si riportano le comunicazioni del Milan sulla vendita dei biglietti del Derby contro l'Inter del prossimo 31 ottobre.\n\nBIGLIETTI\nDisponibili online su booking."
+    },
+    {
+      "id": "d48364c740f4",
+      "title": "Loftus-Cheek, Ossola and Hu star for Milan at VOGUE World night – video",
+      "url": "https://sempremilan.com/loftus-cheek-ossola-hu-milan-vogue-world",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T10:30:00+00:00",
+      "summary": "AC Milan took centre stage at VOGUE World last night, which took place right in the heart of the city. Three Milan players took part in one of the most prestigious and global events in the fashion calendar, walking the runway alongside some of the most prominent names in fashion in the Galleria Vitt"
+    },
+    {
+      "id": "dd0325eec4f3",
+      "title": "Criscitiello claims ‘good foreigners’ welcome but Serie A ‘could do without the Amorims’",
+      "url": "https://sempremilan.com/criscitiello-good-foreigners-do-without-amorims",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T10:00:00+00:00",
+      "summary": "Sportitalia editor Michele Criscitiello has caused a stir with the latest comments made in his column for the website. It would be fair to say that the appointment of Ruben Amorim was not one that was met with unanimous approval. Yet, after three wins in five games (no defeats) to begin the Serie A "
+    },
+    {
+      "id": "b83babbcc265",
+      "title": "GdS: Milan expected to double centre-back’s salary with contract meeting scheduled",
+      "url": "https://sempremilan.com/milan-double-pavlovic-salary-contract-meeting",
+      "source": "sempremilan.com",
+      "date": "2026-09-23T09:30:00+00:00",
+      "summary": "With the summer window in the rear-view mirror and the international break upon us, renewals are dominating the headlines. La Gazzetta dello Sport confirm that contracts are the hot topic at the moment. From Christian Pulisic to Adrien Rabiot, Gerry Cardinale is ready to open talks to retain the tea"
     },
     {
       "id": "573915fdfcd7",
@@ -18,22 +282,6 @@
       "summary": "AC Milan remain on the hunt for a left-footed attacking midfielder ahead of the winter window, a report has claimed. As Calciomercato.com report, Ruben Amorim can use the long break to strengthen his tactical principles, which already began to come to life against Lecce after a somewhat difficult fi"
     },
     {
-      "id": "0e598a3e7c75",
-      "title": "Il nuovo preparatore portieri della Francia è stato a trovare Maignan nelle scorse settimane",
-      "url": "https://www.milannews.it/news/preparatore-portieri-francia-trovare-maignan-scorse-settimane-630664",
-      "source": "milannews.it",
-      "date": "2026-09-23T08:48:18+00:00",
-      "summary": "Non sarà una pausa come le altre per la Francia di Mike Maignan e Adrien Rabiot. Per la prima volta dal 2012, ovvero 14 anni, alla guida della formazione transalpina non ci sarà Didier Deschamps."
-    },
-    {
-      "id": "1e18d51281e2",
-      "title": "Clamoroso Udinese, pronto il colpo David Alaba! L'indizio sui canali social",
-      "url": "https://www.milannews.it/news/clamoroso-udinese-pronto-colpo-david-alaba-indizio-canali-social-630671",
-      "source": "milannews.it",
-      "date": "2026-09-23T08:36:35+00:00",
-      "summary": "Incredibile guizzo di calciomercato dell'Udinese."
-    },
-    {
       "id": "df6790ca82ff",
       "title": "CorSport: Milan accelerate Pulisic renewal talks with offer details emerging – the situation",
       "url": "https://sempremilan.com/milan-accelerate-pulisic-renewal-talks-offer",
@@ -42,148 +290,12 @@
       "summary": "Yet more reports have arrived this morning confirming AC Milan’s desire to extend the contract of Christian Pulisic. Corriere dello Sport begin a report by proclaiming that ‘the real Christian Pulisic is finally back’. After nine very difficult months, he made use of his first start under Ruben Amor"
     },
     {
-      "id": "18bc533b0e48",
-      "title": "Milan alla sosta: il 2 ottobre amichevole con una squadra di Serie B",
-      "url": "https://www.milannews.it/news/milan-sosta-2-ottobre-amichevole-squadra-serie-b-630663",
-      "source": "milannews.it",
-      "date": "2026-09-23T08:24:22+00:00",
-      "summary": "Il Milan così come tutte le altre squadre, in particolare quelle che concedono diversi giocatori alle rispettive Nazionali, deve fare i conti con una sosta più lunga del normale."
-    },
-    {
-      "id": "11486799e68f",
-      "title": "Butez: \"Maignan è un amico: bellissima persona e bravissimo portiere\"",
-      "url": "https://www.milannews.it/news/butez-maignan-amico-bellissima-persona-bravissimo-portiere-630659",
-      "source": "milannews.it",
-      "date": "2026-09-23T08:12:04+00:00",
-      "summary": "Ci saranno ben due giocatori del Como nella Nazionale francese. Uno è il capitano Da Cunha e l'altro è il portiere Jean Butez, chiamato in extremis da Zinedine Zidane per l'infortunio di Risser."
-    },
-    {
-      "id": "0a55505b7525",
-      "title": "Pavlovic è una certezza: il Milan lavora per il rinnovo al doppio dello stipendio",
-      "url": "https://www.milannews.it/primo-piano/pavlovic-certezza-milan-lavora-rinnovo-stipendio-630662",
-      "source": "milannews.it",
-      "date": "2026-09-23T08:00:00+00:00",
-      "summary": "Il Milan approfitterà di questa pausa, quest'anno anche più lunga del solito, per avviare i discorsi legati ad alcuni rinnovi di contratto."
-    },
-    {
       "id": "13edc63b1dfa",
       "title": "GdS: ‘Now it’s Amorim’s Milan’ – new certainties and changed mindset emerge",
       "url": "https://sempremilan.com/now-amorims-milan-new-certainties-mindset",
       "source": "sempremilan.com",
       "date": "2026-09-23T08:00:00+00:00",
       "summary": "On Sunday night, AC Milan had a resounding victory to silence some critics and meant they can somewhat enjoy a more peaceful international break. La Gazzetta dello Sport (seen below) write this morning that the 3-0 win over Lecce has restored calm to the Milan camp. Above all, it gives some serenity"
-    },
-    {
-      "id": "f099cde39734",
-      "title": "Una sosta diversa, Gazzetta: \"Chivu e Amorim concedono otto giorni di pausa\"",
-      "url": "https://www.milannews.it/rassegna-stampa/sosta-diversa-gazzetta-chivu-amorim-concedono-pausa-630650",
-      "source": "milannews.it",
-      "date": "2026-09-23T07:48:28+00:00",
-      "summary": "Servirà un po' di abitudine ma sicuramente questa sosta delle Nazionali non è come le altre."
-    },
-    {
-      "id": "e962dbd2742c",
-      "title": "Guidi: \"La gara con il Lecce ha dimostrato che Amorim non è più l'integralista di Manchester\"",
-      "url": "https://www.milannews.it/news/guidi-la-gara-lecce-dimostrato-amorim-integralista-manchester-630656",
-      "source": "milannews.it",
-      "date": "2026-09-23T07:36:04+00:00",
-      "summary": "La partita che il Milan ha vinto contro il Lecce per 3-0 non è stata solamente una vittoria scaccia fantasmi dopo due pareggi in campionato e una sconfitta europea."
-    },
-    {
-      "id": "4bdd64cd44cf",
-      "title": "Il CorSport titola sul rinnovo con il Milan: \"Pulisic vede il 2031\"",
-      "url": "https://www.milannews.it/rassegna-stampa/corsport-titola-rinnovo-milan-pulisic-vede-2031-630648",
-      "source": "milannews.it",
-      "date": "2026-09-23T07:24:41+00:00",
-      "summary": "Sono bastate tre partite, di cui solo una da titolare, per ricordare a tutti il vero valore di Christian Pulisic e l'impatto devastante che può avere sul Milan quando è in campo."
-    },
-    {
-      "id": "82f0063191f1",
-      "title": "Le certezze di Amorim, la Gazzetta: \"Rabiot-Modric e il genio di Pulisic\"",
-      "url": "https://www.milannews.it/rassegna-stampa/certezze-amorim-gazzetta-rabiot-modric-genio-pulisic-630653",
-      "source": "milannews.it",
-      "date": "2026-09-23T07:12:28+00:00",
-      "summary": "Il primo segmento di stagione del nuovo Milan di Ruben Amorim, tutto sommato, è andato in maniera positiva."
-    },
-    {
-      "id": "4d070c1b8b0a",
-      "title": "Il primo obiettivo di Amorim, Tuttosport: \"Riportare Ramos in area\"",
-      "url": "https://www.milannews.it/rassegna-stampa/obiettivo-amorim-tuttosport-riportare-ramos-area-630640",
-      "source": "milannews.it",
-      "date": "2026-09-23T07:00:32+00:00",
-      "summary": "La lunga sosta delle Nazionali sarà un inedito per tutti: solitamente gli allenatori non potevano contare sui propri calciatori convocati per circa 10 giorni, questa volta invece i giorni saranno settimane, poco più di due pri ..."
-    },
-    {
-      "id": "272408cc7c36",
-      "title": "Il Milan vuole blindare anche Pavlovic, Gazzetta: \"Vertice in programma\"",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-vuole-blindare-pavlovic-gazzetta-vertice-programma-630646",
-      "source": "milannews.it",
-      "date": "2026-09-23T06:48:24+00:00",
-      "summary": "Nel pomeriggio di ieri la redazione di MilanNews.it ha sottolineato come il Milan è al lavoro per i rinnovi di Pulisic e Rabiot."
-    },
-    {
-      "id": "df35e04729e6",
-      "title": "Pulisic, il CorSport in apertura conferma: \"Il Milan studia il rinnovo\"",
-      "url": "https://www.milannews.it/rassegna-stampa/pulisic-corsport-apertura-conferma-il-milan-studia-rinnovo-630639",
-      "source": "milannews.it",
-      "date": "2026-09-23T06:36:10+00:00",
-      "summary": "Non è stato un anno facile per Christian Pulisic."
-    },
-    {
-      "id": "25e2a50fa941",
-      "title": "La Gazzetta apre con la svolta rossonera in mezzo: \"Asse con Rabiot fa bene a Modric\"",
-      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-apre-svolta-rossonera-mezzo-asse-rabiot-modric-630638",
-      "source": "milannews.it",
-      "date": "2026-09-23T06:24:36+00:00",
-      "summary": "Come è normale che sia la sosta delle Nazionali fa sì che sia l'Italia a prendersi la scena sulle prima pagine, a maggior ragione in questo periodo in cui sta iniziando un nuovo ciclo e con tanti volti nuovi chiamati dal CT Roberto  ..."
-    },
-    {
-      "id": "788eb30afa1e",
-      "title": "Pulisic sulla prima pagina del QS: \"Corre per migliorare la condizione\"",
-      "url": "https://www.milannews.it/rassegna-stampa/pulisic-pagina-qs-corre-migliorare-condizione-630637",
-      "source": "milannews.it",
-      "date": "2026-09-23T06:12:00+00:00",
-      "summary": "La sosta per le Nazionali è cominciata: sarà una pausa molto atipica perché per la prima volta è stato deciso di accorpare le soste che fino all'anno scorso si facevano a settembre e ottobre in una più ..."
-    },
-    {
-      "id": "5a2b45bbc691",
-      "title": "Conferme su Pulisic: il Milan vuole il rinnovo entro la fine di dicembre",
-      "url": "https://www.milannews.it/primo-piano/conferme-pulisic-milan-vuole-rinnovo-entro-dicembre-630636",
-      "source": "milannews.it",
-      "date": "2026-09-23T06:00:00+00:00",
-      "summary": "Nella giornata di ieri la redazione di MilanNews.it ha anticipato come il Milan si sia messo già al lavoro sul fronte rinnovi."
-    },
-    {
-      "id": "b04542ce9850",
-      "title": "Serie A, la classifica aggiornata: tre squadre in vetta, il Milan resta in scia",
-      "url": "https://www.milannews.it/news/serie-a-classifica-aggiornata-squadre-vetta-milan-resta-scia-630630",
-      "source": "milannews.it",
-      "date": "2026-09-23T05:48:00+00:00",
-      "summary": "Si riporta di seguito la classifica aggiornata di Serie A al termine della quinta giornata di campionato.\n\nSERIE A: LA CLASSIFICA ALLA 5^ GIORNATA \n\n1."
-    },
-    {
-      "id": "f38419623231",
-      "title": "Serie A, da dove ripartirà il campionato? Tutte le info sulla 6^ giornata",
-      "url": "https://www.milannews.it/news/serie-a-ripartira-campionato-info-6-giornata-630629",
-      "source": "milannews.it",
-      "date": "2026-09-23T05:36:00+00:00",
-      "summary": "Di seguito tutte le info sulla sesta giornata di Serie A, che tornerà il weekend del 10 ottobre."
-    },
-    {
-      "id": "dd1c7ef9bcbc",
-      "title": "Nations League, domani parte la competizione: le partite in programma",
-      "url": "https://www.milannews.it/news/nations-league-domani-competizione-partite-programma-630626",
-      "source": "milannews.it",
-      "date": "2026-09-23T05:24:00+00:00",
-      "summary": "Di seguito il programma delle partite di domani valide per la Nations League 2026/2027."
-    },
-    {
-      "id": "3496fc61bd78",
-      "title": "Milan-Bologna, prosegue la vendita dei tagliandi: tutte le info utili",
-      "url": "https://www.milannews.it/news/milan-bologna-prosegue-vendita-tagliandi-info-utili-630625",
-      "source": "milannews.it",
-      "date": "2026-09-23T05:12:00+00:00",
-      "summary": "Di seguito tutte le informazioni sulla vendita dei biglietti per la partita Milan-Bologna, in programma mercoledi 28 ottobre.\n\nI prezzi possono subire variazioni durante le fasi di vendita."
     },
     {
       "id": "44a1e02b7712",
@@ -234,76 +346,12 @@
       "summary": "AC Milan owner Gerry Cardinale and RedBird are seemingly very interested in a move to buy a stake in Al Nassr, with talks continuing, reports suggest today. In recent weeks, it has been reported that Cardinale would be leading a consortium alongside a few Saudi Arabian businessmen to buy a small sta"
     },
     {
-      "id": "8222976a3f5d",
-      "title": "CM: Loftus-Cheek runs less than Maignan – why his Milan future is uncertain",
-      "url": "https://sempremilan.com/loftus-cheek-runs-less-maignan-milan-future-uncertain",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T15:00:00+00:00",
-      "summary": "Ruben Loftus-Cheek is one of those strange players to define. He’s survived four AC Milan coaches, yet has never been picked regularly by any…  It is clear that Loftus-Cheek has some talent; he wouldn’t be given chances by five Milan coaches if he didn’t have any. So, when Ruben Amorim took a closer"
-    },
-    {
-      "id": "d16ff3db55f4",
-      "title": "SempreMilan Podcast: Episode 432 – The Duality of Milan",
-      "url": "https://sempremilan.com/sempremilan-podcast-episode-432-the-duality-of-milan",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T14:30:00+00:00",
-      "summary": "Join Oli, Anthony and Bdair as they rant about the Benfica defeat, analyse the Lecce win and discuss some of Amorim’s decision-making This week’s topics include… ↳ Europa League debut disaster ↳ Bounce-back vs. Lecce ↳ Amorim: Selections and tactics ↳ Modric and the future of the midfield Want more "
-    },
-    {
-      "id": "cfe9f548a86e",
-      "title": "Pellegatti offers explanation for Milan’s stark improvement against Lecce: “Why did Amorim change?”",
-      "url": "https://sempremilan.com/pellegatti-explanation-milan-stark-improvement-lecce",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T14:00:00+00:00",
-      "summary": "Against Lecce, AC Milan head coach Ruben Amorim opted to make several changes and it paid off as the San Siro faithful saw a 3-0 win.  This weekend’s game had to be a win. With the international break now taking place, Amorim’s side had to enter the break with a proper performance and three points, "
-    },
-    {
-      "id": "aedef91a7b42",
-      "title": "MN: Why chances are coming for young trio Amorim has so far barely used",
-      "url": "https://sempremilan.com/why-chances-coming-comotto-diawara-camarda",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T13:30:00+00:00",
-      "summary": "AC Milan head coach Ruben Amorim has not given much playing time to three youngsters, but the belief is their time will arrive. MilanNews report that during the last recent summer transfer window, there was no shortage of interest in Francesco Camarda and Christian Comotto, but Amorim vetoed the dep"
-    },
-    {
       "id": "0538bc958258",
       "title": "Adani: ‘Pulisic’s happiness is fundamental for Milan’",
       "url": "https://football-italia.net/adani-pulisics-happiness-milan/",
       "source": "football-italia.net",
       "date": "2026-09-22T13:02:00+00:00",
       "summary": "Lele Adani believes Ruben Amorim’s system is the key to getting the best out of..."
-    },
-    {
-      "id": "c015bf06c597",
-      "title": "L’Equipe: Maignan receives assurance in five-hour chat as Zidane era begins for France",
-      "url": "https://sempremilan.com/maignan-receives-assurance-zidane-era-france",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T13:00:00+00:00",
-      "summary": "The French national team is about to enter a new dawn under Zinedine Zidane, after Didier Deschamps departed. France were among the favourites to win the World Cup in the summer but ended up missing out on the podium altogether, losing to Spain in the semi-finals and then to England in a ridiculous "
-    },
-    {
-      "id": "b3d6bd5f6270",
-      "title": "Reports: Orsato makes admission to Amorim about missing Milan penalty",
-      "url": "https://sempremilan.com/orsato-admission-amorim-missing-milan-penalty",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T12:30:00+00:00",
-      "summary": "An apology was issued to AC Milan during a recent meeting with the referee designator Daniele Orsato, reports claim. The 202627 season is taking a completely different direction than in the past when it comes to officiating. As was the directive from above, there are now far fewer refereeing interru"
-    },
-    {
-      "id": "1b995d41cbfb",
-      "title": "Report: Chelsea headline list of Premier League clubs monitoring Milan starlet’s situation",
-      "url": "https://sempremilan.com/chelsea-spurs-brighton-brentford-camarda-monitor",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T12:00:00+00:00",
-      "summary": "Chelsea are interested in exploring a move to sign AC Milan starlet Francesco Camarda, a report has claimed. Camarda’s use (or lack thereof) under Ruben Amorim so far this season has drawn some attention. The decision was made by Milan to keep him in the squad and not loan him out, but he has so […]"
-    },
-    {
-      "id": "6222fb799f48",
-      "title": "GdS: Amorim gives remaining Milan squad members eight days off – the reasons",
-      "url": "https://sempremilan.com/milan-amorim-squad-eight-days-off-reasons",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T11:30:00+00:00",
-      "summary": "AC Milan head coach Ruben Amorim – in agreement with his staff – has given those who are not on international duty some time off. Milan go into the first break of the season off the back of a 3-0 win over Lecce at San Siro, which eased some of the pressure that had begun […]\nThe post GdS: Amorim giv"
     },
     {
       "id": "afd822289875",
@@ -314,36 +362,12 @@
       "summary": "Giorgio Furlani is no longer part of Milan’s board, nearly four months after the club..."
     },
     {
-      "id": "7a73b5575b30",
-      "title": "Tuttosport: The four key players who facilitated Amorim’s tactical tweak vs. Lecce",
-      "url": "https://sempremilan.com/four-key-players-tactical-tweak-lecce",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T11:00:00+00:00",
-      "summary": "In the grand scheme of things Ruben Amorim is still a young head coach, and he continues to learn on the job. This morning’s edition of Tuttosport (via MilanPress) writes about the adaptation that Amorim made during the win over Lecce. It was not a given that the Portuguese would change his ways, gi"
-    },
-    {
       "id": "9af30086b549",
       "title": "Report: Gyokeres camp hold talks with Milan and Juventus over Arsenal exit",
       "url": "https://football-italia.net/report-gyokeres-camp-hold-talks-milan-juventus/",
       "source": "football-italia.net",
       "date": "2026-09-22T10:50:00+00:00",
       "summary": "Milan and Juventus have opened talks with Viktor Gyokeres’ representatives as the Arsenal striker weighs..."
-    },
-    {
-      "id": "aab755558e38",
-      "title": "QS: Milan continue to evolve – Cardinale ‘still envisions’ Krösche as head of sporting area",
-      "url": "https://sempremilan.com/cardinale-still-envisions-krosche-head-sporting",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T10:30:00+00:00",
-      "summary": "As is natural with a new project, AC Milan are still evolving in this early part of the season, and more changes could be coming. Quotidiano Sportivo write this morning how Milan have gone from the post-Benfica ‘depression’ to the euphoria that accompanied the resounding league victory against Lecce"
-    },
-    {
-      "id": "e2bc8efa3b9f",
-      "title": "CM: Time not Amorim’s ally – the fiery October that awaits Milan after the break",
-      "url": "https://sempremilan.com/fiery-october-awaits-milan-after-break",
-      "source": "sempremilan.com",
-      "date": "2026-09-22T10:00:00+00:00",
-      "summary": "AC Milan can go into the break with a bit of peace after the win over Lecce, but after it a very difficult run awaits AC Milan. Milan needed to win on Sunday night after three games without a victory, and in the end they did so quite comfortably;. As Calciomercato.com write, following the victory […"
     },
     {
       "id": "767de2a65312",
@@ -456,30 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-20T18:40:08+00:00",
       "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "16f05dda9c01",
-      "title": "Amorim: ‘People are not stupid and I think they can handle the truth’",
-      "url": "https://football-italia.net/amorim-people-are-not-stupid-can-handle-truth/",
-      "source": "football-italia.net",
-      "date": "2026-09-20T18:21:37+00:00",
-      "summary": "Ruben Amorim admits his speaking style as Milan coach can cause problems, including changes tonight..."
-    },
-    {
-      "id": "ca128bff812a",
-      "title": "Serie A official line-ups: Milan vs. Lecce",
-      "url": "https://football-italia.net/serie-a-official-line-ups-milan-vs-lecce-wk5/",
-      "source": "football-italia.net",
-      "date": "2026-09-20T17:29:43+00:00",
-      "summary": "Christian Pulisic gets his first start of the season, as Milan bring back Luka Modric..."
-    },
-    {
-      "id": "8f3ae9782c2e",
-      "title": "Serie A: Milan vs. Lecce – probable line-ups, where to watch on TV",
-      "url": "https://football-italia.net/serie-a-milan-v-lecce-probable-line-ups-tv/",
-      "source": "football-italia.net",
-      "date": "2026-09-20T11:02:31+00:00",
-      "summary": "Christian Pulisic is set to make his first Milan start of the season as the..."
     }
   ]
 }
