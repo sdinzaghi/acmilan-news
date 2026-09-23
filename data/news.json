@@ -1,6 +1,134 @@
 {
-  "lastUpdated": "2026-09-23T18:49:51.779278+00:00",
+  "lastUpdated": "2026-09-23T22:03:34.172057+00:00",
   "articles": [
+    {
+      "id": "5fa624727a42",
+      "title": "Calcio: Frattesi, \"contento sia tornato Mancini, alla Lazio per Gattuso\"",
+      "url": "https://www.milannews.it/news/calcio-frattesi-contento-tornato-mancini-lazio-gattuso-630716",
+      "source": "milannews.it",
+      "date": "2026-09-23T21:48:38+00:00",
+      "summary": "(ANSA) - FIRENZE, 23 SET - \"Sono molto contento che Mancini sia tornato, quanto alla sua decisione di andarsene anni fa non è una cosa che riguarda noi giocatori."
+    },
+    {
+      "id": "3699b7053649",
+      "title": "Pellegatti entusiasta: “I gol con il Lecce bellissimi, il secondo di Guardioliana memoria”",
+      "url": "https://www.milannews.it/news/pellegatti-entusiasta-i-gol-lecce-bellissimi-guardioliana-memoria-630715",
+      "source": "milannews.it",
+      "date": "2026-09-23T21:36:08+00:00",
+      "summary": "Nell'ultima puntata dell'appuntamento settimanale di Incudine o Martello, rubrica che va in onda sul canale YouTube di Pellegatti, queest'ultimo ha parlato della prestazione della squadra contro il Lecce e dei tre gol segnati dal Milan."
+    },
+    {
+      "id": "7fa9344f5e1a",
+      "title": "Francia, tutti gli impegni di Maignan e Rabiot in questa sosta",
+      "url": "https://www.milannews.it/news/francia-impegni-maignan-rabiot-sosta-630688",
+      "source": "milannews.it",
+      "date": "2026-09-23T21:24:38+00:00",
+      "summary": "Per la Francia siamo all'inizio di una nuova era. Dopo 12 anni è cambiato il CT a Clairefontaine con Didier Deschamps che ha lasciato il posto al suo ex compagno Zinedine Zidane."
+    },
+    {
+      "id": "ce0e0c51c7cd",
+      "title": "Sabatini su Modric: “Con un certo sistema rende ancora alla grande, con il Lecce ha fatto una grande partita”",
+      "url": "https://www.milannews.it/news/sabatini-modric-con-sistema-rende-grande-lecce-partita-630712",
+      "source": "milannews.it",
+      "date": "2026-09-23T21:12:14+00:00",
+      "summary": "Nell'ultima puntata dell'appuntamento settimanale di Incudine o Martello, rubrica che va in onda sul canale YouTube di Pellegatti, il collega Sandro Sabatini ha parlato della prestazione di Luka Modric nell'ultima partita contro il Lecce."
+    },
+    {
+      "id": "f0e44dc0ba51",
+      "title": "Nazionali, domani in campo la Serbia di Pavlovic: tutti gli impegni della sosta",
+      "url": "https://www.milannews.it/news/nazionali-domani-campo-serbia-pavlovic-impegni-sosta-630685",
+      "source": "milannews.it",
+      "date": "2026-09-23T21:00:52+00:00",
+      "summary": "Nella giornata di domani, tra i rossoneri impegnati nel primo giorno di gare durante questa sosta Nazionali, c'è anche Strahinja Pavlovic con la sua Serbia."
+    },
+    {
+      "id": "ad6368f430e2",
+      "title": "MN - Cattaneo sottolinea: \"Bravo Amorim a capire l'errore di Manchester, il Milan ha bisogno di giocare nella trequarti offensiva\"",
+      "url": "https://www.milannews.it/news/mn-cattaneo-sottolinea-bravo-amorim-capire-errore-manchester-milan-bisogno-giocare-trequarti-offensi-630668",
+      "source": "milannews.it",
+      "date": "2026-09-23T20:48:23+00:00",
+      "summary": "In esclusiva ai microfoni di MilanNews."
+    },
+    {
+      "id": "764177d0a9a9",
+      "title": "Italia U20, il ct Matteucci dopo il ko in semifinale del Mondiale: \"Testa a sabato, vogliamo il terzo posto\"",
+      "url": "https://www.milannews.it/news/mondiali-donne-u20-ct-azzurrine-matteucci-testa-sabato-vogliamo-630710",
+      "source": "milannews.it",
+      "date": "2026-09-23T20:36:09+00:00",
+      "summary": "(ANSA) - ROMA, 23 SET - \"Giocarsi una semifinale mondiale era un sogno alla vigilia della competizione. È giusto che le ragazze non si pongano limiti e che siano dispiaciute per una mancata vittoria."
+    },
+    {
+      "id": "f4a63ac4f3b9",
+      "title": "Il pensiero di Gullit sul Milan: \"Amorim sta facendo bene, ma...\"",
+      "url": "https://www.milannews.it/gli-ex/gullit-ruben-amorim-milan-ma-630709",
+      "source": "milannews.it",
+      "date": "2026-09-23T20:23:24+00:00",
+      "summary": "Ruud Gullit, ex attaccante rossonero, ha rilasciato una lunga intervista al quotidiano spagnolo Marca nella quale ha parlato anche del Milan e del lavoro che sta facendo Ruben Amorim sulla panchina del Diavolo: \"Ruben Amorim ha fatto bene al Man ..."
+    },
+    {
+      "id": "4a716f8d1974",
+      "title": "Malagò agli azzurri: \"Ho messo una pressione allegra, l'Italia ci guarda più che mai\"",
+      "url": "https://www.milannews.it/news/malago-azzurri-ho-messo-pressione-allegra-italia-guarda-mai-630703",
+      "source": "milannews.it",
+      "date": "2026-09-23T20:12:05+00:00",
+      "summary": "(ANSA) - FIRENZE, 23 SET - \"Che messaggio ho rivolto agli azzurri? Ho parlato molto di responsabilità, di valori, che siamo tutti sulla stessa barca anche se con imbarcazioni diverse."
+    },
+    {
+      "id": "d687bd022434",
+      "title": "Sabatini su Saelemaekers: “Fa partite da top 30 Pallone d’Oro, poi la partita dopo ti verrebbe da prenderlo a schiaffi”",
+      "url": "https://www.milannews.it/news/sabatini-saelemaekers-fa-partite-top-30-pallone-d-oro-partita-verrebbe-prenderlo-schiaffi-630714",
+      "source": "milannews.it",
+      "date": "2026-09-23T20:00:12+00:00",
+      "summary": "Nell'ultima puntata dell'appuntamento settimanale di Incudine o Martello, rubrica che va in onda sul canale YouTube di Pellegatti, il collega Sandro Sabatini ha parlato della prestazione di Luka Modric nell'ultima partita contro il Lecce."
+    },
+    {
+      "id": "feda01730d11",
+      "title": "Frustrated Endrick still wanted by Roma and Milan for Real Madrid loan",
+      "url": "https://football-italia.net/endrick-still-wanted-roma-milan-real-madrid/",
+      "source": "football-italia.net",
+      "date": "2026-09-23T19:57:24+00:00",
+      "summary": "Roma and Milan could try again in January to take Endrick on loan from Real..."
+    },
+    {
+      "id": "c07ab7a380f7",
+      "title": "MN - Cattaneo è sicuro: \"Nessuno è superiore al Milan in Europa League, devono arrivare fino in fondo a tutti i costi\"",
+      "url": "https://www.milannews.it/news/mn-cattaneo-sicuro-nessuno-superiore-milan-europa-league-devono-arrivare-fondo-costi-630672",
+      "source": "milannews.it",
+      "date": "2026-09-23T19:48:36+00:00",
+      "summary": "In esclusiva ai microfoni di MilanNews."
+    },
+    {
+      "id": "549ad2f1fe5f",
+      "title": "Le difficoltà a fare gol di Gonçalo Ramos? Pancaro: \"Comincerà a segnare quando...\"",
+      "url": "https://www.milannews.it/gli-ex/difficolta-gol-goncalo-ramos-pancaro-comincera-segnare-quando-630702",
+      "source": "milannews.it",
+      "date": "2026-09-23T19:35:58+00:00",
+      "summary": "Ai microfoni della radio di tuttomercatoweb.com, l'ex terzino rossonero Giuseppe Pancaro ha commentato così il momento di Kolo Muani e Goncalo Ramos: \"Le qualità sono fuori discussione, hanno caratteristiche diverse."
+    },
+    {
+      "id": "951a1b32fb70",
+      "title": "Sabatini applaude i milanisti: \"Lezione di stile, educazione e umanità da parte dei tifosi del Milan\"",
+      "url": "https://www.milannews.it/news/sabatini-applaude-milanisti-lezione-stile-educazione-umanita-tifosi-milan-630655",
+      "source": "milannews.it",
+      "date": "2026-09-23T19:23:56+00:00",
+      "summary": "Sandro Sabatini, giornalista, si è così espresso sul suo canale Youtube commentando il presente e il prossimo futuro del Milan: \"Non pensi Amorim al turnover, ai tre impegni a settimana."
+    },
+    {
+      "id": "77191fb70d83",
+      "title": "Domani amichevole Corea del Sud-Ecuador: Estupinan verso una maglia da titolare",
+      "url": "https://www.milannews.it/news/domani-amichevole-corea-sud-ecuador-estupinan-maglia-titolare-630700",
+      "source": "milannews.it",
+      "date": "2026-09-23T19:11:14+00:00",
+      "summary": "Domani alle 13 italiane, l'Ecuador di Pervis Estupinan scenderà in campo in amichevole contro la Corea del Sud a Suwon."
+    },
+    {
+      "id": "2e81d7742d6b",
+      "title": "Milan, tre anni fa l'esordio in prima squadra di Davide Bartesaghi",
+      "url": "https://www.milannews.it/news/milan-esordio-squadra-davide-bartesaghi-630699",
+      "source": "milannews.it",
+      "date": "2026-09-23T19:00:58+00:00",
+      "summary": "Esattamente tre anni fa, il 23 settembre 2023, Davide Bartesaghi, prodotto del settore giovanile del Milan, ha fatto il suo esordio assoluto in prima squadra in un match di campionato contro il Verona a San Siro (1-0 per il Diavolo il risultato final ..."
+    },
     {
       "id": "c26097daafcd",
       "title": "Malagò assicura: \"Mai sentito meno l'appoggio della Lega Serie A\"",
@@ -50,52 +178,12 @@
       "summary": "In esclusiva ai microfoni di MilanNews."
     },
     {
-      "id": "e26106905c94",
-      "title": "Valentini sul Milan: \"Non ha fatto una grande campagna acquisti\"",
-      "url": "https://www.milannews.it/news/valentini-milan-non-campagna-acquisti-630695",
-      "source": "milannews.it",
-      "date": "2026-09-23T17:37:31+00:00",
-      "summary": "Il dirigente Antonello Valentini è intervenuto in diretta alla radio di Tuttomercatoweb."
-    },
-    {
-      "id": "a2744cea329a",
-      "title": "Diddi spiega: “Goncalo Ramos non tira in porta perché Amorim gli chiede un certo tipo di lavoro”",
-      "url": "https://www.milannews.it/news/diddi-goncalo-ramos-non-tira-porta-amorim-chiede-tipo-lavoro-630621",
-      "source": "milannews.it",
-      "date": "2026-09-23T17:24:14+00:00",
-      "summary": "Durante l'ultimo video YouTube sul canale di Carlo Pellegatti, Luca Diddi ha analizzato e commentato le variazioni tattiche messe in atto dal Milan contro il Lecce. Di seguito un estratto delle sue parole."
-    },
-    {
       "id": "475c8a7fa1be",
       "title": "From Yokohama to Yerevan: The 15 Milan players called up for international duty",
       "url": "https://sempremilan.com/15-milan-players-international-duty-october-2026",
       "source": "sempremilan.com",
       "date": "2026-09-23T17:20:00+00:00",
       "summary": "AC Milan will be the most impacted Serie A team when it comes to international call-ups during the current break. Milan have started the season quite well in Serie A with three wins and two draws. They dropped points away against Juventus and Lazio – which are far from disastrous results – and beat "
-    },
-    {
-      "id": "4db6d1b4ef88",
-      "title": "\"Vinciamo Insieme\": a Torino il nuovo Hub di Insuperabili",
-      "url": "https://www.milannews.it/news/vinciamo-torino-hub-insuperabili-630693",
-      "source": "milannews.it",
-      "date": "2026-09-23T17:13:37+00:00",
-      "summary": "(ANSA) - TORINO, 23 SET - Il progetto nazionale 'Vinciamo Insieme' promosso dalla Figc - Lega Nazionale Dilettanti, attraverso il Dipartimento Lnd esport - Calcio Virtuale, in collaborazione con l'Area di Responsabilità Sociale, fa ..."
-    },
-    {
-      "id": "80c6e0f2b077",
-      "title": "Toni non ha dubbi: \"Un talento italiano su cui puntare? Alphadjo Cisse del Milan\"",
-      "url": "https://www.milannews.it/news/toni-dubbi-un-talento-italiano-puntare-alphadjo-cisse-milan-630692",
-      "source": "milannews.it",
-      "date": "2026-09-23T17:01:22+00:00",
-      "summary": "Luca Toni, ex attaccante, ha rilasciato una lunga intervista a Tuttosport nella quale ha parlato così della crisi del calcio italiano: \"Non vorrei che adesso, per comodità, qualcuno iniziasse a concentrarsi solo sul ct, o sul presi ..."
-    },
-    {
-      "id": "0f585297b971",
-      "title": "MN - Cattaneo non ha dubbi su Ramos: \"In costruzione è eccezionale, fa segnare tanto i compagni. I trequartisti devono aiutarlo di più\"",
-      "url": "https://www.milannews.it/news/mn-cattaneo-dubbi-ramos-in-costruzione-eccezionale-segnare-compagni-trequartisti-devono-aiutarlo-piu-630669",
-      "source": "milannews.it",
-      "date": "2026-09-23T16:48:13+00:00",
-      "summary": "In esclusiva ai microfoni di MilanNews."
     },
     {
       "id": "87c154d94676",
@@ -106,14 +194,6 @@
       "summary": "The figure that Manchester United agreed to pay Ruben Amorim and his staff to sack them has been revealed, as well as AC Milan’s helping hand. Amorim was sacked last season by United after just 14 months at the club. It was a turbulent tenure which followed his arrival from Sporting CP during the 20"
     },
     {
-      "id": "b93e34952042",
-      "title": "Ecco quando gioca Luka Modric con la Croazia durante la sosta",
-      "url": "https://www.milannews.it/news/gioca-luka-modric-croazia-sosta-630689",
-      "source": "milannews.it",
-      "date": "2026-09-23T16:36:33+00:00",
-      "summary": "Sembrava che il Mondiale americano potesse essere l'ultimo grande viaggio di Luka Modric con la maglia a scacchi della Croazia. Per alcuni sembrava anche l'ultimo grande viaggio della carriera."
-    },
-    {
       "id": "ca971c086341",
       "title": "De Laurentiis claims new Napoli stadium would ‘take 24 months’ and slams Milan patron Cardinale",
       "url": "https://football-italia.net/de-laurentiis-new-napoli-stadium-24-months/",
@@ -122,52 +202,12 @@
       "summary": "Napoli President Aurelio De Laurentiis outlines plans for a new stadium, warning ‘the Stadio Maradona..."
     },
     {
-      "id": "a3322b275d54",
-      "title": "Beneficenza, la Fifa apre due campi da gioco in Cisgiordania",
-      "url": "https://www.milannews.it/news/calcio-fifa-apre-campi-gioco-cisgiordania-630691",
-      "source": "milannews.it",
-      "date": "2026-09-23T16:24:37+00:00",
-      "summary": "(ANSA) - ROMA, 23 SET - La Fifa ha realizzato due nuovi campi da gioco a Marah Rabah, a sud di Betlemme, e a Qusin, nella parte settentrionale della Cisgiordania, per \"dare ai bambini e alle loro comunità uno spazio tanto necessario per g ..."
-    },
-    {
-      "id": "19a386a5c303",
-      "title": "Il disappunto di Graziani: \"Il Var è morto. Ringraziamo Orsato\"",
-      "url": "https://www.milannews.it/news/disappunto-graziani-il-var-morto-ringraziamo-orsato-630687",
-      "source": "milannews.it",
-      "date": "2026-09-23T16:12:56+00:00",
-      "summary": "Nell'ultimo turno di campionato c'è stata tantissima polemica da parte del Torino che ha reclamato un calcio di rigore nella partita contro il Bologna."
-    },
-    {
-      "id": "6f8c969869df",
-      "title": "Subito una certezza. Uno degli acquisti più importanti del Milan",
-      "url": "https://www.milannews.it/primo-piano/certezza-acquisti-importanti-milan-630690",
-      "source": "milannews.it",
-      "date": "2026-09-23T16:00:26+00:00",
-      "summary": "Mario Gila è entrato immediatamente nella lista delle certezze del Milan. E non sempre capita quando c'è un nuovo acquisto, anzi, molto spesso serve del tempo per entrare nei meccanismi di una nuova squadra e di un nuovo allenatore."
-    },
-    {
       "id": "656165f71867",
       "title": "Transfermarkt: Value of Milan squad rises thanks to two new signings",
       "url": "https://sempremilan.com/value-milan-squad-rises-moreira-cisse",
       "source": "sempremilan.com",
       "date": "2026-09-23T16:00:00+00:00",
       "summary": "With the first international break of the season upon us, some updates have arrived regarding the market value of AC Milan’s squad members. The first five games of the Serie A season are done, and Transfermarkt have updated their market values. There are some rather big changes both upward and downw"
-    },
-    {
-      "id": "9eb1b4ab6194",
-      "title": "De Laurentiis: \"Ho invitato Cardinale a cena, mi ha fatto un discorso che avrei dovuto prenderlo e buttarlo fuori. Mi ha detto cose che non stavano né in cielo né in terra\"",
-      "url": "https://www.milannews.it/news/de-laurentiis-ho-invitato-cardinale-cena-discorso-dovuto-prenderlo-buttarlo-fuori-cose-ne-cielo-ne-t-630705",
-      "source": "milannews.it",
-      "date": "2026-09-23T15:48:14+00:00",
-      "summary": "Aurelio De Laurentiis, presidente del Napoli, è intervenuto oggi in conferenza stampa dopo aver ricevuto il Premio Sportivo alla Carriera presso la sede dell'Associazione della Stampa Estera in Italia, a Palazzo Grazioli a Roma."
-    },
-    {
-      "id": "f8f46e7f629d",
-      "title": "Mondiali femminile U20: Italia battuta 2-0, in finale va la Spagna",
-      "url": "https://www.milannews.it/news/mondiali-donne-u20-italia-battuta-2-0-finale-spagna-630704",
-      "source": "milannews.it",
-      "date": "2026-09-23T15:36:22+00:00",
-      "summary": "(ANSA) - ROMA, 23 SET - Sfuma il sogno delle azzurrine di raggiungere la finale dei Mondiali Under 20, in corso in Polonia."
     },
     {
       "id": "b261ec4d0f7f",
@@ -186,44 +226,12 @@
       "summary": "Massimo Ambrosini has offered his thoughts on Ruben Amorim’s tactical tweaks, reserving full judgement until next months. Amorim spoke after the rather disappointing defeat to Benfica one week ago about the need to adapt in order to get more out of a squad that, in his eyes, is not fully suited to h"
     },
     {
-      "id": "4953f94f0860",
-      "title": "Pancaro: \"Milan, ancora non si vedono i principi di gioco di Amorim\"",
-      "url": "https://www.milannews.it/gli-ex/pancaro-milan-vedono-principi-gioco-amorim-630701",
-      "source": "milannews.it",
-      "date": "2026-09-23T15:25:19+00:00",
-      "summary": "Intervenuto alla radio di tuttomercatoweb.com, l'ex terzino rossonero Giuseppe Pancaro ha parlato così di Kolo Muani e Goncalo Ramos: \"Le qualità sono fuori discussione, hanno caratteristiche diverse."
-    },
-    {
-      "id": "33d3d70d33a3",
-      "title": "Ferrè: \"Colpisce molto la posizione di Gila, che sembra quasi un terzino destro, con Estupinan terzino sinistro\"",
-      "url": "https://www.milannews.it/news/ferre-colpisce-posizione-gila-terzino-destro-estupinan-terzino-sinistro-630660",
-      "source": "milannews.it",
-      "date": "2026-09-23T15:13:37+00:00",
-      "summary": "Stefano Ferrè, match analyst, si è così espresso a Cronache di Spogliatoio sulle strategie tattiche del Milan contro il Lecce: \"Le posizioni medie di Milan-Lecce ci aiutano a comprendere cosa sia cambiato, soprattutto nella  ..."
-    },
-    {
-      "id": "77bf73a3504c",
-      "title": "Reijnders onesto: ha raccontato senza filtri perché ha scelto di andare in Arabia",
-      "url": "https://www.milannews.it/news/reijnders-onesto-i-nipoti-potranno-vivere-rendita-scelta-soldi-influito-630628",
-      "source": "milannews.it",
-      "date": "2026-09-23T15:00:00+00:00",
-      "summary": "Tijani Reijnders, ex centrocampista di Milan e City attualmente in forza al Al-Qadisiya, club militante nella prima serie Araba, la Saudi pro League, ha rilasciato un'intervista al sito olandese \"Mee Met Orange\", nella quale ha parlato  ..."
-    },
-    {
       "id": "3b5efcdc08ce",
       "title": "CM: Krösche ‘less certain’ about Eintracht future – why Milan remain eager to hire him",
       "url": "https://sempremilan.com/why-milan-remain-eager-hire-krosche",
       "source": "sempremilan.com",
       "date": "2026-09-23T15:00:00+00:00",
       "summary": "Markus Krösche’s name burst onto the AC Milan scene and has never really fully gone away, especially in light of recent reports. It may be a case of there being no smoke without fire on the Krösche front. Matteo Moretto confirmed earlier today that Gerry Cardinale is working to improve the club’s st"
-    },
-    {
-      "id": "02145a1ee2b6",
-      "title": "MN - Cattaneo apprezza: \"Amorim sta cambiando totalmente i principi della squadra, mi piace tantissimo anche come comunica\"",
-      "url": "https://www.milannews.it/news/mn-cattaneo-apprezza-amorim-cambiando-totalmente-principi-squadra-piace-tantissimo-comunica-630666",
-      "source": "milannews.it",
-      "date": "2026-09-23T14:48:00+00:00",
-      "summary": "In esclusiva ai microfoni di MilanNews."
     },
     {
       "id": "f76b58cf05fa",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-20T21:16:51+00:00",
       "summary": "Ruben Amorim admits he gave Milan ‘more freedom’ in the 3-0 win over Lecce, because..."
-    },
-    {
-      "id": "effb2055fccc",
-      "title": "Player ratings: Milan 3-0 Lecce – Pulisic steals the show, Moreira off the bench again",
-      "url": "https://football-italia.net/player-ratings-milan-3-0-lecce-pulisic/",
-      "source": "football-italia.net",
-      "date": "2026-09-20T21:00:10+00:00",
-      "summary": "Christian Pulisic stole the show with his brilliantly-taken opening goal in Milan’s eventual 3-0 Serie..."
     }
   ]
 }
