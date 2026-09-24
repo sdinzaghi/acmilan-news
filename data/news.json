@@ -1,13 +1,165 @@
 {
-  "lastUpdated": "2026-09-24T18:10:45.432299+00:00",
+  "lastUpdated": "2026-09-24T21:57:33.379686+00:00",
   "articles": [
     {
-      "id": "2bb00bd66b70",
-      "title": "Van Bommel: \"I rossoneri devono tornare a vincere. Allenare il Milan? Sarebbe bello...\"",
-      "url": "https://www.milannews.it/primo-piano/van-bommel-i-rossoneri-devono-tornare-vincere-allenare-milan-bello-630791",
+      "id": "1c2238f17cbf",
+      "title": "Ramos racconta il suo rapporto con il pallone fin da bambino",
+      "url": "https://www.milannews.it/news/ramos-racconta-rapporto-pallone-bambino-630789",
       "source": "milannews.it",
-      "date": "2026-09-24T18:00:00+00:00",
-      "summary": "Domani lo stadio Olimpico di Roma sarà il palcoscenico per la sfida di Nations League tra Italia e Belgio: \"prima\" per Mancini da \"nuovo\" CT e soprattutto sarà la prima da CT del Belgio per l'ex rossonero Mark va ..."
+      "date": "2026-09-24T21:48:55+00:00",
+      "summary": "In un'intervista curata dal Milan, il nuovo centravanti rossonero Gonçalo Ramos si è raccontato un po' ai tifosi: non tanto in campo ma la persona che è, la sua storia, la sua famiglia, la sua passione e i suoi gusti ..."
+    },
+    {
+      "id": "02d6cf9f797f",
+      "title": "Nations League, Van Bommel: \"Con l'Italia per vincere, vogliamo dominare il gioco\"",
+      "url": "https://www.milannews.it/news/nations-league-van-bommel-italia-vincere-vogliamo-dominare-gioco-630796",
+      "source": "milannews.it",
+      "date": "2026-09-24T21:36:34+00:00",
+      "summary": "(ANSA) - ROMA, 24 SET - \"Questa è una grande sfida per noi. Vogliamo giocare partite importanti, come questa contro l'Italia."
+    },
+    {
+      "id": "397a2d78fdd1",
+      "title": "Nations League, terminate le gare di oggi: tutti i risultati",
+      "url": "https://www.milannews.it/news/nations-league-terminate-gare-oggi-risultati-630792",
+      "source": "milannews.it",
+      "date": "2026-09-24T21:24:00+00:00",
+      "summary": "Terminate le partite di oggi della Uefa Nations League, questi sono tutti i risultati."
+    },
+    {
+      "id": "605dce78306f",
+      "title": "Beffa per Pavlovic e la Serbia: la Grecia vince al 94° con Douvikas",
+      "url": "https://www.milannews.it/news/beffa-pavlovic-serbia-grecia-vince-94-douvikas-630813",
+      "source": "milannews.it",
+      "date": "2026-09-24T21:12:23+00:00",
+      "summary": "Un debutto davvero amaro quello della Serbia nella nuova edizione della UEFA Nations League."
+    },
+    {
+      "id": "66157fd6436b",
+      "title": "Portogallo, Ramos entra nei 23 minuti finali al posto di uno spento Ronaldo",
+      "url": "https://www.milannews.it/news/risultato-portogallo-ramos-630798",
+      "source": "milannews.it",
+      "date": "2026-09-24T21:00:03+00:00",
+      "summary": "Buona la prima per il Portogallo del nuovo CT Jorge Jesus che oggi ha esordito a Lisbona nella nuova edizione della UEFA Nations League."
+    },
+    {
+      "id": "f32f3645ea6c",
+      "title": "Milan Femminile, ufficiale l'arrivo di Brighton in prestito",
+      "url": "https://www.milannews.it/milan-femminile/milan-femminile-ufficiale-arrivo-brighton-prestito-630812",
+      "source": "milannews.it",
+      "date": "2026-09-24T20:48:11+00:00",
+      "summary": "Il Milan Femminile non ha terminato la sua campagna di rinforzi in vista dell'inizio della Serie A Women. Le rossonere hanno annunciato oggi l'arrivo a titolo temporaneo della classe 2002 Abigail Crosby Brighton dalla Juventus."
+    },
+    {
+      "id": "b2c1e0e37be1",
+      "title": "Pellegatti su Camarda: “Amorim è stato chiaro, ma ci vuole un po’ di pazienza”",
+      "url": "https://www.milannews.it/news/pellegatti-camarda-amorim-chiaro-vuole-po-pazienza-630794",
+      "source": "milannews.it",
+      "date": "2026-09-24T20:36:37+00:00",
+      "summary": "Nel suo canale Youtube, Carlo Pellegatti ha parlato di Francesco Camarda, ancora praticamente inutilizzato da Amorim. Queste le sue parole."
+    },
+    {
+      "id": "7681e5ee3852",
+      "title": "Matri difende Amorim: \"Troppe critiche su di lui e sul Milan\"",
+      "url": "https://www.milannews.it/news/matri-difende-amorim-troppe-critiche-milan-630804",
+      "source": "milannews.it",
+      "date": "2026-09-24T20:24:11+00:00",
+      "summary": "In questo inizio di stagione Ruben Amorim si è scontrato con la realtà del calcio italiano, dovendo fronteggiare le prime critiche per alcune scelte di formazione."
+    },
+    {
+      "id": "bebe0474666a",
+      "title": "Lutto nel mondo dello sport: è morta Elena Pero, storica voce del tennis",
+      "url": "https://www.milannews.it/news/lutto-sport-morta-elena-pero-storica-voce-tennis-630808",
+      "source": "milannews.it",
+      "date": "2026-09-24T20:22:00+00:00",
+      "summary": "Il mondo del giornalismo sportivo piange una delle sue voci più rinomate: è morta oggi all'età di 60 anni Elena Pero, storica telecronista di Sky Sport per il tennis."
+    },
+    {
+      "id": "f46d67d0454a",
+      "title": "Sabatini sicuro: “Il Milan può fare molto bene, basta che Amorim rispetti i valori tecnici dei giocatori”",
+      "url": "https://www.milannews.it/news/sabatini-sicuro-il-milan-bene-amorim-rispetti-valori-tecnici-giocatori-630806",
+      "source": "milannews.it",
+      "date": "2026-09-24T20:12:56+00:00",
+      "summary": "Nel suo canale Youtube, Sandro Sabatini ha parlato delle potenzialità dei rossoneri e di quello che potrebbero fare in questa stagione, salvo però che vengano rispettate alcune gerarchie. Di seguito le sue parole."
+    },
+    {
+      "id": "ed88608d8851",
+      "title": "Francia, Rabiot chiaro: \"Sia con Deschamps, sia con Zidane l'obiettivo resta il massimo livello\"",
+      "url": "https://www.milannews.it/news/francia-rabiot-chiaro-sia-deschamps-zidane-obiettivo-resta-massimo-livello-630790",
+      "source": "milannews.it",
+      "date": "2026-09-24T20:00:00+00:00",
+      "summary": "Adrien Rabiot ha guadagnato la convocazione anche con il nuovo CT della Francia Zinedine Zidane."
+    },
+    {
+      "id": "44fe1ee8a8d7",
+      "title": "Italia, Donnarumma: \"Da Zenica giorni durissimi ma dobbiamo ricominciare\"",
+      "url": "https://www.milannews.it/news/calcio-azzurri-donnarumma-zenica-durissimi-dobbiamo-ricominciare-630795",
+      "source": "milannews.it",
+      "date": "2026-09-24T19:48:21+00:00",
+      "summary": "(ANSA) - ROMA, 24 SET - \"Sono stati giorni durissimi, e' stata un'estate molto lunga, da Zenica: ma ora dobbiamo ripartire, e trascinare i tifosi\"."
+    },
+    {
+      "id": "4da192506297",
+      "title": "Pellegatti commenta: “Gyokeres lo lascerei perdere, Endrick è più fattibile. A gennaio sarà sul mercato”",
+      "url": "https://www.milannews.it/news/pellegatti-commenta-gyokeres-lascerei-perdere-endrick-fattibile-gennaio-mercato-630793",
+      "source": "milannews.it",
+      "date": "2026-09-24T19:36:08+00:00",
+      "summary": "Nel suo canale Youtube, Carlo Pellegatti ha parlato di alcune voci di mercato che riguardano due grandi giocatori: Gyokeres ed Endrick. Queste le sue parole."
+    },
+    {
+      "id": "56e110bb3723",
+      "title": "Matri: \"Oggi non vedo il Milan per lo Scudetto ma è in crescita\"",
+      "url": "https://www.milannews.it/news/matri-oggi-vedo-milan-scudetto-crescita-630803",
+      "source": "milannews.it",
+      "date": "2026-09-24T19:24:34+00:00",
+      "summary": "Il Milan arriva alla sosta ancora imbattuto in campionato: un punto di partenza tutto sommato positivo, nonostante le prestazioni in alcune partite non abbiano rubato l'occhio."
+    },
+    {
+      "id": "ea5934c94ec1",
+      "title": "Bezzi impaziente: \"Il Milan ha preso un attaccante da 75 milioni che fa ridere\"",
+      "url": "https://www.milannews.it/news/bezzi-impaziente-il-milan-preso-attaccante-75-ridere-630785",
+      "source": "milannews.it",
+      "date": "2026-09-24T19:12:29+00:00",
+      "summary": "Il giudizio su Gonçalo Ramos sta dividendo molti."
+    },
+    {
+      "id": "32f5f122a04b",
+      "title": "Pronostico Turchia-Francia, Zidane ricomincia da Maignan e Rabiot",
+      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-turchia-francia-630683",
+      "source": "milannews.it",
+      "date": "2026-09-24T19:00:00+00:00",
+      "summary": "A campionato fermo, l'attenzione si sposta sulle nazionali. Parte la UEFA Nations League e c'è grande curiosità sulla nuova Francia targata Zinedine Zidane."
+    },
+    {
+      "id": "55dda6155b5f",
+      "title": "Pronostico Italia-Belgio, attenzione a Moreira: è alla ricerca del primo gol in Nazionale",
+      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-italia-belgio-630680",
+      "source": "milannews.it",
+      "date": "2026-09-24T18:45:20+00:00",
+      "summary": "Tempo di nazionali con la UEFA Nations League 2026/27 che parte. Grande curiosità sulla nuova nazionale italiana che vara il Mancini-bis."
+    },
+    {
+      "id": "94321c43eaab",
+      "title": "Loftus ringrazia: \"Un piacere camminare sulla passerella\"",
+      "url": "https://www.milannews.it/news/loftus-ringrazia-un-piacere-camminare-passerella-630799",
+      "source": "milannews.it",
+      "date": "2026-09-24T18:36:00+00:00",
+      "summary": "Nella serata di martedì Milano è stata centro del mondo ancora una volta. La città ha ospitato l'attesissimo evento mondano della Vogue World, inserito nel contesto della Fashion Week."
+    },
+    {
+      "id": "bb7a9caded05",
+      "title": "Nazionali, tutti i milanisti in campo domani: esordio per la nuova Francia di Zidane",
+      "url": "https://www.milannews.it/news/nazionali-milanisti-campo-domani-esordio-nuova-francia-zidane-630783",
+      "source": "milannews.it",
+      "date": "2026-09-24T18:24:00+00:00",
+      "summary": "Stiamo ormai entrando nella sosta delle Nazionali, la prima di questa stagione e anche la più lunga. I primi rossoneri sono scesi o scenderanno in campo oggi ma domani ce ne saranno in campo il doppio, ben sei."
+    },
+    {
+      "id": "17a5ffc3b9da",
+      "title": "Pavlovic titolare nell'esordio della Serbia in Nations League",
+      "url": "https://www.milannews.it/news/formazione-serbia-pavlovic-630778",
+      "source": "milannews.it",
+      "date": "2026-09-24T18:12:30+00:00",
+      "summary": "L'avventura della Serbia in questa nuova edizione di UEFA Nations League parte quest'oggi a Belgrado: la nazionale balcanica ospiterà la Grecia in una partita dal pronostico aperto nonostante le varie defe ..."
     },
     {
       "id": "21127c9cdbcc",
@@ -18,52 +170,12 @@
       "summary": "After a summer filled with upheaval and doubts, Adrien Rabiot has emerged from this first month of the season as a continued certainty. It is in times of great change when the true leaders and examples emerge. While the campaign is still young and there is a lot of football still to be played, there"
     },
     {
-      "id": "c6034d683e8f",
-      "title": "Ramos: \"Ricordo quando ho segnato doppietta al mister Amorim. Non ne parlo con lui...\"",
-      "url": "https://www.milannews.it/news/ramos-ricordo-segnato-doppietta-mister-amorim-parlo-lui-630788",
-      "source": "milannews.it",
-      "date": "2026-09-24T17:48:47+00:00",
-      "summary": "Nel corso di una chiacchierata pubblicata sui canali sociali del Milan, il nuovo centravanti rossonero Gonçalo Ramos ha toccato diversi temi e tra questi anche quello relativo al nuovo allenatore Ruben Amorim, suo connazionale."
-    },
-    {
-      "id": "072754d27a2e",
-      "title": "Portogallo in campo: Gonçalo Ramos parte dalla panchina",
-      "url": "https://www.milannews.it/news/formazione-portogallo-ramos-630777",
-      "source": "milannews.it",
-      "date": "2026-09-24T17:36:03+00:00",
-      "summary": "Inizia questa sera la prima giornata della nuova edizione della UEFA Nations League. In campo questa sera a Lisbona, nello stadio dello Sporting Club, il Portogallo comincia il nuovo ciclo affidato all'esperto CT Jorge Jesus."
-    },
-    {
-      "id": "3e01fe34997a",
-      "title": "Il dirigente Boto: \"Il calcio italiano mi affascina ma ora ho un contratto con il Flamengo\"",
-      "url": "https://www.milannews.it/news/dirigente-boto-il-calcio-italiano-affascina-contratto-flamengo-630781",
-      "source": "milannews.it",
-      "date": "2026-09-24T17:24:16+00:00",
-      "summary": "Tra i tanti nomi che sono stati proposti e che sono emersi quest'estate durante il casting per il direttore sportivo del Milan da parte di Gerry Cardinale, è emerso anche il nome del dirigente portoghese Josè Boto, oggi al ..."
-    },
-    {
-      "id": "eee44c66d5f6",
-      "title": "Bruno Fernandes, Milan contattato in estate: può essere un obiettivo l'anno prossimo",
-      "url": "https://www.milannews.it/news/bruno-fernandes-milan-contattato-estate-obiettivo-prossimo-630784",
-      "source": "milannews.it",
-      "date": "2026-09-24T17:12:17+00:00",
-      "summary": "Il futuro di Bruno Fernandes con il Manchester United non è così chiaro."
-    },
-    {
       "id": "5edbff27103c",
       "title": "Van Bommel: ‘Always 4-3-3, Belgium and Italy in same situation, Milan hope’",
       "url": "https://football-italia.net/van-bommel-always-4-3-3-belgium-italy-milan/",
       "source": "football-italia.net",
       "date": "2026-09-24T17:11:46+00:00",
       "summary": "Mark van Bommel confirms Belgium will play with a classic Dutch 4-3-3 in the Nations..."
-    },
-    {
-      "id": "a6cf9bcf5767",
-      "title": "Udinese, le prime parole di Alaba: \"Voglio vincere ancora, voglio competere ancora\"",
-      "url": "https://www.milannews.it/news/udinese-ufficializza-alaba-squadra-ambiziosa-630782",
-      "source": "milannews.it",
-      "date": "2026-09-24T17:00:00+00:00",
-      "summary": "(ANSA) - UDINE, 24 SET - E' ufficiale, David Alaba è un giocatore dell'Udinese. Il difensore austriaco, 34 anni, ha sottoscritto un contratto fino al 30 giugno 2027."
     },
     {
       "id": "ea89da732b33",
@@ -74,36 +186,12 @@
       "summary": "Ruud Gullit has insisted that AC Milan must give time for Ruben Amorim to build things, believing that he did ‘well’ at Manchester United. Gullit is someone who was present for some of the best days in Milan’s history. He arrived at Milan from PSV Eindhoven in the summer of 1987 for the then-record "
     },
     {
-      "id": "8a42c4d756fb",
-      "title": "Ramos sul sostegno dei tifosi rossoneri: \"Mi piace sentire questo calore\"",
-      "url": "https://www.milannews.it/news/ramos-sostengo-tifosi-rossoneri-mi-piace-sentire-calore-630787",
-      "source": "milannews.it",
-      "date": "2026-09-24T16:48:42+00:00",
-      "summary": "Il centravanti Gonçalo Ramos è stato accolto come un Re, anche in virtù della cifra che il Milan ha speso per comprarlo dal PSG."
-    },
-    {
-      "id": "998463d5218b",
-      "title": "AIC, Calcagno: \"Premialità a squadre che danno continuità a giovani selezionabili\"",
-      "url": "https://www.milannews.it/news/calcio-calcagno-premialita-squadre-danno-continuita-giovani-selezionabili-630775",
-      "source": "milannews.it",
-      "date": "2026-09-24T16:36:33+00:00",
-      "summary": "\"Su giovani e selezionabili la strada deve essere quella degli incentivi e di nuove risorse, con criteri precisi."
-    },
-    {
       "id": "4dd68be9438e",
       "title": "Frattesi, Lautaro and Malen among Serie A Player of the Month nominees",
       "url": "https://football-italia.net/frattesi-lautaro-and-malen-serie-a-potm/",
       "source": "football-italia.net",
       "date": "2026-09-24T16:29:42+00:00",
       "summary": "Six players have been shortlisted for September Serie A Player of the Month award, with..."
-    },
-    {
-      "id": "c89f665b78b6",
-      "title": "L'Ecuador di Estupinan strapazzato dalla Corea: Pervis titolare e ammonito",
-      "url": "https://www.milannews.it/news/ecuador-estupinan-strapazzato-corea-pervis-titolare-ammonito-630776",
-      "source": "milannews.it",
-      "date": "2026-09-24T16:24:14+00:00",
-      "summary": "Il terzino milanista Pervis Estupinan è stato il primo calciatore del Milan a scendere in campo in questa sosta delle Nazionali."
     },
     {
       "id": "350829e5f88a",
@@ -114,44 +202,12 @@
       "summary": "In recent days, reports have resurfaced in abundance regarding the notion that AC Milan could soon welcome a new director. Calciomercato.com begin their report by stating that among the secrets behind Milan’s immediate reaction to the tough defeat against Benfica – resulting in the resounding win ov"
     },
     {
-      "id": "a1e958e564a0",
-      "title": "Boto rassicura: \"Amorim ha un calcio speciale che ha bisogno di tempo e giocatori giusti\"",
-      "url": "https://www.milannews.it/news/boto-rassicura-amorim-calcio-speciale-bisogno-giocatori-giusti-630780",
-      "source": "milannews.it",
-      "date": "2026-09-24T16:12:46+00:00",
-      "summary": "Il direttore sportivo Josè Boto, oggi al Flamengo ma nel corso dell'estate uno dei nomi emersi come possibile soluzione per il Milan che andava a caccia di una nuova dirigenza, è intervenuto oggi dal Portugal Foo ..."
-    },
-    {
-      "id": "32b749c02f3f",
-      "title": "Gonçalo Ramos si racconta: \"Mi piacerebbe vivere a lungo a Milano. E col mister non parlo dei due gol che gli ho segnato col Benfica\"",
-      "url": "https://www.milannews.it/primo-piano/goncalo-ramos-racconta-mi-piacerebbe-vivere-milano-mister-parlo-gol-segnato-benfica-630786",
-      "source": "milannews.it",
-      "date": "2026-09-24T16:00:57+00:00",
-      "summary": "Gonçalo Ramos, arrivato in estate dal PSG per 74 milioni di euro, è il colpo più costoso della storia del Milan."
-    },
-    {
-      "id": "10bbd0319ce4",
-      "title": "MN - Giustiniani crede in Ramos: \"E' un grande attaccante, ma fa un lavoro quasi da centrocampista\"",
-      "url": "https://www.milannews.it/news/mn-630766",
-      "source": "milannews.it",
-      "date": "2026-09-24T15:48:55+00:00",
-      "summary": "Gabriele Giustiniani, noto giornalista sportivo e voce di DAZN ha parlato così in esclusiva su MilanNews.it delle varie tematiche legate alla stretta attualità del mondo rossonero."
-    },
-    {
       "id": "b36910277273",
       "title": "“It was all signed” – Agent of Corinthians star lifts lid on collapsed deal after Modric talks",
       "url": "https://sempremilan.com/agent-corinthians-andre-collapsed-deal-modric",
       "source": "sempremilan.com",
       "date": "2026-09-24T15:40:00+00:00",
       "summary": "The agent of André has shed light on the negotiations between AC Milan and Corinthians for the young midfielder. It ended up being a weeks-long saga regarding André, starting with when Milan believed they had struck a deal with his club and all the relevant documents were signed to secure his arriva"
-    },
-    {
-      "id": "517d9f21ff50",
-      "title": "Amorim incontra Boto al Portugal Football Summit: fu accostato al Milan",
-      "url": "https://www.milannews.it/news/amorim-incontra-boto-portugal-football-summit-accostato-milan-630779",
-      "source": "milannews.it",
-      "date": "2026-09-24T15:36:47+00:00",
-      "summary": "In questi giorni si sta svolgendo a Oeiras, in Portogallo, il Portugal Football Summit. Tra i presenti della giornata di oggi anche il tecnico rossonero Ruben Amorim che si è presentato come uditore."
     },
     {
       "id": "7760614383b2",
@@ -162,52 +218,12 @@
       "summary": "Goncalo Ramos has spoken about his first months at Milan, and the moment that made..."
     },
     {
-      "id": "59673cd68aec",
-      "title": "L'agente di André: \"Era tutto firmato: dal Milan, dall’ufficio legale del Corinthians, dal mio ufficio legale, dal giocatore. Mancava solo la firma del presidente, che ha deciso di non procedere\"",
-      "url": "https://www.milannews.it/news/agente-andre-firmato-milan-dall-ufficio-legale-corinthians-ufficio-legale-giocatore-mancava-firma-pr-630774",
-      "source": "milannews.it",
-      "date": "2026-09-24T15:24:42+00:00",
-      "summary": "Nei giorni scorsi sono emersi nuovi dettagli sulla trattativa fallita tra Milan e Corinthians per il giovane centrocampista André."
-    },
-    {
-      "id": "bef2a34668a3",
-      "title": "Vota il miglior giocatore di settembre in Serie A: c'è Rabiot",
-      "url": "https://www.milannews.it/news/vota-miglior-giocatore-settembre-serie-a-rabiot-630768",
-      "source": "milannews.it",
-      "date": "2026-09-24T15:12:58+00:00",
-      "summary": "Da oggi i tifosi possono votare per scegliere il miglior giocatore del mese di settembre della Serie A, con il premio è sponsorizzato da EA Sports con il videogame FC27."
-    },
-    {
-      "id": "d7f8e78f6cb9",
-      "title": "Fifa, Infantino: \"Riforme in prossimo Consiglio, mai stato così determinato\"",
-      "url": "https://www.milannews.it/news/fifa-infantino-riforme-prossimo-consiglio-determinato-630771",
-      "source": "milannews.it",
-      "date": "2026-09-24T15:00:09+00:00",
-      "summary": "(ANSA) - ROMA, 24 SET - \"Il mese prossimo si terrà una riunione del Consiglio Fifa, occasione in cui proseguiremo il dialogo su queste questioni importanti."
-    },
-    {
       "id": "0f5bd17c7669",
       "title": "GdS: Amorim relying on ‘irreplaceable’ defensive duo – the reasons and the Gabbia factor",
       "url": "https://sempremilan.com/amorim-irreplaceable-de-winter-pavlovic-reasons",
       "source": "sempremilan.com",
       "date": "2026-09-24T15:00:00+00:00",
       "summary": "There were question marks about AC Milan’s first choice three-man defence this season. Ruben Amorim has answered them emphatically. As La Gazzetta dello Sport point out, there are only two other players in the Milan squad that join Mike Maignan in having played every minute of every game so far this"
-    },
-    {
-      "id": "d49546b0f67b",
-      "title": "MN - Giustiniani è sicuro: \"Ad Amorim va dato il giusto tempo\"",
-      "url": "https://www.milannews.it/news/mn-giustiniani-sicuro-ad-amorim-dato-giusto-tempo-630760",
-      "source": "milannews.it",
-      "date": "2026-09-24T14:48:00+00:00",
-      "summary": "Gabriele Giustiniani, noto giornalista sportivo e voce di DAZN ha parlato così in esclusiva su MilanNews.it delle varie tematiche legate alla stretta attualità del mondo rossonero."
-    },
-    {
-      "id": "1ad0e6623689",
-      "title": "Per Orsato, c'è stato un errore contro il Milan alla prima giornata. Giusto il gol alla Juve",
-      "url": "https://www.milannews.it/news/orsato-errore-milan-giornata-giusto-gol-juve-630730",
-      "source": "milannews.it",
-      "date": "2026-09-24T14:36:06+00:00",
-      "summary": "Carlos Passerini, giornalista del Corriere della Sera, si è così espresso sul suo canale Youtube sul tema arbitrale in Serie A, tornato in auge dopo il vertice di lunedì con gli allenatori del campionato: \"Dal vertice che c& ..."
     },
     {
       "id": "8ef176c41d6f",
@@ -224,22 +240,6 @@
       "source": "sempremilan.com",
       "date": "2026-09-24T14:30:00+00:00",
       "summary": "Journalist Franco Ordine has fired a warning to Ruben Amorim about the idea that journalists are hoping for his failure. Amorim is only six games into his tenure as Milan coach, but there is already quite an interesting relationship developing between the coach and the Italian media. His press confe"
-    },
-    {
-      "id": "d0550dfeae0a",
-      "title": "Milan Futuro, la sfida con la Pavonese rinviata al 21 ottobre",
-      "url": "https://www.milannews.it/news/milan-futuro-sfida-pavonese-rinviata-21-ottobre-630769",
-      "source": "milannews.it",
-      "date": "2026-09-24T14:23:42+00:00",
-      "summary": "A causa dei diversi rossoneri impegnati con le rispettive nazionali giovanili, Pavonese-Milan Futuro, inizialmente prevista per domenica 4 ottobre, è stata rinviata a mercoledì 21 ottobre alle ore 15:00."
-    },
-    {
-      "id": "15911b32aeb2",
-      "title": "VIDEO - Amorim ad Oeiras per il summit del calcio portoghese",
-      "url": "https://www.milannews.it/news/video-amorim-oeiras-summit-calcio-portoghese-630773",
-      "source": "milannews.it",
-      "date": "2026-09-24T14:11:33+00:00",
-      "summary": "In questi giorni, ad Oeiras, c’è la tre giorni del Summit del Calcio Portoghese: un summit internazionale che pone il Portogallo al centro dell'innovazione e dello sviluppo nel settore calcistico, riunendo leader, atleti, club, feder ..."
     },
     {
       "id": "93d1d7aef94e",
