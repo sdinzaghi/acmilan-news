@@ -1,6 +1,126 @@
 {
-  "lastUpdated": "2026-09-25T20:14:36.718293+00:00",
+  "lastUpdated": "2026-09-25T23:48:27.412432+00:00",
   "articles": [
+    {
+      "id": "51aab96056ed",
+      "title": "Quando Cassano diceva: \"Non ho problemi con Allegri, solo che non mi piace come allena. Non mi parla più? E che me ne frega\"",
+      "url": "https://www.milannews.it/news/cassano-diceva-non-problemi-allegri-piace-allena-parla-piu-frega-630898",
+      "source": "milannews.it",
+      "date": "2026-09-25T23:00:00+00:00",
+      "summary": "Negli ultimi anni le analisi di Cassano sulle squadre allenate da Max Allegri hanno sempre raggiunto gli onori della cronaca: l'ex calciatore barese non è mai stato morbido nel parlare del suo ex allenatore e del suo modo di far giocare la ..."
+    },
+    {
+      "id": "ea83f33b5479",
+      "title": "Ex DS Spezia: \"Chiesti alla mamma di Comotto: «Me lo date per lavorarci come ho fatto con Pio?». Poi Allegri...\"",
+      "url": "https://www.milannews.it/news/ds-spezia-comotto-voglia-migliorarsi-tremenda-talenti-calcio-italiano-630896",
+      "source": "milannews.it",
+      "date": "2026-09-25T22:48:26+00:00",
+      "summary": "L'ex direttore sportivo dello Spezia, Stefano Melissano, ha parlato a Gianlucadimarzio.com di diversi talenti valorizzati negli ultimi anni, tra cui anche Christian Comotto del Milan."
+    },
+    {
+      "id": "ee1fda102219",
+      "title": "A Roma l'evento 'Il calcio che torna in piazza. Malagò \"Progetto che parte da lontano\"",
+      "url": "https://www.milannews.it/news/calcio-torna-piazza-roma-malago-progetto-lontano-630881",
+      "source": "milannews.it",
+      "date": "2026-09-25T22:35:39+00:00",
+      "summary": "(ANSA) - ROMA, 25 SET - Un campetto di calcio aperto a tutti e aree dedicate alle street skills, palleggi e prove di abilità con il pallone."
+    },
+    {
+      "id": "be99c72cf42a",
+      "title": "MN - Ravezzani duro su Ramos: \"Nulla di rimarcabile nelle sue partite\"",
+      "url": "https://www.milannews.it/news/mn-ravezzani-duro-ramos-nulla-rimarcabile-partite-630888",
+      "source": "milannews.it",
+      "date": "2026-09-25T22:24:42+00:00",
+      "summary": "Forse il giocatore più nell'occhio del ciclone del Milan in questo momento è il centravanti Gonçalo Ramos, \"colpevole\" di essere stato pagato 75 milioni dal club rossonero quest'estate."
+    },
+    {
+      "id": "a1ac5e0aa0a6",
+      "title": "AIC, Calcagno: \"Sostegno a Malagò, è una situazione paradossale\"",
+      "url": "https://www.milannews.it/news/figc-calcagno-sostegno-malago-situazione-paradossale-630904",
+      "source": "milannews.it",
+      "date": "2026-09-25T22:12:58+00:00",
+      "summary": "(ANSA) - ROMA, 25 SET - \"Per quanto ci riguarda riteniamo la situazione paradossale, abbiamo manifestato il nostro sostegno al presidente Malagò e la nostra vicinanza."
+    },
+    {
+      "id": "be7b07123341",
+      "title": "L'anticipo di Galli - Amorim, io mi fido",
+      "url": "https://www.milannews.it/editoriale/galli-amorim-fido-630897",
+      "source": "milannews.it",
+      "date": "2026-09-25T22:00:01+00:00",
+      "summary": "La vittoria contro il Lecce sembra aver riportato un briciolo di serenità attorno alla squadra rossonera e al suo allenatore. Già le formazioni schierate in campionato non erano sembrate le migliori possibili."
+    },
+    {
+      "id": "8bd80352b588",
+      "title": "Mancini: \"Fischi ci stanno ma nel secondo tempo meglio noi\"",
+      "url": "https://www.milannews.it/news/mancini-fischi-noi-630909",
+      "source": "milannews.it",
+      "date": "2026-09-25T21:48:22+00:00",
+      "summary": "(ANSA) - ROMA, 25 SET - \"Nel primo tempo il Belgio ha giocato meglio, noi eravamo in difficoltà, poi nel secondo sono andati in difficoltà loro e noi abbiamo avuto le nostre occasioni."
+    },
+    {
+      "id": "c3aa6e85ec81",
+      "title": "Napoli, McTominay ha ripreso l'attività dopo l'intervento al cuore",
+      "url": "https://www.milannews.it/l-avversario/napoli-mctominay-ripreso-attivita-intervento-cuore-630880",
+      "source": "milannews.it",
+      "date": "2026-09-25T21:36:44+00:00",
+      "summary": "(ANSA) - NAPOLI, 25 SET - Il centrocampista del Napoli Scott McTominay è tornato ad allenarsi, con una seduta svolta in palestra nel Centro Tecnico di Castel Volturno, dopo aver superato l'intervento di ablazione cardiaca, resosi necessari ..."
+    },
+    {
+      "id": "421a57ef440e",
+      "title": "Milan, tutti gli intrecci di calendario fra Serie A ed Europa League",
+      "url": "https://www.milannews.it/news/milan-intrecci-calendario-serie-europa-league-630905",
+      "source": "milannews.it",
+      "date": "2026-09-25T21:23:17+00:00",
+      "summary": "Nella giornata odierna la Lega Serie A ha comunicato date, orari e diretta TV delle gare dalla dodicesima alla diciannovesima giornata di Serie A."
+    },
+    {
+      "id": "a8260d7d0491",
+      "title": "MN - Ravezzani: \"Al tifoso del Milan non devi fare le promesse roboanti di Cardinale o Amorim\"",
+      "url": "https://www.milannews.it/news/mn-ravezzani-al-tifoso-milan-devi-promesse-roboanti-cardinale-amorim-630890",
+      "source": "milannews.it",
+      "date": "2026-09-25T21:12:59+00:00",
+      "summary": "Il nuovo tecnico rossonero Ruben Amorim ha fatto subito parlare di sè per il suo modo di comunicare molto diretto e che non lascia spazio a molte interpretazioni."
+    },
+    {
+      "id": "519a74d6bdba",
+      "title": "Maignan e Rabiot in campo tutta la gara nella prima vittoria di Zidane con la Francia",
+      "url": "https://www.milannews.it/news/maignan-rabiot-campo-gara-vittoria-zidane-francia-630883",
+      "source": "milannews.it",
+      "date": "2026-09-25T21:00:19+00:00",
+      "summary": "Buona la prima della nuova Francia del CT Zinedine Zidane. La formazione transalpina ha vinto per 0-1 sul difficile campo di Kocaeli, in casa della Turchia di Vincenzo Montella."
+    },
+    {
+      "id": "05ee80de6ab2",
+      "title": "Belgio-Italia 2-0, van Bommel porta a spasso Mancini. Un'ora per Moreira. Gli Azzurri chiudono tra i fischi",
+      "url": "https://www.milannews.it/news/belgio-italia-2-0-van-bommel-porta-spasso-mancini-moreira-azzurri-chiudono-fischi-630908",
+      "source": "milannews.it",
+      "date": "2026-09-25T20:47:53+00:00",
+      "summary": "Lo stadio Olimpico continua a sorridere a Mark van Bommel. Dopo lo scudetto conquistato col Milan nel 2011 l'olandese torna a vincere nella Capitale, ma questa volta da neo CT del Belgio."
+    },
+    {
+      "id": "aafe2fb7d7f9",
+      "title": "La storia di Edoardo Bove diventa un film: \"In un battito\"",
+      "url": "https://www.milannews.it/news/battito-storia-edoardo-bove-film-630889",
+      "source": "milannews.it",
+      "date": "2026-09-25T20:36:54+00:00",
+      "summary": "(ANSA) - ROMA, 25 SET - La storia di Edoardo Bove sbarca al cinema con 'In un battito', film documentario su Edoardo Bove diretto da Giovanni Troilo, che sarà presentato in anteprima alla Festa del Cinema di Roma 2026 nella sezione Spe ..."
+    },
+    {
+      "id": "77b9d0fbe552",
+      "title": "Garbo su Ramos: \"Non vale 75 milioni, può segnare fra i dieci e quindici gol ad essere ottimisti\"",
+      "url": "https://www.milannews.it/news/garbo-ramos-non-75-milioni-segnare-dieci-quindici-gol-ottimisti-630886",
+      "source": "milannews.it",
+      "date": "2026-09-25T20:24:16+00:00",
+      "summary": "Il giornalista Daniele Garbo ha parlato così del campionato di Serie A alla radio di Tuttomercatoweb."
+    },
+    {
+      "id": "67c2d8651cdc",
+      "title": "L'ex ds dello Spezia esalta Comotto: \"Ha una voglia di migliorarsi tremenda, è uno dei talenti del calcio italiano\"",
+      "url": "https://www.milannews.it/news/ds-spezia-esalta-comotto-ha-voglia-migliorarsi-tremenda-talenti-calcio-italiano-630855",
+      "source": "milannews.it",
+      "date": "2026-09-25T20:12:02+00:00",
+      "summary": "Stefano Melissano, ex ds dello Spezia, ha rilasciato un'intervista a gianlucadimarzio."
+    },
     {
       "id": "54227f871af1",
       "title": "Guidi: \"L'ultima gara ha rivelato ad Amorim una verità facilmente intuibile: c’è un Milan con e senza Pulisic\"",
@@ -42,60 +162,12 @@
       "summary": "(ANSA) - ROMA, 25 SET - \"Dispiace, lascia amareggiati perché ci sono situazioni che con lo sport hanno poco a che fare. Mi sembra tutto molto chiaro, i pensieri e le opinioni."
     },
     {
-      "id": "22878f1e265c",
-      "title": "Bulgaria U21, un tempo in campo per il rossonero Vladimirov",
-      "url": "https://www.milannews.it/news/bulgaria-u21-campo-rossonero-vladimirov-630866",
-      "source": "milannews.it",
-      "date": "2026-09-25T19:00:55+00:00",
-      "summary": "Nel pomeriggio di oggi è sceso in campo anche un giovane rossonero come Valeri Vladimirov, difensore bulgaro classe 2008 che è inserito nella prima squadra del Milan dopo aver ben figurato durante l'estate ma che fino a qu ..."
-    },
-    {
-      "id": "60630957a86d",
-      "title": "MN - Ravezzani: \"Amorim si è reso conto che certi giocatori sono indispensabili\"",
-      "url": "https://www.milannews.it/news/mn-ravezzani-amorim-reso-conto-giocatori-indispensabili-630885",
-      "source": "milannews.it",
-      "date": "2026-09-25T18:48:57+00:00",
-      "summary": "In questo primo scampolo di stagione si è discusso molto delle scelte di formazione di Ruben Amorim."
-    },
-    {
-      "id": "051dfe2b91a8",
-      "title": "De Ketelaere: \"Non voglio mettere pressione all'Atalanta, ma voglio fare il salto di qualità\"",
-      "url": "https://www.milannews.it/news/calcio-de-ketelaere-cercato-psg-atalanta-voleva-50-630873",
-      "source": "milannews.it",
-      "date": "2026-09-25T18:37:27+00:00",
-      "summary": "(ANSA) - ROMA, 25 SET - \"Ho solo 25 anni e ci saranno occasioni, non voglio mettere pressione all'Atalanta. Ma voglio fare il salto di qualità e in estate il Paris Saint-Germain mi ha cercato\"."
-    },
-    {
-      "id": "8f38812d8447",
-      "title": "Settore giovanile, il programma del weekend: domenica derby per la Primavera Femminile",
-      "url": "https://www.milannews.it/settore-giovanile/settore-giovanile-programma-weekend-domenica-derby-primavera-femminile-630872",
-      "source": "milannews.it",
-      "date": "2026-09-25T18:25:12+00:00",
-      "summary": "Il sito ufficiale del Milan riporta il programma delle gare delle squadre del settore giovanile rossonero in questo weekend: \"Weekend concentrato interamente nella giornata di domenica per il Settore Giovanile rossonero, con tre partite di campi ..."
-    },
-    {
-      "id": "0fe5112efd38",
-      "title": "Nigeria-Madagascar 2-1, Chukwueze in campo per un'ora",
-      "url": "https://www.milannews.it/news/nigeria-madagascar-2-1-chukwueze-campo-630902",
-      "source": "milannews.it",
-      "date": "2026-09-25T18:13:44+00:00",
-      "summary": "Samu Chukwueze ha giocato per 61 minuti nel match tra Nigeria e Madagascar valido per le qualificazioni all'African Nations Cup."
-    },
-    {
       "id": "865f1a5451ac",
       "title": "Coppa Italia Round of 16 official kick-off dates and times confirmed",
       "url": "https://football-italia.net/coppa-italia-round-of-16-official-dates/",
       "source": "football-italia.net",
       "date": "2026-09-25T18:03:39+00:00",
       "summary": "The Coppa Italia Round of 16 fixtures have been confirmed, ranging from December 1 to..."
-    },
-    {
-      "id": "a5fee7c6add8",
-      "title": "Gabbia, da punto di riferimento a seconda linea. Ecco perché finora ha trovato poco spazio con Amorim",
-      "url": "https://www.milannews.it/primo-piano/gabbia-punto-riferimento-seconda-linea-spazio-amorim-630901",
-      "source": "milannews.it",
-      "date": "2026-09-25T18:00:00+00:00",
-      "summary": "Non un avvio di stagione da ricordare per Matteo Gabbia. Il vicecapitano rossonero è passato dallo status di imprescindibile ai 17 minuti giocati fin qui in stagione."
     },
     {
       "id": "cc0b0da56753",
@@ -106,52 +178,12 @@
       "summary": "Ruben Amorim’s decision to exclude several players this summer was a bold call, but AC Milan better off for it? The ‘bomb squad’ was much talked about during Amorim’s tenure at Manchester United as he told Rashford, Garnacho, Antony, Sancho and Malacia that they were not a part of his plans, trying "
     },
     {
-      "id": "a3756462ed84",
-      "title": "Italia-Belgio, le formazioni ufficiali: van Bommel schiera subito Moreira titolare",
-      "url": "https://www.milannews.it/news/italia-belgio-formazioni-ufficiali-van-bommel-schiera-moreira-titolare-630900",
-      "source": "milannews.it",
-      "date": "2026-09-25T17:46:27+00:00",
-      "summary": "Queste le formazioni ufficiali di Italia-Belgio, match valido per la prima giornata del girone A di Nations League. Van Bommel punta sul rossonero Diego Moreira dall'inizio, schierato come esterno destro nel 4-2-3-1 iniziale."
-    },
-    {
-      "id": "ae257781b8c0",
-      "title": "Turchia-Francia, Rabiot e Maignan titolari nella prima di Zidane da CT",
-      "url": "https://www.milannews.it/news/turchia-francia-rabiot-maignan-titolari-zidane-ct-630899",
-      "source": "milannews.it",
-      "date": "2026-09-25T17:36:35+00:00",
-      "summary": "Queste le formazioni ufficiali di Turchia-Francia, partita valida per la prima giornata del girone A di Nations League. Nella prima partita di Zidane da CT dei transalpini i rossoneri Maignan e Rabiot partono titolari."
-    },
-    {
       "id": "678a3ef45a16",
       "title": "CM: Why Athekame’s start at Lyon and words on international duty are pleasing for Milan",
       "url": "https://sempremilan.com/why-athekame-lyon-words-please-milan",
       "source": "sempremilan.com",
       "date": "2026-09-25T17:30:00+00:00",
       "summary": "Zachary Athekame is shining for Lyon in Ligue 1, under the orders of former AC Milan coach Paulo Fonseca. Athekame has also earned a call-up to the Switzerland senior national team, where he will be available during this break for the various UEFA Nations League matches that Murat Yakin’s team will "
-    },
-    {
-      "id": "5510b0a5542b",
-      "title": "Domani al via la Serie A Women 26-27: ecco dove vedere tutte le partite",
-      "url": "https://www.milannews.it/news/domani-via-serie-women-26-27-vedere-partite-630871",
-      "source": "milannews.it",
-      "date": "2026-09-25T17:24:16+00:00",
-      "summary": "Questo weekend inizia la Serie A Women (il Milan Femminile esordirà domani, sabato 26 settembre, in casa del Como 1907) e il sito della FIGC riporta dove si potranno vedere tutte le partite di questa competizione: \"Quella al via tra sabat ..."
-    },
-    {
-      "id": "19e5bde40b5a",
-      "title": "Pastore: \"C'è un problema se l'indispensabile è Musah. Vedremo se il 3-4-2-1 è un sistema archiviato\"",
-      "url": "https://www.milannews.it/news/pastore-c-problema-indispensabile-musah-vedremo-3-4-2-1-sistema-archiviato-630838",
-      "source": "milannews.it",
-      "date": "2026-09-25T17:13:49+00:00",
-      "summary": "Giuseppe Pastore, giornalista, si è così espresso a Cronache di Spogliatoio sul modulo per il Milan di Ruben Amorim: \"Il 3-4-2-1 era un sistema - ne parliamo al passato, vedremo se è un sistema archiviato - di gioco in cui l ..."
-    },
-    {
-      "id": "d8c9ddb286fd",
-      "title": "Matri: \"Amorim sta valorizzando i giocatori passati un po' in sordina\"",
-      "url": "https://www.milannews.it/news/matri-amorim-valorizzando-giocatori-passati-sordina-630805",
-      "source": "milannews.it",
-      "date": "2026-09-25T17:00:23+00:00",
-      "summary": "Tra le critiche che sono state mosse al tecnico rossonero Ruben Amorim in questa prima fase di stagione, quelle più frequenti si sono concentrate sulle scelte di formazione dell'allenatore portoghese."
     },
     {
       "id": "22f74da94516",
@@ -162,14 +194,6 @@
       "summary": "The latest batch of date and time confirmations have arrived from Lega Serie A, taking us from round 12 to round 19. The league had previously confirmed the fixture list up until and including matchday 11, which is around the November international break. Now, the official website have relayed the s"
     },
     {
-      "id": "9170f3978055",
-      "title": "MN - Ravezzani: \"Inizio di stagione del Milan non un trionfo ma doveroso. Lo valuto bene\"",
-      "url": "https://www.milannews.it/news/mn-ravezzani-inizio-stagione-milan-trionfo-doveroso-valuto-bene-630884",
-      "source": "milannews.it",
-      "date": "2026-09-25T16:48:42+00:00",
-      "summary": "Ci sono state tante chiacchiere attorno all'inizio di stagione del Milan ma, alla fine della fiera, i rossoneri si ritrovano alla sosta con 11 punti in campionato, a soli due punti dalle tre squadre che guidano attualmente la classifica ..."
-    },
-    {
       "id": "ebdf027c6f7a",
       "title": "Official Serie A dates and times for Week 12 to 19",
       "url": "https://football-italia.net/official-serie-a-dates-times-for-week-12-to-19/",
@@ -178,36 +202,12 @@
       "summary": "The dates and kick-off times for Serie A Week 12 to 19 have been announced,..."
     },
     {
-      "id": "0dde403df1e0",
-      "title": "Ranieri: \"L'incertezza sui vertici della FIGC? Noi pensiamo solo al campo\"",
-      "url": "https://www.milannews.it/news/ranieri-incertezza-vertici-figc-pesa-pensiamo-campo-630863",
-      "source": "milannews.it",
-      "date": "2026-09-25T16:36:50+00:00",
-      "summary": "(ANSA) - ROMA, 25 SET - \"Se mi pesa l'incertezza dei vertici federali? No, nemmeno nella programmazione. Noi andiamo avanti, sono uomo di campo e dobbiamo far bene in campo."
-    },
-    {
-      "id": "745f1a1ba50f",
-      "title": "Borghi: \"Ho visto 65mila spettatori a San Siro sbigottiti alle formazioni di Milan-Benfica. Poi, il modulo col Lecce...\"",
-      "url": "https://www.milannews.it/news/borghi-ho-65mila-spettatori-san-siro-sbigottiti-formazioni-milan-benfica-poi-modulo-lecce-630837",
-      "source": "milannews.it",
-      "date": "2026-09-25T16:24:00+00:00",
-      "summary": "Stefano Borghi, telecronista e giornalista, si è così espresso a Cronache di Spogliatoio commentando le scelte di formazione di Ruben Amorim: \"Ero a commentare Milan-Benfica e, quando sono state annunciate le formazioni, vedevo lo  ..."
-    },
-    {
       "id": "ceace24e05c3",
       "title": "Pellegatti preaches ‘patience’ over Camarda despite Chelsea and Spurs links",
       "url": "https://sempremilan.com/pellegatti-preaches-patience-camarda-chelsea-spurs",
       "source": "sempremilan.com",
       "date": "2026-09-25T16:20:00+00:00",
       "summary": "Carlo Pellegatti has insisted AC Milan must be patient with Francesco Camarda, despite the mounting interest and Ruben Amorim’s words. Camarda will always be a player that is spoken about a lot, given his reputation as one of the best young talents in Italy. On his YouTube channel, Carlo Pellegatti "
-    },
-    {
-      "id": "66c3c3342156",
-      "title": "Serie A, Premier, Liga e Bundesliga unite: \"Serve la riforma della governance FIFA\"",
-      "url": "https://www.milannews.it/news/serie-a-premier-liga-bundesliga-unite-serve-riforma-governance-fifa-630861",
-      "source": "milannews.it",
-      "date": "2026-09-25T16:12:04+00:00",
-      "summary": "(ANSA) - ROMA, 25 SET - I quattro principali campionati europei (Premier League inglese, Liga spagnola, Serie A italiana e Bundesliga tedesca) chiedono una riforma della governance Fifa, dopo il fallito piano di creazione di una società commer ..."
     },
     {
       "id": "8cee3411072a",
