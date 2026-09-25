@@ -1,13 +1,261 @@
 {
-  "lastUpdated": "2026-09-25T11:08:21.927112+00:00",
+  "lastUpdated": "2026-09-25T16:31:53.734185+00:00",
   "articles": [
     {
-      "id": "7e791e85aeaf",
-      "title": "Pasotto: \"Camarda è destinato ad aumentare il suo minutaggio già dopo la sosta\"",
-      "url": "https://www.milannews.it/news/pasotto-camarda-destinato-aumentare-minutaggio-sosta-630825",
+      "id": "745f1a1ba50f",
+      "title": "Borghi: \"Ho visto 65mila spettatori a San Siro sbigottiti alle formazioni di Milan-Benfica. Poi, il modulo col Lecce...\"",
+      "url": "https://www.milannews.it/news/borghi-ho-65mila-spettatori-san-siro-sbigottiti-formazioni-milan-benfica-poi-modulo-lecce-630837",
       "source": "milannews.it",
-      "date": "2026-09-25T11:00:30+00:00",
-      "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport sul rendimento fin qui di Francesco Camarda, attaccante del Milan: \"Tornato dal prestito al Lecce, in estate il Milan con lui ha fatto una scelta molto preci ..."
+      "date": "2026-09-25T16:24:00+00:00",
+      "summary": "Stefano Borghi, telecronista e giornalista, si è così espresso a Cronache di Spogliatoio commentando le scelte di formazione di Ruben Amorim: \"Ero a commentare Milan-Benfica e, quando sono state annunciate le formazioni, vedevo lo  ..."
+    },
+    {
+      "id": "ceace24e05c3",
+      "title": "Pellegatti preaches ‘patience’ over Camarda despite Chelsea and Spurs links",
+      "url": "https://sempremilan.com/pellegatti-preaches-patience-camarda-chelsea-spurs",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T16:20:00+00:00",
+      "summary": "Carlo Pellegatti has insisted AC Milan must be patient with Francesco Camarda, despite the mounting interest and Ruben Amorim’s words. Camarda will always be a player that is spoken about a lot, given his reputation as one of the best young talents in Italy. On his YouTube channel, Carlo Pellegatti "
+    },
+    {
+      "id": "66c3c3342156",
+      "title": "Serie A, Premier, Liga e Bundesliga unite: \"Serve la riforma della governance FIFA\"",
+      "url": "https://www.milannews.it/news/serie-a-premier-liga-bundesliga-unite-serve-riforma-governance-fifa-630861",
+      "source": "milannews.it",
+      "date": "2026-09-25T16:12:04+00:00",
+      "summary": "(ANSA) - ROMA, 25 SET - I quattro principali campionati europei (Premier League inglese, Liga spagnola, Serie A italiana e Bundesliga tedesca) chiedono una riforma della governance Fifa, dopo il fallito piano di creazione di una società commer ..."
+    },
+    {
+      "id": "dfba8f33d924",
+      "title": "ESCLUSIVA MN - Ravezzani: \"Il Milan è partito bene, ma le prestazioni di Ramos inquietano. Europa League? Non può vincerla\"",
+      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-ravezzani-il-milan-partito-prestazioni-ramos-inquietano-europa-league-vincerla-630762",
+      "source": "milannews.it",
+      "date": "2026-09-25T16:00:00+00:00",
+      "summary": "La redazione di MilanNews ha intervistato in esclusiva il direttore di Telelombardia Fabio Ravezzani. Tanti i temi tratatti, dal gioco espresso dai rossoneri fino a questo momento, passando per Amorim fino ad arrivare a Gonçalo Ramos."
+    },
+    {
+      "id": "b55b034c5d73",
+      "title": "Serie A, gli impegni ufficiali del Milan fino alla 19^ giornata. Date, orari e diretta TV",
+      "url": "https://www.milannews.it/news/serie-a-impegni-ufficiali-milan-19-giornata-date-orari-diretta-tv-630895",
+      "source": "milannews.it",
+      "date": "2026-09-25T15:59:55+00:00",
+      "summary": "La Lega Serie A ha comunicato date, orari e diretta TV delle sfide di campionato fino alla diciannovesima gironata."
+    },
+    {
+      "id": "fbe1b4f7b77b",
+      "title": "Nigeria-Madagascar, Samu Chukwueze subito titolare",
+      "url": "https://www.milannews.it/news/nigeria-madagascar-samu-chukwueze-titolare-630894",
+      "source": "milannews.it",
+      "date": "2026-09-25T15:53:35+00:00",
+      "summary": "Queste le formazioni ufficiali di Nigeria-Madagascar, valida per le qualificazioni all'African Nations Cup. Chukwueze titolare."
+    },
+    {
+      "id": "8cee3411072a",
+      "title": "Milan’s De Winter among five Belgium players dropped for Italy clash",
+      "url": "https://football-italia.net/de-winter-dropped-for-italy-vs-belgium/",
+      "source": "football-italia.net",
+      "date": "2026-09-25T15:50:59+00:00",
+      "summary": "Milan centre-back Koni De Winter is one of the five Belgium players who will not..."
+    },
+    {
+      "id": "2f353684ab42",
+      "title": "Mercato invernale, i club di A spingono per anticipare: si comincia il 28 dicembre, manca l'ok definitivo della FIFA",
+      "url": "https://www.milannews.it/news/mercato-invernale-club-spingono-anticipare-comincia-28-dicembre-manca-ok-definitivo-fifa-630893",
+      "source": "milannews.it",
+      "date": "2026-09-25T15:43:09+00:00",
+      "summary": "Ci sono novità importanti sulla prossima finestra di calciomercato che emergono dal Consiglio della FIGC che si è tenuto a Roma: i club di Serie A hanno presentato richiesta ufficiale per l'apertura ancipata della prossima sessione  ..."
+    },
+    {
+      "id": "81a797630c3a",
+      "title": "GdS: Rearguard leader to rarely-used sub – why Gabbia is playing less under Amorim",
+      "url": "https://sempremilan.com/why-gabbia-playing-less-under-amorim",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T15:40:00+00:00",
+      "summary": "Matteo Gabbia was one of the leaders of the AC Milan defence last season, but Ruben Amorim has not used him so far. La Gazzetta dello Sport begin by pointing out that the ankle inflammation has been insidious and problematic, one of those annoying ailments that doesn’t require crutches but prevents "
+    },
+    {
+      "id": "09085090bca1",
+      "title": "Croazia, come sta Modric? Il CT: \"Luka ieri aveva la febbre, vedremo domattina\"",
+      "url": "https://www.milannews.it/news/croazia-modric-ct-luka-febbre-vedremo-domattina-630892",
+      "source": "milannews.it",
+      "date": "2026-09-25T15:34:05+00:00",
+      "summary": "In questi minuti è in corso la conferenza stampa di Bilic, nuovo commissario tecnico della Croazia, alla vigilia della sfida contro la Repubblica Ceca."
+    },
+    {
+      "id": "043e06b727c9",
+      "title": "Biasin sottolinea: \"C'è una differenza tra il Milan e le tre squadre che gli stanno sopra\"",
+      "url": "https://www.milannews.it/news/biasin-sottolinea-c-differenza-milan-squadre-sopra-630835",
+      "source": "milannews.it",
+      "date": "2026-09-25T15:24:00+00:00",
+      "summary": "Fabrizio Biasin, giornalista, si è così espresso a Cronache di Spogliatoio sulla rosa del Milan a disposizione di Ruben Amorim: \"Al netto delle scelte di Amorim - sicuramente con il Benfica ha sbagliato a mettere quella f ..."
+    },
+    {
+      "id": "7a5069148b9f",
+      "title": "De Ketelaere rivela: \"Ho parlato con il PSG ma alla fine hanno scelto Ferran Torres\"",
+      "url": "https://www.milannews.it/news/de-ketelaere-rivela-ho-parlato-psg-scelto-ferran-torres-630856",
+      "source": "milannews.it",
+      "date": "2026-09-25T15:12:22+00:00",
+      "summary": "L'ex rossonero Charles De Ketelaere, da tre anni attaccante di punta dell'Atalanta che oggi si sta affermando anche con la maglia del Belgio, ha parlato a Le Derniere Heure di quella che è stata la sua estate a livello di calciome ..."
+    },
+    {
+      "id": "4302c3eecf3d",
+      "title": "Regole finanziare Premier, Manchester City giudicato colpevole per tutte le accuse: ci sarà ricorso",
+      "url": "https://www.milannews.it/dall-estero/regole-finanziare-premier-manchester-city-giudicato-colpevole-accuse-ricorso-630891",
+      "source": "milannews.it",
+      "date": "2026-09-25T15:00:00+00:00",
+      "summary": "Nel pomeriggio di oggi, venerdì 25 settembre, The Athletic ha rivelato che il Manchester City è stato ritenuto colpevole di tutte le accuse relative alla violazione del regolamento finanziario della Premier League."
+    },
+    {
+      "id": "3e1a612acb71",
+      "title": "Molina: Maldini, Mendes, Zlatan and Scheiner – the doubts about RedBird’s Milan",
+      "url": "https://sempremilan.com/molina-maldini-mendes-zlatan-cardinale-redbird-milan",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T15:00:00+00:00",
+      "summary": "Romain Molina has published the explosive video that he promised which takes aim at Gerry Cardinale’s RedBird Capital fund. Molina has conducted in-depth investigations for The Guardian, The New York Times and the BBC in the past. He has shared a 25-minute video on his YouTube channel explaining the"
+    },
+    {
+      "id": "cf7a8b4c009b",
+      "title": "Ramos premiato prima di Portogallo-Galles per le 25 presenze in Nazionale",
+      "url": "https://www.milannews.it/news/ramos-premiato-portogallo-galles-25-presenze-nazionale-630819",
+      "source": "milannews.it",
+      "date": "2026-09-25T14:48:44+00:00",
+      "summary": "Nella serata di ieri, in occasione della sfida tra Portogallo e Galles, l'attaccante rossonero Gonçalo Ramos è stato premiato dalla federazione portoghese per le 25 presenze con la Nazionale."
+    },
+    {
+      "id": "6932b8c83f85",
+      "title": "Shevchenko: ‘The real heroes defend our country, I’ve got my Ballon d’Or back now’",
+      "url": "https://football-italia.net/shevchenko-the-real-heroes-defend-our-country/",
+      "source": "football-italia.net",
+      "date": "2026-09-25T14:44:51+00:00",
+      "summary": "Andriy Shevchenko says that peace in Ukraine is his biggest wish on his 50th birthday,..."
+    },
+    {
+      "id": "10ce49caad95",
+      "title": "Verso il Belgio, Ranieri: \"L'Italia giochi con serenità, iniziamo con il piede giusto\"",
+      "url": "https://www.milannews.it/news/ranieri-italia-giochi-serenita-iniziamo-piede-giusto-630878",
+      "source": "milannews.it",
+      "date": "2026-09-25T14:36:27+00:00",
+      "summary": "(ANSA) - ROMA, 25 SET - \"I ragazzi stanno bene, c'è grande complicità tra i giovani e i meno giovani: i più grandi indicano la via, gli altri aggiungono spensieratezza."
+    },
+    {
+      "id": "22836ea554ac",
+      "title": "CorSport: Cardinale wants to give Amorim a defender – why Gabriel is still a possibility",
+      "url": "https://sempremilan.com/cardinale-amorim-defender-why-gabriel-possibility",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T14:30:16+00:00",
+      "summary": "AC Milan are looking to strengthen their defence in the winter window, and Goncalo Inacio isn’t the only option. Milan tried but were unable to secure the arrival of another central defender after Mario Gila, with a late €40m bid to try get Goncalo Inacio ultimately proving unsuccessful as Sporting "
+    },
+    {
+      "id": "c47bb99d4688",
+      "title": "Licari ricorda: \"Quando mai la Serie A si era schierata contro una scelta? Mancini dovrà farsi perdonare\"",
+      "url": "https://www.milannews.it/news/licari-ricorda-quando-serie-schierata-scelta-mancini-farsi-perdonare-630822",
+      "source": "milannews.it",
+      "date": "2026-09-25T14:24:29+00:00",
+      "summary": "Fabio Licari, giornalista, si è così espresso su La Gazzetta dello Sport sull'inizio del percorso della Nazionale di Mancini: \"Siamo tutti manciniani e non è una frase strappata per ruffianeria al discorso di Kennedy a B ..."
+    },
+    {
+      "id": "aaf0d4efd30a",
+      "title": "Marinozzi: \"La cosa che può fare Ramos è portare lui direttamente il pallone ed essere autosufficiente\"",
+      "url": "https://www.milannews.it/news/marinozzi-la-ramos-dato-motore-portare-direttamente-pallone-autosufficiente-630832",
+      "source": "milannews.it",
+      "date": "2026-09-25T14:12:34+00:00",
+      "summary": "Andrea Marinozzi, giornalista e telecronista, si è così espresso sul suo canale Youtube analizzando le prestazioni di Goncalo Ramos: \"Ramos è un target man."
+    },
+    {
+      "id": "321e8b132487",
+      "title": "Inchiesta di Molina su RedBird: Cardinale-Mendes, Maldini, perchè Ibra è intoccabile",
+      "url": "https://www.milannews.it/primo-piano/inchiesta-molina-redbird-cardinale-mendes-maldini-ibra-intoccabile-630879",
+      "source": "milannews.it",
+      "date": "2026-09-25T14:00:00+00:00",
+      "summary": "Il giornalista sportivo Romain Molina - che nel corso della carriera ha realizzato inchieste molto approfondite per conto del The Guardian, del The New York Times e della BBC - ha condiviso sul suo canale YouTube un ..."
+    },
+    {
+      "id": "a7caf220329e",
+      "title": "Tuttosport: Reinstated but unused – the message Amorim has sent to Tomori",
+      "url": "https://sempremilan.com/reinstated-but-unused-amorim-message-tomori",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T14:00:00+00:00",
+      "summary": "AC Milan made the decision to reinstate Fikayo Tomori into the squad, and yet his presence on the field remains to be seen. Milan were unable to secure the arrival of another central defender in the summer, something they tried to do right until the end, even reportedly bidding €40m to try get Gonca"
+    },
+    {
+      "id": "4b4a3ec5c546",
+      "title": "Stasera Italia-Belgio. Malagò: \"Grande attesa per la Nazionale, dobbiamo recuperare entusiasmo\"",
+      "url": "https://www.milannews.it/news/malago-nazionale-dobbiamo-recuperare-entusiasmo-630877",
+      "source": "milannews.it",
+      "date": "2026-09-25T13:48:11+00:00",
+      "summary": "(ANSA) - ROMA, 25 SET - \"Sulla Nazionale c'è grande attesa, le prime volte sono sempre emozionanti. Sicuramente dobbiamo recuperare entusiasmo e prestigio attraverso i risultati e il gioco."
+    },
+    {
+      "id": "187b60bfdd0f",
+      "title": "Alaba all'Udinese: arriva il commento di benvenuto del milanista Modric",
+      "url": "https://www.milannews.it/news/modric-accoglie-alaba-benvenuto-italia-fratello-630811",
+      "source": "milannews.it",
+      "date": "2026-09-25T13:36:07+00:00",
+      "summary": "Come annunciato ormai qualche giorno fa, l'Udinese ha ufficializzato un super colpo per la difesa ossia l'ex difensore del Real Madrid David Alaba."
+    },
+    {
+      "id": "47961cf4583f",
+      "title": "“I’m a Milan player” – Athekame confirms he would ‘like to return’ after Lyon loan",
+      "url": "https://sempremilan.com/athekame-milan-player-return-lyon",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T13:30:00+00:00",
+      "summary": "Zachary Athekame has had a brilliant start to the season with Lyon, but has admitted he sees his future with AC Milan. Of the seven players Milan loaned out last summer, Athekame is undoubtedly the one the club still have the highest hopes for, alongside David Odogu. The Swiss full-back turns 22 in "
+    },
+    {
+      "id": "39153d873018",
+      "title": "Pedullà incredulo: \"Mi sembra folle! Ho letto catasfrofi sul Milan e siamo a settembre\"",
+      "url": "https://www.milannews.it/news/pedulla-incredulo-mi-folle-letto-catasfrofi-milan-settembre-630833",
+      "source": "milannews.it",
+      "date": "2026-09-25T13:23:27+00:00",
+      "summary": "Alfredo Pedullà, giornalista, si è così espresso sul suo canale Youtube commentando il primo mese di stagione delle big di Serie A: \"Mi sembra folle aspettare settembre per fare dei bilanci e per fare dei processi."
+    },
+    {
+      "id": "3cab404c33cf",
+      "title": "Gozzini: \"Conta la volontà e il Milan è deciso: vuole andare avanti con Rabiot\"",
+      "url": "https://www.milannews.it/calciomercato-milan/gozzini-conta-volonta-milan-deciso-vuole-andare-rabiot-630827",
+      "source": "milannews.it",
+      "date": "2026-09-25T13:11:05+00:00",
+      "summary": "Alessandra Gozzini, giornalista, si è così espressa su La Gazzetta dello Sport sul futuro di Adrien Rabiot, centrocampista del Milan: \"Mediano, regista o di supporto al centravanti? Nel dubbio (di Amorim) Adrien Rabiot ha scelto di ..."
+    },
+    {
+      "id": "898ef8d184d2",
+      "title": "Secondo Ordine, la promessa fatta da Cardinale per il nuovo dirigente sta per essere onorata",
+      "url": "https://www.milannews.it/news/ordine-promessa-fatta-cardinale-dirigente-onorata-630843",
+      "source": "milannews.it",
+      "date": "2026-09-25T13:00:05+00:00",
+      "summary": "Nel corso del suo editoriale per MilanNews.it, il giornalista Franco Ordine si è così espresso su alcune cose di mercato da casa Milan: \"I rinnovi di Pulisic e Pavlovic sono tornati, durante la sosta, all’ordine del giorno."
+    },
+    {
+      "id": "a21378c8eca6",
+      "title": "Flamengo director fuels Milan rumours with comments on Amorim and future role in Italy",
+      "url": "https://sempremilan.com/flamengo-director-fuels-milan-rumours-amorim",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T13:00:00+00:00",
+      "summary": "Flamengo sporting director José Boto has spoken fondly of his encounters with Ruben Amorim, someone he knows well from Benfica. Gerry Cardinale’s idea is to support Amorim and the ‘new’ management with an experienced figure to lead the sporting side. How does that link to this story? On Thursday, Bo"
+    },
+    {
+      "id": "045ee9c5b6de",
+      "title": "CM: Cisse scores hat-trick for Italy U21s – Milan and Amorim’s plan for his development",
+      "url": "https://sempremilan.com/cisse-hat-trick-italy-u21s-milan-plans",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T12:30:00+00:00",
+      "summary": "Alphadjo Cisse has had a great start to the season with AC Milan and it continued with the Italian U21 national team, too. After arriving in the summer and being instantly linked with a loan move away, Cisse is showing that he belongs in the top flight. His goals against Torino and Juventus in diffi"
+    },
+    {
+      "id": "e7d9e4267f13",
+      "title": "Crespo weighs in critically on Ramos debate: “He has never been an infallible sniper”",
+      "url": "https://sempremilan.com/crespo-weighs-in-critically-ramos-debate",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T12:00:00+00:00",
+      "summary": "Former AC Milan striker Hernan Crespo has criticised summer signing Goncalo Ramos for not delivering the goals expected yet. Ramos’ start to the season continues to divide opinion. He was the most expensive signing in the history of the club, with €74m plus bonuses paid in order to snatch him from P"
+    },
+    {
+      "id": "a20f431edf2e",
+      "title": "CM: Not just Romano – Milan scouts also impressed by teenage Cagliari forward",
+      "url": "https://sempremilan.com/milan-scouts-also-impressed-cagliari-mendy",
+      "source": "sempremilan.com",
+      "date": "2026-09-25T11:30:00+00:00",
+      "summary": "AC Milan are not only interested in Alessandro Romano among the current Cagliari ranks, according to a report. Fabio Pisacane’s Cagliari are at the top end of the table, thanks in part to the talent of their young players. The Sardinian team are an interesting project, with players like Romano alrea"
     },
     {
       "id": "6a8e1c7efa5e",
@@ -18,44 +266,12 @@
       "summary": "AC Milan legend Andriy Shevchenko is preparing to turn 50 years of age, but he remains as passionate as ever about the things he loves. Shevchenko etched pages in Milan’s early 2000s golden era along with others. Arriving from Dynamo Kyiv in 1999, he used his pace and his finishing to terrorise what"
     },
     {
-      "id": "5e22521e0de4",
-      "title": "Athekame chiaro: \"Ora sono al Lione ma vorrei tornare al Milan\"",
-      "url": "https://www.milannews.it/news/athekame-chiaro-ora-lione-vorrei-tornare-milan-630860",
-      "source": "milannews.it",
-      "date": "2026-09-25T10:48:00+00:00",
-      "summary": "Uno dei giocatori che ha lasciato il Milan nel corso dell'estate è stato Zachary Athekame."
-    },
-    {
-      "id": "af306cb7dc92",
-      "title": "Dichiarazione congiunta di Serie A, Premier, Liga e Bundes: chieste riforme alla FIFA",
-      "url": "https://www.milannews.it/news/dichiarazione-congiunta-serie-a-premier-liga-bundes-chieste-riforme-fifa-630859",
-      "source": "milannews.it",
-      "date": "2026-09-25T10:35:00+00:00",
-      "summary": "La dichiarazione congiunta di Lega Serie A, Premier League, La Liga e Bundesliga contro la FIFA. I quattro campionati chiedono a gran voce 3 riforme."
-    },
-    {
       "id": "60c72abdbc17",
       "title": "CorSport: Game time and good relations – why Milan’s Endrick chances are growing",
       "url": "https://sempremilan.com/why-milan-endrick-chances-growing-real-madrid",
       "source": "sempremilan.com",
       "date": "2026-09-25T10:30:00+00:00",
       "summary": "After attempting to close the deal in the summer, AC Milan will try to land Endrick from Real Madrid again this winter. Corriere dello Sport begin a report this morning by stating that Endrick’s sad face has gone viral in recent days. The talented Brazilian striker is struggling to find playing time"
-    },
-    {
-      "id": "24fe60616828",
-      "title": "Toscano: \"Corsa scudetto? il Milan è un po' indietro perché ha rinnovato il proprio organico\"",
-      "url": "https://www.milannews.it/news/toscano-corsa-scudetto-milan-rinnovato-organico-630853",
-      "source": "milannews.it",
-      "date": "2026-09-25T10:25:51+00:00",
-      "summary": "In merito all'inizio della Serie A, Domenico Toscano, l'anno scorso allenatore del Catania ed ex tra le altre di Cesena e Reggina, ha dichiarato a tuttomercatoweb.com: \"Roma e Inter sono partite meglio."
-    },
-    {
-      "id": "bdd7fdee873b",
-      "title": "Crespo è critico: \"Ramos ottimo giocatore, ma non lo si può certo definire un top player\"",
-      "url": "https://www.milannews.it/gli-ex/crespo-critico-ramos-ottimo-giocatore-definire-top-player-630842",
-      "source": "milannews.it",
-      "date": "2026-09-25T10:13:11+00:00",
-      "summary": "Hernan Crespo, ex attaccante rossonero, nell'intervista rilasciata alla Gazzetta dello Sport, ha parlato così di Gonçalo Ramos, centravanti portoghese preso dal Milan durante l'ultimo mercato estivo per oltre 70 milioni di euro: ..."
     },
     {
       "id": "bfe4aca49e0b",
@@ -66,36 +282,12 @@
       "summary": "Frank Ilett, who has vowed not to cut his hair until Manchester United win five..."
     },
     {
-      "id": "2d0b4e75886b",
-      "title": "Corsa, sacrificio e gioco per la squadra. Ma al Milan servono anche i gol di Gonçalo Ramos",
-      "url": "https://www.milannews.it/primo-piano/corsa-sacrificio-gioco-squadra-milan-servono-gol-goncalo-ramos-630854",
-      "source": "milannews.it",
-      "date": "2026-09-25T10:00:28+00:00",
-      "summary": "Dopo essere stato pagato oltre 70 milioni di euro per prenderlo dal PSG, le aspettative intorno a Gonçalo Ramos era altissime."
-    },
-    {
       "id": "cbc1728ce636",
       "title": "Van Bommel reflects on time at Milan and reveals openness to managing them one day",
       "url": "https://sempremilan.com/van-bommel-reflects-milan-managing-one-day",
       "source": "sempremilan.com",
       "date": "2026-09-25T10:00:00+00:00",
       "summary": "Mark van Bommel has revealed his desire to coach AC Milan one day, as his Belgium side get ready to face Italy tonight. Van Bommel is someone who might not have spent the longest time at Milan, but he became a fan-favourite still. He joined from Bayern Munich in 2010 to add experience and leadership"
-    },
-    {
-      "id": "1e4482009bc4",
-      "title": "Il Giornale: \"Lo United vende zolle e dà un’idea a San Siro\"",
-      "url": "https://www.milannews.it/news/giornale-lo-united-vende-zolle-da-un-idea-san-siro-630852",
-      "source": "milannews.it",
-      "date": "2026-09-25T09:48:10+00:00",
-      "summary": "L'edizione odierna de Il Giornale titola così stamattina: \"Lo United vende zolle e dà un’idea a San Siro\"."
-    },
-    {
-      "id": "0346b28ffa1d",
-      "title": "Sheva cuore rossonero: \"Il Milan ha rappresentato un momento stupendo della mia vita\"",
-      "url": "https://www.milannews.it/gli-ex/sheva-cuore-rossonero-il-milan-rappresentato-stupendo-vita-630847",
-      "source": "milannews.it",
-      "date": "2026-09-25T09:36:17+00:00",
-      "summary": "Andry Shevchenko, intervistato dalla Gazzetta dello Sport in visto dei 50 anni che compirà martedì, ha parlato così della sua carriera da calciatore: \"Ricordo bene il giorno della prima convocazione nelle squadre giovanili d ..."
     },
     {
       "id": "82820791131f",
@@ -106,44 +298,12 @@
       "summary": "There isn’t any panic regarding Goncalo Ramos at the moment, but at some point the goals must start to come. La Gazzetta dello Sport (seen below) begin a report this morning by looking at the numbers from the Milan-Lecce match: Ramos tops the list for hold-up plays (seven) but is nowhere to be found"
     },
     {
-      "id": "7f1fd7f47a89",
-      "title": "Non solo il Milan: anche la Roma resta interessata ad Endrick",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-roma-resta-interessata-endrick-630850",
-      "source": "milannews.it",
-      "date": "2026-09-25T09:24:57+00:00",
-      "summary": "Dopo averci provato in estate, ricevendo però il no del Real Madrid, il Milan potrebbe fare un nuovo tentativo a gennaio per Endrick, attaccante classe 2006."
-    },
-    {
-      "id": "d8f49d947aa2",
-      "title": "Mercato Milan, CorSport: \"Tiago Gabriel obiettivo per inizio 2027\"",
-      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-corsport-tiago-gabriel-obiettivo-inizio-2027-630851",
-      "source": "milannews.it",
-      "date": "2026-09-25T09:12:24+00:00",
-      "summary": "In merito al mercato del Milan, l'edizione odierna del Corriere dello Sport titola così stamattina: \"Tiago Gabriel obiettivo per inizio 2027\"."
-    },
-    {
-      "id": "b971de92776a",
-      "title": "Ramos è il giocatore del Milan che corre di più. Crespo: \"Vuol dire che non si tira mai indietro e lotta. Certo, se poi si va a vedere quanto è stato pagato...\"",
-      "url": "https://www.milannews.it/gli-ex/ramos-giocatore-milan-corre-piu-crespo-vuol-tira-lotta-certo-vedere-pagato-630840",
-      "source": "milannews.it",
-      "date": "2026-09-25T09:00:48+00:00",
-      "summary": "Ai microfoni della Gazzetta dello Sport, l'ex rossonero Hernan Crespo ha parlato così del modo di giocare di Gonçalo Ramos: \"Guardate che Ramos si sbatte come un matto in campo e si mette sempre al servizio della squadra."
-    },
-    {
       "id": "58e034c12e03",
       "title": "Tuttosport: Milan ready new assault for Sporting CP star after €40m summer bid",
       "url": "https://sempremilan.com/milan-new-assault-inacio-40m-summer",
       "source": "sempremilan.com",
       "date": "2026-09-25T09:00:00+00:00",
       "summary": "One of the names that seemingly will not go away when it comes to AC Milan and potential signings is Goncalo Inacio. Despite the fact that the summer window closed less than one month ago and club football is on pause for the international break, there continues to be rumours swirling about future b"
-    },
-    {
-      "id": "68450e4b7e68",
-      "title": "Stasera Turchia-Francia: Maignan e Rabiot dovrebbero partire titolari",
-      "url": "https://www.milannews.it/news/stasera-turchia-francia-maignan-rabiot-dovrebbero-partire-titolari-630849",
-      "source": "milannews.it",
-      "date": "2026-09-25T08:34:09+00:00",
-      "summary": "Stasera contro la Turchia, Zinedine Zidane farà il suo esordio da commissario tecnico della Francia."
     },
     {
       "id": "84575eafbbf4",
@@ -154,76 +314,12 @@
       "summary": "Three of AC Milan’s international call-ups were in action on Thursday as the first lot of games got underway around the world. Milan had 15 players that were summoned by their respective national teams for the first break of the season, which will be an extended three-week one. It is the most of any"
     },
     {
-      "id": "58b1d74642b0",
-      "title": "Il QS titola: \"Calha e Pulisic: prove di rinnovi per Inter e Milan\"",
-      "url": "https://www.milannews.it/news/qs-titola-calha-pulisic-prove-rinnovi-inter-milan-630845",
-      "source": "milannews.it",
-      "date": "2026-09-25T08:22:41+00:00",
-      "summary": "Il Quotidiano Sportivo in edicola oggi titola così: \"Calha e Pulisic: prove di rinnovi per Inter e Milan\"."
-    },
-    {
-      "id": "3c2940c21fcb",
-      "title": "Sheva non dimentica il Milan: \"E' sempre nel  mio cuore e sarò sempre suo tifoso\"",
-      "url": "https://www.milannews.it/gli-ex/sheva-dimentica-milan-e-cuore-tifoso-630846",
-      "source": "milannews.it",
-      "date": "2026-09-25T08:10:21+00:00",
-      "summary": "Nella lunga intervista rilasciata alla Gazzetta dello Sport, l'ex attaccante rossonero Andriy Shevchenko ha rilasciato queste parole sul Milan: \"Il Milan è sempre nel mio cuore e sarò sempre suo tifoso."
-    },
-    {
-      "id": "298ac5e39318",
-      "title": "Il Milan non molla Endrick: già cercato in estate, ci proverà anche a gennaio",
-      "url": "https://www.milannews.it/primo-piano/milan-molla-endrick-cercato-estate-provera-gennaio-630848",
-      "source": "milannews.it",
-      "date": "2026-09-25T08:00:25+00:00",
-      "summary": "Dopo averci provato in estate, con Gerry Cardinale che era sceso in campo in prima persona per provare a chiudere l'affare, il Milan potrebba fare un tentativo anche a gennaio per convincere il Real Madrid a cedere Endrick in prestito."
-    },
-    {
       "id": "004bb310a7ed",
       "title": "Ramos discusses ‘incredible’ Milan fans, relationship with Amorim and life away from the pitch",
       "url": "https://sempremilan.com/ramos-milan-fans-amorim-life-away",
       "source": "sempremilan.com",
       "date": "2026-09-25T08:00:00+00:00",
       "summary": "Goncalo Ramos has shared a bit of insight into how his new life in Italy is going, and how he is finding things at AC Milan. Ramos arrived this summer from PSG for €74m, and is the most expensive signing in the club’s history. The centre-forward is believed to have been a specific request from […]\nT"
-    },
-    {
-      "id": "b2a39ce5879c",
-      "title": "Van Bommel elogia Moreira: \"Giocherà spesso titolare nel Milan: è uno importante, ha ottimo carattere, si fa sentire\"",
-      "url": "https://www.milannews.it/news/van-bommel-elogia-moreira-giochera-titolare-milan-importante-ottimo-carattere-sentire-630841",
-      "source": "milannews.it",
-      "date": "2026-09-25T07:47:57+00:00",
-      "summary": "Parla Mark van Bommel, ct del Belgio, in conferenza stampa alla vigilia del match contro l'Italia di Roberto Mancini: \"\"È sempre molto bello tornare dove hai giocato, ma San Siro è uno stadio diverso rispetto a questo ..."
-    },
-    {
-      "id": "f264bfb3f6fa",
-      "title": "Tuttosport: \"Tomori: dopo il reintegro, rimane ancora ai margini\"",
-      "url": "https://www.milannews.it/rassegna-stampa/tuttosport-tomori-reintegro-rimane-margini-630844",
-      "source": "milannews.it",
-      "date": "2026-09-25T07:35:11+00:00",
-      "summary": "Tuttosport in edicola stamattina titola così: \"Tomori: dopo il reintegro, rimane ancora ai margini\"."
-    },
-    {
-      "id": "3e08ae8c5c77",
-      "title": "Crespo su Ramos: \"Non è mai stato un cecchino infallibile. Andate a vedere i numeri della sua carriera...\"",
-      "url": "https://www.milannews.it/gli-ex/crespo-ramos-non-cecchino-infallibile-andate-vedere-numeri-carriera-630839",
-      "source": "milannews.it",
-      "date": "2026-09-25T07:23:21+00:00",
-      "summary": "Hernan Crespo, ex attaccante rossonero, intervistato dalla Gazzetta dello Sport, ha detto la sua su Gonçalo Ramos, centravanti portoghese preso dal Milan durante l'ultimo mercato estivo per oltre 70 milioni di euro: \"Faccio l’al ..."
-    },
-    {
-      "id": "f1068df3fd91",
-      "title": "Portogallo-Galles 1-0, il ct Jesus: \"Vi spiego perchè ho tolto CR7 per mettere Gonçalo Ramos\"",
-      "url": "https://www.milannews.it/news/portogallo-galles-1-0-ct-jesus-vi-spiego-tolto-cr7-mettere-goncalo-ramos-630836",
-      "source": "milannews.it",
-      "date": "2026-09-25T07:11:03+00:00",
-      "summary": "Intervistato da Canal 11 dopo la vittoria per 1-0 contro il Galles grazie ad un gol dell'ex rossonero Joao Felix, Jorge Jesus, ct del Portogallo, ha spiegato alcune sue scelte, come per esempio l'uscita dal campo di Cristiano Ronaldo che al 6 ..."
-    },
-    {
-      "id": "8efaa32b22d1",
-      "title": "Gazzetta: \"Correre non basta più. Ramos record di chilometri, però al Milan servono i gol\"",
-      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-correre-piu-ramos-record-chilometri-milan-servono-gol-630834",
-      "source": "milannews.it",
-      "date": "2026-09-25T06:59:01+00:00",
-      "summary": "\"Correre non basta più."
     },
     {
       "id": "21127c9cdbcc",
@@ -266,28 +362,12 @@
       "summary": "In recent days, reports have resurfaced in abundance regarding the notion that AC Milan could soon welcome a new director. Calciomercato.com begin their report by stating that among the secrets behind Milan’s immediate reaction to the tough defeat against Benfica – resulting in the resounding win ov"
     },
     {
-      "id": "b36910277273",
-      "title": "“It was all signed” – Agent of Corinthians star lifts lid on collapsed deal after Modric talks",
-      "url": "https://sempremilan.com/agent-corinthians-andre-collapsed-deal-modric",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T15:40:00+00:00",
-      "summary": "The agent of André has shed light on the negotiations between AC Milan and Corinthians for the young midfielder. It ended up being a weeks-long saga regarding André, starting with when Milan believed they had struck a deal with his club and all the relevant documents were signed to secure his arriva"
-    },
-    {
       "id": "7760614383b2",
       "title": "Ramos on Milan move: ‘The fans are incredible, I love feeling the support’",
       "url": "https://football-italia.net/ramos-on-milan-move-the-fans/",
       "source": "football-italia.net",
       "date": "2026-09-24T15:27:34+00:00",
       "summary": "Goncalo Ramos has spoken about his first months at Milan, and the moment that made..."
-    },
-    {
-      "id": "0f5bd17c7669",
-      "title": "GdS: Amorim relying on ‘irreplaceable’ defensive duo – the reasons and the Gabbia factor",
-      "url": "https://sempremilan.com/amorim-irreplaceable-de-winter-pavlovic-reasons",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T15:00:00+00:00",
-      "summary": "There were question marks about AC Milan’s first choice three-man defence this season. Ruben Amorim has answered them emphatically. As La Gazzetta dello Sport point out, there are only two other players in the Milan squad that join Mike Maignan in having played every minute of every game so far this"
     },
     {
       "id": "8ef176c41d6f",
@@ -298,76 +378,12 @@
       "summary": "If Giovanni Malagò is removed as FIGC President over an election irregularity, then ex-Milan and..."
     },
     {
-      "id": "9d59ce4ace75",
-      "title": "Ordine sends ‘friendly warning’ to Amorim: “A certain satanic sect’s willingness”",
-      "url": "https://sempremilan.com/ordine-sends-friendly-warning-to-amorim",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T14:30:00+00:00",
-      "summary": "Journalist Franco Ordine has fired a warning to Ruben Amorim about the idea that journalists are hoping for his failure. Amorim is only six games into his tenure as Milan coach, but there is already quite an interesting relationship developing between the coach and the Italian media. His press confe"
-    },
-    {
-      "id": "93d1d7aef94e",
-      "title": "CM: Milan will send scout to watch Italy debutant at Amorim’s request",
-      "url": "https://sempremilan.com/milan-scout-italy-debutant-romano-amorim",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T14:00:00+00:00",
-      "summary": "AC Milan’s interest in signing talented Cagliari midfielder Alessandro Romano has been confirmed by another source. This morning’s edition of La Gazzetta dello Sport was the first to mention Milan’s interest in Romano, who joined Cagliari from Roma in the summer for what looks now like being a barga"
-    },
-    {
-      "id": "09a2de333d0f",
-      "title": "GdS: Amorim will be able to work with key Milan trio during international break",
-      "url": "https://sempremilan.com/amorim-pulisic-saelemaekers-gila-break",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T13:30:00+00:00",
-      "summary": "The international break will see a lot of players jet off away from Milanello, but some will remain to work under Ruben Amorim. As we highlighted last night, Milan will be the most impacted Serie A team when it comes to international call-ups during the current break. The Rossoneri have 15 players h"
-    },
-    {
       "id": "54d51d30331c",
       "title": "Milan send scouts to Rome to watch Romano’s Italy debut",
       "url": "https://football-italia.net/milan-send-scouts-watch-romano-italy-debut/",
       "source": "football-italia.net",
       "date": "2026-09-24T13:19:09+00:00",
       "summary": "Alessandro Romano is widely expected to earn his Italy debut when the Azzurri take on..."
-    },
-    {
-      "id": "60aa44c827f5",
-      "title": "CorSport: Milan a transformed pressing team under Amorim compared to Allegri – the numbers",
-      "url": "https://sempremilan.com/milan-transformed-pressing-amorim-allegri",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T13:00:00+00:00",
-      "summary": "With the change of coach from Massimiliano Allegri to Ruben Amorim, AC Milan have drastically changed their style of play. At the time of his announcement as Allegri’s successor, we analysed how fans could expect to see a complete 180-degree turn when it comes to the style of play. However, it is on"
-    },
-    {
-      "id": "edaa9ed5c456",
-      "title": "CM: Tomori back after strange summer – when he could start and why his fate remains sealed",
-      "url": "https://sempremilan.com/tomori-when-start-why-fate-sealed",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T12:30:00+00:00",
-      "summary": "At one point it looked like Fikayo Tomori would not even be at AC Milan this season, and now a starting spot could beckon. As Calciomercato.com recall, Tomori’s summer story is one of the more remarkable ones in Serie A. Gerry Cardinale and Ruben Amorim told him to find another club, only to reinsta"
-    },
-    {
-      "id": "0cc90bd77641",
-      "title": "GdS: Two Milan players expected to get less minutes as Amorim defines hierarchies",
-      "url": "https://sempremilan.com/loftus-cheek-cisse-less-minutes-amorim",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T12:00:00+00:00",
-      "summary": "While virtually everyone should get chances in a hectic October, a report has suggested two AC Milan players are at risk of getting less minutes. La Gazzetta dello Sport have published regarding the statistic that has emerged about Ruben Loftus-Cheek, who has covered less total distance than Mike Ma"
-    },
-    {
-      "id": "38500d9b57d8",
-      "title": "Tuttosport: Reijnders causes a stir with honest Al-Qadsiah admission – why it netted Milan €14m",
-      "url": "https://sempremilan.com/reijnders-al-qadsiah-admission-milan-14m",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T11:30:00+00:00",
-      "summary": "Tijjani Reijnders’ recent comments have drawn some attention as he admitted that he moved to Saudi Arabia primarily for money. In an interview with NOS, Reijnders responded to the notion that he only chose to swap Manchester City for Al-Qadsiah because of the salary that was on offer, leading to acc"
-    },
-    {
-      "id": "92cb023f31c4",
-      "title": "GdS: Modric reports for Croatia duty at 41 – Amorim hopes for ‘part-time’ role",
-      "url": "https://sempremilan.com/modric-croatia-amorim-hopes-part-time",
-      "source": "sempremilan.com",
-      "date": "2026-09-24T11:00:00+00:00",
-      "summary": "Luka Modric made the decision to continue his international career with Croatia, where a potentially new role awaits him. La Gazzetta dello Sport (seen below) recall that when Modric left the pitch at Toronto Stadium on July 3rd following the World Cup defeat against Portugal, many presumed that it "
     },
     {
       "id": "2756eb2cee96",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-22T10:50:00+00:00",
       "summary": "Milan and Juventus have opened talks with Viktor Gyokeres’ representatives as the Arsenal striker weighs..."
-    },
-    {
-      "id": "767de2a65312",
-      "title": "Orsato admission of five referee and VAR errors so far in 2026/27 season",
-      "url": "https://football-italia.net/orsato-admission-5-referee-var-errors-2026-27/",
-      "source": "football-italia.net",
-      "date": "2026-09-21T19:58:22+00:00",
-      "summary": "There were five major refereeing and VAR errors made this season, confirmed designator Daniele Orsato,..."
-    },
-    {
-      "id": "e8ee29c1bdb6",
-      "title": "Long vacation during international duty has benefits and dangers, warns fitness coach",
-      "url": "https://football-italia.net/long-vacation-international-duty-fitness-coach/",
-      "source": "football-italia.net",
-      "date": "2026-09-21T19:03:29+00:00",
-      "summary": "The three-week break for international duty is practically unheard of, so after Inter and Tottenham..."
     }
   ]
 }
