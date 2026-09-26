@@ -1,21 +1,213 @@
 {
-  "lastUpdated": "2026-09-26T14:05:32.413779+00:00",
+  "lastUpdated": "2026-09-26T18:18:56.816538+00:00",
   "articles": [
     {
-      "id": "741c7dece113",
-      "title": "ESCLUSIVA MN - Brambati: \"De Winter e Jashari devono alzare l'asticella e dimostrare di essere da Milan. Ramos criticato ma è un grande attaccante\"",
-      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-brambati-630758",
+      "id": "34786a617f47",
+      "title": "Nazionali, le formazioni ufficiali di Macedonia del Nord-Svizzera: Jashari e Athekame titolari",
+      "url": "https://www.milannews.it/news/formazione-svizzera-jashari-630965",
       "source": "milannews.it",
-      "date": "2026-09-26T14:00:00+00:00",
+      "date": "2026-09-26T18:12:59+00:00",
+      "summary": "Questa sera, tra le dieci partite in programma della UEFA Nations League, scenderà in campo anche la svizzera del rossonero Ardon Jashari."
+    },
+    {
+      "id": "cd480156102d",
+      "title": "Milan loanee Athekame builds on Lyon success with Switzerland debut",
+      "url": "https://sempremilan.com/milan-athekame-builds-switzerland-debut",
+      "source": "sempremilan.com",
+      "date": "2026-09-26T18:03:26+00:00",
+      "summary": "Zachary Athekame has been rewarded for the cracking start to the season with his debut for the Swiss national team, starting against North Macedonia tonight.  After playing a key role for the U21 team for quite some time, Athekame is now finally ready to make his debut for the senior side. The succe"
+    },
+    {
+      "id": "46478e7b4cef",
+      "title": "Milan, la fascia sinistra è ancora senza padrone. Estu titolare ma non convince appieno, Bartesaghi scalpita e Moreira...",
+      "url": "https://www.milannews.it/primo-piano/milan-fascia-sinistra-padrone-estu-titolare-convince-appieno-bartesaghi-scalpita-moreira-630983",
+      "source": "milannews.it",
+      "date": "2026-09-26T18:00:00+00:00",
+      "summary": "Il curioso caso di Pervis Estupinan, tra aspettative, percepito, errori e compiti in campo."
+    },
+    {
+      "id": "fcbd34d3faf3",
+      "title": "Lukebakio, dopo il gol al Milan arriva il gol all’Italia: “Io come Robben? Ci vuole rispetto”",
+      "url": "https://www.milannews.it/news/lukebakio-gol-milan-arriva-gol-all-italia-io-robben-vuole-rispetto-630969",
+      "source": "milannews.it",
+      "date": "2026-09-26T17:48:09+00:00",
+      "summary": "Dodi Lukebakio si è preso tutta la scena nel giro di pochi giorni."
+    },
+    {
+      "id": "5c71f43760d7",
+      "title": "Juventus, Alajbegovic: \"Vogliamo competere per lo scudetto\"",
+      "url": "https://www.milannews.it/news/alajbegovic-juve-vuole-competere-630959",
+      "source": "milannews.it",
+      "date": "2026-09-26T17:36:19+00:00",
+      "summary": "(ANSA) - TORINO, 26 SET - \"La Juventus è il club più grande d'Italia e siamo ambiziosi, ma non parlo di titoli: guardiamo di partita in partita, è ovvio che vogliamo competere per il titolo ma dobbiamo rimanere concentra ..."
+    },
+    {
+      "id": "76a5f2fce71e",
+      "title": "Croazia, Modric recuperato: è in campo con i compagni per la pitch inspection",
+      "url": "https://www.milannews.it/news/croazia-modric-recuperato-campo-compagni-pitch-inspection-630982",
+      "source": "milannews.it",
+      "date": "2026-09-26T17:23:57+00:00",
+      "summary": "Iniziano i preparativi all'Eden Arena di Praga: stasera, ore 20.45, si gioca Repubblica Ceca-Croazia, valida per la prima giornata del gruppo C di Nations League."
+    },
+    {
+      "id": "a76f59966424",
+      "title": "Ravezzani onesto: “Sorpreso dall’Italia? No, è lo specchio dei dirigenti e dei giocatori mediocri”",
+      "url": "https://www.milannews.it/news/ravezzani-onesto-sorpreso-dall-italia-no-specchio-dirigenti-giocatori-mediocri-630974",
+      "source": "milannews.it",
+      "date": "2026-09-26T17:12:03+00:00",
+      "summary": "Nel suo canale YouTube, il direttore di Telelombardia Fabio Ravezzani ha commentato la sconfitta dell'Italia per 2-0 contro il Belgio. Queste le sue parole."
+    },
+    {
+      "id": "300387ef9af3",
+      "title": "Roberto Carlos shock: “Delle persone mi hanno svuotato il conto in banca, ho perso il 99% di quello che avevo”",
+      "url": "https://www.milannews.it/news/roberto-carlos-shock-delle-svuotato-conto-banca-perso-99-avevo-630968",
+      "source": "milannews.it",
+      "date": "2026-09-26T17:00:07+00:00",
+      "summary": "Roberto Carlos, uno dei terzini più forti della storia del calcio, nel post carriera ha vissuto dei momenti molto difficili a livello personale che lo hanno segnato ampiamente."
+    },
+    {
+      "id": "0afd0c9d13b1",
+      "title": "MN - Brambati su Ramos: “Può fare 15/20 gol, ma Amorim deve metterlo in condizione”",
+      "url": "https://www.milannews.it/news/mn-brambati-ramos-puo-15-20-gol-amorim-metterlo-condizione-630962",
+      "source": "milannews.it",
+      "date": "2026-09-26T16:48:51+00:00",
       "summary": "In esclusiva per la redazione di MilanNews.it, Massimo Brambati, noto opinionista sportivo e procuratore sportivo è intervenuto così in merito ai temi legati alla stretta attualità del mondo rossonero."
     },
     {
-      "id": "894720ad45b7",
-      "title": "Cisse vuole essere importante anche in nazionale: \"Spero di trasmettere al gruppo quello che ho imparato al Milan\"",
-      "url": "https://www.milannews.it/news/cisse-vuole-importante-nazionale-spero-trasmettere-imparato-milan-630958",
+      "id": "c327852f6b7f",
+      "title": "“Beautiful to watch” – Cardinale’s gamble paying off as Milan clip makes the rounds",
+      "url": "https://sempremilan.com/beautiful-cardinales-gamble-milan-clip-rounds",
+      "source": "sempremilan.com",
+      "date": "2026-09-26T16:38:37+00:00",
+      "summary": "Gerry Cardinale hired Ruben Amorim as the new AC Milan head coach to offer more attractive football, and so far, the Rossoneri are moving in the right direction.  Milan were often criticised for the dull and pragmatic football last season, led by Massimiliano Allegri, who isn’t exactly known for Tik"
+    },
+    {
+      "id": "03dd98037171",
+      "title": "Nations League, il programma delle partite di oggi: occhi puntati su Inghilterra-Spagna",
+      "url": "https://www.milannews.it/news/nations-league-continua-giornata-partite-630964",
       "source": "milannews.it",
-      "date": "2026-09-26T13:48:35+00:00",
-      "summary": "Alphadjo Cisse è stato certamente una delle sorprese più belle dell'inizio di stagione del Milan: il giovane trequartista ha infatti già segnato due gol (contro Torino e Juventus) e ha ricevuto molto elogi anche da Ruben Amor ..."
+      "date": "2026-09-26T16:36:03+00:00",
+      "summary": "Continua la prima giornata della UEFA Nations League con altre dieci partite in programma. Di seguito tutti i match in programma."
+    },
+    {
+      "id": "e1f567f2c114",
+      "title": "Pellegatti sottolinea: “Da capire se Cardinale vuole una nuova figura a capo dell’area sportiva che attualmente manca”",
+      "url": "https://www.milannews.it/news/pellegatti-sottolinea-da-capire-cardinale-vuole-nuova-figura-capo-dell-area-sportiva-attualmente-man-630963",
+      "source": "milannews.it",
+      "date": "2026-09-26T16:24:51+00:00",
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato una voce che riguarda un eventuale arrivo in società di una figura che leghi la proprietà all'area sportiva."
+    },
+    {
+      "id": "243e0a14d2d8",
+      "title": "Ravezzani duro: “Italia-Belgio un massacro, un’umiliazione. Mancini mi lascia molto perplesso”",
+      "url": "https://www.milannews.it/news/ravezzani-duro-italia-belgio-massacro-un-umiliazione-mancini-lascia-perplesso-630972",
+      "source": "milannews.it",
+      "date": "2026-09-26T16:12:04+00:00",
+      "summary": "Nel suo canale YouTube, il direttore di Telelombardia Fabio Ravezzani ha commentato la sconfitta dell'Italia per 2-0 contro il Belgio. Queste le sue parole."
+    },
+    {
+      "id": "d23aca87c76f",
+      "title": "Report Van Dijk ‘will join Milan sooner or later’ as free agent from Liverpool in 2027",
+      "url": "https://football-italia.net/van-dijk-milan-sooner-or-later-liverpool-2027/",
+      "source": "football-italia.net",
+      "date": "2026-09-26T16:00:26+00:00",
+      "summary": "Virgil van Dijk ‘will come to Milan sooner or later,’ insists journalist Carlo Pellegatti, after..."
+    },
+    {
+      "id": "4f36ed131a98",
+      "title": "Capitolo infortuni, per ora Amorim ed il suo staff vanno alla grande. Ma ora arriva il primo banco di prova",
+      "url": "https://www.milannews.it/primo-piano/capitolo-infortuni-amorim-staff-vanno-grande-arriva-banco-prova-630976",
+      "source": "milannews.it",
+      "date": "2026-09-26T16:00:00+00:00",
+      "summary": "Nonostante ci sia quasi timore nell'affrontare l'argomento, spesso anche all'interno degli stessi club, - con la scaramanzia che a volte sfocia nel fastidio per l'aver fatto notare determinate cose - è sempre importante parlare ..."
+    },
+    {
+      "id": "a494a6e4a6c8",
+      "title": "Vladimirov to Pandolfi: Five Milan Futuro talents to keep an eye on this season",
+      "url": "https://sempremilan.com/vladimirov-pandolfi-milan-futuro-talents-eye",
+      "source": "sempremilan.com",
+      "date": "2026-09-26T15:51:29+00:00",
+      "summary": "AC Milan are sitting on some interesting names in their academy, all of which could follow in the footsteps of Francesco Camarda and Davide Bartesaghi.  The appointment of Ruben Amorim, as well as the overall shift in strategy, has confirmed that AC Milan are looking to focus more on their own produ"
+    },
+    {
+      "id": "aac12dcccd18",
+      "title": "MN - Brambati sottolinea: “Modric da affiancare ad uno con gamba, in tanti ancora devono dimostrare”",
+      "url": "https://www.milannews.it/news/mn-brambati-sottolinea-modric-affiancare-gamba-tanti-devono-dimostrare-630961",
+      "source": "milannews.it",
+      "date": "2026-09-26T15:48:26+00:00",
+      "summary": "In esclusiva per la redazione di MilanNews.it, Massimo Brambati, noto opinionista sportivo e procuratore sportivo è intervenuto così in merito ai temi legati alla stretta attualità del mondo rossonero."
+    },
+    {
+      "id": "064a0070ae1c",
+      "title": "Pellegatti sull'Head of Football: \"Oggi Markus Krosche è più lontano\"",
+      "url": "https://www.milannews.it/news/pellegatti-head-of-football-oggi-markus-krosche-lontano-630956",
+      "source": "milannews.it",
+      "date": "2026-09-26T15:36:00+00:00",
+      "summary": "Negli ultimi giorni Markus Krosche è un nome che è tornato a gravitare attorno all'orbita Milan."
+    },
+    {
+      "id": "a994bb28d3fc",
+      "title": "L'Italia rimane al lavoro a Roma, dopo il ko col Belgio testa alla Turchia",
+      "url": "https://www.milannews.it/news/nazionale-lavoro-roma-ko-belgio-testa-turchia-630951",
+      "source": "milannews.it",
+      "date": "2026-09-26T15:25:42+00:00",
+      "summary": "(ANSA) - ROMA, 26 SET - Giornata di allenamento e pensieri per l'Italia di Roberto Mancini dopo la pesante sconfitta contro il Belgio all'esordio in Nations League."
+    },
+    {
+      "id": "ba00c9a0d062",
+      "title": "Settore giovanile Milan: domani derby per la Primavera Femminile",
+      "url": "https://www.milannews.it/settore-giovanile/settore-giovanile-milan-domani-derby-primavera-femminile-630957",
+      "source": "milannews.it",
+      "date": "2026-09-26T15:13:55+00:00",
+      "summary": "Il sito ufficiale del Milan riporta il programma delle gare delle squadre del settore giovanile rossonero in questo weekend: \"Weekend concentrato interamente nella giornata di domenica per il Settore Giovanile rossonero, con tre partite di campi ..."
+    },
+    {
+      "id": "9cee8e089cfb",
+      "title": "L'Australia spaventa il Brasile di Ancelotti: ko evitato solo nel recupero",
+      "url": "https://www.milannews.it/news/australia-spaventa-brasile-ko-evitato-recupero-630945",
+      "source": "milannews.it",
+      "date": "2026-09-26T15:00:25+00:00",
+      "summary": "(ANSA) - ROMA, 25 SET - Un colpo di testa di Rayan in pieno recupero ha evitato al Brasile di Carlo Ancelotti un'imbarazzante sconfitta in un'amichevole disputata a Townsville, nel Queensland settentrionale, contro i padroni di casa dell' ..."
+    },
+    {
+      "id": "5c88e813c824",
+      "title": "Jashari, Modric and Musah: Midfield watch for Milan fans this evening",
+      "url": "https://sempremilan.com/jashari-modric-musah-midfield-watch-milan",
+      "source": "sempremilan.com",
+      "date": "2026-09-26T15:00:00+00:00",
+      "summary": "While there won’t be any AC Milan game to watch this evening, Rossoneri fans can at least enjoy three of the club’s midfielders in action.  The long international break has only just begun and it already feels like a while since we saw Ruben Amorim’s men on the pitch. The next game isn’t until Octob"
+    },
+    {
+      "id": "a711a12178de",
+      "title": "MN - Brambati: “Primo bilancio positivo, ma Amorim non mi convince ancora”",
+      "url": "https://www.milannews.it/news/mn-brambati-primo-bilancio-positivo-amorim-convince-ancora-630960",
+      "source": "milannews.it",
+      "date": "2026-09-26T14:48:10+00:00",
+      "summary": "In esclusiva per la redazione di MilanNews.it, Massimo Brambati, noto opinionista sportivo e procuratore sportivo è intervenuto così in merito ai temi legati alla stretta attualità del mondo rossonero."
+    },
+    {
+      "id": "40d3aa2addb8",
+      "title": "Pellegatti: \"Ho detto che prima o poi van Dijk arriverà: non era un nome tirato in aria tanto per dire\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pellegatti-ho-van-dijk-arrivera-tirato-aria-dire-630955",
+      "source": "milannews.it",
+      "date": "2026-09-26T14:36:40+00:00",
+      "summary": "Nel corso dell'estate c'è stato un periodo in cui il difensore olandese Virgil van Dijk è stato accostato al Milan."
+    },
+    {
+      "id": "82d987ccda1f",
+      "title": "Milan Femminile, alle 18 l'esordio in campionato: tutte le statistiche della sfida al Como 1907",
+      "url": "https://www.milannews.it/milan-femminile/milan-femminile-18-esordio-campionato-statistiche-sfida-como-1907-630949",
+      "source": "milannews.it",
+      "date": "2026-09-26T14:24:38+00:00",
+      "summary": "Di seguito le statistiche riportate dal sito del Milan in vista dell'esordio del Milan Femminile in Serie A Women oggi alle 18 sul campo del Como 1907:\n\n\"Quello tra Milan e Como 1907 sarà il 51° derby lombardo differente in Seri ..."
+    },
+    {
+      "id": "e82729369f1b",
+      "title": "MN: Milan’s summer attempt and Frankfurt’s doubts – all roads lead to Krösche",
+      "url": "https://sempremilan.com/milan-summer-frankfurt-doubts-roads-krosche",
+      "source": "sempremilan.com",
+      "date": "2026-09-26T14:20:00+00:00",
+      "summary": "Markus Krösche remains a strong contender in AC Milan’s pursuit of a Head of Football, especially given how things went down in the summer.  After sacking CEO Giorgio Furlani, sporting director Igli Tare, technical director Geoffrey Moncada, and head coach Max Allegri, Milan knew they were in for a "
     },
     {
       "id": "99364b43d558",
@@ -26,60 +218,12 @@
       "summary": "Every week, we send out our newsletter which takes a closer look at two topics, while also giving you the latest AC Milan match results and news.  Given how many reports there tend to be about Milan every day, albeit perhaps not as much now during the international break, it can be very hard to […]\n"
     },
     {
-      "id": "52167ac49515",
-      "title": "Pellegatti su Moreira: \"Che incredibile cambiamento da quello timido visto a Torino\"",
-      "url": "https://www.milannews.it/news/pellegatti-moreira-che-incredibile-cambiamento-timido-torino-630954",
-      "source": "milannews.it",
-      "date": "2026-09-26T13:36:58+00:00",
-      "summary": "Un'altra bella prestazione di Diego Moreira, questa volta da titolare e con la maglia del Belgio, dopo alcune buone partite giocate con il Milan."
-    },
-    {
-      "id": "7fb31690849c",
-      "title": "Per la prima volta Boban è stato fischiato da alcuni tifosi della Dinamo: i motivi",
-      "url": "https://www.milannews.it/gli-ex/boban-fischiato-tifosi-dinamo-motivi-630942",
-      "source": "milannews.it",
-      "date": "2026-09-26T13:24:51+00:00",
-      "summary": "Nella serata di ieri, come viene riportato da Sportske Novosti, il presidente della Dinamo Zagabria, l'ex calciatore e dirigente rossonero Zvonimir Boban, ha preso parte alla \"Notte Blu\" in quel di Citluk, in Bosnia Erzeg ..."
-    },
-    {
-      "id": "e7f2b04a9faa",
-      "title": "Ottima prova di Rabiot, la pagella de L'Equipe: \"Grande sicurezza e solidità\"",
-      "url": "https://www.milannews.it/news/ottima-prova-rabiot-pagella-de-equipe-grande-sicurezza-solidita-630946",
-      "source": "milannews.it",
-      "date": "2026-09-26T13:12:16+00:00",
-      "summary": "È andata bene la prima di Zinedine Zidane come CT della Francia."
-    },
-    {
-      "id": "ca6ad969d7e9",
-      "title": "Verso Sassuolo-Milan, tutte le info per l'acquisto dei biglietti nel settore ospiti",
-      "url": "https://www.milannews.it/news/sassuolo-milan-info-acquisto-biglietti-settore-ospiti-630947",
-      "source": "milannews.it",
-      "date": "2026-09-26T13:00:00+00:00",
-      "summary": "La stagione del Milan riprenderà tra 15 giorni, quando i rossoneri scenderanno in campo per la sesta giornata del campionato di Serie A Enilive."
-    },
-    {
       "id": "12d24ed00ed8",
       "title": "Watch: Maignan back to being magic with wonder save vs. Guler",
       "url": "https://sempremilan.com/maignan-back-magic-wonder-save-guler",
       "source": "sempremilan.com",
       "date": "2026-09-26T13:00:00+00:00",
       "summary": "Mike Maignan’s importance for AC Milan has been known for years, and with the French national team, he’s continuing to serve reminders of his talent. Last night, Maignan kept France in a game which they were expected to dominate. After a poor ending to the World Cup, Zinedine Zidane’s first game had"
-    },
-    {
-      "id": "70b337d347c8",
-      "title": "Domani Norvegia-Portogallo: i tifosi portoghesi vorrebbero Ramos titolare al posto di CR7",
-      "url": "https://www.milannews.it/news/domani-norvegia-portogallo-tifosi-portoghesi-vorrebbero-ramos-titolare-cr7-630953",
-      "source": "milannews.it",
-      "date": "2026-09-26T12:48:27+00:00",
-      "summary": "In vista della trasferta di domani del Portogallo in casa della Norvegia, valida per la Nations League, il quotiano portoghese A Bola ha aperto un sondaggio sul suo sito per chiedere ai suoi lettori chi vorrebbero in campo dal primo minuto."
-    },
-    {
-      "id": "9511339d522f",
-      "title": "Pellegatti: \"Moreira eccellente partita di grande personalità, serenità e sicurezza\"",
-      "url": "https://www.milannews.it/news/pellegatti-moreira-eccellente-partita-personalita-serenita-sicurezza-630952",
-      "source": "milannews.it",
-      "date": "2026-09-26T12:36:08+00:00",
-      "summary": "Ottima prova di Diego Moreira, ieri sera all'Olimpico con il suo Belgio contro l'Italia."
     },
     {
       "id": "4db49714e712",
@@ -90,52 +234,12 @@
       "summary": "AC Milan are expected to have a big season and more changes (and players) could arrive in the next few months. Before the summer mercato closed, there was already a feeling that Milan would be active in the January mercato and this has only been confirmed in recent weeks. However, it may not just be"
     },
     {
-      "id": "fd5a7e8545d1",
-      "title": "Milan Femminile, oggi l'esordio. Bakker: \"Squadra pronta a dare tutto\"",
-      "url": "https://www.milannews.it/milan-femminile/milan-femminile-esordio-bakker-squadra-pronta-dare-tutto-630948",
-      "source": "milannews.it",
-      "date": "2026-09-26T12:24:46+00:00",
-      "summary": "Nella giornata di oggi il Milan Femminile inizia la sua avventura in campionato. Oggi è partita la Serie A Women e la formazione rossonera di Suzanne Bakker sarà ospite alle ore 18 del Como 1907."
-    },
-    {
-      "id": "e1f62f9ce2ba",
-      "title": "Maignan tra i migliori in campo contro la Turchia: la pagella secondo L'Equipe",
-      "url": "https://www.milannews.it/news/maignan-migliori-campo-turchia-pagella-equipe-630943",
-      "source": "milannews.it",
-      "date": "2026-09-26T12:12:31+00:00",
-      "summary": "C'era grandissima attesa per l'esordio di Zinedine Zidane sulla panchina della Francia come nuovo CT."
-    },
-    {
-      "id": "25175f009c6f",
-      "title": "Moreira bene anche con il Belgio ma a sinistra continua a convincere di più",
-      "url": "https://www.milannews.it/primo-piano/moreira-belgio-sinistra-continua-convincere-630950",
-      "source": "milannews.it",
-      "date": "2026-09-26T12:00:00+00:00",
-      "summary": "Quasi due settimane dopo il suo ingresso in campo travolgente con il quale ha rimontato la Lazio con una doppietta in due minuti, il calciatore rossonero Diego Moreira è tornato allo stadio Olimpico, questa volta con la maglia del&nb ..."
-    },
-    {
       "id": "be2dd2e8d087",
       "title": "Tuttosport: Azzurini goals ‘scored in red and black’ – Milan youngsters send important messages",
       "url": "https://sempremilan.com/azzurini-goals-scored-red-and-black-milan-message",
       "source": "sempremilan.com",
       "date": "2026-09-26T12:00:00+00:00",
       "summary": "On Thursday, AC Milan saw their three young stars shine for the Azzurrini, scoring a third of the side’s 15 goals. When you saw that Italy’s Under-21 side had won 15-0 against Empoli’s Primavera, there were several positives to take from that. Your eyes would rightly be drawn to the scorers, too, wh"
-    },
-    {
-      "id": "84e65494568f",
-      "title": "Ulivieri assicura: \"La nostra posizione è di sostegno a Malagò\"",
-      "url": "https://www.milannews.it/news/figc-ulivieri-sostegno-totale-malago-630922",
-      "source": "milannews.it",
-      "date": "2026-09-26T11:48:40+00:00",
-      "summary": "(ANSA) - ROMA, 25 SET - L'eventuale commissariamento della Figc \"mi preoccupa, ma la nostra posizione è di sostegno a Malagò."
-    },
-    {
-      "id": "e86ff4877323",
-      "title": "Nigeria-Madagasar 2-1, Chukwueze in campo 61': il ct Chelle spiega perchè lo ha sostituito",
-      "url": "https://www.milannews.it/news/nigeria-madagasar-2-1-chukwueze-campo-61-ct-chelle-spiega-sostituito-630940",
-      "source": "milannews.it",
-      "date": "2026-09-26T11:36:14+00:00",
-      "summary": "La Nigeria ha battuto 2-1 il Madagascar nella gara valida per le qualificazioni alla Coppa D'Africa."
     },
     {
       "id": "46af07e476da",
@@ -146,44 +250,12 @@
       "summary": "Adrien Rabiot’s position this season has been interesting. In pre-season, it was suggested that he could be an attacking midfielder for AC Milan, but this may not be the way forward. It is clear that Rabiot possesses an immense amount of quality in a multitude of areas. After all, he can defend stro"
     },
     {
-      "id": "9611135ed27b",
-      "title": "Serie A Women, si riparte! Il programma della prima giornata",
-      "url": "https://www.milannews.it/milan-femminile/serie-women-riparte-programma-giornata-630938",
-      "source": "milannews.it",
-      "date": "2026-09-26T11:24:01+00:00",
-      "summary": "Come riferisce il sito della FIGC, questo weekend inizia la Serie A Women 2026-2027: \"Sarà la Serie A Women Athora che porta al Mondiale, con l’augurio che l’Italia possa centrare la qualificazione attraverso i playoff."
-    },
-    {
-      "id": "6a4d2c17fa11",
-      "title": "F.Inzaghi e l'esperienza sulla panchina del Milan: \"Nel calcio non c’è spazio per i rimpianti\"",
-      "url": "https://www.milannews.it/gli-ex/f-inzaghi-esperienza-panchina-milan-nel-calcio-c-e-spazio-rimpianti-630931",
-      "source": "milannews.it",
-      "date": "2026-09-26T11:12:37+00:00",
-      "summary": "Filippo Inzaghi, ex giocatore e allenatore rossonero e attuale tecnico del Palermo, ha rilasciato un'intervista al Corriere dello Sport nella quale ha commentato così le sue esperienze in Serie A sulle panchina di Milan, Bologna, Benevento ..."
-    },
-    {
-      "id": "1078b5af46e6",
-      "title": "Moreira promosso dalla Gazzetta: la sua pagella dopo Italia-Belgio",
-      "url": "https://www.milannews.it/news/moreira-promosso-gazzetta-pagella-italia-belgio-630941",
-      "source": "milannews.it",
-      "date": "2026-09-26T11:00:00+00:00",
-      "summary": "Il Belgio di Mark van Bommel ieri sera si è presentato all'Olimpico e ha dominato la nuova Italia di Mancini che, come era lecito aspettarsi, ha una lunga strada davanti a sè per provare a ritornare ai vertici de ..."
-    },
-    {
       "id": "8fa643cb1783",
-      "title": "Inzaghi admits Inter ‘above the rest’ but believes in Amorim: “Hope Milan get back into the fight”",
+      "title": "Inzaghi admits Inter are ‘above the rest’ but believes in Amorim: “Get back into the fight”",
       "url": "https://sempremilan.com/inzaghi-admits-inter-above-hope-milan",
       "source": "sempremilan.com",
       "date": "2026-09-26T11:00:00+00:00",
       "summary": "Filippo Inzaghi knows what it means to win, having experienced the highest of highs with AC Milan. However, they’re not at that level again yet. There are few players who know about the highs and lows of Milan like Inzaghi. As a player, he saw both sides, the highs of Athens and the lows of […]\nThe "
-    },
-    {
-      "id": "624d20fe2fc6",
-      "title": "Buonfiglio: \"Il sostegno delle componenti a Malagò? Il mondo sportivo si basa su regole\"",
-      "url": "https://www.milannews.it/news/figc-buonfiglio-sostegno-componenti-malago-sportivo-basa-regole-630920",
-      "source": "milannews.it",
-      "date": "2026-09-26T10:37:00+00:00",
-      "summary": "(ANSA) - ROMA, 25 SET - \"Il sostegno delle componenti a Malagò? E chi è che non lo sostiene? Ma noi viviamo in un mondo sportivo che è basato sulle regole che non mi invento io."
     },
     {
       "id": "efe4667e71b4",
@@ -192,30 +264,6 @@
       "source": "sempremilan.com",
       "date": "2026-09-26T10:30:00+00:00",
       "summary": "The summer mercato is still in recent memory, but AC Milan are already assessing moves for next year’s mercato… There are gaps in the Milan squad and the plan is to fix them at the first chance. It has been reported again that Goncalo Inacio is the big target, so it’s no surprise that others […]\nThe"
-    },
-    {
-      "id": "c39390f9a458",
-      "title": "De Vecchi apprezza il \"nuovo\" Cardinale: \"Ha soddisfatto le richieste di Amorim e finalmente si sta facendo vedere a Milano\"",
-      "url": "https://www.milannews.it/gli-ex/de-vecchi-apprezza-nuovo-cardinale-ha-soddisfatto-richieste-amorim-vedere-milano-630926",
-      "source": "milannews.it",
-      "date": "2026-09-26T10:25:33+00:00",
-      "summary": "Walter De Vecchi, ex giocatore rossonero, intervistato dalla Gazzetta dello Sport, ha parlato anche del nuovo Milan di Ruben Amorim."
-    },
-    {
-      "id": "67c12110abf6",
-      "title": "Falsi certificati Covid: dopo Xhaka la Svizzera esclude anche Embolo",
-      "url": "https://www.milannews.it/news/nations-league-falsi-certificati-covid-svizzera-xhaka-esclude-embolo-630919",
-      "source": "milannews.it",
-      "date": "2026-09-26T10:13:45+00:00",
-      "summary": "(ANSA) - ROMA, 25 SET - Dopo il capitano, Granit Xhaka, un altro giocatore della Svizzera, l'attaccante Breel Embolo, è stato escluso dalla nazionale in vista della sfide di Nations League per vicende relative alla falsificazione di certif ..."
-    },
-    {
-      "id": "e9b0397d2ee0",
-      "title": "Milan, torna di moda Krosche come Head of Football? Dalla trattativa saltata in estate al possibile ritorno di fiamma",
-      "url": "https://www.milannews.it/primo-piano/milan-torna-moda-krosche-head-of-football-trattativa-saltata-estate-possibile-ritorno-fiamma-630934",
-      "source": "milannews.it",
-      "date": "2026-09-26T10:00:51+00:00",
-      "summary": "Come scritto da Pietro Mazzara nel suo editoriale di lunedì su MilanNews e confermato nei giorni scorsi anche dall'esperto di mercato Matteo Moretto, il nome di Markus Krosche potrebbe presto tornare di moda a Casa Milan."
     },
     {
       "id": "5efbececcffd",
@@ -306,14 +354,6 @@
       "summary": "The dates and kick-off times for Serie A Week 12 to 19 have been announced,..."
     },
     {
-      "id": "ceace24e05c3",
-      "title": "Pellegatti preaches ‘patience’ over Camarda despite Chelsea and Spurs links",
-      "url": "https://sempremilan.com/pellegatti-preaches-patience-camarda-chelsea-spurs",
-      "source": "sempremilan.com",
-      "date": "2026-09-25T16:20:00+00:00",
-      "summary": "Carlo Pellegatti has insisted AC Milan must be patient with Francesco Camarda, despite the mounting interest and Ruben Amorim’s words. Camarda will always be a player that is spoken about a lot, given his reputation as one of the best young talents in Italy. On his YouTube channel, Carlo Pellegatti "
-    },
-    {
       "id": "8cee3411072a",
       "title": "Milan’s De Winter among five Belgium players dropped for Italy clash",
       "url": "https://football-italia.net/de-winter-dropped-for-italy-vs-belgium/",
@@ -322,44 +362,12 @@
       "summary": "Milan centre-back Koni De Winter is one of the five Belgium players who will not..."
     },
     {
-      "id": "81a797630c3a",
-      "title": "GdS: Rearguard leader to rarely-used sub – why Gabbia is playing less under Amorim",
-      "url": "https://sempremilan.com/why-gabbia-playing-less-under-amorim",
-      "source": "sempremilan.com",
-      "date": "2026-09-25T15:40:00+00:00",
-      "summary": "Matteo Gabbia was one of the leaders of the AC Milan defence last season, but Ruben Amorim has not used him so far. La Gazzetta dello Sport begin by pointing out that the ankle inflammation has been insidious and problematic, one of those annoying ailments that doesn’t require crutches but prevents "
-    },
-    {
-      "id": "3e1a612acb71",
-      "title": "Molina: Maldini, Mendes, Zlatan and Scheiner – the doubts about RedBird’s Milan",
-      "url": "https://sempremilan.com/molina-maldini-mendes-zlatan-cardinale-redbird-milan",
-      "source": "sempremilan.com",
-      "date": "2026-09-25T15:00:00+00:00",
-      "summary": "Romain Molina has published the explosive video that he promised which takes aim at Gerry Cardinale’s RedBird Capital fund. Molina has conducted in-depth investigations for The Guardian, The New York Times and the BBC in the past. He has shared a 25-minute video on his YouTube channel explaining the"
-    },
-    {
       "id": "6932b8c83f85",
       "title": "Shevchenko: ‘The real heroes defend our country, I’ve got my Ballon d’Or back now’",
       "url": "https://football-italia.net/shevchenko-the-real-heroes-defend-our-country/",
       "source": "football-italia.net",
       "date": "2026-09-25T14:44:51+00:00",
       "summary": "Andriy Shevchenko says that peace in Ukraine is his biggest wish on his 50th birthday,..."
-    },
-    {
-      "id": "22836ea554ac",
-      "title": "CorSport: Cardinale wants to give Amorim a defender – why Gabriel is still a possibility",
-      "url": "https://sempremilan.com/cardinale-amorim-defender-why-gabriel-possibility",
-      "source": "sempremilan.com",
-      "date": "2026-09-25T14:30:16+00:00",
-      "summary": "AC Milan are looking to strengthen their defence in the winter window, and Goncalo Inacio isn’t the only option. Milan tried but were unable to secure the arrival of another central defender after Mario Gila, with a late €40m bid to try get Goncalo Inacio ultimately proving unsuccessful as Sporting "
-    },
-    {
-      "id": "a7caf220329e",
-      "title": "Tuttosport: Reinstated but unused – the message Amorim has sent to Tomori",
-      "url": "https://sempremilan.com/reinstated-but-unused-amorim-message-tomori",
-      "source": "sempremilan.com",
-      "date": "2026-09-25T14:00:00+00:00",
-      "summary": "AC Milan made the decision to reinstate Fikayo Tomori into the squad, and yet his presence on the field remains to be seen. Milan were unable to secure the arrival of another central defender in the summer, something they tried to do right until the end, even reportedly bidding €40m to try get Gonca"
     },
     {
       "id": "bfe4aca49e0b",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-23T12:35:22+00:00",
       "summary": "Milan are seeking to create a Head of Football role and marked Markus Krosche for..."
-    },
-    {
-      "id": "effe58a1c239",
-      "title": "Milan close in on Pulisic and Pavlovic renewals until 2031",
-      "url": "https://football-italia.net/milan-close-in-on-pulisic-and-pavlovic/",
-      "source": "football-italia.net",
-      "date": "2026-09-23T11:50:00+00:00",
-      "summary": "Milan are moving to tie down two of Ruben Amorim’s key players, with new deals..."
     }
   ]
 }
