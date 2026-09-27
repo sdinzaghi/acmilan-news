@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-09-27T20:52:43.793823+00:00",
+  "lastUpdated": "2026-09-27T23:38:34.656109+00:00",
   "articles": [
+    {
+      "id": "92dc6123c401",
+      "title": "Terry elogia Maldini: \"E' stato un idolo per me, il migliore della mia generazione\"",
+      "url": "https://www.milannews.it/news/terry-elogia-maldini-e-idolo-me-migliore-generazione-631086",
+      "source": "milannews.it",
+      "date": "2026-09-27T22:48:00+00:00",
+      "summary": "John Terry, ex storico difensore del Chelsea e della Nazionale inglese è intervenuto così sul proprio profilo TikTok, partecipando ad un divertente gioco."
+    },
+    {
+      "id": "00f60e810c29",
+      "title": "Ordine vota il ritorno di Galliani: \"E' una risorsa per il calcio italiano...\"",
+      "url": "https://www.milannews.it/news/ordine-vota-ritorno-galliani-e-risorsa-calcio-italiano-631075",
+      "source": "milannews.it",
+      "date": "2026-09-27T22:36:00+00:00",
+      "summary": "Al contrario di tutto il pessimismo, forse giustificato, arrivato nel mondo Milan dopo la brutta figura in Europa League contro il Benfica, i rossoneri di Amorim hanno saputo rialzarsi vincendo e convincendo (cosa mai facile) nell'ultimo turno in ..."
+    },
+    {
+      "id": "ddfdb65e2fa6",
+      "title": "Milan, la statistica che lega Gonçalo Ramos a Bacca e Balotelli",
+      "url": "https://www.milannews.it/news/milan-statistica-lega-goncalo-ramos-bacca-balotelli-631079",
+      "source": "milannews.it",
+      "date": "2026-09-27T22:24:00+00:00",
+      "summary": "Questa lunga pausa per le Nazionali porta sicuramente a riflessioni, analisi e idee sul momento del Milan di Ruben Amorim."
+    },
+    {
+      "id": "54be9c38ea27",
+      "title": "Ex Milan, Gattuso orgoglioso della sua Lazio: \"Possiamo levarci tante soddisfazioni\"",
+      "url": "https://www.milannews.it/news/lazio-gattuso-andando-possiamo-levarci-tante-soddisfazioni-631076",
+      "source": "milannews.it",
+      "date": "2026-09-27T22:12:00+00:00",
+      "summary": "(ANSA) - ROMA, 27 SET - \"Se siamo dove siamo è perché c'è voglia di lavorare e soffrire. I complimenti per l'avvio di stagione? Bisogna farli ai ragazzi."
+    },
+    {
+      "id": "ebdddc195120",
+      "title": "Head of football: perché serve e perché può aiutare tanto. Bilancio 2026: rosso contenuto in arrivo",
+      "url": "https://www.milannews.it/editoriale/head-of-football-serve-aiutare-tanto-bilancio-2026-rosso-contenuto-arrivo-631073",
+      "source": "milannews.it",
+      "date": "2026-09-27T22:00:01+00:00",
+      "summary": "La pausa per le nazionali più lunga e noiosa di sempre, porta a fare dei ragionamenti su cosa stia mancando effettivamente al Milan in questo momento storico, specialmente a livello dirigenziale."
+    },
+    {
+      "id": "a40259dd29e4",
+      "title": "Nations League, incredibile Klopp: la sua Germania perde in casa contro la Grecia",
+      "url": "https://www.milannews.it/dall-estero/nations-league-crollo-germania-casa-grecia-631092",
+      "source": "milannews.it",
+      "date": "2026-09-27T21:48:14+00:00",
+      "summary": "(ANSA) - ROMA, 27 SET - Clamorosa sconfitta per la Germania che crolla in casa contro la Grecia nella seconda giornata di Nations League."
+    },
+    {
+      "id": "8b271edc87d7",
+      "title": "MN - Brambati striglia De Winter e Jashari: \"Devono dimostrare di essere da Milan\"",
+      "url": "https://www.milannews.it/news/mn-brambati-striglia-de-winter-jashari-devono-dimostrare-milan-631078",
+      "source": "milannews.it",
+      "date": "2026-09-27T21:36:11+00:00",
+      "summary": "Nell'intervista di ieri in esclusiva per MilanNews.it (leggi qui il pezzo integrale) il noto procuratore ed opinionista sportivo Massimo Brambati ha voluto toccare e analizzare diversi temi dell'attualità rossonera."
+    },
+    {
+      "id": "88f323aa9c52",
+      "title": "Milan, la classifica assist in questo inizio di stagione: Chukwueze decisivo",
+      "url": "https://www.milannews.it/news/milan-classifica-assist-inizio-stagione-chukwueze-decisivo-631081",
+      "source": "milannews.it",
+      "date": "2026-09-27T21:24:29+00:00",
+      "summary": "Durante questa lunga pausa per le Nazionali, ci potrebbero essere molti temi interessanti sul Milan e sul momento che la squadra di Ruben Amorim sta vivendo in questo inizio di stagione."
+    },
+    {
+      "id": "2d4ac2715fc3",
+      "title": "Figc sigla un nuovo accordo con Socar: \"Ecco il partner delle nazionali fino al 2030",
+      "url": "https://www.milannews.it/news/figc-sigla-accordo-socar-partner-nazionali-2030-631077",
+      "source": "milannews.it",
+      "date": "2026-09-27T21:12:04+00:00",
+      "summary": "(ANSA) - ROMA, 27 SET - Figc e Socar hanno siglato un accordo di cooperazione in base al quale la compagnia energetica nazionale dell'Azerbaigian sarà partner energetico globale delle nazionali italiane dall'1 gennaio 2027 al 31 dicemb ..."
+    },
+    {
+      "id": "731edfe82099",
+      "title": "Nations League, Gonçalo Ramos trascina il suo Portogallo: 2-1 sulla Norvegia",
+      "url": "https://www.milannews.it/news/nations-league-goncalo-ramos-trascina-portogallo-2-1-norvegia-631085",
+      "source": "milannews.it",
+      "date": "2026-09-27T21:00:23+00:00",
+      "summary": "Il Portogallo di Gonçalo Ramos vince all'esordio in Nations League e lo fa al termine di una grande partita contro la Norvegia."
+    },
+    {
+      "id": "ab666e3d18a8",
+      "title": "MN - Eranio ci crede: “In Europa squadre più attrezzate ma il Milan fa paura a tutti”",
+      "url": "https://www.milannews.it/news/mn-eranio-crede-in-europa-squadre-attrezzate-milan-paura-tutti-631056",
+      "source": "milannews.it",
+      "date": "2026-09-27T20:48:59+00:00",
+      "summary": "Stefano Eranio, ex centrocampista rossonero, è stato intervistato in esclusiva dalla redazione di MilanNews.it."
+    },
     {
       "id": "b1a0d02bc35b",
       "title": "Nations League: Mancini: \"Troppa agitazione, diamo tempo ai giovani\"",
@@ -82,46 +170,6 @@
       "summary": "Inter have moved ahead of Milan in the race for Paul Mendy, with the Cagliari..."
     },
     {
-      "id": "c59ccfe4f974",
-      "title": "MN - Eranio fiducioso: “Ramos? Ma che preoccupato, me lo tengo stretto. Deve essere aiutato di più”",
-      "url": "https://www.milannews.it/news/mn-eranio-631054",
-      "source": "milannews.it",
-      "date": "2026-09-27T18:48:32+00:00",
-      "summary": "Stefano Eranio, ex centrocampista rossonero, è stato intervistato in esclusiva dalla redazione di MilanNews.it."
-    },
-    {
-      "id": "8a35a2e4f1d2",
-      "title": "Carlos Cuesta non è più l'allenatore del Parma",
-      "url": "https://www.milannews.it/news/carlos-cuesta-allenatore-parma-631065",
-      "source": "milannews.it",
-      "date": "2026-09-27T18:36:53+00:00",
-      "summary": "(ANSA) - PARMA, 27 SET - Nonostante la vittoria nell'ultimo match contro il Genoa, Carlos Cuesta non sarà più alla guida del Parma."
-    },
-    {
-      "id": "7536750f17dd",
-      "title": "Stadi in Italia, Ceferin: \"Euro 2032 occasione giusta per migliorare il modello\"",
-      "url": "https://www.milannews.it/news/stadi-italia-ceferin-euro-2032-occasione-giusta-migliorare-modello-631047",
-      "source": "milannews.it",
-      "date": "2026-09-27T18:24:32+00:00",
-      "summary": "Il tema degli stadi e in generale delle infrastrutture calcistiche o sportive, in Italia, è una tematica molto attuale e dibattuta, ancora senza una reale soluzione."
-    },
-    {
-      "id": "f10ec70f7f9d",
-      "title": "Nations League, 70 minuti per Pavlovic: Serbia-Olanda 1-2",
-      "url": "https://www.milannews.it/news/risultato-serbia-olanda-pavlovic-631066",
-      "source": "milannews.it",
-      "date": "2026-09-27T18:12:12+00:00",
-      "summary": "Serbia e Olanda sono scese in campo alle 18:00 per giocare il loro secondo match valido per i gironi dell UEFA Nations League."
-    },
-    {
-      "id": "b887ff108890",
-      "title": "Nations League, Gonçalo Ramos parte titolare: le formazioni ufficiali di Norvegia-Portogallo",
-      "url": "https://www.milannews.it/news/formazioni-portogallo-goncalo-ramos-631059",
-      "source": "milannews.it",
-      "date": "2026-09-27T18:00:40+00:00",
-      "summary": "Nel gruppo 4 della UEFA Nations League si sfidano tra qualche minuto le due capoliste, il Portogallo e la Norvegia. Reduci entrambi da una vittoria, le due squadre si giocheranno la momentanea prima posizione in classifica."
-    },
-    {
       "id": "d201a50da4f6",
       "title": "Costacurta says Estupinan ‘cannot start’ for Milan amid mistakes: “Take a course”",
       "url": "https://sempremilan.com/costacurta-estupinan-cannot-start-milan-course",
@@ -130,60 +178,12 @@
       "summary": "Pervis Estupinan has been rather mistake-prone since joining AC Milan, and as stated by Billy Costascurta, he should remain on the bench until he knows what man-marking is.  When Theo Hernandez left Milan to join Al-Hilal in the summer of 2025, the Rossoneri decided to bring in Estupinan from Bright"
     },
     {
-      "id": "c5256461c620",
-      "title": "Pellegatti non ha dubbi: “Athekame sta facendo benissimo, giusto mandarlo in prestito. Speriamo ritorni a grandi livelli”",
-      "url": "https://www.milannews.it/news/pellegatti-dubbi-athekame-benissimo-giusto-mandarlo-prestito-speriamo-ritorni-grandi-livelli-631061",
-      "source": "milannews.it",
-      "date": "2026-09-27T17:48:04+00:00",
-      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha parlato del giovane terzino svizzero del Milan passato in prestito al Lione Zachary Athekame."
-    },
-    {
-      "id": "80450666d57d",
-      "title": "Ordine non ha dubbi: “Galliani sarebbe stato fondamentale, non inserirlo è stato incomprensibile”",
-      "url": "https://www.milannews.it/news/ordine-dubbi-galliani-fondamentale-inserirlo-incomprensibile-631068",
-      "source": "milannews.it",
-      "date": "2026-09-27T17:36:17+00:00",
-      "summary": "Nel canale YouTube del collega Andrea Longoni, Milan Hello, è stato ospite il noto giornalista Franco Ordine che, tra i vari temi, ha parlato anche dell'occasione Adriano Galliani. Queste le sue parole."
-    },
-    {
-      "id": "fc057a65ff46",
-      "title": "Modric gioisce: \"Una vittoria importante per dare il via alla Nations League!\"",
-      "url": "https://www.milannews.it/news/modric-gioisce-una-vittoria-importante-dare-via-nations-league-631063",
-      "source": "milannews.it",
-      "date": "2026-09-27T17:24:10+00:00",
-      "summary": "Gol, record, standing ovation, vittoria. Anche a 41 anni Luka Modric non smette di dimostrare a tutti che il suo livello rimane sempre molto alto."
-    },
-    {
-      "id": "3e0c23048f0d",
-      "title": "MN - Eranio sul modulo: “I numeri lasciano il tempo che trovano, Ramos è un po’ sacrificato”",
-      "url": "https://www.milannews.it/news/mn-eranio-631053",
-      "source": "milannews.it",
-      "date": "2026-09-27T17:12:47+00:00",
-      "summary": "Stefano Eranio, ex centrocampista rossonero, è stato intervistato in esclusiva dalla redazione di MilanNews.it."
-    },
-    {
-      "id": "85e97dce9efa",
-      "title": "Dalla Svizzera si chiedono il perché del prestito di Athekame, ma la scelta del Milan è stata intelligente",
-      "url": "https://www.milannews.it/primo-piano/svizzera-chiedono-prestito-athekame-scelta-milan-intelligente-631072",
-      "source": "milannews.it",
-      "date": "2026-09-27T17:00:42+00:00",
-      "summary": "La pagella di RSI, il sito della Radiotelevisione svizzera di lingua italiana, per Zachary Athekame ha posto un interrogativo che in molti hanno interpretato in modo negativo, quando invece ha molto più senso vederci tutti i risvolti positivi  ..."
-    },
-    {
       "id": "c541ea9ed354",
       "title": "Milan Women unlucky not to score late equaliser in Como defeat – the highlights",
       "url": "https://sempremilan.com/milan-women-unlucky-equaliser-como-highlights",
       "source": "sempremilan.com",
       "date": "2026-09-27T17:00:00+00:00",
       "summary": "AC Milan Women were incredibly unlucky not to score a late equaliser against Como last night, or not efficient enough depending on how you look at it.  The Rossonere kicked off their league campaign against Como on Saturday evening, hoping to bounce back after mixed results in the Serie A Women’s Cu"
-    },
-    {
-      "id": "3110fac11a7a",
-      "title": "Pellegatti convinto: “Modric, altro record! Rabiot è un campione nel suo ruolo, non servono più esperimenti”",
-      "url": "https://www.milannews.it/news/pellegatti-convinto-modric-record-rabiot-campione-ruolo-servono-esperimenti-631060",
-      "source": "milannews.it",
-      "date": "2026-09-27T16:48:17+00:00",
-      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha parlato dei giocatori impegnati con le rispettive nazionali ed ha sottolineato le prestazioni di Luka Modric e Adrien Rabiot. Di seguito le sue parole."
     },
     {
       "id": "dea47cf1cddc",
