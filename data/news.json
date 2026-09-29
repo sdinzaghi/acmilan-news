@@ -1,13 +1,301 @@
 {
-  "lastUpdated": "2026-09-29T11:05:15.806589+00:00",
+  "lastUpdated": "2026-09-29T17:37:33.965318+00:00",
   "articles": [
     {
-      "id": "680e2b2561ef",
-      "title": "Verso Euro 2032: il Comune Napoli stanzia 50 milioni per lo stadio Maradona",
-      "url": "https://www.milannews.it/news/euro-2032-comune-napoli-stanzia-50-stadio-maradona-631230",
+      "id": "cfc14bbe62e6",
+      "title": "Italia Femminile, le 28 convocate per i play-off mondiali: c'è anche una rossonera",
+      "url": "https://www.milannews.it/news/calcio-playoff-mondiali-donne-28-convocate-soncin-631237",
       "source": "milannews.it",
-      "date": "2026-09-29T11:00:47+00:00",
-      "summary": "(ANSA) - NAPOLI, 29 SET - Tutto pronto per la candidatura della città di Napoli con lo stadio Maradona per gli Europei di calcio del 2032."
+      "date": "2026-09-29T17:25:54+00:00",
+      "summary": "(ANSA) - ROMA, 29 SET - Quattro mesi dopo il girone di qualificazione al torneo iridato, chiuso al secondo posto alle spalle della Danimarca, la Nazionale femminile di mister Soncin torna in campo per affrontare la Bielorussia nel primo turno dei pla ..."
+    },
+    {
+      "id": "2a6924a0def7",
+      "title": "Shevchenko on Ancelotti’s Milan: ‘You could make two sides and play a final’",
+      "url": "https://football-italia.net/shevchenko-on-ancelottis-milan/",
+      "source": "football-italia.net",
+      "date": "2026-09-29T17:23:58+00:00",
+      "summary": "Andriy Shevchenko turned 50 on Tuesday, and marked it by looking back on the years..."
+    },
+    {
+      "id": "e15a1895cb57",
+      "title": "Trema il Manchester City, la Premier riconosce le violazioni: il comunicato",
+      "url": "https://www.milannews.it/dall-estero/trema-manchester-city-premier-riconosce-violazioni-comunicato-631259",
+      "source": "milannews.it",
+      "date": "2026-09-29T17:12:07+00:00",
+      "summary": "Una Commissione indipendente ha riconosciuto il Manchester City FC colpevole di tutti i capi d’imputazione relativi a gravi violazioni delle norme finanziarie della Premier League nell'arco di nove stagioni, oltre che della maggior parte de ..."
+    },
+    {
+      "id": "a173e0a93285",
+      "title": "Deiola operato al menisco: rischia di saltare Cagliari-Milan del 30 novembre",
+      "url": "https://www.milannews.it/news/cagliari-deiola-operato-menisco-almeno-mese-631199",
+      "source": "milannews.it",
+      "date": "2026-09-29T17:00:45+00:00",
+      "summary": "(ANSA) - CAGLIARI, 28 SET - Il capitano del Cagliari Alessandro Deiola è stato sottoposto oggi a un intervento chirurgico al menisco. Starà fuori per almeno un mese."
+    },
+    {
+      "id": "227bb2839331",
+      "title": "Pellegatti claims Milan will have Head of Football by October 10: “Figure is in place”",
+      "url": "https://sempremilan.com/pellegatti-claims-milan-head-of-football-october-10",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T17:00:00+00:00",
+      "summary": "News that AC Milan want to hire a new sporting director soon is not surprising. After all, this has been suggested heavily recently. In the past few days, maybe due to the international break, the talk surrounding Milan has largely revolved around the hiring of a new sporting director/Head of Footba"
+    },
+    {
+      "id": "c3caf17bd46f",
+      "title": "MN - Collovati: \"Ramos non è da 20-30 gol. Nelle ultime partite migliorato\"",
+      "url": "https://www.milannews.it/news/mn-collovati-ramos-20-30-gol-ultime-partite-migliorato-631252",
+      "source": "milannews.it",
+      "date": "2026-09-29T16:48:51+00:00",
+      "summary": "Tra i giocatori rossoneri più chiacchierati di questo avvio di stagione c'è senza dubbio anche Gonçalo Ramos."
+    },
+    {
+      "id": "0fef8687977d",
+      "title": "Malagò sull'Italia: \"La vittoria in Turchia è solo il primo passo, ma si vede la luce in fondo al tunnel\"",
+      "url": "https://www.milannews.it/news/malago-vittoria-turchia-passo-vede-luce-fondo-tunnel-631235",
+      "source": "milannews.it",
+      "date": "2026-09-29T16:36:47+00:00",
+      "summary": "(ANSA) - ROMA, 29 SET - \"Vincere in uno scenario climatico così complicato, con tutto lo stadio che spinge e con ragazzi ventenni, mi porta a dire che questo è solo il primo passo ma si vede la luce in fondo al tunnel\"."
+    },
+    {
+      "id": "0d2c4d491fe4",
+      "title": "Iaria annota: \"La principale nota lieta dal bilancio è sui ricavi caratteristici, meno legati dalla partecipazione alle competizioni Uefa\"",
+      "url": "https://www.milannews.it/news/iaria-annota-la-principale-nota-lieta-bilancio-ricavi-caratteristici-legati-partecipazione-competizi-631207",
+      "source": "milannews.it",
+      "date": "2026-09-29T16:24:42+00:00",
+      "summary": "Marco Iaria, giornalisti esperto di temi finanziari, si è così espresso su La Gazzetta dello Sport sulla nota del Milan di ieri: \"Dopo tre utili consecutivi, RedBird firma il primo bilancio in rosso: il Milan ha chiuso l’eser ..."
+    },
+    {
+      "id": "0fc942f38316",
+      "title": "Artist pledges to ‘redo’ Baresi mural: “I suggest to whoever vandalised it”",
+      "url": "https://sempremilan.com/artist-pledges-redo-baresi-mural",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T16:20:00+00:00",
+      "summary": "Yesterday, AC Milan fans woke to the news of Franco Baresi’s mural being vandalised and now the artist has had his say on the matter.  Losing someone like Baresi takes time to heal from and it can be questioned if you ever truly ‘get over’ a loss like that. The former defender was a legend […]\nThe p"
+    },
+    {
+      "id": "995cd414acc1",
+      "title": "Florentino Perez in tribunale: il Barcellona gli fa causa per diffamazione",
+      "url": "https://www.milannews.it/dall-estero/accuse-arbitri-barcellona-porta-perez-tribunale-diffamazione-631178",
+      "source": "milannews.it",
+      "date": "2026-09-29T16:12:00+00:00",
+      "summary": "(ANSA) - ROMA, 28 SET - La sfida tra Real Madrid e Barcellona arriva in tribunale."
+    },
+    {
+      "id": "b3d3171253f1",
+      "title": "Udinese, infortunio per Zaniolo: in dubbio col Milan?",
+      "url": "https://www.milannews.it/l-avversario/udinese-infortunio-zaniolo-dubbio-milan-631251",
+      "source": "milannews.it",
+      "date": "2026-09-29T16:00:48+00:00",
+      "summary": "L'Udinese ha comunicato degli aggiornamenti sulle condizioni di due sue calciatori: \n\n\"Udinese Calcio comunica che Idrissa Gueye, nel corso dell’amichevole contro il Pogon, ha riportato una distorsione alla caviglia."
+    },
+    {
+      "id": "5d64e8efde0f",
+      "title": "I 50 anni di Sheva: \"Per diventare un giocatore importante per il Milan tutti sanno che devi vincere la Champions. Volevo scrivere il mio nome nella storia del calcio\"",
+      "url": "https://www.milannews.it/primo-piano/50-sheva-per-giocatore-importante-milan-sanno-devi-vincere-champions-volevo-scrivere-storia-calcio-631257",
+      "source": "milannews.it",
+      "date": "2026-09-29T16:00:02+00:00",
+      "summary": "Oggi compie 50 anni Andriy Shevchenko, uno dei calciatori più forti e amati del recente passato rossonero."
+    },
+    {
+      "id": "4045263ac676",
+      "title": "MN - Collovati: \"Non mi esalto per il Lecce, non mi deprimo per il Benfica\"",
+      "url": "https://www.milannews.it/news/mn-collovati-non-esalto-lecce-deprimo-benfica-631250",
+      "source": "milannews.it",
+      "date": "2026-09-29T15:48:23+00:00",
+      "summary": "Il primo scorcio di stagione di Ruben Amorim sulla panchina del Milan è andato in maniera discreta."
+    },
+    {
+      "id": "a1acdb3e2425",
+      "title": "Two start, two not expected to – Milan have four representatives in two continents in action today",
+      "url": "https://sempremilan.com/milan-four-representatives-two-continents",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T15:40:00+00:00",
+      "summary": "Tonight, more AC Milan players will play their second games of the break, meaning we’re effectively at the halfway stage. Last week, the international break began and it means club football is half-way back. Milan’s game against Sassuolo is getting ever closer and players are now back in training ah"
+    },
+    {
+      "id": "e071923dcba9",
+      "title": "Chukwueze parte dalla panchina nella partita tra Guinea e Nigeria",
+      "url": "https://www.milannews.it/news/chukwueze-panchina-partita-guinea-nigeria-631256",
+      "source": "milannews.it",
+      "date": "2026-09-29T15:36:56+00:00",
+      "summary": "Dopo la titolarità nella sfida di qualche giorno fa contro il Madagascar, oggi Samuel Chukwueze parte dalla panchina nella sfida tra Nigeria e Guinea."
+    },
+    {
+      "id": "1e147aa78643",
+      "title": "Due fratelli insieme in campo e la dedica alla nonna: Pio Esposito racconta il gol alla Turchia",
+      "url": "https://www.milannews.it/news/nations-league-pio-esposito-ci-tenevo-segnare-dedicare-gol-nonna-631198",
+      "source": "milannews.it",
+      "date": "2026-09-29T15:24:06+00:00",
+      "summary": "(ANSA) - ROMA, 28 SET - \"Dedico il gol a mia nonna che sta passando delle giornate difficili e ci tenevo tanto a segnare per dedicare il gol a lei\". Parola di Pio Esposito ai microfoni Rai dopo la bella vittoria degli azzurri in Turchia."
+    },
+    {
+      "id": "46475cd068cb",
+      "title": "Letizia: \"A Milanello parlano molto bene di Diawara: mi aspetto che giochi ad ottobre\"",
+      "url": "https://www.milannews.it/news/letizia-a-milanello-parlano-diawara-aspetto-giochi-ottobre-631211",
+      "source": "milannews.it",
+      "date": "2026-09-29T15:12:24+00:00",
+      "summary": "Francesco Letizia, giornalista, si è così espresso sul suo canale Youtube sui giovani nella rosa di Ruben Amorim: \"È nell'ambito di questo filotto di partite di otttobre che mi aspetto di vedere finalmente i giovani, per ..."
+    },
+    {
+      "id": "8fda29b3a824",
+      "title": "Milan relief as Saelemaekers tests reveal sprained ankle",
+      "url": "https://football-italia.net/milan-relief-as-saelemaekers-tests-ankle/",
+      "source": "football-italia.net",
+      "date": "2026-09-29T15:01:50+00:00",
+      "summary": "Milan have avoided a serious injury to Alexis Saelemaekers, with scans ruling out anything beyond..."
+    },
+    {
+      "id": "2e061e9e0be5",
+      "title": "Infantino apre alla distribuzione di più fondi ai membri della FIFA",
+      "url": "https://www.milannews.it/news/calcio-infantino-apre-distribuzione-fondi-membri-fifa-631231",
+      "source": "milannews.it",
+      "date": "2026-09-29T15:00:30+00:00",
+      "summary": "(ANSA) - LONDRA, 29 SET - La cassaforte della Fifa potrebbe aprirsi ancora di più: Gianni Infantino ha indicato la disponibilità a distribuire ai 211 membri della federazione internazionale una quota maggiore delle riserve di liquidit&a ..."
+    },
+    {
+      "id": "25dd86a3b889",
+      "title": "MN - Collovati: \"Molte aspettative su Amorim perché il precedente allenatore non era molto amato\"",
+      "url": "https://www.milannews.it/news/mn-collovati-molte-aspettative-amorim-precedente-allenatore-amato-631248",
+      "source": "milannews.it",
+      "date": "2026-09-29T14:48:36+00:00",
+      "summary": "La stagione del Milan è iniziata in maniera generalmente positiva. I rossoneri si trovano a -2 dalla vetta in campionato, dove non hanno ancora perso dopo cinque partite."
+    },
+    {
+      "id": "7764f7d2b27d",
+      "title": "Official: Milan confirm Saelemaekers suffered ankle sprain during training after tests",
+      "url": "https://sempremilan.com/milan-confirm-saelemaekers-ankle-sprain",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T14:37:10+00:00",
+      "summary": "This afternoon, Alexis Saelemaekers suffered an injury in training and AC Milan have now provided an update on the situation.  In recent minutes, reports had suggested that Saelemaekers had suffered an ankle injury on the first day back at Milanello. It’s an unlucky one for the winger, who was set t"
+    },
+    {
+      "id": "a5fcfa7c21c5",
+      "title": "Il City sfida la Premier, 'Violazioni? La battaglia è ancora lunga'",
+      "url": "https://www.milannews.it/news/city-sfida-premier-violazioni-battaglia-lunga-631229",
+      "source": "milannews.it",
+      "date": "2026-09-29T14:37:03+00:00",
+      "summary": "(ANSA) - LONDRA, 29 SET - Otto anni non sono bastati e la battaglia del Manchester City con la Premier League è destinata a durare ancora a lungo: è il messaggio lanciato dal ceo Ferran Soriano ai dirigenti dei club europei riuniti a Co ..."
+    },
+    {
+      "id": "94237cb83069",
+      "title": "Costacurta: \"Ricordo che anche Sacchi all'inizio rischiò l'esonero: giusto dare tempo ad Amorim\"",
+      "url": "https://www.milannews.it/news/costacurta-ricordo-sacchi-inizio-rischio-esonero-giusto-dare-amorim-631222",
+      "source": "milannews.it",
+      "date": "2026-09-29T14:25:20+00:00",
+      "summary": "Alessandro Costacurta, opinionista, si è così espresso al Corriere della Sera su Ruben Amorim, allenatore del Milan: \"I primi due mesi sono difficili, ricordo che anche Sacchi all’inizio rischiò l’esonero, & ..."
+    },
+    {
+      "id": "453d78f12e36",
+      "title": "Reports: Saelemaekers suffers ankle injury as 12 return to Milanello ahead of Friday’s friendly",
+      "url": "https://sempremilan.com/saelemaekers-ankle-injury-12-return-milanello",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T14:20:00+00:00",
+      "summary": "The AC Milan players not representing their country returned to Milanello today, but there is unfortunately some unlucky news on their first day back. This morning, the team returned to training at Milanello to get ready for Friday’s game against Padova and 12 players reported, as MilanPress reporte"
+    },
+    {
+      "id": "62d320da1012",
+      "title": "MN - Saelemaekers, trauma distorsivo alla caviglia. Escluse lesioni ossee e danni capsulo-legamentosi",
+      "url": "https://www.milannews.it/primo-piano/mn-saelemaekers-trauma-distorsivo-caviglia-escluse-lesioni-ossee-danni-capsulo-legamentosi-631249",
+      "source": "milannews.it",
+      "date": "2026-09-29T14:14:59+00:00",
+      "summary": "Alexis Saelemaekers ha riportato un trauma distorsivo alla caviglia destra durante l’allenamento odierno. Apprende la redazione di MilanNews."
+    },
+    {
+      "id": "aca8d5e028c8",
+      "title": "Gozzini: \"La prova del campo rovescia il podio del mercato: Gila è primo per rendimento, seguito da Moreira e Ramos\"",
+      "url": "https://www.milannews.it/news/gozzini-la-prova-campo-rovescia-podio-mercato-gila-rendimento-moreira-ramos-631209",
+      "source": "milannews.it",
+      "date": "2026-09-29T14:12:21+00:00",
+      "summary": "Alessandra Gozzini, giornalista, si è così espressa su La Gazzetta dello Sport su Mario Gila, difensore del Milan: \"Mario Gila è stato il terzo acquisto più caro dell’estate: 30 milioni alla Lazio per il cartell ..."
+    },
+    {
+      "id": "cee8102535fb",
+      "title": "Quote Milan vincente Coppa Italia, le scommesse sui rossoneri",
+      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-milan-vincente-coppa-italia-le-scommesse-sui-rossoneri-574741",
+      "source": "milannews.it",
+      "date": "2026-09-29T14:10:00+00:00",
+      "summary": "Il Milan di Ruben Amorim sarà impegnato in questa stagione su tre fronti. Tornano le coppe europee che si aggiungono al campionato e alla Coppa Italia."
+    },
+    {
+      "id": "7dab67167a1c",
+      "title": "Taarabt: ‘I put my hands round Kaka’s neck at Milan, I lost my head’",
+      "url": "https://football-italia.net/taarabt-i-put-my-hands-round-kaka-neck/",
+      "source": "football-italia.net",
+      "date": "2026-09-29T13:40:39+00:00",
+      "summary": "Adel Taarabt has revisited his spell at Milan in a long interview, explaining why the..."
+    },
+    {
+      "id": "9f4836f5367a",
+      "title": "Vitiello: Milan need top four or ‘things will get complicated’ – what the accounts say",
+      "url": "https://sempremilan.com/vitiello-milan-need-top-four-things-get-complicated",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T13:40:00+00:00",
+      "summary": "Last season, AC Milan recorded a loss after three straight years of profits and Antonio Vitiello has looked at what must change. Recording a loss last season was not an issue for Milan really. They’ve not had a substantial turn around in finances and after their profit recordings, they’re only down "
+    },
+    {
+      "id": "8af306e4132d",
+      "title": "Pavlovic relief for Milan, but could miss Germany vs. Serbia",
+      "url": "https://football-italia.net/pavlovic-relief-for-milan-could-miss-germany/",
+      "source": "football-italia.net",
+      "date": "2026-09-29T13:16:46+00:00",
+      "summary": "Milan defender Strahinja Pavlovic is not suffering with a concerning injury, despite coming off early..."
+    },
+    {
+      "id": "87fc7a5bbfd3",
+      "title": "Fichajes: Juventus and Milan set to battle for Barcelona wing-back in January – the latest",
+      "url": "https://sempremilan.com/juventus-milan-battle-barcelona-wing-back-january",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T13:00:00+00:00",
+      "summary": "It seems AC Milan could sign a left-back in the January mercato, after a request from Ruben Amorim and an openness from Barcelona. Milan’s wing-back situation is certainly a little confusing. Samuel Chukwueze has perhaps been the best option on either side so far this season, but he’s far from a nat"
+    },
+    {
+      "id": "c23def48e291",
+      "title": "French media question Rabiot’s place after Da Cunha debut: ‘Something France lack’",
+      "url": "https://football-italia.net/french-media-question-rabiot-after-da-cunha/",
+      "source": "football-italia.net",
+      "date": "2026-09-29T12:32:27+00:00",
+      "summary": "Lucas Da Cunha could hardly have chosen a better night for his France debut, and..."
+    },
+    {
+      "id": "dc0a8db05f27",
+      "title": "Ronaldinho jokes 18 years after derby winner vs. Inter: “…but I remember the goal”",
+      "url": "https://sempremilan.com/ronaldinho-jokes-18-years-derby-winner-inter",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T12:30:00+00:00",
+      "summary": "It’s been 18 years since Ronaldinho scored *that* goal for AC Milan against Inter and the legend has looked back on it favourably. Goals in the derby always mean more. It was seen with Matteo Gabbia’s winner, someone born and raised on the lessons that Milanisti must win the Derby della Madonnina. H"
+    },
+    {
+      "id": "94572c76f730",
+      "title": "“I fell in love” – Totti admits that he would’ve joined Milan if Roma exit happened",
+      "url": "https://sempremilan.com/totti-admits-wouldve-joined-milan",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T12:00:00+00:00",
+      "summary": "Francesco Totti is one of the most loved players Italy have had and he could’ve played for AC Milan at several stages, it seems. Picturing Totti in a shirt other than Roma’s feels difficult, but it could well have happened. In another world, there’s perhaps a timeline that sees him not reaching the "
+    },
+    {
+      "id": "f33481340842",
+      "title": "Leao hits back at Italian media with Instagram comment: ‘Can’t leave me alone’",
+      "url": "https://football-italia.net/leao-hits-back-italian-media-leave-me-alone/",
+      "source": "football-italia.net",
+      "date": "2026-09-29T11:50:02+00:00",
+      "summary": "Rafael Leão joked that the Italian media ‘can’t leave me alone,’ reacting to an Instagram..."
+    },
+    {
+      "id": "930789d7dfdd",
+      "title": "CorSera: Emptying, roofing, demolishing, sorting – San Siro to be demolished in four stages",
+      "url": "https://sempremilan.com/san-siro-demolished-in-four-stages",
+      "source": "sempremilan.com",
+      "date": "2026-09-29T11:30:00+00:00",
+      "summary": "AC Milan are focused on the new San Siro, but it will also involve the demolition of the old stadium, which is appreciated across the world. There can be no denying it, San Siro is one of the most iconic venues in the world. Whether you’re a sports fan or not, you know or have […]\nThe post CorSera: "
+    },
+    {
+      "id": "3fd6787a94c6",
+      "title": "New San Siro: Milan and Inter urged to unveil stadium rendering",
+      "url": "https://football-italia.net/new-san-siro-milan-inter-urge-unveil-rendering/",
+      "source": "football-italia.net",
+      "date": "2026-09-29T11:16:15+00:00",
+      "summary": "Milan Mayor Beppe Sala urges Inter and Milan to unveil their new stadium rendering ‘very..."
     },
     {
       "id": "23fc114beae4",
@@ -18,52 +306,12 @@
       "summary": "AC Milan made the decision to sign Sankhoun Diawara in the summer, but he was not loaned out. Instead, he was chosen to stay with the first team. Signing a young defender is not the easiest thing to get right and Milan have seen as much. They need time and little pressure – if they’re […]\nThe post C"
     },
     {
-      "id": "fb41061f3abf",
-      "title": "Viviano convinto: \"Se Ramos avesse giocato queste sei partite con la Juve, avrebbe fatto cinque gol\"",
-      "url": "https://www.milannews.it/news/viviano-convinto-se-ramos-giocato-partite-juve-gol-631212",
-      "source": "milannews.it",
-      "date": "2026-09-29T10:49:03+00:00",
-      "summary": "Emiliano Viviano, ex portiere, si è così espresso a Cronache di Spogliatoio sulle prestazioni di Goncalo Ramos, attaccante del Milan, in gol con la nazionale portoghese nella seconda partita in Norvegia della Nations League in cors ..."
-    },
-    {
-      "id": "e56447323288",
-      "title": "Turchia, arrestato il presidente dell'associazione arbitri",
-      "url": "https://www.milannews.it/news/calcio-turchia-arrestato-presidente-associazione-arbitri-631223",
-      "source": "milannews.it",
-      "date": "2026-09-29T10:37:02+00:00",
-      "summary": "(ANSA) - ROMA, 29 SET - Il presidente degli arbitri in Turchia e altre sei persone sono state arrestate e poste sotto custodia. Lo ha riferito il ministro della Giustizia, dichiarando di \"lavorare per un calcio pulito\"."
-    },
-    {
       "id": "c75db4b8296b",
       "title": "GdS: Milan back into the red – why Cardinale plans to keep investing",
       "url": "https://sempremilan.com/milan-back-in-red-cardinale-plans-keep-investing",
       "source": "sempremilan.com",
       "date": "2026-09-29T10:30:00+00:00",
       "summary": "Yesterday, it was officially confirmed that AC Milan had ended last season in the red, but Gerry Cardinale will not change his new vision. Seeing that Milan ended the year in the red may bring on worries for some. However, there are things to support the loss and it has regularly accompanied reports"
-    },
-    {
-      "id": "01f5d5b261aa",
-      "title": "MN - Milanello, allenamento in corso senza i nazionali",
-      "url": "https://www.milannews.it/da-milanello/mn-milanello-allenamento-corso-nazionali-631228",
-      "source": "milannews.it",
-      "date": "2026-09-29T10:25:21+00:00",
-      "summary": "Dopo poco più di una settimana di \"riposo\", Ruben Amorim ha programmato per oggi la ripresa dei lavori a Milanello."
-    },
-    {
-      "id": "00ff4d3ae841",
-      "title": "La Fifa accusa la Uefa di fare disinformazione contro Infantino",
-      "url": "https://www.milannews.it/news/fifa-accusa-uefa-disinformazione-infantino-631219",
-      "source": "milannews.it",
-      "date": "2026-09-29T10:13:59+00:00",
-      "summary": "(ANSA) - ROMA, 29 SET - In una lettera inviata ad un tribunale della Florida, la Fifa accusa l'Uefa di aver orchestrato una \"campagna di disinformazione\" in merito al progetto, poi ritirato, di Gianni Infantino di aprire all'ingress ..."
-    },
-    {
-      "id": "6cd169732963",
-      "title": "Roma scatta, Milano aspetta. Nuovo San Siro: a ottobre il rendering, lavori al via la prossima estate",
-      "url": "https://www.milannews.it/primo-piano/roma-scatta-milano-aspetta-san-siro-ottobre-rendering-lavori-via-prossima-estate-631227",
-      "source": "milannews.it",
-      "date": "2026-09-29T10:00:00+00:00",
-      "summary": "Milan, Inter e Roma potrebbero avere presto un loro nuovo stadio di proprietà."
     },
     {
       "id": "4b671f807086",
@@ -74,52 +322,12 @@
       "summary": "AC Milan expected to see Adrien Rabiot starting for France last night in a crucial game against Belgium. However, the midfielder found himself as an unused substitute. In recent years, Rabiot has been a go-to in midfield for the French national team and when Zinedine Zidane started him in his first "
     },
     {
-      "id": "97603ebd35b9",
-      "title": "Ancora polemiche per Israele-Irlanda: il ct Hallgrimsson non spegne i fuochi",
-      "url": "https://www.milannews.it/news/ct-irlanda-abbiamo-attirato-attenzione-gaza-631203",
-      "source": "milannews.it",
-      "date": "2026-09-29T09:48:37+00:00",
-      "summary": "(ANSA) - DUBLINO, 28 SET - L'allenatore dell'Irlanda, Heimir Hallgrimsson, ha dichiarato che i suoi giocatori hanno \"contribuito ad attirare l'attenzione del mondo\" su Gaza, in particolare indossando fasce nere al braccio durant ..."
-    },
-    {
-      "id": "17fb75be9638",
-      "title": "Stasera Spagna-Croazia a Siviglia: il vicedirettore di AS chiede ai tifosi un grande applauso per Luka Modric",
-      "url": "https://www.milannews.it/news/stasera-spagna-croazia-siviglia-vicedirettore-as-chiede-tifosi-applauso-luka-modric-631226",
-      "source": "milannews.it",
-      "date": "2026-09-29T09:36:40+00:00",
-      "summary": "Stasera Luka Modric sarà impegnato con la sua Croazia a Siviglia contro la Spagna e il vicedirettore di AS, Tomas Roncero, ha invitato i tifosi che saranno presenti allo Stadio Ramón Sánchez Pizjuán a fare un grande applau ..."
-    },
-    {
       "id": "f6ac28953e2a",
       "title": "CorSport: Milan compose three-man defender shortlist – Kim and Inacio headlining",
       "url": "https://sempremilan.com/milan-compose-three-man-defender-shortlist",
       "source": "sempremilan.com",
       "date": "2026-09-29T09:30:00+00:00",
       "summary": "Yesterday, it was reported that Kim Min-Jae is a target for AC Milan, but he is not the only name shortlisted. It’s no secret at this point that Milan want a defender in January. In fact, this was known on the day after deadline day, with reports that the club had made a late (and […]\nThe post CorSp"
-    },
-    {
-      "id": "3a1c5746e974",
-      "title": "Un'altra cessione in piena stagione della Lazio: Patric saluta e va all'Al-Ittifaq",
-      "url": "https://www.milannews.it/news/patric-al-ittifaq-lascio-lazio-qui-631204",
-      "source": "milannews.it",
-      "date": "2026-09-29T09:24:49+00:00",
-      "summary": "(ANSA) - ROMA, 28 SET - La Lazio saluta Patric."
-    },
-    {
-      "id": "8ba3f77d5103",
-      "title": "Croazia, i convocati per la sfida contro la Spagna: c'è Modric. In 4 andranno in tribuna",
-      "url": "https://www.milannews.it/news/croazia-convocati-sfida-spagna-modric-4-andranno-tribuna-631224",
-      "source": "milannews.it",
-      "date": "2026-09-29T09:12:27+00:00",
-      "summary": "La Croazia di Luka Modric sarà impegnata questa sera a Siviglia contro la Spagna nella partita valida per la seconda giornata di Nations League."
-    },
-    {
-      "id": "6bb64139879f",
-      "title": "Andriy Shevchenko compie 50 anni. Il Milan lo celebra: \"Uno dei più grandi attaccanti di tutti i tempi\"",
-      "url": "https://www.milannews.it/news/andriy-shevchenko-compie-50-anni-milan-celebra-uno-grandi-attaccanti-tempi-631220",
-      "source": "milannews.it",
-      "date": "2026-09-29T09:00:19+00:00",
-      "summary": "Il 29 settembre è un giorno di festa in casa rossonera: si festeggiano i compleanni di Silvio Berlusconi e Andriy Shevchenko."
     },
     {
       "id": "95d5f3bc3ec0",
@@ -130,30 +338,6 @@
       "summary": "Rafael Leao’s exit was one of the biggest stories of the summer where AC Milan were involved. Indeed, it went down a different route than most expected. In recent years, there have been suggestions that Leao could leave Milan. During the Paulo Fonseca era, he reportedly gave his permission to his en"
     },
     {
-      "id": "4a7eec32b6c5",
-      "title": "Il Giornale: \"Milan, ricavi ok ma il bilancio torna in rosso\"",
-      "url": "https://www.milannews.it/news/giornale-milan-ricavi-ok-bilancio-torna-rosso-631225",
-      "source": "milannews.it",
-      "date": "2026-09-29T08:57:10+00:00",
-      "summary": "L'edizione odierna de Il Giornale in edicola oggi titola così: \"Milan, ricavi ok ma il bilancio torna in rosso\"."
-    },
-    {
-      "id": "a07d66174c54",
-      "title": "MN - Longoni: \"Ramos? Buono che sia generoso, però io voglio uno che faccia gol\"",
-      "url": "https://www.milannews.it/news/mn-longoni-ammette-ramos-generoso-voglio-gol-631174",
-      "source": "milannews.it",
-      "date": "2026-09-29T08:48:03+00:00",
-      "summary": "La redazione di MilanNews ha intervistato in esclusiva il giornalista di Telelombardia Andrea Longoni. Tanti i temi trattati, dalle ambizioni di questo Milan passando per l'importanza dei singoli come Gonçalo Ramos e Pulisic."
-    },
-    {
-      "id": "e1a099709f94",
-      "title": "Serafini durissimo: \"Il primo significativo passo avanti è essersi liberati di due deleteri (dis)turbatori\"",
-      "url": "https://www.milannews.it/news/serafini-durissimo-il-significativo-passo-essersi-liberati-deleteri-dis-turbatori-631214",
-      "source": "milannews.it",
-      "date": "2026-09-29T08:34:10+00:00",
-      "summary": "Nel corso del suo editoriale per MilanNews.it, il giornalista Luca Serafini si è così espresso sull'operato di Gerry Cardinale: \"Gerry Cardinale è più presente."
-    },
-    {
       "id": "aca418765a05",
       "title": "Maignan and Moreira start as France beat Belgium with late winner – how they fared",
       "url": "https://sempremilan.com/maignan-moreira-start-france-beat-belgium",
@@ -162,60 +346,12 @@
       "summary": "Last night, Belgium hosted France in the Nations League and there were four potential face-offs for AC Milan in Brussels. Belgium-France is one of the biggest group games of the current Nations League campaign. Alongside Italy in Group A, all three will be expected to qualify, so one team is set to "
     },
     {
-      "id": "ebc981d3c362",
-      "title": "Oggi Silvio Berlusconi avrebbe compiuto 90 anni. Il ricordo del Milan: \"Un nome che per sempre farà parte della nostra storia\"",
-      "url": "https://www.milannews.it/news/silvio-berlusconi-compiuto-90-anni-ricordo-milan-un-storia-631218",
-      "source": "milannews.it",
-      "date": "2026-09-29T08:22:16+00:00",
-      "summary": "Quella di oggi, 29 settembre, è una data sempre speciale per il Milan e i suoi tifosi che per tanto tempo hanno festeggiato il compleanno di Silvio Berlusconi, ex proprietario milanista che ha portato il Diavolo in vetta al mondo."
-    },
-    {
-      "id": "e361e68d548b",
-      "title": "Casa Milan, il murale di Baresi potrebbe essere rifatto da zero e più in grande",
-      "url": "https://www.milannews.it/news/casa-milan-murale-baresi-rifatto-zero-631205",
-      "source": "milannews.it",
-      "date": "2026-09-29T08:10:59+00:00",
-      "summary": "Non si placa l'indignazione, non solo tra i tifosi del Milan, per il vergognoso gesto di qualche persona ignobile che ha vandalizzato e rovinato il murale a Casa Milan dedicato a Franco Baresi, grande ex Capitano scomparso qualche mese fa."
-    },
-    {
       "id": "9bedb4d40d01",
       "title": "GdS: ‘Ramos recharged’ – how Amorim plans to unlock his goal scoring potential",
       "url": "https://sempremilan.com/ramos-recharged-how-amorim-plans-unlock-goals",
       "source": "sempremilan.com",
       "date": "2026-09-29T08:02:27+00:00",
       "summary": "Goncalo Ramos is one of the biggest additions in Serie A history and so far, AC Milan aren’t getting the most out of him.  It’s great to have a big-money striker who helps the system, but if that striker isn’t scoring goals, something needs to change. Ramos epitomises that quite well. Ruben Amorim’s"
-    },
-    {
-      "id": "13dd1313b7bf",
-      "title": "Come aiutare Ramos a fare gol anche nel Milan? Amorim in soccorso di Gonçalo: decisivo il lavoro degli esterni e dei trequartisti",
-      "url": "https://www.milannews.it/primo-piano/aiutare-ramos-gol-milan-amorim-soccorso-goncalo-decisivo-lavoro-esterni-trequartisti-631215",
-      "source": "milannews.it",
-      "date": "2026-09-29T08:00:16+00:00",
-      "summary": "Dopo il gol alla Norvegia con il Portogallo, si è riaperto il dibattito su Gonçalo Ramos e sulle difficoltà che sta trovando al Milan a fare gol."
-    },
-    {
-      "id": "a38eea98372c",
-      "title": "Totti rivela: \"Se avessi dovuto lasciare la Roma sarei andato volentieri al Milan. Da piccolo mi ero innamorato della squadra di Sacchi e dei tre olandesi\"",
-      "url": "https://www.milannews.it/rassegna-stampa/totti-rivela-se-dovuto-lasciare-roma-andato-volentieri-milan-piccolo-innamorato-squadra-sacchi-oland-631200",
-      "source": "milannews.it",
-      "date": "2026-09-29T07:35:13+00:00",
-      "summary": "Due giorni fa Francesco Totti ha compiuto 50 anni e per l'occasione ha rilasciato una lunga intervista al Corriere dello Sport nella quale ha parlato di tantissimi temi, tra cui anche ovviamente la sua gloriosa carriera."
-    },
-    {
-      "id": "79772a697e83",
-      "title": "Milan, approvato il bilancio 25-26. Gazzetta: \"Prima volta in rosso. Perdita di 24 milioni dopo tre utili di fila. Ma si investe ancora\"",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-approvato-bilancio-25-26-gazzetta-prima-rosso-perdita-24-utili-fila-investe-ancora-631197",
-      "source": "milannews.it",
-      "date": "2026-09-29T07:23:06+00:00",
-      "summary": "Ieri il Cda del Milan ha approvato il bilancio 2025-2026 e questa mattina La Gazzetta dello Sport titola così: \"Prima volta in rosso. Perdita di 24 milioni dopo tre utili di fila."
-    },
-    {
-      "id": "c9f1ca826115",
-      "title": "Kim tra il rinnovo con il Bayern Monaco e una nuova avventura. Milan (e non solo) alla finestra",
-      "url": "https://www.milannews.it/rassegna-stampa/kim-rinnovo-bayern-monaco-nuova-avventura-milan-e-solo-finestra-631196",
-      "source": "milannews.it",
-      "date": "2026-09-29T07:11:46+00:00",
-      "summary": "Il Milan, che cerca un nuovo difensore per gennaio, sta osservando con attenzione la situazione di Kim Min-jae al Bayern Monaco: come spiega stamattina il Corriere dello Sport, il difensore classe 1996 ha il contratto in scadenza nel 2028 e l'int ..."
     },
     {
       "id": "ca647ed2226a",
@@ -258,28 +394,12 @@
       "summary": "Youssouf Fofana was regularly a frustrating player for AC Milan. He had the ability, but too often he made mistakes that were below him. You could certainly make an argument that Fofana could still be a Milan player now, even if you ignored the drama on deadline day. The French midfielder could’ve c"
     },
     {
-      "id": "c64db6993006",
-      "title": "Sala pleads Milan and Inter to ‘show the rendering’ with guarantees needed: “Will be ready”",
-      "url": "https://sempremilan.com/sala-pleads-milan-inter-show-rendering-new-san-siro",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T16:20:00+00:00",
-      "summary": "Next month, the next step in building the new San Siro should be completed, with the rendering of the new stadium set to be released. Both Milan and Inter have had interesting starts to the season and talk of the new stadium has gone onto the back burner. Whilst not a problem, it appears that […]\nTh"
-    },
-    {
       "id": "6a2dfaae5c84",
       "title": "Only 28.2 per cent of Serie A playing time this season was for Italian talent",
       "url": "https://football-italia.net/only-28-2-percent-serie-a-playing-time-italian/",
       "source": "football-italia.net",
       "date": "2026-09-28T16:05:54+00:00",
       "summary": "In the first five rounds of the Serie A season, only 28.2 per cent of..."
-    },
-    {
-      "id": "50229c259387",
-      "title": "“Cardinale clearly understood” – Pellegatti praises Milan owner as Head of Football search continues",
-      "url": "https://sempremilan.com/pellegatti-praises-cardinale-head-of-football-search",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T15:40:00+00:00",
-      "summary": "In recent days, talk about a new Head of Football arriving at AC Milan has been prominent and it seems like it won’t slow down. For many, the need for a sporting director figure – or something of that ilk – is still a must. When the new management was announced, most were not convinced […]\nThe post "
     },
     {
       "id": "1d56dd55b1d4",
@@ -290,22 +410,6 @@
       "summary": "Goncalo Ramos was handed a start ahead of Cristiano Ronaldo in Oslo and repaid Jorge..."
     },
     {
-      "id": "3fb966c2252b",
-      "title": "Falk: Milan battling Aston Villa and Tottenham Hotspur for Kim but January move unlikely",
-      "url": "https://sempremilan.com/milan-battling-aston-villa-spurs-kim-min-jae",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T15:00:00+00:00",
-      "summary": "In recent months, it has been clear that AC Milan want to sign another central defender and one name is gaining traction quickly. Goncalo Inacio seems to be the name on everyone’s lips ahead of the January mercato and he would make sense. After all, Ruben Amorim has pleaded for him for several month"
-    },
-    {
-      "id": "d9642e060f2a",
-      "title": "GdS: Gila ‘already dominating San Siro’ – how he became Amorim’s go-to defender",
-      "url": "https://sempremilan.com/gila-dominating-san-siro-amorim-go-to-defender",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T14:20:00+00:00",
-      "summary": "When Mario Gila was first linked to AC Milan a few years ago, there was a lot of positivity about his potential arrival. Fans had to wait, but that positivity has now been proven right. In recent years, Milan have often looked at players for a while before making moves for them. Samuele Ricci is […]"
-    },
-    {
       "id": "378e40a79660",
       "title": "Milan, Tottenham and Aston Villa tracking Kim as Bayern weigh up former Napoli man’s future",
       "url": "https://football-italia.net/milan-tottenham-and-aston-villa-tracking-kim/",
@@ -314,60 +418,12 @@
       "summary": "Milan are among three clubs keeping tabs on Kim Min-jae, though any move depends entirely..."
     },
     {
-      "id": "f5d4e664fe90",
-      "title": "GdS: Ramos ‘beats Haaland’ and ‘sends Ronaldo to the bench’ – Milan man the real ‘phenomena’",
-      "url": "https://sempremilan.com/ramos-beats-haaland-sends-ronaldo-bench",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T13:40:00+00:00",
-      "summary": "In Norway’s game against Portugal, most expected the headlines to be written by the headliners, but AC Milan’s Goncalo Ramos proved himself in their company. Ramos went for an elite-striker fee in the summer, but most wouldn’t have him in that bracket. A striker who needs his team to support him; he"
-    },
-    {
       "id": "8c18db44df12",
       "title": "Inter legend Zenga defends Baresi after mural vandalism: ‘Franco is untouchable’",
       "url": "https://football-italia.net/inter-legend-zenga-defends-baresi/",
       "source": "football-italia.net",
       "date": "2026-09-28T13:20:00+00:00",
       "summary": "Walter Zenga has condemned the vandalism of Franco Baresi’s mural outside Casa Milan, arguing the..."
-    },
-    {
-      "id": "d79565306090",
-      "title": "Four face-off for Milan tonight as Belgium play France in Nations League",
-      "url": "https://sempremilan.com/four-milan-face-off-belgium-france-nations-league",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T13:00:00+00:00",
-      "summary": "Tonight, AC Milan will potentially see four of their players face off, as Belgium play France in the latest game of the UEFA Nations League. It’s been a good international break for Milan thus far. They’ve seen a few players contribute to big goals – with the latest coming last night – and there hav"
-    },
-    {
-      "id": "649a2aeb8bc6",
-      "title": "Tuttosport: Milan’s Board of Directors expected to meet shortly to confirm €25m loss",
-      "url": "https://sempremilan.com/milan-directors-expected-meet-confirm-25m-loss",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T12:30:00+00:00",
-      "summary": "AC Milan are expected to record a consolidated loss this year, and the board will meet shortly to finalise the accounts. Qualifying for the Champions League was a must for several reasons, but the most important is – and will always be – the financial aspect. It brings a huge purse which the Europa "
-    },
-    {
-      "id": "bc54f54e1598",
-      "title": "MN: Pulisic hoping to raise the bar at Milanello during international break – his return to being key",
-      "url": "https://sempremilan.com/pulisic-hoping-raise-bar-milanello-break",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T12:00:00+00:00",
-      "summary": "In recent months, Christian Pulisic has been subjected to more criticism than most at AC Milan. But he’s started the season fantastically. Being without a goal for Milan in 2026 was noticeably having an effect on Pulisic by the end of last season. It seemed like he couldn’t find the net, whatever he"
-    },
-    {
-      "id": "e02f3ac2be6b",
-      "title": "Tuttosport: Amorim cannot do without Rabiot as Milan plan 2030 extension",
-      "url": "https://sempremilan.com/amorim-cannot-do-without-rabiot-2030-extension",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T11:30:00+00:00",
-      "summary": "Adrien Rabiot’s importance to AC Milan doesn’t need any more proof and a renewal for another few years is a must for the club. With renewals currently a big topic, Rabiot’s name and his future have been discussed quite heavily and understandably so. After all, it’s tough to imagine a Milan team with"
-    },
-    {
-      "id": "b188aa0ec364",
-      "title": "MN: Pavlovic ‘left pitch with fatigue’ as Milan grateful to receive positive news",
-      "url": "https://sempremilan.com/pavlovic-left-pitch-fatigue-positive-news",
-      "source": "sempremilan.com",
-      "date": "2026-09-28T11:00:00+00:00",
-      "summary": "AC Milan, in recent moments, have received positive news about Strahinja Pavlovic’s condition after fears of an injury. Last night, fears emerged about the condition of Pavlovic after he was seen limping off the field against the Netherlands in the UEFA Nations League. With no reports coming instant"
     },
     {
       "id": "b7f882dd3c84",
@@ -424,62 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-25T18:03:39+00:00",
       "summary": "The Coppa Italia Round of 16 fixtures have been confirmed, ranging from December 1 to..."
-    },
-    {
-      "id": "ebdf027c6f7a",
-      "title": "Official Serie A dates and times for Week 12 to 19",
-      "url": "https://football-italia.net/official-serie-a-dates-times-for-week-12-to-19/",
-      "source": "football-italia.net",
-      "date": "2026-09-25T16:42:45+00:00",
-      "summary": "The dates and kick-off times for Serie A Week 12 to 19 have been announced,..."
-    },
-    {
-      "id": "8cee3411072a",
-      "title": "Milan’s De Winter among five Belgium players dropped for Italy clash",
-      "url": "https://football-italia.net/de-winter-dropped-for-italy-vs-belgium/",
-      "source": "football-italia.net",
-      "date": "2026-09-25T15:50:59+00:00",
-      "summary": "Milan centre-back Koni De Winter is one of the five Belgium players who will not..."
-    },
-    {
-      "id": "6932b8c83f85",
-      "title": "Shevchenko: ‘The real heroes defend our country, I’ve got my Ballon d’Or back now’",
-      "url": "https://football-italia.net/shevchenko-the-real-heroes-defend-our-country/",
-      "source": "football-italia.net",
-      "date": "2026-09-25T14:44:51+00:00",
-      "summary": "Andriy Shevchenko says that peace in Ukraine is his biggest wish on his 50th birthday,..."
-    },
-    {
-      "id": "bfe4aca49e0b",
-      "title": "Amorim apologised to Manchester United haircut guy with three-word message",
-      "url": "https://football-italia.net/amorim-apologises-man-utd-haircut-guy-3-words/",
-      "source": "football-italia.net",
-      "date": "2026-09-25T10:02:48+00:00",
-      "summary": "Frank Ilett, who has vowed not to cut his hair until Manchester United win five..."
-    },
-    {
-      "id": "5edbff27103c",
-      "title": "Van Bommel: ‘Always 4-3-3, Belgium and Italy in same situation, Milan hope’",
-      "url": "https://football-italia.net/van-bommel-always-4-3-3-belgium-italy-milan/",
-      "source": "football-italia.net",
-      "date": "2026-09-24T17:11:46+00:00",
-      "summary": "Mark van Bommel confirms Belgium will play with a classic Dutch 4-3-3 in the Nations..."
-    },
-    {
-      "id": "4dd68be9438e",
-      "title": "Frattesi, Lautaro and Malen among Serie A Player of the Month nominees",
-      "url": "https://football-italia.net/frattesi-lautaro-and-malen-serie-a-potm/",
-      "source": "football-italia.net",
-      "date": "2026-09-24T16:29:42+00:00",
-      "summary": "Six players have been shortlisted for September Serie A Player of the Month award, with..."
-    },
-    {
-      "id": "7760614383b2",
-      "title": "Ramos on Milan move: ‘The fans are incredible, I love feeling the support’",
-      "url": "https://football-italia.net/ramos-on-milan-move-the-fans/",
-      "source": "football-italia.net",
-      "date": "2026-09-24T15:27:34+00:00",
-      "summary": "Goncalo Ramos has spoken about his first months at Milan, and the moment that made..."
     }
   ]
 }
