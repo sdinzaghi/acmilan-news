@@ -1,6 +1,142 @@
 {
-  "lastUpdated": "2026-09-30T19:49:04.258723+00:00",
+  "lastUpdated": "2026-09-30T23:28:01.178819+00:00",
   "articles": [
+    {
+      "id": "80d926f7b51e",
+      "title": "Pellegatti ammette: \"Mi ha battuto un po’ il cuore quando ho visto entrare Leao col Portogallo\"",
+      "url": "https://www.milannews.it/news/pellegatti-ammette-mi-battuto-po-cuore-entrare-leao-portogallo-631366",
+      "source": "milannews.it",
+      "date": "2026-09-30T23:00:00+00:00",
+      "summary": "L'addio di Leao al Milan in estate è stato sicuramente \"strano\". Dopo tanti anni in rossonero ci si è salutati in modo probabilmente un po' brusco, soprattutto per le dichiarazioni di maggio e giugno del portoghese."
+    },
+    {
+      "id": "98b6a7463c46",
+      "title": "Pulisic-Milan, segnali incoraggianti: la statistica dell'americano dopo il gol contro il Lecce",
+      "url": "https://www.milannews.it/news/pulisic-milan-segnali-incoraggianti-statistica-americano-gol-lecce-631369",
+      "source": "milannews.it",
+      "date": "2026-09-30T22:48:42+00:00",
+      "summary": "Prosegue lentamente questa lunghissima sosta per le nazionali, e ovviamente spunti e idee di riflessioni sulle tematiche sul mondo Milan si sprecano. Tra queste, il momento di Christian Pulisic in rossonero non è da sottovalutare, anzi."
+    },
+    {
+      "id": "6a999a63da42",
+      "title": "MN - Testoni con coraggio: \"Pulisic e Moreira? Non vedo una lontananza così netta da ciò che sono stati Leao e Theo\"",
+      "url": "https://www.milannews.it/news/mn-testoni-coraggio-pulisic-moreira-631370",
+      "source": "milannews.it",
+      "date": "2026-09-30T22:36:23+00:00",
+      "summary": "Edoardo Testoni, noto telecronista di DAZN, intervistato da Milannews."
+    },
+    {
+      "id": "c7678fdef551",
+      "title": "Serie A, passi in avanti per il nuovo stadio del Bologna",
+      "url": "https://www.milannews.it/l-avversario/accordo-stadio-bologna-fenucci-servono-investitori-631368",
+      "source": "milannews.it",
+      "date": "2026-09-30T22:24:36+00:00",
+      "summary": "(ANSA) - BOLOGNA, 30 SET - Nuovo stadio, passi in avanti. Bolognafiere e Bologna calcio hanno sciolto le riserve sulla realizzazione dell'impianto."
+    },
+    {
+      "id": "65ccba2110da",
+      "title": "Manchester City nei guai? La stampa inglese parlerebbe di retrocessione",
+      "url": "https://www.milannews.it/dall-estero/manchester-city-stampa-britannica-soriano-battaglia-sanzioni-631365",
+      "source": "milannews.it",
+      "date": "2026-09-30T22:12:00+00:00",
+      "summary": "(ANSA) - ROMA, 30 SET - \"Going down?\", si chiede il Sun: \"Si va giù?\"."
+    },
+    {
+      "id": "5fd4f111f8fc",
+      "title": "La “lezione” inglese sul City, 1.4 mld di debiti: di chi sono? Amorim: dove deve giocare Moreira?",
+      "url": "https://www.milannews.it/editoriale/lezione-inglese-city-1-4-mld-debiti-sono-amorim-giocare-moreira-631338",
+      "source": "milannews.it",
+      "date": "2026-09-30T22:00:00+00:00",
+      "summary": "Perché dobbiamo leggere con attenzione quello che è successo in Premier league con il Manchester City? La risposta è scontata al di là delle semplificazioni che in questi casi contribuiscono solo a fare confusione."
+    },
+    {
+      "id": "c27fe5db016a",
+      "title": "MN - Testoni racconta Amorim: \"Allenatore intelligente con un modo tutto suo di comunicare e allenare\"",
+      "url": "https://www.milannews.it/news/mn-testoni-racconta-amorim-allenatore-intelligente-comunicare-allenare-631367",
+      "source": "milannews.it",
+      "date": "2026-09-30T21:48:35+00:00",
+      "summary": "Edoardo Testoni, noto telecronista di DAZN, intervistato da Milannews."
+    },
+    {
+      "id": "d067f6c979d0",
+      "title": "Nations League, lo spagnolo Manzano arbiterà Francia-Italia",
+      "url": "https://www.milannews.it/news/nations-league-spagnolo-manzano-arbitra-francia-italia-631364",
+      "source": "milannews.it",
+      "date": "2026-09-30T21:36:56+00:00",
+      "summary": "(ANSA) - ROMA, 30 SET - Sarà lo spagnolo Jesus Gil Manzano ad arbitrare Francia-Italia in programma venerdì prossimo allo 'Stade de France' di Parigi (ore 20.45) per la terza giornata di Nations League."
+    },
+    {
+      "id": "4cddc438fe14",
+      "title": "Grimshaw: “Tifosi per noi importantissimi, possiamo arrivare in Champions”",
+      "url": "https://www.milannews.it/milan-femminile/grimshaw-tifosi-importantissimi-possiamo-arrivare-champions-631361",
+      "source": "milannews.it",
+      "date": "2026-09-30T21:24:51+00:00",
+      "summary": "Nella settimana della partita tra Milan Woman e Juventus Woman, il capitano del Milan Christy Grimshaw ha risposto alle domande dei media durante la conferenza stampa verso il big match di domencia 4 ottobre. Queste le sue parole."
+    },
+    {
+      "id": "cc2335ca33de",
+      "title": "F. Galli sulle formazioni di Amorim: \"Vi posso assicurare per esperienza diretta che sentirsi coinvolti ti stimola ulteriormente a dare il meglio in allenamento\"",
+      "url": "https://www.milannews.it/news/f-galli-formazioni-amorim-vi-posso-assicurare-esperienza-diretta-che-sentirsi-coinvolti-stimola-ulte-631317",
+      "source": "milannews.it",
+      "date": "2026-09-30T21:12:17+00:00",
+      "summary": "Nel corso del suo editoriale per MilanNews.it, l'ex calciatore Filippo Galli si è così espresso sulle scelte di Amorim: \"Torniamo ad Amorim e al suo talvolta incomprensibile turnover."
+    },
+    {
+      "id": "ac27ac7614c2",
+      "title": "Raspadori fuori 15 giorni. Il 18 ottobre c'è Milan-Atalanta",
+      "url": "https://www.milannews.it/news/calcio-atalanta-distrazione-coscia-raspadori-15-631362",
+      "source": "milannews.it",
+      "date": "2026-09-30T21:00:59+00:00",
+      "summary": "(ANSA) - ROMA, 30 SET - L'Atalanta non avrà a disposizione Giacomo Raspadori alla ripresa di campionato lunedì 12 ottobre a Bergamo col Venezia e probabilmente anche col Pafos in Conference League tre giorni dopo."
+    },
+    {
+      "id": "58090a271bd9",
+      "title": "MN - Testoni sorpreso da Moreira: \"Ha fatto vedere lampi e giocate di grande qualità\"",
+      "url": "https://www.milannews.it/news/mn-testoni-sorpreso-moreira-hha-vedere-lampi-giocate-qualita-631347",
+      "source": "milannews.it",
+      "date": "2026-09-30T20:48:43+00:00",
+      "summary": "Edoardo Testoni, noto telecronista di DAZN, intervistato da Milannews."
+    },
+    {
+      "id": "af887f84b9cb",
+      "title": "Cristiano Ronaldo: \"A tempo debito dirò ai portoghesi perché ho lasciato la nazionale\"",
+      "url": "https://www.milannews.it/news/cristiano-ronaldo-debito-diro-portoghesi-nazionale-631372",
+      "source": "milannews.it",
+      "date": "2026-09-30T20:36:00+00:00",
+      "summary": "(ANSA) - LISBONA, 30 SET - \"Al momento giusto dirò a tutti i portoghesi le ragioni che mi hanno spinto a lasciare la nazionale, a cui mi sono sempre dedicato\"."
+    },
+    {
+      "id": "cf4bd7eae308",
+      "title": "Grimshaw verso la juve: “Sappiamo cosa dobbiamo fare, cerco di aiutare sempre le mie compagne”",
+      "url": "https://www.milannews.it/milan-femminile/grimshaw-juve-sappiamo-dobbiamo-fare-cerco-aiutare-compagne-631358",
+      "source": "milannews.it",
+      "date": "2026-09-30T20:24:15+00:00",
+      "summary": "Nella settimana della partita tra Milan Woman e Juventus Woman, il capitano del Milan Christy Grimshaw ha risposto alle domande dei media durante la conferenza stampa verso il big match di domencia 4 ottobre. Queste le sue parole."
+    },
+    {
+      "id": "f1a886aa72ec",
+      "title": "Milan Femminile, domenica la gara casalinga contro la Juventus: biglietti in vendita",
+      "url": "https://www.milannews.it/milan-femminile/milan-femminile-domenica-gara-casalinga-juventus-biglietti-vendita-631348",
+      "source": "milannews.it",
+      "date": "2026-09-30T20:12:53+00:00",
+      "summary": "Il sito ufficiale del Milan riporta tutte le informazioni sulla vendita dei biglietti per il match di domenica pomeriggio del Milan Femminile che ospterà la Juventus alle 15 al Puma House of Football: \"Subito un grande appuntamento per la ..."
+    },
+    {
+      "id": "4ff54281beee",
+      "title": "Footy Headlines anticipa di un nuovo importante accordo di Adidas con una squadra italiana. Sarà il Milan?",
+      "url": "https://www.milannews.it/news/footy-headlines-anticipa-importante-accordo-adidas-squadra-italiana-milan-631371",
+      "source": "milannews.it",
+      "date": "2026-09-30T19:59:55+00:00",
+      "summary": "Nel pomeriggio Footy Headlines, portale specializzato nelle anticipazioni per tutto quello che riguarda il mondo dei kit calcistici, ha pubblicato una storia esclusiva su Adidas: la compagnia tedesca è ormai prossima ad annunciare un important ..."
+    },
+    {
+      "id": "2b497bab894c",
+      "title": "Il CT de La Fuente lancia Yamal per il Pallone d'Oro: \"Spagnoli meritano riconoscenza\"",
+      "url": "https://www.milannews.it/news/de-fuente-lancia-yamal-pallone-oro-calciatori-spagna-meritano-riconoscenza-631335",
+      "source": "milannews.it",
+      "date": "2026-09-30T19:49:29+00:00",
+      "summary": "(ANSA) - ROMA, 30 SET - \"Credo che il calcio debba riconoscenza ai giocatori spagnoli: la Spagna ha meritato in questi anni piu' di un Pallone d'Oro, con Xavi e Iniesta\": il ct dei campioni del mondo, Luis De La Fuente, ha lanciato  ..."
+    },
     {
       "id": "5c0013720a12",
       "title": "Il Manchester City ha annunciato il ricorso contro la sentenza della Premier League",
@@ -26,44 +162,12 @@
       "summary": "Come riporta il sito ufficiale del Milan, è stato aperta una votazione per scegliere il miglior giocatore del Milan del mese di settembre: \"Settembre va in archivio con un bilancio positivo per il Milan, ancora imbattuto in questo avvio d ..."
     },
     {
-      "id": "88aac391042b",
-      "title": "MN - Testoni e i dubbi su Jashari: \"Ha bisogno di continuità. Oggi al Milan...\"",
-      "url": "https://www.milannews.it/news/mn-testoni-dubbi-jashari-ha-bisogno-continuita-milan-631344",
-      "source": "milannews.it",
-      "date": "2026-09-30T19:00:00+00:00",
-      "summary": "Nell'intervista rilasciata a Milannews."
-    },
-    {
-      "id": "dd93f4204d07",
-      "title": "Pronostico Danimarca-Portogallo, Ramos con la selezione ha ritrovato il gol",
-      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-danimarca-portogallo-631247",
-      "source": "milannews.it",
-      "date": "2026-09-30T18:45:00+00:00",
-      "summary": "Campionato fermo, occhi solo sulle partite delle Nazionali. Seconda settimana di pausa e terza giornata di UEFA Nations League con in programma."
-    },
-    {
       "id": "b6f6746d816a",
       "title": "Portugal chaos as Conceicao injured, Ramos starts, but report Ronaldo storms out",
       "url": "https://football-italia.net/portugal-conceicao-injured-ronaldo-storms-out/",
       "source": "football-italia.net",
       "date": "2026-09-30T18:16:56+00:00",
       "summary": "Juventus winger Francisco Conceicao is injured and Milan’s Goncalo Ramos will start against Denmark, but..."
-    },
-    {
-      "id": "30a9acc8ce67",
-      "title": "Scandalo City, Guardiola: \"Sarò sempre al fianco del mio club\"",
-      "url": "https://www.milannews.it/news/scandalo-city-guardiola-fianco-club-631341",
-      "source": "milannews.it",
-      "date": "2026-09-30T18:12:12+00:00",
-      "summary": "(ANSA) - LONDRA, 30 SET - Pep Guardiola rompe il silenzio sul caso Manchester City, ribadendo il proprio sostegno al club dopo la sentenza della Premier League sulle violazioni delle regole finanziarie."
-    },
-    {
-      "id": "22ef4a83a10b",
-      "title": "Grimshaw carica per la Juve: “Possiamo batterle, siamo motivate. Io so che questa squadra può arrivare in Champions”",
-      "url": "https://www.milannews.it/milan-femminile/grimshaw-carica-juve-possiamo-batterle-motivate-so-squadra-arrivare-champions-631354",
-      "source": "milannews.it",
-      "date": "2026-09-30T18:00:00+00:00",
-      "summary": "Nella settimana della partita tra Milan Woman e Juventus Woman, il capitano del Milan Christy Grimshaw ha risposto alle domande dei media durante la conferenza stampa verso il big match di domencia 4 ottobre. Queste le sue parole."
     },
     {
       "id": "ec96d18f6d2d",
@@ -74,52 +178,12 @@
       "summary": "It’s no secret that AC Milan want to hire a Head of Football, but what is a bit more secretive is who they actually want.  In the summer, it was clear that Milan wanted Krösche and when the German didn’t arrive, they referred to internal hires as the solution. However, by the end of the […]\nThe post"
     },
     {
-      "id": "adff1736c50d",
-      "title": "Verso Euro 2032: la FIGC ha trasmesso alla UEFA i dossier di 13 città (c'è anche Milano) e 14 stadi",
-      "url": "https://www.milannews.it/news/euro-2032-figc-trasmesso-uefa-dossier-13-c-milano-14-stadi-631363",
-      "source": "milannews.it",
-      "date": "2026-09-30T17:47:26+00:00",
-      "summary": "LA FIGC ha inviato alla UEFA i dossier delle sedi che potrebbero ospitare le partite degli Europei 2032 e tra queste c'è anche Milano: \"Entro i termini previsti della UEFA, la FIGC ha inviato oggi i dossier delle sedi ritenute idonee  ..."
-    },
-    {
-      "id": "6d914bd585b1",
-      "title": "Domani il Meet&Greet con Pulisic a San Siro. Info e come partecipare",
-      "url": "https://www.milannews.it/news/domani-meet-greet-pulisic-san-siro-info-partecipare-631346",
-      "source": "milannews.it",
-      "date": "2026-09-30T17:35:00+00:00",
-      "summary": "Il Milan ha annunciato una nuova occasione di Meet&Greet per i tifosi rossoneri. Domani alle ore 17, presso lo store del Milan di San Siro, alcuni tifosi avranno la fortuna di salutare Christian Pulisic."
-    },
-    {
       "id": "6ec159319c07",
       "title": "Updated EURO 2032 list of potential host stadiums cuts two projects",
       "url": "https://football-italia.net/updated-euro-2032-list-potential-host-stadiums/",
       "source": "football-italia.net",
       "date": "2026-09-30T17:30:55+00:00",
       "summary": "The FIGC has sent UEFA the dossier of 13 cities and 14 stadiums for Italy..."
-    },
-    {
-      "id": "3b1c509dc2b9",
-      "title": "Iaria fa i conti: \"Grazie anche al ricco player trading, il fatturato del Milan si è mantenuto a quota 465 milioni\"",
-      "url": "https://www.milannews.it/news/iaria-conti-grazie-ricco-player-trading-fatturato-milan-mantenuto-quota-465-milioni-631304",
-      "source": "milannews.it",
-      "date": "2026-09-30T17:24:43+00:00",
-      "summary": "Marco Iaria, giornalista sportivo esperto di temi finanziari, si è così espresso su La Gazzetta dello Sport sul bilancio del Milan: \"Il primo bilancio in rosso per Gerry Cardinale. E non poteva essere altrimenti."
-    },
-    {
-      "id": "553fc2e060cf",
-      "title": "Italia U21, il ct Baldini verso l'Armenia: \"Pensiamo a noi stessi e alla nostra prestazione'",
-      "url": "https://www.milannews.it/news/euro-u21-baldini-armenia-pensiamo-prestazione-631340",
-      "source": "milannews.it",
-      "date": "2026-09-30T17:12:33+00:00",
-      "summary": "(ANSA) - ROMA, 30 SET - \"Pensiamo a noi stessi e alla nostra prestazione. I ragazzi devono sentirsi liberi e divertirsi\"."
-    },
-    {
-      "id": "756bf734a75e",
-      "title": "Criscitiello chiaro: \"Il nome di Galliani è stato fatto per bruciarne la candidatura\"",
-      "url": "https://www.milannews.it/news/criscitiello-chiaro-il-galliani-bruciarne-candidatura-631314",
-      "source": "milannews.it",
-      "date": "2026-09-30T17:00:25+00:00",
-      "summary": "Michele Criscitiello, giornalista, si è così espresso nel suo editoriale per Sportitalia sul caos nella Figc per la candidatura di Malagò: \"Malagò era una figura che i vecchi del calcio non volevano poi ha ricevuto il ..."
     },
     {
       "id": "cc6b0659e659",
@@ -130,30 +194,6 @@
       "summary": "AC Milan could see players called up from the Futuro for the game against Sassuolo next weekend, due to Alexis Saelemaekers’ injury. There are plenty of interesting young players in the Futuro set-up and Milan could make use of them in the near future. In fact, it could be the game against Sassuolo "
     },
     {
-      "id": "83128dd41433",
-      "title": "MN - Testoni esalta Modric: \"Ha un'intelligenza calcistica fuori dal comune, uno come lui va tenuto sempre in campo\"",
-      "url": "https://www.milannews.it/news/mn-testoni-esalta-modric-ha-intelligenza-calcistica-comune-tenuto-campo-631343",
-      "source": "milannews.it",
-      "date": "2026-09-30T16:48:00+00:00",
-      "summary": "Ai microfoni di Milannews."
-    },
-    {
-      "id": "26673fa9942f",
-      "title": "Milan, oggi allenamento congiunto a Milanello con il Milan Futuro",
-      "url": "https://www.milannews.it/da-milanello/milan-allenamento-congiunto-milanello-milan-631360",
-      "source": "milannews.it",
-      "date": "2026-09-30T16:35:24+00:00",
-      "summary": "Dopo aver ripreso ieri gli allenamenti, il Milan, senza ovviamente i 15 giocatori convocati in nazionale e Alexis Saelemaekers che si è infortunato alla caviglia, ha lavorato anche oggi a Milanello."
-    },
-    {
-      "id": "1f917a0797fb",
-      "title": "Portogallo, domani Ramos sarà titolare. Il CT: \"Gonçalo giocherà\"",
-      "url": "https://www.milannews.it/news/portogallo-domani-ramos-titolare-ct-goncalo-giochera-631359",
-      "source": "milannews.it",
-      "date": "2026-09-30T16:23:43+00:00",
-      "summary": "In Portogallo il \"caso\" CR7 ha tenuto banco per gli ultimi due giorni, con il campione ex Real che avrebbe mostrato segni palesi di insofferenza per non essere entrato in campo nell'ultima sfida di Nations League contro la Norvegia."
-    },
-    {
       "id": "687ec71d78ad",
       "title": "Il Giorno: Gabbia working to return to prominence – why minutes are guaranteed in October",
       "url": "https://sempremilan.com/gabbia-working-return-to-prominence-october",
@@ -162,52 +202,12 @@
       "summary": "Matteo Gabbia’s minutes have been limited so far this season and there have been a few reasons for this. However, he should return to prominence for AC Milan soon. It seems weird that Gabbia’s season is really beginning – or going to begin – in the middle of October. Of course, he had a few […]\nThe "
     },
     {
-      "id": "9c541b388077",
-      "title": "Francia, Koné elogia Maignan: \"Grande portiere e leader del Milan. È difficile fargli gol\"",
-      "url": "https://www.milannews.it/news/francia-kone-elogia-maignan-grande-portiere-leader-milan-difficile-fargli-gol-631353",
-      "source": "milannews.it",
-      "date": "2026-09-30T16:12:18+00:00",
-      "summary": "Manu Koné, centrocampista della Roma e della Francia, è intervenuto oggi in conferenza stampa e ha parlato anche del suo compagni di squadra in nazionale, Mike Maignan, portiere e capitano del Milan: \"È un grande portiere, c ..."
-    },
-    {
-      "id": "67cd830c8e58",
-      "title": "Milan, sul taccuino due giovani del Granada. Uno seguito, l'altro... per caso",
-      "url": "https://www.milannews.it/primo-piano/milan-taccuino-giovani-granada-seguito-altro-631355",
-      "source": "milannews.it",
-      "date": "2026-09-30T16:00:00+00:00",
-      "summary": "Il 12 settembre, mentre il Milan rimontava due gol alla Lazio all’Olimpico con Moreira scatenato, un emissario rossonero si trovava in Spagna, destinazione Granada, con un obiettivo preciso: visionare da vicino Dylan Rodriguez, centrocampista c ..."
-    },
-    {
-      "id": "7b836e6bdb7b",
-      "title": "MN - Testoni su Amorim: \"Curioso di vedere come gestirà Modric\"",
-      "url": "https://www.milannews.it/news/mn-testoni-amorim-curioso-vedere-gestira-modric-631345",
-      "source": "milannews.it",
-      "date": "2026-09-30T15:48:29+00:00",
-      "summary": "Edoardo Testoni, noto telecronista di DAZN, intervistato da Milannews.it, ha detto la sua sul calcio di Ruben Amorim e sui nuovi acquisti estivi del Milan: \n\nIl calcio di Amorim\n\"Credo sia una persona e un allenatore molto intelligente."
-    },
-    {
       "id": "5755c6964aba",
       "title": "“I hope Modric stays” – Pellegatti makes plea to Milan maestro to renew on one condition",
       "url": "https://sempremilan.com/pellegatti-please-milan-maestro-renew-one-condition",
       "source": "sempremilan.com",
       "date": "2026-09-30T15:40:00+00:00",
       "summary": "Carlo Pellegatti has made a plea to Luka Modric to stay with AC Milan for another year on one condition that can be achieved this season. It seems likely that this will be Modric’s last season of professional football. He was considering stopping his duties with the national team and it was the proj"
-    },
-    {
-      "id": "05d258b5002a",
-      "title": "Nuovi stadi, ecco anche il Bologna: \"Obiettivo primavera 2031\"",
-      "url": "https://www.milannews.it/news/stadi-bologna-obiettivo-primavera-2031-631352",
-      "source": "milannews.it",
-      "date": "2026-09-30T15:35:11+00:00",
-      "summary": "Anche il Bologna è tra le squadre italiane che costruiranno un nuovo impianto."
-    },
-    {
-      "id": "3df2d042b6b2",
-      "title": "Under 21, tra poco Repubblica Ceca-Bulgaria: il rossonero Vladimirov in campo dal 1'",
-      "url": "https://www.milannews.it/news/under-21-repubblica-ceca-bulgaria-rossonero-vladimirov-campo-1-631351",
-      "source": "milannews.it",
-      "date": "2026-09-30T15:23:27+00:00",
-      "summary": "Oggi c'è solo un giocatore del Milan che scenderà in campo con la sua nazionale, vale a dire Valeri Vladimirov, difensore classe 2008 del Milan Futuro che in estate si è messo in mostra anche con la prima squadra di Ruben Amo ..."
     },
     {
       "id": "64e0f605620b",
