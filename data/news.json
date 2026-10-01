@@ -1,6 +1,190 @@
 {
-  "lastUpdated": "2026-10-01T18:00:34.893161+00:00",
+  "lastUpdated": "2026-10-01T22:59:16.994408+00:00",
   "articles": [
+    {
+      "id": "f2b55c883102",
+      "title": "Milan, gli impegni della Prima Squadra Femminile nel mese di ottobre",
+      "url": "https://www.milannews.it/milan-femminile/milan-impegni-squadra-femminile-mese-ottobre-631429",
+      "source": "milannews.it",
+      "date": "2026-10-01T22:48:29+00:00",
+      "summary": "Il sito ufficiale del Milan riporta tutti gli impegni di ottobre della Prima Squadra Femminile rossonera: \"Ottobre, mese pienamente in autunno in cui le giornate si accorciano in quanto a luce solare."
+    },
+    {
+      "id": "da18ae25270e",
+      "title": "Mancini ammette: \"Squadra multietnica? Il mondo è cambiato da tanto, ora tocca all'Italia\"",
+      "url": "https://www.milannews.it/news/mancini-squadra-multietnica-cambiato-tanto-tocca-italia-631462",
+      "source": "milannews.it",
+      "date": "2026-10-01T22:36:31+00:00",
+      "summary": "(ANSA) - SAINT-DENIS, 01 OTT - Molte le domande a Roberto Mancini dai giornalisti, soprattutto francesi, in merito al \"nuovo corso\" della nazionale, arricchita da elementi con doppio passaporto e sulla strada della nazionale \"multicult ..."
+    },
+    {
+      "id": "c283cc8ff9f4",
+      "title": "Klopp sul caso Man City: \"Nessuna festa per il titolo in caso di sanzioni al City\"",
+      "url": "https://www.milannews.it/dall-estero/premier-klopp-festa-sanzioni-city-631441",
+      "source": "milannews.it",
+      "date": "2026-10-01T22:24:28+00:00",
+      "summary": "(ANSA) - ROMA, 01 OTT - Nessuna festa, nessuna parata sul bus scoperto, Jürgen Klopp non sembra interessato a un eventuale titolo assegnato a tavolino al Liverpool qualora le sanzioni contro il Manchester City dovessero modificare gli albi d' ..."
+    },
+    {
+      "id": "635e32cd1051",
+      "title": "Zidane: \"Non so cosa sia successo all'Italia, è strano tre volte fuori dal Mondiale\"",
+      "url": "https://www.milannews.it/news/zidane-so-succede-italia-strano-mondiale-631456",
+      "source": "milannews.it",
+      "date": "2026-10-01T22:12:38+00:00",
+      "summary": "(ANSA) - SAINT-DENIS, 01 OTT - Alla prima domanda che gli fanno su cosa sta succedendo alla nazionale italiana, fuori per tre volte consecutive dai Mondiali, Zinedine Zidane si fa trascinare e comincia a rispondere in italiano: \"Non so che succe ..."
+    },
+    {
+      "id": "3d51f0d96343",
+      "title": "Una sosta insopportabile. Salvate Camarda! Nazionale figlia di una FIGC senza spina dorsale. Il saluto a Stefano ha unito tutti",
+      "url": "https://www.milannews.it/editoriale/sosta-insopportabile-salvate-camarda-nazionale-figlia-figc-spina-dorsale-saluto-stefano-unito-631467",
+      "source": "milannews.it",
+      "date": "2026-10-01T22:00:01+00:00",
+      "summary": "Non si può stare 3 settimane senza campionati e coppe europee a causa di un'altra competizione per le Nazionali: è cervellotico, inutile, deleterio per i club e per l'attenzione."
+    },
+    {
+      "id": "7fcd705fa02a",
+      "title": "Germania-Serbia 2-0: meno di mezz'ora in campo per Pavlovic",
+      "url": "https://www.milannews.it/news/germania-serbia-2-0-mezz-campo-pavlovic-631471",
+      "source": "milannews.it",
+      "date": "2026-10-01T21:48:52+00:00",
+      "summary": "Prima vittoria della Germania di Klopp, che supera 2-0 una Serbia sempre troppo modesta. I tedeschi smuovono la classifica del Gruppo 2 di Nations League, mentre la Serbia rimane tristemente a 0."
+    },
+    {
+      "id": "c7601a9c06cb",
+      "title": "Gonçalo Ramos: \"Gol di punta? Lo faccio spesso in allenamento. CR7? Non ci ha influenzato\"",
+      "url": "https://www.milannews.it/news/goncalo-ramos-gol-punta-allenamento-cr7-influenzato-631473",
+      "source": "milannews.it",
+      "date": "2026-10-01T21:35:39+00:00",
+      "summary": "Gonçalo Ramos, probabilmente stasera l'MVP con un gol e un assist, ha parlato a Sky Sport al termine di Danimarca-Portogallo di Nations League."
+    },
+    {
+      "id": "167cd05271f1",
+      "title": "Cisse decisivo con l'Italia U21, Baldini: \"Non vincere stasera sarebbe stata un'ingiustizia\"",
+      "url": "https://www.milannews.it/news/baldini-vincere-ingiustizia-631460",
+      "source": "milannews.it",
+      "date": "2026-10-01T21:24:00+00:00",
+      "summary": "(ANSA) - ROMA, 01 OTT - \"Non vincere questa partita sarebbe stata un'ingiustizia. Dopo due legni, un calcio di rigore sbagliato, altre palle che abbiamo concretizzato."
+    },
+    {
+      "id": "cd3fe9592f6f",
+      "title": "MN - Pulisic su Cardinale: \"Sta lavorando bene, è sempre lì. Ci dice che abbiamo sempre il suo supporto\"",
+      "url": "https://www.milannews.it/news/mn-pulisic-cardinale-sta-lavorando-bene-li-supporto-631452",
+      "source": "milannews.it",
+      "date": "2026-10-01T21:12:00+00:00",
+      "summary": "In occasione del Meet&Greet con i tifosi rossoneri presso il Milan Store di San Siro, Christian Pulisic ha riposto alle domande dei giornalisti presenti per l’evento. Queste le sue dichiarazioni raccolte dall’inviato di MilanNews."
+    },
+    {
+      "id": "db1983b2abbd",
+      "title": "Nazionali, Gonçalo Ramos ancora decisivo: il suo Portogallo s'impone 4-2 sulla Danimarca",
+      "url": "https://www.milannews.it/news/nazionali-goncalo-ramos-decisivo-portogallo-s-impone-4-2-danimarca-631468",
+      "source": "milannews.it",
+      "date": "2026-10-01T21:00:00+00:00",
+      "summary": "Un’altra prova positiva per Gonçalo Ramos con il suo Portogallo, vittorioso nella terza giornata di Nations League questa sera in casa delle Danimarca."
+    },
+    {
+      "id": "679c7811537a",
+      "title": "MN - La pagella di Gonçalo Ramos. Gol, assist e grande cuore: 7.5",
+      "url": "https://www.milannews.it/news/mn-pagella-goncalo-ramos-gol-assist-cuore-7-5-631465",
+      "source": "milannews.it",
+      "date": "2026-10-01T20:47:23+00:00",
+      "summary": "Un palo, un assist, un gol, un paio di occasioni sprecati ed il solito grande lavoro al servizio per la squadra: Gonçalo Ramos continua a fare benissimo con il Portogallo."
+    },
+    {
+      "id": "d7d3c29f3c13",
+      "title": "Sneijder a sorpresa: \"Avrei voluto essere allenato da Ancelotti\"",
+      "url": "https://www.milannews.it/news/triplete-inter-sogno-allenato-ancelotti-wesley-sneijder-racconta-631457",
+      "source": "milannews.it",
+      "date": "2026-10-01T20:36:53+00:00",
+      "summary": "(ANSA) - ROMA, 01 OTT - Il nuovo contenuto esclusivo targato Betsson.sport vede protagonista uno degli eroi del Triplete nerazzurro: Wesley Sneijder."
+    },
+    {
+      "id": "5b20256beb3b",
+      "title": "Milan Futuro, gli impegni di ottobre della squadra di Navarro",
+      "url": "https://www.milannews.it/milan-futuro/milan-futuro-impegni-ottobre-squadra-navarro-631430",
+      "source": "milannews.it",
+      "date": "2026-10-01T20:24:55+00:00",
+      "summary": "Il sito ufficiale del Milan riporta tutti gli impegni di ottobre del Milan Futuro di mister Navarro: \"Ottobre, mese pienamente in autunno in cui le giornate si accorciano in quanto a luce solare."
+    },
+    {
+      "id": "fc3ac27851a5",
+      "title": "Serie A, il caso non esiste: archiviata l'indagine FIGC per Rocchi",
+      "url": "https://www.milannews.it/news/arbitri-archiviata-indagine-figc-rocchi-631455",
+      "source": "milannews.it",
+      "date": "2026-10-01T20:12:37+00:00",
+      "summary": "(ANSA) - ROMA, 01 OTT - La Procura federale della Figc, apprende l'ANSA, ha chiuso con l'archiviazione l'indagine nei confronti dell'ex designatore degli arbitri Gianluca Rocchi."
+    },
+    {
+      "id": "8dda748b9570",
+      "title": "Il gol più bello segnato in carriera? Menez non ha dubbi: \"Quello di tacco in Parma-Milan, fece il giro del mondo\"",
+      "url": "https://www.milannews.it/news/gol-bello-segnato-carriera-menez-dubbi-quello-tacco-parma-milan-giro-mondo-631401",
+      "source": "milannews.it",
+      "date": "2026-10-01T20:00:09+00:00",
+      "summary": "Nella lunga intervista rilasciata alla Gazzetta dello Sport, Jeremy Menez, ex attaccante del Milan, ha ripercorso anche al sua carriera da calciatore e sul gol più bello che ha segnato non ha nessun dubbio: \"Il tacco in Parma-Milan."
+    },
+    {
+      "id": "c8fde34996f4",
+      "title": "Albertini spiega in cosa è stato rivoluzionario Arrigo Sacchi. E su Tabarez...",
+      "url": "https://www.milannews.it/gli-ex/albertini-spiega-rivoluzionario-arrigo-sacchi-tabarez-631434",
+      "source": "milannews.it",
+      "date": "2026-10-01T19:48:31+00:00",
+      "summary": "Intervenuto al Festival dello Sport a Trento, Demetrio Albertini, ex centrocampista rossonero, ha parlato così di alcuni suoi ex allenatori al Milan come riporta tuttomercatoweb."
+    },
+    {
+      "id": "2cbf4e1cf472",
+      "title": "F. Galli sottolinea: \"Sopo qualche titubanza, De Winter sta anche migliorando sia dal punto di vista difensivo sia in costruzione\"",
+      "url": "https://www.milannews.it/news/f-galli-sottolinea-sopo-titubanza-de-winter-migliorando-punto-vista-difensivo-costruzione-631415",
+      "source": "milannews.it",
+      "date": "2026-10-01T19:36:17+00:00",
+      "summary": "Filippo Galli, ex calciatore rossonero, si è così espresso a RadioRossonera su Matteo Gabbia, difensore centrale del Milan: \"Non so se Amorim non veda Gabbia, che peraltro ha qualche problema fisico."
+    },
+    {
+      "id": "d79ec8ad7e2d",
+      "title": "Watch: Goncalo Ramos scores for Portugal after lovely give-and-go move",
+      "url": "https://sempremilan.com/goncalo-ramos-goal-denmark-1-2-portugal",
+      "source": "sempremilan.com",
+      "date": "2026-10-01T19:26:00+00:00",
+      "summary": "There is yet more good news for AC Milan head coach Ruben Amorim from international action, as Goncalo Ramos scored for Portugal. Not long after Alphadjo Cisse netted a last-minute winner for Italy U21s against Armenia, Ramos bagged Portugal’s second of the night to give them the lead back against D"
+    },
+    {
+      "id": "00a50f1bf787",
+      "title": "Gozzini: \"Le valutazioni day by day rendono difficile la presenza di Saelemaekers alla ripresa del campionato\"",
+      "url": "https://www.milannews.it/news/gozzini-le-valutazioni-day-by-day-rendono-difficile-presenza-saelemaekers-ripresa-campionato-631397",
+      "source": "milannews.it",
+      "date": "2026-10-01T19:24:45+00:00",
+      "summary": "Alessandra Gozzini, giornalista, si è così espressa su La Gazzetta dello Sport sulle condizioni di Alexis Saelemaekers, esterno del Milan: \"Poteva essere l’occasione per le prove di coppia: Pulisic e Saelemaekers nuovo duo di ..."
+    },
+    {
+      "id": "101ce4ef5703",
+      "title": "Ramos ancora decisivo: prima l'assist per Cancelo e poi il gol del momentaneo 2-1",
+      "url": "https://www.milannews.it/news/ramos-decisivo-assist-cancelo-portogallo-vantaggio-631461",
+      "source": "milannews.it",
+      "date": "2026-10-01T19:12:37+00:00",
+      "summary": "Orfani di Cristiano Ronaldo, i lusitani sono attualmente in campo sul camo della Danimarca per la terza giornata di Nations League, in una pausa per le Nazionali che si prospetta ancora lunghissima e piena di partite da giocare."
+    },
+    {
+      "id": "99b3fcb4b353",
+      "title": "Pronostico Belgio-Turchia, De Winter è l'unico milanista a disposizione di Van Bommel",
+      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-belgio-turchia-631325",
+      "source": "milannews.it",
+      "date": "2026-10-01T19:00:00+00:00",
+      "summary": "UEFA Nations League 2026/27 al terzo giro di giostra. L'Italia battendo la Turchia si è rimessa in corsa per qualificarsi al turno successivo, agganciando in classifica il Belgio, sconfitto nei minuti finali dalla Francia."
+    },
+    {
+      "id": "cff29c048f77",
+      "title": "Sporting justice dismissed Rocchi and referee influence investigation",
+      "url": "https://football-italia.net/sporting-justice-dismiss-rocchi-investigation/",
+      "source": "football-italia.net",
+      "date": "2026-10-01T18:53:23+00:00",
+      "summary": "As expected, the sporting justice system has also shelved the investigation into Gianluca Rocchi and..."
+    },
+    {
+      "id": "be1d5f05178c",
+      "title": "Watch: Alphadjo Cisse continues excellent form with last-minute winner for Italy U21s",
+      "url": "https://sempremilan.com/cisse-last-minute-winner-italy-u21s",
+      "source": "sempremilan.com",
+      "date": "2026-10-01T18:53:11+00:00",
+      "summary": "Alphadjo Cisse’s rise continues, as he scored a potentially big goal for Italy U21s to help them edge past Armenia. After scoring a hat-trick in a warm-up game a few days ago, Cisse decided the U21 European Championship qualifier off the bench. He came on at the break and turned things around after "
+    },
     {
       "id": "1c7caa6c2558",
       "title": "Combinations, adaptations and a ruthless stretch: Questions for Milan to answer after the break",
@@ -8,14 +192,6 @@
       "source": "sempremilan.com",
       "date": "2026-10-01T18:00:00+00:00",
       "summary": "The international break is always a good time to take stock, especially an extended one that comes after the first sample of games. On paper, Milan have made a good start to the season in Serie A, with three wins, two draws and zero defeats. They survived tricky back-to-back away games against Juven"
-    },
-    {
-      "id": "066908a2b559",
-      "title": "MN - Pulisic e il rinnovo di contratto: \"Sono contento al Milan e a Milano. Voglio continuare qui\"",
-      "url": "https://www.milannews.it/news/mn-pulisic-rinnovo-contratto-sono-contento-milan-milano-voglio-continuare-qui-631451",
-      "source": "milannews.it",
-      "date": "2026-10-01T17:48:04+00:00",
-      "summary": "In occasione del Meet&Greet con i tifosi rossoneri presso il Milan Store di San Siro, Christian Pulisic ha riposto alle domande dei giornalisti presenti per l’evento. Queste le sue dichiarazioni raccolte dall’inviato di MilanNews."
     },
     {
       "id": "1a6320ff2b3f",
@@ -26,68 +202,12 @@
       "summary": "Sandro Tonali ‘was sad’ for the first few weeks when he first left Milan for..."
     },
     {
-      "id": "890e6d64539e",
-      "title": "Il patron del Barcellona ha rivelato che è stato Marotta a rifiutare l'offerta per Lautaro",
-      "url": "https://www.milannews.it/news/calcio-laporta-volevamo-lautaro-costi-marotta-porta-chiusa-631388",
-      "source": "milannews.it",
-      "date": "2026-10-01T17:36:56+00:00",
-      "summary": "(ANSA) - ROMA, 30 SET - \"Lautaro è un giocatore incredibile che non volevano lasciarsi sfuggire a nessun costo\"."
-    },
-    {
-      "id": "93966eab3558",
-      "title": "Tonali, il peso dei 116 milioni: titolare fisso ma il Tottenham non decolla",
-      "url": "https://www.milannews.it/gli-ex/tonali-peso-116-milioni-titolare-fisso-tottenham-decolla-631440",
-      "source": "milannews.it",
-      "date": "2026-10-01T17:24:42+00:00",
-      "summary": "Sandro Tonali è diventato l'italino più costoso di sempre dopo il trasferimento dal Newcastle al Tottenham per circa 116 milioni di euro, bonus compresi."
-    },
-    {
-      "id": "e41099e89f0b",
-      "title": "Abodi: \"Malagò? Non ho nemici, non li voglio e non li cerco\"",
-      "url": "https://www.milannews.it/news/figc-abodi-malago-nemici-cerco-631438",
-      "source": "milannews.it",
-      "date": "2026-10-01T17:12:29+00:00",
-      "summary": "(ANSA) - ROMA, 01 OTT - \"Non ho nemici, non li voglio e non li cerco. Ma ho il sacrosanto diritto di esprimere un'opinione rispettosa\"."
-    },
-    {
-      "id": "ab8f9ea051a3",
-      "title": "Pasotto: \"C'era una volta il Milan degli italiani. Chi c'è ora non è appetibile per le convocazioni\"",
-      "url": "https://www.milannews.it/news/pasotto-c-milan-italiani-appetibile-convocazioni-631395",
-      "source": "milannews.it",
-      "date": "2026-10-01T17:00:00+00:00",
-      "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport sui pochi italiani nella rosa del Milan: \"C'era una volta."
-    },
-    {
       "id": "39466a0beb74",
       "title": "MN: A friendly then more time off – how the rest of Milan’s schedule for the week looks",
       "url": "https://sempremilan.com/rest-of-milan-schedule-week-padova",
       "source": "sempremilan.com",
       "date": "2026-10-01T17:00:00+00:00",
       "summary": "As the extended international break continues, the AC Milan squad are continuing their work at Milanello. Milan had the joint-most players called up out of any Serie A club (15, the same as Como) which means that the group of players available to Ruben Amorim has been depleted. Nonetheless, preparat"
-    },
-    {
-      "id": "f9c8384c5626",
-      "title": "MN - Pulisic e il rapporto con Amorim: \"Molto positivo fino ad ora\"",
-      "url": "https://www.milannews.it/news/mn-pulisic-rapporto-amorim-molto-positivo-ora-631450",
-      "source": "milannews.it",
-      "date": "2026-10-01T16:48:28+00:00",
-      "summary": "In occasione del Meet&Greet con i tifosi rossoneri presso il Milan Store di San Siro, Christian Pulisic ha riposto alle domande dei giornalisti presenti per l’evento. Queste le sue dichiarazioni raccolte dall’inviato di MilanNews."
-    },
-    {
-      "id": "a3b28849f278",
-      "title": "Albertini: \"Van Basten è stato il primo attaccante moderno. Da Ancelotti ho imparato...\"",
-      "url": "https://www.milannews.it/gli-ex/albertini-van-basten-attaccante-moderno-ancelotti-imparato-631432",
-      "source": "milannews.it",
-      "date": "2026-10-01T16:37:32+00:00",
-      "summary": "Demetrio Albertini, ex centrocampista rossonero, è intervenuto al Festival dello Sport a Trento e ha rilasciato queste parole sui grandi campioni con cui ha giocato come riporta tuttomercatoweb."
-    },
-    {
-      "id": "c2aa1e8317a2",
-      "title": "Milan, tutti gli impegni ad ottobre della squadra di Amorim tra Serie A ed Europa League",
-      "url": "https://www.milannews.it/news/milan-impegni-ottobre-squadra-amorim-serie-europa-league-631427",
-      "source": "milannews.it",
-      "date": "2026-10-01T16:25:29+00:00",
-      "summary": "Il sito ufficiale del Milan riporta tutti gli impegni di ottobre della Prima Squadra Maschile di Ruben Amorim: \"Ottobre, mese pienamente in autunno in cui le giornate si accorciano in quanto a luce solare."
     },
     {
       "id": "89d279c40e2f",
@@ -98,36 +218,12 @@
       "summary": "Juventus continue to monitor the free transfer market with great attention, and AC Milan’s Ruben Loftus-Cheek has ended up on their list. Loftus-Cheek is tied to Milan until the end of the season, and according to TMW his future seems increasingly distant from Milan. La Gazzetta dello Sport reports "
     },
     {
-      "id": "b5c1c104cd33",
-      "title": "Malagò duro su Abodi: \"L'entrata su Bianchedi sgrammaticata e fuori luogo\"",
-      "url": "https://www.milannews.it/news/malago-l-entrata-abodi-bianchedi-sgrammaticata-luogo-631426",
-      "source": "milannews.it",
-      "date": "2026-10-01T16:13:49+00:00",
-      "summary": "(ANSA) - FIRENZE, 01 OTT - La decisione di Diana Bianchedi di dimettersi da capodelegazione della Nazionale a seguito delle dichiarazioni del ministro per lo Sport Andrea Abodi (che aveva criticato la sua posizione in dissenso col presidente Buonfigl ..."
-    },
-    {
-      "id": "c8b6aa5f2de2",
-      "title": "MN - Pulisic: \"È stato un inizio di stagione strano. Ora mi sento bene e sto cercando di trovare la mia forma\"",
-      "url": "https://www.milannews.it/news/mn-pulisic-e-inizio-stagione-strano-sento-cercando-trovare-forma-631449",
-      "source": "milannews.it",
-      "date": "2026-10-01T16:00:21+00:00",
-      "summary": "In occasione del Meet&Greet con i tifosi rossoneri presso il Milan Store di San Siro, Christian Pulisic ha riposto alle domande dei giornalisti presenti per l’evento. Queste le sue dichiarazioni raccolte dall’inviato di MilanNews."
-    },
-    {
       "id": "66ee79cfbbe9",
       "title": "“I’m very happy at Milan” – Pulisic suggests contract talks will begin ‘hopefully soon’",
       "url": "https://sempremilan.com/pulisic-very-happy-milan-talks-soon",
       "source": "sempremilan.com",
       "date": "2026-10-01T15:49:54+00:00",
       "summary": "Christian Pulisic has offered a strong implication that he is open to extending his contract with AC Milan, amid the recent talk in the media that negotiations will resume soon. Pulisic has been Milan’s star performance since his arrival from Chelsea, but 2026 has been a strange year for him. He wen"
-    },
-    {
-      "id": "57661aa9819f",
-      "title": "Paramount, si sblocca l'acquisizione di Warner Bros. Il ruolo di Cardinale",
-      "url": "https://www.milannews.it/news/paramount-sblocca-acquisizione-warner-bros-ruolo-cardinale-631425",
-      "source": "milannews.it",
-      "date": "2026-10-01T15:48:11+00:00",
-      "summary": "Secondo quanto riferisce l'agenza di stampa Reuters, il giudice statunitense Martínez-Olguín ha emesso mercoledì un ordine che consente a Paramount per concludere l'acquisizione di Warner Bros per 110 miliardi di dollari, ..."
     },
     {
       "id": "962971dce368",
@@ -138,22 +234,6 @@
       "summary": "AC Milan had the joint-most call-ups of any Serie A club for the international break, so it was unlikely everything would go perfectly. While doubts surround the condition of Strahinja Pavlovic after he came off in Serbia’s last game, Calciomercato.com confirm that Ruben Amorim has lost Alexis Saele"
     },
     {
-      "id": "a2a492fe32c5",
-      "title": "VIDEO MN - Un piccolo tifoso regala a Pulisic un polsino rossonero personalizzato: Chris lo indossa col sorriso",
-      "url": "https://www.milannews.it/news/video-mn-piccolo-tifoso-regala-pulisic-polsino-rossonero-personalizzato-chris-indossa-sorriso-631453",
-      "source": "milannews.it",
-      "date": "2026-10-01T15:34:52+00:00",
-      "summary": "Nel pomeriggio di San Siro i tifosi rossoneri hanno potuto incontrare e salutare Christian Pulisic, protagonista del nuovo Meet&Greet organizzato dal club."
-    },
-    {
-      "id": "7773c18541df",
-      "title": "Orsato spiega così la nuova tendenza in Serie A di non usare il Var",
-      "url": "https://www.milannews.it/news/orsato-odiato-var-linea-stagione-631393",
-      "source": "milannews.it",
-      "date": "2026-10-01T15:25:54+00:00",
-      "summary": "(ANSA) - LISSONE, 29 SET - \"Io non ho mai odiato il Var. Non è mai passato in testa a nessuno di non usarlo o di non fischiare falli ma si era arrivati al punto che non era più calcio."
-    },
-    {
       "id": "666605aff53b",
       "title": "Pulisic: ‘I’m very happy at Milan and want to continue here’",
       "url": "https://football-italia.net/pulisic-very-happy-milan-want-to-continue-here/",
@@ -162,68 +242,12 @@
       "summary": "Christian Pulisic assures he is ‘very happy at Milan and want to continue here’ while..."
     },
     {
-      "id": "bb499ad7277e",
-      "title": "Liverani: \"Non credo che il Napoli sia dietro al Milan e alla Juve perchè ritengo sia superiore\"",
-      "url": "https://www.milannews.it/news/liverani-non-credo-napoli-milan-juve-ritengo-superiore-631416",
-      "source": "milannews.it",
-      "date": "2026-10-01T15:13:53+00:00",
-      "summary": "Fabio Liverani, ex calciatore e attuale allenatore, si è così espresso a StileTV sul Napoli e sul confronto con le altre big: \"L’Inter è ancora sopra tutti, poi dico la Roma per continuità di gruppo e allenatore ..."
-    },
-    {
-      "id": "4ee84663c253",
-      "title": "Pulisic a Sky: \"Mi sento bene. Rinnovo? Sono contento al Milan e spero di restare\"",
-      "url": "https://www.milannews.it/news/pulisic-sky-mi-sento-bene-rinnovo-contento-milan-spero-restare-631447",
-      "source": "milannews.it",
-      "date": "2026-10-01T15:03:14+00:00",
-      "summary": "A margine dell'evento organizzato dal Milan con i propri tifosi nello store di San Siro, Christian Pulisic ha parlato ai microfoni di Sky Sport."
-    },
-    {
-      "id": "72a572375093",
-      "title": "MN - Pulisic: \"Sono molto contento qui e voglio continuare al Milan. Ho un bel rapporto con Amorim\"",
-      "url": "https://www.milannews.it/primo-piano/mn-pulisic-sono-contento-voglio-continuare-milan-bel-rapporto-amorim-631448",
-      "source": "milannews.it",
-      "date": "2026-10-01T15:02:29+00:00",
-      "summary": "In occasione del Meet&Greet con i tifosi rossoneri presso il Milan Store di San Siro, Christian Pulisic ha riposto alle domande dei giornalisti presenti per l’evento. Queste le sue dichiarazioni raccolte dall’inviato di MilanNews."
-    },
-    {
-      "id": "425dfc8f3794",
-      "title": "Solomon non le manda a dire: attacca duramente l'Irlanda per il trattamento riservato a Israele",
-      "url": "https://www.milannews.it/news/nations-league-solomon-attacca-irlanda-israele-gran-lunga-631394",
-      "source": "milannews.it",
-      "date": "2026-10-01T15:00:23+00:00",
-      "summary": "(ANSA) - LONDRA, 29 SET - Le tensioni di Irlanda-Israele non si sono fermate al campo: dopo il netto 3-0 degli irlandesi in Nations League, il capitano israeliano Manor Solomon ha replicato alle proteste degli avversari con parole destinate a far dis ..."
-    },
-    {
       "id": "b55f1ed22b9d",
       "title": "MN: Milan in ‘advanced’ talks with Adidas over fourth stint as kit manufacturer – the details",
       "url": "https://sempremilan.com/milan-advanced-talks-adidas-fourth-stint",
       "source": "sempremilan.com",
       "date": "2026-10-01T15:00:00+00:00",
       "summary": "AC Milan and Adidas could once again work together once the deal with PUMA comes to an end in 2028, a report claims. After Footy Headlines fuelled the rumours of a possible reunion with their report on Wednesday, MilanNews are now confirming that the Rossoneri could return to wearing the Adidas bran"
-    },
-    {
-      "id": "bdd93e8f953e",
-      "title": "Parma, Gabriel Paletta torna nello staff tecnico della Prima Squadra Maschile in qualità di collaboratore tecnico",
-      "url": "https://www.milannews.it/gli-ex/parma-gabriel-paletta-torna-staff-tecnico-squadra-maschile-qualita-collaboratore-tecnico-631423",
-      "source": "milannews.it",
-      "date": "2026-10-01T14:48:08+00:00",
-      "summary": "Attraverso il suo sito ufficiale, il Parma ha annunciato il ritorno nello staff tecnico della Prima Squadra Maschile in qualità di collaboratore tecnico di Gabriel Paletta, ex difensore che in carriera ha giocato anche nel Milan: \"Pa ..."
-    },
-    {
-      "id": "a6dae87fb2e9",
-      "title": "Il direttore tecnico dell'Aia precisa: non si vuole assolutamente cancellare il Var",
-      "url": "https://www.milannews.it/news/calcio-messina-vuole-cancellare-var-cambiare-regole-631390",
-      "source": "milannews.it",
-      "date": "2026-10-01T14:36:37+00:00",
-      "summary": "(ANSA) - LISSONE, 29 SET - La nuova linea dettata da Orsato \"non significa non fischiare falli, non fischiare i rigori, non andare al Var\"."
-    },
-    {
-      "id": "81a1bb79fe39",
-      "title": "MN - Albertini: \"Il Milan è un cantiere aperto. Cisse mi è piaciuto e spero che anche Camarda trovi spazio\"",
-      "url": "https://www.milannews.it/news/mn-albertini-il-milan-cantiere-aperto-cisse-piaciuto-spero-camarda-trovi-spazio-631445",
-      "source": "milannews.it",
-      "date": "2026-10-01T14:23:37+00:00",
-      "summary": "A margine degli eventi legati al 'Festival dello Sport', organizzato da La Gazzetta dello Sport a Trento, l'ex centrocampista del Milan Demetrio Albertini ha non solo presentato il suo nuovo libro, ma anche detto la sua sulla Nazionale e  ..."
     },
     {
       "id": "1fd80c50a823",
@@ -322,14 +346,6 @@
       "summary": "Ruben Amorim made it clear from early in his AC Milan tenure that he highly rates Samuel Chukwueze, and it is being seen on the field. As Corriere dello Sport recall, Amorim always stated that he did not want to talk about individuals, but there were some exceptions like Chukwueze. The winger was lo"
     },
     {
-      "id": "d1d1df4efa5c",
-      "title": "GdS: ‘Captain America is back’ – negotiations to resume soon as Cardinale seeks long-term renewal",
-      "url": "https://sempremilan.com/pulisic-renewal-cardinale-milan-long-term",
-      "source": "sempremilan.com",
-      "date": "2026-10-01T08:00:25+00:00",
-      "summary": "Christian Pulisic returned to scoring in the game before the international break, and now AC Milan are thinking about his long-term future. La Gazzetta dello Sport write that in the early hours of Wednesday morning, Pulisic watched the United States’ friendly victory over Chile from thousands of mil"
-    },
-    {
       "id": "8ad9448a0de7",
       "title": "Today’s Papers: FIGC drama, Bianchedi resigns, Spalletti pressure",
       "url": "https://football-italia.net/todays-papers-figc-drama-bianchedi-resigns/",
@@ -344,14 +360,6 @@
       "source": "football-italia.net",
       "date": "2026-09-30T18:16:56+00:00",
       "summary": "Juventus winger Francisco Conceicao is injured and Milan’s Goncalo Ramos will start against Denmark, but..."
-    },
-    {
-      "id": "ec96d18f6d2d",
-      "title": "Krösche, Boto, Özek and Ausilio: A look at the four leading Head of Football candidates",
-      "url": "https://sempremilan.com/krosche-boto-ozek-ausilio-four-leading-hof-candidates",
-      "source": "sempremilan.com",
-      "date": "2026-09-30T18:00:00+00:00",
-      "summary": "It’s no secret that AC Milan want to hire a Head of Football, but what is a bit more secretive is who they actually want.  In the summer, it was clear that Milan wanted Krösche and when the German didn’t arrive, they referred to internal hires as the solution. However, by the end of the […]\nThe post"
     },
     {
       "id": "6ec159319c07",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-09-28T14:05:00+00:00",
       "summary": "Milan are among three clubs keeping tabs on Kim Min-jae, though any move depends entirely..."
-    },
-    {
-      "id": "8c18db44df12",
-      "title": "Inter legend Zenga defends Baresi after mural vandalism: ‘Franco is untouchable’",
-      "url": "https://football-italia.net/inter-legend-zenga-defends-baresi/",
-      "source": "football-italia.net",
-      "date": "2026-09-28T13:20:00+00:00",
-      "summary": "Walter Zenga has condemned the vandalism of Franco Baresi’s mural outside Casa Milan, arguing the..."
     }
   ]
 }
