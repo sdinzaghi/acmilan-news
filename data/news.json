@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-10-09T22:14:44.942868+00:00",
+  "lastUpdated": "2026-10-10T02:04:09.845271+00:00",
   "articles": [
+    {
+      "id": "72bbac43b0bd",
+      "title": "MN - Taiwo: \"Se al Milan avranno pazienza con Amorim, potrà fare bene, perché ha a disposizione giocatori di qualità\"",
+      "url": "https://www.milannews.it/news/mn-taiwo-se-milan-pazienza-amorim-potra-bene-disposizione-giocatori-qualita-632205",
+      "source": "milannews.it",
+      "date": "2026-10-09T22:48:16+00:00",
+      "summary": "L’avventura in rossonero di Taye Taiwo durò appena cinque mesi, complice un infortunio alla caviglia che ne condizionò il percorso e un ambientamento mai del tutto completato. Intervistato in esclusiva da MilanNews."
+    },
+    {
+      "id": "70be746e7dcd",
+      "title": "De Winter: \"Mi piace un sacco la cultura italiana e come si vive qui\"",
+      "url": "https://www.milannews.it/news/de-winter-mi-piace-sacco-cultura-italiana-vive-qui-632177",
+      "source": "milannews.it",
+      "date": "2026-10-09T22:24:37+00:00",
+      "summary": "Al secondo anno in rossonero De Winter ha trovato un allenatore che, per il momento, sta puntando davvero forte su di lui. Il belga ha sempre giocato dall'inizio in questo primo scampolo di stagione e non è mai stato sostituito."
+    },
+    {
+      "id": "aa999c45faa3",
+      "title": "Napoli, Allegri: \"La squadra deve capire l'importanza della partita\"",
+      "url": "https://www.milannews.it/gli-ex/napoli-allegri-squadra-capire-importanza-partita-632206",
+      "source": "milannews.it",
+      "date": "2026-10-09T22:24:00+00:00",
+      "summary": "(ANSA) - NAPOLI, 09 OTT - \"A Firenze ero molto infuriato per un semplice fatto, perché fino a questo momento se alla squadra dovessi rimproverare una cosa sarebbe il fatto di non aver capito in certi momenti - come quando eravamo 2-0 a Mi ..."
+    },
+    {
+      "id": "bb10261e4f45",
+      "title": "Giroud, il rispetto non ha età: “Ancelotti è più giovane di me, ma gli do del lei”",
+      "url": "https://www.milannews.it/gli-ex/giroud-eta-ancelotti-giovane-me-do-lei-632203",
+      "source": "milannews.it",
+      "date": "2026-10-09T22:12:55+00:00",
+      "summary": "Olivier Giroud continua a essere un punto di riferimento anche fuori dal campo."
+    },
     {
       "id": "4f488263dcf6",
       "title": "L'anticipo di Galli - Inizia il \"girone infernale\": Turnover ampio e leggero per attraversarlo",
@@ -128,38 +160,6 @@
       "source": "milannews.it",
       "date": "2026-10-09T19:00:20+00:00",
       "summary": "Un weekend ricco di gare per il Settore Giovanile rossonero, con impegni distribuiti tra sabato 10 e lunedì 12 ottobre."
-    },
-    {
-      "id": "ec35dc61033d",
-      "title": "M. Orlando: \"Ramos deve dimostrare, ma fino ad ora era l'allenatore che aveva sbagliato modulo e non lo metteva nelle condizioni giuste\"",
-      "url": "https://www.milannews.it/news/m-orlando-ramos-dimostrare-allenatore-sbagliato-modulo-metteva-condizioni-giuste-632190",
-      "source": "milannews.it",
-      "date": "2026-10-09T18:48:37+00:00",
-      "summary": "Ospite di Maracanà, trasmissione della radio di Tuttomercatoweb.com, è stato l'ex calciatore Massimo Orlando."
-    },
-    {
-      "id": "e53e5667cf68",
-      "title": "Arriva l'annuncio ufficiale, la Turchia esonera Montella",
-      "url": "https://www.milannews.it/news/arriva-annuncio-ufficiale-turchia-esonera-montella-632186",
-      "source": "milannews.it",
-      "date": "2026-10-09T18:36:54+00:00",
-      "summary": "(ANSA) - ROMA, 09 OTT - Vincenzo Montella non è più il ct della Turchia."
-    },
-    {
-      "id": "35906491753a",
-      "title": "MN - Taiwo: \"Pato un attaccante straordinario, peccato per come sia andata a finire\"",
-      "url": "https://www.milannews.it/news/mn-taiwo-pato-attaccante-straordinario-andata-finire-632184",
-      "source": "milannews.it",
-      "date": "2026-10-09T18:24:44+00:00",
-      "summary": "L’avventura in rossonero di Taye Taiwo durò appena cinque mesi, complice un infortunio alla caviglia che ne condizionò il percorso e un ambientamento mai del tutto completato. Intervistato in esclusiva da MilanNews."
-    },
-    {
-      "id": "ce39de906a18",
-      "title": "Cristiano Ronaldo o Modric? De Winter sceglie: \"Luka è più forte nel giocare a pallone\"",
-      "url": "https://www.milannews.it/news/cristiano-ronaldo-modric-de-winter-sceglie-luka-forte-giocare-pallone-632174",
-      "source": "milannews.it",
-      "date": "2026-10-09T18:12:53+00:00",
-      "summary": "Al secondo anno in rossonero De Winter ha trovato un allenatore che, per il momento, sta puntando davvero forte su di lui. Il belga ha sempre giocato dall'inizio in questo primo scampolo di stagione e non è mai stato sostituito."
     },
     {
       "id": "aaaa2f85ee8f",
