@@ -1,61 +1,253 @@
 {
-  "lastUpdated": "2026-10-11T16:33:03.107041+00:00",
+  "lastUpdated": "2026-10-11T20:48:02.189158+00:00",
   "articles": [
     {
-      "id": "4d82005691c5",
-      "title": "MN - Sassuolo-Milan: Gabbia fuori in barella tra gli applausi del Mapei Stadium. Stretta di mano con Amorim",
-      "url": "https://www.milannews.it/news/mn-sassuolo-milan-gabbia-barella-applausi-mapei-stadium-stretta-mano-amorim-632364",
+      "id": "3dbcc5a2e9d7",
+      "title": "Ramos inoffensivo, Amorim: \"Dobbiamo lavorare meglio nelle combinazioni nell'ultimo terzo\"",
+      "url": "https://www.milannews.it/news/ramos-inoffensivo-amorim-dobbiamo-lavorare-combinazioni-terzo-632402",
       "source": "milannews.it",
-      "date": "2026-10-11T16:30:15+00:00",
-      "summary": "Matteo Gabbia è stato costretto ad abbandonare il campo al 20' di Sassuolo-Milan a causa di un problema muscolare al flessore della gamba sinistra."
+      "date": "2026-10-11T20:36:01+00:00",
+      "summary": "Anche nella partita contro il Sassuolo, nonostante i 3 gol in 4 gare con il Portogallo, il centravanti rossonero Gonçalo Ramos è rimasto ancora a bocca asciutta ma soprattutto con pochissime occasioni da gol a s ..."
     },
     {
-      "id": "ee2034507abd",
-      "title": "LIVE MN - Sassuolo-Milan (0-0): ritmi veloci ma Milan troppo statico, Sassuolo spesso in avanti",
-      "url": "https://www.milannews.it/primo-piano/live-mn-sassuolo-milan-0-0-breve-calcio-inizio-632331",
+      "id": "911fbf5f716a",
+      "title": "Amorim amaro a Milan Tv: \"Due punti persi, dovevamo vincere\"",
+      "url": "https://www.milannews.it/news/amorim-amaro-milan-tv-due-punti-persi-dovevamo-vincere-632411",
       "source": "milannews.it",
-      "date": "2026-10-11T16:25:00+00:00",
-      "summary": "24' | Doppia barella per due difensori centrali in 25 minuti."
+      "date": "2026-10-11T20:24:52+00:00",
+      "summary": "Il tecnico rossonero Ruben Amorim è intervenuto anche ai microfoni di Milan Tv dopo il pareggio per 1-1 maturato sul campo del Sassuolo."
     },
     {
-      "id": "7d7699ac35cd",
-      "title": "SAS-MIL (0-0): si fa male Gabbia, esce in barella. Brutta tegola. Al 20' dentro De Winter al suo posto",
-      "url": "https://www.milannews.it/news/sas-mil-0-0-gabbia-19-de-winter-632363",
+      "id": "2daa0344d7cd",
+      "title": "Milan, terzo gol per Adrien Rabiot: è il capocannoniere rossonero insieme a Moreira",
+      "url": "https://www.milannews.it/news/milan-gol-adrien-rabiot-capocannoniere-rossonero-moreira-632391",
       "source": "milannews.it",
-      "date": "2026-10-11T16:23:24+00:00",
-      "summary": "E' durata meno di venti minuti la partita di Matteo Gabbia che è costretto al cambio al 20' per un problema muscolare al flessore della gamba sinistra."
+      "date": "2026-10-11T20:12:55+00:00",
+      "summary": "Adrien Rabiot ha segnato contro il Sassuolo il suo terzo gol in questo campionato dopo quelli siglati al Torino e al Lecce."
     },
     {
-      "id": "8b83d5d92531",
-      "title": "Amorim continua con la linea a 4: cosa dicono i primi minuti di Sassuolo-Milan",
-      "url": "https://www.milannews.it/news/amorim-continua-linea-4-dicono-primi-minuti-sassuolo-milan-632362",
+      "id": "bba75784f6bd",
+      "title": "Bergomi dopo Sassuolo-Milan 1-1: \"E' un'occasione persa. Una volta in vantaggio doveva portare a casa i tre punti\"",
+      "url": "https://www.milannews.it/news/bergomi-sassuolo-milan-1-1-e-occasione-persa-vantaggio-doveva-portare-casa-punti-632390",
       "source": "milannews.it",
-      "date": "2026-10-11T16:10:08+00:00",
-      "summary": "Amorim sceglie di continuare con la linea di difesa a 4."
+      "date": "2026-10-11T20:00:30+00:00",
+      "summary": "Giuseppe Bergomi, ex difensore di Inter e Nazionale italiana, ha commentato così a Sky il pareggio del Milan in casa del Sassuolo: \"E' un'occasione persa."
+    },
+    {
+      "id": "cbc975fe075d",
+      "title": "Come sta Matteo Gabbia? La risposta di Ruben Amorim",
+      "url": "https://www.milannews.it/news/matteo-gabbia-risposta-ruben-amorim-632401",
+      "source": "milannews.it",
+      "date": "2026-10-11T19:48:18+00:00",
+      "summary": "Nel corso del primo tempo di Sassuolo-Milan, partita terminata 1-1, il centrale rossonero Matteo Gabbia ha lasciato il campo per infortunio muscolare che sembra serio: il calciatore è uscito in barella e in lacrime."
+    },
+    {
+      "id": "ee6c3b9a04d0",
+      "title": "Rabiot sul gol del Sassuolo: \"È una situazione su cui lavoriamo quasi ogni giorno\"",
+      "url": "https://www.milannews.it/news/rabiot-gol-sassuolo-e-situazione-lavoriamo-giorno-632396",
+      "source": "milannews.it",
+      "date": "2026-10-11T19:36:31+00:00",
+      "summary": "Al Mapei Stadium di Reggio Emilia, questa sera, Adrien Rabiot ha trovato il terzo gol del suo campionato."
+    },
+    {
+      "id": "396653aa4e25",
+      "title": "De Winter e il gol preso da angolo: \"Le partite si decidono anche su questi dettagli\"",
+      "url": "https://www.milannews.it/news/de-winter-gol-preso-angolo-le-partite-decidono-dettagli-632409",
+      "source": "milannews.it",
+      "date": "2026-10-11T19:23:22+00:00",
+      "summary": "Koni De Winter, subentrato all'infortunato Gabbia, ha parlato ai microfoni di TeleLombardia al termine di Sassuolo-Milan."
+    },
+    {
+      "id": "49ba3706f5aa",
+      "title": "Caleta-Car trattiene Gonçalo ma per Marelli non è rigore: \"La trattenuta c'è ma Ramos accentua. Corretto lasciar correre\"",
+      "url": "https://www.milannews.it/news/caleta-car-trattiene-goncalo-marelli-rigore-la-trattenuta-ramos-accentua-corretto-lasciar-correre-632397",
+      "source": "milannews.it",
+      "date": "2026-10-11T19:11:11+00:00",
+      "summary": "Nel post partita di DAZN Luca Marelli, commentatore arbitrale della piattaforma streaming, analizza l'episodio del mancato rigore al Milan nel secondo tempo per una trattenuta di Caleta-Car su Ramos a palla lontana."
+    },
+    {
+      "id": "da957f8bb88c",
+      "title": "LIVE MN - Thorsvedt: \"Avremmo meritato anche di più. Gol annullato? Per me non era fallo\"",
+      "url": "https://www.milannews.it/l-avversario/live-mn-giocatore-sassuolo-interverra-conferenza-stampa-commentare-partita-sera-632370",
+      "source": "milannews.it",
+      "date": "2026-10-11T19:06:22+00:00",
+      "summary": "Tra poco un giocatore del Sassuolo interverrà in conferenza stampa per commentare la partita di questa sera contro il Milan. \n\n20."
+    },
+    {
+      "id": "f06bd1e7c4c8",
+      "title": "Sassuolo, Odenthal: \"Abbiamo difeso bene. Ci alleniamo sui corner\"",
+      "url": "https://www.milannews.it/news/sassuolo-odenthal-abbiamo-difeso-bene-alleniamo-corner-632388",
+      "source": "milannews.it",
+      "date": "2026-10-11T19:05:00+00:00",
+      "summary": "Il Milan esce da Reggio Emilia con solamente un punto."
+    },
+    {
+      "id": "cf2db0351670",
+      "title": "Rabiot: \"Sono d'accordo col mister, abbiamo sempre il possesso ma quello che creiamo è troppo poco\"",
+      "url": "https://www.milannews.it/news/rabiot-sono-accordo-mister-possesso-creiamo-poco-632395",
+      "source": "milannews.it",
+      "date": "2026-10-11T18:58:19+00:00",
+      "summary": "Adrien Rabiot ha parlato a DAZN al termine di Sassuolo-Milan. Le parole del francese."
+    },
+    {
+      "id": "cc9541457f77",
+      "title": "LIVE MN - Amorim: \"Io imbattuto? Non mi interessa, oggi è come se avessi perso\"",
+      "url": "https://www.milannews.it/news/live-mn-ruben-amorim-conferenza-stampa-post-gara-reggio-emilia-632371",
+      "source": "milannews.it",
+      "date": "2026-10-11T18:57:06+00:00",
+      "summary": "Tra poco Ruben Amorin interverrà in conferenza stampa per commentare la prestazione di questa sera del suo Milan a Reggio Emilia. \n\nOre 20."
+    },
+    {
+      "id": "81fe18263518",
+      "title": "Rabiot concedes Milan have ‘work to do’ after ‘lost’ two points: “We can’t concede like that”",
+      "url": "https://sempremilan.com/rabiot-milan-work-do-cant-concede",
+      "source": "sempremilan.com",
+      "date": "2026-10-11T18:57:02+00:00",
+      "summary": "Adrien Rabiot was not happy with the goal that AC Milan conceded soon after taking the lead against Sassuolo, leading to two points dropped. Both goals came in the second half at the Mapei Stadium. Firstly, Rabiot rocketed a shot past Muric at the near post to give Milan the lead, before Odenthal wa"
+    },
+    {
+      "id": "cacbfbab1df5",
+      "title": "Disappointing draw at the Mapei: Instant reaction to Sassuolo 1-1 AC Milan",
+      "url": "https://sempremilan.com/instant-reaction-sassuolo-1-1-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-10-11T18:51:48+00:00",
+      "summary": "AC Milan failed to kick-start what is a tough run of games with a win, clinching just one point away at Sassuolo despite taking the lead.  After a very slow start to the first half, Milan found their feet and established some pressure in the Sassuolo final third, which continued into the second half"
+    },
+    {
+      "id": "66e869b176d1",
+      "title": "Amorim: \"Non possiamo permetterci di subire gol da calcio d'angolo\"",
+      "url": "https://www.milannews.it/news/amorim-non-possiamo-permetterci-subire-gol-calcio-angolo-632392",
+      "source": "milannews.it",
+      "date": "2026-10-11T18:48:02+00:00",
+      "summary": "Ruben Amorim, tecnico rossonero, è intervenuto ai microfoni di Sky Sport 24 per commentare il pareggio 1-1 del Milan sul campo del Sassuolo."
     },
     {
       "id": "3908af492ba2",
       "title": "Serie A Liveblog including Como-Roma, Sassuolo-Milan, Cagliari-Juventus",
       "url": "https://football-italia.net/serie-a-liveblog-como-roma-sas-milan-cag-juve/",
       "source": "football-italia.net",
-      "date": "2026-10-11T16:00:29+00:00",
+      "date": "2026-10-11T18:45:29+00:00",
       "summary": "{rsn-live-v2}"
     },
     {
-      "id": "cab1c0cfc386",
-      "title": "Sassuolo-Milan: presente al Mapei Stadium anche Stefano Pioli",
-      "url": "https://www.milannews.it/news/sassuolo-milan-presente-mapei-stadium-stefano-pioli-632360",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:52:27+00:00",
-      "summary": "Il Milan sarà impegnato tra poco in casa del Sassuolo nella partita valida per la 6^ giornata di Serie A."
+      "id": "47e28b6f4139",
+      "title": "Amorim: ‘Milan cannot concede that goal, sad for Gabbia injury’",
+      "url": "https://football-italia.net/amorim-milan-cannot-concede-goal-sad-gabbia/",
+      "source": "football-italia.net",
+      "date": "2026-10-11T18:45:04+00:00",
+      "summary": "Ruben Amorim explains his Milan tactical changes, including the introduction of Luka Modric, but they..."
     },
     {
-      "id": "b18d1712b3b0",
-      "title": "Sassuolo, Leysen: \"Giochiamo contro un'ottima squadra: lotteremo\"",
-      "url": "https://www.milannews.it/news/sassuolo-leysen-giochiamo-ottima-squadra-lotteremo-632359",
+      "id": "14105e27be13",
+      "title": "LIVE MN - Rabiot: \"Il gol subito dopo pochi minuti è una questione di mentalità che dobbiamo migliorare\"",
+      "url": "https://www.milannews.it/news/live-mn-giocatore-milan-conferenza-stampa-post-sassuolo-632369",
       "source": "milannews.it",
-      "date": "2026-10-11T15:48:00+00:00",
-      "summary": "Il Sassuolo oggi ospita il Milan (calcio di inizio tra pochi minuti alle ore 18) al Mapei Stadium in occasione della sesta giornata del campionato di Serie A Enilive."
+      "date": "2026-10-11T18:42:17+00:00",
+      "summary": "Tra poco un giocatore del Milan interverrà in conferenza stampa per commentare la partita di questa sera contro il Sassuolo. \n\nOre 20."
+    },
+    {
+      "id": "3d07d1811125",
+      "title": "Amorim a DAZN: \"Quando fai gol poi devi ammazzare la partita e non l'abbiamo fatto\"",
+      "url": "https://www.milannews.it/news/amorim-dazn-quando-gol-devi-ammazzare-partita-fatto-632389",
+      "source": "milannews.it",
+      "date": "2026-10-11T18:41:42+00:00",
+      "summary": "Mister Ruben Amorim ha parlato a DAZN al termine di Sassuolo-Milan 1-1. Queste le sue parole dopo il deludente pareggio del Mapei Stadium."
+    },
+    {
+      "id": "4e9ac2280627",
+      "title": "Amorim bemoans dropped points in dissection of Sassuolo draw: “A question of mentality”",
+      "url": "https://sempremilan.com/amorim-bemoans-dropped-points-dissection-sassuolo",
+      "source": "sempremilan.com",
+      "date": "2026-10-11T18:39:35+00:00",
+      "summary": "Ruben Amorim has insisted that he and his AC Milan side cannot feel satisfied with any match that ends without a win. Milan were held to a 1-1 draw against Sassuolo at the Mapei Stadium in Reggio Emilia. After taking the lead midway through the second half through Adrien Rabiot’s rocket of a strike,"
+    },
+    {
+      "id": "b0048d663116",
+      "title": "LIVE MN - Aquilani: \"Sono soddisfatto perché affrontavamo una squadra forte. Il gol annullato? Di solito fanno diversamente...\"",
+      "url": "https://www.milannews.it/l-avversario/live-mn-alberto-aquilani-conferenza-stampa-post-gara-reggio-emilia-632372",
+      "source": "milannews.it",
+      "date": "2026-10-11T18:37:00+00:00",
+      "summary": "Tra poco Alberto Aquilani interverrà in conferenza stampa per commentare la prestazione di questa sera del suo Sassuolo contro il Milan\n\n20.30 - Comincia la conferenza\n\nQuanto sei soddisfatto e quanto avete dimostrato."
+    },
+    {
+      "id": "3139b0169a9b",
+      "title": "Rabiot a Sky: \"Abbiamo perso due punti. Non possiamo prendere quel gol così\"",
+      "url": "https://www.milannews.it/news/rabiot-sky-abbiamo-perso-punti-possiamo-prendere-gol-cosi-632387",
+      "source": "milannews.it",
+      "date": "2026-10-11T18:36:41+00:00",
+      "summary": "Autore del gol del Milan sul campo del Sassuolo questo pomeriggio, nella partita finita 1-1, il centrocampista rossonero Adrien Rabiot è intervenuto ai microfoni di Sky Sport 24 per offrire il suo punto  ..."
+    },
+    {
+      "id": "f2ae518e4bba",
+      "title": "Player Ratings: Sassuolo 1-1 AC Milan – French brilliance not enough",
+      "url": "https://sempremilan.com/player-ratings-sassuolo-1-1-ac-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-10-11T18:32:04+00:00",
+      "summary": "AC Milan squandered a 1-0 lead against Sassuolo and failed to make the most of individual quality to restore their lead. Below are the player ratings for the Rossoneri.  It was a roller coaster of a game for Ruben Amorim’s men, who invited Sassuolo back into the game after taking the lead. That led "
+    },
+    {
+      "id": "e3c93ef1fa89",
+      "title": "Amorim a Sky: \"Quando non vinciamo non siamo mai soddisfatti. Dopo il gol dovevamo gestire meglio\"",
+      "url": "https://www.milannews.it/primo-piano/amorim-sky-quando-vinciamo-soddisfatti-gol-dovevamo-gestire-meglio-632386",
+      "source": "milannews.it",
+      "date": "2026-10-11T18:29:00+00:00",
+      "summary": "Il Milan non va oltre l'1-1 contro il Sassuolo al Mapei Stadium di Reggio Emilia. I rossoneri dopo essere andati in vantaggio a metà ripresa con Rabiot, vengono ripresi nel giro di pochi minuti da Odenthal."
+    },
+    {
+      "id": "fcf1810a6d4c",
+      "title": "Aquiliani a DAZN: \"Nello spogliatoio ho visto amarezza, mi è piaciuto\"",
+      "url": "https://www.milannews.it/l-avversario/aquiliani-dazn-nello-spogliatoio-amarezza-piaciuto-632385",
+      "source": "milannews.it",
+      "date": "2026-10-11T18:27:39+00:00",
+      "summary": "Alberto Aquilani è stato intervistato da DAZN nel post partita di Sassuolo-Milan 1-1. Queste le dichiarazioni del tecnico dei neroverdi."
+    },
+    {
+      "id": "27a163057d6f",
+      "title": "Aquilani impressed with Sassuolo ‘maturity’ in Milan draw",
+      "url": "https://football-italia.net/aquilani-impressed-sassuolo-maturity-milan/",
+      "source": "football-italia.net",
+      "date": "2026-10-11T18:25:26+00:00",
+      "summary": "Alberto Aquilani admits Sassuolo ‘let Milan keep the initiative’ too much, but praised their ‘maturity’..."
+    },
+    {
+      "id": "1ef8ea5673ff",
+      "title": "Sassuolo-Milan 1-1, voti e pagelle: Gila migliore in campo. Ramos e Pulisic male",
+      "url": "https://www.milannews.it/pagelle/sassuolo-milan-1-1-voti-pagelle-gila-migliore-campo-ramos-pulisic-632384",
+      "source": "milannews.it",
+      "date": "2026-10-11T18:24:36+00:00",
+      "summary": "Un Milan non brillante pareggia per 1-1 contro il Sassuolo a Reggio Emilia. Il gol di Adrien Rabiot non basta alla squadra di Amorim per incanalare la partita sui binari giusti."
+    },
+    {
+      "id": "6bcc2576cb85",
+      "title": "Sassuolo 1-1 AC Milan: Rabiot opener cancelled out by Odenthal in frustrating draw",
+      "url": "https://sempremilan.com/sassuolo-1-1-ac-milan-match-report",
+      "source": "sempremilan.com",
+      "date": "2026-10-11T18:05:24+00:00",
+      "summary": "AC Milan would have to make do with a draw on their return to Serie A action, as the game against Sassuolo finished 1-1. When Adrien Rabiot gave Milan the lead inside the final 30 minutes it looked once again like being a successful second-half show. However, the inability to deal with a corner just"
+    },
+    {
+      "id": "4d505ec5aa1b",
+      "title": "Serie A | Sassuolo 1-1 Milan: Not enough for Rabiot to celebrate",
+      "url": "https://football-italia.net/serie-a-sassuolo-1-1-milan-rabiot-not-enough/",
+      "source": "football-italia.net",
+      "date": "2026-10-11T18:02:52+00:00",
+      "summary": "Adrien Rabiot’s rocket was cancelled out by Cas Odenthal, as Milan were held to a..."
+    },
+    {
+      "id": "3380d0998fc3",
+      "title": "Watch: Rabiot puts Milan ahead against Sassuolo with rocket of a strike",
+      "url": "https://sempremilan.com/rabiot-puts-milan-ahead-against-sassuolo",
+      "source": "sempremilan.com",
+      "date": "2026-10-11T17:36:41+00:00",
+      "summary": "AC Milan got the first goal of the game at the Mapei Stadium, with Adrien Rabiot the man on hand to net his third of the campaign. In the 63rd minute, Milan finally put one of their chances away and it was Rabiot who scored the opening goal, the man who has so often popped […]\nThe post Watch: Rabiot"
+    },
+    {
+      "id": "ebb188784e83",
+      "title": "Milan forced into early change against Sassuolo as Gabbia stretchered off in tears",
+      "url": "https://football-italia.net/milan-forced-early-change-vs-sassuolo-gabbia/",
+      "source": "football-italia.net",
+      "date": "2026-10-11T16:32:15+00:00",
+      "summary": "Milan defender Matteo Gabbia suffered an unfortunate injury just over a quarter of an hour..."
     },
     {
       "id": "5453b4793aea",
@@ -66,22 +258,6 @@
       "summary": "Diego Moreira has revealed his preference for playing with a four-man defence as he believes it makes the team more attacking. Such is the nature of modern football, the three-week international break has come to an end and now a run of seven games in the next three weeks follows for Milan. It could"
     },
     {
-      "id": "28499fc6a860",
-      "title": "MN - Non solo Cardinale: presenti anche Calvelli, Gardiner e Fontanella-Khan",
-      "url": "https://www.milannews.it/news/mn-cardinale-presenti-calvelli-gardiner-fontanella-khan-632358",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:43:00+00:00",
-      "summary": "Il Milan tra pochi minuti scenderà in campo al Mapei Stadium di Reggio Emilia per affrontare il Sassuolo in occasione della sesta giornata del campionato di Serie A Enilive, che in questo weekend torna dopo una lunga sosta  ..."
-    },
-    {
-      "id": "7df4a4b83703",
-      "title": "Moreira: \"Ramos? La gente parla ma non vede che lavoro fa per la squadra\"",
-      "url": "https://www.milannews.it/news/moreira-ramos-parla-vede-lavoro-squadra-632357",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:40:03+00:00",
-      "summary": "Diego Moreira ha parlato a DAZN nel pre partita di Sassuolo-Milan."
-    },
-    {
       "id": "a78996260f46",
       "title": "Amorim aware of ‘difficulties’ against Sassuolo but insists ‘today is a different season’",
       "url": "https://sempremilan.com/amorim-aware-difficulties-sassuolo-different",
@@ -90,76 +266,12 @@
       "summary": "Ahead of AC Milan’s game against Sassuolo, Ruben Amorim spoke to the media about the difficult fixture, the formation and the form of Goncalo Ramos.  Milan managed to boost their confidence with a big win against Lecce before the international break. However, due to the length of the break, a lot of"
     },
     {
-      "id": "1b9397de8208",
-      "title": "Caputi su Ramos: \"La nazionale può avergli dato la giusta carica, nessun dubbio sul suo valore\"",
-      "url": "https://www.milannews.it/news/caputi-ramos-la-nazionale-avergli-dato-giusta-carica-dubbio-valore-632350",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:36:46+00:00",
-      "summary": "Massimo Caputi, presente negli studi di Sky nel pre-partita di Sassuolo-Milan, ha rilasciato queste parole su Goncalo Ramos, autore finora di un gol in rossonero, ma reduce da tre gol in quattro partite con il Portogallo: \"Sono curioso di vederl ..."
-    },
-    {
-      "id": "93459ff049b0",
-      "title": "Moreira a Sky: \"A 4 siamo più aggressivi, mi piace. Sarà una partita dura\"",
-      "url": "https://www.milannews.it/news/moreira-sky-a-4-aggressivi-piace-partita-dura-632356",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:36:01+00:00",
-      "summary": "Diego Moreira, calciatore del Milan, oggi parte da titolare nella gara contro il Sassuolo che si gioca alle ore 18 a Reggio Emilia. Di seguito le sue dichiarazioni nel pre-gara di Sky Spoort 24."
-    },
-    {
       "id": "e15f1a278868",
       "title": "Amorim: ‘Milan system doesn’t matter as much as being aggressive’",
       "url": "https://football-italia.net/amorim-milan-system-doesnt-matter-aggressive/",
       "source": "football-italia.net",
       "date": "2026-10-11T15:35:53+00:00",
       "summary": "Ruben Amorim insists the tactical system Milan use against Sassuolo ‘doesn’t matter, it’s about the..."
-    },
-    {
-      "id": "a90b668a4899",
-      "title": "Amorim a DAZN: \"Oggi dobbiamo gestire bene le transizioni. Importante la vicinanza di Cardinale\"",
-      "url": "https://www.milannews.it/news/amorim-dazn-oggi-dobbiamo-gestire-transizioni-importante-vicinanza-cardinale-632355",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:34:23+00:00",
-      "summary": "Ruben Amorim ha parlato a DAZN nel pre partita di Sassuolo-Milan."
-    },
-    {
-      "id": "601521784fb1",
-      "title": "Amorim a Sky: \"Vedremo se la difesa sarà a 3 o a 4. Non sono preoccupato da Ramos\"",
-      "url": "https://www.milannews.it/primo-piano/amorim-sky-vedremo-difesa-3-4-preoccupato-ramos-632353",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:29:00+00:00",
-      "summary": "Il tecnico rossonero Ruben Amorim, in occasione della prima partita del Milan dopo la lunga sosta per le Nazionali in casa del Sassuolo, è intervenuto nel pre-gara ai microfoni di Sky Sport 24 per offrire le sue i ..."
-    },
-    {
-      "id": "35ec977698c3",
-      "title": "Sassuolo, Aquilani: \"Saremo pronti per questa grande sfida. Cisse? Dal primo giorno gli ho riconosciuto qualità diverse\"",
-      "url": "https://www.milannews.it/l-avversario/sassuolo-aquilani-saremo-pronti-sfida-cisse-riconosciuto-qualita-diverse-632352",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:27:04+00:00",
-      "summary": "Alberto Aquilani è stato intervistato da DAZN prima di Sassuolo-Milan. Le sue parole\n\nChe sosta è stata?\n\n“C’era qualche ragazzo indietro, abbiamo spinto un po’ di più."
-    },
-    {
-      "id": "90c04c84c4ac",
-      "title": "Sassuolo, Aquilani: \"Il Milan è molto forte: se giochiamo con coraggio possiamo metterli in difficoltà\"",
-      "url": "https://www.milannews.it/news/sassuolo-aquilani-il-milan-forte-giochiamo-coraggio-possiamo-metterli-difficolta-632351",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:23:42+00:00",
-      "summary": "Le parole di Alberto Aquliani, tecnico del Sassuolo, nel pre-gara di SKy Sport 24 prima della gara del Milan che inizierà alle ore 18 al Mapei Stadium di Reggio Emilia."
-    },
-    {
-      "id": "1e2572acbc53",
-      "title": "Milan, una statistica che fa ben sperare: nessuno come il Diavolo in Serie A",
-      "url": "https://www.milannews.it/news/milan-statistica-sperare-diavolo-serie-632342",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:23:19+00:00",
-      "summary": "Problema gol per il Milan? Per ora non proprio. I rossoneri sono attesi dal difficile appuntamento in trasferta contro il Sassuolo, oggi alle 18."
-    },
-    {
-      "id": "95b5cc45b1f0",
-      "title": "Marcolin: \"Amorim cerca di creare un senso di appartenenza. Lo stiamo apprezzando: tre vittorie e due pareggi non è male come partenza”",
-      "url": "https://www.milannews.it/news/marcolin-amorim-cerca-creare-senso-appartenenza-apprezzando-vittorie-pareggi-partenza-632349",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:19:41+00:00",
-      "summary": "Dario Marcolin, nel pre partita di Sassuolo-Milan, parla così di Ruben Amorim."
     },
     {
       "id": "4078b2a4e971",
@@ -178,30 +290,6 @@
       "summary": "Milan Futuro were unable to build on their positive start to the season as they were beaten 2-1 at home by Rovato on Sunday afternoon. A dramatic ending saw Milan Futuro clinch all three points against Villa Valle before the international break coming back from behind to win 2-1, with Lorenzo Ossola"
     },
     {
-      "id": "3745555823a8",
-      "title": "Diego Moreira e quel curioso confronto con Piatek e Balotelli: i numeri",
-      "url": "https://www.milannews.it/news/diego-moreira-curioso-confronto-piatek-balotelli-numeri-632337",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:12:32+00:00",
-      "summary": "E' il giorno partita! Il Milan di mister Amorim si avvicina sempre più al ritorno in campionato, questa sera alle 18.00 sull'ostico campo del Sassuolo di Alberto Aquilani."
-    },
-    {
-      "id": "daf7853e6d32",
-      "title": "Sassuolo-Milan, Gabbia titolare per la prima volta quest'anno. Ed è vice capitano",
-      "url": "https://www.milannews.it/news/sassuolo-milan-gabbia-titolare-anno-vice-capitano-632346",
-      "source": "milannews.it",
-      "date": "2026-10-11T15:00:15+00:00",
-      "summary": "Sono uscite le formazioni ufficiali di Sassuolo-Milan e Gabbia è stato schierato per la prima volta titolare da Amorim in questo avvio di stagione."
-    },
-    {
-      "id": "0c5356a4d494",
-      "title": "Sassuolo, una solo vittoria nelle ultime dieci contro il Milan",
-      "url": "https://www.milannews.it/l-avversario/sassuolo-vittoria-ultime-dieci-milan-632340",
-      "source": "milannews.it",
-      "date": "2026-10-11T14:48:37+00:00",
-      "summary": "Manca sempre meno al ritorno in campo del Milan in Serie A, tra poco in casa del Sassuolo (ore 18.00)."
-    },
-    {
       "id": "984c9a26d516",
       "title": "Serie A: Sassuolo vs. Milan – Confirmed line-ups",
       "url": "https://football-italia.net/serie-a-sassuolo-milan-confirmed-line-ups/",
@@ -216,14 +304,6 @@
       "source": "sempremilan.com",
       "date": "2026-10-11T14:47:11+00:00",
       "summary": "AC Milan will get their 2026-27 Serie A campaign back underway this evening at the Mapei Stadium against Sassuolo. It is not the easiest of fixtures to get the season resumed, given that Milan’s recent record against the Neroverdi is mixed to say the least. Tonight’s match in Reggio Emilia begins a "
-    },
-    {
-      "id": "dc3f866b1942",
-      "title": "Sassuolo-Milan, le formazioni ufficiali: riecco Gabbia. Moreira dall'inizio, Modric va in panchina",
-      "url": "https://www.milannews.it/primo-piano/sassuolo-milan-formazioni-ufficiali-gabbia-moreira-inizio-modric-panchina-632345",
-      "source": "milannews.it",
-      "date": "2026-10-11T14:44:54+00:00",
-      "summary": "Queste le formazioni ufficiali di Sassuolo-Milan, partita valida per la sesta giornata di Serie A."
     },
     {
       "id": "3f65e5ebc68e",
@@ -298,36 +378,12 @@
       "summary": "AC Milan get their league campaign back underway this evening in Reggio Emilia, taking on Sassuolo in a tricky away trip. Sassuolo are unbeaten in seven of their last nine Serie A matches against Milan (W4 D3), including the three most recent three (W1, D2). So, Ruben Amorim and his team will have t"
     },
     {
-      "id": "20c154449dd8",
-      "title": "TMW: Union-Saint-Gilloise star emerges as latest idea to replace Modric at Milan",
-      "url": "https://sempremilan.com/zorgane-usg-replace-modric-milan",
-      "source": "sempremilan.com",
-      "date": "2026-10-11T09:00:00+00:00",
-      "summary": "AC Milan are aware that they will have to sign a midfielder who can fill the void left by Luka Modric’s exit, likely at the end of the season. During an update on TMW, Niccolò Ceccarini took stock of the business that Milan plan to do both in the upcoming winter window and next summer. […]\nThe post "
-    },
-    {
-      "id": "58fb8ebcc1b5",
-      "title": "CM: Four players Amorim plans to put more faith in as daunting run begins",
-      "url": "https://sempremilan.com/four-players-amorim-more-faith-in",
-      "source": "sempremilan.com",
-      "date": "2026-10-11T08:30:00+00:00",
-      "summary": "With a run of nine games in less than one month about to begin, Ruben Amorim has some plans to keep AC Milan fresh. As Calciomercato.com write, the long wait is over, and now the real action resumes. After a three-week break, Milan return to the field tonight and they do so with a difficult […]\nThe "
-    },
-    {
       "id": "e3d6233e4135",
       "title": "Serie A: Sassuolo vs. Milan – probable line-ups, where to watch on TV",
       "url": "https://football-italia.net/serie-a-sassuolo-v-milan-line-ups-watch-on-tv/",
       "source": "football-italia.net",
       "date": "2026-10-11T08:04:14+00:00",
       "summary": "Diego Moreira is set to start for Milan in an away game at Sassuolo, who..."
-    },
-    {
-      "id": "ccedb48d086b",
-      "title": "GdS: A star-studded Milan – Amorim to field ‘most dazzling’ side against Sassuolo",
-      "url": "https://sempremilan.com/a-star-studded-milan-amorim-sassuolo",
-      "source": "sempremilan.com",
-      "date": "2026-10-11T08:00:00+00:00",
-      "summary": "AC Milan’s 2026-27 Serie A season resumes after the three-week international break with a difficult trip to take on Sassuolo. La Gazzetta dello Sport (seen below) reports this morning that for the first time this season, Ruben Amorim will field ‘the most dazzling version’ of his Milan side from the "
     },
     {
       "id": "b39c57255c3d",
@@ -338,36 +394,12 @@
       "summary": "La Gazzetta dello Sport Inter sprint Chivu restarts with three goals in 30 minutes Sucic,..."
     },
     {
-      "id": "873d6fbb022c",
-      "title": "Sky: Milan’s predicted XI to face Sassuolo – changes on the left",
-      "url": "https://sempremilan.com/milans-predicted-xi-sassuolo-changes-left",
-      "source": "sempremilan.com",
-      "date": "2026-10-10T18:05:24+00:00",
-      "summary": "Ruben Amorim is planning two changes to the starting eleven for Sassuolo-Milan, while the play could be weighted more towards a four-man backline.  In the last week or so, there has been a lot of talk about which formation Amorim will field at Mapei Stadium on Sunday evening. A three-man backline or"
-    },
-    {
-      "id": "bf356f66b411",
-      "title": "Watch: Milan loanee Christopher Nkunku bags first-half hat-trick for Leipzig",
-      "url": "https://sempremilan.com/watch-milan-loanee-nkunku-hat-trick",
-      "source": "sempremilan.com",
-      "date": "2026-10-10T17:40:59+00:00",
-      "summary": "AC Milan loanee Christopher Nkunku has continued his good form, scoring a hat-trick in the first half of RB Leipzig’s game against Eintracht Frankfurt. After ending up in the ‘Bomb Squad’ in the summer, Nkunku agreed to leave Milan and return to Leipzig on loan with an option to buy. With one goal a"
-    },
-    {
       "id": "e3428ec90189",
       "title": "Milan owner Cardinale dons ‘Make Milan Great Again’ cap",
       "url": "https://football-italia.net/cardinale-dons-make-milan-great-again-cap/",
       "source": "football-italia.net",
       "date": "2026-10-10T17:18:07+00:00",
       "summary": "Gerry Cardinale turned heads at Milanello on Saturday, watching Ruben Amorim’s press conference in a..."
-    },
-    {
-      "id": "0196650bd8a6",
-      "title": "Serie A preview: Sassuolo vs. AC Milan – Team news, opposition insight, stats and prediction",
-      "url": "https://sempremilan.com/sassuolo-ac-milan-preview-team-news-stats-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-10-10T17:00:00+00:00",
-      "summary": "AC Milan will finally be back in action on Sunday evening, travelling to the Mapei Stadium to take on Sassuolo.  It has been a long break for us all, but Serie A is back and Milan will resume their season on Sunday evening. It’s not the easiest one to start the hectic run of games, […]\nThe post Seri"
     },
     {
       "id": "009206aab752",
@@ -448,38 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-10-08T11:40:00+00:00",
       "summary": "Juventus, Milan and Como have given fewer minutes in Serie A to Italian players this..."
-    },
-    {
-      "id": "5062bb07210a",
-      "title": "Amorim reveals the Manchester United lesson he has brought to Milan",
-      "url": "https://football-italia.net/amorim-reveals-the-manchester-united-lesson/",
-      "source": "football-italia.net",
-      "date": "2026-10-08T10:55:00+00:00",
-      "summary": "Ruben Amorim says his time at Manchester United taught him how much weight every decision..."
-    },
-    {
-      "id": "3cfd17cec956",
-      "title": "Endrick gives Milan green light but Real Madrid must approve January exit",
-      "url": "https://football-italia.net/endrick-gives-milan-green-light/",
-      "source": "football-italia.net",
-      "date": "2026-10-08T08:40:00+00:00",
-      "summary": "Endrick has reportedly told Milan they would be his first choice if Real Madrid let..."
-    },
-    {
-      "id": "f8776439a039",
-      "title": "Vieri: ‘Pio Esposito will surpass Riva’s Italy record; Milan have a great forward in Ramos’",
-      "url": "https://football-italia.net/vieri-pio-esposito-will-surpass-riva-italy/",
-      "source": "football-italia.net",
-      "date": "2026-10-08T08:20:00+00:00",
-      "summary": "Christian Vieri believes Pio Esposito will one day overtake Gigi Riva as Italy’s all-time top..."
-    },
-    {
-      "id": "73f28b55c4e8",
-      "title": "Today’s Papers: Endrick opens door to Milan, Palmisani calls Juve and Modric isn’t stopping",
-      "url": "https://football-italia.net/todays-papers-endrick-opens-door-to-milan-palmisani-calls-juve-and-modric-isnt-stopping/",
-      "source": "football-italia.net",
-      "date": "2026-10-08T07:59:02+00:00",
-      "summary": "La Gazzetta dello Sport ‘My golden boys’: Under-21 coach Silvio Baldini opens up about his..."
     }
   ]
 }
