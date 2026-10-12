@@ -1,13 +1,205 @@
 {
-  "lastUpdated": "2026-10-12T16:36:31.346746+00:00",
+  "lastUpdated": "2026-10-12T23:29:26.333114+00:00",
   "articles": [
     {
-      "id": "1a7462467622",
-      "title": "Graziani: \"Il Milan non ha ancora un'identità. Perchè Cisse e Camarda non trovano spazio?\"",
-      "url": "https://www.milannews.it/news/graziani-il-milan-identita-cisse-camarda-trovano-spazio-632471",
+      "id": "799da7149b48",
+      "title": "Borghi: \"Modric non dà solo manovra, è anche posizionamenti difensivi\"",
+      "url": "https://www.milannews.it/news/borghi-modric-da-manovra-posizionamenti-difensivi-632514",
       "source": "milannews.it",
-      "date": "2026-10-12T16:30:52+00:00",
-      "summary": "Francesco Graziani, ex attaccante, è intervenuto a Radio Sportiva e ha parlato così del Milan di Ruben Amorim dopo l'1-1 contro il Sassuolo: \"Il Milan non ha ancora un'identità, non ha un'identità di squad ..."
+      "date": "2026-10-12T23:00:00+00:00",
+      "summary": "Anche in questo weekend è tornato d'attualità il discorso relativo al minutaggio concesso a Luka Modric."
+    },
+    {
+      "id": "5fbd52dcc1b1",
+      "title": "Tossani: \"La rosa del Milan è stata assemblata un po' a casaccio\"",
+      "url": "https://www.milannews.it/news/tossani-la-rosa-milan-assemblata-casaccio-632499",
+      "source": "milannews.it",
+      "date": "2026-10-12T22:50:00+00:00",
+      "summary": "Esistono ancora dei punti non chiari da sviscerare sul rendimento globale del Milan nel corso di questo inizio di stagione."
+    },
+    {
+      "id": "d83d26df2a9e",
+      "title": "Ordine pungente: \"Contro il Sassuolo il Milan non è stato né carne e né pesce\"",
+      "url": "https://www.milannews.it/news/ordine-pungente-contro-sassuolo-milan-ne-carne-ne-pesce-identita-definita-632483",
+      "source": "milannews.it",
+      "date": "2026-10-12T22:40:00+00:00",
+      "summary": "Franco Ordine, noto giornalista ed opinionista sportivo/televisivo, ha parlato così a Pressing nel post-partita di Sassuolo-Milan, terminata in parità grazie alle reti di Rabiot e Odenthal."
+    },
+    {
+      "id": "65b14f7324e4",
+      "title": "Diddi: \"Se Allegri avesse avuto la squadra di Amorim, oggi sarebbe primo\"",
+      "url": "https://www.milannews.it/news/diddi-se-allegri-squadra-amorim-primo-632508",
+      "source": "milannews.it",
+      "date": "2026-10-12T22:30:12+00:00",
+      "summary": "Luc Diddi, esperto di tattica e match analyst ha parlato così del Milan di Amorim e del confronto con la squadra di Massimiliano Allegri nella passata stagione. Le sue parole al podcast “CalcioSelvaggio”."
+    },
+    {
+      "id": "303ad5addfd7",
+      "title": "Rabiot ancora in gol: ad oggi solo Malen è più decisivo del francese",
+      "url": "https://www.milannews.it/news/rabiot-gol-malen-decisivo-francese-632482",
+      "source": "milannews.it",
+      "date": "2026-10-12T22:20:00+00:00",
+      "summary": "Un pareggio deludente quello del Milan ieri sera in casa del Sassuolo. I rossoneri, dopo essere passati in vantaggio con il solito e decisivo Adrien Rabiot, hanno subito in pochi istanti il pareggio neroverde di Odenthal."
+    },
+    {
+      "id": "9aa63ab13f85",
+      "title": "Abodi: \"Il successo del calcio non è determinato solo dai presidenti\"",
+      "url": "https://www.milannews.it/news/abodi-il-successo-calcio-determinato-presidenti-632475",
+      "source": "milannews.it",
+      "date": "2026-10-12T22:10:38+00:00",
+      "summary": "(ANSA) - ROMA, 12 OTT - \"Mi sembra una frase fatta senza nessun fondamento. Se qualcuno ha proposte concrete, abbiamo dato ascolto a tutti e alle problematiche di tutti."
+    },
+    {
+      "id": "49244a62bb02",
+      "title": "Ha svelato il problema del Milan. L’intervento sul mercato è già obbligatorio",
+      "url": "https://www.milannews.it/editoriale/svelato-problema-milan-l-intervento-mercato-obbligatorio-632511",
+      "source": "milannews.it",
+      "date": "2026-10-12T22:00:02+00:00",
+      "summary": "Il Milan che abbiamo visto a Reggio Emilia non ha convinto nessuno. I concetti che Ruben Amorim vorrebbe portare non si sono ancora visti, e lui per primo era parecchio deluso dopo l’1-1 con il Sassuolo."
+    },
+    {
+      "id": "c2f6b4da67a5",
+      "title": "Tossani sul Milan: \"Hai preso Amorim che non è un fenomeno...\"",
+      "url": "https://www.milannews.it/news/tossani-milan-hai-preso-amorim-fenomeno-rosa-assemblata-casaccio-632505",
+      "source": "milannews.it",
+      "date": "2026-10-12T21:50:31+00:00",
+      "summary": "Nel corso del consueto appuntamento con Maracanà, programma in onda sulle frequenze di TMW Radio, il match analyst Michele Tossani ha parlato di Milan all'indomani del pareggio deludente di Reggio Emilia contro il Sassuolo."
+    },
+    {
+      "id": "fea32c4cbdde",
+      "title": "Milan, i punti dopo sei giornate di Serie A: il confronto tra Amorim e gli ultimi tecnici rossoneri",
+      "url": "https://www.milannews.it/news/milan-punti-giornate-serie-a-confronto-amorim-ultimi-tecnici-rossoneri-632473",
+      "source": "milannews.it",
+      "date": "2026-10-12T21:40:24+00:00",
+      "summary": "Il Milan ha raccolto 12 punti nelle prime sei giornate di campionato: tre vittorie e tre pareggi per i rossoneri di Ruben Amorim che sono ancora imbattuti in questa Serie A."
+    },
+    {
+      "id": "a5a45a5f04fb",
+      "title": "L'ex arbitro Minelli: \"L'intervento di Laurienté su Gila andava sanzionato con il rosso\"",
+      "url": "https://www.milannews.it/news/arbitro-minelli-l-intervento-lauriente-gila-andava-sanzionato-rosso-632504",
+      "source": "milannews.it",
+      "date": "2026-10-12T21:30:37+00:00",
+      "summary": "L'ex arbitro Daniele Minelli è stato ospite di Maracanà su TMW Radio e ha commentato gli episodi arbitrali più significativi del weekend, tra cui alcuni capitati durante Sassuolo-Milan 1-1."
+    },
+    {
+      "id": "e56908930eaa",
+      "title": "Montella saluta la Turchia con un messaggio di nostalgia sui social",
+      "url": "https://www.milannews.it/news/montella-bella-storia-turchia-cuore-632361",
+      "source": "milannews.it",
+      "date": "2026-10-12T21:20:50+00:00",
+      "summary": "(ANSA) - ROMA, 11 OTT - \"C'è una fine a ogni bella storia ma alcuni viaggi lasciano il loro segno molto oltre il calcio\"."
+    },
+    {
+      "id": "2b4855a49eec",
+      "title": "F.Galli sul Milan: \"Passo falso con il Sassuolo, non riesce ad essere dominante come vorrebbe Amorim\"",
+      "url": "https://www.milannews.it/gli-ex/f-galli-milan-passo-falso-sassuolo-riesce-dominante-vorrebbe-amorim-632468",
+      "source": "milannews.it",
+      "date": "2026-10-12T21:10:20+00:00",
+      "summary": "L'ex difensore, dirigente e allenatore rossonero Filippo Galli ha commentato così a Pressing il pareggio del Milan in casa del Sassuolo: \"Quello contro il Sassuolo è stato un passo falso del Milan che era passato in vantaggio d ..."
+    },
+    {
+      "id": "c04feabad725",
+      "title": "Serie A, la classifica aggiornata: quarta sconfitta di fila per l'Udinese, balzo di Abate",
+      "url": "https://www.milannews.it/news/serie-632491",
+      "source": "milannews.it",
+      "date": "2026-10-12T21:00:55+00:00",
+      "summary": "Continua il periodo nero dell'Udinese: la formazione di Kosta Runjaic perde 2-1 in casa del Torino e incappa così nella quarta sconfitta consecutiva."
+    },
+    {
+      "id": "b4237cfb09b4",
+      "title": "Alaba non basta, Okoye disastroso: il Torino di Abate batte l'Udinese",
+      "url": "https://www.milannews.it/news/torino-udinese-632490",
+      "source": "milannews.it",
+      "date": "2026-10-12T20:50:36+00:00",
+      "summary": "Titoli di coda per la sesta giornata del campionato di Serie A Enilive che si conclude con la sfida tra Torino e Udinese che premia i granata di Ignazio Abate che vincono 2-1."
+    },
+    {
+      "id": "395659f91b82",
+      "title": "Italia femminile, Soncin: \"Dobbiamo compiere un passo decisivo per la qualificazione\"",
+      "url": "https://www.milannews.it/news/mondiali-donne-soncin-dobbiamo-compiere-passo-decisivo-qualificazione-632500",
+      "source": "milannews.it",
+      "date": "2026-10-12T20:40:04+00:00",
+      "summary": "(ANSA) - FIRENZE, 12 OTT - \"Dobbiamo compiere un altro passo decisivo per la qualificazione ai Mondiali, faremo di tutto per regalare una bella serata\"."
+    },
+    {
+      "id": "4513e1d9880c",
+      "title": "Borghi difende Ramos: \"Viene da pensare che non sia tutta colpa sua\"",
+      "url": "https://www.milannews.it/news/borghi-difende-ramos-viene-pensare-colpa-sua-632513",
+      "source": "milannews.it",
+      "date": "2026-10-12T20:30:00+00:00",
+      "summary": "Ancora una volta la prestazione di Gonçalo Ramos con la maglia del Milan è stata priva di acuti. Ci si augurava che la sosta da tre gol in quattro partite con il Portogallo avesse sbloccato il centravanti rossonero."
+    },
+    {
+      "id": "70a0e1298b62",
+      "title": "Il RB Salisburgo lancia un'iniziativa con tre pizzerie della città in vista della sfida al Milan",
+      "url": "https://www.milannews.it/news/rb-salisburgo-lancia-iniziativa-pizzerie-vista-sfida-milan-632506",
+      "source": "milannews.it",
+      "date": "2026-10-12T20:20:00+00:00",
+      "summary": "In occasione della sfida contro il Milan in Europa League di giovedì 15 ottobre, che si giocherà alle 18."
+    },
+    {
+      "id": "0c81b0590930",
+      "title": "Garbo: \"Il Milan fa ancora molta fatica a servire Ramos\"",
+      "url": "https://www.milannews.it/news/garbo-il-milan-fatica-servire-ramos-632497",
+      "source": "milannews.it",
+      "date": "2026-10-12T20:10:17+00:00",
+      "summary": "Milan e Juventus sembrano continuare il loro percorso in simbiosi: è vero i bianconeri hanno un punto di ritardo rispetto ai rossoneri in classifica e sono già incappati in una sconfitta ma in generale, sin dal flop nel f ..."
+    },
+    {
+      "id": "4bd3e1da3671",
+      "title": "Il Milan non vince in casa del Sassuolo dal giorno del 19° Scudetto",
+      "url": "https://www.milannews.it/news/milan-vince-casa-sassuolo-19-scudetto-632498",
+      "source": "milannews.it",
+      "date": "2026-10-12T20:00:00+00:00",
+      "summary": "Il 22 maggio 2022 è una data iscritta nella storia del Milan, capace di vincere il 19° Scudetto della sua esistenza."
+    },
+    {
+      "id": "6dc12d774004",
+      "title": "Kessie sul ritorno a San Siro fra sei giorni: \"Il presidente è sempre pronto\"",
+      "url": "https://www.milannews.it/gli-ex/kessie-ritorno-san-siro-giorni-il-presidente-pronto-632517",
+      "source": "milannews.it",
+      "date": "2026-10-12T19:50:27+00:00",
+      "summary": "Nella partita di oggi in cui l'Atalanta ha sconfitto il Venezia 3-1, nel primo dei due posticipi del lunedì della sesta giornata, la partita è stata sbloccata da Franck Kessie, al suo primo gol in Serie A dai tempi di ..."
+    },
+    {
+      "id": "3fe1bd7db573",
+      "title": "Atalanta sweat on Scalvini and Bellanova injuries as Elmas misses Milan clash",
+      "url": "https://football-italia.net/atalanta-sweat-on-injuries-as-elmas-red/",
+      "source": "football-italia.net",
+      "date": "2026-10-12T19:25:00+00:00",
+      "summary": "Atalanta’s 3-1 win over Venezia came at a cost: Raoul Bellanova and Giorgio Scalvini were..."
+    },
+    {
+      "id": "bfc5853a9ab5",
+      "title": "Sassuolo 1-1 AC Milan: Five things we learned – lapses, a rocket, a lightning rod and the grace period",
+      "url": "https://sempremilan.com/sassuolo-1-1-ac-milan-five-things-we-learned",
+      "source": "sempremilan.com",
+      "date": "2026-10-12T18:33:43+00:00",
+      "summary": "AC Milan got their Serie A campaign back underway after the long break, and it was to prove to be a difficult night against Sassuolo. Milan started the game slowly and the home side had the better of the opening exchanges. The Rossoneri finished the first half strongly though, coming close a couple "
+    },
+    {
+      "id": "5c7491bbbae9",
+      "title": "Official: Specialist consultation required as Gabbia’s scan shows ‘tendon involvement’",
+      "url": "https://sempremilan.com/specialist-required-gabbia-scan-tendon-involvement",
+      "source": "sempremilan.com",
+      "date": "2026-10-12T17:27:30+00:00",
+      "summary": "Matteo Gabbia underwent a scan on his injury that unfortunately confirmed ‘tendon involvement’ with his flexor issue. Gabbia returned to the starting line-up for the first time under the new head coach Ruben Amorim, but it was a night to forget. After a duel with Armand Lauriente down the right side"
+    },
+    {
+      "id": "937e9169ec66",
+      "title": "Mazzara: Inacio ‘needed’ after Gabbia injury but Amorim must answer formation question",
+      "url": "https://sempremilan.com/inacio-needed-gabbia-injury-amorim-formation",
+      "source": "sempremilan.com",
+      "date": "2026-10-12T17:20:00+00:00",
+      "summary": "Pietro Mazzara has stressed his concerns that AC Milan and Ruben Amorim have a lot to figure out in the coming weeks. Milan went into the three-week international break with a 3-0 win against Lecce which suggested the team had turned a corner after a mixed start to the campaign. However, the 1-1 dra"
+    },
+    {
+      "id": "c8fe7348ad76",
+      "title": "Nine players get below-par scores: Fan player ratings for Sassuolo 1-1 AC Milan",
+      "url": "https://sempremilan.com/fan-player-ratings-for-sassuolo-1-1-ac-milan",
+      "source": "sempremilan.com",
+      "date": "2026-10-12T16:40:00+00:00",
+      "summary": "AC Milan returned from the three-week international break with a 1-1 draw against Sassuolo away from home on Sunday night. Adrien Rabiot’s goal in the 63rd minute broke the deadlock and looked like potentially firing Ruben Amorim’s side to a fourth win in six Serie A games. However, a poorly-defende"
     },
     {
       "id": "be2cbbb834a5",
@@ -18,60 +210,12 @@
       "summary": "Lorenzo Bettoni and Giancarlo Rinaldi review the main talking points from Serie A Round 6,..."
     },
     {
-      "id": "58fc6928a805",
-      "title": "Mauro spiega il problema del Milan: \"I suoi esterni offensivi rientrano e tirano e così i palloni giusti al centravanti non arrivano mai\"",
-      "url": "https://www.milannews.it/news/mauro-spiega-problema-milan-i-esterni-offensivi-rientrano-tirano-palloni-giusti-centravanti-arrivano-632469",
-      "source": "milannews.it",
-      "date": "2026-10-12T16:21:29+00:00",
-      "summary": "Intervenuto a Pressing per commentare la 6^ giornata di Serie A, Massimo Mauro, ex giocatore, ha spiegato un problema che secondo lui accomuna il Milan e la Juventus: \"Gol come quello preso dal Milan  contro il Sassuolo possono capitare, un ..."
-    },
-    {
-      "id": "067f7b266541",
-      "title": "Pellegatti: \"Il tifoso comincia a fare come due anni fa: c'era Allegri, adesso c'è l'ombra di Conte\"",
-      "url": "https://www.milannews.it/news/pellegatti-il-tifoso-comincia-fa-allegri-ombra-conte-632502",
-      "source": "milannews.it",
-      "date": "2026-10-12T16:10:12+00:00",
-      "summary": "Ruben Amorim, allenatore del Milan, non sembra ancora aver trovato la quadra: non lo dice tanto un pareggio in casa del Sassuolo, che nell'economia di un campionato può anche capitare, ma l'indecisione sul modulo da utilizzar ..."
-    },
-    {
-      "id": "c91b31763754",
-      "title": "L'infortunio di Gabbia cambia tutto: adesso il difensore a gennaio è obbligatorio",
-      "url": "https://www.milannews.it/primo-piano/infortunio-gabbia-cambia-tutto-difensore-gennaio-obbligatorio-632495",
-      "source": "milannews.it",
-      "date": "2026-10-12T16:00:46+00:00",
-      "summary": "In estate era già sembrato evidente: al Milan serviva un difensore centrale in più."
-    },
-    {
       "id": "cc2ccedb8840",
       "title": "Moretto: Milan among teams keen on Palmeiras star – asking price set ahead of January",
       "url": "https://sempremilan.com/milan-keen-palmeiras-giay-atletico-napoli",
       "source": "sempremilan.com",
       "date": "2026-10-12T16:00:00+00:00",
       "summary": "AC Milan are one of several clubs that are watching Palmeiras defender Agustin Giay, according to a report. Matteo Moretto claimed that several major clubs are interested in signing Giay from Palmeiras ahead of the January transfer window. In the meantime, the right-back continues to put in top perf"
-    },
-    {
-      "id": "1047469e7453",
-      "title": "MN - Bondo è tornato ad allenarsi con il Milan dopo 3 mesi. Non potrà giocare fino al 28 dicembre: ecco perchè",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-bondo-tornato-allenarsi-milan-3-632501",
-      "source": "milannews.it",
-      "date": "2026-10-12T15:50:00+00:00",
-      "summary": "Warren Bondo è tornato quest'oggi ad allenarsi in prima squadra con il Milan dopo tre mesi da fuori rosa."
-    },
-    {
-      "id": "7362df6d0ae1",
-      "title": "Malagò è soddisfatto delle prove offerte dalle nazionali nell'ultimo mese",
-      "url": "https://www.milannews.it/news/malago-nazionali-cose-importanti-mese-632440",
-      "source": "milannews.it",
-      "date": "2026-10-12T15:40:29+00:00",
-      "summary": "(ANSA) - ROMA, 12 OTT - \"Le tre nazionali che contano più di tutte negli ultimi 30 giorni hanno fatto delle cose molto importanti."
-    },
-    {
-      "id": "5c76a71b620c",
-      "title": "Passerini netto dopo Sassuolo-Milan: \"Risultato negativo, due punti persi. Di buono c'è...\"",
-      "url": "https://www.milannews.it/news/passerini-netto-sassuolo-milan-risultato-negativo-punti-persi-e-632463",
-      "source": "milannews.it",
-      "date": "2026-10-12T15:31:50+00:00",
-      "summary": "Carlos Passerini, giornalista del Corriere della Sera, si è così espresso sul suo canale Youtube dal Mapei Stadium dopo Sassuolo-Milan (1-1): \"Risultato negativo: due punti persi."
     },
     {
       "id": "ac36c0776079",
@@ -82,60 +226,12 @@
       "summary": "A worrying trend has emerged during the first few games of the 2026-27 season for AC Milan regarding set-pieces. As today’s edition of La Gazzetta dello Sport (seen below) points out, there seems to be a problem with goals conceded from dead-ball situations for Milan. Just six games into the new sea"
     },
     {
-      "id": "7c39e1591142",
-      "title": "Seedorf commenta così la sua nomina (a sorpresa) da allenatore del Corinthians",
-      "url": "https://www.milannews.it/gli-ex/seedorf-allenatore-corinthians-milan-accettare-sfida-onore-responsabilita-632348",
-      "source": "milannews.it",
-      "date": "2026-10-12T15:20:15+00:00",
-      "summary": "Il Corinthians ha annunciato di aver scelto Clarence Seedorf come nuovo allenatore."
-    },
-    {
-      "id": "992479be4f62",
-      "title": "Ordine e i problemi del Milan: \"Non ha ancora un'identità e manca organizzazione difensiva\"",
-      "url": "https://www.milannews.it/news/ordine-problemi-milan-non-identita-manca-organizzazione-difensiva-632467",
-      "source": "milannews.it",
-      "date": "2026-10-12T15:08:05+00:00",
-      "summary": "Presente negli studi di Pressing, Franco Ordine, giornalista de Il Giornale, ha spiegato quali sono secondo lui i problemi del Milan di Ruben Amorim che non è andato oltre all'1-1 in casa del Sassuolo: \"Il problema del Milan è  ..."
-    },
-    {
-      "id": "1eed1a10bd3b",
-      "title": "Modric non serviva un assist vincente nel Milan dallo scorso gennaio a Roma",
-      "url": "https://www.milannews.it/news/modric-serviva-assist-vincente-milan-gennaio-roma-632461",
-      "source": "milannews.it",
-      "date": "2026-10-12T15:00:17+00:00",
-      "summary": "Quarto assist di Luka Modric con la maglia del Milan in Serie A, l'ultimo risaliva allo scorso 25 gennaio contro la Roma. Lo riporta Opta."
-    },
-    {
       "id": "667b03acf0cf",
       "title": "The golden 61-75 minute zone: All the key stats from Sassuolo 1-1 AC Milan",
       "url": "https://sempremilan.com/all-key-stats-sassuolo-1-1-ac-milan",
       "source": "sempremilan.com",
       "date": "2026-10-12T15:00:00+00:00",
       "summary": "AC Milan played out their third draw in their first six Serie A games of the season, emerging from Sassuolo with a 1-1. Adrien Rabiot gave Milan the lead inside the final 30 minutes after a good spell, and it looked as though the game was in hand. However, the inability to deal with a […]\nThe post T"
-    },
-    {
-      "id": "1753daf74951",
-      "title": "Dybala annuncia di voler porre fine alla sua carriera con la maglia della Roma",
-      "url": "https://www.milannews.it/news/calcio-dybala-spero-carriera-roma-presto-parlarne-632464",
-      "source": "milannews.it",
-      "date": "2026-10-12T14:40:57+00:00",
-      "summary": "(ANSA) - ROMA, 12 OTT - \"La Champions? Abbiamo dato tutto la scorsa stagione. Ha messo allegria a noi e ai tifosi."
-    },
-    {
-      "id": "3a9e5d3174dc",
-      "title": "Milan, cantiere che preoccupa. Chi si prende responsabilità? Mercato di gennaio: per quale modulo?",
-      "url": "https://www.milannews.it/editoriale/milan-cantiere-preoccupa-prende-responsabilita-mercato-gennaio-modulo-632407",
-      "source": "milannews.it",
-      "date": "2026-10-12T14:32:01+00:00",
-      "summary": "La ripresa del campionato ci ha detto tante cose, alcune delle quali sono state spesso sottolineate nel corso dell’estate e che, puntualmente, si sono palesate."
-    },
-    {
-      "id": "7eb16763dd02",
-      "title": "De Laurentiis senza giri di parole: \"Malagò? Purtroppo è la stupidità che governa l'Italia\"",
-      "url": "https://www.milannews.it/news/de-laurentiis-serie-malago-mettere-discussione-632448",
-      "source": "milannews.it",
-      "date": "2026-10-12T14:30:07+00:00",
-      "summary": "\"Malagò? Purtroppo è la stupidità che governa l'Italia. Giovanni non dovrebbe mai essere in discussione."
     },
     {
       "id": "28da4599e280",
@@ -146,30 +242,6 @@
       "summary": "Kristian Thorstvedt believes Sassuolo deserved even more than a draw from their game against AC Milan on Sunday night. Adrien Rabiot’s third goal of the season broke the deadlock just after the hour mark, but five minutes later Sassuolo got themselves level as Milan failed to deal with a corner allo"
     },
     {
-      "id": "a111a9bf731f",
-      "title": "Tre pari nelle prime quattro trasferte: al Milan non succedeva dallo Scudetto con Zaccheroni",
-      "url": "https://www.milannews.it/news/pari-prime-trasferte-milan-succedeva-scudetto-zaccheroni-632462",
-      "source": "milannews.it",
-      "date": "2026-10-12T14:20:19+00:00",
-      "summary": "Il Milan ha pareggiato tre delle prime quattro trasferte stagionali di Serie A per la prima volta dal 1999/2000 con Alberto Zaccheroni allenatore (1V, 3N anche in quel caso). Lo riporta Opta."
-    },
-    {
-      "id": "8e0e6c6f543e",
-      "title": "Serafini: \"La delusione è grande. 25 minuti di buon Milan, ma non possono essere sufficienti\"",
-      "url": "https://www.milannews.it/news/serafini-la-delusione-grande-25-minuti-buon-milan-possono-sufficienti-632465",
-      "source": "milannews.it",
-      "date": "2026-10-12T14:10:35+00:00",
-      "summary": "Luca Serafini, giornalista, si è così espresso sul canale Youtube di MilanCommunity al termine di Sassuolo-Milan (1-1): \"La delusione è grande perché c'era l'opportunità di agganciare la Roma a 14 punti ..."
-    },
-    {
-      "id": "acb2e7aa237a",
-      "title": "A metà ottobre si parla ancora di mentalità: il messaggio lanciato da Rabiot è chiaro",
-      "url": "https://www.milannews.it/primo-piano/meta-ottobre-parla-mentalita-messaggio-lanciato-rabiot-chiaro-632476",
-      "source": "milannews.it",
-      "date": "2026-10-12T14:00:17+00:00",
-      "summary": "Il problema del Milan non è il pareggio di ieri sera a Reggio Emilia. O meglio, non è soltanto quello."
-    },
-    {
       "id": "e85d11adf251",
       "title": "Amorim explains how Milan must improve and swats away unbeaten start: “For me, I lost today”",
       "url": "https://sempremilan.com/amorim-how-milan-improve-lost-today",
@@ -178,44 +250,12 @@
       "summary": "Ruben Amorim dismissed the talk of his unbeaten record as a Serie A coach so far given the two points dropped against Sassuolo. Milan were forced to settle for a 1-1 draw against Sassuolo at the Mapei Stadium on Sunday night. Adrien Rabiot’s 63rd-minute goal got things going, but then Odenthal’s equ"
     },
     {
-      "id": "0f040b436169",
-      "title": "Marchetti: \"Milan vive sulle individualità: dà l'idea di essere un'incompiuta\"",
-      "url": "https://www.milannews.it/news/marchetti-milan-vive-individualita-da-idea-incompiuta-632417",
-      "source": "milannews.it",
-      "date": "2026-10-12T13:50:24+00:00",
-      "summary": "Il Milan esce con un solo punto da Reggio Emilia: nonostante i rossoneri siano riusciti a sbloccare la gara contro il Sassuolo poco dopo l'ora di gioco con una gran botta di Rabiot, non sono stati in grado di mantenere il vantaggio e hanno s ..."
-    },
-    {
-      "id": "151cb50431ca",
-      "title": "Diomandé segna il suo primo gol con il Real Madrid e lo dedica alla sorella scomparsa",
-      "url": "https://www.milannews.it/news/barcellona-ferma-piu-diomande-regala-punti-real-632458",
-      "source": "milannews.it",
-      "date": "2026-10-12T13:41:57+00:00",
-      "summary": "(ANSA) - ROMA, 10 OTT - Otto vittorie su otto in campionato, più una in Champions League."
-    },
-    {
-      "id": "6eac83573ba1",
-      "title": "Ordine sottolinea un nuovo problema grave: \"Ora non ci sono ricambi\"",
-      "url": "https://www.milannews.it/news/ordine-problemi-difensivi-milan-e-infortunio-gabbia-ricambi-632446",
-      "source": "milannews.it",
-      "date": "2026-10-12T13:30:13+00:00",
-      "summary": "Sulle pagine de Il Giornale, Franco Ordine ha posto l'attenzione sulle difficoltà difensive del Milan di Ruben Amorim: \"Dicono: mancano i gol, specie di Ramos che resta a secco dopo le perfomance col Portogallo."
-    },
-    {
       "id": "73d1eae4da60",
       "title": "Moretto: ‘His right as a player’ – Bondo ready for shock return to Milan first-team training",
       "url": "https://sempremilan.com/bondo-return-milan-first-team-training",
       "source": "sempremilan.com",
       "date": "2026-10-12T13:30:00+00:00",
       "summary": "Warren Bondo will be back in first team training with the rest of the AC Milan squad from today, according to Matteo Moretto. Bondo was excluded from Ruben Amorim’s plans during the preseason, but failed to find a solution during the summer window. Thus, he was left in the strange position of being "
-    },
-    {
-      "id": "79393642f81a",
-      "title": "Lo scandalo non frena il Manchester City: clamorosa vittoria per 3-0 a Liverpool",
-      "url": "https://www.milannews.it/news/premier-scandalo-frena-city-vittoria-3-0-liverpool-632457",
-      "source": "milannews.it",
-      "date": "2026-10-12T13:22:46+00:00",
-      "summary": "(ANSA) - ROMA, 11 OTT - Il Manchester City ha vinto 3-0 in casa del Liverpool nella prima partita giocata dopo che la società è stata riconosciuta colpevole di oltre 100 violazioni delle regole finanziarie della Premier League."
     },
     {
       "id": "79985d2af2d5",
@@ -314,36 +354,12 @@
       "summary": "Reports in Italy claim that Milan owner Gerry Cardinale was disappointed after watching his side’s..."
     },
     {
-      "id": "7e9f6d1270e2",
-      "title": "Gallery: ‘The tension rises’, ‘Rabiot scolds a poor Milan’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/front-pages-italy-12-october-sassuolo-1-1-milan",
-      "source": "sempremilan.com",
-      "date": "2026-10-12T08:00:00+00:00",
-      "summary": "AC Milan took the lead in the second half away from home against Sassuolo, but were unable to bank three points on their return to league action. Adrien Rabiot’s goal three minutes after the hour mark broke the deadlock and looked like potentially firing Ruben Amorim’s side to a fourth win in six Se"
-    },
-    {
       "id": "835f59d8577e",
       "title": "Today’s Papers: Lazio join the lead, Spalletti-Pisacane row, Malen madness",
       "url": "https://football-italia.net/todays-papers-lazio-join-the-lead/",
       "source": "football-italia.net",
       "date": "2026-10-12T07:52:54+00:00",
       "summary": "La Gazzetta dello Sport Not like that  Milan do too little, and the tension rises ..."
-    },
-    {
-      "id": "81fe18263518",
-      "title": "Rabiot concedes Milan have ‘work to do’ after ‘lost’ two points: “We can’t concede like that”",
-      "url": "https://sempremilan.com/rabiot-milan-work-do-cant-concede",
-      "source": "sempremilan.com",
-      "date": "2026-10-11T18:57:02+00:00",
-      "summary": "Adrien Rabiot was not happy with the goal that AC Milan conceded soon after taking the lead against Sassuolo, leading to two points dropped. Both goals came in the second half at the Mapei Stadium. Firstly, Rabiot rocketed a shot past Muric at the near post to give Milan the lead, before Odenthal wa"
-    },
-    {
-      "id": "cacbfbab1df5",
-      "title": "Disappointing draw at the Mapei: Instant reaction to Sassuolo 1-1 AC Milan",
-      "url": "https://sempremilan.com/instant-reaction-sassuolo-1-1-milan-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-10-11T18:51:48+00:00",
-      "summary": "AC Milan failed to kick-start what is a tough run of games with a win, clinching just one point away at Sassuolo despite taking the lead.  After a very slow start to the first half, Milan found their feet and established some pressure in the Sassuolo final third, which continued into the second half"
     },
     {
       "id": "3908af492ba2",
@@ -360,14 +376,6 @@
       "source": "football-italia.net",
       "date": "2026-10-11T18:45:04+00:00",
       "summary": "Ruben Amorim explains his Milan tactical changes, including the introduction of Luka Modric, but they..."
-    },
-    {
-      "id": "4e9ac2280627",
-      "title": "Amorim bemoans dropped points in dissection of Sassuolo draw: “A question of mentality”",
-      "url": "https://sempremilan.com/amorim-bemoans-dropped-points-dissection-sassuolo",
-      "source": "sempremilan.com",
-      "date": "2026-10-11T18:39:35+00:00",
-      "summary": "Ruben Amorim has insisted that he and his AC Milan side cannot feel satisfied with any match that ends without a win. Milan were held to a 1-1 draw against Sassuolo at the Mapei Stadium in Reggio Emilia. After taking the lead midway through the second half through Adrien Rabiot’s rocket of a strike,"
     },
     {
       "id": "27a163057d6f",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-10-09T10:44:33+00:00",
       "summary": "La Gazzetta dello Sport reports that Milan will continue pursuing Sporting CP defender Gonçalo Inácio..."
-    },
-    {
-      "id": "b1cc137f968e",
-      "title": "Milan focus on new contracts for Pulisic, Rabiot and Pavlovic as Cardinale returns",
-      "url": "https://football-italia.net/milan-new-contracts-pulisic-rabiot-pavlovic/",
-      "source": "football-italia.net",
-      "date": "2026-10-09T09:41:13+00:00",
-      "summary": "Gerry Cardinale will outline a strategy with Milan directors as the Rossoneri prepare for contract..."
     }
   ]
 }
