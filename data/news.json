@@ -1,37 +1,277 @@
 {
-  "lastUpdated": "2026-10-13T13:34:01.362397+00:00",
+  "lastUpdated": "2026-10-13T20:04:35.209454+00:00",
   "articles": [
     {
+      "id": "8fb192b6bcaa",
+      "title": "Massimo Mauro pesante su Milan e Juve: \"Sono abbastanza imbarazzanti\"",
+      "url": "https://www.milannews.it/news/massimo-mauro-pesante-milan-juve-sono-imbarazzanti-632580",
+      "source": "milannews.it",
+      "date": "2026-10-13T19:50:00+00:00",
+      "summary": "Massimo Mauro, ex calciatore da anni noto opinionista sportivo, ha parlato così di Milan e Juventus alla Gazzetta dello Sport, criticando aspramente le ultime prestazioni di rossoneri e bianconeri."
+    },
+    {
+      "id": "ca704dfff730",
+      "title": "Marinozzi convinto: “Amorim giudicato eccessivamente dopo solo 7 partite, diamogli tempo”",
+      "url": "https://www.milannews.it/news/marinozzi-convinto-amorim-giudicato-eccessivamente-7-partite-diamogli-tempo-632615",
+      "source": "milannews.it",
+      "date": "2026-10-13T19:40:48+00:00",
+      "summary": "Durante l'ultima puntata di \"Fontana di Trevi\", format di Cronache di Spogliatoio, il giornalista Andrea Marinozzi ha parlato di Ruben Amorim e delle tante critiche che sta ricevendo. Queste le sue parole."
+    },
+    {
+      "id": "22a19dbbf879",
+      "title": "Pellegatti: “Cardinale perplesso dalla non crescita di Ramos. Rabiot infelice della sua bocciatura”",
+      "url": "https://www.milannews.it/news/pellegatti-cardinale-perplesso-crescita-ramos-rabiot-infelice-bocciatura-632608",
+      "source": "milannews.it",
+      "date": "2026-10-13T19:30:41+00:00",
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato le indiscrezioni che parlano dei dubbi e delle perplessità del patron rossonero Gerry Cardinale. Queste le sue parole."
+    },
+    {
+      "id": "0258042af8ba",
+      "title": "Champions: City-Psg, Dembelè \"Donnarumma è il n.1 al mondo\"",
+      "url": "https://www.milannews.it/news/champions-city-psg-dembele-donnarumma-n-1-mondo-632609",
+      "source": "milannews.it",
+      "date": "2026-10-13T19:20:51+00:00",
+      "summary": "(ANSA) - ROMA, 13 OTT - Ex compagni al Psg, rivali in nazionale e domani anche in Champions, Ousmane Dembélé e Gianluigi Donnarumma saranno protagonisti nel match in programma nello stadio del Manchester City, uno dei più attesi  ..."
+    },
+    {
+      "id": "f10269ed5893",
+      "title": "Ramos a secco: i dati contro il Sassuolo evidenziano un chiaro problema",
+      "url": "https://www.milannews.it/news/ramos-secco-dati-sassuolo-evidenziano-chiaro-problema-632586",
+      "source": "milannews.it",
+      "date": "2026-10-13T19:10:00+00:00",
+      "summary": "Il momento di Gonçalo Ramos al Milan, oggi non è sicuramente dei più positivi."
+    },
+    {
+      "id": "21179f0b6ea5",
+      "title": "Braglia: \"Amorim a rischio? Giusto dare tempo agli allenatori. Con gli americani rischia grosso\"",
+      "url": "https://www.milannews.it/news/braglia-amorim-rischio-giusto-dare-allenatori-americani-rischia-grosso-632594",
+      "source": "milannews.it",
+      "date": "2026-10-13T19:00:31+00:00",
+      "summary": "Nella mattinata di oggi la Gazzetta dello Sport ha riportato quello che sarebbe il sentimento di Gerry Cardinale dopo il pareggio del Milan contro il Sassuolo."
+    },
+    {
+      "id": "189c332bf4f9",
+      "title": "Salisburgo: ecco i numeri e statistiche del prossimo avversario del Milan",
+      "url": "https://www.milannews.it/l-avversario/salisburgo-numeri-statistiche-prossimo-avversario-milan-632577",
+      "source": "milannews.it",
+      "date": "2026-10-13T18:50:00+00:00",
+      "summary": "Un avversario tutt'altro che banale e scontato per il Milan di Ruben Amorim, reduce dallo scialbo pareggio di Sassuolo nell'ultimo turno di campionato."
+    },
+    {
+      "id": "0893c79cfa30",
+      "title": "Villareal, shock Gulacsi: subisce una rapina a mano armata in casa. Salta la sfida con il Napoli",
+      "url": "https://www.milannews.it/news/villareal-shock-gulasci-subisce-rapina-mano-armata-casa-salta-sfida-napoli-632618",
+      "source": "milannews.it",
+      "date": "2026-10-13T18:40:11+00:00",
+      "summary": "A poche ore dal calcio d'inizio di Villareal-Napoli, gli spagnoli hanno ricevuto una notizia a dir poco clamorosa che impatta anche sulla formazione titolare che ha schierato il tecnico Perez."
+    },
+    {
+      "id": "4b8aa50b5857",
+      "title": "Pellegatti commenta: “Conte rimane sulla sua linea, il Milan conferma la fiducia ad Amorim”",
+      "url": "https://www.milannews.it/news/pellegatti-commenta-conte-rimane-linea-milan-conferma-fiducia-amorim-632607",
+      "source": "milannews.it",
+      "date": "2026-10-13T18:30:47+00:00",
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato le parole di Antonio Conte, attualmente senza panchina, e della fiducia del Milan per Ruben Amorim. Queste le sue parole."
+    },
+    {
+      "id": "c11a399305b0",
+      "title": "Champions: Mourinho e il Real accolti da tanti tifosi a Fiumicino",
+      "url": "https://www.milannews.it/news/champions-mourinho-real-accolti-tanti-tifosi-fiumicino-632613",
+      "source": "milannews.it",
+      "date": "2026-10-13T18:20:01+00:00",
+      "summary": "(ANSA) - FIUMICINO, 13 OTT - Oltre un centinaio di appassionati, con in vista le maglie dei loro beniamini tra i Galacticos, hanno accolto Josè Mourinho ed il Real Madrid, che domani sera affronterà la Roma nel secondo incontro di Champ ..."
+    },
+    {
+      "id": "930889abcba0",
+      "title": "Cassano: \"In questo momento Amorim vede più Musah di Modric perché ha sette polmoni...\"",
+      "url": "https://www.milannews.it/news/cassano-in-amorim-vede-musah-modric-polmoni-632585",
+      "source": "milannews.it",
+      "date": "2026-10-13T18:10:00+00:00",
+      "summary": "E' complicato analizzare sin qui la stagione che Yunus Musah sta vivendo in rossonero. Tanta fiducia da parte di Amorim e prestazioni a fase alterne, così come tutto il Milan."
+    },
+    {
+      "id": "1a8d774db8db",
+      "title": "Tresoldi: ‘A dream come true, feels like a derby’ against Inter in Champions League",
+      "url": "https://football-italia.net/tresoldi-a-dream-come-true-feels-like-a-derby/",
+      "source": "football-italia.net",
+      "date": "2026-10-13T18:05:20+00:00",
+      "summary": "Nicolò Tresoldi admits it is ‘a dream come true’ to play at San Siro for..."
+    },
+    {
+      "id": "c6c1d76c112c",
+      "title": "Camarda, ci siamo: il classe 2008 punta il Salisburgo. E Amorim prepara tanti cambi",
+      "url": "https://www.milannews.it/primo-piano/camarda-caso-no-amorim-protegge-parole-spettatore-632481",
+      "source": "milannews.it",
+      "date": "2026-10-13T18:00:06+00:00",
+      "summary": "Otto minuti. Questo, fin qui, è sostanzialmente l'apporto di Francesco Camarda in stagione."
+    },
+    {
+      "id": "ae6e0feb0e26",
+      "title": "Why Amorim went back to the three-man defence: Tactical analysis of Sassuolo 1-1 AC Milan",
+      "url": "https://sempremilan.com/tactical-analysis-sassuolo-1-1-ac-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-10-13T18:00:00+00:00",
+      "summary": "AC Milan marked their return to Serie A action with a 1-1 draw against Sassuolo on Sunday evening, a result that leaves a bitter feeling. A 3-0 win over Lecce before a three-week international break meant that there was excitement and intrigue in the air ahead of Milan’s trip to Reggio Emilia, a gro"
+    },
+    {
+      "id": "8acac079eb08",
+      "title": "Mourinho blinda Endrick: \"Non va da nessuna parte, chi vorrà prenderlo a gennaio dovrà passare sopra di me\"",
+      "url": "https://www.milannews.it/news/mourinho-blinda-endrick-non-parte-vorra-prenderlo-gennaio-passare-me-632617",
+      "source": "milannews.it",
+      "date": "2026-10-13T17:50:42+00:00",
+      "summary": "Si è parlato moltissimo del giovane talentuoso attaccante brasiliano del Real Madrid, Endrick, che secondo le ultime voci di mercato in vista di gennaio, sarebbe molto stimato dalla proprietà e dirigenza rossonera."
+    },
+    {
+      "id": "b9d286f60bd9",
+      "title": "Il pronostico di Adani: \"Metto il Milan tra le prime quattro con Inter, Juventus e Napoli\"",
+      "url": "https://www.milannews.it/news/pronostico-adani-metto-milan-prime-inter-juventus-napoli-632551",
+      "source": "milannews.it",
+      "date": "2026-10-13T17:40:11+00:00",
+      "summary": "Nel corso della prima puntata stagione di Viva El Futbol, Daniele Adani ha parlato del Milan di Ruben Amorim, reduce dal deludente pari di Reggio Emilia contro il Sassuolo di Alberto Aquilani: \n\n\"Nella comunicazione la cosa che mi è ..."
+    },
+    {
+      "id": "43b686a3adec",
+      "title": "Verso Salisburgo-Milan: il bilancio complessivo in Europa dell'arbitro Fesnic",
+      "url": "https://www.milannews.it/news/salisburgo-milan-bilancio-complessivo-europa-arbitro-fesnic-632572",
+      "source": "milannews.it",
+      "date": "2026-10-13T17:30:42+00:00",
+      "summary": "Per la seconda giornata della League Phase di Europa League il Milan sarà ospite giovedì alle 18.45 del RB Salisburgo in Austria."
+    },
+    {
+      "id": "a1ba09f931f5",
+      "title": "Lotta Scudetto: Massimo Mauro snobba così Milan e Juventus",
+      "url": "https://www.milannews.it/news/lotta-scudetto-massimo-mauro-snobba-milan-juventus-632581",
+      "source": "milannews.it",
+      "date": "2026-10-13T17:20:00+00:00",
+      "summary": "Massimo Mauro, ex calciatore da anni noto opinionista sportivo, ha parlato così di Milan e Juventus alla Gazzetta dello Sport, criticando aspramente le ultime prestazioni di rossoneri e bianconeri."
+    },
+    {
+      "id": "ab15e9f9eb72",
+      "title": "“Clearly want to monitor closely” – Moretto offers another name for Milan’s defender shortlist",
+      "url": "https://sempremilan.com/moretto-offers-new-name-milan-defender-shortlist",
+      "source": "sempremilan.com",
+      "date": "2026-10-13T17:20:00+00:00",
+      "summary": "AC Milan need a central defender in January. Before Matteo Gabbia’s injury, it was essential; now it could be decisive for their hopes this season. Failing to sign a defender in the January mercato would be a failure from Milan. They made a last-ditch effort in the summer to sign Goncalo Inacio, but"
+    },
+    {
+      "id": "62b3b00fe99d",
+      "title": "Serie A, gli squalificati per la 7^ giornata: stop a Spalletti e Pisacane",
+      "url": "https://www.milannews.it/news/serie-a-spalletti-pisacane-squalificati-turno-stop-malen-632582",
+      "source": "milannews.it",
+      "date": "2026-10-13T17:10:00+00:00",
+      "summary": "(ANSA) - ROMA, 13 OTT - Tre giocatori, tra i quali il romanista Donyell Malen, e due allenatori, Luciano Spalletti e Fabio Pisacane, sono stati squalificati per una giornata dal giudice sportivo di serie A, Gerardo Mastrandrea in relazione agli incon ..."
+    },
+    {
+      "id": "9a8138598e5c",
+      "title": "Verso Salisburgo-Milan: i precedenti in Europa sorridono ai rossoneri",
+      "url": "https://www.milannews.it/news/salisburgo-milan-precedenti-europa-sorridono-rossoneri-632578",
+      "source": "milannews.it",
+      "date": "2026-10-13T17:00:00+00:00",
+      "summary": "Manca sempre meno al secondo appunamento in Europa League del Milan di Ruben Amorim."
+    },
+    {
+      "id": "54711c763b29",
+      "title": "Ibrahimovic still involved despite moving into the background at Milan",
+      "url": "https://football-italia.net/ibrahimovic-still-involved-milan-background/",
+      "source": "football-italia.net",
+      "date": "2026-10-13T16:58:42+00:00",
+      "summary": "Reports on Tuesday evening claim that Zlatan Ibrahimovic is still involved in the running of..."
+    },
+    {
+      "id": "ff162ffbec98",
+      "title": "La FIFA rilancia le accuse contro Infantino: \"Non riceve un secondo stipendio\"",
+      "url": "https://www.milannews.it/dall-estero/fifa-accuse-infondate-infantino-riceve-stipendio-632587",
+      "source": "milannews.it",
+      "date": "2026-10-13T16:50:00+00:00",
+      "summary": "(ANSA) - ROMA, 13 OTT - \"La Fifa non versa un secondo stipendio al presidente della Fifa e rispetta tutti gli obblighi di rendicontazione relativi alla retribuzione."
+    },
+    {
+      "id": "208d091c308c",
+      "title": "Quote risultato esatto Salisburgo Milan",
+      "url": "https://www.milannews.it/scommesse/pronostici/quote-risultato-esatto-salisburgo-milan-632596",
+      "source": "milannews.it",
+      "date": "2026-10-13T16:45:39+00:00",
+      "summary": "Dopo il deludente pareggio contro il Sassuolo, il Milan di Ruben Amorim ha l'occasione per rialzare la testa: c'è il Salisburgo in Europa League, partita da vincere a tutti i costi dopo il ko all'esordio contro il Benfica."
+    },
+    {
+      "id": "1ecae38a596d",
+      "title": "MilanVibes: Milan can no longer rely on Rabiot’s goals for three points – Sassuolo break the trend",
+      "url": "https://sempremilan.com/milan-no-longer-rely-rabiot-goals-three-points",
+      "source": "sempremilan.com",
+      "date": "2026-10-13T16:40:00+00:00",
+      "summary": "Before this weekend, AC Milan knew that if Adrien Rabiot scored, they’d win the game. However, that is no longer the case. With Rabiot’s goal from nothing, it seemed like the French midfielder would again be the difference. His presence is something that can win games by itself, but his impact in th"
+    },
+    {
+      "id": "6934b7bbcec1",
+      "title": "Hutchinson urged to step up for Milan after Saelemaekers surgery",
+      "url": "https://football-italia.net/hutchinson-urged-to-step-up-for-milan/",
+      "source": "football-italia.net",
+      "date": "2026-10-13T16:02:02+00:00",
+      "summary": "Alexis Saelemaekers will be out of action for several months after having surgery on an..."
+    },
+    {
+      "id": "e79fbc630b7c",
+      "title": "MN: ‘Longer than expected’ – Saelemaekers expected to be out for around 5-6 months",
+      "url": "https://sempremilan.com/saelemaekers-expected-out-5-6-months",
+      "source": "sempremilan.com",
+      "date": "2026-10-13T16:00:00+00:00",
+      "summary": "AC Milan confirmed that Alexis Saelemaekers had undergone successful ankle surgery this evening, but it is not all positive news. It is only a good thing that Saelemaekers’ surgery was a success; it means the road to recovery can begin and the hope is to have him back in the squad in the early stage"
+    },
+    {
+      "id": "28977bb2c156",
+      "title": "Sky: Pavlovic’s renewal with Milan until 2031 imminent after arrival at Casa Milan",
+      "url": "https://sempremilan.com/pavlovic-renewal-milan-2031-imminent",
+      "source": "sempremilan.com",
+      "date": "2026-10-13T15:30:00+00:00",
+      "summary": "AC Milan are ready to confirm Strahinja Pavlovic’s renewal, it seems, with an announcement expected shortly.  Over the past few seasons, Pavlovic has grown immensely. He’s far from perfect, but he’s gone from a novice defender to a key player under two different managers. For Massimiliano Allegri an"
+    },
+    {
+      "id": "d1f85507eada",
+      "title": "Milan have agreement in place for long-term Pavlovic contract extension",
+      "url": "https://football-italia.net/milan-pavlovic-contract-extention-agreement/",
+      "source": "football-italia.net",
+      "date": "2026-10-13T15:08:20+00:00",
+      "summary": "Reports from various sources on Tuesday afternoon claim that Milan have an agreement in place..."
+    },
+    {
+      "id": "02b883d5691e",
+      "title": "Official: Saelemaekers’ surgery successful with Milan medical staff in attendance",
+      "url": "https://sempremilan.com/saelemaekers-undergoes-successful-surgery",
+      "source": "sempremilan.com",
+      "date": "2026-10-13T15:00:00+00:00",
+      "summary": "This evening, AC Milan have confirmed that Alexis Saelemaekers’ surgery has been completed successfully in the Netherlands. The international break was largely positive for Milan. Their internationals performed well for the most part and Ruben Amorim was given the chance to work with a few members o"
+    },
+    {
+      "id": "af9900e3e237",
+      "title": "Official: Milan confirm ‘successful’ Saelemaekers ankle surgery",
+      "url": "https://football-italia.net/official-milan-saelemaekers-ankle-surgery/",
+      "source": "football-italia.net",
+      "date": "2026-10-13T14:54:35+00:00",
+      "summary": "Milan confirm Alexis Saelemaekers underwent ‘successful’ ankle surgery in Amsterdam today. The Belgian winger suffered..."
+    },
+    {
+      "id": "27d9fde08ce3",
+      "title": "A Bola: Sporting ready for Milan’s Inacio pursuit as replacement search begins – the latest",
+      "url": "https://sempremilan.com/sporting-ready-milan-inacio-pursuit-replacement-search",
+      "source": "sempremilan.com",
+      "date": "2026-10-13T14:30:00+00:00",
+      "summary": "AC Milan are hoping to land Goncalo Inacio in the winter mercato, and the route to doing so may be a little simpler. There have been plenty of reports linking Inacio back to Milan since the summer. In fact, the admiration and hope to sign him at Casa Milan never disappeared. They have remained clear"
+    },
+    {
+      "id": "96b1d59d0ebf",
+      "title": "SempreMilan Podcast: Episode 435 – Grace Period",
+      "url": "https://sempremilan.com/sempremilan-podcast-episode-435-grace-period",
+      "source": "sempremilan.com",
+      "date": "2026-10-13T14:00:00+00:00",
+      "summary": "Join Oli and Anthony as they review the draw against Sassuolo, preview the RB Salzburg and Atalanta games, and answer some questions. This week’s topics include… ↳ Lead squandered softly vs. Sassuolo ↳ Controversial refereeing decisions ↳ Salzburg (A) and Atalanta (H) previews ↳ Modric replacement a"
+    },
+    {
       "id": "7905325998f2",
-      "title": "Reports: Ibrahimovic’s ‘managerial career has ended’ – Swede no longer part of Milan’s ecosystem",
+      "title": "Report: Ibrahimovic’s ‘managerial career has ended’ – Swede no longer part of Milan’s ecosystem",
       "url": "https://sempremilan.com/ibrahimovic-managerial-career-ended-milan",
       "source": "sempremilan.com",
       "date": "2026-10-13T13:30:00+00:00",
-      "summary": "It seems that Zlatan Ibrahimovic’s role at AC Milan has come to an end, with the Swede ‘no longer part’ of the club’s operation. Over the summer, Gerry Cardinale took the reins and began his own era at the club. Decisions were made and enforced by him and it started a new trend of him […]\nThe post R"
-    },
-    {
-      "id": "488e5ea95e05",
-      "title": "L'ex attaccante Carroll e la denuncia degli abusi: \"Anche altri calciatori hanno vissuto esperienze simili\"",
-      "url": "https://www.milannews.it/news/carroll-denuncia-abusi-calciatori-vissuto-esperienze-simili-632565",
-      "source": "milannews.it",
-      "date": "2026-10-13T13:29:22+00:00",
-      "summary": "(ANSA) - ROMA, 13 OTT - Rompere il silenzio per liberarsi dal senso di colpa e aiutare altre vittime a trovare il coraggio di parlare: Andy Carroll, ex attaccante della nazionale inglese, ha raccontato di aver subito un'aggressione sessuale nel 2 ..."
-    },
-    {
-      "id": "fcd5041e06c8",
-      "title": "Bologna, si ferma Orsolini. Out 3 settimane, salta il Milan",
-      "url": "https://www.milannews.it/l-avversario/bologna-ferma-orsolini-out-3-settimane-salta-milan-632575",
-      "source": "milannews.it",
-      "date": "2026-10-13T13:19:04+00:00",
-      "summary": "Nel report giornaliero il Bologna ha comunicato l'infortunio di Riccardo Orsolini:\n\n\"Proseguono di allenamenti dei rossoblù in vista del prossimo impegno di campionato."
-    },
-    {
-      "id": "dc16c4e160a2",
-      "title": "Infortunio Gabbia: sotto il post sui social i commenti anche di Maignan, Camarda, Bartesaghi, Tomori, Theo Hernandez e Ricci",
-      "url": "https://www.milannews.it/news/infortunio-gabbia-post-social-commenti-maignan-camarda-bartesaghi-tomori-theo-hernandez-ricci-632564",
-      "source": "milannews.it",
-      "date": "2026-10-13T13:10:40+00:00",
-      "summary": "Matteo Gabbia ha pubblicato un post su Instagram dopo il grave infortunio rimediato domenica sera nel match contro il campionato: \"Oggi é davvero difficile."
+      "summary": "It seems that Zlatan Ibrahimovic’s role at AC Milan has come to an end, with the Swede ‘no longer part’ of the club’s operation. Correction: Sky Sport has denied making the report in the first place, meaning MilanPress either distorted the information or Sky Sport was asked to take the (incorrect) r"
     },
     {
       "id": "6c7b797f8d0c",
@@ -42,44 +282,12 @@
       "summary": "During his pre-match press conference on the eve of a Champions League match against Real..."
     },
     {
-      "id": "39fa1cf5480d",
-      "title": "A Gattuso il Premio Mediterraneo: \"Incarna i valori della determinazione\"",
-      "url": "https://www.milannews.it/news/gattuso-premio-mediterraneo-incarna-valori-determinazione-632562",
-      "source": "milannews.it",
-      "date": "2026-10-13T13:00:43+00:00",
-      "summary": "Dopo Totti, Vieri e tanti altri, anche il tecnico della Lazio, Gennaro Gattuso, sarà premiato domani 14 ottobre alle 14."
-    },
-    {
       "id": "e3d9300aaa5f",
       "title": "CorSport: Bondo hopes to make Amorim rethink position with return to Milan training",
       "url": "https://sempremilan.com/bondo-hopes-make-amorim-rethink-position",
       "source": "sempremilan.com",
       "date": "2026-10-13T13:00:00+00:00",
       "summary": "Warren Bondo will return to training as reports confirmed yesterday, but he has a plan for more at AC Milan over the next few months. Although Bondo is returning to training, it is clear what Milan’s position is. The Frenchman is returning to avoid legal action being taken, with Ruben Amorim seeing "
-    },
-    {
-      "id": "3e8a1d1247ae",
-      "title": "Zola elogia Liberali: \"Paga la concorrenza ma è un futuro top player\"",
-      "url": "https://www.milannews.it/gli-ex/zola-elogia-liberali-paga-concorrenza-top-player-632539",
-      "source": "milannews.it",
-      "date": "2026-10-13T12:50:28+00:00",
-      "summary": "Intervistato questa mattina dai colleghi de La Gazzetta dello Sport, l'ex attaccante di Napoli e Cagliari, fra le altre, Gianfranco Zola, ha parlato dei più caldi temi d'attualità legati alla Serie A, soffermandosi anche sull\u0003 ..."
-    },
-    {
-      "id": "ec27893d796c",
-      "title": "Da Grosso a Stroppa: sono già quattro gli esoneri in Serie A",
-      "url": "https://www.milannews.it/news/grosso-stroppa-esoneri-serie-632560",
-      "source": "milannews.it",
-      "date": "2026-10-13T12:40:21+00:00",
-      "summary": "(ANSA) - ROMA, 13 OTT - Con l'esonero di Giovani Stroppa dalla panchina del Venezia salgono a quota quattro i tecnici mandati via dai rispettivi club in Serie A dall'inizio della stagione."
-    },
-    {
-      "id": "64303fb09447",
-      "title": "Il Milan reintegra Bondo, Ordine: \"Continuare a sconfessare ll mercato precedente significa solo soddisfare l'istinto di nuovi Tafazzi\"",
-      "url": "https://www.milannews.it/news/milan-reintegra-bondo-ordine-continua-sconfessare-ll-mercato-precedente-significa-soddisfare-istinto-632559",
-      "source": "milannews.it",
-      "date": "2026-10-13T12:30:53+00:00",
-      "summary": "Sui suoi canali profili social il collega Franco Ordine ha commentato il reintegro in rosa di Warren Bondo, fino a questo momento ai margini del progetto tecnico del nuovo Milan di Amorim."
     },
     {
       "id": "9681cdbc2d9e",
@@ -90,44 +298,12 @@
       "summary": "AC Milan and Inter are waiting to take the next step in the stadium-building process, and it should be seen this month. Right now, fans of both Milanese clubs know that they will have a new stadium in 2031, but there is no clue about what it’ll actually look like. Supposedly, there will be elements "
     },
     {
-      "id": "17fcf62dcea0",
-      "title": "Atalanta, oggi accertamenti per Scalvini dopo il risentimento al flessore",
-      "url": "https://www.milannews.it/l-avversario/atalanta-accertamenti-scalvini-risentimento-flessore-632570",
-      "source": "milannews.it",
-      "date": "2026-10-13T12:20:00+00:00",
-      "summary": "Il sito dell'Atalanta, prossimo avversario del Milan in Serie A (domenica alle 18 a San Siro), ha pubblicato il report dell'allenamento odierno della squadra di Maurizio Sarri: \"Archiviato il successo sul Venezia, i nerazzurri sono torna ..."
-    },
-    {
-      "id": "965c7713668b",
-      "title": "Il consiglio di Cassano ad Amorim: \"Prendi una strada, che in Italia il tempo è crudele\"",
-      "url": "https://www.milannews.it/news/cassano-amorim-prendi-strada-italia-crudele-632544",
-      "source": "milannews.it",
-      "date": "2026-10-13T12:10:52+00:00",
-      "summary": "Nel corso della prima puntata stagione di Viva El Futbol, Antonio Cassano ha parlato del Milan di Ruben Amorim, reduce dal deludente pari di Reggio Emilia contro il Sassuolo di Alberto Aquilani: \n\n\"Il Milan in questo momento qui mi preocc ..."
-    },
-    {
-      "id": "2d5faafa4085",
-      "title": "Sporting in allerta per Gonçalo Inacio: Milan in agguato. I portoghesi studiano il mercato per trovare l'eventuale sostituto",
-      "url": "https://www.milannews.it/primo-piano/sporting-allerta-goncalo-inacio-milan-agguato-portoghesi-studiano-mercato-trovare-eventuale-sostitut-632563",
-      "source": "milannews.it",
-      "date": "2026-10-13T12:00:43+00:00",
-      "summary": "L'infortunio di Matteo Gabbia, che dovrà restare fuori 3-4 mesi dopo la lesione del muscolo flessore della coscia sinistra, con parziale interessamento tendineo, rimediata domenica contro il Sassuolo, costringe il Milan ad accelerare la ri ..."
-    },
-    {
       "id": "0b0fa9ffc831",
       "title": "Vitiello: Rabiot identifies major Milan issue that ‘deeply disappointed’ Amorim must fix",
       "url": "https://sempremilan.com/rabiot-identifies-major-milan-issue-disappointed-amorim",
       "source": "sempremilan.com",
       "date": "2026-10-13T12:00:00+00:00",
       "summary": "In his post-match interview, Adrien Rabiot was brutally honest about AC Milan’s situation and Ruben Amorim has been left disappointed. It’s not been the best start to life for Amorim at Milan. Unfortunately, the Portuguese’s vision for a dominant, attacking side have not been seen regularly. Maybe t"
-    },
-    {
-      "id": "97205362955b",
-      "title": "Da Theo a Tomori, tanti messaggi di conforto e vicinanza da compagni ed ex rossoneri per Gabbia",
-      "url": "https://www.milannews.it/news/theo-tomori-tanti-messaggi-conforto-vicinanza-compagni-rossoneri-gabbia-632569",
-      "source": "milannews.it",
-      "date": "2026-10-13T11:50:48+00:00",
-      "summary": "Matteo Gabbia starà lontano dai campi per circa 3-4 mesi in seguito al serio infortunio sofferto durante Sassuolo-Milan."
     },
     {
       "id": "4779616cb246",
@@ -138,52 +314,12 @@
       "summary": "Nicolò Tresoldi’s father insists his son’s decision on whether to play for Italy or Germany..."
     },
     {
-      "id": "ca4392854b0b",
-      "title": "Milan, la \"Pareggite\" malattia comune in questa fase della stagione: il dato",
-      "url": "https://www.milannews.it/news/milan-pareggite-malattia-comune-fase-stagione-dato-632492",
-      "source": "milannews.it",
-      "date": "2026-10-13T11:40:00+00:00",
-      "summary": "Un pareggio deludente quello del Milan ieri sera in casa del Sassuolo. I rossoneri, dopo essere passati in vantaggio con il solito e decisivo Adrien Rabiot, hanno subito in pochi istanti il pareggio neroverde di Odenthal."
-    },
-    {
       "id": "042955b2af90",
       "title": "CM: Ramos not solely responsible for 40-day Milan drought – what the numbers say",
       "url": "https://sempremilan.com/ramos-not-solely-responsible-40-day-milan-drought",
       "source": "sempremilan.com",
       "date": "2026-10-13T11:30:00+00:00",
       "summary": "Goncalo Ramos’ season has been defined by his lack of goals for AC Milan so far. However, he’s not the only one to blame. It’s been a difficult start to life for Ramos. He’s been the second option with Portugal and PSG in recent years, but he’s been thrust into the first spot for both […]\nThe post C"
-    },
-    {
-      "id": "7493e9596859",
-      "title": "Adani boccia la corsia di sinistra del Milan: \"Nella coppia Moreira-Estupinan non vedo tutta questa qualità\"",
-      "url": "https://www.milannews.it/news/adani-boccia-corsia-sinistra-milan-nella-coppia-moreira-estupinan-vedo-qualita-632547",
-      "source": "milannews.it",
-      "date": "2026-10-13T11:20:54+00:00",
-      "summary": "Nel corso della prima puntata stagione di Viva El Futbol, Daniele Adani ha parlato del Milan di Ruben Amorim, reduce dal deludente pari di Reggio Emilia contro il Sassuolo di Alberto Aquilani: \n\n\"Nella comunicazione la cosa che mi è ..."
-    },
-    {
-      "id": "f7abbaaf173c",
-      "title": "Cassano è convinto di questo: \"Nell'arco di due tre mesi vedremo un Milan diverso\"",
-      "url": "https://www.milannews.it/news/cassano-convinto-questo-nell-arco-vedremo-milan-diverso-632543",
-      "source": "milannews.it",
-      "date": "2026-10-13T11:10:59+00:00",
-      "summary": "Nel corso della prima puntata stagione di Viva El Futbol, Antonio Cassano ha parlato del Milan di Ruben Amorim, reduce dal deludente pari di Reggio Emilia contro il Sassuolo di Alberto Aquilani: \n\n\"Il Milan in questo momento qui mi preocc ..."
-    },
-    {
-      "id": "177c2102ceb3",
-      "title": "Quote Milan vincente Europa League, le scommesse sui rossoneri",
-      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-milan-vincente-europa-league-624909",
-      "source": "milannews.it",
-      "date": "2026-10-13T11:05:00+00:00",
-      "summary": "Dopo la ripresa della Serie A è pronta a tornare anche l'Europa League, con la seconda giornata di League Phase."
-    },
-    {
-      "id": "17fdc8f39eaa",
-      "title": "Borghi: \"Contro il Salisburgo non sarà facile. Partita da aggredire\"",
-      "url": "https://www.milannews.it/news/borghi-contro-salisburgo-facile-partita-aggredire-632515",
-      "source": "milannews.it",
-      "date": "2026-10-13T11:00:00+00:00",
-      "summary": "Il Milan sarà in campo già questo giovedì, con il mese fittissimo di ottobre che comincia a entrare nel vivo. I rossoneri saranno in campo giovedì 15 ottobre alle 18."
     },
     {
       "id": "34a6e6206a24",
@@ -194,44 +330,12 @@
       "summary": "In the summer, there were plenty of suggestions that AC Milan could move for Nicolo Zaniolo, but no move ever happened. Over the past few years, there have been plenty of links between Milan and Zaniolo. It’s been something of a constant in the mercato that the Rossoneri could offer him a place to c"
     },
     {
-      "id": "079684e90bb6",
-      "title": "Il grande difetto di Milan e Juve? Il pensiero di Mauro: \"L’assenza di calciatori di qualità sulla trequarti\"",
-      "url": "https://www.milannews.it/news/difetto-milan-juve-pensiero-mauro-l-assenza-calciatori-qualita-trequarti-632554",
-      "source": "milannews.it",
-      "date": "2026-10-13T10:51:51+00:00",
-      "summary": "Nell'intervista rilasciata alla Gazzetta dello Sport, Massimo Mauro, ex giocatore, ha parlato così dei problemi del Milan di Ruben Amorim e della Juventus di Luciano Spalletti: \"Secondo me Amorim e Spalletti hanno un po’ gli ste ..."
-    },
-    {
-      "id": "1b8143084d9c",
-      "title": "Cristiano Ronaldo ancora a segno: è a -19 da quota 1000 gol in carriera",
-      "url": "https://www.milannews.it/news/calcio-cristiano-ronaldo-segno-19-quota-1000-gol-carriera-632541",
-      "source": "milannews.it",
-      "date": "2026-10-13T10:41:07+00:00",
-      "summary": "(ANSA) - ROMA, 13 OTT - Cristiano Ronaldo tocca quota 981 gol con la rete segnata agli uzbeki del Neftchi nella Champions League asiatica. Adesso ne mancano 'solo' 19 per il record dei 1000 per il campione portoghese."
-    },
-    {
       "id": "375e4cb9de37",
       "title": "“I’m really sorry” – Gabbia thanks Milan fans, teammates and family in post confirming injury",
       "url": "https://sempremilan.com/gabbia-thanks-milan-fans-teammates-family-injury-post",
       "source": "sempremilan.com",
       "date": "2026-10-13T10:36:01+00:00",
       "summary": "This afternoon, AC Milan defender Matteo Gabbia has posted a message on his Instagram about the injury he suffered on Sunday night.  Seeing Gabbia go down was bad enough; the Italian had only just returned and it was hoped that he hadn’t come back too early. When he stayed down, though, that feeling"
-    },
-    {
-      "id": "c1e249e2971c",
-      "title": "Adani non convinto del 4-4-1-1 di Amorim: \"Preferisco il 3-4-2-1 con il quinto che è offensivo\"",
-      "url": "https://www.milannews.it/news/adani-convinto-4-4-1-1-amorim-preferisco-3-4-2-1-offensivo-632545",
-      "source": "milannews.it",
-      "date": "2026-10-13T10:30:33+00:00",
-      "summary": "Nel corso della prima puntata stagione di Viva El Futbol, Daniele Adani ha parlato del Milan di Ruben Amorim, reduce dal deludente pari di Reggio Emilia contro il Sassuolo di Alberto Aquilani: \n\n\"Nella comunicazione la cosa che mi è ..."
-    },
-    {
-      "id": "d53850b95d78",
-      "title": "Gabbia: \"Oggi è davvero difficile. Farò di tutto per tornare presto. Grazie a famiglia, compagni, club e tifosi\"",
-      "url": "https://www.milannews.it/news/gabbia-oggi-davvero-difficile-tornare-presto-famiglia-compagni-club-tifosi-632561",
-      "source": "milannews.it",
-      "date": "2026-10-13T10:20:15+00:00",
-      "summary": "La partita contro il Sassuolo non ha lasciato solo strascichi negativi per il pareggio in rimonta subito al Mapei Stadium, ma c'è anche la situazione riguardante Matteo Gabbia, uscito in barella al 20esimo del primo tempo."
     },
     {
       "id": "3b781ca26262",
@@ -290,76 +394,12 @@
       "summary": "Atalanta’s 3-1 win over Venezia came at a cost: Raoul Bellanova and Giorgio Scalvini were..."
     },
     {
-      "id": "bfc5853a9ab5",
-      "title": "Sassuolo 1-1 AC Milan: Five things we learned – lapses, a rocket, a lightning rod and the grace period",
-      "url": "https://sempremilan.com/sassuolo-1-1-ac-milan-five-things-we-learned",
-      "source": "sempremilan.com",
-      "date": "2026-10-12T18:33:43+00:00",
-      "summary": "AC Milan got their Serie A campaign back underway after the long break, and it was to prove to be a difficult night against Sassuolo. Milan started the game slowly and the home side had the better of the opening exchanges. The Rossoneri finished the first half strongly though, coming close a couple "
-    },
-    {
-      "id": "5c7491bbbae9",
-      "title": "Official: Specialist consultation required as Gabbia’s scan shows ‘tendon involvement’",
-      "url": "https://sempremilan.com/specialist-required-gabbia-scan-tendon-involvement",
-      "source": "sempremilan.com",
-      "date": "2026-10-12T17:27:30+00:00",
-      "summary": "Matteo Gabbia underwent a scan on his injury that unfortunately confirmed ‘tendon involvement’ with his flexor issue. Gabbia returned to the starting line-up for the first time under the new head coach Ruben Amorim, but it was a night to forget. After a duel with Armand Lauriente down the right side"
-    },
-    {
-      "id": "937e9169ec66",
-      "title": "Mazzara: Inacio ‘needed’ after Gabbia injury but Amorim must answer formation question",
-      "url": "https://sempremilan.com/inacio-needed-gabbia-injury-amorim-formation",
-      "source": "sempremilan.com",
-      "date": "2026-10-12T17:20:00+00:00",
-      "summary": "Pietro Mazzara has stressed his concerns that AC Milan and Ruben Amorim have a lot to figure out in the coming weeks. Milan went into the three-week international break with a 3-0 win against Lecce which suggested the team had turned a corner after a mixed start to the campaign. However, the 1-1 dra"
-    },
-    {
-      "id": "c8fe7348ad76",
-      "title": "Nine players get below-par scores: Fan player ratings for Sassuolo 1-1 AC Milan",
-      "url": "https://sempremilan.com/fan-player-ratings-for-sassuolo-1-1-ac-milan",
-      "source": "sempremilan.com",
-      "date": "2026-10-12T16:40:00+00:00",
-      "summary": "AC Milan returned from the three-week international break with a 1-1 draw against Sassuolo away from home on Sunday night. Adrien Rabiot’s goal in the 63rd minute broke the deadlock and looked like potentially firing Ruben Amorim’s side to a fourth win in six Serie A games. However, a poorly-defende"
-    },
-    {
       "id": "be2cbbb834a5",
       "title": "Football Italia Show: Juventus and Milan are the Man Utd of Serie A, no doubts about Malen’s red card",
       "url": "https://football-italia.net/where-juventus-milan-going-no-doubt-malen-red/",
       "source": "football-italia.net",
       "date": "2026-10-12T16:25:19+00:00",
       "summary": "Lorenzo Bettoni and Giancarlo Rinaldi review the main talking points from Serie A Round 6,..."
-    },
-    {
-      "id": "cc2ccedb8840",
-      "title": "Moretto: Milan among teams keen on Palmeiras star – asking price set ahead of January",
-      "url": "https://sempremilan.com/milan-keen-palmeiras-giay-atletico-napoli",
-      "source": "sempremilan.com",
-      "date": "2026-10-12T16:00:00+00:00",
-      "summary": "AC Milan are one of several clubs that are watching Palmeiras defender Agustin Giay, according to a report. Matteo Moretto claimed that several major clubs are interested in signing Giay from Palmeiras ahead of the January transfer window. In the meantime, the right-back continues to put in top perf"
-    },
-    {
-      "id": "ac36c0776079",
-      "title": "GdS: Set-pieces an early Achilles’ heel for Milan to fix under Amorim – the numbers",
-      "url": "https://sempremilan.com/set-pieces-achilles-heel-milan-amorim",
-      "source": "sempremilan.com",
-      "date": "2026-10-12T15:30:00+00:00",
-      "summary": "A worrying trend has emerged during the first few games of the 2026-27 season for AC Milan regarding set-pieces. As today’s edition of La Gazzetta dello Sport (seen below) points out, there seems to be a problem with goals conceded from dead-ball situations for Milan. Just six games into the new sea"
-    },
-    {
-      "id": "667b03acf0cf",
-      "title": "The golden 61-75 minute zone: All the key stats from Sassuolo 1-1 AC Milan",
-      "url": "https://sempremilan.com/all-key-stats-sassuolo-1-1-ac-milan",
-      "source": "sempremilan.com",
-      "date": "2026-10-12T15:00:00+00:00",
-      "summary": "AC Milan played out their third draw in their first six Serie A games of the season, emerging from Sassuolo with a 1-1. Adrien Rabiot gave Milan the lead inside the final 30 minutes after a good spell, and it looked as though the game was in hand. However, the inability to deal with a […]\nThe post T"
-    },
-    {
-      "id": "28da4599e280",
-      "title": "Thorstvedt believes Sassuolo ‘deserved more’ vs. Milan as goal ruled out ‘wasn’t a foul’",
-      "url": "https://sempremilan.com/thorstvedt-sassuolo-deserved-more-milan",
-      "source": "sempremilan.com",
-      "date": "2026-10-12T14:30:00+00:00",
-      "summary": "Kristian Thorstvedt believes Sassuolo deserved even more than a draw from their game against AC Milan on Sunday night. Adrien Rabiot’s third goal of the season broke the deadlock just after the hour mark, but five minutes later Sassuolo got themselves level as Milan failed to deal with a corner allo"
     },
     {
       "id": "e177b860cfd1",
@@ -440,46 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-10-11T14:48:33+00:00",
       "summary": "Ruben Amorim appears to have gone with a new formation for Milan’s upcoming Serie A..."
-    },
-    {
-      "id": "e3d6233e4135",
-      "title": "Serie A: Sassuolo vs. Milan – probable line-ups, where to watch on TV",
-      "url": "https://football-italia.net/serie-a-sassuolo-v-milan-line-ups-watch-on-tv/",
-      "source": "football-italia.net",
-      "date": "2026-10-11T08:04:14+00:00",
-      "summary": "Diego Moreira is set to start for Milan in an away game at Sassuolo, who..."
-    },
-    {
-      "id": "b39c57255c3d",
-      "title": "Today’s Papers – Inter’s sprint, Fabregas taunts Italy, Cardinale like Trump",
-      "url": "https://football-italia.net/todays-papers-inter-fabregas-cardinale-trump/",
-      "source": "football-italia.net",
-      "date": "2026-10-11T07:47:36+00:00",
-      "summary": "La Gazzetta dello Sport Inter sprint Chivu restarts with three goals in 30 minutes Sucic,..."
-    },
-    {
-      "id": "e3428ec90189",
-      "title": "Milan owner Cardinale dons ‘Make Milan Great Again’ cap",
-      "url": "https://football-italia.net/cardinale-dons-make-milan-great-again-cap/",
-      "source": "football-italia.net",
-      "date": "2026-10-10T17:18:07+00:00",
-      "summary": "Gerry Cardinale turned heads at Milanello on Saturday, watching Ruben Amorim’s press conference in a..."
-    },
-    {
-      "id": "009206aab752",
-      "title": "Amorim: ‘Milan lack of mobility needed change, Serie A has high value’",
-      "url": "https://football-italia.net/amorim-milan-lack-of-mobility-needed-change/",
-      "source": "football-italia.net",
-      "date": "2026-10-10T13:04:05+00:00",
-      "summary": "Ruben Amorim reveals why a ‘lack of mobility’ prompted his Milan tactical change and how..."
-    },
-    {
-      "id": "d53eb961df0d",
-      "title": "Report: Cardinale makes 50m cash injection for Milan transfers",
-      "url": "https://football-italia.net/cardinale-50m-cash-injection-milan-transfers/",
-      "source": "football-italia.net",
-      "date": "2026-10-10T09:05:35+00:00",
-      "summary": "According to La Gazzetta dello Sport, Milan owner Gerry Cardinale has injected €50m into the..."
     }
   ]
 }
