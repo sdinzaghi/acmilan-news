@@ -1,13 +1,197 @@
 {
-  "lastUpdated": "2026-10-14T16:31:44.026345+00:00",
+  "lastUpdated": "2026-10-14T20:26:34.913296+00:00",
   "articles": [
     {
-      "id": "ef0246bd5968",
-      "title": "Dopo due sconfitte italiane questa sera tocca a Como e Roma: il programma di oggi della Champions League",
-      "url": "https://www.milannews.it/news/sconfitte-italiane-sera-tocca-como-roma-programma-champions-league-632703",
+      "id": "b550797e8b3f",
+      "title": "Letizia sul turnover di Amorim: \"Mettere il Milan B in una partita così delicata credo sia un grosso errore\"",
+      "url": "https://www.milannews.it/news/letizia-turnover-amorim-mettere-milan-b-partita-delicata-credo-grosso-errore-632727",
       "source": "milannews.it",
-      "date": "2026-10-14T16:30:33+00:00",
-      "summary": "Dopo le deludenti sconfitte di ieri di Inter e Napoli ai danni di Club Brugge e Villareal, questa sera tocca alle altre due italiane provare a dare una sterzata in termini di risultati."
+      "date": "2026-10-14T20:20:59+00:00",
+      "summary": "In esclusiva ai microfoni di MilanNews."
+    },
+    {
+      "id": "a07e6fbd793d",
+      "title": "Pavlovic scherza sulla sua posizione in campo: \"Prima di diventare attaccante devo dimostrare di meritarlo\"",
+      "url": "https://www.milannews.it/news/pavlovic-schiera-posizione-campo-prima-attaccante-dimostrare-meritarlo-632726",
+      "source": "milannews.it",
+      "date": "2026-10-14T20:10:44+00:00",
+      "summary": "Nella conferenza stampa pre partita di Salisburgo-Milan, in programma domani alle ore 18:45, insieme a mister Amroim ha parlato anche Pavlovic, fresco di rinnovo. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "afec7fadaebf",
+      "title": "Sabatini Sottolinea: “Fossi in Cardinale sarei stato più cauto con le pagelle, mette in difficoltà Amorim”",
+      "url": "https://www.milannews.it/news/sabatini-sottolinea-fossi-cardinale-cauto-pagelle-rabiot-segnato-gran-gol-632701",
+      "source": "milannews.it",
+      "date": "2026-10-14T20:00:51+00:00",
+      "summary": "Nei loro canali YouTube, nella consueta puntata settimanale di Incudine o Martello, hanno parlato di Milan e delle ultime tematiche emerse in questa settimana Carlo Pellegatti e Sandro Sabatini. Di seguito le parole di Sandro Sabatini."
+    },
+    {
+      "id": "1b6ee4d5f82f",
+      "title": "Sarri conferma: “Scalvini non è grave, ma probabilmente salterà la partita con il Milan”",
+      "url": "https://www.milannews.it/l-avversario/sarri-conferma-scalvini-grave-saltera-partita-milan-632695",
+      "source": "milannews.it",
+      "date": "2026-10-14T19:50:40+00:00",
+      "summary": "Ai microfoni di Sky Sport, il tecnico dell'Atalanta ha parlato alla vigilia della partita contro il Pafos."
+    },
+    {
+      "id": "32bba6382048",
+      "title": "Pimenta, ag. Gimenez: “Santi ha il Milan nel cuore, ma quello che ricorda lui è un’altra cosa”",
+      "url": "https://www.milannews.it/news/pimenta-ag-gimenez-santi-milan-cuore-ricorda-ricostruzione-632711",
+      "source": "milannews.it",
+      "date": "2026-10-14T19:40:38+00:00",
+      "summary": "Rafaela Pimenta, agente di Santi Gimenez, ha rilasciato una lunga intervista a TNT Sports Messico proprio sul suo assistito."
+    },
+    {
+      "id": "e8e3a33a88e9",
+      "title": "Europa League, Amorim: \"Per Camarda domani opportunità in più\"",
+      "url": "https://www.milannews.it/news/europa-league-amorim-camarda-domani-opportunita-632725",
+      "source": "milannews.it",
+      "date": "2026-10-14T19:30:57+00:00",
+      "summary": "(ANSA) - MILANO, 14 OTT - \"Camarda si sta allenando bene."
+    },
+    {
+      "id": "ae709ce4906c",
+      "title": "Pellegatti contrario: “Il 4-4-2 è un modulo da retrocessione, è il piattume”",
+      "url": "https://www.milannews.it/news/pellegatti-contrario-il-4-4-2-modulo-retrocessione-piattume-632694",
+      "source": "milannews.it",
+      "date": "2026-10-14T19:20:40+00:00",
+      "summary": "Nei loro canali YouTube, nella consueta puntata settimanale di Incudine o Martello, hanno parlato di Milan e delle ultime tematiche emerse in questa settimana Carlo Pellegatti e Sandro Sabatini. Di seguito le parole del collega rossonero."
+    },
+    {
+      "id": "b4f20b62ff4f",
+      "title": "Atalanta, a sorpresa si ferma Kessie: le condizioni dell'ivoriano",
+      "url": "https://www.milannews.it/l-avversario/atalanta-sorpresa-ferma-kessie-condizioni-ivoriano-632722",
+      "source": "milannews.it",
+      "date": "2026-10-14T19:10:09+00:00",
+      "summary": "Nel weekend il Milan affronta l'Atalanta di Sarri, che domani sarà impegnata in Conference League. La Dea, nel report di allenamento odierno, ha comunicato un problema al polpaccio per Frank Kessie."
+    },
+    {
+      "id": "d1daee3785d2",
+      "title": "Champions: Como spento, si fa rimontare e battere dal Feyenoord",
+      "url": "https://www.milannews.it/news/champions-como-spento-rimontare-battere-feyenoord-632730",
+      "source": "milannews.it",
+      "date": "2026-10-14T19:00:19+00:00",
+      "summary": "(ANSA) - ROMA, 14 OTT - A Rotterdam, nel secondo turno di Champions League, il Como é stato sconfitto 3-2 dal Feyenoord, nonostante fosse riuscito a passare per primo in vantaggio."
+    },
+    {
+      "id": "f06a00fc26fc",
+      "title": "Sabatini perplesso: “Jashari fa la riserva a Musah, non capisco. Poi nella Svizzera gioca”",
+      "url": "https://www.milannews.it/news/sabatini-perplesso-jashari-riserva-musah-capisco-svizzera-gioca-632696",
+      "source": "milannews.it",
+      "date": "2026-10-14T18:50:16+00:00",
+      "summary": "Nei loro canali YouTube, nella consueta puntata settimanale di Incudine o Martello, hanno parlato di Milan e delle ultime tematiche emerse in questa settimana Carlo Pellegatti e Sandro Sabatini. Di seguito le parole di Sandro Sabatini."
+    },
+    {
+      "id": "b5b0c25095f9",
+      "title": "L’agente di Gimenez Pimenta non ci sta: “Mi da fastidio che si dimentichi la storia, è stato impossibile avere continuità nel Milan”",
+      "url": "https://www.milannews.it/news/l-agente-gimenez-pimenta-sta-mi-fastidio-dimentichi-storia-impossibile-continuita-milan-632709",
+      "source": "milannews.it",
+      "date": "2026-10-14T18:40:55+00:00",
+      "summary": "Rafaela Pimenta, agente di Santi Gimenez, ha rilasciato una lunga intervista a TNT Sports Messico proprio sul suo assistito."
+    },
+    {
+      "id": "d6f83600cde9",
+      "title": "Probabile formazione Salisburgo-Milan: Amorim lancia Camarda. Tanti cambi sulla trequarti",
+      "url": "https://www.milannews.it/primo-piano/probabile-formazione-salisburgo-milan-amorim-lancia-camarda-tanti-cambi-trequarti-632723",
+      "source": "milannews.it",
+      "date": "2026-10-14T18:30:50+00:00",
+      "summary": "Subito dopo il pareggio del Mapei Stadium contro il Sassuolo arriva l'Europa League, con il Milan di Amorim che va ad affrontare il RB Salisburgo."
+    },
+    {
+      "id": "1760daa8c63a",
+      "title": "Pellegatti spera: “Ausilio mia illusione, Tiago Pinto nuovo nome per il Milan”",
+      "url": "https://www.milannews.it/news/pellegatti-spera-ausilio-illusione-tiago-pinto-interessa-milan-632705",
+      "source": "milannews.it",
+      "date": "2026-10-14T18:20:58+00:00",
+      "summary": "Carlo Pellegatti, nel suo canale YouTube ha parlato dell'eventuale nuovo direttore sportivo rivelando un nome nuovo emerso nelle ultime ore. Di seguito le sue parole."
+    },
+    {
+      "id": "7b816f38611d",
+      "title": "Amorim sincero: “Sono momenti diversi da quelli di Sacchi, ci vuole tempo per arrivare”",
+      "url": "https://www.milannews.it/news/amorim-sincero-sono-momenti-diversi-sacchi-vuole-arrivare-632721",
+      "source": "milannews.it",
+      "date": "2026-10-14T18:20:01+00:00",
+      "summary": "Ruben Amorim ha da poco parlato nella conferenza stampa pre-partita di Salisburgo Milan, match in programma domani alle ore 18:45. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "160c59e5fa1b",
+      "title": "Amorim tranquillo: “Critiche di Cardinale? Normale giornata di lavoro. Sono un ragazzo normale con principi chiari”",
+      "url": "https://www.milannews.it/news/amorim-tranquillo-critiche-cardinale-normale-giornata-lavoro-ragazzo-normale-principi-chiari-632720",
+      "source": "milannews.it",
+      "date": "2026-10-14T18:10:11+00:00",
+      "summary": "Ruben Amorim ha da poco parlato nella conferenza stampa pre-partita di Salisburgo Milan, match in programma domani alle ore 18:45. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "046ce4b2751a",
+      "title": "Marco Rose chiude al Milan per Scott: “È evidente a tutti che puntiamo tanto sui di lui”",
+      "url": "https://www.milannews.it/news/marco-rose-chiude-milan-scott-e-evidente-puntiamo-lui-632708",
+      "source": "milannews.it",
+      "date": "2026-10-14T18:00:25+00:00",
+      "summary": "Uno dei nomi emersi nelle ultime settimane per il mercato di gennaio dei rossoneri è quello di Alex Scott, centrocampista delle Cherries, avversarie del Milan nel prossimo turno di Europa League."
+    },
+    {
+      "id": "17177e68dc98",
+      "title": "Europa League preview: RB Salzburg vs. AC Milan – Team news, opposition insight, stats and prediction",
+      "url": "https://sempremilan.com/europa-league-preview-salzburg-milan-stats-prediction",
+      "source": "sempremilan.com",
+      "date": "2026-10-14T18:00:00+00:00",
+      "summary": "AC Milan will resume their Europa League campaign on Thursday night with a tricky trip to face Red Bull Salzburg in Austria. Milan remain a team full of unknowns at the moment, and nothing shows this better than their results. Three wins in the league and three quite frustrating draws speaks volumes"
+    },
+    {
+      "id": "6eee9422d366",
+      "title": "Amorim rinnova la fiducia nei giovani e svela quando giocheranno Camarda e Comotto",
+      "url": "https://www.milannews.it/news/amorim-rinnova-fiducia-giovani-svela-giocheranno-camarda-comotto-632718",
+      "source": "milannews.it",
+      "date": "2026-10-14T17:50:00+00:00",
+      "summary": "Ruben Amorim ha da poco parlato nella conferenza stampa pre-partita di Salisburgo Milan, match in programma domani alle ore 18:45. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "97f4672b098d",
+      "title": "PROBABILE FORMAZIONE - Salisburgo-Milan, Amorim prepara diversi cambi. Chance per Camarda",
+      "url": "https://www.milannews.it/news/probabile-formazione-salisburgo-milan-amorim-prepara-diversi-cambi-chance-camarda-632706",
+      "source": "milannews.it",
+      "date": "2026-10-14T17:49:00+00:00",
+      "summary": "Subito dopo il pareggio del Mapei Stadium contro il Sassuolo arriva l'Europa League, con il Milan di Amorim che va ad affrontare il Salisburgo."
+    },
+    {
+      "id": "1a020992aa11",
+      "title": "Salisburgo-Milan, le ultime da Sky: Rabiot in vantaggio su Modric",
+      "url": "https://www.milannews.it/news/salisburgo-milan-ultime-sky-rabiot-vantaggio-modric-632724",
+      "source": "milannews.it",
+      "date": "2026-10-14T17:45:10+00:00",
+      "summary": "C'è una possibile novità di formazione rispetto a quanto raccontato oggi pomeriggio: domani, per Salisburgo-Milan, Amorim dovrebbe schierare dall'inizio Rabiot e non più Modric."
+    },
+    {
+      "id": "8894c9ec7336",
+      "title": "Pavlovic e la maglia del Milan: “Qui c’è una pressione diversa, vedere le foto a Milanello mi ricorda chi siamo”",
+      "url": "https://www.milannews.it/news/pavlovic-maglia-milan-qui-c-e-pressione-diversa-vedere-foto-milanello-ricorda-siamo-632719",
+      "source": "milannews.it",
+      "date": "2026-10-14T17:40:42+00:00",
+      "summary": "Nella conferenza stampa pre partita di Salisburgo-Milan, in programma domani alle ore 18:45, insieme a mister Amroim ha parlato anche Pavlovic, fresco di rinnovo. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "6868621b9186",
+      "title": "Pavlovic talks renewal, three vs. four-man defence and ‘familiar faces’ at RB Salzburg",
+      "url": "https://sempremilan.com/pavlovic-renewal-defence-familiar-faces-salzburg",
+      "source": "sempremilan.com",
+      "date": "2026-10-14T17:30:00+00:00",
+      "summary": "Strahinja Pavlovic has expressed his delight after signing a renewal with AC Milan, also discussing the different systems played under Ruben Amorim. Milan come into their second Europa League game in a bit of a strange spot. They have lost just once in their seven matches under Ruben Amorim, a defea"
+    },
+    {
+      "id": "4b80de3305b0",
+      "title": "Amorim discusses criticism received, need for rotation and handling of young players",
+      "url": "https://sempremilan.com/amorim-criticism-rotation-young-players-salzburg",
+      "source": "sempremilan.com",
+      "date": "2026-10-14T17:00:00+00:00",
+      "summary": "AC Milan head coach Ruben Amorim confirmed he will rotate against RB Salzburg, and insisted that the younger players will get their opportunities. The pressure is on Milan going into their second fixture in the league phase of the Europa League, and not just because they lost 2-0 to Benfica in their"
+    },
+    {
+      "id": "d9e177e9f2ca",
+      "title": "Amorim: ‘Impossible to have time at Milan, but cannot think about past’",
+      "url": "https://football-italia.net/amorim-impossible-time-milan-cannot-think-past/",
+      "source": "football-italia.net",
+      "date": "2026-10-14T16:57:09+00:00",
+      "summary": "Ruben Amorim admits ‘it is impossible to have time’ at Milan, as he already feels..."
     },
     {
       "id": "e95c4e6d61d7",
@@ -18,46 +202,6 @@
       "summary": "Ruben Amorim has an idea regarding the starting XI that will face RB Salzburg, and rotation seems to be the order of the evening. According to what Sky (via MilanNews) are reporting this afternoon, the clues from the morning session at Milanello on the eve of the game suggest that Amorim plans to gi"
     },
     {
-      "id": "fdc0e5ccb9a1",
-      "title": "LIVE MN - A breve le dichiarazioni di Amorim in conferenza stampa",
-      "url": "https://www.milannews.it/primo-piano/live-mn-breve-dichiarazioni-amorim-conferenza-stampa-632707",
-      "source": "milannews.it",
-      "date": "2026-10-14T16:28:00+00:00",
-      "summary": "Amici e amiche di MilanNews.it, ben ritrovati."
-    },
-    {
-      "id": "5b392266e69c",
-      "title": "Amorim a Sky: \"Non leggo niente, sono concentrato solo sulla squadra\"",
-      "url": "https://www.milannews.it/news/amorim-sky-non-leggo-niente-concentrato-squadra-632713",
-      "source": "milannews.it",
-      "date": "2026-10-14T16:27:09+00:00",
-      "summary": "Mister Ruben Amorim è stato intervistato da Sky Sport alla vigilia di Salisburgo-Milan di Europa League."
-    },
-    {
-      "id": "847b952c90a2",
-      "title": "Salisburgo, l'allenatore Rohl: \"Abbiamo tanto rispetto per il Milan, ma nessuna paura\"",
-      "url": "https://www.milannews.it/l-avversario/salisburgo-allenatore-rohl-abbiamo-milan-paura-632710",
-      "source": "milannews.it",
-      "date": "2026-10-14T16:19:29+00:00",
-      "summary": "L’allenatore del Salisburgo Danny Röhl ha parlato in conferenza alla vigilia della sfida di Europa League contro il Milan."
-    },
-    {
-      "id": "8a58ee5da30c",
-      "title": "Pellegatti rivela: “Mi è sembrato il Milan di Cagliari, dopo il gol abbiamo concesso 4 occasionil”",
-      "url": "https://www.milannews.it/news/pellegatti-rivela-mi-milan-cagliari-gol-concesso-4-occasionil-632693",
-      "source": "milannews.it",
-      "date": "2026-10-14T16:10:34+00:00",
-      "summary": "Nei loro canali YouTube, nella consueta puntata settimanale di Incudine o Martello, hanno parlato di Milan e delle ultime tematiche emerse in questa settimana Carlo Pellegatti e Sandro Sabatini. Di seguito le parole del collega rossonero."
-    },
-    {
-      "id": "97f4672b098d",
-      "title": "PROBABILE FORMAZIONE - Salisburgo-Milan, Amorim prepara diversi cambi. Chance per Camarda",
-      "url": "https://www.milannews.it/news/probabile-formazione-salisburgo-milan-amorim-prepara-diversi-cambi-chance-camarda-632706",
-      "source": "milannews.it",
-      "date": "2026-10-14T16:00:00+00:00",
-      "summary": "Subito dopo il pareggio del Mapei Stadium contro il Sassuolo arriva l'Europa League, con il Milan di Amorim che va ad affrontare il Salisburgo."
-    },
-    {
       "id": "33031778701e",
       "title": "Pavlovic professes ‘love’ for Milan fans after renewal: “One of the biggest clubs in the world”",
       "url": "https://sempremilan.com/pavlovic-love-milan-fans-biggest-world",
@@ -66,36 +210,12 @@
       "summary": "Strahinja Pavlovic has spoken of his love for the AC Milan fans after he put pen to paper on a new long-term deal. Pavlovic is gearing up to take on his old club Red Bull Salzburg on Thursday night in the Europa League, but the build-up to the game has also brought some positive news […]\nThe post Pa"
     },
     {
-      "id": "32e6b4d84e5f",
-      "title": "Domani l'Atalanta sfida il Pafos in Conference League. Sarri: \"Serve umiltà\"",
-      "url": "https://www.milannews.it/news/conference-league-atalanta-sfida-pafos-sarri-serve-umilta-632686",
-      "source": "milannews.it",
-      "date": "2026-10-14T15:50:53+00:00",
-      "summary": "(ANSA) - ROMA, 14 OTT - \"Ai miei giocatori chiedo umiltà, non penso alla differenza reti perché darei per scontato che la partita l'abbiamo già vinta. Pensiamo ai punti, non ai gol fatti\"."
-    },
-    {
-      "id": "c286e2d2c331",
-      "title": "Pavlovic, prime parole dopo il rinnovo: ”Obiettivo vincere trofei, darò sempre il 100%”",
-      "url": "https://www.milannews.it/news/pavlovic-prime-parole-rinnovo-obiettivo-trofei-daro-100-632704",
-      "source": "milannews.it",
-      "date": "2026-10-14T15:40:42+00:00",
-      "summary": "Nelle scorse ore il Milan ha annunciato che Strahinja Pavlovic ha rinovato il proprio contratto con questo comunicato ufficiale: \"AC Milan è lieto di annunciare di aver rinnovato il contratto di Strahinja Pavlović fino al 30 giugno 2031, ..."
-    },
-    {
       "id": "df863b042fb0",
       "title": "Tresoldi’s first coach reveals 12-year-old rejected by Milan, Juventus and more",
       "url": "https://football-italia.net/tresoldis-first-coach-12-year-old-rejected/",
       "source": "football-italia.net",
       "date": "2026-10-14T15:30:30+00:00",
       "summary": "Nicolò Tresoldi scored a hat-trick against Inter and is courted by Italy, but his only..."
-    },
-    {
-      "id": "4ed0d4bf08f3",
-      "title": "Pavlovic dopo il rinnovo: \"Sono innamorato dei tifosi del Milan\"",
-      "url": "https://www.milannews.it/news/calcio-pavlovic-innamorato-tifosi-milan-632691",
-      "source": "milannews.it",
-      "date": "2026-10-14T15:30:09+00:00",
-      "summary": "(ANSA) - MILANO, 14 OTT - \"Voglio dare il 100% sempre. Questa è la promessa che faccio ai nostri tifosi."
     },
     {
       "id": "ccb4630de46b",
@@ -114,44 +234,12 @@
       "summary": "Milan Futuro and Piacenza will have to try again another day after an injury forced their game on Wednesday to be abandoned. The Futuro were raring to go after a disappointing 2-1 home loss to Rovato Vertovese at the weekend. They took on Piacenza in Solbiate Arno in the rescheduled round five fixtu"
     },
     {
-      "id": "d9720f9a672b",
-      "title": "Sabatini non ha dubbi: “Partita col Salisburgo importante perché post delusione, i dati del Milan non sono male”",
-      "url": "https://www.milannews.it/news/sabatini-dubbi-partita-salisburgo-importante-post-delusione-dati-milan-male-632690",
-      "source": "milannews.it",
-      "date": "2026-10-14T15:20:41+00:00",
-      "summary": "Nei loro canali YouTube, nella consueta puntata settimanale di Incudine o Martello, hanno parlato di Milan e delle ultime tematiche emerse in questa settimana Carlo Pellegatti e Sandro Sabatini. Di seguito le parole di Sandro Sabatini."
-    },
-    {
-      "id": "205c54d4b7a6",
-      "title": "MN - Gabbia, nei prossimi giorni la decisione sul recupero. Si va verso la terapia conservativa",
-      "url": "https://www.milannews.it/news/mn-gabbia-prossimi-decisione-recupero-escludere-terapia-conservativa-632702",
-      "source": "milannews.it",
-      "date": "2026-10-14T15:09:35+00:00",
-      "summary": "Per Matteo Gabbia sono giorni importanti: il difensore - che contro il Sassuolo ha rimediato una lesione del muscolo flessore della coscia sinistra, con parziale interessamento tendineo - dovrà decidere che percorso di recupero intraprendere."
-    },
-    {
-      "id": "1fc003ecea92",
-      "title": "Milan Futuro, partita contro il Piacenza sospesa per infortunio all’arbitro: recupero a data da destinarsi",
-      "url": "https://www.milannews.it/milan-futuro/milan-futuro-partita-piacenza-sospesa-infortunio-all-arbitro-recupero-data-destinarsi-632700",
-      "source": "milannews.it",
-      "date": "2026-10-14T15:00:26+00:00",
-      "summary": "Alle 15:00 il Milan Futuro è sceso in campo al Felice Chinetti di Solbiate Arno contro il Piacenza per il recupero della 5a giornata del campionato di Serie D."
-    },
-    {
       "id": "2cd82e81cee8",
       "title": "Opposition insight for RB Salzburg-Milan: Form, injuries, predicted XI and more",
       "url": "https://sempremilan.com/opposition-insight-rb-salzburg-milan-form-injuries-xi",
       "source": "sempremilan.com",
       "date": "2026-10-14T15:00:00+00:00",
       "summary": "AC Milan will hope to get their first points on the board in the Europa League on Thursday night as they take on Red Bull Salzburg. Milan lost their opening European fixture 2-0 at home against Benfica, and negativity has been in the air since the 1-1 draw with Sassuolo on Sunday too, so a […]\nThe p"
-    },
-    {
-      "id": "970027c87bc9",
-      "title": "Pellegatti sincero: “Cardinale e i tifosi si aspettavano di più, col Sassuolo Milan bocciato”",
-      "url": "https://www.milannews.it/news/pellegatti-sincero-cardinale-tifosi-aspettavano-piu-sassuolo-milan-bocciato-632688",
-      "source": "milannews.it",
-      "date": "2026-10-14T14:50:00+00:00",
-      "summary": "Nei loro canali YouTube, nella consueta puntata settimanale di Incudine o Martello, hanno parlato di Milan e delle ultime tematiche emerse in questa settimana Carlo Pellegatti e Sandro Sabatini. Di seguito le parole del collega rossonero."
     },
     {
       "id": "35c44cb03f66",
@@ -162,36 +250,12 @@
       "summary": "Sky Sport Italia reports that Francesco Camarda will lead Milan’s attack in Thursday’s Europa League..."
     },
     {
-      "id": "56479947500d",
-      "title": "Atalanta, Sarri: \"Scalvini salterà probabilmente anche il Milan\"",
-      "url": "https://www.milannews.it/news/atalanta-sarri-scalvini-saltera-milan-632684",
-      "source": "milannews.it",
-      "date": "2026-10-14T14:40:42+00:00",
-      "summary": "Maurizio Sarri, tecnico dell'Atalanta, è stato intervistato da Sky alla vigilia della gara di Conference League contro il Pafos e ha annunciato che il difensore Giorgio Scalvini, che si è infortunato contro il Venezia rischia di sal ..."
-    },
-    {
-      "id": "7060d0ae9fe4",
-      "title": "Milan, Gabbia tornerà nel 2027. Pasotto: \"Ecco le alternative in difesa in attesa del mercato di gennaio\"",
-      "url": "https://www.milannews.it/news/milan-gabbia-tornera-2027-pasotto-ecco-alternative-difesa-mercato-gennaio-632679",
-      "source": "milannews.it",
-      "date": "2026-10-14T14:30:49+00:00",
-      "summary": "Il Milan ha perso Matteo Gabbia per alcuni mesi (rienterà nel 2027) e così in casa rossonera è scattata l'emergenza di difesa."
-    },
-    {
       "id": "0258a48e73a1",
       "title": "GdS: Promotions and the market – how Gabbia’s injury changes Milan’s plans",
       "url": "https://sempremilan.com/how-gabbia-injury-changes-milan-plans",
       "source": "sempremilan.com",
       "date": "2026-10-14T14:30:00+00:00",
       "summary": "AC Milan head coach Ruben Amorim will be without two key players for several months, so how will his and the club’s plans change? After Alexis Saelemaekers went down with an ankle issue that needs surgery, Matteo Gabbia is the latest to be hit by the injury bug. La Gazzetta dello Sport reports that "
-    },
-    {
-      "id": "e221d4a64fcc",
-      "title": "MN - Verso Salisburgo-Milan, rossoneri in partenza per l’Austria: Chukwueze presente, tre gli assenti",
-      "url": "https://www.milannews.it/news/mn-salisburgo-milan-rossoneri-partenza-salisburgo-chukwueze-presente-assenti-632698",
-      "source": "milannews.it",
-      "date": "2026-10-14T14:20:33+00:00",
-      "summary": "Domani, alle ore 18:45, i rossoneri saranno ospiti del Salisburgo alla Red Bull Arena per giocare il second match della fase campionato dell'Europa League."
     },
     {
       "id": "846d99687984",
@@ -202,44 +266,12 @@
       "summary": "Maurizio Sarri admits Giorgio Scalvini will likely miss Atalanta’s next Serie A match against Milan,..."
     },
     {
-      "id": "95b16cc1d2e1",
-      "title": "Verso Salisburgo-Milan, la probabile formazione rossonera: tanti cambi rispetto al Sassuolo, chance dal 1' per Tomori e Camarda",
-      "url": "https://www.milannews.it/news/salisburgo-milan-probabile-formazione-rossonera-tanti-cambi-sassuolo-chance-1-tomori-camarda-632697",
-      "source": "milannews.it",
-      "date": "2026-10-14T14:03:01+00:00",
-      "summary": "In vista della partita di domani sera in casa del Salisburgo, valida per la seconda giornata della fase campionato di Europa League, Ruben Amorim farà un ampio turnover, facendo riposare alcuni titolarissimi come Mario Gila, Adrien Rabiot, Die ..."
-    },
-    {
-      "id": "7acae610ff95",
-      "title": "La denuncia di Rabiot: il Milan riempie l'area con pochi giocatori. E chi ne risente è soprattutto Gonçalo Ramos",
-      "url": "https://www.milannews.it/primo-piano/denuncia-rabiot-milan-riempie-area-pochi-giocatori-risente-goncalo-ramos-632672",
-      "source": "milannews.it",
-      "date": "2026-10-14T14:00:15+00:00",
-      "summary": "Dopo tre gol in quattro partite con il Portogallo, le aspettative intorno a Gonçalo Ramos per la prima gara del Milan dopo la sosta erano altissime, ma purtroppo ancora una volta il portoghese non è riuscito a lasciare il segno."
-    },
-    {
       "id": "41805726eaf3",
       "title": "Pellegatti insists Milan must make approach for director who spent 28 years at Inter",
       "url": "https://sempremilan.com/pellegatti-milan-must-approach-ausilio-inter",
       "source": "sempremilan.com",
       "date": "2026-10-14T14:00:00+00:00",
       "summary": "AC Milan’s hunt for a new technical director continues, and Carlo Pellegatti has again put forward his preferred candidate. One of the topics that keeps getting brought up every few days in the news cycle is how Gerry Cardinale wants to appoint a new Head of Football to lead the management and assis"
-    },
-    {
-      "id": "add06c5ec578",
-      "title": "Pulisic promosso da Cardinale. Gozzini: \"Ha dimostrato sul campo di essere indispensabile\"",
-      "url": "https://www.milannews.it/news/pulisic-promosso-cardinale-gozzini-ha-dimostrato-campo-indispensabile-632674",
-      "source": "milannews.it",
-      "date": "2026-10-14T13:50:57+00:00",
-      "summary": "In merito al rendimento di Christian Pulisic, Alessandra Gozzini ha spiegato sulla Gazzetta dello Sport in edicola oggi vista della trasferta di domani del Milan a Salisburgo: \"Moreira dunque ci sarà perché l’idea di Amorim & ..."
-    },
-    {
-      "id": "dfc754b431d3",
-      "title": "Figc, a Coverciano la Unity Euro Cup 2026",
-      "url": "https://www.milannews.it/news/calcio-figc-coverciano-unity-euro-cup-2026-632689",
-      "source": "milannews.it",
-      "date": "2026-10-14T13:40:26+00:00",
-      "summary": "(ANSA) - ROMA, 14 OTT - Prende il via domani a Coverciano, dalla prima mattina fino alla sera, la Unity Euro Cup 2026, torneo dedicato ai rifugiati e alle loro comunità ospitanti."
     },
     {
       "id": "187a8ce1e2e3",
@@ -328,30 +360,6 @@
       "source": "sempremilan.com",
       "date": "2026-10-14T09:30:00+00:00",
       "summary": "Strahinja Pavlovic’s renewal is all done pending the official announcement, but AC Milan plan to get two more extensions done. La Gazzetta dello Sport (seen below) recall that Pavlovic was at Casa Milan on Tuesday afternoon to sign his new contract, one that will bind him to Milan until 2031, with a"
-    },
-    {
-      "id": "9ec915bf60db",
-      "title": "CorSport: An ‘own-goal’ from Cardinale – why his questionable verdicts could cause issues",
-      "url": "https://sempremilan.com/own-goal-cardinale-questionable-verdicts-issues",
-      "source": "sempremilan.com",
-      "date": "2026-10-14T09:00:00+00:00",
-      "summary": "After the game against Sassuolo, it leaked out through various channels that Gerry Cardinale was not happy with things. The draw left a bitter taste in the mouths of fans, as well as Ruben Amorim and even Adrien Rabiot. However, as Corriere dello Sport (via MilanNews) write this morning, Cardinale’s"
-    },
-    {
-      "id": "3a9d8529ff84",
-      "title": "A ‘dream’ night at San Siro: Milan fan Tresoldi explains ‘indescribable’ emotions after Inter hat-trick",
-      "url": "https://sempremilan.com/tresoldi-indescribable-emotions-inter-hat-trick",
-      "source": "sempremilan.com",
-      "date": "2026-10-14T08:30:00+00:00",
-      "summary": "AC Milan fans might have already been familiar with Nicolo Tresoldi’s name, but they certainly will be after Tuesday night. Tresoldi is the latest gem who is shining at Club Brugge, a club that Milan have negotiated with several times in recent years. On multiple occasions, the Cagliari-born forward"
-    },
-    {
-      "id": "d2cd8a1e4dfd",
-      "title": "GdS: ‘The real devils’ – why Amorim will rely on Moreira and Pulisic to spark Milan into life",
-      "url": "https://sempremilan.com/why-amorim-rely-moreira-pulisic-spark",
-      "source": "sempremilan.com",
-      "date": "2026-10-14T08:00:00+00:00",
-      "summary": "Ruben Amorim knows he needs his AC Milan team to create more, and he will rely on two players above all to try and achieve that. La Gazzetta dello Sport begin their report this morning by stating that Diego Moreira has seized a starting spot on merit, and not just because of Alexis Saelemaekers’ inj"
     },
     {
       "id": "09fbb2e25179",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-10-11T18:45:29+00:00",
       "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "47e28b6f4139",
-      "title": "Amorim: ‘Milan cannot concede that goal, sad for Gabbia injury’",
-      "url": "https://football-italia.net/amorim-milan-cannot-concede-goal-sad-gabbia/",
-      "source": "football-italia.net",
-      "date": "2026-10-11T18:45:04+00:00",
-      "summary": "Ruben Amorim explains his Milan tactical changes, including the introduction of Luka Modric, but they..."
     }
   ]
 }
