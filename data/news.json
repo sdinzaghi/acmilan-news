@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-10-15T21:55:33.309833+00:00",
+  "lastUpdated": "2026-10-16T00:04:51.370684+00:00",
   "articles": [
+    {
+      "id": "979dc3a30ab3",
+      "title": "Nuovo stadio, Sala: \"Confermo i 70 milioni per il quartiere di San Siro. Il Consiglio ci dica dove destinarli\"",
+      "url": "https://www.milannews.it/news/stadio-sala-confermo-70-quartiere-san-siro-dica-destinarli-632869",
+      "source": "milannews.it",
+      "date": "2026-10-15T23:00:00+00:00",
+      "summary": "Grazie al progetto di urbanizzazione di Milan ed Inter per il nuovo impianto sportivo e le opere collegate, il quartiere di San Siro avrà a disposizione più di 70 milioni di euro, conferma il sindaco di Milano Giuseppe Sala nel suo inte ..."
+    },
+    {
+      "id": "fa47bbb713e5",
+      "title": "Amorim felice a metà: \"In altre partite abbiamo giocato meglio\"",
+      "url": "https://www.milannews.it/news/amorim-felice-meta-in-partite-giocato-meglio-632857",
+      "source": "milannews.it",
+      "date": "2026-10-15T22:50:22+00:00",
+      "summary": "E' un Ruben Amorim contento a metà quello che dopo la netta vittoria contro il Salisburgo ha parlato così, a Sky Sport."
+    },
+    {
+      "id": "e88b0b2d07d6",
+      "title": "Cisse convocato in Nazionale da Mancini? Alpha risponde così",
+      "url": "https://www.milannews.it/news/cisse-convocato-nazionale-mancini-alpha-risponde-632866",
+      "source": "milannews.it",
+      "date": "2026-10-15T22:40:00+00:00",
+      "summary": "Una serata da sogno e da giocatore di caratura importante, internazionale. E' stato un super Alphadjo Cisse quello visto alla Red Bull Arena contro il Salisburgo nell'ultimo match dei rossoneri in Europa League."
+    },
+    {
+      "id": "603e11f357cc",
+      "title": "Capello felice di Loftus-Cheek: \"Finalmente l'ho visto più cattivo\"",
+      "url": "https://www.milannews.it/news/capello-felice-loftus-cheek-finalmente-cattivo-632868",
+      "source": "milannews.it",
+      "date": "2026-10-15T22:30:51+00:00",
+      "summary": "Un bel Milan, di qualità e gamba vince per 4-0 sul campo del Salisburgo, nella seconda giornata di Europa League. Non c'è mai stata partita alla Red Bull Arena."
+    },
+    {
+      "id": "28de0f454c8c",
+      "title": "L'Inter perde Lautaro: cosa gli è successo e quanto starà fuori",
+      "url": "https://www.milannews.it/news/calcio-inter-perde-lautaro-stop-risentimento-muscolare-632795",
+      "source": "milannews.it",
+      "date": "2026-10-15T22:20:00+00:00",
+      "summary": "(ANSA) - MILANO, 15 OTT - Risentimento muscolare ai flessori della coscia sinistra per il capitano dell'Inter Lautaro Martinez. Lo rende noto il club nerazzurro in una nota."
+    },
+    {
+      "id": "ea50ae2524ce",
+      "title": "Cisse è il più giovane della storia del Milan a segnare due volte in un tempo in Europa",
+      "url": "https://www.milannews.it/news/cisse-giovane-storia-milan-segnare-europa-632826",
+      "source": "milannews.it",
+      "date": "2026-10-15T22:10:38+00:00",
+      "summary": "Con la doppietta odierna (gol al 15' e al 32'), a 19 anni e 358 giorni Alphadjo Cisse è il più giovane giocatore nella storia del Milan ad aver realizzato una marcatura multipla in un singolo tempo di gioco in una delle maggiori ..."
+    },
+    {
+      "id": "8621618bacae",
+      "title": "Ma che gioia questa linea verde! Lezione di calcio a Salisburgo",
+      "url": "https://www.milannews.it/editoriale/gioia-linea-verde-lezione-calcio-salisburgo-632849",
+      "source": "milannews.it",
+      "date": "2026-10-15T22:00:01+00:00",
+      "summary": "Questa volta il massiccio turnover paga, e paga anche bene. Dentro Tomori, De Winter, Jashari, Hutchinson, Bartesaghi, Cisse, Loftus Cheek, Camarda."
+    },
     {
       "id": "9c59b8627233",
       "title": "Super Cisse, Pavlovic ammette: \"Devo essere onesto, mi ha stupito\"",
@@ -114,14 +170,6 @@
       "summary": "Finalmente una bella serata per il Milan, che batte il Salisburgo 4-0 e guadagna i primi 3 punti nella fase campionato di Europa League. Una bella prova della squadra di Amorim nonostante i tanti cambi proposti dall'allenatore rossonero."
     },
     {
-      "id": "0e2f418bfb08",
-      "title": "MN - Cisse: \"Ad inizio anno nessuno si sarebbe aspettato tutto questo. Ma se sono qua è perché ho lavorato molto\"",
-      "url": "https://www.milannews.it/news/mn-cisse-ad-inizio-aspettato-questo-lavorato-molto-632860",
-      "source": "milannews.it",
-      "date": "2026-10-15T19:39:46+00:00",
-      "summary": "Alhpadjo Cisse, protagonista di serata con la sua tripletta, ha parlato in mix zone al termine di Salisburgo-Milan 0-4. Queste le sue dichiarazioni raccolte dall'inviato di MilanNews."
-    },
-    {
       "id": "46d7e9b572a3",
       "title": "Hutchinson happy with ‘another step forward’ and discusses favourite position",
       "url": "https://sempremilan.com/hutchinson-happy-step-forward-positions",
@@ -136,22 +184,6 @@
       "source": "sempremilan.com",
       "date": "2026-10-15T19:35:13+00:00",
       "summary": "AC Milan head coach Ruben Amorim hit back at the assessment from within the Sky studios that this was his side’s most complete performance. It wasn’t entirely a stroll in the park for Milan, though the 4-0 win over Red Bull Salzburg on Thursday night was probably as comfortable a win that they could"
-    },
-    {
-      "id": "7cc67d570e83",
-      "title": "LIVE MN - Rohl: \"Sconfitta meritata. Possiamo solo fare i complimenti all'avversario\"",
-      "url": "https://www.milannews.it/l-avversario/live-mn-conferenza-allenatore-salisburgo-partita-milan-632845",
-      "source": "milannews.it",
-      "date": "2026-10-15T19:34:12+00:00",
-      "summary": "Le dichiarazioni in conferenza stampa di Danny Rohl, allenatore del Salisbugo, dopo la sconfitta di oggi in Europa League contro il Milan. \n\nOre 21."
-    },
-    {
-      "id": "f58866e4cacd",
-      "title": "Cisse come Inzaghi: era stato Pippo l'ultimo rossonero a segnare una tripletta in Europa",
-      "url": "https://www.milannews.it/news/cisse-inzaghi-pippo-rossonero-segnare-tripletta-europa-632827",
-      "source": "milannews.it",
-      "date": "2026-10-15T19:30:56+00:00",
-      "summary": "L'ultimo calciatore italiano a segnare una tripletta in Europa con la maglia del Milan era stato Pippo Inzaghi in Deportivo-Milan 0-4 del 24 settembre 2002 nel girone di Champions League."
     },
     {
       "id": "e4de7fc0ea8a",
@@ -170,44 +202,12 @@
       "summary": "Stefano was very pleased with AC Milan’s performance against Salzburg in his instant reaction video, sharing his thoughts straight after the full-time whistle.  The defeat to Benfica before the break put some pressure on Milan this evening, in need of a first win in the Europa League. Thankfully, th"
     },
     {
-      "id": "3f8411cea8f8",
-      "title": "Hutchinson a Sky: \"Amorim ci dice sempre che non siamo cinici. Ruolo? Mi piace stare largo\"",
-      "url": "https://www.milannews.it/news/hutchinson-sky-amorim-cinici-ruolo-piace-stare-largo-632858",
-      "source": "milannews.it",
-      "date": "2026-10-15T19:22:30+00:00",
-      "summary": "Omari Hutchinson, attaccante del Milan, è stato intervistato da SkySport dalla RedBull Arena di Salisburgo al termine della vittoria per 0-4 del Milan."
-    },
-    {
       "id": "3c34e8f8bc6b",
       "title": "Bartesaghi ‘really happy’ for Cisse as he sheds light on key tactical instruction",
       "url": "https://sempremilan.com/bartesaghi-happy-cisse-key-tactical-instruction",
       "source": "sempremilan.com",
       "date": "2026-10-15T19:20:52+00:00",
       "summary": "Davide Bartesaghi couldn’t hide his delight for Alphadjo Cisse after he scored a hat-trick in the rout of Red Bull Salzburg. Given that Salzburg were unbeaten in 15 competitive games this season under Danny Röhl, many were expecting a very tough examination from the Austrian side, who have lots of t"
-    },
-    {
-      "id": "2c2a51720b1d",
-      "title": "LIVE MN - Amorim: \"Sembra assurdo, ma per me Cisse ha avuto partite migliori di oggi. Sono contento per lui e la squadra\"",
-      "url": "https://www.milannews.it/news/live-mn-ruben-amorim-conferenza-stampa-post-salisburgo-milan-632843",
-      "source": "milannews.it",
-      "date": "2026-10-15T19:20:11+00:00",
-      "summary": "Le dichiarazioni in conferenza stampa di Ruben Amorim dopo la bella vittoria del Milan contro il Salisburgo. \n\n21."
-    },
-    {
-      "id": "1a21b314f432",
-      "title": "Bartesaghi racconta il primo gol di Cisse: \"Sapevamo ci sarebbe stato spazio sul mio lato...\"",
-      "url": "https://www.milannews.it/news/bartesaghi-racconta-gol-cisse-sapevamo-spazio-lato-632854",
-      "source": "milannews.it",
-      "date": "2026-10-15T19:20:03+00:00",
-      "summary": "Un'ottima prestazione quella di Davide Bartesaghi contro il Salisburgo."
-    },
-    {
-      "id": "b525d594e344",
-      "title": "Amorim a Sky: \"In altre gare abbiamo fatto meglio. Tutti devono sapere che possono perdere il posto. Su Camarda...\"",
-      "url": "https://www.milannews.it/primo-piano/amorim-sky-in-gare-meglio-devono-sapere-possono-perdere-posto-camarda-632855",
-      "source": "milannews.it",
-      "date": "2026-10-15T19:11:02+00:00",
-      "summary": "Ruben Amorim, allenatore del Milan, è stato intervistato da SkySport dalla RedBull Arena di Salisburgo al termine della vittoria per 0-4 del Milan."
     },
     {
       "id": "7d5ec86fe065",
