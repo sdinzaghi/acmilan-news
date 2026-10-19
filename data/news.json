@@ -1,13 +1,253 @@
 {
-  "lastUpdated": "2026-10-19T12:07:17.479422+00:00",
+  "lastUpdated": "2026-10-19T19:00:07.253256+00:00",
   "articles": [
     {
-      "id": "86bb84638bf6",
-      "title": "L'Head of Football non è il direttore sportivo: ecco perché e cosa cambia",
-      "url": "https://www.milannews.it/primo-piano/head-of-football-direttore-sportivo-cambia-633289",
+      "id": "b634ba0b5aea",
+      "title": "Serie A, la classifica aggiornata: il Cagliari manca il sorpasso, Milan quarto",
+      "url": "https://www.milannews.it/news/classifica-aggiornata-serie-633274",
       "source": "milannews.it",
-      "date": "2026-10-19T12:00:01+00:00",
-      "summary": "Se Markus Krosche sarà, effettivamente, scelto come nuovo Head of Football del Milan, a livello prettamente burocratico non potrà essere iscritto nell’organigramma come l’occupante della casella di Direttore Sportivo, che in ..."
+      "date": "2026-10-19T18:50:30+00:00",
+      "summary": "Si ferma la corsa esaltante del Cagliari: la squadra di mister Fabio Pisacane sbatte contro il muro del Monza che in Brianza vince 4-0 e guadagna la sua seconda vittoria in questo campionato."
+    },
+    {
+      "id": "5f66dafc3331",
+      "title": "Al-Nassr indebitato: RedBird pronto a investire oltre 260 milioni di dollari per il 70%. Tra gli investitori anche CR7",
+      "url": "https://www.milannews.it/news/al-nassr-indebitato-redbird-pronto-investire-260-70-investitori-cr7-633332",
+      "source": "milannews.it",
+      "date": "2026-10-19T18:40:00+00:00",
+      "summary": "RedBird di Gerry Cardinale sarebbe pronta a investire ancora nel calcio. Questa è la notizia che arriva dall'Arabia Saudita e che viene riportata questa sera dalla Gazzetta dello Sport."
+    },
+    {
+      "id": "2568386543f7",
+      "title": "Crolla il Cagliari di Pisacane: poker del Monza con un super Varela",
+      "url": "https://www.milannews.it/news/crolla-cagliari-pisacane-poker-monza-super-varela-633273",
+      "source": "milannews.it",
+      "date": "2026-10-19T18:30:58+00:00",
+      "summary": "Si interrompe bruscamente la striscia esaltante del Cagliari: la squadra di mister Fabio Pisacane, nel primo dei due posticipi del lunedì, è crollata in casa del Monza."
+    },
+    {
+      "id": "9756942f02ab",
+      "title": "Trevisani confronta Milan e Juve: \"Amorim ci sta mettendo del suo, punta molto superiore, Gila ha sistemato la difesa\"",
+      "url": "https://www.milannews.it/news/trevisani-confronta-milan-juve-amorim-mettendo-suo-punta-superiore-gila-sistemato-difesa-633276",
+      "source": "milannews.it",
+      "date": "2026-10-19T18:20:16+00:00",
+      "summary": "Riccardo Trevisani, giornalista, si è così espresso a Pressing su Mediaset commentando la vittoria del Milan per 3-2 contro l'Atalanta: \"Il Milan ha fatto 21 minuti finali esattamente come i 90 della Juve: è stato incred ..."
+    },
+    {
+      "id": "217631eb74be",
+      "title": "Ordine: \"Vi ricordate la polemica sui km di Ramos? Bene: da ieri, in quella particolare classifica, svetta Pulisic\"",
+      "url": "https://www.milannews.it/news/ordine-vi-ricordate-polemica-km-ramos-bene-ieri-particolare-classifica-svetta-pulisic-633283",
+      "source": "milannews.it",
+      "date": "2026-10-19T18:10:28+00:00",
+      "summary": "Franco Ordine, giornalista, si è così espresso sul Corriere dello Sport sul Milan di Ruben Amorim che ieri ha battuto 3-2 l'Atalanta a San Siro: \"Il lavoro di Amorim è appena cominciato, bisogna ripeterlo per gli sm ..."
+    },
+    {
+      "id": "ce34ede66bfa",
+      "title": "Ma quanto è forte Mario Gila? Corre, lotta e segna pure: un'aura che non si vedeva da tempo",
+      "url": "https://www.milannews.it/primo-piano/mario-gila-leader-assoluto-corre-lotta-segna-pure-aura-vedeva-633307",
+      "source": "milannews.it",
+      "date": "2026-10-19T18:00:00+00:00",
+      "summary": "Ma quanto è forte Mario Gila? Sì, questa è la domanda che tutti i tifosi del Milan (e non solo) si staranno sicuramente chiedendo dopo le recenti prestazioni del difensore spagnolo."
+    },
+    {
+      "id": "ae2ab8593b07",
+      "title": "AC Milan 3-2 Atalanta: Five things we learned – the ceiling and the floor perfectly demonstrated",
+      "url": "https://sempremilan.com/ac-milan-3-2-atalanta-five-things-we-learned",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T18:00:00+00:00",
+      "summary": "AC Milan made it back-to-back wins against Atalanta at San Siro on Sunday, but it ended up being far more nervy than it should have been. After 60 minutes, the question was how many Milan could win by, not whether the result was in question. Goncalo Ramos scored a penalty and Adrien Rabiot doubled t"
+    },
+    {
+      "id": "e37d82fab1c7",
+      "title": "Guadagno: \"Nonostante il cambio modulo, si erano visti lo stesso atteggiamento, disponibilità al sacrificio ed equilibrio di Salisburgo\"",
+      "url": "https://www.milannews.it/news/guadagno-analizza-nonostante-cambio-modulo-visti-atteggiamento-disponibilita-sacrificio-equilibrio-s-633258",
+      "source": "milannews.it",
+      "date": "2026-10-19T17:50:33+00:00",
+      "summary": "Pietro Guadagno, giornalista, si è così espresso sul Corriere dello Sport commentando la vittoria del Milan per 3-2 sulla Atalanta: \"Vittoria col fiatone."
+    },
+    {
+      "id": "686d6264633a",
+      "title": "Non succedeva dal 1963 che un allenatore, all'esordio con il Milan, restasse imbattuto nelle prime sette di campionato",
+      "url": "https://www.milannews.it/news/succedeva-1963-allenatore-esordio-milan-restasse-imbattuto-prime-campionato-633241",
+      "source": "milannews.it",
+      "date": "2026-10-19T17:40:08+00:00",
+      "summary": "Ruben Amorim (4V, 3N) è diventato il terzo allenatore nella storia del Milan a restare imbattuto in ciascuna delle sue prime sette panchine in rossonero in Serie A, dopo Hector Puricelli nel 1955 (3V, 4N) e Luis Carniglia nel 1963 (4V, 3N)."
+    },
+    {
+      "id": "44ccc7112ab9",
+      "title": "Serafini non ci sta: \"Gli avvelenatori dei pozzi ci diranno che all'Atalanta mancavano otto giocatori\"",
+      "url": "https://www.milannews.it/news/serafini-sta-gli-avvelenatori-pozzi-diranno-atalanta-mancavano-giocatori-633263",
+      "source": "milannews.it",
+      "date": "2026-10-19T17:30:23+00:00",
+      "summary": "Luca Serafini, giornalista, si è così espresso su MilanCommunityTV commentando la vittoria del Milan per 3-2 contro l'Atalanta: \"Ci hanno fatto soffrire e arrabbiarsi come non mai anche stasera."
+    },
+    {
+      "id": "ec2f181df657",
+      "title": "Nessun centrocampista come Rabiot in Serie A per gol e partecipazioni attive a reti",
+      "url": "https://www.milannews.it/news/centrocampista-rabiot-serie-gol-partecipazioni-attive-reti-633244",
+      "source": "milannews.it",
+      "date": "2026-10-19T17:22:01+00:00",
+      "summary": "Adrien Rabiot è sia il centrocampista con più gol realizzati in questa Serie A (quattro) che quello con più partecipazioni attive nel massimo campionato in corso (sette - 4G, 3A); in generale, nessun pari ruolo è stato coi ..."
+    },
+    {
+      "id": "62577e865b90",
+      "title": "Sky Germany: ‘No advanced negotiations’ – Krösche not close to Milan yet with compensation needed",
+      "url": "https://sempremilan.com/krosche-not-close-milan-compensation-needed",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T17:20:00+00:00",
+      "summary": "Talks between AC Milan and Markus Krösche are not advanced, one journalist has claimed, with compensation an issue to overcome. Milan were linked with hiring Krösche during the summer when their hunt for a new Head of Football was well publicised. However, in the end Eintracht Frankfurt put up a wal"
+    },
+    {
+      "id": "a23bec847cbe",
+      "title": "Pellegatti: \"Krosche-Milan, dialogo positivo ma ancora punti da chiarire\"",
+      "url": "https://www.milannews.it/news/pellegatti-krosche-milan-dialogo-positivo-punti-chiarire-633324",
+      "source": "milannews.it",
+      "date": "2026-10-19T17:10:02+00:00",
+      "summary": "Il Milan è di nuovo al lavoro con Markus Krosche per renderlo il nuovo Head of Football del club rossonero."
+    },
+    {
+      "id": "dbbf1f61ccfc",
+      "title": "Sembra incredibile, ma il Milan ha battuto l'Atalanta per la prima volta da quasi quattro anni",
+      "url": "https://www.milannews.it/news/incredibile-milan-battuto-atalanta-633238",
+      "source": "milannews.it",
+      "date": "2026-10-19T17:00:37+00:00",
+      "summary": "Il Milan ha battuto l’Atalanta in Serie A per la prima volta dal 26 febbraio 2023, anche in quel caso in un match casalingo (2-0 con Stefano Pioli in panchina); per i rossoneri chiusa una striscia di sei gare di fila senza successi contro i ner ..."
+    },
+    {
+      "id": "db7c5d88a0b0",
+      "title": "Di Canio: \"Rabiot ha tirato le orecchie ai subentrati. Leao avrà fatto di peggio, ma ora, col gruppo sano, certe corde si possono toccare\"",
+      "url": "https://www.milannews.it/news/canio-rabiot-tirato-orecchie-subentrati-leao-peggio-ora-sano-corde-possono-toccare-633269",
+      "source": "milannews.it",
+      "date": "2026-10-19T16:50:19+00:00",
+      "summary": "Paolo Di Canio, opinionista, si è così espresso su SkySport commentando le parole di Adrien Rabiot al termine di Milan-Atalanta: \"Ha fatto una tirata d'orecchie ad Hutchinson, Jashari, Loftus-Cheek."
+    },
+    {
+      "id": "fcf56db29fd0",
+      "title": "Krosche saluta l'Eintracht fra le lacrime: \"Oggi posso solo dire grazie per cinque anni estremamente emozionanti\"",
+      "url": "https://www.milannews.it/news/krosche-saluta-eintracht-lacrime-oggi-posso-estremamente-emozionanti-633323",
+      "source": "milannews.it",
+      "date": "2026-10-19T16:49:00+00:00",
+      "summary": "Dopo il comunicato di ieri, oggi in casa Eintracht è stata indetta un’assemblea dei soci per ratificare il passo indietro di Markus Krosche, che non sarà più il direttore dell’area sportiva del club."
+    },
+    {
+      "id": "a0a0b88513b9",
+      "title": "Fischiato lo scorso fine settimana, Mbappè ha ricevuto una calorosa ovazione quando Mourinho gli ha fatto lasciare il campo",
+      "url": "https://www.milannews.it/news/liga-4-1-real-madrid-siviglia-doppietta-mbappe-633220",
+      "source": "milannews.it",
+      "date": "2026-10-19T16:40:27+00:00",
+      "summary": "(ANSA) - ROMA, 18 OTT - A un settimana dal Clasico al Camp Nou che potrebbe essere già decisivo, il Real Madrid trova un'importante vittoria in casa contro il Siviglia, un 4-1 che è firmato soprattutto da Kylian Mbappé, autor ..."
+    },
+    {
+      "id": "73bcd7738068",
+      "title": "Six players get above a 6.5: Fan player ratings for Milan 3-2 Atalanta",
+      "url": "https://sempremilan.com/fan-player-ratings-milan-3-2-atalanta",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T16:40:00+00:00",
+      "summary": "AC Milan made life difficult for themselves on Sunday night against Atalanta, eventually seeing out a 3-2 win after leading by three goals. Goncalo Ramos, Adrien Rabiot and Mario Gila had put Milan 3-0 up inside an hour, and it looked like a real hammering could be on the cards. Ramos also missed a "
+    },
+    {
+      "id": "aee9bd903b74",
+      "title": "Cagliari, Pisacane: \"Murelli, dopo aver vinto uno scudetto con il Milan, si è buttato al mio fianco\"",
+      "url": "https://www.milannews.it/news/calcio-pisacane-attenti-monza-guardiamo-classifica-633229",
+      "source": "milannews.it",
+      "date": "2026-10-19T16:30:25+00:00",
+      "summary": "(ANSA) - CAGLIARI, 18 OTT - L'incontro troppo ravvicinato con Spalletti nel dopo Cagliari-Juventus lo costringerà a seguire la partita di domani a Monza dalla tribuna."
+    },
+    {
+      "id": "956a7956a674",
+      "title": "Krosche di nuovo in orbita Milan? I migliori colpi dell'ex dirigente dell'Eintracht",
+      "url": "https://www.milannews.it/news/krosche-orbita-milan-migliori-colpi-dirigente-eintracht-633322",
+      "source": "milannews.it",
+      "date": "2026-10-19T16:20:59+00:00",
+      "summary": "Nella giornata di ieri l'Eintracht Fraconforte ha comunicato di aver accettato il passo indietro di Markus Krosche, che non ricopre più la carica di DS del club."
+    },
+    {
+      "id": "e085657d98bc",
+      "title": "Passerini: \"Il risultato fa morale, ma credo anche che Amorim faccia bene ad analizzare e capire che cosa sia successo nel finale\"",
+      "url": "https://www.milannews.it/news/passerini-il-risultato-morale-credo-amorim-analizzare-capire-successo-finale-633280",
+      "source": "milannews.it",
+      "date": "2026-10-19T16:10:03+00:00",
+      "summary": "Carlos Passerini, giornalista del Corriere della Sera, si è così espresso sul suo canale Youtube commetando la vittoria del Milan sull'Atalanta: \"Non so quanti anni di vita persi nel finale! Amorim dice: 'Mi tengo il risult ..."
+    },
+    {
+      "id": "9f947314951d",
+      "title": "Milan-Atalanta, premiati i tre Milan Club con il maggior numero di iscritti nel pre partita",
+      "url": "https://www.milannews.it/news/milan-atalanta-premiati-milan-club-numero-iscritti-pre-partita-633321",
+      "source": "milannews.it",
+      "date": "2026-10-19T16:09:34+00:00",
+      "summary": "La domenica di San Siro contro l'Atalanta non ha solo portato 3 punti in dote agli uomini di Amorim, ma è stata anche l'occasione per celebrare i Milan Club e il loro legame con il Club rossonero."
+    },
+    {
+      "id": "8a0ff5732cd5",
+      "title": "Il 14 novembre Boban ospite al Gran Galà del Milan Club Orgoglio Rossonero",
+      "url": "https://www.milannews.it/news/14-novembre-boban-ospite-gran-gala-milan-club-orgoglio-rossonero-633320",
+      "source": "milannews.it",
+      "date": "2026-10-19T16:00:58+00:00",
+      "summary": "\"La passione rossonera oltre ogni confine\": è questo lo spirito che anima il Milan Club Orgoglio Rossonero in vista del suo attesissimo Gran Galà, che si terrà il prossimo 14 novembre nella suggestiva cornice della Chie ..."
+    },
+    {
+      "id": "3d369e38d4c7",
+      "title": "Seven games, 15 points: How Milan’s start under Amorim compares to last eight seasons",
+      "url": "https://sempremilan.com/how-milan-start-amorim-compares-eight-seasons",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T16:00:00+00:00",
+      "summary": "AC Milan won their fourth game of the Serie A season so far as they beat Atalanta 3-2 at San Siro in round seven. The victory over Atalanta looked like being comfortable and comprehensive with the scoreline 3-0 after less than one hour, before La Dea’s late comeback made it a nervy finish. Milan hun"
+    },
+    {
+      "id": "9a10037c2b52",
+      "title": "Roma 4-2 AC Milan Women: Grimshaw brace not enough in defeat to the champions",
+      "url": "https://sempremilan.com/roma-4-2-ac-milan-women-match-report",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T15:30:00+00:00",
+      "summary": "AC Milan Women competed for almost the entire game against champions Roma, but ultimately fell apart in the second half. After losing 4-1 to Como in round one and following it up with a very impressive victory against Juventus before the recent break, the Rossonere were looking for another statement"
+    },
+    {
+      "id": "f3ed685b1a2a",
+      "title": "Photos: Milan players react to Atalanta win on social media – “Thank you San Siro”",
+      "url": "https://sempremilan.com/milan-social-media-reaction-atalanta-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T15:00:00+00:00",
+      "summary": "AC Milan racked up win number four of their 2026-27 Serie A campaign on Sunday night, edging a thriller against Atalanta. Things were going so well for Milan after 65 minutes. A penalty from Goncalo Ramos gave the Rossoneri the lead before Adrien Rabiot scored a second, then Mario Gila’s header in t"
+    },
+    {
+      "id": "8e7f4265dc9b",
+      "title": "Athekame’s MOTM performance helps Lyon go top: “Milan will take him back in January”",
+      "url": "https://sempremilan.com/athekame-motm-lyon-top-milan-january",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T14:30:00+00:00",
+      "summary": "Zachary Athekame is continuing to earn praise for his performances with Lyon, to the extent they seem worried about a recall. Lyon are top of Ligue 1 after they came from behind to beat OGC Nice at home on Sunday night, with Athekame again playing a key role in the victory. He whipped in the […]\nThe"
+    },
+    {
+      "id": "a2df293efd86",
+      "title": "“Felt that I need a change” – Krösche issues statement as German sources confirm Milan links",
+      "url": "https://sempremilan.com/krosche-statement-german-sources-confirm-milan",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T14:00:00+00:00",
+      "summary": "Confirmations are beginning to arrive from Germany regarding Markus Krösche’s imminent move to AC Milan after he left Eintracht Frankfurt. It looks like being a case of second time lucky for Milan after they tried to hire Krösche in the summer but were knocked back by Eintracht, who were not happy a"
+    },
+    {
+      "id": "0329290805ed",
+      "title": "Watch: Milan survive late barrage to win five-goal thriller vs. Atalanta – the highlights",
+      "url": "https://sempremilan.com/watch-milan-3-2-atalanta-match-highlights",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T13:30:00+00:00",
+      "summary": "AC Milan survived a late onslaught from Atalanta to hang on and secure their third home win in three to begin the Serie A season. After 65 minutes, things were going so well. Goncalo Ramos had given Milan the lead with a first-half penalty before Adrien Rabiot bagged his fourth of the campaign to do"
+    },
+    {
+      "id": "7e69ea162a53",
+      "title": "GdS: Summer doubts, present certainty – Maignan earns Milan more points with huge save",
+      "url": "https://sempremilan.com/maignan-earns-milan-points-huge-save",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T13:00:00+00:00",
+      "summary": "Every player must contribute to a winning cause, but what Mike Maignan did on Sunday night saved the result against Atalanta. La Gazzetta dello Sport jokingly describe Maignan as ‘a goalkeeper with balls’ in a nod to what was his finest save on a night that started so well for Milan, and then begun "
+    },
+    {
+      "id": "0097ef118574",
+      "title": "Moretto: Roma centre-back joins Inacio on list Milan are considering ahead of January",
+      "url": "https://sempremilan.com/roma-ghilardi-milan-list-january-inacio",
+      "source": "sempremilan.com",
+      "date": "2026-10-19T12:30:00+00:00",
+      "summary": "AC Milan’s priority is to sign a centre-back in the winter window, and a new name has emerged on the list of targets. According to the latest from Matteo Moretto (via RomaPress), Milan are eyeing a new central defender in view of the January mercato after Matteo Gabbia suffered an injury that will k"
     },
     {
       "id": "f47c520f1d57",
@@ -18,44 +258,12 @@
       "summary": "Ruben Amorim’s positive start to life as AC Milan head coach continued with a 3-2 win over Atalanta at San Siro on Sunday. Milan were in a very commanding position with an hour on the clock. Goncalo Ramos converted a penalty, Adrien Rabiot netted his fourth of the season and Mario Gila scored his fi"
     },
     {
-      "id": "df37e93a4f31",
-      "title": "Cuomo: \"I limiti della rosa non sono colpa di Amorim, e il calendario impone cambi e calcoli\"",
-      "url": "https://www.milannews.it/news/cuomo-i-limiti-rosa-colpa-amorim-calendario-impone-cambi-calcoli-633265",
-      "source": "milannews.it",
-      "date": "2026-10-19T11:50:07+00:00",
-      "summary": "Michael Cuomo, giornalista, si è così espresso su X commentando la vittoria del Milan per 3-2 contro la Atalanta: \"Milan-Atalanta è Lazio-Milan al contrario: se giochi con i migliori subito la indirizzi a tuo favore, se entr ..."
-    },
-    {
-      "id": "1ebdaea292e9",
-      "title": "Ramos in gol sul (primo) calcio di rigore: non ne segnava uno da un anno esatto",
-      "url": "https://www.milannews.it/news/ramos-gol-primo-calcio-rigore-segnava-esatto-633243",
-      "source": "milannews.it",
-      "date": "2026-10-19T11:40:52+00:00",
-      "summary": "Gonçalo Ramos ha trovato la rete su calcio di rigore in uno dei cinque maggiori campionati europei per la prima volta dal 17 ottobre 2025 in Ligue 1 col PSG (v Strasburgo). Lo riporta Opta."
-    },
-    {
-      "id": "2467c62fcb0b",
-      "title": "Il commento del club a Milan-Atalanta: \"Questa vittoria col brivido rimane bella, piena e pesante, in un periodo di stagione complicato e delicato\"",
-      "url": "https://www.milannews.it/news/commento-club-milan-atalanta-questa-vittoria-brivido-rimane-bella-piena-pesante-periodo-stagione-com-633245",
-      "source": "milannews.it",
-      "date": "2026-10-19T11:30:35+00:00",
-      "summary": "Si riporta di seguito il commento dell'AC Milan, attraverso il sito ufficiale del club, a Milan-Atalanta (3-2):\n\n\"Un Milan ispirato e brillante, nonostante una seconda parte di ripresa in calando, ha la meglio rispetto all'Atalanta e s ..."
-    },
-    {
       "id": "97547004c487",
       "title": "CM: Why Milan’s win over Atalanta showed the best and worst of Amorim’s management",
       "url": "https://sempremilan.com/milan-atalanta-best-worst-amorim-management",
       "source": "sempremilan.com",
       "date": "2026-10-19T11:30:00+00:00",
       "summary": "AC Milan managed to survive a late comeback attempt from Atalanta to beat them at San Siro last night, but there were some concerning signs. Calciomercato.com write that the alarm on Atalanta’s bedside table may have gone off too late, but it must be said that Milan also helped them to get back into"
-    },
-    {
-      "id": "83dccbb930d4",
-      "title": "È uno Spalletti dimesso quello che ha parlato dopo il clamoroso 0-3 contro la Lazio",
-      "url": "https://www.milannews.it/news/spalletti-juve-inferiore-0-3-difficile-spiegare-633221",
-      "source": "milannews.it",
-      "date": "2026-10-19T11:20:48+00:00",
-      "summary": "(ANSA) - TORINO, 18 OTT - \"E' stata una Juve inferiore, che non ha avuto né pallino del gioco né idee su dove portare la gara: è difficile darsi spiegazioni, sono rimasto sorpreso da questa prestazione\": così ..."
     },
     {
       "id": "303f9b8b0a3e",
@@ -66,28 +274,12 @@
       "summary": "Monday’s reports claim that Milan are closing in on an agreement with Markus Krösche to..."
     },
     {
-      "id": "57b8c4d150f0",
-      "title": "Letizia: \"Che arrivi Krosche o no, non ci darà tre punti a Bournemouth e a Udine. Non mi importa ora\"",
-      "url": "https://www.milannews.it/news/letizia-che-arrivi-krosche-no-dara-punti-bournemouth-udine-importa-ora-633261",
-      "source": "milannews.it",
-      "date": "2026-10-19T11:10:21+00:00",
-      "summary": "Francesco Letizia, giornalista, si è così espresso sul suo canale Youtube sull'ipotesi di arrivo di Markus Krosche al Milan: \"Krosche è ormai ex direttore dell'Eintracht Francoforte, in estate si era parlato tanto di ..."
-    },
-    {
       "id": "3d9d602d0f20",
       "title": "Milan closing in on agreement with ex-Frankfurt and RB Leipzig director Krösche",
       "url": "https://football-italia.net/milan-closing-in-on-agreement-with-kroesche/",
       "source": "football-italia.net",
       "date": "2026-10-19T11:05:16+00:00",
       "summary": "Reports in Italy and Germany indicate that Milan are closing in on an agreement with..."
-    },
-    {
-      "id": "644f7cf31f82",
-      "title": "Rabiot ha preso parte a gol per quattro partite di fila per la prima volta in carriera",
-      "url": "https://www.milannews.it/news/rabiot-preso-gol-partite-fila-carriera-633178",
-      "source": "milannews.it",
-      "date": "2026-10-19T11:00:15+00:00",
-      "summary": "Dopo l'assist con la Lazio e i gol contro Lecce e Sassuolo, Adrien Rabiot ha prendere parte ad almeno una marcatura per quattro match di fila per la prima volta in carriera nei maggiori cinque campionati europei. \n."
     },
     {
       "id": "d32f3f552f6c",
@@ -98,60 +290,12 @@
       "summary": "After a search that has gone on for months, AC Milan seem to have finally got their man as Markus Krösche is set to join. Milan were linked with hiring Krösche for the Head of Football role during the summer and he appeared to be on the way until Eintracht Frankfurt put up a wall […]\nThe post Report"
     },
     {
-      "id": "b86409fd7938",
-      "title": "Calcagno: \"Per un'ora il Milan ha giocato da squadra compiuta, poi l'Atalanta lo ha messo sotto. Il lavoro di Amorim non è finito\"",
-      "url": "https://www.milannews.it/news/calcagno-per-milan-giocato-squadra-compiuta-atalanta-messo-sotto-lavoro-amorim-finito-633262",
-      "source": "milannews.it",
-      "date": "2026-10-19T10:50:30+00:00",
-      "summary": "Il giornalista Domenico Calcagno ha commentato così la vittoria di ieri sera del Milan per 3-2 contro l'Atalanta sulle pagine del Corriere della Sera in edicola stamattina: \"Non sbaglia il Milan di Amorim, che per un’ora gioca d ..."
-    },
-    {
-      "id": "8cc709b394d3",
-      "title": "Ordine: \"Il lavoro di Amorim è appena cominciato, bisogna ripeterlo per gli smemorati\"",
-      "url": "https://www.milannews.it/news/ordine-milan-il-lavoro-amorim-appena-cominciato-bisogna-ripeterlo-smemorati-633251",
-      "source": "milannews.it",
-      "date": "2026-10-19T10:41:51+00:00",
-      "summary": "Sulle colonne del Corriere dello Sport, Franco Ordine ha parlato così del Milan di Ruben Amorim che ieri ha battuto 3-2 l'Atalanta a San Siro: \"Il lavoro di Amorim è appena cominciato, bisogna ripeterlo per gli smemorati."
-    },
-    {
-      "id": "749991a6a4de",
-      "title": "Nations League: già venduti 28mila biglietti per Italia-Francia a San Siro",
-      "url": "https://www.milannews.it/news/nations-league-venduti-28mila-biglietti-italia-francia-milano-633287",
-      "source": "milannews.it",
-      "date": "2026-10-19T10:31:13+00:00",
-      "summary": "(ANSA) - ROMA, 19 OTT - Cresce l'entusiasmo a Milano per il ritorno della Nazionale: sono già 28."
-    },
-    {
       "id": "8e2eb774f97c",
       "title": "Stars stand tall but subs disappoint: Player ratings for Milan-Atalanta from Italian papers",
       "url": "https://sempremilan.com/ratings-italian-papers-milan-3-2-atalanta",
       "source": "sempremilan.com",
       "date": "2026-10-19T10:30:00+00:00",
       "summary": "AC Milan survived a late scare from Atalanta to emerge with their fourth Serie A victory of the season, winning 3-2 at San Siro. After 66 minutes it was looking like the performance of the season, as Milan were three goals up. Goncalo Ramos converted a penalty, Adrien Rabiot fired in another goal an"
-    },
-    {
-      "id": "6cf8dcf36d31",
-      "title": "Addio Krosche, il presidente dell'Eintracht: \"Ha svolto un ruolo fondamentale nel successo sportivo del club.  Ci separiamo con grande rispetto reciproco\"",
-      "url": "https://www.milannews.it/news/addio-krosche-presidente-eintracht-ha-svolto-ruolo-fondamentale-successo-sportivo-club-separiamo-rec-633284",
-      "source": "milannews.it",
-      "date": "2026-10-19T10:21:50+00:00",
-      "summary": "Con un comunicato ufficiale pubblicato ieri sera sul suo sito, l'Eintracht Francoforte ha annunciato l'addio di Markus Krosche: \"Markus Krösche ha chiesto al presidente del consiglio di sorveglianza dell'Eintracht, Mathias Beck, ..."
-    },
-    {
-      "id": "f94de6378855",
-      "title": "Reif (Bild): \"Krosche? Al Milan viziati, non esiste la pazienza: se i risultati non arrivano... È capace, ma accetteranno la sua linea?\"",
-      "url": "https://www.milannews.it/news/reif-bild-krosche-milan-viziati-esiste-pazienza-risultati-arrivano-accetteranno-linea-633288",
-      "source": "milannews.it",
-      "date": "2026-10-19T10:10:00+00:00",
-      "summary": "Marcel Reif, noto giornalista e opinionista tedesco, si è così espresso alla Bild sul prossimo futuro di Markus Krosche, dirigente ad un passo dal Milan: \"Per quanto riguarda Krosche, il suo passaggio al Milan non è solo un& ..."
-    },
-    {
-      "id": "6b0bdd88ce52",
-      "title": "Sapete che Krosche ha già preso una grossa decisione per il Milan? Come lavora e perché si paga per prenderlo",
-      "url": "https://www.milannews.it/primo-piano/calciomercato-milan-krosche-chi-e-come-lavora-dirigente-cardinale-amorim-633286",
-      "source": "milannews.it",
-      "date": "2026-10-19T10:00:25+00:00",
-      "summary": "Ve lo avevamo anticipato più di un mese fa: l’ingresso nella dirigenza del Milan di un nuovo Head of Football era assolutamente possibile, anzi: probabile; anche perché Cardinale, evidentemente, non avrebbe potuto occuparsi del cl ..."
     },
     {
       "id": "08ea47c1e945",
@@ -162,30 +306,6 @@
       "summary": "Adrien Rabiot’s words after AC Milan’s win against Atalanta at San Siro have not gone unnoticed, as he spoke of his anger. After a summer in which many speculated he might leave following Massimiliano Allegri’s dismissal, La Gazzetta dello Sport write that Rabiot has made a strong start to his secon"
     },
     {
-      "id": "87841a24bce5",
-      "title": "Milan-Krosche, Moretto specifica: \"Già in estate aveva dato il suo ok ad Amorim\"",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-krosche-moretto-specifica-gia-estate-dato-ok-amorim-633219",
-      "source": "milannews.it",
-      "date": "2026-10-19T09:50:38+00:00",
-      "summary": "In un video pubblicato sul canale YouTube di Fabrizio Romano, Matteo Moretto ha raccontato come Markus Krosche è ad un passo dal Milan dopo l'addio all'Eintracht Francoforte: \"Già a giugno il Milan ha provato a prendere Kr& ..."
-    },
-    {
-      "id": "09fae18ce23c",
-      "title": "Dalla Germania: l'accordo definitivo tra Krosche e il Milan è atteso entro questa settimana",
-      "url": "https://www.milannews.it/calciomercato-milan/germania-accordo-definitivo-krosche-milan-atteso-entro-settimana-633285",
-      "source": "milannews.it",
-      "date": "2026-10-19T09:40:03+00:00",
-      "summary": "Nelle scorse ore, in Germania ha fatto parecchio rumore la decisione del consiglio di sorveglianza dell'Eintracht Francoforte di accettare all'unanimità la richiesta di Markus Krosche di essere sollevato con effetto immediato dalle sue ..."
-    },
-    {
-      "id": "2712f9f52b9f",
-      "title": "Ordine dopo il 3-2 all'Atalanta: \"È ancora un mezzo Milan. Chiffi da bocciare\"",
-      "url": "https://www.milannews.it/news/ordine-3-2-atalanta-e-milan-chiffi-bocciare-633282",
-      "source": "milannews.it",
-      "date": "2026-10-19T09:30:44+00:00",
-      "summary": "Franco Ordine, nel suo articolo odierno su Il Giornale, ha commentato così la prestazione del Milan contro l'Atalanta: \"È ancora un mezzo Milan."
-    },
-    {
       "id": "7778d42e021b",
       "title": "“A list of clubs” – Amorim makes revelation regarding Estupinan and drop-off vs. Atalanta",
       "url": "https://sempremilan.com/amorim-revelation-estupinan-decline-atalanta",
@@ -194,44 +314,12 @@
       "summary": "There were a couple of interesting responses from Ruben Amorim in his press conference after the win over Atalanta. One of the bigger storylines of the summer concerned Pervis Estupinan. The full-back seemed to be on his way to Aston Villa, but Amorim reportedly told the management not to sell him u"
     },
     {
-      "id": "ece36f02c251",
-      "title": "MN - Verso Bournemouth-Milan: il programma della vigilia delle due squadre",
-      "url": "https://www.milannews.it/news/mn-bournemouth-milan-programma-vigilia-squadre-633279",
-      "source": "milannews.it",
-      "date": "2026-10-19T09:20:19+00:00",
-      "summary": "Dopo aver trovato la prima vittoria stagione in Europa League contro il Salisburgo, giovedì il Milan è atteso da un'altra trasferta, stavolta in casa del Bournemouth."
-    },
-    {
-      "id": "8e69ce6ec84c",
-      "title": "Pagelle Gazzetta: Rabiot il migliore, Maignan salva il Milan. Male Chukwueze",
-      "url": "https://www.milannews.it/news/pagelle-gazzetta-rabiot-migliore-maignan-salva-milan-chukwueze-633272",
-      "source": "milannews.it",
-      "date": "2026-10-19T09:10:25+00:00",
-      "summary": "Nella pagelle odierne della Gazzetta dello Sport all'indomani della vittoria del Milan per 3-2 contro l'Atalanta, il premio di migliore in campo non può che andare ad Adrien Rabiot, autore di un gol e di un assist."
-    },
-    {
-      "id": "7f318efd3d9c",
-      "title": "Cesari smentisce Sarri: \"Rigore per l'Atalanta? De Winter la prende prima col ginocchio\"",
-      "url": "https://www.milannews.it/news/cesari-smentisce-sarri-rigore-atalanta-de-winter-prende-ginocchio-633278",
-      "source": "milannews.it",
-      "date": "2026-10-19T09:00:29+00:00",
-      "summary": "Graziano Cesari, ex arbitro e moviolista Mediaset, si è così espresso a Pressing commentando un possibile rigore in favore dell'Atalanta per presunto fallo di mani di De Winter su cross di Rowe, episodio che ha fatto andare su tutte ..."
-    },
-    {
       "id": "319700c63fa0",
       "title": "Atalanta boss Sarri bitter after Milan loss over perceived missed penalty and red card",
       "url": "https://sempremilan.com/atalanta-sarri-bitter-penalty-red-card",
       "source": "sempremilan.com",
       "date": "2026-10-19T09:00:00+00:00",
       "summary": "Maurizio Sarri let the officials know what he thought of their performance after his Atalanta side lost to AC Milan on Sunday night. It was a strange night for Sarri and Atalanta, one in which they ultimately left empty-handed but could very easily have rescued something from a dire situation. Gonca"
-    },
-    {
-      "id": "ad3448ecbe4a",
-      "title": "Milan, l'attacco si è sbloccato. Il Diavolo sa giocare bene, ma non deve piacersi troppo",
-      "url": "https://www.milannews.it/news/milan-attacco-sbloccato-diavolo-sa-giocare-bene-piacersi-633268",
-      "source": "milannews.it",
-      "date": "2026-10-19T08:48:52+00:00",
-      "summary": "Dopo i quattro gol segnati qualche giorno fa al Salisburgo in Europa League e alle tre reti di ieri sera in campionato contro l'Atalanta, si può dire che l'attacco del Milan si è finalmente sbloccato."
     },
     {
       "id": "22ec915ed6b8",
@@ -266,52 +354,12 @@
       "summary": "Ruben Amorim admits he blocked Pervis Estupinan’s summer exit: ‘We had a list of clubs..."
     },
     {
-      "id": "640e50a94070",
-      "title": "Gila admits he was ’emotional’ after first goal and outlines why Milan ‘lost control’ vs. Atalanta",
-      "url": "https://sempremilan.com/gila-emotional-milan-lost-control-atalanta",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T19:21:53+00:00",
-      "summary": "Mario Gila has revealed that he felt emotional after scoring his first goal for AC Milan in the 3-2 win over Atalanta. Milan got into a commanding three-goal lead inside the opening hour of the game, with Goncalo Ramos scoring a penalty, Adrien Rabiot netting his fourth of the season and Gila headin"
-    },
-    {
       "id": "da39aea72481",
       "title": "Atalanta fightback positive, but Sarri feels Rabiot should see red for insult",
       "url": "https://football-italia.net/atalanta-fight-positive-sarri-rabiot-insult/",
       "source": "football-italia.net",
       "date": "2026-10-18T19:07:00+00:00",
       "summary": "Maurizio Sarri hopes the Atalanta fightback in a 3-2 defeat to Milan can ‘boost our..."
-    },
-    {
-      "id": "22ac1049b51c",
-      "title": "Ramos positive after goal and victory: “A winning team knows how to win these games”",
-      "url": "https://sempremilan.com/ramos-positive-after-goal-win-atalanta",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T19:01:17+00:00",
-      "summary": "AC Milan striker Goncalo Ramos has revealed that he feels like he is in the best form since he arrived, after scoring against Atalanta. Things were going so well for Milan after two-thirds of their game against Atalanta. A penalty from Ramos gave the Rossoneri the lead, before Adrien Rabiot doubled "
-    },
-    {
-      "id": "34c5e7139c6c",
-      "title": "65 perfect minutes: Instant reaction to AC Milan 3-2 Atalanta",
-      "url": "https://sempremilan.com/instant-reaction-milan-3-2-atalanta-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T18:49:57+00:00",
-      "summary": "Stefano recorded his instant reaction to Milan’s win against Atalanta straight after the full-time whistle, highlighting just how good those first 65 minutes were.  It ended up being a dramatic one at San Siro, which isn’t exactly what the Rossoneri fans expected about 60 minutes into the game. Then"
-    },
-    {
-      "id": "a73b2c591356",
-      "title": "Moretto: Milan ‘extremely close’ to agreement with Krösche after Frankfurt departure",
-      "url": "https://sempremilan.com/milan-extremely-close-agreement-krosche",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T18:46:00+00:00",
-      "summary": "This evening, Matteo Moretto has confirmed that AC Milan are once again trying to hire Markus Krösche as their Head of Football. Throughout the summer – and even in the months since – Krösche’s name has never disappeared from the frame. Milan have remained clear that they wanted to complete the mana"
-    },
-    {
-      "id": "1f8b2ac41ebe",
-      "title": "Amorim praises Milan for first 66 minutes against Atalanta and explains why collapse happened",
-      "url": "https://sempremilan.com/amorim-praises-atalanta-why-collapse-happened",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T18:44:19+00:00",
-      "summary": "Ruben Amorim praised his AC Milan side for what was seen during the first two-thirds of the game against Atalanta, before a worrying drop-off. Things were looking brilliant for Milan on the hour mark. A Goncalo Ramos penalty, an Adrien Rabiot strike and a Mario Gila header had them three goals up ag"
     },
     {
       "id": "fea8216c7e70",
@@ -330,36 +378,12 @@
       "summary": "Ruben Amorim insists ‘the final minutes don’t change’ improvements shown by Milan in a 3-2..."
     },
     {
-      "id": "e4d0d8b34b6a",
-      "title": "Player Ratings: AC Milan 3-2 Atalanta – Rabiot oozes class; defensive mistakes",
-      "url": "https://sempremilan.com/player-ratings-ac-milan-3-2-atalanta-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T18:24:37+00:00",
-      "summary": "AC Milan clinched all three points against Atalanta, even if things got dramatic at the end, and they have a few players to thank for that. Below, we take a look at the ratings.  After the mid-week win against Salzburg, which was the result of several good player performances, Milan added another wi"
-    },
-    {
-      "id": "5aea56a30172",
-      "title": "Rabiot ‘angry’ after Milan’s decline against Atalanta: “I don’t know if we deserved it”",
-      "url": "https://sempremilan.com/rabiot-angry-milan-decline-atalanta-deserved",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T18:23:24+00:00",
-      "summary": "Adrien Rabiot did not seem in the mood to celebrate despite his goal and AC Milan’s win against Atalanta at San Siro. In truth, his frustrations are understandable given that Milan led 3-0 after less than an hour of the game and they were totally outplaying their opponents. Rabiot scored the second "
-    },
-    {
       "id": "560d331a8800",
       "title": "Rabiot and Gila ‘angry’ after Milan threaten to fumble 3-0 advantage",
       "url": "https://football-italia.net/rabiot-gila-angry-milan-fumble-3-0-advantage/",
       "source": "football-italia.net",
       "date": "2026-10-18T18:17:34+00:00",
       "summary": "Adrien Rabiot and Mario Gila were ‘angry’ after Milan’s chaotic 3-2 win over Atalanta, as..."
-    },
-    {
-      "id": "da7d164b2b94",
-      "title": "AC Milan 3-2 Atalanta: Ramos, Rabiot and Gila score as Rossoneri survive late scare",
-      "url": "https://sempremilan.com/ac-milan-3-2-atalanta-match-report",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T18:01:06+00:00",
-      "summary": "AC Milan survived a late comeback attempt from Atalanta to record an important win at San Siro on Sunday night, triumphing 3-2. Milan were outstanding for the opening 60 minutes as they surged into a three-goal lead. Goncalo Ramos netted a penalty, Adrien Rabiot fired in another goal and Mario Gila "
     },
     {
       "id": "ea57dfdaa0f3",
@@ -378,36 +402,12 @@
       "summary": "Eintracht Frankfurt confirm Markus Krösche, who was in talks with Milan last summer, has left..."
     },
     {
-      "id": "2268e3a9274d",
-      "title": "Watch: Mario Gila gets his first goal for Milan to make it 3-0 vs. Atalanta",
-      "url": "https://sempremilan.com/watch-gila-first-milan-goal-atalanta",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T17:28:20+00:00",
-      "summary": "Mario Gila got the moment he had been dreaming of under the Curva Sud as he scored to put AC Milan 3-0 up against Atalanta. Omari Hutchinson was instantly involved off the bench and almost caught Carnesecchi off guard a bit with a cross from the byline that actually glanced off the post, then Pulisi"
-    },
-    {
       "id": "8410c7cdc1f5",
       "title": "Report De Zerbi targets Endrick and a new Italian arrival at Tottenham",
       "url": "https://football-italia.net/de-zerbi-endrick-new-italian-arrival-tottenham/",
       "source": "football-italia.net",
       "date": "2026-10-18T17:18:17+00:00",
       "summary": "Mundo Deportivo reports that Tottenham coach Roberto De Zerbi wants to bring in Piero Ausilio..."
-    },
-    {
-      "id": "0ed6212f8d09",
-      "title": "Watch: Rabiot continues red-hot form as Milan go two goals up against Atalanta",
-      "url": "https://sempremilan.com/watch-rabiot-goal-atalanta-2-0",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T16:54:56+00:00",
-      "summary": "Adrien Rabiot continued his excellent start to the season by putting AC Milan two goals up against Atalanta in the first half. After Goncalo Ramos’ penalty, Milan doubled their advantage and it was Rabiot who got his fourth of the season in the league. It was a goal that came not long after the midf"
-    },
-    {
-      "id": "744c8ef2df9b",
-      "title": "Watch: Goncalo Ramos scores second in two games to put Milan in front vs. Atalanta",
-      "url": "https://sempremilan.com/watch-goncalo-ramos-penalty-atalanta",
-      "source": "sempremilan.com",
-      "date": "2026-10-18T16:35:50+00:00",
-      "summary": "AC Milan took the lead against Atalanta at San Siro in quite a strange way, with Goncalo Ramos the man who got the goal. At the midway point of the first half, Milan were awarded a spot kick in rather bizarre circumstances. Musah led the charge forward after Rabiot had been clattered in midfield and"
     },
     {
       "id": "b036610136b5",
