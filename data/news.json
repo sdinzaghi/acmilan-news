@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-10-21T01:16:26.093836+00:00",
+  "lastUpdated": "2026-10-21T07:02:47.078018+00:00",
   "articles": [
+    {
+      "id": "24655dd4892e",
+      "title": "Milan, Krosche sempre più vicino: chiusura ad un passo",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-krosche-vicino-chiusura-passo-633433",
+      "source": "milannews.it",
+      "date": "2026-10-21T06:50:12+00:00",
+      "summary": "Markus Krosche è sempre vicino a diventare Head of Football del Milan."
+    },
+    {
+      "id": "d9b3c2bc6fc4",
+      "title": "Verso Bournemouth-Milan, Tuttosport: \"Turnover: Loftus-Cheek e Cisse pronti\"",
+      "url": "https://www.milannews.it/rassegna-stampa/bournemouth-milan-tuttosport-turnover-loftus-cheek-cisse-pronti-633432",
+      "source": "milannews.it",
+      "date": "2026-10-21T06:40:31+00:00",
+      "summary": "\"Turnover: Loftus-Cheek e Cisse pronti\": titola così Tuttosport in vista di Bournemouth-Milan, gara valida per la terza giornata della fase campionato di Europa League."
+    },
+    {
+      "id": "0334d920817a",
+      "title": "CorSport: \"Caso Estupinan. Amorim rilancia: 'Scelta mia'\"",
+      "url": "https://www.milannews.it/rassegna-stampa/corsport-caso-estupinan-amorim-rilancia-scelta-633431",
+      "source": "milannews.it",
+      "date": "2026-10-21T06:30:10+00:00",
+      "summary": "Il Corriere dello Sport titola così stamattina: \"Caso Estupinan. Amorim rilancia: 'Scelta mia'\"."
+    },
+    {
+      "id": "2b7fba38735f",
+      "title": "La Gazzetta in prima pagina: \"Milan con Cisse. A Bournemouth il ragazzo d'oro\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-pagina-milan-cisse-bournemouth-ragazzo-oro-633430",
+      "source": "milannews.it",
+      "date": "2026-10-21T06:20:38+00:00",
+      "summary": "L'edizione odierna della Gazzetta dello Sport titola così stamattina in prima pagina: \"Milan con Cisse. A Bournemouth il ragazzo d'oro\"."
+    },
+    {
+      "id": "b7e3ccdf57b0",
+      "title": "MN - Il 29 ottobre sarà svelato il rendering del nuovo stadio di Milan e Inter",
+      "url": "https://www.milannews.it/news/mn-29-ottobre-svelato-rendering-stadio-milan-inter-633428",
+      "source": "milannews.it",
+      "date": "2026-10-21T06:10:51+00:00",
+      "summary": "Il prossimo giovedì sarà una data importante per il futuro del nuovo stadio di Milan e Inter."
+    },
+    {
+      "id": "69721052288d",
+      "title": "Krosche tra campo e mercato: ecco cosa farà al Milan. Il punto sulla trattativa",
+      "url": "https://www.milannews.it/primo-piano/krosche-campo-mercato-milan-punto-trattativa-633429",
+      "source": "milannews.it",
+      "date": "2026-10-21T06:00:08+00:00",
+      "summary": "Negli ultimi giorni, in casa rossonera si parla tanto del possibile arrivo al Milan di Markus Krosche come nuovo Head of Football del club di via Aldo Rossi."
+    },
+    {
+      "id": "f9fd1164e089",
+      "title": "Il programma completo della terza giornata della League Phase di Europa League",
+      "url": "https://www.milannews.it/news/programma-completo-terza-giornata-league-phase-europa-league-633419",
+      "source": "milannews.it",
+      "date": "2026-10-21T05:40:00+00:00",
+      "summary": "Domani il Milan sarà ospite del Bournemouth per la terza giornata della League Phase di Europa League. Di seguito il programma completo delle partite di questo nuovo turno europeo: \n\nOFI Creta-Bayer Leverkusen, ore 18."
+    },
+    {
+      "id": "a21630b4c9bd",
+      "title": "Insieme ad Amorim parlerà in conferenza stampa anche Loftus-Cheek",
+      "url": "https://www.milannews.it/news/amorim-parlera-conferenza-stampa-loftus-cheek-633418",
+      "source": "milannews.it",
+      "date": "2026-10-21T05:30:00+00:00",
+      "summary": "Dopo il successo in campionato ai danni dell'Atalanta per 3-2, i rossoneri torneranno in campo questo giovedì alle ore 21:00 per il match valido la terza giornata di Europa League."
+    },
+    {
+      "id": "af74a51bf924",
+      "title": "Ecco quando parlerà Amorim in conferenza stampa alla viglia di Bournemouth Milan",
+      "url": "https://www.milannews.it/news/parlera-amorim-conferenza-stampa-viglia-bournemouth-milan-633417",
+      "source": "milannews.it",
+      "date": "2026-10-21T05:20:33+00:00",
+      "summary": "Si sapeva, il tempo per recuperare è molto limitato per il Milan in questo mese di ottobre; del resto se una squadra vuole essere grande, deve essere anche abile nel gestire impegni di livello e ravvicinati."
+    },
+    {
+      "id": "4a49e828221a",
+      "title": "Ecco quando parlerà in conferenza Marco Rose, l'allenatore del Bournemouth",
+      "url": "https://www.milannews.it/l-avversario/parlera-conferenza-marco-rose-allenatore-bournemouth-633416",
+      "source": "milannews.it",
+      "date": "2026-10-21T05:10:51+00:00",
+      "summary": "Oggi è giornata di vigilia ed è già stato diramato il programma di avvicinamento delle due squadre."
+    },
+    {
+      "id": "46878e30b33c",
+      "title": "Vigilia di Bournemouth-Milan: il programma rossonero",
+      "url": "https://www.milannews.it/news/vigilia-bournemouth-milan-milan-il-programma-rossonero-633415",
+      "source": "milannews.it",
+      "date": "2026-10-21T05:00:00+00:00",
+      "summary": "Si sapeva, il tempo per recuperare è molto limitato per il Milan in questo mese di ottobre; del resto se una squadra vuole essere grande, deve essere anche abile nel gestire impegni di livello e ravvicinati."
+    },
     {
       "id": "026557814bc6",
       "title": "Cassano: \"Cisse non è assolutamente un titolare. Il Milan deve prendere i campioni, e io non penso che possa arrivare ad esserlo\"",
@@ -72,94 +160,6 @@
       "source": "milannews.it",
       "date": "2026-10-20T21:30:59+00:00",
       "summary": "Lele Adani, opinionista, si è così espresso a Viva el Futbol sulla prestazione del Milan di Ruben Amorim contro l'Atalanta: \"Il 'Facciamo calcio' di quest'anno sarà sempre connotato da una ricerca d ..."
-    },
-    {
-      "id": "de05e1e55d2e",
-      "title": "Figc, Abodi: \"Si faccia tesoro da esperienza fatta, regole vanno rispettate\"",
-      "url": "https://www.milannews.it/news/figc-abodi-tesoro-esperienza-fatta-regole-vanno-rispettate-633408",
-      "source": "milannews.it",
-      "date": "2026-10-20T21:20:53+00:00",
-      "summary": "(ANSA) - NAPOLI, 20 OTT - \"Auspico che si faccia tesoro dell'esperienza fatta, non sempre raccontata con serietà, troppo spesso personalizzata, ma non c'è nulla di personale: ci sono semplicemente delle regole che vanno ris ..."
-    },
-    {
-      "id": "6183c260760f",
-      "title": "Champions: la Roma travolge il Bratislava, il Napoli soffre ma vince con il Bodo",
-      "url": "https://www.milannews.it/news/champions-roma-travolge-bratislava-napoli-soffre-vince-bodo-633427",
-      "source": "milannews.it",
-      "date": "2026-10-20T21:05:38+00:00",
-      "summary": "(ANSA) - ROMA, 20 OTT - Vittorie per le due italiane impegnate nella terza giornata di Champions League: molto bene la Roma contro lo Slovan Bratislava, qualche difficoltà in più per il Napoli con il Bodo/Glimt."
-    },
-    {
-      "id": "43984ce34437",
-      "title": "Milan-Frosinone, partita la vendita dei biglietti: tutte le info disponibili",
-      "url": "https://www.milannews.it/news/milan-frosinone-partita-vendita-biglietti-info-disponibili-633411",
-      "source": "milannews.it",
-      "date": "2026-10-20T21:00:04+00:00",
-      "summary": "Domenica 22 novembre alle ore 18:00 i rossoneri ospiteranno a San Siro una di queste sorprese del campionato fino a questo momento ovvero il Frosinone di Alvini. Di seguito tutte le informazioni utili in merito alla vendita dei tagliandi."
-    },
-    {
-      "id": "82258a825417",
-      "title": "L'Al-Nassr verso la cessione: PIF ripiana 213 milioni di debiti, RedBird tratta il 70%",
-      "url": "https://www.milannews.it/dall-estero/al-nassr-cessione-pif-ripiana-213-debiti-redbird-tratta-70-633426",
-      "source": "milannews.it",
-      "date": "2026-10-20T20:50:13+00:00",
-      "summary": "Il fondo PIF saudita sta lavorando per ripianare circa 213 milioni di dollari di debiti dell'Al-Nassr, anche attraverso nuovi accordi di sponsorizzazione, con l'obiettivo di rendere il club più appetibile in vista di una prossime (immi ..."
-    },
-    {
-      "id": "24484ad61712",
-      "title": "Dopo il Pallone d’Oro nasce il BOAT, un premio per il più grande di sempre: regolamento e candidati",
-      "url": "https://www.milannews.it/news/pallone-d-oro-nasce-boat-premio-sempre-regolamento-candidati-633407",
-      "source": "milannews.it",
-      "date": "2026-10-20T20:40:07+00:00",
-      "summary": "Il 26 ottobre a Londra si terrà la 70° cerimonia del premio individuale più ambito da ogni giocatore ovvero il Pallone d'Oro."
-    },
-    {
-      "id": "3df49cdc8539",
-      "title": "Pellegatti elogia Athekame: “Giocatore di personalità, lui vuole tornare al Milan”",
-      "url": "https://www.milannews.it/news/pellegatti-633401",
-      "source": "milannews.it",
-      "date": "2026-10-20T20:30:54+00:00",
-      "summary": "Nel suo canale YouTube, Carlo pellegatti ha parlato di Zachary Athekame, esterno rossonero attualmente in prestito al Lione dove sta giocando una prima parte di stagione da protagonista. Di seguito le sue parole."
-    },
-    {
-      "id": "2cd4a9044d2c",
-      "title": "Bastoni scottato: “Finali di Champions il passato, dobbiamo ridimensionarci e rimanere con i piedi per terra”",
-      "url": "https://www.milannews.it/l-avversario/bastoni-scottato-finali-champions-passato-dobbiamo-ridimensionarci-rimanere-terra-633406",
-      "source": "milannews.it",
-      "date": "2026-10-20T20:20:20+00:00",
-      "summary": "Domani, alle ore 21:00, i nerazzurri di Christian Chivu ospiteranno a San Siro lo Shaktar Donetsk nella terza gara della fase a gironi di Champions League."
-    },
-    {
-      "id": "e571db919b29",
-      "title": "Papin: \"Quando arrivai al Milan, fui invitato nella villa di Berlusconi e vidi un lusso mai più visto altrove\"",
-      "url": "https://www.milannews.it/gli-ex/papin-quando-arrivai-milan-invitati-villa-berlusconi-vidi-lusso-altrove-633311",
-      "source": "milannews.it",
-      "date": "2026-10-20T20:10:00+00:00",
-      "summary": "In una recente intervista rilasciata per la Gazzetta dello Sport, l'ex stella francese e del Marsiglia Jean-Pierre Papin ha ricordato il suo arrivo al Milan, spiegando il bel rapporto avuto con lo storico Presidente Silvio Berlusconi."
-    },
-    {
-      "id": "bbdffc392733",
-      "title": "Totti torna sul suo addio al calcio: \"Quel giorno sono morto\"",
-      "url": "https://www.milannews.it/news/totti-torna-addio-calcio-morto-633339",
-      "source": "milannews.it",
-      "date": "2026-10-20T20:00:27+00:00",
-      "summary": "Aneddoti, emozioni e tante risate. Francesco Totti presenta al Teatro Brancaccio il suo libro \"Oltre\", di fronte a oltre 1500 spettatori."
-    },
-    {
-      "id": "5b46e35b1a45",
-      "title": "Cassano sorprende ancora: “Cisse buon giocatore ma il Milan è abituato ad altro. Sarà solo una plusvalenza”",
-      "url": "https://www.milannews.it/news/cassano-sorprende-ancora-cisse-buon-giocatore-milan-abituato-altro-plusvalenza-633403",
-      "source": "milannews.it",
-      "date": "2026-10-20T19:50:22+00:00",
-      "summary": "Durante l'ulitma puntata del podcast \"Viva el Futbol\", l'ex attaccante di Sampdoria, Milan e tante altre, Antonio Cassano ha parlato di Alphadjo Cisse, classe 2006 rossonero che ha sorpreso tutti in questo avvio di stagione."
-    },
-    {
-      "id": "ecd66c69e266",
-      "title": "Bertotto fiducioso: “Milan a volte strepitoso, ogni tanto perde la bussola. La strada la sta tracciando”",
-      "url": "https://www.milannews.it/news/bertott-633402",
-      "source": "milannews.it",
-      "date": "2026-10-20T19:40:52+00:00",
-      "summary": "Intervenuto a Maracana, trasmissione radio di TMW, l'ex allenatore e giocatore Valerio Bertotto ha parlato di vari temi riguardanti la Serie A e nel farlo ha parlato anche dei rossoneri. Queste le sue parole."
     },
     {
       "id": "59b38874b3c5",
