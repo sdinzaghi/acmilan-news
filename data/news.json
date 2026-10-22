@@ -1,6 +1,270 @@
 {
-  "lastUpdated": "2026-10-22T18:16:34.640893+00:00",
+  "lastUpdated": "2026-10-22T22:04:47.465261+00:00",
   "articles": [
+    {
+      "id": "fd2a31b50d6c",
+      "title": "Crollo a Bournemouth: rosa inadeguata per 3 obiettivi. Amorim è confuso, l’Europa non lo interessa",
+      "url": "https://www.milannews.it/editoriale/crollo-bournemouth-rosa-inadeguata-3-obiettivi-amorim-confuso-l-europa-interessa-633676",
+      "source": "milannews.it",
+      "date": "2026-10-22T22:00:01+00:00",
+      "summary": "Partenza in salita verticale del Milan, subito schiacciato dal ritmo e della foga del Bournemouth che attacca e guadagna subito un rigore per mano in area netto e del tutto gratuito di De Winter."
+    },
+    {
+      "id": "7cc2b200d647",
+      "title": "Pagella Amorim: voto impietoso anche per lui. Perdere così è gravissimo",
+      "url": "https://www.milannews.it/news/pagella-amorim-voto-impietoso-lui-perdere-gravissimo-633672",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:55:57+00:00",
+      "summary": "Si riporta di seguito la pagella, scritta da Pietro Mazzara di MilanNews.it, di Ruben Amorim a Bournemouth-Milan (3-0):\n\nAmorim 4\n\nNo, così no."
+    },
+    {
+      "id": "e9cf453af4a1",
+      "title": "Di Gregorio: ‘Bournemouth mentality does not change, even against Milan’",
+      "url": "https://football-italia.net/di-gregorio-bournemouth-mentality-same-milan/",
+      "source": "football-italia.net",
+      "date": "2026-10-22T21:53:23+00:00",
+      "summary": "Michele Di Gregorio is proud that Bournemouth ‘mentality does not change’ even against Milan in..."
+    },
+    {
+      "id": "fcb9793f35b6",
+      "title": "Amorim: \"Ho apprezzato il modo in cui abbiamo lottato\"",
+      "url": "https://www.milannews.it/news/amorim-ho-apprezzato-lottato-633661",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:50:12+00:00",
+      "summary": "Molto male il Milan nella trasferta di Bournemouth, una prestazione condizionata in maniera chiara dalla clamorosa ingenuità di Mike Maignan che ha lasicato i suoi compagni in dieci alle mezz'ora."
+    },
+    {
+      "id": "87c8507ae935",
+      "title": "Rose: \"Li abbiamo soffocati. Sono orgoglio dei ragazzi\"",
+      "url": "https://www.milannews.it/l-avversario/l-allenatore-bournemouth-conferenza-stampa-vittoria-milan-633652",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:49:51+00:00",
+      "summary": "Tra poco in conferenza stampa interverrà Marco Rose, allenatore del Bournemouth, per commentare la vittoria sul Milan. \n\nOre 23."
+    },
+    {
+      "id": "d761a68739ac",
+      "title": "Pavlovic insists Milan ‘are on the right track’ even if ‘too many mistakes’ were made",
+      "url": "https://sempremilan.com/pavlovic-insists-milan-right-many-mistakes",
+      "source": "sempremilan.com",
+      "date": "2026-10-22T21:46:28+00:00",
+      "summary": "Strahinja Pavlovic spoke to the media after AC Milan’s heavy defeat against Bournemouth, admitting that he made a mistake on the third goal.  Pavlovic started in defence alongside Fikayo Tomori, Koni De Winter and Pervis Estupinan. However, instead of showing that Milan can rely on a deputy-esque li"
+    },
+    {
+      "id": "3d075c815f2f",
+      "title": "Kluivert a Sky: \"Sapevamo che il Milan è una grande squadra e che quindi dovevamo andare a tutta velocità\"",
+      "url": "https://www.milannews.it/news/kluivert-sky-sapevamo-milan-squadra-dovevamo-andare-velocita-633675",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:39:52+00:00",
+      "summary": "Justin Kluivert, attaccante del Bournemouth, è stato intervistato da SkySport al termine di Bournemouth-Milan, match valido per la terza giornata della League Phase di Europa League e terminato 3-0 in favore dei padroni di casa."
+    },
+    {
+      "id": "a663276dabb0",
+      "title": "Stupidity at its finest: Instant reaction to Bournemouth 3-0 AC Milan",
+      "url": "https://sempremilan.com/instant-reaction-bournemouth-3-0-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-10-22T21:36:32+00:00",
+      "summary": "Stefano recorded his reaction to AC Milan’s defeat against Bournemouth straight after the game and it’s safe to say that he didn’t hold back.  Milan headed into the away clash with some confidence after their wins against Salzburg and Atalanta. However, as Ruben Amorim made several changes to the st"
+    },
+    {
+      "id": "2fd682dc8e62",
+      "title": "Pagella Maignan: il voto è 3! Errore non ammissibile da capitano del Milan",
+      "url": "https://www.milannews.it/news/pagella-maignan-voto-3-errore-ammissibile-capitano-milan-633671",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:35:53+00:00",
+      "summary": "Si riporta di seguito la pagella, scritta da Pietro Mazzara di MilanNews."
+    },
+    {
+      "id": "f0f97c4e0394",
+      "title": "Di Gregorio: \"Zero tiri del Milan? Ho sentito freddo stasera. Conoscevamo il Milan\"",
+      "url": "https://www.milannews.it/news/gregorio-zero-tiri-milan-sentito-freddo-633669",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:33:04+00:00",
+      "summary": "Michele Di Gregorio, portiere del Bournemouth, è stato intervistato da SkySport al termine di Bournemouth-Milan, match valido per la terza giornata della League Phase di Europa League e terminato 3-0 in favore dei padroni di casa."
+    },
+    {
+      "id": "bcf7082931ad",
+      "title": "Costacurta: \"Sul corner del primo rigore sono in quattro del Bournemouth contro uno. Sorprendente\"",
+      "url": "https://www.milannews.it/news/costacurta-sul-corner-rigore-bournemouth-uno-sorprendente-633662",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:30:18+00:00",
+      "summary": "Il Milan perde male a Bournemouth, 3-0 netto a favore degli inglesi."
+    },
+    {
+      "id": "5684367b55c5",
+      "title": "Pavlovic a Sky: \"Commessi troppi errori. Fa male, ma adesso resettiamo e concentriamoci sulle prossime partite\"",
+      "url": "https://www.milannews.it/news/pavlovic-sky-commessi-troppi-errori-male-resettiamo-concentriamoci-prossime-partite-633667",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:27:24+00:00",
+      "summary": "Strahinja Pavlovic, difensore del Milan, è stato intervistato da SkySport al termine di Bournemouth-Milan, match valido per la terza giornata della League Phase di Europa League e terminato 3-0 in favore dei padroni di casa."
+    },
+    {
+      "id": "d8f4f273cebb",
+      "title": "Amorim discusses Maignan dismissal, poor choices and ‘the journey’: “Truly a negative performance”",
+      "url": "https://sempremilan.com/amorim-discuss-maignan-dismissal-poor-choices-journey",
+      "source": "sempremilan.com",
+      "date": "2026-10-22T21:27:18+00:00",
+      "summary": "After AC Milan’s woeful performance in the Europa League, Ruben Amorim spoke to the media about his team’s performance and the route forward.  October, until this point, had been pretty good for Milan. However, it was always going to be decided by two games, the first of which was tonight’s and then"
+    },
+    {
+      "id": "5ace5794e434",
+      "title": "Milan, attacco inesistente al netto dell'inferiorità: zero tiri in porta a Bournemouth",
+      "url": "https://www.milannews.it/news/milan-attacco-inesistente-netto-inferiorita-zero-tiri-porta-bournemouth-633665",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:25:00+00:00",
+      "summary": "Le statistiche di Bournemouth-Milan 3-0 inchiodano il Diavolo, semmai ci fosse bisogno di altri dati oltre al verdetto che ha emesso il campo questa sera."
+    },
+    {
+      "id": "91e0f1321e14",
+      "title": "Amorim: \"Non c'è stata partita dopo 20 minuti. Espulsione Maignan? Non parlo ora con i giocatori\"",
+      "url": "https://www.milannews.it/primo-piano/ruben-amorim-conferenza-stampa-sconfitta-bournemouth-633651",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:22:18+00:00",
+      "summary": "Tra poco Rubén Amorim interverrà in conferenza stampa per commentare la sconfitta di questa sera al Vitality Stadium contro il Bournemouth. \n\n23."
+    },
+    {
+      "id": "820676c09043",
+      "title": "Amorim: \"Non ho ancora parlato con Maignan, lo faremo a casa\"",
+      "url": "https://www.milannews.it/news/amorim-non-parlato-maignan-casa-633659",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:20:00+00:00",
+      "summary": "Ruben Amorim, tecnico del Milan, al termine della disastrosa serata di Bournemouth, che si è conclusa con una netta sconfitta per 3-0, è intervenuto ai microfoni di Sky Sport 24 e ha parlato della sfida."
+    },
+    {
+      "id": "bb05c43936f3",
+      "title": "Amorim: ‘There was no game’ as 10-man Milan punished in Bournemouth",
+      "url": "https://football-italia.net/amorim-there-was-no-game-milan-bournemouth/",
+      "source": "football-italia.net",
+      "date": "2026-10-22T21:18:58+00:00",
+      "summary": "Ruben Amorim insists ‘there was no game’ for Milan against Bournemouth, as the going down..."
+    },
+    {
+      "id": "ac9a5c81e504",
+      "title": "A Bournemouth non ci credono e scrivono: \"Frasi che non hai mai sentito prima: il Bournemouth ha battuto l'AC Milan\"",
+      "url": "https://www.milannews.it/news/bournemouth-credono-scrivono-frasi-sentito-prima-bournemouth-battuto-ac-milan-633660",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:15:19+00:00",
+      "summary": "Sui social, il Bournemouth ha postato il risultato della partita con il Milan scrivendo: \"Frasi che non hai mai sentito prima: AFC Bournemouth ha battuto l'AC Milan\"."
+    },
+    {
+      "id": "50267702ca93",
+      "title": "Player Ratings: Bournemouth 3-0 AC Milan – Silly Maignan as everyone fails",
+      "url": "https://sempremilan.com/player-ratings-bournemouth-3-0-ac-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-10-22T21:10:21+00:00",
+      "summary": "AC Milan learned that individual mistakes can be very costly, losing 3-0 to Bournemouth at Vitality Stadium tonight. As a result, not a single player was given a pass in our ratings.  Individual actions can decide a game, both in positive and negative ways. Sadly, it was the latter for the Rossoneri"
+    },
+    {
+      "id": "03202eeefa2f",
+      "title": "Amorim a Sky: \"Non c'è stata partita, dobbiamo fare 'tesoro' di queste serate. Con Maignan parlerò\"",
+      "url": "https://www.milannews.it/primo-piano/amorim-non-partita-dobbiamo-tesoro-serate-maignan-parlero-633658",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:09:31+00:00",
+      "summary": "Ruben Amorim, allenatore del Milan, è stato intervistato da SkySport al termine di Bournemouth-Milan, match valido per la terza giornata della League Phase di Europa League e terminato 3-0 in favore dei padroni di casa."
+    },
+    {
+      "id": "4337cb570c79",
+      "title": "Bournemouth-Milan 3-0: prestazione insufficiente e zero tiri in porta",
+      "url": "https://www.milannews.it/news/bournemouth-milan-3-0-prestazione-insufficiente-zero-tiri-porta-633657",
+      "source": "milannews.it",
+      "date": "2026-10-22T21:05:15+00:00",
+      "summary": "Bournemouth-Milan 3-0. Ennesima figuraccia dei rossoneri: il DNA europeo è ormai da anni uno slogan vuoto e senza nessun tipo di valenza concreta."
+    },
+    {
+      "id": "e9ecf1a7c94b",
+      "title": "Bournemouth-Milan 3-0, voti e pagelle: Maignan indecente, 3. Torriani unico 6",
+      "url": "https://www.milannews.it/pagelle/bournemouth-milan-3-0-voti-pagelle-maignan-indecente-3-torriani-unico-6-633655",
+      "source": "milannews.it",
+      "date": "2026-10-22T20:58:00+00:00",
+      "summary": "Il Milan esce ridimensionato, in Europa League, dopo la sconfitta per 3-0 contro il Bournemouth. Pagati gli errori di De Winter e la follia ingiustificabile di Maignan, che si fa espellere per una manata a Adams."
+    },
+    {
+      "id": "ee9033065415",
+      "title": "UEL | Bournemouth 3-0 Milan: Sour cherries for naïve Rossoneri",
+      "url": "https://football-italia.net/uel-bournemouth-3-0-milan-sour-cherries-naive/",
+      "source": "football-italia.net",
+      "date": "2026-10-22T20:57:27+00:00",
+      "summary": "Milan paid the price for two naïve early errors from Koni De Winter and Mike..."
+    },
+    {
+      "id": "14337696259e",
+      "title": "Europa League, Bournemouth-Milan 3-0: il tabellino del match",
+      "url": "https://www.milannews.it/i-tabellini/europa-league-bournemouth-milan-2-0-tabellino-match-633656",
+      "source": "milannews.it",
+      "date": "2026-10-22T20:56:00+00:00",
+      "summary": "Questo il tabellino di Bournemouth-Milan 3-0, match valido per la terza giornata della League Phase di Europa League:\n\nBOURNEMOUTH-MILAN 3-0\nReti: 8' Kluivert su rigore, 32' Tavernier su rigore, 84' Adli\n\nLE FORMAZIONI\nBOU ..."
+    },
+    {
+      "id": "a9af6e191431",
+      "title": "Bournemouth 3-0 AC Milan: Maignan sees red as the Rossoneri implode on the south coast",
+      "url": "https://sempremilan.com/bournemouth-3-0-ac-milan-match-report",
+      "source": "sempremilan.com",
+      "date": "2026-10-22T20:55:06+00:00",
+      "summary": "AC Milan fell to their second defeat in two Europa League games after a forgettable night on the south coast of England against AFC Bournemouth. The tone for the night was set when Koni De Winter blocked a shot with his hand that drew a penalty which Justin Kluivert converted. Then, Mike Maignan sho"
+    },
+    {
+      "id": "8757776e6ce4",
+      "title": "Bournemouth-Milan (3-0): fine. Sipario su una serata disastrosa",
+      "url": "https://www.milannews.it/primo-piano/bournemouth-milan-3-0-fine-sipario-serata-disastrosa-633637",
+      "source": "milannews.it",
+      "date": "2026-10-22T20:55:00+00:00",
+      "summary": "BOURNEMOUTH-MILAN 3-0, FINE PARTITA. Sipario su una serata oggettivamente disastrosa per il Milan."
+    },
+    {
+      "id": "ba9b5af04ef8",
+      "title": "BOU-MIL (3-0): gol di Adli su punizione. Figuraccia completata",
+      "url": "https://www.milannews.it/news/bou-mil-3-0-gol-adli-punizione-figuraccia-completata-633654",
+      "source": "milannews.it",
+      "date": "2026-10-22T20:45:58+00:00",
+      "summary": "È completata la figuraccia del Milan in Inghilterra. Altro errore che porta al gol: Pavlovic si apre dalla barriera e fa segnare Amine Adli su punizione."
+    },
+    {
+      "id": "079518ccf869",
+      "title": "BOU-MIL (2-0): entra Comotto, esordio assoluto col Milan",
+      "url": "https://www.milannews.it/news/bou-mil-2-0-entra-comotto-esordio-assoluto-milan-633653",
+      "source": "milannews.it",
+      "date": "2026-10-22T20:37:48+00:00",
+      "summary": "Al minuto 76' di Bournemouth-Milan arriva l'esordio assoluto di Christian Comotto col Milan: Amorim lo fa entrare al posto di Diego Moreira."
+    },
+    {
+      "id": "e753d92cce30",
+      "title": "How many matches could Maignan miss after his red card for Milan at Bournemouth?",
+      "url": "https://football-italia.net/how-many-matches-maignan-miss-after-his-red/",
+      "source": "football-italia.net",
+      "date": "2026-10-22T20:27:06+00:00",
+      "summary": "Mike Maignan faces at least one game out in the Europa League after his first-half..."
+    },
+    {
+      "id": "7c5058463d81",
+      "title": "Europa League Liveblog: Juventus-Rennes, Bournemouth-Milan, Ajax-Atalanta",
+      "url": "https://football-italia.net/europa-league-lb-juve-ren-afcb-milan-ajax-ata/",
+      "source": "football-italia.net",
+      "date": "2026-10-22T19:55:42+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "4b256a070eaa",
+      "title": "Video: Maignan sent off after Milan goalkeeper shoves Adams in the face",
+      "url": "https://football-italia.net/video-maignan-sent-off-after-milan-goalkeeper/",
+      "source": "football-italia.net",
+      "date": "2026-10-22T19:41:23+00:00",
+      "summary": "Mike Maignan was sent off in Milan’s Europa League clash with Bournemouth after shoving Tyler..."
+    },
+    {
+      "id": "05da52b0c0f4",
+      "title": "Amorim: ‘Milan faith in Cisse, won’t be easy for Bournemouth to deal with him’",
+      "url": "https://football-italia.net/amorim-milan-faith-cisse-not-easy-bournemouth/",
+      "source": "football-italia.net",
+      "date": "2026-10-22T18:52:45+00:00",
+      "summary": "Ruben Amorim explains why he believes Alphadjo Cisse is ideal for Milan’s Europa League clash..."
+    },
+    {
+      "id": "99bb2d33103f",
+      "title": "Amorim confirms Cisse ‘will play as a striker’ in Bournemouth-Milan: “The right qualities”",
+      "url": "https://sempremilan.com/amorim-confirms-cisse-striker-bournemouth-milan",
+      "source": "sempremilan.com",
+      "date": "2026-10-22T18:44:13+00:00",
+      "summary": "Ruben Amorim spoke to the media ahead of Milan’s game against Bournemouth and among other things, he explained why Alphadjo Cisse is starting as the centre-forward.  Milan go into their third Europa League game of the campaign hoping to make it two wins from three, having beaten RB Salzburg one week"
+    },
     {
       "id": "7e16302e57a1",
       "title": "Bournemouth vs. AC Milan: Live updates and commentary from the Europa League clash",
@@ -18,52 +282,12 @@
       "summary": "Ahead of tonight’s game between AC Milan and Bournemouth, Omari Hutchinson spoke to the media and admitted that it will be a tough one.  Milan are riding on some confidence after the 4-0 and 3-2 wins against Salzburg and Atalanta respectively, bouncing back after the international break. However, a "
     },
     {
-      "id": "bb84c5da5b74",
-      "title": "Il Sindaco di Bournemouth Rocca: \"Mi aspetto una partita con tanti gol, anche se sono milanista...\"",
-      "url": "https://www.milannews.it/news/sindaco-bournemouth-rocca-mi-aspetto-partita-tanti-gol-milanista-633624",
-      "source": "milannews.it",
-      "date": "2026-10-22T18:10:00+00:00",
-      "summary": "Manca pochissimo a Bournemouth-Milan, in programma alle 21.00 al Vitality Stadium."
-    },
-    {
-      "id": "4be7b3dcefdf",
-      "title": "Rose avvisa: “Sarà durissima, dovremo imporre la nostra intensità. A volte le partite con le piccole sono più difficili”",
-      "url": "https://www.milannews.it/l-avversario/rose-avvisa-sara-durissima-dovremo-imporre-intensita-partite-piccole-difficili-633608",
-      "source": "milannews.it",
-      "date": "2026-10-22T18:00:35+00:00",
-      "summary": "Marco Rose, allenatore del Bournemouth, ha parlato in conferenza stampa alla vigilia della sfida contro il Milan, valida per la terza giornata della League Phase di Europa League. Di seguito un estratto delle sue parole."
-    },
-    {
-      "id": "7c5058463d81",
-      "title": "Europa League Liveblog: Juventus-Rennes, Bournemouth-Milan, Ajax-Atalanta",
-      "url": "https://football-italia.net/europa-league-lb-juve-ren-afcb-milan-ajax-ata/",
-      "source": "football-italia.net",
-      "date": "2026-10-22T17:57:42+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "9f92444f3323",
-      "title": "Hutchinson a Sky: \"Per me la posizione non è un problema. Stasera c'è tutta la mia famiglia!",
-      "url": "https://www.milannews.it/news/hutchinson-sky-per-posizione-problema-stasera-famiglia-633631",
-      "source": "milannews.it",
-      "date": "2026-10-22T17:54:48+00:00",
-      "summary": "Omari Hutchinson, attaccante del Milan, ha parlato a SkySport a pochi minuti dal fischio d'inizio di Bournemouth-Milan."
-    },
-    {
       "id": "19a8432ca875",
       "title": "Europa League line-ups: Bournemouth vs. Milan",
       "url": "https://football-italia.net/europa-league-line-ups-bournemouth-vs-milan/",
       "source": "football-italia.net",
       "date": "2026-10-22T17:52:31+00:00",
       "summary": "Milan rotate for the Europa League with Alphadjo Cisse, Diego Moreira and Omari Hutchinson in..."
-    },
-    {
-      "id": "3074e32eca5f",
-      "title": "Gozzini: \"Ecco perché la terza prova assume già una certa rilevanza\"",
-      "url": "https://www.milannews.it/news/gozzini-ecco-terza-prova-assume-rilevanza-633560",
-      "source": "milannews.it",
-      "date": "2026-10-22T17:50:51+00:00",
-      "summary": "Alessandra Gozzini, giornalista, si è così espressa su La Gazzetta dello Sport in vista di Bournemouth-Milan di questa sera: \"Una triste sconfitta all’esordio e una larga vittoria alla seconda giornata: ecco perché la  ..."
     },
     {
       "id": "3169dd56aeb0",
@@ -74,54 +298,6 @@
       "summary": "AC Milan head coach Ruben Amorim has named his starting line-up for the game against Bournemouth, and there are further changes from the weekend. The 4-0 win over RB Salzburg one week ago got Milan’s 2026-27 European campaign off and running, after their defeat to Benfica at San Siro in round one. T"
     },
     {
-      "id": "9b0c778dff86",
-      "title": "Bournemouth-Milan, le formazioni ufficiali: Amorim lancia Cisse punta",
-      "url": "https://www.milannews.it/primo-piano/bournemouth-milan-formazioni-ufficiali-amorim-lancia-cisse-punta-633630",
-      "source": "milannews.it",
-      "date": "2026-10-22T17:46:10+00:00",
-      "summary": "Queste le formazioni ufficiali di Bournemouth-Milan, gara valida per la terza giornata della fase campionato di Europa League."
-    },
-    {
-      "id": "eaea165d3e71",
-      "title": "VIDEO MN - L'arrivo del pullman del Milan al Vitality Stadium di Bournemouth",
-      "url": "https://www.milannews.it/news/video-mn-arrivo-pullman-milan-vitality-stadium-bournemouth-633629",
-      "source": "milannews.it",
-      "date": "2026-10-22T17:34:31+00:00",
-      "summary": "In questi istanti è arrivato al Vitality Stadium il pullman del Milan: alle 21:00 la bella sfida di Europa League contro il Bournemouth."
-    },
-    {
-      "id": "0b2bf9229c26",
-      "title": "MN - Tra una settimana la presentazione del nuovo San Siro, atteso anche Gerry Cardinale all'evento",
-      "url": "https://www.milannews.it/news/mn-settimana-presentazione-san-siro-atteso-gerry-cardinale-evento-633628",
-      "source": "milannews.it",
-      "date": "2026-10-22T17:29:06+00:00",
-      "summary": "Giovedì prossimo, il 29 ottobre 2026, sarà presentato il progetto del nuovo stadio di Milan ed Inter nella cornice del Castello Sforzesco: i due club mostreranno i primi rendering dell'impianto sportivo, realizzato dagli studi  ..."
-    },
-    {
-      "id": "4157ffba661d",
-      "title": "SkySportsUK racconta: \"Tutti a Bournemouth aspettano stasera: Milan ostacolo e emozione enorme. Nel 2008...\"",
-      "url": "https://www.milannews.it/news/skysportsuk-racconta-tutti-bournemouth-aspettano-stasera-milan-ostacolo-emozione-enorme-2008-633627",
-      "source": "milannews.it",
-      "date": "2026-10-22T17:28:26+00:00",
-      "summary": "Mark McAdam, giornalista di SkySportsUK, ha presentato in questo modo la sfida di questa sera tra il Bournemouth e il Milan: \"Oggi è il grande giorno: stasera c'è la sfida attesissima ed elettrizzante per il Bournemouth."
-    },
-    {
-      "id": "1119a8dbd7ea",
-      "title": "Amorim è quasi un amuleto: in Europa League numeri positivi in trasferta",
-      "url": "https://www.milannews.it/news/amorim-amuleto-europa-league-numeri-positivi-trasferta-633617",
-      "source": "milannews.it",
-      "date": "2026-10-22T17:20:00+00:00",
-      "summary": "Il Milan si prepara all'imminente sfida di stasera in casa del Bournemouth."
-    },
-    {
-      "id": "07a562178a41",
-      "title": "Bournemouth, Foley: \"Milan? Possiamo vincere in Europa League...\"",
-      "url": "https://www.milannews.it/l-avversario/foley-633618",
-      "source": "milannews.it",
-      "date": "2026-10-22T17:10:00+00:00",
-      "summary": "Bill Foley, proprietario del Bournemouth, ha parlato ai microfoni di TalkSPORT sull'inizio di stagione del suo club e del match di questa sera contro il Milan."
-    },
-    {
       "id": "8e4ffa17a8e7",
       "title": "Amorim discusses post Man Utd growth and Bournemouth challenge: “Fight for victory”",
       "url": "https://sempremilan.com/amorim-discusses-growth-bournemouth-challenge",
@@ -130,68 +306,12 @@
       "summary": "AC Milan play their third game in the Europa League tonight, travelling to face Bournemouth and Ruben Amorim has spoken this afternoon. This is a big game for Milan, with a win taking them a long way toward being able to secure a top eight spot in the Europa League’s League Phase. However, it may […"
     },
     {
-      "id": "26b6730dc69e",
-      "title": "Napoli, De Laurentiis avrebbe rifiutato un'offerta da 2 miliardi e 200 milioni per cedere il club",
-      "url": "https://www.milannews.it/l-avversario/de-laurentiis-proposta-acquisto-napoli-633616",
-      "source": "milannews.it",
-      "date": "2026-10-22T17:00:26+00:00",
-      "summary": "(ANSA) - NAPOLI, 22 OTT - \"Ho ricevuto un'offerta di 2 miliardi e 200 milioni per cedere il Napoli da Matt Rizzetta. Questa cifra il suo gruppo voleva pagarla una parte subito alla firma e una gran parte in tre anni."
-    },
-    {
-      "id": "fc8660b59f27",
-      "title": "VIDEO MN - Curva Sud a Bournemouth, parte il corteo dei tifosi rossoneri verso lo stadio",
-      "url": "https://www.milannews.it/news/video-mn-curva-sud-bournemouth-corteo-tifosi-rossoneri-stadio-633626",
-      "source": "milannews.it",
-      "date": "2026-10-22T16:49:28+00:00",
-      "summary": "È partito in questi minuti il corteo della Curva Sud a Bournemouth: i circa 600 tifosi rossoneri si incamminano, cantando e lanciando cori, verso lo stadio degli inglesi dove stasera si giocherà il match valido per la terza giornata del ..."
-    },
-    {
-      "id": "ce6b2264580d",
-      "title": "Verso Bournemouth-Milan: le probabili formazioni, Cisse titolare in attacco",
-      "url": "https://www.milannews.it/news/bournemouth-milan-probabili-formazioni-cisse-punta-633592",
-      "source": "milannews.it",
-      "date": "2026-10-22T16:45:00+00:00",
-      "summary": "Amici e miche di MilanNews buongiorno. Mancano poche ore al calcio d'inizio di Bournemouth-Milan, match valido per la terza giornata di Europa League."
-    },
-    {
-      "id": "ebf1b23b1a57",
-      "title": "Verso Udinese-Milan: friulani in ritiro per preparare la partita",
-      "url": "https://www.milannews.it/l-avversario/calcio-udinese-ritiro-preparare-gara-milan-633613",
-      "source": "milannews.it",
-      "date": "2026-10-22T16:40:00+00:00",
-      "summary": "(ANSA) - UDINE, 22 OTT - L'Udinese è in ritiro per preparare la sfida di domenica sera con il Milan al Bluenergy Stadium."
-    },
-    {
       "id": "a9f7f29bc697",
       "title": "GdS: Juventus eyeing January move for Tomori as Bremer departure becomes possible",
       "url": "https://sempremilan.com/juventus-eyeing-january-move-tomori-bremer-departure",
       "source": "sempremilan.com",
       "date": "2026-10-22T16:40:00+00:00",
       "summary": "In recent years, Juventus have made several attempts to sign Fikayo Tomori, but a deal has never been completed with AC Milan. It is difficult to think of a club that has paid more attention to Tomori than Juventus in recent years. For the past however many windows, it feels like the Bianconeri have"
-    },
-    {
-      "id": "1da0b22e2360",
-      "title": "Cuomo: \"Con Giampaolo, ci chiedevamo perché giocasse Rodriguez e non Theo. Ora, tra Bartesaghi e Estupinan, non c'è quell'abisso\"",
-      "url": "https://www.milannews.it/news/cuomo-con-giampaolo-chiedevamo-giocasse-rodriguez-theo-ora-bartesaghi-estupinan-quell-abisso-633567",
-      "source": "milannews.it",
-      "date": "2026-10-22T16:30:31+00:00",
-      "summary": "Michael Cuomo, giornalista, si è così espresso sul canale Youtube di Francesco Letizia sul duello tra Davide Bartesaghi e Pervis Estupinan, terzini sinistri del Milan che, di domenica in domenica e di partita in partita,  ..."
-    },
-    {
-      "id": "ac563f7e76d6",
-      "title": "Inizia il torneo più grande mai visto: 189 nazioni per il Mondiale U15 in Azerbaigian",
-      "url": "https://www.milannews.it/news/festival-infantino-189-nazioni-baku-mondiale-under-15-633555",
-      "source": "milannews.it",
-      "date": "2026-10-22T16:20:33+00:00",
-      "summary": "(ANSA) - ROMA, 21 OTT - Una partita infinita per \"dare spazio al talento giovane, ovunque esso sia\"."
-    },
-    {
-      "id": "df3843145989",
-      "title": "Ferrè fa notare: \"C'è un giocatore che Amorim ha trovato come chiave del suo Milan\"",
-      "url": "https://www.milannews.it/news/ferre-notare-c-giocatore-amorim-chiave-milan-633564",
-      "source": "milannews.it",
-      "date": "2026-10-22T16:10:23+00:00",
-      "summary": "Stefano Ferrè, match analyst, si è così espresso a Cronache di Spogliatoio su Adrien Rabiot, centrocampista francese del Milan: \"La heatmap di Rabiot contro l'Atalanta ci fa capire che tipo di giocatore ha trovato i ..."
     },
     {
       "id": "e727908dc467",
@@ -208,30 +328,6 @@
       "source": "sempremilan.com",
       "date": "2026-10-22T16:00:00+00:00",
       "summary": "Tonight, AC Milan will start without a recognised striker on the pitch due to Goncalo Ramos’ injury. As a result, an old conversation has been restarted. As much as fans dreamed that Francesco Camarda would be able to star as the second option this season, he hasn’t done so far. In his only real cha"
-    },
-    {
-      "id": "d24033ca049b",
-      "title": "Bournemouth, il Sindaco Rocca: \"Io milanista da tantissimo, ma ho seguito la squadra a San Siro fino al 2013\"",
-      "url": "https://www.milannews.it/news/bournemouth-sindaco-rocca-io-milanista-tantissimo-squadra-san-siro-2013-633623",
-      "source": "milannews.it",
-      "date": "2026-10-22T15:50:00+00:00",
-      "summary": "Sarà una partita speciale per Roberto Rocca, Sindaco di Bournemouth presente stasera al Vitality Stadium per assistere alla sfida del club inglese contro il Milan di Mister Amorim."
-    },
-    {
-      "id": "c6ba4887737d",
-      "title": "Milan, occhio a Truffert: è il primo terzino di Premier League per sovrapposizioni",
-      "url": "https://www.milannews.it/l-avversario/milan-occhio-truffert-terzino-premier-league-sovrapposizioni-633622",
-      "source": "milannews.it",
-      "date": "2026-10-22T15:39:04+00:00",
-      "summary": "Il Bournemouth non è un avversario da sottovalutare, anzi."
-    },
-    {
-      "id": "8199dc5c39f0",
-      "title": "Man. United, cappotto 4-1 in casa del Como: l’ultima sconfitta italiana era quella del 2007 a San Siro nella ‘partita perfetta’",
-      "url": "https://www.milannews.it/news/man-united-cappotto-4-1-casa-como-l-ultima-sconfitta-italiana-2007-san-siro-partita-perfetta-633606",
-      "source": "milannews.it",
-      "date": "2026-10-22T15:30:34+00:00",
-      "summary": "Ieri sera il Como al Sinigaglia ha impartito una lezione di calcio ad un Manchester United sempre più in crisi vincendo 4-1."
     },
     {
       "id": "6fc72552751c",
@@ -304,54 +400,6 @@
       "source": "sempremilan.com",
       "date": "2026-10-22T12:00:00+00:00",
       "summary": "Tonight, AC Milan face Bournemouth in the Europa League, a game which may be their hardest challenge of the season so far. After starting the season slowly, Bournemouth have started to hit form, winning their last two games and scoring five goals in the process and whilst they sit 15th in the Premie"
-    },
-    {
-      "id": "588d2298dcb1",
-      "title": "Two injuries creates chaos: How Milan and Amorim can deal with wing-back emergency",
-      "url": "https://sempremilan.com/milan-amorim-deal-with-wing-back-emergency",
-      "source": "sempremilan.com",
-      "date": "2026-10-22T11:30:00+00:00",
-      "summary": "Within the space of just three weeks, AC Milan have been dealt two big injury blows at the worst possible time. Firstly came the news over the international break that Alexis Saelemaekers sustained an ankle issue in training at Milanello. The initial idea was for him to rest and return, but scans sh"
-    },
-    {
-      "id": "b02c34c7bb01",
-      "title": "GdS: How Bournemouth ended up with more TV revenue and a more valuable squad than Milan",
-      "url": "https://sempremilan.com/how-bournemouth-more-tv-revenue-more-valuable-squad",
-      "source": "sempremilan.com",
-      "date": "2026-10-22T11:00:00+00:00",
-      "summary": "In terms of size, you’d expect AC Milan to earn more per year than Bournemouth, but that’s not the case across the board. Italy’s biggest issue when it comes to football is itself. As a product, Serie A is known as one of the best leagues in the world, yet it struggles to bring in […]\nThe post GdS: "
-    },
-    {
-      "id": "0d3561e35ace",
-      "title": "“Compete against the best” – Kluivert speaks about Milan history, Bournemouth’s growth and turning point",
-      "url": "https://sempremilan.com/kluivert-speaks-milan-history-bournemouth-growth",
-      "source": "sempremilan.com",
-      "date": "2026-10-22T10:30:00+00:00",
-      "summary": "Son of former AC Milan striker Patrick Kluivert, Justin Kluivert spoke ahead of Bournemouth’s meeting against the European giants. It’s a dream match-up for Bournemouth, a chance to feature on the world stage and a real testament to their rise in recent years. 20 years ago, they finished five points"
-    },
-    {
-      "id": "0340b3edd911",
-      "title": "GdS: Amorim expected to name six changes vs. Bournemouth after Milan-Atalanta",
-      "url": "https://sempremilan.com/amorim-expected-name-six-changes-bournemouth",
-      "source": "sempremilan.com",
-      "date": "2026-10-22T10:00:00+00:00",
-      "summary": "AC Milan return to action tonight, facing Bournemouth at the Vitality Stadium in the third game of their Europa League campaign. The games are coming thick and fast for Milan, as they expected. It’s been a solid month so far, too. They’ve picked up big wins against Salzburg and Atalanta – this weeke"
-    },
-    {
-      "id": "8a6dd1ac2aff",
-      "title": "MN: Consultation confirms Gabbia won’t need surgery – the next steps with conservative approach approved",
-      "url": "https://sempremilan.com/gabbia-wont-need-surgery-next-steps",
-      "source": "sempremilan.com",
-      "date": "2026-10-22T09:30:00+00:00",
-      "summary": "AC Milan learned last night that Matteo Gabbia will not require surgery to recover from the injury to his left thigh. Gabbia has had a torrid time this season; he started the season injured and when given his chance to return, he went down in the first half. From the way he went down, you […]\nThe po"
-    },
-    {
-      "id": "5c170aa4366f",
-      "title": "CM: ‘Athekame would solve the problems’ – Milan face challengers with obvious saviour",
-      "url": "https://sempremilan.com/athekame-solve-problems-milan-face-challengers",
-      "source": "sempremilan.com",
-      "date": "2026-10-22T09:00:00+00:00",
-      "summary": "Zachary Athekame left AC Milan on loan in the summer – a decision which was questioned at the time – and he could return already. It’s been an incredible start to life for Athekame so far; the Swiss defender has shone for Lyon, scoring twice and getting three assists in his opening seven games. His "
     },
     {
       "id": "26e3aab4e5bc",
@@ -432,54 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-10-20T13:00:59+00:00",
       "summary": "La Gazzetta dello Sport  Spalletti on the edge The coach has lost his way at..."
-    },
-    {
-      "id": "1e271f707108",
-      "title": "Amorim becomes first Milan coach since 1963 to go unbeaten in first seven Serie A games",
-      "url": "https://football-italia.net/amorim-becomes-first-milan-coach-since-1963/",
-      "source": "football-italia.net",
-      "date": "2026-10-19T20:00:00+00:00",
-      "summary": "Ruben Amorim has become only the third coach in Milan’s history to go unbeaten in..."
-    },
-    {
-      "id": "9c156d875f73",
-      "title": "Milan continue Krösche talks as €5-7m release clause emerges",
-      "url": "https://football-italia.net/milan-continue-krosche-talks-as-5-7m/",
-      "source": "football-italia.net",
-      "date": "2026-10-19T19:20:00+00:00",
-      "summary": "Milan’s talks with Markus Krösche over their vacant Head of Football role are continuing, but..."
-    },
-    {
-      "id": "a29bb65abab4",
-      "title": "Inter and Milan rival Barcelona and Real Madrid for German wonderkid Ilicevic",
-      "url": "https://football-italia.net/inter-milan-barcelona-and-real-madrid-ilicevic/",
-      "source": "football-italia.net",
-      "date": "2026-10-19T19:00:00+00:00",
-      "summary": "Inter and Milan are reportedly monitoring Eintracht Frankfurt youngster Niko Ilicevic, with Barcelona, Real Madrid..."
-    },
-    {
-      "id": "303f9b8b0a3e",
-      "title": "Who is Milan-linked Krösche and who are his best signings?",
-      "url": "https://football-italia.net/who-is-milan-linked-krosche-best-signings/",
-      "source": "football-italia.net",
-      "date": "2026-10-19T11:20:27+00:00",
-      "summary": "Monday’s reports claim that Milan are closing in on an agreement with Markus Krösche to..."
-    },
-    {
-      "id": "3d9d602d0f20",
-      "title": "Milan closing in on agreement with ex-Frankfurt and RB Leipzig director Krösche",
-      "url": "https://football-italia.net/milan-closing-in-on-agreement-with-kroesche/",
-      "source": "football-italia.net",
-      "date": "2026-10-19T11:05:16+00:00",
-      "summary": "Reports in Italy and Germany indicate that Milan are closing in on an agreement with..."
-    },
-    {
-      "id": "313ce7866349",
-      "title": "Newspaper highlights Milan’s growing problem under Amorim despite 3-2 victory",
-      "url": "https://football-italia.net/milans-growing-problem-under-amorim/",
-      "source": "football-italia.net",
-      "date": "2026-10-19T08:09:02+00:00",
-      "summary": "Milan picked up a 3-2 victory over Atalanta on Sunday evening to keep their unbeaten..."
     }
   ]
 }
