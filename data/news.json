@@ -1,29 +1,245 @@
 {
-  "lastUpdated": "2026-10-26T16:28:53.635793+00:00",
+  "lastUpdated": "2026-10-26T21:20:31.973141+00:00",
   "articles": [
     {
-      "id": "151372abf7ab",
-      "title": "Sabatini: \"Milan prestazione e risultato. Grazie a chi? Beh, alle scelte sensate di Amorim\"",
-      "url": "https://www.milannews.it/news/sabatini-milan-prestazione-risultato-chi-beh-scelte-sensate-amorim-634026",
+      "id": "c6ea9cd9c395",
+      "title": "PROBABILE FORMAZIONE - Verso Milan-Bologna: fuori in 8, Modric puo riposare! Amorim conferma?",
+      "url": "https://www.milannews.it/news/probabile-formazione-milan-bologna-amorim-rabiot-pulisic-modric-634100",
       "source": "milannews.it",
-      "date": "2026-10-26T16:21:10+00:00",
-      "summary": "Sandro Sabatini, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan per 0-2 a Udine: \"È stata una bella prova di carattere e di orgoglio da vecchio Milan\"quella dei rossoneri a Udin ..."
+      "date": "2026-10-26T21:13:15+00:00",
+      "summary": "Dopo la vittoria in emergenza a Udine, il Milan di Ruben Amorim tornerà a giocare in casa con una situazione inforutni altrettanto complicata."
     },
     {
-      "id": "a731ec3c9f7d",
-      "title": "Ranocchia esalta Pulisic: \"Guardando i numeri degli ultimi anni è l'unico ai livelli di Lautaro\"",
-      "url": "https://www.milannews.it/news/ranocchia-esalta-pulisic-guardando-numeri-ultimi-unico-livelli-lautaro-634069",
+      "id": "095121858803",
+      "title": "Andriy Shevchenko premia Lamine Yamal con il Premio Kopa 2026",
+      "url": "https://www.milannews.it/news/andriy-shevchenko-premia-lamine-yamal-premio-kopa-2026-634114",
       "source": "milannews.it",
-      "date": "2026-10-26T16:10:45+00:00",
-      "summary": "Tra gli ospiti di Pressing per commentare l'8^ giornata di Serie A, c'era anche l'ex difensore Andrea Ranocchia, il quale ha parlato così del Milan e dell'importanza di Christian Pulisic: \"Il pessimismo che c'è  ..."
+      "date": "2026-10-26T21:10:00+00:00",
+      "summary": "Andriy Shevchenko, vincitore del Pallone d'Oro 2004 con la maglia del Milan, questa sera era sul palco del Palladium Theatre per premiare, nella serata di gala del premio nella sua edizione 2026, il miglior talento dell'anno."
     },
     {
-      "id": "7c24016ad6a2",
-      "title": "Hutchinson è tornato a segnare a quasi un anno dall'ultimo gol (col Nottingham)",
-      "url": "https://www.milannews.it/news/hutchinson-tornato-segnare-gol-col-nottingham-634016",
+      "id": "b5e509667ad4",
+      "title": "Sabatini felice: \"Finalmente Bartesaghi! Grande partita in un ruolo nemmeno così tanto suo\"",
+      "url": "https://www.milannews.it/news/sabatini-felice-finalmente-bartesaghi-partita-ruolo-suo-634090",
       "source": "milannews.it",
-      "date": "2026-10-26T16:00:25+00:00",
-      "summary": "Omari Hutchinson ha realizzato il suo primo gol in Serie A ed è tornato a segnare in campionato per la prima volta dal 27 dicembre 2025 (in Premier League vs Manchester City). Lo riporta Opta."
+      "date": "2026-10-26T21:00:00+00:00",
+      "summary": "Il giornalista ed opinionista sportivo Sandro Sabatini si è espresso così su TikTok in merito alla bella vittoria del Milan a Udine."
+    },
+    {
+      "id": "a19255a309cf",
+      "title": "Il commento dell'ex calciatore americano Grella sul gol di Pulisic a Udine",
+      "url": "https://www.milannews.it/news/commento-calciatore-americano-grella-gol-pulisic-udine-634094",
+      "source": "milannews.it",
+      "date": "2026-10-26T20:50:52+00:00",
+      "summary": "Un super Christian Pulisic è uscito dalla gara di Udine, domenica sera, con la palma di migliore in campo della gara."
+    },
+    {
+      "id": "ce49f1ce1312",
+      "title": "Ramazzotti sulla frecciata di Allegri: \"Forse il Milan quella domenica entrò in campo stordito dalla vittoria della Roma\"",
+      "url": "https://www.milannews.it/news/ramazzotti-frecciata-allegri-forse-milan-domenica-entro-campo-stordito-vittoria-roma-634034",
+      "source": "milannews.it",
+      "date": "2026-10-26T20:40:03+00:00",
+      "summary": "Andrea Ramazzotti, giornalista, si è così espresso su La Gazzetta dello Sport commentando le frasi di Allegri dopo Napoli-Roma: \"'L’anno scorso hanno messo la Champions in tasca alla Roma e ho pagato io con il Milan'."
+    },
+    {
+      "id": "bddf95b234de",
+      "title": "Verso il Bologna: Ramos potrebbe riposare, Estupinan al posto di Diawara",
+      "url": "https://www.milannews.it/news/bologna-ramos-riposare-estupinan-diawara-634112",
+      "source": "milannews.it",
+      "date": "2026-10-26T20:30:48+00:00",
+      "summary": "Con così poco spazio tra una partita e l'altra, è molto difficile capire quali potranno essere le scelte di Ruben Amorim per la partita che il Milan giocherà mercoledì a San Siro alle ore 18."
+    },
+    {
+      "id": "2aca7b4d55be",
+      "title": "Milan, Vernazza positivo: \"Segnali di vita e di futuro per i rossoneri\"",
+      "url": "https://www.milannews.it/news/milan-vernazza-positivo-segnali-rossoneri-634088",
+      "source": "milannews.it",
+      "date": "2026-10-26T20:20:00+00:00",
+      "summary": "Dopo il successo e bella prova del Milan sul campo dell'Udinese, il giornalista Sebastiano Vernazza ha commentato così il momento dei rossoneri, in contrapposizione con quello della Juventus, vincente in casa del Lecce per 2-0."
+    },
+    {
+      "id": "3e9c40b64233",
+      "title": "Premier Leaue: l'Arsenal batte l'Everton e aggancia il Manchester City in vetta",
+      "url": "https://www.milannews.it/news/premier-arsenal-batte-everton-aggancia-city-vetta-634022",
+      "source": "milannews.it",
+      "date": "2026-10-26T20:10:53+00:00",
+      "summary": "(ANSA) - ROMA, 24 OTT - L'Arsenal ha raggiunto il Manchester City in vetta alla Premier League battendo 2-0 l'Everton dopo la sconfitta dei Citizens in casa dell'Aston Villa."
+    },
+    {
+      "id": "b8676a326f92",
+      "title": "Gasperini risponde ad Allegri: \"Frase infelice, i numeri e dati testimoniano...\"",
+      "url": "https://www.milannews.it/news/calcio-gasperini-frase-allegri-infelice-parlano-numeri-634080",
+      "source": "milannews.it",
+      "date": "2026-10-26T20:00:00+00:00",
+      "summary": "(ANSA) - ROMA, 26 OTT - \"Allegri? Io la frase non l'ho sentita, voi l'avete riportata e sicuramente sarà così. Ma ci sono numeri, testimonianze e dati delle nostre gare dello scorso anno."
+    },
+    {
+      "id": "984067b5061d",
+      "title": "Milan keeping tabs on Bruno Fernandes as Amorim eyes Manchester United captain",
+      "url": "https://football-italia.net/milan-keeping-tabs-on-bruno-fernandes-man-utd/",
+      "source": "football-italia.net",
+      "date": "2026-10-26T20:00:00+00:00",
+      "summary": "Milan are monitoring Bruno Fernandes’ situation at Manchester United, with Ruben Amorim hoping for a..."
+    },
+    {
+      "id": "9aaff358217a",
+      "title": "La richiesta di Trevisani: \"Milan, lasciamo lavorare Amorim\"",
+      "url": "https://www.milannews.it/news/richiesta-trevisani-milan-lasciamo-lavorare-amorim-634072",
+      "source": "milannews.it",
+      "date": "2026-10-26T19:50:46+00:00",
+      "summary": "Riccardo Trevisani, intervenuto a Pressing, ha rilasciato queste parole sul Milan di Ruben Amorim: \"Intorno ad Amorim si è creata questo velo di mistero."
+    },
+    {
+      "id": "a5621b563944",
+      "title": "Domani Serie A di nuovo in campo: il programma del turno infrasettimanale",
+      "url": "https://www.milannews.it/news/domani-serie-campo-programma-turno-infrasettimanale-633946",
+      "source": "milannews.it",
+      "date": "2026-10-26T19:40:00+00:00",
+      "summary": "Neanche il tempo di assimilare l'ottava giornata che si è conclusa ieri che domani la Serie A torna di nuovo in campo per il nono turno di campionato, il primo infrasettimanale."
+    },
+    {
+      "id": "399541156b6d",
+      "title": "Modric, che assist! Il croato supera Ibra in un particolare record over 40",
+      "url": "https://www.milannews.it/news/modric-assist-croato-supera-ibra-particolare-record-over-40-634082",
+      "source": "milannews.it",
+      "date": "2026-10-26T19:30:00+00:00",
+      "summary": "Un bel Milan vince e convince a Udinese contro i friulani, grazie ai gol di Christian Pulisic e Omari Hutchinson, il primo con la maglia rossonera."
+    },
+    {
+      "id": "1bc37f38f293",
+      "title": "Allegri squalificato: il Napoli presenterà ufficialmente ricorso",
+      "url": "https://www.milannews.it/gli-ex/napoli-ricorso-squalifica-allegri-634079",
+      "source": "milannews.it",
+      "date": "2026-10-26T19:20:00+00:00",
+      "summary": "(ANSA) - NAPOLI, 26 OTT - Il Napoli farà ricorso contro la squalifica per due giornate del suo tecnico."
+    },
+    {
+      "id": "cf84c46fa02e",
+      "title": "Garbo: \"Non vedo come il Milan possa competere con Inter e Roma\"",
+      "url": "https://www.milannews.it/news/garbo-non-vedo-milan-competere-inter-roma-634099",
+      "source": "milannews.it",
+      "date": "2026-10-26T19:10:03+00:00",
+      "summary": "Il Milan dopo otto giornate di campionato, grazie alla vittoria di Udine per 0-2, maturata in serenità e nonostante le assenze, si ritrova in questo momento al quarto posto in classifica, insieme alla Roma, e dietro solo a Lazio ..."
+    },
+    {
+      "id": "decd1ff7f451",
+      "title": "Pulisic la certezza di questo Milan: altro gol pesante e prestazione da leader assoluto",
+      "url": "https://www.milannews.it/primo-piano/pulisic-certezza-milan-gol-pesante-prestazione-leader-assoluto-634077",
+      "source": "milannews.it",
+      "date": "2026-10-26T19:00:00+00:00",
+      "summary": "Una delle certezze più belle di questo Milan ha ripreso il nome di Christian Pulisic, finalmente. Dopo un lungo digiuno da gol e giocate, l'americano è tornato protagonista in questa stagione."
+    },
+    {
+      "id": "152c803cbfd9",
+      "title": "Udinese 0-2 AC Milan: Five things we learned – bold choices pay off to ease pressure",
+      "url": "https://sempremilan.com/udinese-0-2-ac-milan-five-things-we-learned",
+      "source": "sempremilan.com",
+      "date": "2026-10-26T19:00:00+00:00",
+      "summary": "AC Milan needed a win to bounce back from the midweek setback in Bournemouth, and they got it against a struggling Udinese side. With Ruben Amorim battling an injury crisis, the starting line-up still raised some eyebrows. Christian Pulisic got the first of the night early on as he collected a ball "
+    },
+    {
+      "id": "ec110f2afe31",
+      "title": "Terza volta negli ultimi 20 anni che il Milan esce imbattuto dalle prime 8 di campionato",
+      "url": "https://www.milannews.it/news/terza-ultimi-20-milan-esce-imbattuto-prime-8-campionato-634014",
+      "source": "milannews.it",
+      "date": "2026-10-26T18:50:39+00:00",
+      "summary": "Il Milan (5 vittorie, 3 pareggi) è rimasto imbattuto nelle prime otto gare stagionali di Serie A per la terza volta nelle ultime 20 stagioni nella competizione, dopo il 2020/21 e il 2021/22. Lo riporta Opta."
+    },
+    {
+      "id": "ef5532825177",
+      "title": "Marchegiani: \"Mentre le altre possono gestire le rotazioni con maggiore tranquillità, nel Milan la coperta sembra corta\"",
+      "url": "https://www.milannews.it/news/marchegiani-mentre-possono-gestire-rotazioni-maggiore-tranquillita-milan-coperta-corta-634037",
+      "source": "milannews.it",
+      "date": "2026-10-26T18:40:14+00:00",
+      "summary": "Luca Marchegiani, opinionista, si è così espresso su SkySport commentando la vittoria per 0-2 del Milan contro l'Udinese: \"Forse siamo nel giorno in cui la squadra ha risposto meglio nell'emergenza."
+    },
+    {
+      "id": "369ff0bfb1b1",
+      "title": "Il Bournemouth fa 0-3 anche allo Utd, ma Carrick non molla la sua panchina",
+      "url": "https://www.milannews.it/news/premier-man-utd-crolla-casa-carrick-molla-faro-meglio-634021",
+      "source": "milannews.it",
+      "date": "2026-10-26T18:30:09+00:00",
+      "summary": "(ANSA) - ROMA, 25 OTT - Ancora una sconfitta per il Manchester United, battuto 3-0 in casa dal Bournemouth. Si complica ancora, quindi, la permanenza dell'allenatore Michael Carrick sulla panchina dei Red Devils."
+    },
+    {
+      "id": "e111cac8146f",
+      "title": "GdS: Predicted Milan XI to face Bologna – Modric and Pulisic to be rested",
+      "url": "https://sempremilan.com/predicted-milan-xi-bologna-modric-pulisic",
+      "source": "sempremilan.com",
+      "date": "2026-10-26T18:30:00+00:00",
+      "summary": "AC Milan have no time to rest and enjoy the Udinese win, because they play in just 48 hours against Bologna at San Siro. The victory over Udinese last night was a good response after the midweek defeat in Bournemouth. However, two more big games are coming in the next six games, with Bologna and […]"
+    },
+    {
+      "id": "357396513855",
+      "title": "NBA Europe, domani incontro tra NBA e vertici dei club interessati: anche il Milan",
+      "url": "https://www.milannews.it/news/nba-europe-domani-incontro-nba-vertici-club-interessati-milan-634106",
+      "source": "milannews.it",
+      "date": "2026-10-26T18:20:00+00:00",
+      "summary": "Questa sera al Palladium Theatre di Londra, alle ore 21 italiane, andrà in scena l'attesissima cerimonia per la consegna del Pallone d'Oro 2026, un riconoscimento che quest'anno è più che mai incerto."
+    },
+    {
+      "id": "1aa9f95c4960",
+      "title": "Pellegatti: \"Resta da capire una cosa: perché questo Milan appare così brillante, continuo e solido in Italia, mentre balbetta in Europa?\"",
+      "url": "https://www.milannews.it/news/pellegatti-resta-capire-cosa-milan-appare-brillante-continuo-solido-italia-balbetta-europa-634031",
+      "source": "milannews.it",
+      "date": "2026-10-26T18:10:42+00:00",
+      "summary": "Carlo Pellegatti, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan per 0-2 a Udine: \"Dimostrazione di forza, di organizzazione e di adesione ai dettami di Amorim."
+    },
+    {
+      "id": "c05032a7874b",
+      "title": "Milan suffer another injury blow with Loftus-Cheek out for at least 2 weeks",
+      "url": "https://football-italia.net/milan-suffer-another-blow-loftus-cheek-out/",
+      "source": "football-italia.net",
+      "date": "2026-10-26T18:10:00+00:00",
+      "summary": "Ruben Loftus-Cheek will miss at least two weeks after tests confirmed a muscle tear in..."
+    },
+    {
+      "id": "7f52a385c19c",
+      "title": "Photos: Milan players react to Udinese win on social media – “The story has just begun”",
+      "url": "https://sempremilan.com/milan-players-react-social-media-udinese-0-2",
+      "source": "sempremilan.com",
+      "date": "2026-10-26T18:00:00+00:00",
+      "summary": "AC Milan managed to return to winning ways after a bad midweek display in England, beating Udinese 2-0 away from home on Sunday. Amid the worst injury crisis of the season, Ruben Amorim set the team up in what appeared to be a 4-4-1-1. He gave Sankhoun Diawara his first start and deploying Davide Ba"
+    },
+    {
+      "id": "56e10a538a3b",
+      "title": "MN: Loftus-Cheek joins injury list as scan reveals tear in thigh muscle",
+      "url": "https://sempremilan.com/loftus-cheek-scan-tear-thigh-muscle",
+      "source": "sempremilan.com",
+      "date": "2026-10-26T17:36:39+00:00",
+      "summary": "AC Milan’s injury situation keeps going from bad to worse as Ruben Loftus-Cheek has become the latest to sustain an issue. There were doubts about whether Loftus-Cheek would even be available for Sunday night’s game against Udinese, given that he was forced off at half-time in Bournemouth after taki"
+    },
+    {
+      "id": "a0a5483018cd",
+      "title": "Four players given above a 7: Fan player ratings for Udinese 0-2 Milan",
+      "url": "https://sempremilan.com/fan-player-ratings-udinese-0-2-milan",
+      "source": "sempremilan.com",
+      "date": "2026-10-26T17:00:00+00:00",
+      "summary": "AC Milan needed to bounce back with a win against Udinese away from home on Sunday night, and they did exactly that. One goal in each half was enough to get past a Udinese side that have now lost six on the spin. Christian Pulisic got the first after a lovely first touch and finish […]\nThe post Four"
+    },
+    {
+      "id": "e8c646be4a59",
+      "title": "Baresi mural outside Casa Milan vandalised again, weeks after being restored",
+      "url": "https://football-italia.net/baresi-mural-casa-milan-vandalised-again/",
+      "source": "football-italia.net",
+      "date": "2026-10-26T16:58:02+00:00",
+      "summary": "The mural of Franco Baresi outside Casa Milan has been vandalised for a second time,..."
+    },
+    {
+      "id": "5f116d240e71",
+      "title": "Milan target derby return for Gila, Rabiot and Moreira",
+      "url": "https://football-italia.net/milan-target-derby-return-gila-rabiot-moreira/",
+      "source": "football-italia.net",
+      "date": "2026-10-26T16:31:43+00:00",
+      "summary": "Mario Gila, Adrien Rabiot and Diego Moreira are unlikely to be fit for Milan’s clash..."
+    },
+    {
+      "id": "ed7982b71316",
+      "title": "Moretto: ‘Roma and Milan want him’ – January exit remains possible for Real Madrid starlet",
+      "url": "https://sempremilan.com/roma-milan-january-exit-endrick-possible",
+      "source": "sempremilan.com",
+      "date": "2026-10-26T16:30:00+00:00",
+      "summary": "Endrick’s future at Real Madrid remains uncertain, and AC Milan are at the window ready to try and pounce, along with a rival. Milan tried for Endrick in the summer transfer window but were told no by Real Madrid because the head coach Jose Mourinho wanted to keep him. However, the Brazilian is bare"
     },
     {
       "id": "81c82e4fd60d",
@@ -34,60 +250,12 @@
       "summary": "The mural outside Casa Milan dedicated to Franco Baresi has been ruined again, having only been redone recently. On 10 October, the artist unveiled a new even bigger mural dedicated to the former captain after his first design had been vandalised. However, more (or potentially the same) mindless cri"
     },
     {
-      "id": "53636b79be47",
-      "title": "MN - Udinese-Milan 0-2, Trevisani non se l'aspettava: \"Risposta fortissima dei rossoneri\"",
-      "url": "https://www.milannews.it/news/mn-udinese-milan-0-2-trevisani-aspettava-risposta-fortissima-rossoneri-634076",
-      "source": "milannews.it",
-      "date": "2026-10-26T15:50:35+00:00",
-      "summary": "Riccardo Trevisani, giornalista di Mediaset, ha commentato così a Milannews."
-    },
-    {
-      "id": "a099603c57a0",
-      "title": "F.Galli non ha dubbi: \"Amorim ha preso in mano il Milan, il gruppo lo sta seguendo\"",
-      "url": "https://www.milannews.it/gli-ex/f-galli-dubbi-amorim-preso-mano-milan-seguendo-634067",
-      "source": "milannews.it",
-      "date": "2026-10-26T15:40:39+00:00",
-      "summary": "Filippo Galli, ex giocatore, allenatore e dirigente rossonero, ha commentato così a Pressing la vittoria del Milan contro l'Udinese: \"La situazione del Milan è molto buona, è terzo a -4 dalla vetta e davanti a tante altr ..."
-    },
-    {
-      "id": "463c56a2088f",
-      "title": "Quote Scudetto Serie A Milan, le scommesse sui rossoneri",
-      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-scudetto-serie-a-milan-le-scommesse-sui-rossoneri-579454",
-      "source": "milannews.it",
-      "date": "2026-10-26T15:35:00+00:00",
-      "summary": "Col successo contro l'Udinese, il Milan è rimasto sulla scia delle prime della classe della Serie A 2025/2026."
-    },
-    {
-      "id": "6ff292b2a247",
-      "title": "Milan Femminile, frattura scomposta del setto nasale per Julie Piga",
-      "url": "https://www.milannews.it/news/milan-femminile-frattura-scomposta-setto-nasale-julie-piga-634092",
-      "source": "milannews.it",
-      "date": "2026-10-26T15:30:00+00:00",
-      "summary": "Brutto colpo per il mondo del Milan Femminile. E' stata infatti comunicata, direttamente dal sito web del club rossonero, la nota relativa alle condizioni fisiche della calciatrice rossonera Julie Piga."
-    },
-    {
       "id": "7b2236a7143f",
       "title": "MN: Amorim unlikely to have Gila, Moreira or Rabiot back vs. Bologna – the latest",
       "url": "https://sempremilan.com/amorim-unlikely-gila-moreira-rabiot-bologna",
       "source": "sempremilan.com",
       "date": "2026-10-26T15:30:00+00:00",
       "summary": "AC Milan head coach Ruben Amorim is unlikely to welcome back any of the injured players ahead of Wednesday’s game, it is claimed. After last night’s bounce-back win against Udinese away from home, Milan must immediately begin focusing on their next league match, scheduled for Wednesday at 18:30 CET "
-    },
-    {
-      "id": "fc0b622d3b8c",
-      "title": "Ancora vandalizzato il murales di Baresi, la rabbia di Pellegatti: \"Una vergogna, ci sono rimasto malissimo\"",
-      "url": "https://www.milannews.it/news/vandalizzato-murales-baresi-rabbia-pellegatti-una-vergogna-rimasto-malissimo-634085",
-      "source": "milannews.it",
-      "date": "2026-10-26T15:20:00+00:00",
-      "summary": "L'ennesima vergogna. L'idiota o il gruppo di presunti tali hanno colpito di nuovo il Murales a Casa Milan dedicato a Franco Baresi e creato personalmente dall'artista Lucas."
-    },
-    {
-      "id": "51a71b4b4620",
-      "title": "Ravezzani: \"Vincere a Udine era doveroso per il Milan. Ma c'è un dato consolante: lo ha fatto e lo ha fatto bene\"",
-      "url": "https://www.milannews.it/news/ravezzani-vincere-udine-doveroso-milan-dato-consolante-bene-634025",
-      "source": "milannews.it",
-      "date": "2026-10-26T15:10:43+00:00",
-      "summary": "Fabio Ravezzani, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan per 0-2 contro l'Udinese: \"Dovevano vincere e hanno vinto, sia la Juventus che il Milan."
     },
     {
       "id": "3793ac3d990f",
@@ -98,44 +266,12 @@
       "summary": "Former Milan midfielder Massimo Ambrosini has advised teenage talent Francesco Camarda to look at Nicolo..."
     },
     {
-      "id": "5c7789b20e34",
-      "title": "Camarda, la sua gestione accende il confronto tra Ambrosini, Marinozzi e Behrami: \"Sono due anni che non gioca!\"",
-      "url": "https://www.milannews.it/primo-piano/camarda-gestione-accende-confronto-ambrosini-marinozzi-behrami-sono-gioca-634051",
-      "source": "milannews.it",
-      "date": "2026-10-26T15:00:00+00:00",
-      "summary": "Il Milan vince ad Udine nonostante le assenze con una partita concreta e coraggiosa, soprattutto da parte di alcuni giovani - come Diawara - lanciati nella mischia da Amorim."
-    },
-    {
       "id": "3091eeb71a6a",
       "title": "MN: Four things to address – Cardinale’s diary outlined as crucial week begins at Milan",
       "url": "https://sempremilan.com/cardinale-diary-outlined-crucial-week-milan",
       "source": "sempremilan.com",
       "date": "2026-10-26T15:00:00+00:00",
       "summary": "A new week has begun, one that could be crucial both in the scheme of AC Milan’s season and also their future plans. As MilanNews writes, the main events as always will be on the field. Milan play on Wednesday at San Siro at 18:30 CET against Bologna, and then on Saturday at 20:45 in […]\nThe post MN"
-    },
-    {
-      "id": "eea9a46e92e8",
-      "title": "MN - Mercato Milan, Trevisani: \"Se non c’è fiducia in Camarda, cosa che io avrei invece, bisognava prendere Icardi\"",
-      "url": "https://www.milannews.it/news/mn-mercato-milan-trevisani-se-c-e-fiducia-camarda-invece-bisognava-prendere-icardi-634075",
-      "source": "milannews.it",
-      "date": "2026-10-26T14:49:37+00:00",
-      "summary": "Nell'intervista rilasciata a Milannews.it, Riccardo Trevisani, giornalista di Mediaset, ha rilasciato queste parole: \n\nAl Milan manca un Head of Football o direttore sportivo."
-    },
-    {
-      "id": "1b7a207a9697",
-      "title": "Modric supera Ibrahimovic per assist in Serie A a 40 anni già compiuti",
-      "url": "https://www.milannews.it/news/modric-supera-ibrahimovic-assist-serie-40-compiuti-634015",
-      "source": "milannews.it",
-      "date": "2026-10-26T14:40:02+00:00",
-      "summary": "Luka Modric è il giocatore che ha fornito più assist dopo aver compiuto i 40 anni da quando la Serie A è tornata a 20 squadre (2004/05): quattro (a quota tre Zlatan Ibrahimovic). Lo riporta Opta."
-    },
-    {
-      "id": "bec13d43332d",
-      "title": "Deeney sul gol di Pulisic: \"Lo avesse fatto chiunque altro, diremmo che è di livello mondiale\"",
-      "url": "https://www.milannews.it/news/deeney-gol-pulisic-lo-altro-diremmo-livello-mondiale-634006",
-      "source": "milannews.it",
-      "date": "2026-10-26T14:30:27+00:00",
-      "summary": "Un super Christian Pulisic contro l'Udinese. L'attaccante americano del Milan ha trovato un gol bellissimo in apertura di partita, con un bellissimo stop su assist di Modric."
     },
     {
       "id": "0788deea5d92",
@@ -154,30 +290,6 @@
       "summary": "Alessandro Costacurta believes that Milan are beginning to show promising signs under head coach Ruben..."
     },
     {
-      "id": "3e5b1e097e22",
-      "title": "FOTO MN - Casa Milan, rovinato nuovamente il murale dedicato a Franco Baresi",
-      "url": "https://www.milannews.it/news/foto-mn-casa-milan-rovinato-nuovamente-murale-dedicato-franco-baresi-634083",
-      "source": "milannews.it",
-      "date": "2026-10-26T14:19:34+00:00",
-      "summary": "Il murale fuori Casa Milan dedicato a Franco Baresi, rifatto poche settimane fa, è stato di nuovo rovinato: sono state infatti cancellate la fascia da capitano al braccio dell'ex difensore scomparso a fine luglio e lo stemma del Milan sul  ..."
-    },
-    {
-      "id": "c7c611a5e61a",
-      "title": "MN - Milan, difficilmente Gila, Rabiot e Moreira ci saranno contro il Bologna. Si lavora per riaverli nel derby",
-      "url": "https://www.milannews.it/da-milanello/mn-milan-difficilmente-gila-rabiot-moreira-bologna-lavora-riaverli-derby-634081",
-      "source": "milannews.it",
-      "date": "2026-10-26T14:08:28+00:00",
-      "summary": "Dopo il bel successo di ieri sera sul campo dell'Udinese, il Milan deve iniziare subito a pensare alla prossima sfida di campionato in programma mercoledì all 18.30 contro il Bologna a San Siro."
-    },
-    {
-      "id": "c69151c7a84e",
-      "title": "Krosche sì o Krosche no? Pellegatti: \"Il Milan vuole una risposta entro giovedì\"",
-      "url": "https://www.milannews.it/news/krosche-si-krosche-no-pellegatti-il-milan-vuole-risposta-entro-giovedi-634078",
-      "source": "milannews.it",
-      "date": "2026-10-26T14:00:48+00:00",
-      "summary": "Carlo Pellegatti, in un video pubblicato sul suo canale YouTube, ha spiegato a che punto è la trattativa per il possibile arrivo al Milan di Markus Krosche come nuovo Head of Football: \"Questa è una settimana decisiva non solo per  ..."
-    },
-    {
       "id": "4589f453e7f9",
       "title": "‘It’s a red card’ vs. ‘not violent conduct’ – Ramos incident in Udinese-Milan divides opinion",
       "url": "https://sempremilan.com/ramos-incident-udinese-milan-divides-opinion",
@@ -186,44 +298,12 @@
       "summary": "One of the controversial incidents in AC Milan’s win over Udinese last night continues to divide opinions among pundits and experts. There was a flash point 10 minutes before the break in last night’s 2-0 win when Ramos went down holding his face. The teenage defender Palma appeared to swing an arm "
     },
     {
-      "id": "3082ab907959",
-      "title": "MN - Trevisani e le continue critiche ad Amorim: \"Non ha amici nella stampa ed è stato massacrato senza motivo. Per fortuna non da tutti\"",
-      "url": "https://www.milannews.it/news/mn-trevisani-continue-critiche-amorim-non-amici-stampa-massacrato-motivo-fortuna-tutti-634073",
-      "source": "milannews.it",
-      "date": "2026-10-26T13:50:00+00:00",
-      "summary": "Riccardo Trevisani, giornalista di Mediaset, intervistato da Milannews."
-    },
-    {
-      "id": "8edcd0a2b133",
-      "title": "Mourinho esulta con la linguaccia: il Real Madrid batte il Barcellona nel primo Clasico",
-      "url": "https://www.milannews.it/news/liga-real-batte-barca-camp-nou-634020",
-      "source": "milannews.it",
-      "date": "2026-10-26T13:40:13+00:00",
-      "summary": "(ANSA) - ROMA, 25 OTT - Il Real Madrid vince 2-1 in casa del Barcellona nel \"clasico\" della Liga."
-    },
-    {
-      "id": "5b79edded045",
-      "title": "Passerini conferma: \"Amorim non avrebbe rischiato il posto nemmeno con una sconfitta\"",
-      "url": "https://www.milannews.it/news/passerini-conferma-amorim-rischiato-sconfitta-634030",
-      "source": "milannews.it",
-      "date": "2026-10-26T13:30:38+00:00",
-      "summary": "Carlos Passerini, giornalista de Il Corriere della Sera, si è così espresso sul suo canale Youtube commentando la vittoria del Milan a Udine: \"Il Milan si mette un po' alle spalle la figuraccia di Europa League che davvero avev ..."
-    },
-    {
       "id": "c128a126d116",
       "title": "Timeless Modric, talisman Pulisic, impressive Amorim: All the key stats from Udinese 0-2 AC Milan",
       "url": "https://sempremilan.com/all-key-stats-udinese-0-2-ac-milan",
       "source": "sempremilan.com",
       "date": "2026-10-26T13:30:00+00:00",
       "summary": "It was important for AC Milan to bounce back after their midweek loss to AFC Bournemouth and they did just that, beating Udinese 2-0. A goal in each half was enough against a Udinese team that have now lost six on the spin. Christian Pulisic got the first after a lovely first touch and finish […]\nTh"
-    },
-    {
-      "id": "fa834d24cb4a",
-      "title": "Pulisic ha contribuito a 4 gol nelle ultime 7 partite di Serie A",
-      "url": "https://www.milannews.it/news/pulisic-contribuito-4-gol-ultime-7-partite-serie-634001",
-      "source": "milannews.it",
-      "date": "2026-10-26T13:20:29+00:00",
-      "summary": "Christian Pulisic è definitivamente tornato."
     },
     {
       "id": "ef64564bcdb3",
@@ -306,28 +386,12 @@
       "summary": "Frosinone midfielder Giacomo Calò was the highest-rated Italy player in Serie A in the eighth..."
     },
     {
-      "id": "22635ccea700",
-      "title": "Gallery: ‘Milan get back on track’, ‘Super derby’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/front-pages-udinese-0-2-milan-26-october",
-      "source": "sempremilan.com",
-      "date": "2026-10-26T09:00:00+00:00",
-      "summary": "AC Milan bounced back from the midweek debacle in Bournemouth and returned to winning ways in Serie A, beating Udinese 2-0. One goal in each half was enough against a side that have now lost six on the spin. Christian Pulisic got the first after a lovely first touch and finish from Luka Modric’s bal"
-    },
-    {
       "id": "7b72532838c4",
       "title": "Today’s Papers: Juventus claw back, Inter never give up, Milan catch Roma",
       "url": "https://football-italia.net/todays-papers-juventus-claw-back/",
       "source": "football-italia.net",
       "date": "2026-10-26T08:39:13+00:00",
       "summary": "La Gazzetta dello Sport  Kimi, here we go  Another triumph, the World Championship will arrive..."
-    },
-    {
-      "id": "ef0ea64bf26d",
-      "title": "Pulisic happy after MOTM performance vs. Udinese: “When Modric has the ball, that’s my job”",
-      "url": "https://sempremilan.com/pulisic-modric-has-ball-thats-job",
-      "source": "sempremilan.com",
-      "date": "2026-10-25T22:51:59+00:00",
-      "summary": "Christian Pulisic has admitted that he didn’t know whether to celebrate his goal against Udinese or not due to a potential offside. Milan ended up securing a rather comfortable 2-0 win over Udinese on Sunday night at the Stadio Friuli, and Pulisic got the team off to a great start with a moment of r"
     },
     {
       "id": "6e28ef40e263",
@@ -338,14 +402,6 @@
       "summary": "Christian Pulisic reveals his ‘job’ when seeing Luka Modric get the ball, while Omari Hutchinson..."
     },
     {
-      "id": "1ab2404cb51f",
-      "title": "Cardinale reacts to Milan’s win against Udinese and confirms he will stay ‘all week’",
-      "url": "https://sempremilan.com/cardinale-reacts-milans-win-udinese-stay",
-      "source": "sempremilan.com",
-      "date": "2026-10-25T22:36:09+00:00",
-      "summary": "Gerry Cardinale was present at Bluenergy Stadium this evening for AC Milan’s game against Udinese, and was intercepted by a journalist just as he left. Yesterday, it was reported that Cardinale had planned a full week in Italy, keen on showing his support for the team while also dealing with other c"
-    },
-    {
       "id": "3581d5c175e2",
       "title": "Runjaic: ‘Udinese full of life, not the right time to talk about my future’",
       "url": "https://football-italia.net/runjaic-udinese-full-of-life-not-right-time/",
@@ -354,36 +410,12 @@
       "summary": "Kosta Runjaic insists Udinese are ‘full of life’ even after a sixth consecutive Serie A..."
     },
     {
-      "id": "871db62e26af",
-      "title": "Bartesaghi ‘comfortable’ in more advanced role and as part of ‘fabulous’ squad",
-      "url": "https://sempremilan.com/bartesaghi-comfortable-role-fabulous-squad",
-      "source": "sempremilan.com",
-      "date": "2026-10-25T22:27:28+00:00",
-      "summary": "Davide Bartesaghi was one of the stand-out players in AC Milan’s win over Udinese, and he felt comfortable in his new role. When the teams were announced around one hour and 15 minutes before kick-off, there was a frantic scramble to try and figure out exactly what Amorim had gone for. It became cle"
-    },
-    {
       "id": "d477b9ed7f6e",
       "title": "Bartesaghi: ‘I feel in good shape, I am able to play in both phases’",
       "url": "https://football-italia.net/bartesaghi-i-am-able-to-play-in-both-phases/",
       "source": "football-italia.net",
       "date": "2026-10-25T22:22:16+00:00",
       "summary": "Davide Bartesaghi says that he felt ‘at ease’ playing on the left of Milan’s midfield..."
-    },
-    {
-      "id": "6457dd9b0019",
-      "title": "Crucial win amid injury struggles: Instant reaction to Udinese 0-2 AC Milan",
-      "url": "https://sempremilan.com/instant-reaction-udinese-0-2-milan-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-10-25T22:22:02+00:00",
-      "summary": "Stefano shared his thoughts on AC Milan’s win against Udinese straight after the full-time whistle, highlighting just how important it is. After the big defeat against Bournemouth in the Europa League, followed by several injury blows on Saturday, Milan knew that it wouldn’t be easy against Udinese "
-    },
-    {
-      "id": "b9a2d784dd19",
-      "title": "Amorim ‘happy and proud’ after Udinese win but knows areas Milan must improve",
-      "url": "https://sempremilan.com/amorim-happy-proud-udinese-areas-improve",
-      "source": "sempremilan.com",
-      "date": "2026-10-25T22:16:05+00:00",
-      "summary": "Ruben Amorim was pleased with what he saw from AC Milan side as they navigated an injury crisis to beat Udinese 2-0. Milan needed to bounce back after their poor performance and result in Bournemouth on Thursday, and that’s exactly what they did in Udine. Christian Pulisic scored early on and Omari "
     },
     {
       "id": "e9c1758e41fa",
@@ -448,38 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-10-25T10:12:46+00:00",
       "summary": "Gonçalo Ramos is expected to start up front for Milan, but Ruben Amorim must deal..."
-    },
-    {
-      "id": "37edb78dd2f8",
-      "title": "Allegri accusation: ‘They put Champions League in Roma’s pocket, I paid for it at Milan’",
-      "url": "https://football-italia.net/allegri-accusation-champions-league-roma-milan/",
-      "source": "football-italia.net",
-      "date": "2026-10-24T19:24:01+00:00",
-      "summary": "Max Allegri was reportedly heard angrily shouting after Napoli’s 3-3 draw that ‘they put the..."
-    },
-    {
-      "id": "eed9388011f3",
-      "title": "Milan among Serie A clubs eyeing Chiesa as Liverpool open to January exit",
-      "url": "https://football-italia.net/milan-among-serie-a-clubs-eyeing-chiesa/",
-      "source": "football-italia.net",
-      "date": "2026-10-24T15:01:54+00:00",
-      "summary": "Milan are among several Serie A clubs monitoring Federico Chiesa, with Liverpool reportedly willing to..."
-    },
-    {
-      "id": "67f102a8609e",
-      "title": "Tottenham star Tonali admits: ‘Milan will always be my favourite team’",
-      "url": "https://football-italia.net/tottenham-star-tonali-admits-milan-favourite/",
-      "source": "football-italia.net",
-      "date": "2026-10-24T13:37:24+00:00",
-      "summary": "Sandro Tonali has insisted that Milan will always be his favourite team, despite his £100m..."
-    },
-    {
-      "id": "df16c0496e32",
-      "title": "Milan without Rabiot, Gila and Moreira for Udinese clash",
-      "url": "https://football-italia.net/milan-without-rabiot-gila-and-moreira/",
-      "source": "football-italia.net",
-      "date": "2026-10-24T12:48:14+00:00",
-      "summary": "Milan will be without Adrien Rabiot, Mario Gila and Diego Moreira for Sunday’s Serie A..."
     }
   ]
 }
