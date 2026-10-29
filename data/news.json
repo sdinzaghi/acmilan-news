@@ -1,6 +1,158 @@
 {
-  "lastUpdated": "2026-10-28T21:34:46.302059+00:00",
+  "lastUpdated": "2026-10-29T01:31:46.536151+00:00",
   "articles": [
+    {
+      "id": "c1a29611bea8",
+      "title": "L'appello di Maignan: \"Evitiamo di buttare benzina sul fuoco. Rimaniamo sereni\"",
+      "url": "https://www.milannews.it/news/appello-maignan-evitiamo-buttare-benzina-fuoco-rimaniamo-sereni-634357",
+      "source": "milannews.it",
+      "date": "2026-10-29T00:06:52+00:00",
+      "summary": "Il Milan ha perso per la prima volta in campionato. Nella partita contro il Bologna i rossoneri hanno incassato quattro gol e alla fine de match ha parlato il capitano Mike Maignan."
+    },
+    {
+      "id": "8cac9ea20afa",
+      "title": "Inter, Diouf pensa già al derby: \"Non vediamo l'ora di provare a vincere\"",
+      "url": "https://www.milannews.it/l-avversario/inter-diouf-pensa-derby-non-vediamo-provare-vincere-634344",
+      "source": "milannews.it",
+      "date": "2026-10-29T00:00:13+00:00",
+      "summary": "Il centrocampista dell'Inter Andy Diouf, al termine della sfida contro il Venezia, ha rilasciato queste dichiarazioni anche sul derby di sabato contro il Milan: \"Non è facile giocare contro questa squadra."
+    },
+    {
+      "id": "b1cc4f50ff0f",
+      "title": "Modric verso il derby: \"Restiamo positivi, giochiamo in casa davanti ai nostri tifosi e sono sicuro che faremo una grande partita\"",
+      "url": "https://www.milannews.it/news/modric-derby-restiamo-positivi-giochiamo-casa-tifosi-sicuro-partita-634347",
+      "source": "milannews.it",
+      "date": "2026-10-28T23:50:14+00:00",
+      "summary": "Luka Modric, intervistato da Telelombardia dopo il ko casalingo del Milan contro il Bologna, ha dichiarato: \"Sì, è una sconfitta dura, non ce l'aspettavamo. Soprattutto quando sai che tra tre giorni c'è il derby."
+    },
+    {
+      "id": "7c4687bae92f",
+      "title": "Inter, Chivu verso il derby: \"Dobbiamo ritrovare un po' di energie mentali\"",
+      "url": "https://www.milannews.it/l-avversario/inter-chivu-derby-dobbiamo-ritrovare-energie-mentali-634345",
+      "source": "milannews.it",
+      "date": "2026-10-28T23:40:36+00:00",
+      "summary": "Dopo la vittoria contro il Venezia, Cristian Chivu, tecnico dell'Inter, è stato intervistato da Sky e ha parlato anche del derby di sabato sera contro il Milan: \"Come arriviamo al derby? Arriviamo con i punti che abbiamo, sapendo che  ..."
+    },
+    {
+      "id": "3cb821e21026",
+      "title": "Palladino si gode la vittoria in casa del Milan: \"Sempre bello vincere a San Siro\"",
+      "url": "https://www.milannews.it/news/palladino-bologna-bello-vincere-san-siro-634339",
+      "source": "milannews.it",
+      "date": "2026-10-28T23:30:04+00:00",
+      "summary": "(ANSA) - MILANO, 28 OTT - \"È sempre bello vincere a San Siro, non solo per me, ma soprattutto per i ragazzi che hanno fatto una grande partita sotto tutti gli aspetti. Abbiamo fatto una partita di spessore."
+    },
+    {
+      "id": "c60ce6779e0a",
+      "title": "Amorim sottolinea: “Poca reazione? Molti giocatori fuori, la squadra era stanca”",
+      "url": "https://www.milannews.it/news/amorim-sottolinea-poca-reazione-giocatori-fuori-squadra-stanca-634320",
+      "source": "milannews.it",
+      "date": "2026-10-28T23:20:04+00:00",
+      "summary": "Ruben Amorim, allenatore del Milan, è stato intervistato da Dazn al termine di Milan-Bologna, match terminato 2-4 in favore del Bologna.\n\nCome mai poca reazione?\n\n\"Molte partite, molti giocatori fuori."
+    },
+    {
+      "id": "dcbd803700df",
+      "title": "Amorim dopo il ko con il Bologna: \"Milan stanco, per il derby non so in quanti saremo\"",
+      "url": "https://www.milannews.it/news/amorim-milan-stanco-derby-so-634337",
+      "source": "milannews.it",
+      "date": "2026-10-28T23:10:05+00:00",
+      "summary": "(ANSA) - MILANO, 28 OTT - \"Molte partite e molti giocatori fuori. Ho sentito la squadra un po' stanca, con poca energia dal primo minuto."
+    },
+    {
+      "id": "3e3108353669",
+      "title": "Milan stanco e senza ricambi. Mercato estivo: chi ha sbagliato? A gennaio non sarà troppo tardi?",
+      "url": "https://www.milannews.it/editoriale/milan-stanco-ricambi-mercato-estivo-sbagliato-gennaio-tardi-634230",
+      "source": "milannews.it",
+      "date": "2026-10-28T23:00:01+00:00",
+      "summary": "Basterebbero due frasi secche, una ciascuna distribuita tra Amorim e Palladino, per cogliere l’elementare spiegazione della “derrota infernal” col Bologna."
+    },
+    {
+      "id": "17646ab0e72d",
+      "title": "Palladino sulla partita: “Sapevamo il Milan avesse tanto palleggio e ci venisse a prendere alti”",
+      "url": "https://www.milannews.it/l-avversario/palladino-partita-sapevamo-milan-palleggio-venisse-prendere-alti-634332",
+      "source": "milannews.it",
+      "date": "2026-10-28T22:40:18+00:00",
+      "summary": "Raffaele Palladino, allenatore del Bologna, è presente in conferenza stampa al termine di Milan-Bologna, sfida valida per la nona giornata di Serie A. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "596741275bee",
+      "title": "Modric a SportMediaset: \"Dobbiamo rialzarci subito. Derby? Daremo tutto per vincere\"",
+      "url": "https://www.milannews.it/news/modric-sportmediaset-dobbiamo-rialzarci-subito-derby-daremo-vincere-634355",
+      "source": "milannews.it",
+      "date": "2026-10-28T22:32:50+00:00",
+      "summary": "Intervistato da SportMediaset dopo Milan-Bologna, Luka Modric ha rilasciato queste parole: \"E' una sconfitta dura per noi, soprattutto perchè arriva a pochi giorni da una sfida importante come quella contro l'Inter."
+    },
+    {
+      "id": "e821dbef0571",
+      "title": "Federcalcio: Malagò pronto ad annunciare il quorum in Serie A",
+      "url": "https://www.milannews.it/news/federcalcio-malago-pronto-annunciare-quorum-serie-634336",
+      "source": "milannews.it",
+      "date": "2026-10-28T22:30:32+00:00",
+      "summary": "(ANSA) - ROMA, 28 OTT - Giovanni Malagò annuncerà domani di aver raggiunto il quorum (11 firme su 20) della Lega di serie A per la sua candidatura alla presidenza della Federcalcio. Lo apprende l'ANSA."
+    },
+    {
+      "id": "c3a83727b999",
+      "title": "Milan-Bologna 2-4: a fine partita i fischi di San Siro per la squadra di Amorim",
+      "url": "https://www.milannews.it/news/milan-bologna-2-4-partita-fischi-san-siro-squadra-amorim-634354",
+      "source": "milannews.it",
+      "date": "2026-10-28T22:19:56+00:00",
+      "summary": "Subito dopo il triplice fischio finale dell'arbitro Sacchi, che ha sancito la vittoria del Bologna sul campo del Milan, non si sono fatti attendere i fischi dei tifosi milanisti, ovviamente insoddisfatti di quello che hanno in campo e della brutt ..."
+    },
+    {
+      "id": "119771ecf8f8",
+      "title": "Modric says Milan ‘deserved’ defeat against Bologna: ‘We didn’t expect it’",
+      "url": "https://football-italia.net/modric-milan-deserve-defeat-bologna-not-expect/",
+      "source": "football-italia.net",
+      "date": "2026-10-28T22:18:35+00:00",
+      "summary": "Milan star Luka Modric admits the Rossoneri deserved to lose to Bologna, especially after their..."
+    },
+    {
+      "id": "5f7a1d42e121",
+      "title": "Serie A: il Napoli batte il Monza, la Juve va ko a Genova",
+      "url": "https://www.milannews.it/news/serie-a-napoli-batte-monza-juve-ko-genova-634353",
+      "source": "milannews.it",
+      "date": "2026-10-28T22:18:24+00:00",
+      "summary": "(ANSA) - ROMA, 28 OTT - Il Napoli vince 4-1 a Monza e aggancia a quota 14 la Juventus, battuta 2-0 in casa del Genoa."
+    },
+    {
+      "id": "b7ab0bdb9b96",
+      "title": "Nove gol subiti nelle ultime quattro gare. Il Milan è troppo vulnerabile: lo dice anche Maignan",
+      "url": "https://www.milannews.it/primo-piano/gol-subiti-ultime-gare-milan-vulnerabile-maignan-634352",
+      "source": "milannews.it",
+      "date": "2026-10-28T22:10:41+00:00",
+      "summary": "Dopo aver chiuso in vantaggio il primo tempo per 2-1, il Milan è calato vistosamente nel secondo tempo del match contro il Bologna e alla fine è arrivata una sconfitta molto dura e pesante."
+    },
+    {
+      "id": "37b513f37ec6",
+      "title": "Amorim rivela: “Ho capito da subito che la squadra non aveva energie, ci è mancata lucidità”",
+      "url": "https://www.milannews.it/news/amorim-rivela-ho-capito-squadra-energie-c-e-mancata-lucidita-634326",
+      "source": "milannews.it",
+      "date": "2026-10-28T22:00:22+00:00",
+      "summary": "Ruben Amorim, allenatore del Milan, ha parlato in conferenza stampa al termine di Milan-Bologna, sfida valida per la nona giornata di Serie A e terminata 2-4 in favore degli ospiti. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "4425657862a7",
+      "title": "Presidenza FIGC: Aic e Aiac pronti ad annunciare la candidatura di Galliani",
+      "url": "https://www.milannews.it/news/federcalcio-aic-aiac-pronti-annunciare-candidatura-galliani-634335",
+      "source": "milannews.it",
+      "date": "2026-10-28T21:50:16+00:00",
+      "summary": "(ANSA) - ROMA, 28 OTT - Calciatori e tecnici candideranno Adriano Galliani alle presidenza della Federcalcio. Lo apprende l'ANSA."
+    },
+    {
+      "id": "339e37e3b78b",
+      "title": "Amorim preoccupato: “Non so quanti giocatori avrò a disposizione, difficile fare il nostro calcio senza energie”",
+      "url": "https://www.milannews.it/news/amorim-preoccupato-non-so-giocatori-disposizione-difficile-calcio-energie-634322",
+      "source": "milannews.it",
+      "date": "2026-10-28T21:40:05+00:00",
+      "summary": "Il tecnico dei rossoneri Ruben Amorim è stato intervistato nel post partita di DAZN. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "589a4164834e",
+      "title": "Palladino: “Nel primo tempo il Milan pressava forte, nella ripresa invece…”",
+      "url": "https://www.milannews.it/l-avversario/palladino-nel-milan-pressava-forte-ripresa-invece-634331",
+      "source": "milannews.it",
+      "date": "2026-10-28T21:30:48+00:00",
+      "summary": "Raffaele Palladino, allenatore del Bologna, è presente in conferenza stampa al termine di Milan-Bologna, sfida valida per la nona giornata di Serie A. Di seguito un estratto delle sue parole."
+    },
     {
       "id": "7bb34cd21928",
       "title": "Amorim difende Camarda per il gol sbagliato e la palla persa sul 2-4",
@@ -26,52 +178,12 @@
       "summary": "Ruben Amorim, allenatore del Milan, ha parlato in conferenza stampa al termine di Milan-Bologna, sfida valida per la nona giornata di Serie A e terminata 2-4 in favore degli ospiti. Di seguito un estratto delle sue parole."
     },
     {
-      "id": "84abdcffe996",
-      "title": "Modric a TL: \"Una sconfitta dura che non ci aspettavamo, ma dobbiamo guardare avanti. Ecco cosa servirà nel derby\"",
-      "url": "https://www.milannews.it/news/modric-tl-una-sconfitta-dura-aspettavamo-dobbiamo-guardare-avanti-servira-derby-634346",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:58:27+00:00",
-      "summary": "Luka Modric, intervistato da Telelombardia dopo il ko casalingo del Milan contro il Bologna, ha dichiarato: \"Sì, è una sconfitta dura, non ce l'aspettavamo. Soprattutto quando sai che tra tre giorni c'è il derby."
-    },
-    {
-      "id": "7c372d2de503",
-      "title": "Amorim spiega la sconfitta di oggi e risponde così sul derby",
-      "url": "https://www.milannews.it/news/amorim-spiega-sconfitta-risponde-derby-634323",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:50:30+00:00",
-      "summary": "Ruben Amorim, allenatore del Milan, è stato intervistato da Dazn al termine di Milan-Bologna, match terminato 2-4 in favore del Bologna.\n\nÈ mancata energia?\n\n\"Iniziamo la partita subendo un gol, poi ribaltiamo le cose."
-    },
-    {
       "id": "0f88b47fad7b",
       "title": "“We let ourselves down” – Modric unhappy after ‘deserved’ Bologna defeat",
       "url": "https://sempremilan.com/we-let-ourselves-down-modric-bologna",
       "source": "sempremilan.com",
       "date": "2026-10-28T20:39:25+00:00",
       "summary": "Luka Modric has insisted that AC Milan cannot make excuses for themselves after they fell to a disappointing defeat to Bologna. Milan suffered their first league defeat of the season despite coming from behind in the first half to lead, thanks to an Alphadjo Cisse brace. Bologna struck three times i"
-    },
-    {
-      "id": "bf8162bd5c17",
-      "title": "Bologna, Skorupski a DAZN: \"Grande reazione, ci godiamo questa vittoria\"",
-      "url": "https://www.milannews.it/l-avversario/bologna-skorupski-dazn-grande-reazione-godiamo-vittoria-634334",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:38:28+00:00",
-      "summary": "Lukasz Skorupski, portiere del Bologna, ha commentato così a DAZN la vittoria contro il Milan a San Siro: \"La cosa più bella forse è stata la reazione della squadra. Eravamo sotto 2-1, alla fine abbiamo vinto 4-2."
-    },
-    {
-      "id": "c5d66e23da08",
-      "title": "Bologna, Mbangula a DAZN: \"Una delle serate più belle della mia vita\"",
-      "url": "https://www.milannews.it/l-avversario/bologna-mbangula-dazn-una-serate-belle-vita-634333",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:28:17+00:00",
-      "summary": "Samuel Mbangula, attaccante del Bologna autore di una tripletta contro il Milan, ha dichiarato a DAZN nel post-partita: \"E' una delle sere più belle della mia vita. Prima tripletta della mia carriera, spero non sia l'ultima."
-    },
-    {
-      "id": "08689cd296cd",
-      "title": "MN - Palladino: \"Non volevamo lasciare il possesso al Milan, in modo di non farli entrare in area di rigore\"",
-      "url": "https://www.milannews.it/news/mn-bologna-palladino-conferenza-milan-bologna-segui-diretta-live-634253",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:22:39+00:00",
-      "summary": "Raffaele Palladino, allenatore del Bologna, è presente in conferenza stampa al termine di Milan-Bologna, sfida valida per la nona giornata di Serie A."
     },
     {
       "id": "df26147c4c47",
@@ -82,28 +194,12 @@
       "summary": "Mike Maignan has claimed that AC Milan had a plan for the defeat against Bologna, but they did not manage to deploy it properly. It was an entertaining game at San Siro on Wednesday night, although the fact the stadium was half-empty by the final few minutes spoke volumes about why Milanisti might n"
     },
     {
-      "id": "3e831e2f4f58",
-      "title": "Bologna, Palladino a DAZN: \"Sapevo che il Milan sarebbe potuto calare nella ripresa. Chi è entrato ha fatto la differenza\"",
-      "url": "https://www.milannews.it/l-avversario/bologna-palladino-dazn-sapevo-milan-potuto-calare-ripresa-entrato-differenza-634328",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:14:09+00:00",
-      "summary": "Il tecnico del Bologna Raffaele Palladino ha commentato così a DAZN la vittoria contro il Milan a San Siro: \n\nGrande partita del Bologna."
-    },
-    {
       "id": "bd77a317adc7",
       "title": "Amorim: ‘Milan were tired from minute 1, I’m not here to defend myself’",
       "url": "https://football-italia.net/amorim-milan-tired-minute-1-not-defend-myself/",
       "source": "football-italia.net",
       "date": "2026-10-28T20:11:22+00:00",
       "summary": "Milan coach Ruben Amorim admits the Rossoneri looked ‘tired from minute one’ but insists injuries-related..."
-    },
-    {
-      "id": "0f27745011cc",
-      "title": "Modric a Sky: \"Brutta sconfitta, non ce lo aspettavamo. Infortuni? Niente alibi\"",
-      "url": "https://www.milannews.it/news/modric-sky-brutta-sconfitta-ce-aspettavamo-infortuni-alibi-634330",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:09:54+00:00",
-      "summary": "Nel post partita di Milan-Bologna il numero 14 rossonero Luka Modric è intervenuto ai microfoni di Sky Sport per commentare la brutta sconfitta di questa sera. \n\nBrutta sconfitta."
     },
     {
       "id": "90a77dba1041",
@@ -114,60 +210,12 @@
       "summary": "AC Milan failed to boost their confidence ahead of the Derby della Madonnina, instead doing the exact opposite, and Lorenzo shared his thoughts immediately after the full-time whistle.  Milan started the game poorly, as we have seen before, by conceding a goal within the first ten minutes. However, "
     },
     {
-      "id": "db3251ed5254",
-      "title": "MN - Maignan: \"Normale che parli oggi. Dobbiamo evitare di gettare benzina sul fuoco dicendo che siamo deboli\"",
-      "url": "https://www.milannews.it/news/mn-maignan-normale-parli-oggi-dobbiamo-evitare-gettare-benzina-fuoco-dicendo-deboli-634325",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:07:59+00:00",
-      "summary": "Mike Maignan, portiere del Milan, è presente in conferenza stampa al termine di Milan-Bologna, sfida valida per la nona giornata di Serie A e terminata 2-4 in favore degli ospiti."
-    },
-    {
-      "id": "4662cb66faf7",
-      "title": "MN - Amorim: \"Recuperi per il derby? Forse rischiamo qualcuno. Oggi ho avuto la sensazione che...\"",
-      "url": "https://www.milannews.it/news/mn-amorim-conferenza-milan-bologna-segui-diretta-live-634252",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:06:24+00:00",
-      "summary": "Ruben Amorim, allenatore del Milan, è presente in conferenza stampa al termine di Milan-Bologna, sfida valida per la nona giornata di Serie A e terminata 2-4 in favore degli ospiti."
-    },
-    {
       "id": "99988389de00",
       "title": "Amorim attempts to explain Milan’s breakdown against Bologna: “I could tell right from the start”",
       "url": "https://sempremilan.com/amorim-explain-milan-breakdown-bologna",
       "source": "sempremilan.com",
       "date": "2026-10-28T20:04:54+00:00",
       "summary": "AC Milan head coach Ruben Amorim believes that ‘fatigue’ set in, which was one of the factors behind the collapse against Bologna. Milan started the game badly on the night with Samuel Mbangula putting Bologna 1-0 up, but Alphadjo Cisse scored twice in relatively quick succession to put the Rossoner"
-    },
-    {
-      "id": "469f0d185d2e",
-      "title": "Maignan a DAZN: \"Non dobbiamo perdere la testa perchè abbiamo perso, ma capire il perchè\"",
-      "url": "https://www.milannews.it/news/maignan-dazn-non-dobbiamo-perdere-testa-perso-capire-perche-634324",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:03:58+00:00",
-      "summary": "Intervenuto a DAZN  dopo Milan-Bologna, Mike Maignan ha rilasciato queste dichiarazioni: \n\nCos'è successo stasera? \n\"Abbiamo perso perchè il Bologna ha fatto meglio di noi."
-    },
-    {
-      "id": "b22092f46971",
-      "title": "Serie A, l'Inter soffre a Venezia ma vince 2-0. 0-0 tra Parma e Udinese",
-      "url": "https://www.milannews.it/news/serie-a-inter-vince-venezia-milan-crolla-bologna-634317",
-      "source": "milannews.it",
-      "date": "2026-10-28T20:00:17+00:00",
-      "summary": "(ANSA) - ROMA, 28 OTT - L'Inter soffre a Venezia ma si impone 2-0 e porta a casa tre punti che le permettono di restare in testa con la Lazio."
-    },
-    {
-      "id": "3c816c0124f6",
-      "title": "MN - Casale: \"Milan in vantaggio in modo un po' sciocco. Poi per stanchezza ci hanno concesso spazi\"",
-      "url": "https://www.milannews.it/news/mn-casale-milan-vantaggio-sciocco-stanchezza-concesso-spazi-634321",
-      "source": "milannews.it",
-      "date": "2026-10-28T19:59:19+00:00",
-      "summary": "Niccolò Casale, difensore del Bologna, è presente in conferenza stampa al termine di Milan-Bologna, sfida valida per la nona giornata di Serie A."
-    },
-    {
-      "id": "d016dd72b50b",
-      "title": "Amorim a DAZN: \"Dopo un minuto ho capito che non avevamo energia. Ma c'è un allenatore nuovo da due mesi...\"",
-      "url": "https://www.milannews.it/primo-piano/amorim-dopo-minuto-capito-energia-allenatore-mesi-634319",
-      "source": "milannews.it",
-      "date": "2026-10-28T19:53:11+00:00",
-      "summary": "Ruben Amorim, allenatore del Milan, è stato intervistato da Dazn al termine di Milan-Bologna, match terminato 2-4 in favore del Bologna.\n\nCome mai poca reazione?\n\n\"Molte partite, molti giocatori fuori."
     },
     {
       "id": "a841ca44f2d0",
@@ -186,22 +234,6 @@
       "summary": "AC Milan gave themselves a massive headache ahead of the derby and player mistakes can definitely be described as culprits. Below are the Rossoneri’s ratings for the defeat against Bologna.  It was a game that Ruben Amorim and his men wanted to win to boost their confidence ahead of Saturday’s Derby"
     },
     {
-      "id": "17ecd09b3894",
-      "title": "Serie A, il Milan cade a San Siro col Bologna: la classifica aggiornata",
-      "url": "https://www.milannews.it/news/serie-a-milan-cade-san-siro-bologna-classifica-aggiornata-634316",
-      "source": "milannews.it",
-      "date": "2026-10-28T19:40:32+00:00",
-      "summary": "Al termine delle gare delle 18:30 ed in attesa dei due posticipi delle 20:45, questa è la classifica aggiornata."
-    },
-    {
-      "id": "3d56492fc187",
-      "title": "Milan-Bologna 2-4, voti e pagelle: Amorim e De Winter da 4.5. Cisse illude, 6.5",
-      "url": "https://www.milannews.it/pagelle/milan-bologna-2-4-voti-pagelle-amorim-de-winter-4-5-cisse-illude-6-5-634315",
-      "source": "milannews.it",
-      "date": "2026-10-28T19:29:23+00:00",
-      "summary": "Il Milan cade per 4-2 contro il Bologna, staccando la spina poco prima dei 60’ con dei cambi di Amorim che mandano completamente in tilt tutto il sistema operativo rossonero. La sua squadra non riaccende la luce e prende anche il quarto."
-    },
-    {
       "id": "4777f2df2c94",
       "title": "AC Milan 2-4 Bologna: Second half collapse sees Amorim suffer first league defeat",
       "url": "https://sempremilan.com/ac-milan-2-4-bologna-match-report",
@@ -210,36 +242,12 @@
       "summary": "AC Milan suffered a second-half collapse against Bologna at San Siro, going from leading 2-1 to eventually losing 4-2. Things didn’t start well for Milan when Samuel Mbangula put the away side in front early on, but then Alphadjo Cisse netted a quick fire brace to turn things back in the Rossoneri’s"
     },
     {
-      "id": "e76b7983a96c",
-      "title": "Milan-Bologna (2-4): finisce qui. Rossoneri male nella ripresa. Primo ko in Serie A",
-      "url": "https://www.milannews.it/primo-piano/milan-bologna-0-0-breve-fischio-d-inizio-match-634294",
-      "source": "milannews.it",
-      "date": "2026-10-28T19:29:00+00:00",
-      "summary": "- Finisce con una sonora sconfitta per i rossoneri il match contro il Bologna che nel secondo tempo ribalta il risultato e sbanca San Siro 10 anni dopo l'ultima volta."
-    },
-    {
       "id": "350d0cbd9327",
       "title": "Serie A | Milan 2-4 Bologna: Mbangula hat-trick inflicts first Amorim league defeat",
       "url": "https://football-italia.net/serie-a-milan-2-4-bologna-mbangula-hat-trick/",
       "source": "football-italia.net",
       "date": "2026-10-28T19:25:30+00:00",
       "summary": "Milan fumbled the lead with an Alphadjo Cisse brace, as Samuel Mbangula’s hat-trick gave Bologna..."
-    },
-    {
-      "id": "1430a9986ec3",
-      "title": "Milan-Bologna 2-4: il tabellino del match di San Siro",
-      "url": "https://www.milannews.it/news/milan-bologna-2-4-tabellino-match-san-siro-634314",
-      "source": "milannews.it",
-      "date": "2026-10-28T19:25:07+00:00",
-      "summary": "Questo il tabellino di Milan-Bologna, sfida valida per la 9^ giornata di Serie A:\n\nMILAN-BOLOGNA 2-4\n\nMARCATORI: 8' Mbangula, 14' Cisse, 27' Cisse, 60' aut."
-    },
-    {
-      "id": "7f685ab5a8f8",
-      "title": "MIL-BOL (2-4): ultimo cambio di Amorim, dentro Comotto per Ramos",
-      "url": "https://www.milannews.it/news/mil-bol-2-4-cambio-amorim-comotto-ramos-634313",
-      "source": "milannews.it",
-      "date": "2026-10-28T19:20:58+00:00",
-      "summary": "Dopo il 4-2 del Bologna, Ruben Amorim decide di togliere dal campo all'87' Gonçalo Ramos e inserisce al suo posto Christian Comotto."
     },
     {
       "id": "5f7f4eb5fd4b",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-10-26T18:10:00+00:00",
       "summary": "Ruben Loftus-Cheek will miss at least two weeks after tests confirmed a muscle tear in..."
-    },
-    {
-      "id": "e8c646be4a59",
-      "title": "Baresi mural outside Casa Milan vandalised again, weeks after being restored",
-      "url": "https://football-italia.net/baresi-mural-casa-milan-vandalised-again/",
-      "source": "football-italia.net",
-      "date": "2026-10-26T16:58:02+00:00",
-      "summary": "The mural of Franco Baresi outside Casa Milan has been vandalised for a second time,..."
     }
   ]
 }
