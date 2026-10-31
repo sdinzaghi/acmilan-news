@@ -1,13 +1,117 @@
 {
-  "lastUpdated": "2026-10-31T02:00:18.719782+00:00",
+  "lastUpdated": "2026-10-31T08:19:45.004767+00:00",
   "articles": [
+    {
+      "id": "e8cfc3798638",
+      "title": "Derby speciale. La Gazzetta: \"Amorim lancia il Milan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/derby-speciale-gazzetta-amorim-lancia-milan-634606",
+      "source": "milannews.it",
+      "date": "2026-10-31T08:12:24+00:00",
+      "summary": "Quello di stasera sarà un derby speciale soprattutto per Ruben Amorim, al suo esordio assoluto nella stracittadina milanese."
+    },
+    {
+      "id": "5a549845768d",
+      "title": "Rabbia Milan, muro Inter. Tuttosport: \"Chi la spunta?\"",
+      "url": "https://www.milannews.it/rassegna-stampa/rabbia-milan-muro-inter-tuttosport-chi-spunta-634605",
+      "source": "milannews.it",
+      "date": "2026-10-31T08:00:31+00:00",
+      "summary": "Quello di stasera sarà un derby da brividi, soprattutto per il Milan, non solo perché si gioca nella notte di Halloween, ma perché la formazione di Ruben Amorim rischia di scivolare a -10 dai rivali cittadini in classifica, allon ..."
+    },
+    {
+      "id": "680d98fb821a",
+      "title": "Cardinale: \"Voglio questo derby più di ogni altra cosa. I ragazzi vogliono vincere\"",
+      "url": "https://www.milannews.it/primo-piano/cardinale-voglio-derby-altra-cosa-ragazzi-vogliono-vincere-634610",
+      "source": "milannews.it",
+      "date": "2026-10-31T07:48:00+00:00",
+      "summary": "Le parole di Gerry Cardinale, proprietario del Milan, ai microfoni di Carlo Pellegatti al termine della cena che ha organizzato ieri in un ristorante nel centro di Milano in compagnia di alcune leggende, e non solo, rossonere."
+    },
+    {
+      "id": "18edcfde25d0",
+      "title": "Derby da brividi. La Gazzetta: \"Milan occhio al -10. Inter che digiuno\"",
+      "url": "https://www.milannews.it/rassegna-stampa/derby-brividi-gazzetta-milan-occhio-10-inter-digiuno-634603",
+      "source": "milannews.it",
+      "date": "2026-10-31T07:36:57+00:00",
+      "summary": "Quella di San Siro sarà una vera e propria notte da brividi."
+    },
+    {
+      "id": "be4ff5cf7872",
+      "title": "Milan-Inter da paura nella notte di Halloween. Tuttosport: \"Brividerby\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-inter-paura-notte-halloween-tuttosport-brividerby-634602",
+      "source": "milannews.it",
+      "date": "2026-10-31T07:24:27+00:00",
+      "summary": "Il conto alla rovescia è ufficialmente partito, ed il fatto che una partita del genere si giocherà nella notte di Halloween rende il tutto ancora più suggestivo."
+    },
+    {
+      "id": "ddfb8b4b08fc",
+      "title": "Derby a San Siro. Il CorSport: \"La paura del Diavolo\"",
+      "url": "https://www.milannews.it/rassegna-stampa/derby-san-siro-corsport-la-paura-diavolo-634601",
+      "source": "milannews.it",
+      "date": "2026-10-31T07:12:43+00:00",
+      "summary": "Oggi le luci di San Siro si accenderanno per uno degli ultimi derby della sua storia, considerando che a partire dal 2031 la stracittadina milanese si giocherà nel modernissimo Generali Stadium."
+    },
     {
       "id": "0544c4bde16c",
       "title": "PROBABILE FORMAZIONE - Verso Milan-Inter: Amorim cambia ancora! Sorpresa dietro, dubbio davanti",
       "url": "https://www.milannews.it/news/probabile-formazione-milan-inter-amorim-derby-rabiot-pulisic-modric-gila-634435",
       "source": "milannews.it",
-      "date": "2026-10-31T00:45:15+00:00",
+      "date": "2026-10-31T07:05:15+00:00",
       "summary": "Dopo la pesante sconfitta casalinga nell'infrasettimanale contro il Bologna, il Milan di Ruben Amorim si giocherà il primo derby stagionale, da disputare nel San Siro in versione milanista."
+    },
+    {
+      "id": "9b7c0e126299",
+      "title": "Milan-Inter, quote marcatore",
+      "url": "https://www.milannews.it/scommesse/pronostici/milan-inter-quote-marcatore-634468",
+      "source": "milannews.it",
+      "date": "2026-10-31T07:01:38+00:00",
+      "summary": "Tornare in campo per dimenticare l'ultimo ko, il Milan è chiamato a rialzarsi dopo il 2-4 subito contro il Bologna nel derby. Tutto questo con diverse assenze."
+    },
+    {
+      "id": "ca726ea5a9ec",
+      "title": "Il derby del Milan passa da Rabiot e Pulisic: Amorim cerca solidità e il risveglio di Ramos",
+      "url": "https://www.milannews.it/primo-piano/derby-milan-passa-rabiot-pulisic-amorim-cerca-solidita-risveglio-ramos-634600",
+      "source": "milannews.it",
+      "date": "2026-10-31T07:00:00+00:00",
+      "summary": "Il derby arriva forse nel momento più delicato della stagione del Milan, reduce da due sconfitte ed un pareggio nelle ultime sei partite."
+    },
+    {
+      "id": "9a76c230d9dc",
+      "title": "Serie A, al via la 10^ giornata: il programma completo con date, orari e guida tv",
+      "url": "https://www.milannews.it/news/serie-a-via-10-giornata-programma-completo-date-orari-guida-tv-634589",
+      "source": "milannews.it",
+      "date": "2026-10-31T06:48:00+00:00",
+      "summary": "Dopo il turno infrasettimanale che ha visto i rossoneri cadere in casa contro il Bologna, parte oggi la decima giornata di Serie A. Di seguito il programma completo con date, orari e guida tv."
+    },
+    {
+      "id": "5980986e7dcb",
+      "title": "Serie A, subito in campo dopo l’infrasettimanale: 2 gare oltre il derby di Milano",
+      "url": "https://www.milannews.it/news/serie-a-campo-l-infrasettimanale-2-gare-derby-milano-634590",
+      "source": "milannews.it",
+      "date": "2026-10-31T06:36:00+00:00",
+      "summary": "Dopo il turno infrasettimanale che ha visto i rossoneri cadere in casa contro il Bologna, parte oggi la decima giornata di Serie A."
+    },
+    {
+      "id": "646396083ec6",
+      "title": "UFFICIALE: Gabriele Borsa firma il suo primo contratto da professionista con Milan Futuro",
+      "url": "https://www.milannews.it/milan-futuro/ufficiale-gabriele-borsa-firma-contratto-professionista-milan-634591",
+      "source": "milannews.it",
+      "date": "2026-10-31T06:24:00+00:00",
+      "summary": "Nella giornata di ieri è arrivata una bella notizia per il giovanissimo attaccante classe 2010 Gabriele Borsa. Il ragazzo ha infatti firmato il suo primo contratto da professionista che lo legherà a Milan Futuro."
+    },
+    {
+      "id": "66fce2ab7d38",
+      "title": "Serie A, la classifica aggiornata alla partenza della 10^ giornata",
+      "url": "https://www.milannews.it/news/serie-a-634588",
+      "source": "milannews.it",
+      "date": "2026-10-31T06:12:00+00:00",
+      "summary": "Parte oggi la decima giornata di Serie A che, questa sera, vedrà giocarsi il primo derby stagionale. Di seguito la classifica aggiornata dopo la giornata precedente."
+    },
+    {
+      "id": "77c59bbf77f8",
+      "title": "Oggi è il derby day, la probabile formazione dei rossoneri: un ballottaggio",
+      "url": "https://www.milannews.it/news/derby-day-probabile-formazione-rossoneri-ballottaggio-634587",
+      "source": "milannews.it",
+      "date": "2026-10-31T06:00:00+00:00",
+      "summary": "Dopo la pesante sconfitta casalinga nell'infrasettimanale contro il Bologna, il Milan di Ruben Amorim si giocherà il primo derby stagionale, da disputare nel San Siro in versione milanista."
     },
     {
       "id": "9e5027da4e73",
@@ -56,110 +160,6 @@
       "source": "milannews.it",
       "date": "2026-10-30T23:10:32+00:00",
       "summary": "Nel suo canale YouTube, il collega Sandro Sabatini ha commentato e analizzato la sconfitta del Milan contro il Bologna e le prestazioni dei singoli. Queste le sue parole."
-    },
-    {
-      "id": "5eaf7386404f",
-      "title": "L'anticipo di Galli - Diavolo, ad Halloween fai uno scherzetto all’Inter!",
-      "url": "https://www.milannews.it/editoriale/galli-diavolo-halloween-scherzetto-all-inter-634599",
-      "source": "milannews.it",
-      "date": "2026-10-30T23:00:01+00:00",
-      "summary": "C’è un po’ di accanimento, mi pare. Mi pare che il tifoso milanista, al risveglio, abbia come primo pensiero quello ditrovare l’errore."
-    },
-    {
-      "id": "0d145b711db3",
-      "title": "Galliani alla cena con Cardinale: “Vedere Kakà emozione violenta, certi amori non finiscono mai. Sul derby vi dico che”",
-      "url": "https://www.milannews.it/news/galliani-cena-cardinale-vedere-kaka-emozione-violenta-amori-finiscono-mai-derby-dico-che-634598",
-      "source": "milannews.it",
-      "date": "2026-10-30T22:50:08+00:00",
-      "summary": "Ai margini della cena organizzata da Cardinale nella serata della vigilia del derby (LEGGI QUI), i microfoni di Sky Sport hanno intercettato l'ex amministratore delegato rossonero Adriano Galliani che ha rilasciato le seguenti dichiarazioni."
-    },
-    {
-      "id": "20dd79c192a1",
-      "title": "Bologna, Palladino è sicuro: \"Se dimostriamo di essere quelli che hanno battuto il Milan allora possiamo dare fastidio a tutti\"",
-      "url": "https://www.milannews.it/news/calcio-palladino-se-san-siro-daremo-fastidio-tutti-634575",
-      "source": "milannews.it",
-      "date": "2026-10-30T22:40:22+00:00",
-      "summary": "(ANSA) - BOLOGNA, 30 OTT - \"Monza tappa fondamentale della mia mia vita, ma domani voglio tre punti fondamentali per la nostra classifica\". Raffaele Palladino non dimentica il passato ma guarda al futuro."
-    },
-    {
-      "id": "106c3be31884",
-      "title": "La Liga deplora le dichiarazioni di Mbappé su Mao e porge le proprie scuse alla Cina",
-      "url": "https://www.milannews.it/news/spagna-liga-deplora-parole-mbappe-mao-634414",
-      "source": "milannews.it",
-      "date": "2026-10-30T22:30:55+00:00",
-      "summary": "(ANSA) - ROMA, 27 OTT - La Liga spagnola \"deplora\" le dichiarazioni di Mbappé su Mao Zedong e porge le proprie scuse alla Cina."
-    },
-    {
-      "id": "2f752fefdaa9",
-      "title": "Le ulitme di Sky sulla formazione del Derby: Pulisic largo a sinistra, Rabiot dietro a Ramos",
-      "url": "https://www.milannews.it/news/ulitme-stefano-formaizone-pulisic-largo-sinistra-rabiot-ramos-634597",
-      "source": "milannews.it",
-      "date": "2026-10-30T22:29:50+00:00",
-      "summary": "Peppe Di Stefano ha rivelato in diretta a Sky Sport delle novità importanti in vista del derby di domani."
-    },
-    {
-      "id": "7a49e78a0667",
-      "title": "Peppe Di Stefano rivela com’è andata e cosa ha fatto Gerry Cardinale alla cena pre-derby",
-      "url": "https://www.milannews.it/news/peppe-stefano-rivela-com-e-andata-gerry-cardinale-cena-pre-derby-634596",
-      "source": "milannews.it",
-      "date": "2026-10-30T22:25:57+00:00",
-      "summary": "Peppe di Stefano, in diretta a Sky Sport, ha rivelato alcuni dettagli e retroscena sulla cena che c'è stata questa sera organizzata da Cardinale con ex leggende rossonere ed istituzioni (LEGGI QUI). Di seguito le sue parole."
-    },
-    {
-      "id": "a015a5b6bf98",
-      "title": "Era da tre anni che un calciatore del Milan non segnava una doppietta nei primi 30 minuti",
-      "url": "https://www.milannews.it/news/calciatore-milan-segnava-doppietta-primi-30-minuti-634371",
-      "source": "milannews.it",
-      "date": "2026-10-30T22:20:01+00:00",
-      "summary": "Prima di Alphadjo Cisse, l'ultimo giocatore del Milan che aveva segnato una doppietta nei primi 30 minuti di un gioco in un match di Serie A era stato Olivier Giroud il 20 maggio 2023 contro la Sampdoria. Lo riporta Opta."
-    },
-    {
-      "id": "322f1b0fe098",
-      "title": "Inter, Akanji: \"Cosa temo del Milan? Le ripartenze. Il risultato del derby dipenderà soprattutto da noi\"",
-      "url": "https://www.milannews.it/l-avversario/inter-akanji-cosa-temo-milan-ripartenze-risultato-derby-dipendera-noi-634571",
-      "source": "milannews.it",
-      "date": "2026-10-30T22:10:00+00:00",
-      "summary": "Manuel Akanji, difensore dell'Inter, ha parlato così a Sky in vista del derby contro il Milan:\n\nCome arriva l’Inter a questa partita? E tu come stai, con tutte queste partite ravvicinate?\n“Fisicamente sto bene, non mi sento  ..."
-    },
-    {
-      "id": "a01259c25138",
-      "title": "MN - Füllkrug svela: \"Jashari il mio più grande amico al Milan\"",
-      "url": "https://www.milannews.it/news/mn-634433",
-      "source": "milannews.it",
-      "date": "2026-10-30T22:00:00+00:00",
-      "summary": "In esclusiva per MilanNews.it, Alessandro Schiavone ha incontrato Füllkrug al Signal Iduna Park di Dortmund, dove il centravanti ha ripercorso la sua esperienza in rossonero, senza nascondere il legame con il Milan e i suoi ex compagni."
-    },
-    {
-      "id": "e64dad86d917",
-      "title": "Milan, Diego Moreira: \"Al Milan abbiamo tutto per fare bene perché siamo una grande squadra\"",
-      "url": "https://www.milannews.it/news/moreira-634570",
-      "source": "milannews.it",
-      "date": "2026-10-30T21:50:00+00:00",
-      "summary": "Diego Moreira è pronto a vivere il suo primo derby milanese. Domani alle 20."
-    },
-    {
-      "id": "7b7f63610e21",
-      "title": "Graziani: \"Bisogna capire, anche se si è già in ritardo, quale sia il problema di Goncalo Ramos all'interno del Milan\"",
-      "url": "https://www.milannews.it/news/graziani-si-tratta-episodio-isolato-milan-beh-vedremo-subito-634377",
-      "source": "milannews.it",
-      "date": "2026-10-30T21:40:45+00:00",
-      "summary": "Ciccio Graziani, ex calciatore e attuale opinionista, si è così espresso a RaiSport commentando la sconfitta del Milan contro il Bologna: \"È difficile per il Milan perché oltretutto, come tante altre squadre, ha molti ..."
-    },
-    {
-      "id": "b810b0add926",
-      "title": "Leao si sblocca: primo gol del portoghese con la maglia del Galatasaray su calcio di rigore",
-      "url": "https://www.milannews.it/gli-ex/leao-sblocca-gol-portoghese-maglia-galatasaray-calcio-rigore-634595",
-      "source": "milannews.it",
-      "date": "2026-10-30T21:30:25+00:00",
-      "summary": "Dopo diversi mesi ed un ambientamento tutt'altro che semplice, l'ex numero 10 rossoneri Rafa Leao ha trovato il primo gol ufficiale con la maglia del Galatasaray."
-    },
-    {
-      "id": "91b655460170",
-      "title": "Derby terreno di conquista per il Milan: cinque vittorie nelle ultime sette",
-      "url": "https://www.milannews.it/news/derby-terreno-conquista-milan-vittorie-ultime-634513",
-      "source": "milannews.it",
-      "date": "2026-10-30T21:20:58+00:00",
-      "summary": "Il Milan arriva al derby con un dato che pesa più di qualsiasi pronostico: i rossoneri hanno vinto cinque degli ultimi sette incroci contro l'Inter, pareggiando gli altri due."
     },
     {
       "id": "5b51625f16cb",
