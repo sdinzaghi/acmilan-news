@@ -1,6 +1,262 @@
 {
-  "lastUpdated": "2026-10-31T15:01:02.652573+00:00",
+  "lastUpdated": "2026-10-31T19:42:50.979040+00:00",
   "articles": [
+    {
+      "id": "7bcab17ad9b0",
+      "title": "Marotta: ‘Milan vs. Inter an advertisement for Italian football’",
+      "url": "https://football-italia.net/marotta-milan-inter-advertisement-football/",
+      "source": "football-italia.net",
+      "date": "2026-10-31T19:38:08+00:00",
+      "summary": "Inter President Beppe Marotta hopes the clash with Milan is ‘an advertisement for Italian football’..."
+    },
+    {
+      "id": "4489182aa1af",
+      "title": "Serie A Liveblog: Milan vs. Inter, Udinese vs. Roma, Bologna vs. Monza",
+      "url": "https://football-italia.net/serie-a-liveblog-milan-inter-udi-roma-bol-mon/",
+      "source": "football-italia.net",
+      "date": "2026-10-31T19:35:40+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "feb6d095c2fe",
+      "title": "Kaká a DAZN: \"Penso che \"Non è brasiliano però...\" si possa cantare anche per Pulisic\"",
+      "url": "https://www.milannews.it/news/kaka-dazn-penso-non-brasiliano-pero-cantare-pulisic-634691",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:34:25+00:00",
+      "summary": "Ricardo Kaká è tornato a San Siro per il Derby e ha parlato a DAZN nel pre partita. Le sue parole:\n\n“È molto difficile dire a parole le emozioni che sento qui a San Siro con i tifosi milanisti."
+    },
+    {
+      "id": "d63c9b2315c7",
+      "title": "Kakà a Sky: \"Ieri Cardinale ha fatto un discorso molto bello: tutti noi milanisti abbiamo molta fiducia\"",
+      "url": "https://www.milannews.it/news/kaka-sky-ieri-cardinale-discorso-bello-milanisti-fiducia-634690",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:33:03+00:00",
+      "summary": "Ricardo Kakà, leggenda del Milan, è intervenuto nel pre-partita di Milan-Inter su Sky Sport 24, parlando delle sue emozioni nel tornare a vivere da tifoso serate di questo tipo."
+    },
+    {
+      "id": "76f09612a769",
+      "title": "Cardinale a DAZN: \"Il mio legame con Amorim è indistruttibile. Il Generali Stadium sarà una Scala del Calcio 2.0\"",
+      "url": "https://www.milannews.it/news/cardinale-dazn-il-legame-amorim-indistruttibile-generali-stadium-scala-calcio-2-0-634689",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:28:37+00:00",
+      "summary": "Il patron del Milan Gerry Cardinale ha parlato, per la prima volta da quando è il numero uno dei rossoneri, in diretta su DAZN. Lo statunitense è stato intervistato prima del Derby di questa sera contro l’Inter."
+    },
+    {
+      "id": "0ee653393ae7",
+      "title": "Romano anticipa Cardinale e annuncia: Krösche sarà il nuovo Head of Football del Milan",
+      "url": "https://www.milannews.it/calciomercato-milan/romano-anticipa-cardinale-annuncia-krosche-head-of-football-milan-634686",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:28:00+00:00",
+      "summary": "Nel pre partita di Milan-Inter, sfida valida per la decima giornata del campionato di Serie A Enilive, il proprietario del Milan Gerry Cardinale ha parlato ai microfoni di Sky Sport dicendo: \"[."
+    },
+    {
+      "id": "7924643a1c4c",
+      "title": "Calhanoglu: ‘Inter must avoid Milan provocation’ in tense derby",
+      "url": "https://football-italia.net/calhanoglu-inter-must-avoid-milan-provocation/",
+      "source": "football-italia.net",
+      "date": "2026-10-31T19:26:22+00:00",
+      "summary": "Hakan Calhanoglu urges Inter not to ‘fall into the trap of provocation’ in the Derby..."
+    },
+    {
+      "id": "d1cc129d229e",
+      "title": "Inter, Calhanogu: \"Il derby è sempre il derby. Quello che è successo in passato, non conta\"",
+      "url": "https://www.milannews.it/news/inter-calhanogu-il-derby-derby-successo-passato-conta-634685",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:25:11+00:00",
+      "summary": "Hakan Calhanoglu, centrocampista dell'Inter e grande ex del Derby contro il Milan, è intervenuto ai microfoni di Sky Sport 24 nel pre-gara.\n\nCome la vedi?\n\n\"Il derby è sempre il derby."
+    },
+    {
+      "id": "01e38ea529f6",
+      "title": "De Winter a Sky: \"Cerchiamo energia, ci è mancata col Bologna\"",
+      "url": "https://www.milannews.it/news/de-winter-sky-cerchiamo-energia-mancata-bologna-634684",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:23:00+00:00",
+      "summary": "Koni De Winter, difensore del Milan, ha parlato ai microfoni di Sky Sport nel pre-gara del Derby contro l'Inter."
+    },
+    {
+      "id": "3dd41267bf17",
+      "title": "De Winter insists Milan are ‘confident’ in their foundation ahead of Inter clash",
+      "url": "https://sempremilan.com/de-winter-milan-confident-inter-clash",
+      "source": "sempremilan.com",
+      "date": "2026-10-31T19:21:31+00:00",
+      "summary": "Koni De Winter has shared thoughts on tonight’s big game between AC Milan and Inter, insisting that the Rossoneri are confident in their abilities.  Wednesday’s clash was a misstep for Milan, to say the least, as they suffered a 4-2 defeat in front of their home fans. Instead of boosting their confi"
+    },
+    {
+      "id": "587a2c63d0e5",
+      "title": "Cardinale svela: \"Ci sarà un annuncio a breve\". Potrebbe essere Krösche",
+      "url": "https://www.milannews.it/news/cardinale-svela-ci-annuncio-breve-krosche-634681",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:21:30+00:00",
+      "summary": "Gerry Cardinale, proprietario del Milan, è intervenuto ai microfoni di Sky Sport 24 nel pre-gara del Derby contro l'Inter dicendo: \"Vogliamo essere attivi per tanto tempo: voglio e vorrò sempre essere a ..."
+    },
+    {
+      "id": "68873c979904",
+      "title": "Cardinale issues bold comments ahead of the derby: “My goal is to bring Milan back to the top”",
+      "url": "https://sempremilan.com/cardinale-bring-milan-back-to-top",
+      "source": "sempremilan.com",
+      "date": "2026-10-31T19:19:18+00:00",
+      "summary": "AC Milan owner Gerry Cardinale has reiterated his backing of head coach Ruben Amorim, and spoke about a desire to invest more in the squad. Milan are looking for a bounce-back after the midweek defeat against Bologna, a game that they led 2-1 at half-time but eventually lost 4-2 after a second-half "
+    },
+    {
+      "id": "a0ef33c149f3",
+      "title": "Cardinale: ‘Bring Milan back to the top, I’m sticking with Amorim’",
+      "url": "https://football-italia.net/cardinale-bring-milan-back-to-the-top-amorim/",
+      "source": "football-italia.net",
+      "date": "2026-10-31T19:17:47+00:00",
+      "summary": "Gerry Cardinale insists he wants to ‘get Milan back to the top’ and win the..."
+    },
+    {
+      "id": "0389f33b407a",
+      "title": "Inter, Marotta: \"Bisogna vincere. Stadio? Progetto stratosferico\"",
+      "url": "https://www.milannews.it/news/inter-marotta-bisogna-vincere-stadio-progetto-stratosferico-634680",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:16:00+00:00",
+      "summary": "Giuseppe Marotta, presidente dell'Inter, è intervenuto ai microfoni di Sky Sport 24 nel pre-gara del Derby contro il Milan.\n\nSan Siro, oggi si incontra passato e presente con il futuro."
+    },
+    {
+      "id": "b0c72fedacf3",
+      "title": "Presidente CONI: \"Sono molto contento di aver parlato con Gerry Cardinale. Ho apprezzato la sua visione e la progettualità\"",
+      "url": "https://www.milannews.it/news/presidente-coni-sono-contento-parlato-gerry-cardinale-apprezzato-visione-progettualita-634674",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:11:26+00:00",
+      "summary": "Il Presidente del CONI Luciano Buonfiglio è stato intervistato da DAZN nel pre partita di Milan-Inter e ha parlato così di Gerry Cardinale, proprietario del Milan e numero uno di RedBird:\n\n“Sono molto contento di aver parlato in ..."
+    },
+    {
+      "id": "54253aa51e74",
+      "title": "Inter, Calhanoglu a DAZN: \"Dobbiamo rimanere concentrati per non cadere nelle provocazioni degli avversari\"",
+      "url": "https://www.milannews.it/l-avversario/inter-calhanoglu-dazn-dobbiamo-rimanere-concentrati-cadere-provocazioni-avversari-634677",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:11:12+00:00",
+      "summary": "Hakan Calhanoglu, come al solito grande ex della sfida, ha parlato a DAZN nel pre partita di Milan-Inter. Le sue dichiarazioni:\n\nChivu ha detto che bisogna tenere sempre alta l'attenzione."
+    },
+    {
+      "id": "771ed769593e",
+      "title": "De Winter a DAZN: \"Non c'era bisogno che Amorim ci motivasse, tutti sanno l'importanza del Derby\"",
+      "url": "https://www.milannews.it/news/de-winter-dazn-non-bisogno-amorim-motivasse-sanno-importanza-derby-634676",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:09:40+00:00",
+      "summary": "Koni De Winter ha parlato a DAZN prima di Milan-Inter. Le sue parole:\n\nMissione: accorciare le distanze in classifica."
+    },
+    {
+      "id": "8c09f0dd852c",
+      "title": "Cardinale a Sky: \"Sarò attivo in ogni finestra di mercato: ci sarà un annuncio a breve. Amorim è il mio allenatore\"",
+      "url": "https://www.milannews.it/primo-piano/cardinale-sky-saro-attivo-finestra-mercato-annuncio-breve-amorim-allenatore-634675",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:02:43+00:00",
+      "summary": "Gerry Cardinale, proprietario del Milan, è intervenuto ai microfoni di Sky Sport 24 nel pre-gara del Derby contro l'Inter\n\nQuali sono le sue sensazioni?\n\n\"È incredibile vedere tutta questa gente, non pot ..."
+    },
+    {
+      "id": "0e3c45e1d1f4",
+      "title": "Il pronostico di Zamorano sul derby di questa sera tra Milan e Inter",
+      "url": "https://www.milannews.it/news/zamorano-pronostico-derby-non-conta-favorito-634617",
+      "source": "milannews.it",
+      "date": "2026-10-31T19:00:40+00:00",
+      "summary": "Intervistato dai colleghi de La Gazzetta dello Sport, l'ex Inter Zamorano ha presentato il derby di stasera dicendo la sua anche sul Milan di Ruben Amorim. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "278a927db340",
+      "title": "AC Milan vs. Inter: Live updates, commentary and SempreMilan watchalong",
+      "url": "https://sempremilan.com/ac-milan-inter-live-commentary-watchalong-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-10-31T19:00:00+00:00",
+      "summary": "{rsn-live-v2}\nThe post AC Milan vs. Inter: Live updates, commentary and SempreMilan watchalong appeared first on SempreMilan."
+    },
+    {
+      "id": "574e0c1ab74d",
+      "title": "Gallo: \"Cardinale ci crede, ma l'Inter turba le sue notti\"",
+      "url": "https://www.milannews.it/news/gallo-cardinale-crede-inter-turba-notti-634619",
+      "source": "milannews.it",
+      "date": "2026-10-31T18:48:51+00:00",
+      "summary": "Nel corso del consueto appuntamento con il suo commento per Il Corriere dello Sport, Massimiliano Galli ha parlato di Gerry Cardinale, prorpietario del Milan, protagonista di diverse dichiarazioni nelle scorse ore."
+    },
+    {
+      "id": "a04574bdacd4",
+      "title": "Serie A official line-ups: Milan vs. Inter",
+      "url": "https://football-italia.net/serie-a-official-line-ups-milan-vs-inter-wk10/",
+      "source": "football-italia.net",
+      "date": "2026-10-31T18:42:26+00:00",
+      "summary": "Milan bring back Luka Modric, Christian Pulisic, Adrien Rabiot and Diego Moreira after their first..."
+    },
+    {
+      "id": "dc0dcf13c165",
+      "title": "Official: Starting XIs for AC Milan vs. Inter – six changes from Bologna defeat",
+      "url": "https://sempremilan.com/official-starting-xis-milan-inter-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-10-31T18:38:49+00:00",
+      "summary": "Ruben Amorim has named his starting eleven for tonight’s game between AC Milan and Inter, making six changes compared to the defeat against Bologna.  After what was a disappointing mid-week display, the Rossoneri need to get back on track with a strong performance against Inter this evening. Thankfu"
+    },
+    {
+      "id": "cddf4e5964d8",
+      "title": "Chi è l'arbitro del derby tra Milan e Inter di questa sera",
+      "url": "https://www.milannews.it/news/serie-a-guida-arbitra-derby-milan-inter-634647",
+      "source": "milannews.it",
+      "date": "2026-10-31T18:36:08+00:00",
+      "summary": "(ANSA) - ROMA, 30 OTT - Marco Guida, della sezione di Torre Annunziata, é stato designato per dirigere il derby Milan-Inter nella decima giornata del campionato di Serie A, i programma domani alle 20:45."
+    },
+    {
+      "id": "963ad7b972aa",
+      "title": "Milan-Inter, le formazioni ufficiali: tornano Gila, Rabiot e Moreira. Chivu con delle sorprese",
+      "url": "https://www.milannews.it/primo-piano/milan-inter-formazioni-ufficiali-tornano-gila-rabiot-moreira-chivu-sorprese-634673",
+      "source": "milannews.it",
+      "date": "2026-10-31T18:26:05+00:00",
+      "summary": "Queste le formazioni ufficiali di Milan-Inter, match di Serie A valido per la nona giornata di Serie A."
+    },
+    {
+      "id": "ef91e7e52c9a",
+      "title": "Ecco chi farà la telecronaca su Dazn di Milan-Inter. Nel pre Diletta Leotta",
+      "url": "https://www.milannews.it/news/telecronaca-dazn-milan-inter-pre-diletta-leotta-634623",
+      "source": "milannews.it",
+      "date": "2026-10-31T18:24:41+00:00",
+      "summary": "La telecronaca di Milan-Inter, match in programma questa sera alle 20:45 a San Siro e valido per la decima giornata del campionato di Serie A, sarà affidata a Pierluigi Pardo e Andrea Stramaccioni, con Federica Zille a bordocampo per i collega ..."
+    },
+    {
+      "id": "b2d0cd931be7",
+      "title": "Verso il derby: tornano gli infortunati. Le formazioni ufficiali",
+      "url": "https://www.milannews.it/primo-piano/derby-tornano-infortunati-amorim-pensa-schierarli-1-634650",
+      "source": "milannews.it",
+      "date": "2026-10-31T18:24:32+00:00",
+      "summary": "MILAN-INTER, LE FORMAZIONI UFFICIALI DEL DERBY\n\nMILAN (4-4-1-1): Maignan; Gila, De Winter, Pavlovic, Diawara; Moreira, Musah, Modric, Pulisic; Rabiot; Ramos. A disp."
+    },
+    {
+      "id": "1837a69516e0",
+      "title": "VIDEO MN - Verso il Derby, arrivato il pullman a San Siro tra l'entusiasmo dei tifosi",
+      "url": "https://www.milannews.it/news/video-mn-derby-arrivato-pullman-san-siro-entusiasmo-tifosi-634672",
+      "source": "milannews.it",
+      "date": "2026-10-31T18:18:56+00:00",
+      "summary": "È appena arrivato a San Siro il pullman del Milan, accolto dai tanti rossoneri presenti: cori, canti e tanto entusiamo prima del Derby di questa sera contro l'Inter. A breve arriveranno anche le formazioni ufficiali della sfida."
+    },
+    {
+      "id": "f5c2e53a28f3",
+      "title": "Moreira svela: \"Rabiot il migliore amico da quando sono al Milan\"",
+      "url": "https://www.milannews.it/news/moreira-svela-rabiot-migliore-amico-milan-634572",
+      "source": "milannews.it",
+      "date": "2026-10-31T18:12:00+00:00",
+      "summary": "Diego Moreira è pronto a vivere il suo primo derby milanese. Domani alle 20."
+    },
+    {
+      "id": "42c919173e2b",
+      "title": "Castillejo predicts Musah and Ramos to score in Milan-Inter: “A 2-1 win”",
+      "url": "https://sempremilan.com/castillejo-predicts-musah-ramos-milan-inter",
+      "source": "sempremilan.com",
+      "date": "2026-10-31T17:00:00+00:00",
+      "summary": "Samu Castillejo, the former Milan player, has provided his prediction for tonight’s Derby della Madonnina against Inter.  Castillejo recently announced his retirement from professional football and it was news that certainly reached the Milan world. Spending four years at the club, including winning"
+    },
+    {
+      "id": "73d251d35a08",
+      "title": "Kaka shares message with Milan fans ahead of important derby clash",
+      "url": "https://sempremilan.com/kaka-shares-message-milan-fans-derby",
+      "source": "sempremilan.com",
+      "date": "2026-10-31T16:20:00+00:00",
+      "summary": "Ricky Kaka has sent a message to the AC Milan fans ahead of tonight’s big derby clash, which is a special fixture for the Brazilian.  The first goal that Kaka scored for Milan was against Inter, more specifically in October 2003. That game ended 3-2 in favour of the Rossoneri and the Brazilian legen"
+    },
+    {
+      "id": "52a29ef5c047",
+      "title": "Photo: Curva Sud confirm banners and choreography will return for Milan-Inter",
+      "url": "https://sempremilan.com/curva-sud-confirm-banners-choreography-milan-inter",
+      "source": "sempremilan.com",
+      "date": "2026-10-31T15:40:00+00:00",
+      "summary": "For Milan-Inter, we won’t just see the Curva Sud with full capacity for the first time since 2019, but also the return of several banners and a choreography. The Derby della Madonnina is always a massive clash, but several factors will make tonight’s edition extra special. In addition to the league "
+    },
     {
       "id": "c8223e016f9e",
       "title": "Serie A returns to British TV tonight: Watch Milan vs. Inter live on BBC2",
@@ -18,28 +274,12 @@
       "summary": "Alphadjo Cisse and Carlo Augusto are both expected to start on the bench in tonight’s Derby della Madonnina, despite being among the best players for AC Milan and Inter so far.  For Milan, tonight’s derby is a chance to extend their unbeaten run in the fixture and to decrease the gap in the standing"
     },
     {
-      "id": "3e5a843ded64",
-      "title": "Viviano: \"Per come gioca l'Inter, il Milan ho l'impressione che possa soffrire tantissimo dal punto di vista tattico\"",
-      "url": "https://www.milannews.it/news/viviano-per-gioca-inter-milan-impressione-soffrire-tantissimo-punto-vista-tattico-634629",
-      "source": "milannews.it",
-      "date": "2026-10-31T14:47:12+00:00",
-      "summary": "Emiliano Viviano, opinionista, si è così espresso a Cronache di Spogliatoio presentando il derby di Milano di questa sera: \"L'Inter ha un dominio spesso anche della palla e quindi ovviamente riposa col pallone, mentre il Milan  ..."
-    },
-    {
       "id": "3e2232deb945",
       "title": "Zambrotta unusual surgery for Italy’s 2006 World Cup winner",
       "url": "https://football-italia.net/zambrotta-unusual-surgery-italy-2006-world-cup/",
       "source": "football-italia.net",
       "date": "2026-10-31T14:41:58+00:00",
       "summary": "Italy’s World Cup winner Gianluca Zambrotta was well known for being bow-legged, but reveals they..."
-    },
-    {
-      "id": "fe39fac910c8",
-      "title": "Tre vittorie per il Milan negli ultimi quattro derby, le stesse dei precedenti sedici",
-      "url": "https://www.milannews.it/news/vittorie-milan-ultimi-derby-precedenti-sedici-634637",
-      "source": "milannews.it",
-      "date": "2026-10-31T14:35:08+00:00",
-      "summary": "Il Milan ha vinto tre delle ultime quattro partite di Serie A contro l’Inter (1N), tanti successi quanti ne aveva ottenuti nelle precedenti 16 sfide (4N, 9P). Lo riporta Opta."
     },
     {
       "id": "de4b32b6eda6",
@@ -50,46 +290,6 @@
       "summary": "Yesterday evening, Gerry Cardinale was stopped by Carlo Pellegatti for an impromptu interview and he urged the AC Milan fans to ‘come together’.  Between the two defeats in the Europa League and the three draws in the league, it has been a so-so start to the season for Milan. In that sense, tonight’"
     },
     {
-      "id": "37796120de75",
-      "title": "Pellegatti: \"Qualcuno dice che Cardinale parla sempre dell'Inter perché ne è ossessionato. No, ha detto quello che pensiamo tutti\"",
-      "url": "https://www.milannews.it/news/pellegatti-qualcuno-cardinale-parla-inter-ossessionato-no-pensiamo-tutti-634631",
-      "source": "milannews.it",
-      "date": "2026-10-31T14:24:50+00:00",
-      "summary": "Carlo Pellegatti, giornalista, si è così espresso sul suo canale Youtube commentando le parole di Amorim verso il derby: \"Qualcuno dice che Cardinale parla sempre dell'Inter perché ne è ossessionato."
-    },
-    {
-      "id": "ec07eaebd268",
-      "title": "Bianchin sottolinea: \"Il milanista nettamente più in forma, il più pericoloso, dovrebbe andare in panchina\"",
-      "url": "https://www.milannews.it/news/bianchin-sottolinea-il-milanista-nettamente-forma-pericoloso-dovrebbe-andare-panchina-634635",
-      "source": "milannews.it",
-      "date": "2026-10-31T14:23:00+00:00",
-      "summary": "Luca Bianchin, giornalista, si è così espresso su La Gazzetta dello Sport aggiornando le notizie sulla formazione del Milan per il derby: \"Ruben Amorim, per il primo derby di Milano della sua vita, fa a modo suo."
-    },
-    {
-      "id": "0544c4bde16c",
-      "title": "PROBABILE FORMAZIONE - Verso Milan-Inter: Amorim cambia ancora! Sorpresa dietro, dubbio davanti",
-      "url": "https://www.milannews.it/news/probabile-formazione-milan-inter-amorim-derby-rabiot-pulisic-modric-gila-634435",
-      "source": "milannews.it",
-      "date": "2026-10-31T14:15:00+00:00",
-      "summary": "Dopo la pesante sconfitta casalinga nell'infrasettimanale contro il Bologna, il Milan di Ruben Amorim si giocherà il primo derby stagionale, da disputare nel San Siro in versione milanista."
-    },
-    {
-      "id": "519f4071632e",
-      "title": "Curva Sud, questa sera tornano striscioni e coreografia: occuperà tre anelli",
-      "url": "https://www.milannews.it/news/curva-sud-sera-tornano-striscioni-coreografia-impieghera-anelli-634662",
-      "source": "milannews.it",
-      "date": "2026-10-31T14:12:06+00:00",
-      "summary": "Siamo sempre più vicini al big match di questa sera che vedrà Milan e Inter sfidarsi a Milano San Siro alle 20:45."
-    },
-    {
-      "id": "0f72dc0649bf",
-      "title": "Kakà prova ad ipotizzare gli uomini decisivi per il derby del Milan",
-      "url": "https://www.milannews.it/news/kaka-derby-gli-uomini-decisivi-modric-rabiot-634615",
-      "source": "milannews.it",
-      "date": "2026-10-31T14:00:56+00:00",
-      "summary": "Nella giornata del derby di Milano, Ricardo Kakà è stato intervistato dai colleghi de La Gazzetta dello Sport, lui che di stracittadine ne ha giocate e vinte. Di seguito alcuni estratti delle sue dichiarazioni."
-    },
-    {
       "id": "b0a59bc87c72",
       "title": "Monza 0-5 Milan Primavera: Zaramella shines in much-needed trashing",
       "url": "https://sempremilan.com/monza-0-5-milan-primavera-2026-27",
@@ -98,60 +298,12 @@
       "summary": "After a tough run in the league, Milan Primavera managed to build on their mid-week cup win with a strong performance against Monza this afternoon.  Excluding Wednesday’s win against Catanzaro in the Primavera Cup, Milan Primavera had lost four of their last five games heading into today’s clash. In"
     },
     {
-      "id": "4489182aa1af",
-      "title": "Serie A Liveblog: Milan vs. Inter, Udinese vs. Roma, Bologna vs. Monza",
-      "url": "https://football-italia.net/serie-a-liveblog-milan-inter-udi-roma-bol-mon/",
-      "source": "football-italia.net",
-      "date": "2026-10-31T13:59:40+00:00",
-      "summary": "{rsn-live-v2}"
-    },
-    {
-      "id": "531dd3456a09",
-      "title": "Pastore: \"Amorim deve tenere conto che le imbarcate viste con il Bologna con l'Inter andrebbero a finire peggio\"",
-      "url": "https://www.milannews.it/news/pastore-amorim-tenere-conto-questione-imbarcate-viste-bologna-inter-andrebbero-finire-peggio-634628",
-      "source": "milannews.it",
-      "date": "2026-10-31T13:48:38+00:00",
-      "summary": "Giuseppe Pastore, giornalista, si è così espresso a Cronache di Spogliatoio commentando l'avvicinamento al derby di Milan e Inter: \"Il derby arriva schiacciatissimo tra il turno infrasettimanale e la Champions League e sar&agra ..."
-    },
-    {
-      "id": "44aef28c5752",
-      "title": "Kakà, lettera d’amore ai tifosi rossoneri: “Il derby è sempre nel mio cuore, certe magie non si dimenticano, certi amori non finiscono”",
-      "url": "https://www.milannews.it/news/kaka-lettera-d-amore-tifosi-rossoneri-il-derby-cuore-magie-dimenticano-amori-finiscono-634661",
-      "source": "milannews.it",
-      "date": "2026-10-31T13:36:43+00:00",
-      "summary": "Questa mattina la leggenda rossonera Ricardo Kakà ha fatto visita all'Ac Milan Flaghsip Store di Via Dante dove ha incontrato i tantissimi tifosi presenti ai quali ha regalato una maglia lanciandola dalla ormai nota finestra che affaccia s ..."
-    },
-    {
       "id": "70ed55036774",
       "title": "Watch: “We will concede quite a lot” – Score predictions for Milan-Inter",
       "url": "https://sempremilan.com/concede-a-lot-score-predictions-milan-inter",
       "source": "sempremilan.com",
       "date": "2026-10-31T13:30:31+00:00",
       "summary": "In the latest Pub Chat episode, which was a special edition for the Derby della Madonnina, Lorenzo and Stefano provided their scoreline predictions for the big game. The pressure is on Milan to clinch all three points this evening, following what was a misstep against Bologna mid-week. The fact that"
-    },
-    {
-      "id": "82137ff32e02",
-      "title": "Biasin verso Milan-Inter: \"Non c'è partita? È da sei derby che lo sento. L'Inter può soffrire Amorim\"",
-      "url": "https://www.milannews.it/news/biasin-milan-inter-non-partita-derby-sento-inter-soffrire-amorim-634630",
-      "source": "milannews.it",
-      "date": "2026-10-31T13:24:00+00:00",
-      "summary": "Fabrizio Biasin, giornalista, si è così espresso a Cronache di Spogliatoio ipotizzando lo svolgimento del derby tra Milan e Inter: \"Viviano dice che ad oggi non c'è partita."
-    },
-    {
-      "id": "7327135e2bb7",
-      "title": "Caressa: \"Se il Milan si sporge troppo in là, cercando una pressione alta, rischia poi di perdere molto nell'uno contro uno difensivo\"",
-      "url": "https://www.milannews.it/news/caressa-se-milan-sporge-la-cercando-pressione-alta-rischia-perdere-difensivo-634627",
-      "source": "milannews.it",
-      "date": "2026-10-31T13:12:00+00:00",
-      "summary": "Fabio Caressa, giornalista di SkySport, si è così espresso sul suo canale Youtube commentando le prestazioni del Milan: \"La prima analisi che dobbiamo fare su questa sconfitta del Milan, che da un certo punto di vista secondo me &e ..."
-    },
-    {
-      "id": "7e2df6bb3601",
-      "title": "ESCLUSIVA MN - L’ex Udinese Widmer promuove Jashari: “Grandissima qualità però fatica a gestire le pressioni al Milan. Prima o poi sfonderà”",
-      "url": "https://www.milannews.it/esclusive-mn/esclusiva-mn-l-ex-udinese-widmer-promuove-jashari-grandissima-qualita-fatica-gestire-pressioni-milan-634659",
-      "source": "milannews.it",
-      "date": "2026-10-31T13:00:00+00:00",
-      "summary": "Il giornalista Alessandro Schiavone ha intervistato in esclusiva per MilanNews.it Silvan Widmer, ex Udinese che ha parlato di Ardon Jahsari, centrocampista rossonero e suo connazionale."
     },
     {
       "id": "569fd7744856",
@@ -170,52 +322,12 @@
       "summary": "Christian Pulisic’s new Milan contract puts him level with the club’s top earners, and the..."
     },
     {
-      "id": "f87b016bf4cb",
-      "title": "Cassano: \"Chi mi frega se Amorim ha fatto male allo Utd? A me piace da impazzire\"",
-      "url": "https://www.milannews.it/news/cassano-chi-frega-amorim-utd-piace-impazzire-634626",
-      "source": "milannews.it",
-      "date": "2026-10-31T12:48:43+00:00",
-      "summary": "Antonio Cassano, opinionista, si è così espresso a Viva El Futbol commentando il rendimento di Goncalo Ramos, attaccante del Milan: \"A me piace da impazzire Amorim, per come allena, per come vuol far giocare la sua squadra e p ..."
-    },
-    {
-      "id": "a77f7d01a1fc",
-      "title": "Milan-Tresoldi: oggi è un pensiero, ma nei prossimi mesi potrebbe diventare un discorso concreto",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-tresoldi-ceccarini-la-concorrenza-agguerrita-pensiero-prossimi-discorso-concreto-634622",
-      "source": "milannews.it",
-      "date": "2026-10-31T12:36:27+00:00",
-      "summary": "Nel corso del consueto appuntamento con il suo editoriale per TMW, Niccolò Ceccarini ha fatto il punto sul calciomercato del Milan, soffermandosi in modo particolare sui rinnovi di contratto, argomenti all'ordine del giorno dalle parti di  ..."
-    },
-    {
       "id": "d29e12e0197d",
       "title": "Generali Stadium: A closer look at AC Milan and Inter’s new 71,500-seat home",
       "url": "https://sempremilan.com/general-stadium-closer-look-milan-inters-home",
       "source": "sempremilan.com",
       "date": "2026-10-31T12:30:00+00:00",
       "summary": "In the latest bonus podcast episode, Oliver and Ben discuss the renderings of AC Milan’s new stadium, the naming rights deal and potential concerns. It was on Thursday evening that Milan and Inter unveiled the design of their new stadium, which will be called Generali Stadium. A naming rights agreem"
-    },
-    {
-      "id": "0dd67561a84c",
-      "title": "Letizia racconta: \"Ieri Ibrahimovic a Milanello ha provato a trasferire ai calciatori il significato del derby\"",
-      "url": "https://www.milannews.it/news/letizia-racconta-ieri-ibrahimovic-milanello-provato-trasferire-calciatori-significato-derby-634632",
-      "source": "milannews.it",
-      "date": "2026-10-31T12:24:00+00:00",
-      "summary": "Francesco Letizia, giornalista, si è così espresso sul suo canale Youtube raccontando alcuni retroscena da Milanello verso il derby: \"Ieri a Milanello abbiamo visto i tifosi del Milan farsi la foto con Gerry Cardinale."
-    },
-    {
-      "id": "28441f864775",
-      "title": "Adani: \"A volte mi sembra che in alcune zone Amorim non possa fare ciò che vorrebbe\"",
-      "url": "https://www.milannews.it/news/adani-a-alcune-zone-amorim-vorrebbe-634625",
-      "source": "milannews.it",
-      "date": "2026-10-31T12:12:12+00:00",
-      "summary": "Lele Adani, opinionista, si è così espresso a Viva El Futbol commentando il momento del Milan verso il derby di questa sera: \"Il Milan ha perso la prima partita in campionato dopo cinque vittorie e tre pareggi."
-    },
-    {
-      "id": "9eaa378095ce",
-      "title": "Primavera 1, Monza e Milan in campo: le formazioni ufficiali",
-      "url": "https://www.milannews.it/la-primavera/primavera-1-monza-milan-campo-formazioni-ufficiali-634658",
-      "source": "milannews.it",
-      "date": "2026-10-31T12:00:27+00:00",
-      "summary": "Stanno entrando in campo in questo momento il Monza Primavera e il Milan Primavera che si affronteranno allo stadio C.S."
     },
     {
       "id": "cb953fd87176",
@@ -226,14 +338,6 @@
       "summary": "It’s a big one at San Siro tonight, namely the Derby della Madonnina, and it’s a fixture that always comes with some exciting player battles.  Milan have a point to prove after their disappointing mid-week defeat to Bologna, while Inter are eager to end their seven-game winless run in the Derby dell"
     },
     {
-      "id": "0cd1bfafb517",
-      "title": "Zamorano snobba i giocatori del Milan di oggi: \"Saranno pure bravi, ma ai miei tempi giocavo contro Maldini...\"",
-      "url": "https://www.milannews.it/news/zamorano-snobba-giocatori-milan-oggi-saranno-bravi-tempi-giocavo-maldini-634618",
-      "source": "milannews.it",
-      "date": "2026-10-31T11:48:34+00:00",
-      "summary": "Intervistato dai colleghi de La Gazzetta dello Sport, l'ex Inter Zamorano ha presentato il derby di stasera dicendo la sua anche sul Milan di Ruben Amorim. Di seguito alcuni estratti delle sue dichiarazioni."
-    },
-    {
       "id": "90d48c7f0f22",
       "title": "Kaka: ‘For seven years it was Leão’s Milan, now Amorim’s side are a collective’",
       "url": "https://football-italia.net/kaka-for-seven-years-it-was-leaos-milan/",
@@ -242,28 +346,12 @@
       "summary": "Ricardo Kaka believes Milan have changed for the better since Rafael Leão’s departure, describing Rúben..."
     },
     {
-      "id": "ff35204ffb60",
-      "title": "Galli sulla cena pre-Derby con Cardinale: “Pensata per unire proprietà e universo rossonero, ora parola al campo. Forza Milan”",
-      "url": "https://www.milannews.it/news/galli-cena-pre-derby-cardinale-pensata-unire-proprieta-universo-rossonero-parola-campo-milan-634656",
-      "source": "milannews.it",
-      "date": "2026-10-31T11:36:08+00:00",
-      "summary": "Ieri sera a Milano c'è stata una cena organizzata da Gerry Cardinale che alla vigilia del derby ha voluto riunire ex giocatori, leggende rossonere, sponsor e istituzioni."
-    },
-    {
       "id": "657c808b2663",
       "title": "Guida will officiate Milan’s game against Inter – the record and controversy",
       "url": "https://sempremilan.com/guida-milan-inter-record-controversy",
       "source": "sempremilan.com",
       "date": "2026-10-31T11:30:00+00:00",
       "summary": "Marco Guida has been assigned the Milan-Inter game this evening, set to officiate his 44th game involving the Rossoneri.  Emotions will undoubtedly be running high at San Siro this evening. Before the game, Milan will induct Ricky Kaka into the Hall of Fame, which will be a great moment for him and "
-    },
-    {
-      "id": "6854ac5bdcf0",
-      "title": "Scudetto o scherzetto. La Repubblica: \"Inter e Milan al bivio nel derby di Halloween\"",
-      "url": "https://www.milannews.it/rassegna-stampa/scudetto-scherzetto-repubblica-inter-milan-bivio-derby-halloween-634608",
-      "source": "milannews.it",
-      "date": "2026-10-31T11:24:23+00:00",
-      "summary": "In occasione della sfida di questa sera la più classica delle frasi di Halloween \"Dolcetto o scherzetto?\" si trasforma in \"Scudetto o scherzetto?\"."
     },
     {
       "id": "c4f3d45f506b",
@@ -338,14 +426,6 @@
       "summary": "Adrien Rabiot, Mario Gila and Diego Moreira are back for Milan vs Inter, while Marcus..."
     },
     {
-      "id": "9b72f323a133",
-      "title": "Gallery: ‘Derby chills’, ‘Pulisic is the Inter killer’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/gallery-derby-pulisic-inter-papers-italy",
-      "source": "sempremilan.com",
-      "date": "2026-10-31T09:00:00+00:00",
-      "summary": "The big day is here! Milan-Inter is scheduled for this evening and the newspaper certainly made sure to give the game a lot of coverage today. Due to the defeat against Bologna mid-week, the hype hasn’t been as big as perhaps expected ahead of this derby. Milan could have been just four points behin"
-    },
-    {
       "id": "42c381131918",
       "title": "Today’s Papers – Halloween derby shivers for Inter and Milan, Spalletti summons Yildiz",
       "url": "https://football-italia.net/todays-papers-halloween-derby-shivers-for-inter-and-milan-spalletti-summons-yildiz/",
@@ -370,22 +450,6 @@
       "summary": "Manuel Akanji has urged his Inter teammates to avoid having a slow start against rivals..."
     },
     {
-      "id": "0cad2e80985f",
-      "title": "Serie A preview: AC Milan vs. Inter – Team news, opposition insight, stats and prediction",
-      "url": "https://sempremilan.com/serie-a-preview-milan-inter-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-10-30T19:00:00+00:00",
-      "summary": "On Saturday night, AC Milan face Inter in a game that needs little to no introduction. It’s time for the Derby della Madonnina. After their defeat in midweek, Milan must end October on a high note. It’s a game that could define their season – a daunting sentence to say only a few months into […]\nThe"
-    },
-    {
-      "id": "b5fdac4fdcff",
-      "title": "Romano: Defender an ‘absolute priority’ for Milan whilst Cardinale continues Endrick ‘obsession’",
-      "url": "https://sempremilan.com/milan-defender-priority-cardinale-endrick-obsession",
-      "source": "sempremilan.com",
-      "date": "2026-10-30T18:39:37+00:00",
-      "summary": "AC Milan are expected to be busy in January, and Gerry Cardinale’s words today have only fuelled those beliefs. It was clear to everyone that Milan ended the summer unsatisfied with the squad, especially after the last-minute pursuit of Goncalo Inacio. So, reports emerging about January targets in t"
-    },
-    {
       "id": "f5c72258096e",
       "title": "Milan lose Tomori for one month after injury in 4-2 Bologna defeat",
       "url": "https://football-italia.net/milan-lose-tomori-for-one-month-after-bologna/",
@@ -394,44 +458,12 @@
       "summary": "Milan will have to do without defender Fikayo Tomori until after the November international break,..."
     },
     {
-      "id": "09970ad7d8b1",
-      "title": "Chivu discusses poor derby record, new San Siro and Milan’s quality: “At our best”",
-      "url": "https://sempremilan.com/chivu-discuss-poor-derby-record-milan-quality",
-      "source": "sempremilan.com",
-      "date": "2026-10-30T18:20:00+00:00",
-      "summary": "Ahead of tomorrow’s game against AC Milan, Inter boss Cristian Chivu spoke to the media about his team’s chances. For Inter, this is perhaps the biggest derby in the recent run. After all, they’re without a win in seven games and if they fall to defeat, they’re inviting more pressure in the title ra"
-    },
-    {
-      "id": "7cc2497d8aab",
-      "title": "Can Milan extend their unbeaten run? Previewing the Derby della Madonnina",
-      "url": "https://sempremilan.com/pub-chat-derby-della-madonnina-special",
-      "source": "sempremilan.com",
-      "date": "2026-10-30T17:40:00+00:00",
-      "summary": "Tomorrow night, AC Milan host Inter in the Derby della Madonnina and it’s a huge game for both teams, as always. A game that needs little introduction, the Milanese derby is one of the biggest and best games in the footballing calendar for neutrals. For fans, well, that decides which side of the cit"
-    },
-    {
-      "id": "3105312ca221",
-      "title": "Opposition insight for Milan-Inter: Form, injuries, predicted XI and more",
-      "url": "https://sempremilan.com/opposition-insight-milan-inter-form-injuries-predicted-xi-26-27",
-      "source": "sempremilan.com",
-      "date": "2026-10-30T17:00:00+00:00",
-      "summary": "It’s the biggest game of the first half of the season on Saturday, as AC Milan face Inter in the Derby della Madonnina. Saturday’s game could be make-or-break for Milan. Whilst it’s early to suggest that, the Rossoneri are desperate for three points to keep them in the title conversation, whilst a l"
-    },
-    {
       "id": "7bf6b4a7b6fe",
       "title": "Chivu: ‘A derby is always an added motivation, but it’s not decisive’",
       "url": "https://football-italia.net/chivu-a-derby-is-always-an-added-motivation/",
       "source": "football-italia.net",
       "date": "2026-10-30T16:46:08+00:00",
       "summary": "Cristian Chivu says that the prospect of a Derby della Madonnina against rivals Milan is..."
-    },
-    {
-      "id": "ef0be65020b3",
-      "title": "The Athletic: Pulisic’s new deal could be worth up to €10m per season – the reason",
-      "url": "https://sempremilan.com/pulisic-new-deal-could-be-worth-10m-per-season",
-      "source": "sempremilan.com",
-      "date": "2026-10-30T16:30:00+00:00",
-      "summary": "AC Milan confirmed Christian Pulisic’s renewal earlier this afternoon, but some of the details haven’t been fully confirmed. Pulisic was expected to receive a pay rise in his new deal, and reports suggest that he will earn €6.5 million per year as part of this. However, that may not be as much as he"
     },
     {
       "id": "9409f3086d90",
@@ -448,38 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-10-30T15:19:22+00:00",
       "summary": "Milan have announced that Christian Pulisic has put pen to paper on a new contract..."
-    },
-    {
-      "id": "5500ccc74e52",
-      "title": "Amorim: Milan Derby more similar to Portugal than England; Rabiot, Gila and Moreira ‘ready’",
-      "url": "https://football-italia.net/amorim-derby-portugal-england-rabiot-gila-read/",
-      "source": "football-italia.net",
-      "date": "2026-10-30T14:08:06+00:00",
-      "summary": "Milan coach Ruben Amorim says the Derby atmosphere feels more like Portugal than England, and..."
-    },
-    {
-      "id": "2207ceeda0dc",
-      "title": "Moreira: Hazard ‘an inspiration’, Cristiano Ronaldo ‘my favourite player’",
-      "url": "https://football-italia.net/moreira-hazard-an-inspiration-cristiano-ronaldo-my-favourite-player/",
-      "source": "football-italia.net",
-      "date": "2026-10-30T12:35:36+00:00",
-      "summary": "Milan winger Diego Moreira says his compatriot Eden Hazard is ‘an inspiration,’ but Cristiano Ronaldo..."
-    },
-    {
-      "id": "50888c8135da",
-      "title": "How much will Milan and Inter earn from the new stadium’s naming rights?",
-      "url": "https://football-italia.net/how-much-milan-inter-earn-naming-right-stadium/",
-      "source": "football-italia.net",
-      "date": "2026-10-30T10:57:47+00:00",
-      "summary": "Inter and Milan are expected to earn about €16.2m each from naming rights for their..."
-    },
-    {
-      "id": "5f4693a6d57b",
-      "title": "Milan owner Cardinale refuses to rule out Al Nassr takeover: ‘Intrigued’ by Cristiano Ronaldo",
-      "url": "https://football-italia.net/milan-owner-cardinale-al-nassr-meet-ronaldo/",
-      "source": "football-italia.net",
-      "date": "2026-10-30T10:25:17+00:00",
-      "summary": "During his interview with La Gazzetta dello Sport, Milan owner Gerry Cardinale confirmed talks for..."
     }
   ]
 }
