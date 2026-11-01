@@ -1,6 +1,198 @@
 {
-  "lastUpdated": "2026-11-01T17:38:22.058055+00:00",
+  "lastUpdated": "2026-11-01T21:41:36.094546+00:00",
   "articles": [
+    {
+      "id": "29ff2e741a8e",
+      "title": "Pasotto: \"Per quanto si è visto ieri sera, il Milan ha validi motivi per credere nello Scudetto\"",
+      "url": "https://www.milannews.it/news/pasotto-per-sera-milanha-validi-motivi-credere-scudetto-634792",
+      "source": "milannews.it",
+      "date": "2026-11-01T21:35:08+00:00",
+      "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport commentando le parole di Amorim dopo il derby di ieri sera: \"Dopo un derby così, gli slogan coniati nelle ultime ore da Cardinale sul suo allenatore v ..."
+    },
+    {
+      "id": "2ec8381f180e",
+      "title": "Ravezzani elogia Cardinale: \"È diventato milanista dentro. Ha messo a nudo la parte vera di sé\"",
+      "url": "https://www.milannews.it/news/ravezzani-elogia-cardinale-e-milanista-dentro-messo-nudo-vera-se-634785",
+      "source": "milannews.it",
+      "date": "2026-11-01T21:24:46+00:00",
+      "summary": "Fabio Ravezzani, giornalista, si è così espresso sul suo canale Youtube commentando il derby vinto dal Milan per 3-1 sull'Inter: \"Si può dire che la scena più bella del derby vinto con pieno merito dal Milan sull& ..."
+    },
+    {
+      "id": "656ebe62911e",
+      "title": "Florenzi salva Ramos: \"A me è saltato all'occhio nel primo tempo quando ha fatto...\"",
+      "url": "https://www.milannews.it/news/florenzi-salva-ramos-a-saltato-occhio-fatto-634787",
+      "source": "milannews.it",
+      "date": "2026-11-01T21:11:44+00:00",
+      "summary": "Alessandro Florenzi, ex calciatore e attuale opinionista, si è così espresso su SkySport su Goncalo Ramos, attaccante portoghese del Milan: \"A me è saltato all'occhio nel primo tempo, quasi alla fine del primo tempo, qua ..."
+    },
+    {
+      "id": "6ff530050b06",
+      "title": "Sabatini: \"Non fatevi ingannare dagli xG: il 3-1 fotografa una partita nella quale il Milan ha vinto tutti i duelli\"",
+      "url": "https://www.milannews.it/news/sabatini-non-fatevi-ingannare-xg-3-1-fotografa-partita-milan-vinto-duelli-634782",
+      "source": "milannews.it",
+      "date": "2026-11-01T21:00:16+00:00",
+      "summary": "Sandro Sabatini, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan per 3-1 sull'Inter: \"Il Milan in trionfo e l'Inter in ansia."
+    },
+    {
+      "id": "14162123f96d",
+      "title": "Picture: Furious Inter ultras slam players after derby defeat",
+      "url": "https://football-italia.net/picture-inter-ultras-slam-players-derby-defeat/",
+      "source": "football-italia.net",
+      "date": "2026-11-01T20:57:57+00:00",
+      "summary": "Inter ultras put up a banner after a 3-1 loss against Milan, criticising the players’..."
+    },
+    {
+      "id": "236a2079ad0d",
+      "title": "Pedullà: \"Diciamolo subito a scanso di equivoci: non c'è stata partita. Un dominio del Milan\"",
+      "url": "https://www.milannews.it/news/pedulla-diciamolo-scanso-equivoci-partita-dominio-milan-634799",
+      "source": "milannews.it",
+      "date": "2026-11-01T20:48:39+00:00",
+      "summary": "Alfredo Pedullà, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan nel derby contro l'Inter per 3-1: \"Diciamolo subito a scanso di equivoci: non c'è stata partita."
+    },
+    {
+      "id": "02686dc82595",
+      "title": "Milan da record? Pulisic, Rabiot e Moreira come Albertini, Ganz e Savicevic: lo dice la storia",
+      "url": "https://www.milannews.it/news/milan-record-pulisic-rabiot-moreira-albertini-ganz-savicevic-storia-634818",
+      "source": "milannews.it",
+      "date": "2026-11-01T20:36:00+00:00",
+      "summary": "E' stato un grandissimo Milan quello visto ieri sera nel derby contro l'Inter."
+    },
+    {
+      "id": "bcaa48a7dc3e",
+      "title": "Moreira-gol: il belga eguaglia così Pirlo e Theo Hernandez",
+      "url": "https://www.milannews.it/news/moreira-gol-belga-eguaglia-pirlo-theo-hernandez-634817",
+      "source": "milannews.it",
+      "date": "2026-11-01T20:24:42+00:00",
+      "summary": "Diego Moreira è stato decisivo contro l'Inter grazie ai suoi due assist e gol nella prima frazione di gioco. Un impatto incredibile quello avuto dal belga in questa sua prima stagione in rossonero."
+    },
+    {
+      "id": "ab521bdd25bc",
+      "title": "Romano: \"Il Milan vuole costruire e rinforzare la propria struttura\"",
+      "url": "https://www.milannews.it/news/romano-il-milan-vuole-costruire-rinforzare-propria-struttura-634846",
+      "source": "milannews.it",
+      "date": "2026-11-01T20:00:18+00:00",
+      "summary": "Nel corso del consueto appuntamento con il video aggiornamento sul suo canale YouTube, Fabrizio Romano ha fatto il punto in casa Milan soffermandosi in modo particolare sul discorso Markus Krösche e non solo."
+    },
+    {
+      "id": "dfc79a4512ea",
+      "title": "Chivu e il modulo rivelatosi errato: la motivazione è nella febbre di Bonny",
+      "url": "https://www.milannews.it/news/chivu-approccio-sbagliato-butterei-tutto-ritroviamo-fame-umilta-634776",
+      "source": "milannews.it",
+      "date": "2026-11-01T19:48:26+00:00",
+      "summary": "(ANSA) - MILANO, 31 OTT - \"Fa male perdere un derby dove le aspettative erano alte. Abbiamo avuto un approccio sbagliato."
+    },
+    {
+      "id": "4c8e8a91174c",
+      "title": "Serie A, il Genoa espugna il Via Del Mare: 2-1 al Lecce fischiato dai propri tifosi",
+      "url": "https://www.milannews.it/news/serie-a-lecce-genoa-1-2-634843",
+      "source": "milannews.it",
+      "date": "2026-11-01T19:36:40+00:00",
+      "summary": "(ANSA) - ROMA, 01 NOV - Il Genoa vince 2-1 a Lecce in un incontro della decima giornata di serie A, terzo successo consecutivo in campionato che porta i rossoblù a raggiungere a 13 punti in classifica il Torino e il Cagliari."
+    },
+    {
+      "id": "543eeb93125c",
+      "title": "Moreira vola, Cardinale si gode il nuovo acquisto che tanto ha voluto in estate",
+      "url": "https://www.milannews.it/news/moreira-vola-cardinale-gode-acquisto-voluto-estate-634842",
+      "source": "milannews.it",
+      "date": "2026-11-01T19:23:57+00:00",
+      "summary": "Due assist, un gol e una prestazione di livello molto alto per applicazione, ritmo e intensità: Diego Moreira è stato indubbiamente l'MVP di Milan-Inter 3-1."
+    },
+    {
+      "id": "50082f56c7a3",
+      "title": "Pellegatti: \"Il Milan batte 4-1 l'Inter. Ora discutete sulla mia età, ma vi spiego\"",
+      "url": "https://www.milannews.it/news/pellegatti-il-milan-batte-4-1-inter-discutete-eta-spiego-634783",
+      "source": "milannews.it",
+      "date": "2026-11-01T19:12:25+00:00",
+      "summary": "Carlo Pellegatti, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan per 3-1 nel derby contro l'Inter: \"Sono felice, sono contento, sono felice e sono contento."
+    },
+    {
+      "id": "19a53b0f36fe",
+      "title": "Milan, è nata una risorsa: Diawara supera l'esame derby, i numeri lo confermano",
+      "url": "https://www.milannews.it/primo-piano/milan-nata-risorsa-diawara-supera-esame-derby-numeri-confermano-634841",
+      "source": "milannews.it",
+      "date": "2026-11-01T19:00:00+00:00",
+      "summary": "Da scomessa semi sconosciuta a possibile risorsa nel giro di qualche settimana."
+    },
+    {
+      "id": "1ef1409d2268",
+      "title": "AC Milan 3-1 Inter: Five things we learned – individual and tactical success",
+      "url": "https://sempremilan.com/ac-milan-3-1-inter-five-things-learned-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-01T19:00:00+00:00",
+      "summary": "AC Milan clinched a massive victory in their home derby against Inter on Saturday, with several positives to take from the game as a result.  There wasn’t exactly an excess of optimism before the game among the Milan fans, following what was a poor mid-week defeat and a so-so start to the season. Ho"
+    },
+    {
+      "id": "4172e766f46f",
+      "title": "Ordine su Modric: \"Lezione per i professoroni che sostenevano l'impossibilità di giocare a 41 anni\"",
+      "url": "https://www.milannews.it/news/ordine-modric-lezione-professoroni-sostenevano-impossibilita-giocare-41-anni-634812",
+      "source": "milannews.it",
+      "date": "2026-11-01T18:48:24+00:00",
+      "summary": "Tutti in piedi, entra il professor Luka Modric dell'Università del Calcio. Poi sedetevi e ammirate la lezione."
+    },
+    {
+      "id": "515d268000da",
+      "title": "Cardinale promette: “Questa sarà probabilmente una delle cose più grandi che farò nella mia carriera…”",
+      "url": "https://www.milannews.it/news/cardinale-promette-questa-cose-grandi-carriera-634837",
+      "source": "milannews.it",
+      "date": "2026-11-01T18:35:38+00:00",
+      "summary": "Gerry Cardinale nelle ultime 48 ore ha rilasciato diverse dichiarazioni in ottica futura. Il proprietario americano nei suoi discorsi ha ribadito di voler rilanciare il Milan."
+    },
+    {
+      "id": "72e851bf5d3f",
+      "title": "Moreira, Pulisic, De Winter and attacking play: Compilations of Milan’s stand-outs vs. Inter",
+      "url": "https://sempremilan.com/moreira-pulisic-de-winter-compilations-inter",
+      "source": "sempremilan.com",
+      "date": "2026-11-01T18:30:00+00:00",
+      "summary": "There were a number of commendable performances for AC Milan as they swept aside Inter 3-1 to claim derby bragging rights. All four goals came in the first half, with Christian Pulisic’s header and Adrien Rabiot’s finish from a corner putting Milan two goals up less than 10 minutes in. Alessandro Ba"
+    },
+    {
+      "id": "1e0aa7eeca98",
+      "title": "Dopo 10 giornate Ruben Amorim ha gli stessi punti di Max Allegri",
+      "url": "https://www.milannews.it/news/10-giornate-ruben-amorim-punti-max-allegri-634809",
+      "source": "milannews.it",
+      "date": "2026-11-01T18:24:45+00:00",
+      "summary": "Primo derby di Milano, prima vittoria per Ruben Amorim che si è inserito nella tradizione recente di successi del Milan contro l'Inter, allungando la striscia di imbattibilità a otto partite senza sconfitte contro i n ..."
+    },
+    {
+      "id": "3b1bcea0bcd7",
+      "title": "Pasquino: \"L'unico pericolo corso dal Milan nella ripresa è l'abbaglio di Guida su Gila\"",
+      "url": "https://www.milannews.it/news/pasquino-l-unico-pericolo-corso-milan-ripresa-abbaglio-guida-gila-634797",
+      "source": "milannews.it",
+      "date": "2026-11-01T18:13:15+00:00",
+      "summary": "Stefano Pasquino, giornalista, si è così espresso su Tuttosport commentando la vittoria del Milan nel derby contro l'Inter per 3-1: \"Chivu, probabilmente per i motivi di cui sopra, ha quindi proposto un’Inter con una punt ..."
+    },
+    {
+      "id": "f9fee95cf7e2",
+      "title": "Pulisic opens up about Milan contract extension after goal vs. Inter",
+      "url": "https://football-italia.net/pulisic-milan-contract-extension-goal-inter/",
+      "source": "football-italia.net",
+      "date": "2026-11-01T18:11:15+00:00",
+      "summary": "Milan star Christian Pulisic says he wanted to ‘repay’ Milan fans by signing a new..."
+    },
+    {
+      "id": "1f7f387e0595",
+      "title": "Rabiot devastante: in gol per la quinta partita consecutiva",
+      "url": "https://www.milannews.it/news/rabiot-devastante-gol-quinta-partita-consecutiva-634815",
+      "source": "milannews.it",
+      "date": "2026-11-01T18:00:00+00:00",
+      "summary": "Il francese è un faro di questa squadra, e la partita di ieri sera contro l'Inter è stata l'ennesima gigante dimostrazione."
+    },
+    {
+      "id": "23e587fd6ff3",
+      "title": "Virtus Verona 2-3 Milan Futuro: Menon, Perera and Pagliei score in entertaining win",
+      "url": "https://sempremilan.com/virtus-verona-2-3-milan-futuro-match-report",
+      "source": "sempremilan.com",
+      "date": "2026-11-01T18:00:00+00:00",
+      "summary": "Milan Futuro are back in the win column as they managed to secure a thrilling 3-2 victory away against Virtus Verona. Milan Futuro battled hard against Pavonese in the rearranged Serie D matchday six fixture on Wednesday night and got a 1-1 draw away from home, despite having gone down to 10 men. It"
+    },
+    {
+      "id": "4ee34deb53de",
+      "title": "Guadagno: \"C'è la sensazione che che il Milan riesca a interpretare meglio il derby\"",
+      "url": "https://www.milannews.it/news/guadagno-c-sensazione-milan-riesca-interpretare-derby-634794",
+      "source": "milannews.it",
+      "date": "2026-11-01T17:48:08+00:00",
+      "summary": "Pietro Guadagno, giornalista, si è così espresso sul Corriere dello Sport commentando la vittoria del Milan per 3-1 nel derby contro l'Inter:  \"Il Milan ha fatto lo scherzetto e si è pure mangiato un dolcetto."
+    },
     {
       "id": "04e2222365cc",
       "title": "Il gol sul punizione di Moreira nel derby è stato raro: il dato",
@@ -18,36 +210,12 @@
       "summary": "AC Milan owner Gerry Cardinale spoke to CBS Sports before the derby win over Inter, pledging to bring the club back to the summit of football. On Halloween night, the Rossoneri ensured that Inter’s derby nightmare continued as Milan won their fourth consecutive victory in the fixture, extending the "
     },
     {
-      "id": "ab39b5bf250d",
-      "title": "La Curva Sud la tocca piano: \"3-1 ottobre, notte da incubo\"",
-      "url": "https://www.milannews.it/news/curva-sud-tocca-piano-3-1-ottobre-notte-incubo-634834",
-      "source": "milannews.it",
-      "date": "2026-11-01T17:22:35+00:00",
-      "summary": "La vittoria nel Derby di ieri sera ha fatto godere tutto il popolo milanista: è l'ottava stracittadina consecutiva senza una vittoria nerazzurra: due pareggi e ben sei vittorie dei rossoneri, che dal post Pioli non ne hanno più pers ..."
-    },
-    {
       "id": "6010e4bfc13d",
       "title": "Newspapers highlight differences between Amorim and Chivu in Milan’s ‘authoritative’ derby win",
       "url": "https://football-italia.net/differences-amorim-chivu-milan-authorative-win/",
       "source": "football-italia.net",
       "date": "2026-11-01T17:21:27+00:00",
       "summary": "Italian newspapers highlight the big differences between Ruben Amorim and Cristian Chivu in Milan’s 3-1..."
-    },
-    {
-      "id": "9450cd84e06a",
-      "title": "Pulisic al miele: \"Rinnovare con il Milan è sempre stato il mio desiderio. Il legame che ho con questo club, con questa città e con i nostri incredibili tifosi significa tutto per me\"",
-      "url": "https://www.milannews.it/calciomercato-milan/pulisic-miele-rinnovare-milan-desiderio-legame-club-incredibili-tifosi-significa-me-634833",
-      "source": "milannews.it",
-      "date": "2026-11-01T17:11:30+00:00",
-      "summary": "Rinnovo e gol nel Derby: per Christian Pulisic è un momento d'oro."
-    },
-    {
-      "id": "1d0bae72c00b",
-      "title": "Amorim stravince il Derby con Chivu: difendersi col possesso, l'abbraccio a Carlos Fernandes e la battuta a Cardinale",
-      "url": "https://www.milannews.it/primo-piano/amorim-stravince-derby-chivu-difendersi-possesso-abbraccio-carlos-fernandes-battuta-cardinale-634832",
-      "source": "milannews.it",
-      "date": "2026-11-01T17:00:00+00:00",
-      "summary": "\"Ho zero invidia per Chivu, sono già nel posto giusto, cioè al Milan e non all'Inter\" aveva detto Amorim alla vigilia di Milan-Inter, rispondendo ad una domanda molto specifica sul fatto se invidiasse qualcosa all'alle ..."
     },
     {
       "id": "acd191f2a060",
@@ -58,52 +226,12 @@
       "summary": "AC Milan enjoyed perhaps their biggest high of the season on Saturday night as they beat city rivals Inter 3-1 under the San Siro lights. Milan went into the derby on a run of seven unbeaten against the Nerazzurri, and they extended the run to five wins in a row in a convincing display. Christian […"
     },
     {
-      "id": "452f22d4bb0f",
-      "title": "Serafini: \"Ieri dimostrazione che il Milan, quando è totalmente dentro la partita, può tenere testa a chiunque e disputare grandi partite\"",
-      "url": "https://www.milannews.it/news/serafini-ieri-dimostrazione-milan-totalmente-partita-tenere-testa-disputare-grandi-partite-634789",
-      "source": "milannews.it",
-      "date": "2026-11-01T16:49:17+00:00",
-      "summary": "Luca Serafini, giornalista, si è così espresso su MilanCommunityTV commentando la vittoria del Milan per 3-1 sull'Inter nel derby: \"Primo tempo, tutto nel primo tempo: un primo tempo fantasmagorico, con il Milan che segna due g ..."
-    },
-    {
-      "id": "a7e62c5c03dc",
-      "title": "Dopo la Prima Squadra anche il Milan U17 di Parolo vince il derby: il risultato",
-      "url": "https://www.milannews.it/settore-giovanile/squadra-milan-u17-parolo-vince-derby-risultato-634831",
-      "source": "milannews.it",
-      "date": "2026-11-01T16:36:55+00:00",
-      "summary": "Dopo la Prima Squadra anche il Milan U17, nel campionato Allievi Nazionali, vince il Derby contro l’Inter."
-    },
-    {
       "id": "0d3eabed0bca",
       "title": "Di Marzio: Inacio, Camarda and more – Amorim to hold talks with Krösche over transfers",
       "url": "https://sempremilan.com/inacio-camarda-amorim-krosche-transfers",
       "source": "sempremilan.com",
       "date": "2026-11-01T16:30:00+00:00",
       "summary": "After the victory in the derby against Inter, AC Milan have two more games before the November break. However, the mercato never stop. According to Gianluca Di Marzio, the official announcement of Markus Krösche’s arrival as the new Head of Football is expected on December 1st. Amorim will meet with"
-    },
-    {
-      "id": "060e47dc5dc4",
-      "title": "Milan Femminile, alle 18.00 la sfida col Como Women: le formazioni ufficiali",
-      "url": "https://www.milannews.it/milan-femminile/milan-femminile-18-00-sfida-como-women-formazioni-ufficiali-634830",
-      "source": "milannews.it",
-      "date": "2026-11-01T16:23:01+00:00",
-      "summary": "Alle 18.00 il fischio d’inizio di Como Women-Milan Women, valida per la quinta giornata di Serie A Women."
-    },
-    {
-      "id": "5b756a86e10d",
-      "title": "Longhi: \"Il derby ha detto in maniera inequivocabile che il progetto Milan ha già raggiunto un ottimo livello e deve essere perfezionato col mercato di gennaio\"",
-      "url": "https://www.milannews.it/news/longhi-il-derby-maniera-inequivocabile-progetto-milan-ha-raggiunto-ottimo-livello-perfezionato-merca-634829",
-      "source": "milannews.it",
-      "date": "2026-11-01T16:11:07+00:00",
-      "summary": "La vittoria del Milan nel Derby rimescola un po' le carte in tavola: i rossoneri scongiurano la crisi profonda e guadagnano - con merito - un bel boost di fiducia e autostima."
-    },
-    {
-      "id": "f9fea6a99193",
-      "title": "Serie A, Gattuso vince in rimonta ed è primo. Frosinone dominante col Torino",
-      "url": "https://www.milannews.it/news/serie-a-gattuso-vince-rimonta-primo-frosinone-dominante-torino-634828",
-      "source": "milannews.it",
-      "date": "2026-11-01T16:00:20+00:00",
-      "summary": "Terminano le due gare della domenica pomeriggio di Serie A: Lazio-Cagliari 2-1 e Frosinone-Torino 2-0."
     },
     {
       "id": "35fb811b2d70",
@@ -114,52 +242,12 @@
       "summary": "It ended up being a fun Saturday evening at San Siro thanks to the 3-1 win against Inter, as was also reflected in the fan ratings for the AC Milan players.  Eight derbies unbeaten. That is Milan’s current run in the fixture and given just how good last night’s win was, they are certainly on […]\nThe"
     },
     {
-      "id": "637a2ccb0a19",
-      "title": "Condò: \"Milan da scherzetto o cosa seria. Perché anche l'anno scorso batteva l'Inter, ma poi...\"",
-      "url": "https://www.milannews.it/news/condo-milan-scherzetto-seria-batteva-inter-poi-634788",
-      "source": "milannews.it",
-      "date": "2026-11-01T15:48:21+00:00",
-      "summary": "Paolo Condò, giornalista, si è così espresso sul Corriere della Sera dando un titolo al derby di ieri sera vinto per 3-1 dall'Inter sul Milan: \"Il titolo è: 'Scherzetto o cosa seria?'."
-    },
-    {
-      "id": "0afdac3e48d1",
-      "title": "Pulisic (quasi) come Pato: la bella statistica nelle sfide contro l'Inter",
-      "url": "https://www.milannews.it/news/pulisic-quasi-pato-bella-statistica-sfide-inter-634814",
-      "source": "milannews.it",
-      "date": "2026-11-01T15:36:00+00:00",
-      "summary": "Chris Pulisic è on fire! Un altro pesantissimo gol segnato contro l'Inter: così il bottino contro i nerazzurri aumenta di stagione in stagione."
-    },
-    {
       "id": "477df817266e",
       "title": "MN: ‘Baila Moreira’ – €51m fee starting to look like good value after dazzling derby debut",
       "url": "https://sempremilan.com/51m-fee-moreira-value-dazzling-derby",
       "source": "sempremilan.com",
       "date": "2026-11-01T15:30:00+00:00",
       "summary": "The man for the big moment was Diego Moreira, who asserted himself on the Milan derby like a star who had played in it 100 times before. As MilanNews write, it was a dazzling derby debut from Moreira after his €51m summer move from Strasbourg, a fee that raised some eyebrows. He got two assists […]\n"
-    },
-    {
-      "id": "b563d32b3212",
-      "title": "Primo Derby senza Baresi: l'iniziativa del club e dei dipendenti in ricordo del Capitano",
-      "url": "https://www.milannews.it/news/derby-baresi-iniziativa-club-dipendenti-ricordo-capitano-634826",
-      "source": "milannews.it",
-      "date": "2026-11-01T15:23:55+00:00",
-      "summary": "Negli ultimi giorni si è visto un grande tentativo di riavvicinamento e ricongiungimento di Gerry Cardinale verso il mondo rossonero: la cena con le \"Legends\", la premiazione di Kaká a San Siro con annesso ingresso nella Hall  ..."
-    },
-    {
-      "id": "91cdcd0665c8",
-      "title": "Pulisic festeggia rinnovo e derby vinto: \"Milano è rossonera e il Milan è casa mia\"",
-      "url": "https://www.milannews.it/news/pulisic-festeggia-rinnovo-derby-vinto-milano-rossonera-milano-casa-mia-634825",
-      "source": "milannews.it",
-      "date": "2026-11-01T15:11:15+00:00",
-      "summary": "Il rinnovo di contratto e l'ennesimo gol nel Derby: Christian Pulisic sta vivendo un periodo importante della sua avventura rossonera."
-    },
-    {
-      "id": "1c632cc1d3c9",
-      "title": "Modric infinito: \"Al Milan mi sento amato e apprezzato\". E racconta che è rimasto dopo aver parlato con Amorim",
-      "url": "https://www.milannews.it/primo-piano/modric-infinito-al-milan-sento-amato-apprezzato-racconta-rimasto-parlato-amorim-634822",
-      "source": "milannews.it",
-      "date": "2026-11-01T15:00:00+00:00",
-      "summary": "In mezzo a tutti i discorsi sulla gestione, le rotazioni e l'età Luka Modric usa quello che ha sempre usato in carriera per mettere tutti d'accordo: le prestazioni sul campo."
     },
     {
       "id": "3669b1c7a60a",
@@ -170,60 +258,12 @@
       "summary": "As is often the case with the derby win, there were a lot of fun facts and stats to delve into after the full-time whistle, including a free-kick rarity from Diego Moreira.  Many headed into the Derby della Madonnina with a lot of worry considering Inter’s strong start to the season, as well as Mila"
     },
     {
-      "id": "01dbcab22f99",
-      "title": "C'è anche Giorgia Meloni nel video celebrativo di Ibrahimovic per la vittoria nel Derby",
-      "url": "https://www.milannews.it/news/giorgia-meloni-video-celebrativo-ibrahimovic-vittoria-derby-634824",
-      "source": "milannews.it",
-      "date": "2026-11-01T14:59:59+00:00",
-      "summary": "Che Zlatan Ibrahimovic usasse i social in maniera abbastanza sopra le righe l'avevano capito un po' tutti, ma probabilmente oggi lo svedese ha alzato ulteriormente l'asticella."
-    },
-    {
-      "id": "f2ef0d400670",
-      "title": "Polverosi: \"Chivu voleva sorprendere, Amorim non si è avventura in scelte abbaglianti: la differenza l'hanno fatta i giocatori\"",
-      "url": "https://www.milannews.it/news/polverosi-chivu-voleva-sorprendere-amorim-avventura-scelte-abbaglianti-differenza-fatta-giocatori-634796",
-      "source": "milannews.it",
-      "date": "2026-11-01T14:47:17+00:00",
-      "summary": "Alberto Polverosi, giornalista, si è così espresso sul Corriere dello Sport commentando la vittoria del Milan per 3-1 nel derby contro l'Inter: \"Chivu voleva sorprendere, forse voleva sbancare con l’idea di cambiare asset ..."
-    },
-    {
-      "id": "1e7d40f17d04",
-      "title": "Milan sempre in gol contro l'Inter, così i nerazzurri soffrono il diavolo: il dato",
-      "url": "https://www.milannews.it/news/milan-gol-inter-nerazzurri-soffrono-diavolo-dato-634813",
-      "source": "milannews.it",
-      "date": "2026-11-01T14:36:00+00:00",
-      "summary": "Un grande Milan vince con merito 3-1 sull'Inter di Chivu. I rossoneri di Amorim sono stati protagonisti di una gara di grande intensità, voglia e aggressività."
-    },
-    {
       "id": "13882c6e1333",
       "title": "“Derbies aren’t played, they’re won” – Moreira lays the gauntlet as Milan continue unbeaten streak",
       "url": "https://sempremilan.com/moreira-lays-gauntlet-milan-continue-streak",
       "source": "sempremilan.com",
       "date": "2026-11-01T14:30:00+00:00",
       "summary": "Diego Moreira wrote himself into AC Milan history with three contributions on his derby debut last night and it’s clear that this may be the start. Before the game, Moreira spoke with confidence about the derby, even though he’d never played in the game before. Indeed, even before a ball was kicked,"
-    },
-    {
-      "id": "5093559650c6",
-      "title": "Di Marzio annuncia: \"A gennaio sicuramente un difensore. Poi, con Ramos...\"",
-      "url": "https://www.milannews.it/calciomercato-milan/marzio-annuncia-a-gennaio-sicuramente-difensore-poi-ramos-634784",
-      "source": "milannews.it",
-      "date": "2026-11-01T14:23:30+00:00",
-      "summary": "Gianluca Di Marzio, giornalista ed esperto di mercato, si è così espresso su SkySport sulle prossime mosse di calciomercato del Milan: \"Cardinale nel pre-partita ha detto: 'Presto ci sarà un annuncio', e si riferiva  ..."
-    },
-    {
-      "id": "fa4fc454917e",
-      "title": "Diawara emozionato: \"Serata speciale, felice di averla vissuta con questa maglia\"",
-      "url": "https://www.milannews.it/news/diawara-emozionato-serata-speciale-felice-averla-vissuta-maglia-634810",
-      "source": "milannews.it",
-      "date": "2026-11-01T14:12:44+00:00",
-      "summary": "Altra prova convincente di Sankhoun Diawara che è stato lanciato titolare dal primo minuto nel suo primo derby contro l'Inter."
-    },
-    {
-      "id": "19a278795c35",
-      "title": "VIDEO - Maignan, sono queste le manate che ci piacciono. Rivedi la grande parata su Spence",
-      "url": "https://www.milannews.it/news/video-maignan-manate-piacciono-rivedi-parata-spence-634823",
-      "source": "milannews.it",
-      "date": "2026-11-01T14:00:10+00:00",
-      "summary": "Due manate nel giro di pochi giorni e due esiti completamente diversi."
     },
     {
       "id": "ea9915c74111",
@@ -322,28 +362,12 @@
       "summary": "In last night’s Derby della Madonnina, AC Milan proved that Ruben Amorim has laid the foundations for a long-term project.  Considering how October had been for Milan, most arrived at the game torn about how it would go. If you offered most a draw, they’d take it on the spot. However, the squad didn"
     },
     {
-      "id": "2db587c72064",
-      "title": "Gallery: ‘Milan in ecstasy’, ‘A masterclass from Amorim’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/front-pages-1-november-milan-3-1-inter",
-      "source": "sempremilan.com",
-      "date": "2026-11-01T09:00:00+00:00",
-      "summary": "AC Milan pulled off a Halloween spectacular at San Siro last night as they beat city rivals Inter 3-1 in the derby. All four goals came in the first half, with Christian Pulisic’s header and Adrien Rabiot’s flick from a corner putting Milan in dreamland less than 10 minutes in. Alessandro Bastoni ha"
-    },
-    {
       "id": "1aeec419c3ad",
       "title": "Today’s Papers – Inter’s derby nightmare goes on, Moreira the king of Milan",
       "url": "https://football-italia.net/todays-papers-inters-derby-nightmare-goes-on-moreira-the-king-of-milan/",
       "source": "football-italia.net",
       "date": "2026-11-01T08:55:35+00:00",
       "summary": "Milan’s 3-1 derby win over Inter dominates the Italian sports papers, while Roma’s rout at..."
-    },
-    {
-      "id": "426a2de6ca1f",
-      "title": "“It’s not a surprise to me” – Pulisic delighted with Milan’s performance in derby win",
-      "url": "https://sempremilan.com/pulisic-delighted-milan-performance-derby-win",
-      "source": "sempremilan.com",
-      "date": "2026-10-31T22:51:22+00:00",
-      "summary": "Christian Pulisic believes AC Milan recorded an important win against Inter in the derby, but they must keep their heads down and continue working. Milan claimed the bragging rights in the derby, winning 3-1 at San Siro tonight thanks to three goals in the first half. The first came from a Christian"
     },
     {
       "id": "ea2cba3f462b",
@@ -360,14 +384,6 @@
       "source": "football-italia.net",
       "date": "2026-10-31T22:47:58+00:00",
       "summary": "Luka Modric feels that Milan put in their best performance of the season when they..."
-    },
-    {
-      "id": "b934158b7002",
-      "title": "Milano is red and black: Instant reaction to AC Milan 3-1 Inter",
-      "url": "https://sempremilan.com/instant-reaction-milan-3-1-inter-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-10-31T22:38:53+00:00",
-      "summary": "Stefano recorded his reaction to AC Milan’s crucial win against Inter straight after the full-time whistle, highlighting the individual brilliance that got them over the line.  The Derby della Madonnina is always a special game and one you want to win, but Milan were under a bit more pressure to do "
     },
     {
       "id": "c0901101e6c3",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-10-31T19:17:47+00:00",
       "summary": "Gerry Cardinale insists he wants to ‘get Milan back to the top’ and win the..."
-    },
-    {
-      "id": "a04574bdacd4",
-      "title": "Serie A official line-ups: Milan vs. Inter",
-      "url": "https://football-italia.net/serie-a-official-line-ups-milan-vs-inter-wk10/",
-      "source": "football-italia.net",
-      "date": "2026-10-31T18:42:26+00:00",
-      "summary": "Milan bring back Luka Modric, Christian Pulisic, Adrien Rabiot and Diego Moreira after their first..."
-    },
-    {
-      "id": "c8223e016f9e",
-      "title": "Serie A returns to British TV tonight: Watch Milan vs. Inter live on BBC2",
-      "url": "https://football-italia.net/serie-a-british-tv-milan-vs-inter-live-on-bbc2/",
-      "source": "football-italia.net",
-      "date": "2026-10-31T15:00:49+00:00",
-      "summary": "Live Italian football returns to free-to-air terrestrial television tonight, as the Derby della Madonnina between..."
     }
   ]
 }
