@@ -1,21 +1,301 @@
 {
-  "lastUpdated": "2026-11-06T11:48:17.630887+00:00",
+  "lastUpdated": "2026-11-06T18:53:13.504038+00:00",
   "articles": [
     {
-      "id": "e8e8cea70a92",
-      "title": "Presidenza FIGC, sarà Malagò vs Galliani: i programmi dei due candidati. La sfida si gioca su giovani e stadi",
-      "url": "https://www.milannews.it/news/presidenza-figc-malago-vs-galliani-programmi-candidati-sfida-gioca-giovani-stadi-635367",
+      "id": "c2ee95d442fb",
+      "title": "Lazio, Gattuso eletto allenatore del mese di ottobre",
+      "url": "https://www.milannews.it/news/calcio-lazio-gattuso-eletto-allenatore-mese-ottobre-635370",
       "source": "milannews.it",
-      "date": "2026-11-06T11:41:12+00:00",
-      "summary": "Il prossimo 14 dicembre saranno Giovanni Malagò e Adriano Galliani a sfidarsi per la presidenza della FIGC."
+      "date": "2026-11-06T18:40:45+00:00",
+      "summary": "(ANSA) - ROMA, 06 NOV - La Lazio vola in classifica, prima in solitaria con 3 punti di vantaggio sull'Inter, e sogna in grande."
     },
     {
-      "id": "869a5fe289ea",
-      "title": "Ferencvaros, Zachariassen: \"Venire a San Siro e vincere 2-0 contro il Milan è incredibile. È una serata di cui possiamo essere tutti orgogliosi\"",
-      "url": "https://www.milannews.it/l-avversario/ferencvaros-zachariassen-venire-san-siro-vincere-2-0-milan-incredibile-serata-possiamo-orgogliosi-635360",
+      "id": "17c8d79c40d8",
+      "title": "Pastore provocatorio: \"Magari qualcuno sta anche pensando di non farsi sfacchinate a vuote uscendo in semifinale e compromettendo anche il campionato\"",
+      "url": "https://www.milannews.it/news/pastore-provocatorio-magari-pensando-farsi-sfacchinate-vuote-uscendo-semifinale-compromettendo-campi-635358",
       "source": "milannews.it",
-      "date": "2026-11-06T11:31:45+00:00",
-      "summary": "Intervistao da M4 Sport dopo la vittoria in casa del Milan, Kristoffer Zachariassen, giocatore del Ferencvaros autore dell'assist in occasione del gol del 2-0, ha dichiarato: \"Venire qui a San Siro e vincere 2-0 contro il Milan è ovvi ..."
+      "date": "2026-11-06T18:30:49+00:00",
+      "summary": "Giuseppe Pastore, giornalista, si è così espresso a Cronache di Spogliatoio commentando la sconfitta del Milan contro il Ferencvaros: \"Il Milan ha giocato una partita indecorosa: l'ho detto in tutte le salse a Amorim, l'han ..."
+    },
+    {
+      "id": "df74229d32bd",
+      "title": "Elezioni Figc: Malagò evidenzia le differenze tra lui e Galliani",
+      "url": "https://www.milannews.it/news/elezioni-figc-malago-voglio-portare-innovazioni-coraggio-calcio-635245",
+      "source": "milannews.it",
+      "date": "2026-11-06T18:20:00+00:00",
+      "summary": "(ANSA) - ROMA, 05 NOV - \"Ho portato la candidatura perché mi sembrava doveroso dopo essere stato eletto il 22 giugno con una maggioranza importante e le tante vicende che sono successe tra pantouflage, tesseramento e dopo aver difeso l\u0003 ..."
+    },
+    {
+      "id": "1f0806cd7933",
+      "title": "GdS: A fourth failed test – Amorim risks going off track with consistent rotations",
+      "url": "https://sempremilan.com/amorim-risks-off-track-rotations",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T18:20:00+00:00",
+      "summary": "After another poor performance in midweek, questions are being asked about Ruben Amorim’s AC Milan squad and his ability to rotate. Amorim isn’t exactly to blame for last night; after a busy October, he had to rotate. However, results aren’t as strong when he opts to remove the starters and last nig"
+    },
+    {
+      "id": "918a3a4c1a14",
+      "title": "Bucciantini: \"In questo momento il Milan sta andando un po' in rima\"",
+      "url": "https://www.milannews.it/news/bucciantini-in-milan-andando-rima-635306",
+      "source": "milannews.it",
+      "date": "2026-11-06T18:10:46+00:00",
+      "summary": "Marco Bucciantini è intervenuto negli studi di Sky Sport 24 come opinionista per la partita che il Milan ha perso contro il Ferencvaros."
+    },
+    {
+      "id": "fd0ecc9e054f",
+      "title": "L'allenatore del Ferencvaros ha spiegato che erano pronti ad affrontare il Milan con qualsiasi sistema di gioco",
+      "url": "https://www.milannews.it/l-avversario/ferencvaros-borbely-2-0-milan-partita-perfetta-pronti-giocato-difensori-635363",
+      "source": "milannews.it",
+      "date": "2026-11-06T18:00:19+00:00",
+      "summary": "Intervistato da M4 Sport dopo la vittoria per 2-0 in casa del Milan in Europa Lague, Balázs Borbély, tecnico del Ferencvaros, ha commentato così la prestazione della sua squadra: \"Siamo tutti molto contenti, credo che questa ..."
+    },
+    {
+      "id": "90c78ded3f3c",
+      "title": "Pedullà: \"O fai l'Europa League per andare fino in fondo schierando i migliori, oppure rischi adesso di dover inseguire\"",
+      "url": "https://www.milannews.it/news/pedulla-chiaro-europa-league-determinato-andare-fondo-schierando-migliori-rischi-dover-inseguire-635348",
+      "source": "milannews.it",
+      "date": "2026-11-06T17:50:43+00:00",
+      "summary": "Alfredo Pedullà, giornalista, si è così espresso sul suo canale Youtube commentando la sconfitta del Milan contro il Ferencvaros: \"La prestazione del Milan è stata imbarazzante."
+    },
+    {
+      "id": "53e77251c38b",
+      "title": "Milan’s De Winter snubs Belgium call-up, Van Bommel warns: ‘It comes with consequences’",
+      "url": "https://football-italia.net/milans-de-winter-snubs-belgium-call-up/",
+      "source": "football-italia.net",
+      "date": "2026-11-06T17:45:00+00:00",
+      "summary": "Koni De Winter has turned down a call-up to the Belgium squad, and coach Mark..."
+    },
+    {
+      "id": "0a5af89604d8",
+      "title": "Su tutti i campi italiani si omaggerà Jesus de Miguel con un minuto di silenzio",
+      "url": "https://www.milannews.it/news/figc-1-raccoglimento-campi-ricordare-jesus-de-miguel-635305",
+      "source": "milannews.it",
+      "date": "2026-11-06T17:40:25+00:00",
+      "summary": "(ANSA) - ROMA, 05 NOV - Anche il calcio italiano rende omaggio a Jesus de Miguel."
+    },
+    {
+      "id": "bde7904403cf",
+      "title": "Romano: Milan remain obsessed with Inacio but Fonseca’s arrival could change things",
+      "url": "https://sempremilan.com/milan-obsessed-inacio-fonseca-arrival-change",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T17:40:00+00:00",
+      "summary": "It’s no secret that AC Milan will sign a defender in January, and one name is sitting firmly in the lead but he’s not alone. Since the summer, Milan have been obsessed with the idea of signing Goncalo Inacio. His name was constant through the mercato and on deadline day, the Rossoneri tried to pounc"
+    },
+    {
+      "id": "8f5ed27e5d38",
+      "title": "Ferencvaros, Joseph dopo la doppietta al Milan: \"Questa è una delle migliori serate della mia carriera\"",
+      "url": "https://www.milannews.it/l-avversario/ferencvaros-joseph-doppietta-milan-questa-migliori-serate-carriera-635362",
+      "source": "milannews.it",
+      "date": "2026-11-06T17:30:41+00:00",
+      "summary": "L'attaccante del Ferencvaros Lenny Joseph, autore di una doppietta contro il Milan, ha rilasciato queste parole ai microfoni di M4 Sport dopo il successo degli ungheresi contro i rossoneri a San Siro: \"Sono molto contento, avrei potuto segna ..."
+    },
+    {
+      "id": "540695bf0ccc",
+      "title": "Altro che la casa del Milan: in Europa il Milan ha vinto solo una delle ultime sette partite",
+      "url": "https://www.milannews.it/news/casa-milan-europa-milan-vinto-ultime-partite-635328",
+      "source": "milannews.it",
+      "date": "2026-11-06T17:20:13+00:00",
+      "summary": "Il Milan ha perso cinque delle ultime sette partite nelle competizioni europee (1V, 1N), dopo che aveva ottenuto cinque vittorie di fila in Champions League tra l’ottobre 2024 e il gennaio 2025. Lo riporta Opta."
+    },
+    {
+      "id": "303ac52ffc15",
+      "title": "F.Galli: \"Il Milan è diventato maestro di discontinuità\"",
+      "url": "https://www.milannews.it/news/f-galli-il-milan-maestro-discontinuita-635397",
+      "source": "milannews.it",
+      "date": "2026-11-06T17:10:00+00:00",
+      "summary": "L'ex difensore del Milan Filippo Galli ha parlato così, ai microfoni di SportMediaset direttamente dal Festibal dello Spettacolo 2026."
+    },
+    {
+      "id": "fe501c69495e",
+      "title": "Quote risultato esatto Genoa Milan",
+      "url": "https://www.milannews.it/scommesse/pronostici/quote-risultato-esatto-genoa-milan-635043",
+      "source": "milannews.it",
+      "date": "2026-11-06T17:00:00+00:00",
+      "summary": "Archiviata l'Europa League, il Milan si tuffa sul campionato per l'ultima partita prima della seconda sosta nazionali della stagione."
+    },
+    {
+      "id": "8bcb499fbde8",
+      "title": "Pronto, c'è Jashari? Lo svizzero delude ancora: non può essere lui l'erede di Modric",
+      "url": "https://www.milannews.it/primo-piano/pronto-jashari-svizzero-delude-ancora-erede-modric-serve-635388",
+      "source": "milannews.it",
+      "date": "2026-11-06T17:00:00+00:00",
+      "summary": "E' inutile sparare a zero solo sui singoli dopo una sconfitta così, come quella arrivata ieri sera contro gli ungheresi del Ferencvàros."
+    },
+    {
+      "id": "9b52e0eaa9ae",
+      "title": "“He made the decision” – Van Bommel reveals De Winter rejected international call-up",
+      "url": "https://sempremilan.com/van-bommel-reveals-de-winter-rejected",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T17:00:00+00:00",
+      "summary": "During the next international break, AC Milan will see Koni De Winter at Milanello, with him rejecting a call-up. De Winter has regularly been part of the Belgium set-up in recent years; however, his minutes have been few and far between, or at least they have recently. Before the World Cup, he was "
+    },
+    {
+      "id": "fa56716e5228",
+      "title": "Borghi: \"Io sono molto dalla parte di Amorim: è stato duro e diretto perché non è un discorso di scelte\"",
+      "url": "https://www.milannews.it/news/borghi-io-amorim-duro-diretto-discorso-scelte-635349",
+      "source": "milannews.it",
+      "date": "2026-11-06T16:50:30+00:00",
+      "summary": "Stefano Borghi, giornalista, si è così espresso a SkySport commentando la vittoria del Milan contro il Ferencvaros: \"Sono d'accordo con ciò che ha detto Amorim, sul discorso della mancanza di atteggiamento: c'&e ..."
+    },
+    {
+      "id": "ce80221db095",
+      "title": "Raimondi boccia Amorim: \"Turnover esagerato. Perché non partire con i titolarissimi visti nel derby e poi sostituirli?\"",
+      "url": "https://www.milannews.it/news/raimondi-boccia-amorim-turnover-esagerato-partire-titolarissimi-visti-derby-sostituirli-635385",
+      "source": "milannews.it",
+      "date": "2026-11-06T16:40:09+00:00",
+      "summary": "Ai microfoni di SportMediaset su Italia Uno, Claudio Raimondi ha commentato il turnover di Ruben Amorin nella gara di Europa League persa contro il Ferencvaros: \"Il turnover di Amorim ha un po' stupito."
+    },
+    {
+      "id": "4e531530640b",
+      "title": "Napoli, infortunio per Di Lorenzo: a forte rischio la sfida contro il Milan",
+      "url": "https://www.milannews.it/l-avversario/napoli-infortunio-lorenzo-forte-rischio-sfida-milan-635391",
+      "source": "milannews.it",
+      "date": "2026-11-06T16:30:00+00:00",
+      "summary": "Il momento del Napoli di Massimiliano Allegri continua ad essere duro, difficile e ricco di problemi. Il tema infortunati è alla base di tutte le vicende del club partenopeo, come il Milan reduce da una brutta figua in Europa."
+    },
+    {
+      "id": "ca628148848b",
+      "title": "A night of telling performances: Fan player ratings from AC Milan 0-2 Ferencvaros",
+      "url": "https://sempremilan.com/fan-player-ratings-milan-0-2-ferencvaros",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T16:30:00+00:00",
+      "summary": "After another disappointing midweek performance, AC Milan fans have left their ratings to the team’s performance against Ferencvaros.  The derby win was a chance for Milan to build some momentum before the international break and they failed to take that chance against Ferencvaros. From the first mi"
+    },
+    {
+      "id": "1b024cedb6ca",
+      "title": "Mercato Milan: Moretto analizza la situazione per gennaio di Camarda",
+      "url": "https://www.milannews.it/calciomercato-milan/mercato-milan-moretto-spiega-e-capire-situazione-francesco-camarda-635315",
+      "source": "milannews.it",
+      "date": "2026-11-06T16:20:24+00:00",
+      "summary": "In merito alle possibili mosse del Milan sul mercato di gennaio, Matteo Moretto ha raccontato in un video pubblicato sul canale YouTube di Fabrizio Romano: \n\nMORETTO SUL MERCATO DEL MILAN IN DIFESA\n\n\"Nei giorni scorsi abbiamo fatto il n ..."
+    },
+    {
+      "id": "462ad4d99f6a",
+      "title": "Ciarravano: \"Amorim ha detto alla squadra che non è che se tiene fuori 3-4 titolari, allora si può entrare in campo in quel modo\"",
+      "url": "https://www.milannews.it/news/ciarravano-amorim-squadra-tiene-3-4-titolari-entrare-campo-modo-635353",
+      "source": "milannews.it",
+      "date": "2026-11-06T16:10:21+00:00",
+      "summary": "Paolo Ciarravano, giornalista, si è così espresso su SkySport commentando le parole di Amorim dopo la sconfitta del Milan contro il Ferencvaros: \"Io credo che ciò che ha detto Amorim sia un chiaro messaggio alla squadra: cio ..."
+    },
+    {
+      "id": "9e7a7b530789",
+      "title": "Era successo anche nella stagione dell'ultimo Scudetto che il Milan perdesse tre partite su quattro in Europa",
+      "url": "https://www.milannews.it/news/successo-stagione-scudetto-milan-perdesse-partite-europa-635322",
+      "source": "milannews.it",
+      "date": "2026-11-06T16:00:33+00:00",
+      "summary": "Il Milan ha perso tre delle prime quattro partite stagionali nelle principali competizioni europee solo per la seconda volta nella sua storia, dopo il 2021/22 (1N, 3P in quel caso), anche se gli avversari (Liverpool, Atletico Madrid e Porto fuori cas ..."
+    },
+    {
+      "id": "01ed072a64ab",
+      "title": "CM: Pavlovic a doubt for Genoa after training separately on Friday – the latest",
+      "url": "https://sempremilan.com/pavlovic-doubt-genoa-training-separately",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T16:00:00+00:00",
+      "summary": "After missing Thursday’s game against Ferencvaros, AC Milan may be without Strahinja Pavlovic against Genoa.  Ahead of the midweek game, it was reported that Pavlovic was not in training and could miss the game against Ferencvaros after being used heavily in the October period. So, it was not a shoc"
+    },
+    {
+      "id": "b4e6003bc4f8",
+      "title": "PROBABILE FORMAZIONE - Verso Genoa-Milan: un grosso dubbio in difesa, tornano i titolari",
+      "url": "https://www.milannews.it/news/probabile-formazione-milan-genoa-amorim-rabiot-pulisic-modric-gila-635389",
+      "source": "milannews.it",
+      "date": "2026-11-06T15:55:19+00:00",
+      "summary": "Dopo la pesante sconfitta casalinga contro il Ferenvaros in Europa League, il Milan di Ruben Amorim torna a tuffarsi sul campionato prima di riposarsi per la seconda sosta stagionale per le nazionali."
+    },
+    {
+      "id": "61403b07a014",
+      "title": "Gozzini: \"Difficile che alla quarta bocciatura di ieri, Amorim faccia seguire un quinto tentativo di turnover massiccio\"",
+      "url": "https://www.milannews.it/news/gozzini-difficile-quarta-bocciatura-ieri-amorim-seguire-tentativo-turnover-massiccio-635346",
+      "source": "milannews.it",
+      "date": "2026-11-06T15:50:38+00:00",
+      "summary": "Alessandra Gozzini, giornalista, si è così espressa su La Gazzetta dello Sport commentando la sconfitta del Milan contro il Ferencvaros: \"Questo Milan non è una squadra da turnover: gira e rigira, perde orientamento e certez ..."
+    },
+    {
+      "id": "5e4c93683984",
+      "title": "Europa League: How many points Milan and Juventus need to qualify",
+      "url": "https://football-italia.net/europa-league-how-many-points-milan-juventus/",
+      "source": "football-italia.net",
+      "date": "2026-11-06T15:38:39+00:00",
+      "summary": "Juventus and Milan are heading in opposite directions in the Europa League, and a new..."
+    },
+    {
+      "id": "f4d994af8702",
+      "title": "Costacurta angered by ‘timid’ Milan performance vs. Ferencvaros: “One extreme to another”",
+      "url": "https://sempremilan.com/costacurta-angered-timid-milan-performance",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T15:30:00+00:00",
+      "summary": "After the defeat to Ferencvaros, the mood around AC Milan has worsened significantly, as you’d expect it to. The win against Inter at the weekend has already been diminished in importance. It still means a lot, but the significance of it has been weighed down by yet another midweek defeat against – "
+    },
+    {
+      "id": "ff2caafd15c0",
+      "title": "Watch: Milan deliver dreadful display in latest European loss to Ferencvaros – the highlights",
+      "url": "https://sempremilan.com/milan-0-2-ferencvaros-watch-match-highlights",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T15:00:00+00:00",
+      "summary": "AC Milan had another night to forget in the Europa League on Thursday as they were beaten 2-0 by high-flying Ferencvaros. Milan needed to bounce back having lose two of their first three games in the competition, and despite being buoyed by Saturday’s derby win over Inter, they managed to deliver th"
+    },
+    {
+      "id": "1f601f8cb480",
+      "title": "CM: Amorim let down again in another European debacle – the players whose stock has dropped",
+      "url": "https://sempremilan.com/amorim-let-down-players-stock-dropped",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T14:30:00+00:00",
+      "summary": "There are several players that are at risk of slipping down Ruben Amorim’s pecking order with displays like the one against Ferencvaros. Calciomercato.com write that three clues add up to mean that we can say with certainty that Milan are not aiming to win the Europa League despite being one of the "
+    },
+    {
+      "id": "0809ac8179a4",
+      "title": "Daily Briefing: Liverpool, Man Utd and Chelsea all scouting Milan centre-back",
+      "url": "https://sempremilan.com/liverpool-manchester-united-chelsea-de-winter",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T14:00:00+00:00",
+      "summary": "AC Milan defender Koni De Winter is attracting interest from three top clubs in the Premier League, according to a report. De Winter had a night to forget last night as he was among the worst performers in Milan’s 2-0 defeat to Ferencvaros. However, just a few nights prior he kept Marcus Thuram unde"
+    },
+    {
+      "id": "a1cd7b72e01b",
+      "title": "Moretto: Milan eyeing Club Brugge star Tresoldi after almost landing him previously",
+      "url": "https://sempremilan.com/milan-eyeing-club-brugge-star-tresoldi",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T13:30:00+00:00",
+      "summary": "Matteo Moretto claims that AC Milan have begun studying the terms of a potential deal to sign Club Brugge star Nicolo Tresoldi. There was a lot of clamour for Milan to go out and make an attempt for Tresoldi after his hat-trick against Inter during Club Brugge’s Champions League win at San Siro. The"
+    },
+    {
+      "id": "31407a98063f",
+      "title": "First Portugal call-up for Monza’s Varela alongside Mora, Ramos and Tavares",
+      "url": "https://football-italia.net/first-portugal-call-up-for-monzas-varela/",
+      "source": "football-italia.net",
+      "date": "2026-11-06T13:05:21+00:00",
+      "summary": "In-form Monza striker Gustavo Varela has earned his first call-up to the Portugal national team..."
+    },
+    {
+      "id": "d7663f526339",
+      "title": "Amorim offers honest Milan reflection: “We’re not ready, we’re far from being a really strong team”",
+      "url": "https://sempremilan.com/amorim-honest-milan-far-from-strong-team",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T13:00:00+00:00",
+      "summary": "Ruben Amorim continued the criticism of his AC Milan side after their dismal defeat to Ferencvaros, branding them ‘not ready’ to compete on multiple fronts. Amorim made the decision to enact six changes to the starting line-up from the team that beat Inter convincingly in the derby at the weekend, b"
+    },
+    {
+      "id": "2f703cddeebc",
+      "title": "De Bruyne, Moreira and Keita among Serie A stars in Belgium squad to face Italy",
+      "url": "https://football-italia.net/de-bruyne-moreira-in-belgium-squad-vs-italy/",
+      "source": "football-italia.net",
+      "date": "2026-11-06T12:43:44+00:00",
+      "summary": "Five Serie A players have been included in the latest Belgium national team squad by..."
+    },
+    {
+      "id": "dc042a4ea0b9",
+      "title": "CorSera: Milan display ‘unacceptable arrogance’ and ‘unmotivated snobbery’ in latest defeat",
+      "url": "https://sempremilan.com/milan-display-unacceptable-arrogance-unmotivated-snobbery",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T12:30:00+00:00",
+      "summary": "The media are quite rightly being critical of AC Milan after their dismal display against Ferencvaros in the Europa League last night. Milan fell to their third defeat in four to begin their European campaign, following up the previous defeats to Benfica (0-2) and Bournemouth (3-0) with another loss"
+    },
+    {
+      "id": "9b29836b8de8",
+      "title": "Moretto: Krösche ‘continues to push’ to bring Hardung with him to Milan – the situation",
+      "url": "https://sempremilan.com/krosche-continues-push-hardung-milan-situation",
+      "source": "sempremilan.com",
+      "date": "2026-11-06T12:00:00+00:00",
+      "summary": "Matteo Moretto has confirmed that Markus Krösche will look to try and bring Timmo Hardung with him to AC Milan. In the past few days, there have been reports from a number of sources claiming that Gerry Cardinale is finally going to get the man that he has wanted for a few months. Krösche – […]\nThe "
     },
     {
       "id": "ce955167704b",
@@ -26,68 +306,12 @@
       "summary": "AC Milan slumped to their third Europa League defeat last night, losing 2-0 to Ferencvaros, and the Italian media haven’t held back. Milan never got going at all, in stark contrast to Saturday’s derby win. The hero of the night for the Hungarian side was without doubt Lenny Joseph, who netted twice "
     },
     {
-      "id": "9289fb609ce1",
-      "title": "Milan, ieri l'ennesima conferma che a gennaio servirà il mercato per alzare il livello della panchina",
-      "url": "https://www.milannews.it/news/milan-ennesima-conferma-gennaio-servira-mercato-alzare-livello-panchina-635333",
-      "source": "milannews.it",
-      "date": "2026-11-06T11:21:28+00:00",
-      "summary": "Secondo il Corriere della Sera, ieri nella brutta sconfitta del Milan contro il Ferencvaros è arrivata l'ennesima conferma che a gennaio servirà rinforzare la rosa milanista per alzare il livello delle alternative ai titolari."
-    },
-    {
-      "id": "a61e99f8d9bb",
-      "title": "Verso Genoa-Milan: domani niente conferenza stampa della vigilia di Amorim",
-      "url": "https://www.milannews.it/da-milanello/genoa-milan-domani-conferenza-stampa-vigilia-amorim-635368",
-      "source": "milannews.it",
-      "date": "2026-11-06T11:11:19+00:00",
-      "summary": "Dopo l'ennesima sconfitta di ieri in Europa League, il Milan deve tornare a pensare al campionato e alla prossima sfida in programma domenica alle 15 sul campo del Genoa."
-    },
-    {
-      "id": "96060aff9f31",
-      "title": "Furia Amorim: che strigliata ai giocatori! E lancia un allarme preoccupante",
-      "url": "https://www.milannews.it/primo-piano/furia-amorim-strigliata-giocatori-lancia-allarme-preoccupante-635341",
-      "source": "milannews.it",
-      "date": "2026-11-06T11:00:35+00:00",
-      "summary": "Dopo la terza sconfitta in quattro partite di Europa League, che complica particolarmente la corsa agli ottavi, Ruben Amorim si è sfogato duramente nel post-partita di Milan-Ferencvaros, prendendosi per primo le sue responsabità, ma str ..."
-    },
-    {
       "id": "508c29e73aa5",
       "title": "Ferencvaros manager Borbely explains how they ‘outclassed’ Milan: “Prepared for every single eventuality”",
       "url": "https://sempremilan.com/ferencvaros-borbely-how-outclassed-milan",
       "source": "sempremilan.com",
       "date": "2026-11-06T11:00:00+00:00",
       "summary": "Ferencvaros head coach Balazs Borbely has admitted that he was prepared for everything AC Milan threw at his side. Milan went into the game hoping for a victory after losing two of their first three in the Europa League, and what followed was their worst performance under Ruben Amorim. Lenny Joseph’"
-    },
-    {
-      "id": "b85a54a89f1b",
-      "title": "Pagelle Gazzetta: si salvano solo in tre, pioggia di 4 e 4,5",
-      "url": "https://www.milannews.it/news/pagelle-gazzetta-salvano-tre-pioggia-4-4-5-635354",
-      "source": "milannews.it",
-      "date": "2026-11-06T10:50:07+00:00",
-      "summary": "Nelle pagelle odierne della Gazzetta dello Sport ci sono solo tre giocatori del Milan che hanno preso la sufficienza nel match di Europa League di ieri contro il Ferencvaros: si tratta di Diawara, Hutchinson e Moreira, i quali hanno preso 6."
-    },
-    {
-      "id": "4ff41305c7ae",
-      "title": "Condò: \"Al Milan del primo tempo di ieri mancava solo la maglia con la scritta 'non ce ne frega dell’Europa League'\"",
-      "url": "https://www.milannews.it/news/condo-al-milan-mancava-maglia-scritta-ce-frega-dell-europa-league-635337",
-      "source": "milannews.it",
-      "date": "2026-11-06T10:40:31+00:00",
-      "summary": "Paolo Condò ha commentato così sulle pagine del Corriere della Sera la sconfitta di ieri sera del Milan contro il Ferencvaros: \"La Juve è lanciata verso la qualificazione diretta agli ottavi perché ha capito, a differ ..."
-    },
-    {
-      "id": "177c2102ceb3",
-      "title": "Quote Milan vincente Europa League, le scommesse sui rossoneri",
-      "url": "https://www.milannews.it/scommesse/quote-antepost/quote-milan-vincente-europa-league-624909",
-      "source": "milannews.it",
-      "date": "2026-11-06T10:35:00+00:00",
-      "summary": "Una prima metà di League Phase di Europa League disastrosa per il Milan. Tre sconfitte su quattro, di cui due maturate a San Siro contro Benfica e Ferencvaros, senza riuscire a trovare la via del gol."
-    },
-    {
-      "id": "628ceaa97316",
-      "title": "Hutchinson a MTV: \"Amorim ci parla spesso della tendenza che abbiamo di iniziare le partite a rilento. Serve umiltà e fame di vittoria\"",
-      "url": "https://www.milannews.it/news/hutchinson-mtv-amorim-parla-tendenza-iniziare-partite-rilento-serve-umilta-fame-vittoria-635338",
-      "source": "milannews.it",
-      "date": "2026-11-06T10:30:00+00:00",
-      "summary": "Omari Hutchinson, attaccante del Milan, è stato intervistato da MilanTV, canale ufficiale del club rossonero, al termine di Milan-Ferencvaros (0-2) di Europa League: \"La penso come il mister."
     },
     {
       "id": "4c3eb4cd9ff9",
@@ -98,60 +322,12 @@
       "summary": "Ruben Amorim held a discussion with the team after the full-time whistle in the defeat to Ferencvaros, a report has claimed. Milan lost 2-0 to the Hungarian side at San Siro last night, further complicating their Europa League campaign. The current table reads just three points earned in four games,"
     },
     {
-      "id": "9be73a004aa7",
-      "title": "Costacurta non ha dubbi: \"Rabiot è stato il peggiore in campo\"",
-      "url": "https://www.milannews.it/news/costacurta-dubbi-rabiot-peggiore-campo-635303",
-      "source": "milannews.it",
-      "date": "2026-11-06T10:20:00+00:00",
-      "summary": "Difficile salvare qualcuno dopo la prestazione del Milan giovedì sera contro il Ferencvaros. Altra gara europea, altro risultato deludente e in questo caso anche abbastanza vergognoso."
-    },
-    {
-      "id": "d0b5fcbd6b24",
-      "title": "Milan verso il calciomercato di gennaio: Krosche potrebbe anticipare il suo arrivo",
-      "url": "https://www.milannews.it/calciomercato-milan/mn-milan-calciomercato-gennaio-krosche-anticipare-arrivo-635359",
-      "source": "milannews.it",
-      "date": "2026-11-06T10:10:33+00:00",
-      "summary": "Il Milan ha ormai definitio la scelta per il nuovo Head of Football del club rossonero: sarà - come noto - Markus Krosche, ex capo dell'area sportiva dell'Eintracht Francoforte."
-    },
-    {
-      "id": "672eda387094",
-      "title": "Bartesaghi a MTV: \"Siamo entrati in campo con l'atteggiamento sbagliato: brutta batosta\"",
-      "url": "https://www.milannews.it/news/bartesaghi-mtv-siamo-entrati-campo-atteggiamento-sbagliato-brutta-batosta-635336",
-      "source": "milannews.it",
-      "date": "2026-11-06T10:00:11+00:00",
-      "summary": "Davide Bartesaghi, difensore del Milan, è stato intervistato da MilanTV, canale ufficiale del club rossonero, al termine di Milan-Ferencvaros (0-2) di Europa League: \"Abbiamo rovinato tutto quello che era stato fatto di bello, doveva ..."
-    },
-    {
       "id": "730ee99b0503",
       "title": "Hutchinson worryingly claims ‘a lot’ of Milan players ‘didn’t show that hunger’ in Ferencvaros loss",
       "url": "https://sempremilan.com/hutchinson-milan-players-didnt-show-hunger",
       "source": "sempremilan.com",
       "date": "2026-11-06T10:00:00+00:00",
       "summary": "Omari Hutchinson has questioned the desire of some of the players in the AC Milan squad who are not playing regularly. Milan sunk to perhaps their lowest point of Ruben Amorim’s tenure so far as they were beaten 2-0 by Ferencvaros. The away side were good value for the win, and it complicates the mi"
-    },
-    {
-      "id": "a47322caca23",
-      "title": "Moretto: \"Krosche spinge per l'arrivo anche di un ds. Nella sua testa c'è sempre il nome di Hardung\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-krosche-spinge-arrivo-ds-testa-hardung-635314",
-      "source": "milannews.it",
-      "date": "2026-11-06T09:48:07+00:00",
-      "summary": "Matteo Moretto, intervenuto in un video sul canale YouTube di Fabrizio Romano, ha commentato così l'arrivo al Milan di Markus Krosche e non ha escluso che possa arrivare nel club di via Aldo Rossi anche un nuovo direttore sportivo:\n\nMORE ..."
-    },
-    {
-      "id": "cc0d24788bec",
-      "title": "Milan, ci siamo quasi per Krosche: trattativa in fase di definizione, all'Eintracht 4 milioni",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-krosche-trattativa-fase-definizione-eintracht-4-635331",
-      "source": "milannews.it",
-      "date": "2026-11-06T09:38:34+00:00",
-      "summary": "Come anticipato ieri da Milannews.it e confermato questa mattina anche da Tuttosport, il Milan sta definendo gli ultimissimi dettagli per l'arrivo in rossonero di Markus Krosche come nuovo Head of Football."
-    },
-    {
-      "id": "5a8c7a2887c4",
-      "title": "Milan, il retroscena dopo il Ferencvaros: la furia di Amorim in spogliatoio, la reazione di Cardinale. Cos’è successo",
-      "url": "https://www.milannews.it/primo-piano/milan-retroscena-ferencvaros-furia-amorim-spogliatoio-reazione-cardinale-cos-e-successo-635342",
-      "source": "milannews.it",
-      "date": "2026-11-06T09:30:07+00:00",
-      "summary": "La sconfitta per 0-2 del Milan contro il Ferencvaros nella quarta giornata della League Phase di UEFA Europa League ha avuto strascichi di non poco conto all’interno dello spogliatoio rossonero."
     },
     {
       "id": "ff0067fe2fa5",
@@ -170,30 +346,6 @@
       "summary": "An extra spot in next season’s Champions League is still looking like a long-shot for..."
     },
     {
-      "id": "87ec01540bc1",
-      "title": "Amorim a MTV: \"Dobbiamo solo chiedere scusa ai nostri tifosi per la prestazione\"",
-      "url": "https://www.milannews.it/news/amorim-mtv-dobbiamo-chiedere-scusa-tifosi-prestazione-635335",
-      "source": "milannews.it",
-      "date": "2026-11-06T09:20:00+00:00",
-      "summary": "Ruben Amorim, allenatore del Milan, è stato intervistato da MilanTV, canale ufficiale del club rossonero, al termine di Milan-Ferencvaros (0-2) di Europa League: \"Dobbiamo solo chiedere scusa ai nostri tifosi per la prestazione, perc ..."
-    },
-    {
-      "id": "9f763bffe821",
-      "title": "Milan, Gonçalo Inacio sempre in lista. Romano rivela: \"In estate ci sono stati tentativi diversi con formule diverse\"",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-goncalo-inacio-lista-romano-rivela-in-estate-tentativi-diversi-formule-diverse-635310",
-      "source": "milannews.it",
-      "date": "2026-11-06T09:08:47+00:00",
-      "summary": "In un video sul suo canale YouTube, Fabrizio Romano ha parlato così del mercato di gennaio del Milan che sicuramente prenderà un nuovo difensore: \"Sicuramente un difensore arriverà."
-    },
-    {
-      "id": "8d163daf4f9b",
-      "title": "Milan da scudetto? Ordine: \"Sarebbe già un’impresa vincere la concorrenza strepitosa di un posto in Champions\"",
-      "url": "https://www.milannews.it/news/milan-scudetto-ordine-sarebbe-un-impresa-vincere-concorrenza-strepitosa-champions-635317",
-      "source": "milannews.it",
-      "date": "2026-11-06T09:00:22+00:00",
-      "summary": "Sulle colonne del Corriere dello Sport, Franco Ordine ha parlato così del Milan che ieri ha perso contro il Ferencvaros in Europa League: \"Come si può spiegare altrimenti un cammino così a zig zag, poco rassicurante, se non  ..."
-    },
-    {
       "id": "82fa4d4e7903",
       "title": "Gallery: ‘An unwatchable performance’, ‘The other side of Milan’ – Today’s front pages in Italy",
       "url": "https://sempremilan.com/front-pages-6-november-milan-0-2-ferencvaros",
@@ -210,28 +362,12 @@
       "summary": "Milan legend Alessandro Costacurta did not hold back on Milan after their 2-0 defeat at..."
     },
     {
-      "id": "c20b90f7fc95",
-      "title": "Hutchinson a CBS: \"Tanti di quelli che non giocano non hanno mostrato la fame di volere una maglia da titolare\"",
-      "url": "https://www.milannews.it/news/hutchinson-cbs-tanti-giocano-mostrato-fame-volere-maglia-titolare-635334",
-      "source": "milannews.it",
-      "date": "2026-11-06T08:50:00+00:00",
-      "summary": "Omari Hutchinson, attaccante del Milan, è stato intervistato da CBS Sports Golazo al termine di Milan-Ferencvaros (0-2) di Europa League.\n\nCosa non ha funzionato?\n\n\"Penso che abbiamo avuto un inizio molto lento."
-    },
-    {
       "id": "42d3112ff7e7",
       "title": "Today’s Papers: Kolo Muani steps up for Juve, Milan brutal, Ronaldo goodbye",
       "url": "https://football-italia.net/todays-papers-kolo-muani-steps-up-for-juve/",
       "source": "football-italia.net",
       "date": "2026-11-06T08:46:42+00:00",
       "summary": "La Gazzetta dello Sport  Kolo Muasi  Europa League: Juve close to the round of 16 ..."
-    },
-    {
-      "id": "5178ba21374b",
-      "title": "Moretto e il retroscena sul milanista Tresoldi: \"Anni fa il Milan aveva chiuso per lui. Vedremo se a gennaio...\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-retroscena-milanista-tresoldi-anni-milan-chiuso-lui-vedremo-gennaio-635309",
-      "source": "milannews.it",
-      "date": "2026-11-06T08:39:54+00:00",
-      "summary": "In merito alle possibili mosse del Milan sul mercato di gennaio, Matteo Moretto ha raccontato in un video pubblicato sul canale YouTube di Fabrizio Romano: \n\nMORETTO SUL MERCATO DEL MILAN IN DIFESA\n\n\"Nei giorni scorsi abbiamo fatto il n ..."
     },
     {
       "id": "0351b504a86b",
@@ -266,46 +402,6 @@
       "summary": "Ruben Amorim was furious and bemused by Milan’s 2-0 Europa League defeat to Ferencvaros. ‘There..."
     },
     {
-      "id": "9fbf9e989ea4",
-      "title": "Third defeat in four games: Instant reaction to AC Milan 0-2 Ferencvaros",
-      "url": "https://sempremilan.com/instant-reaction-milan-0-2-ferencvaros-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T20:31:17+00:00",
-      "summary": "Lorenzo recorded his reaction to AC Milan’s defeat to Ferencvaros straight after the full-time whistle, highlighting what many Milanisti are feeling right now. Milan knew that they more or less needed a win tonight to revive their Europa League campaign, following two defeats in the first three game"
-    },
-    {
-      "id": "2fe0c22dc04a",
-      "title": "“It’s about ambition, concentration, desire” – Amorim tears into Milan after Ferencvaros defeat",
-      "url": "https://sempremilan.com/amorim-tears-into-milan-ferencvaros-defeat",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T20:18:15+00:00",
-      "summary": "AC Milan head coach Ruben Amorim did not hold back on his team’s performance after the 2-0 Europa League defeat to Ferencvaros.  Milan needed a win having lost two of their first three games in Europe, and instead they responded with perhaps their worst performance under Amorim. Lenny Joseph’s secon"
-    },
-    {
-      "id": "5df104a2f78d",
-      "title": "De Winter left struggling to explain Ferencvaros loss: “It’s mental, everything is mental”",
-      "url": "https://sempremilan.com/de-winter-everything-mental-ferencvaros-loss",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T20:08:20+00:00",
-      "summary": "Koni De Winter believes that the AC Milan squad are suffering psychologically in certain games, such as the defeat to Ferencvaros. Milan fell to their third defeat in four to begin their Europa League campaign, following up the previous 2-0 and 3-0 defeats to Benfica and Bournemouth respectively wit"
-    },
-    {
-      "id": "87e1b8a7d38c",
-      "title": "Player Ratings: AC Milan 0-2 Ferencvaros – Torriani howler; several struggle",
-      "url": "https://sempremilan.com/player-ratings-ac-milan-0-2-ferencvaros-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T19:58:59+00:00",
-      "summary": "AC Milan failed to revive their Europa League campaign, losing 2-0 at home to Ferencvaros. Several players failed to perform and below are the ratings for the Rossoneri.  After a mere three points in three games, Milan headed into the clash knowing that a win was more or less a must. Sadly, that did"
-    },
-    {
-      "id": "aa9f1e29f591",
-      "title": "AC Milan 0-2 Ferencvaros: Rossoneri fall to another dire Europa League defeat",
-      "url": "https://sempremilan.com/ac-milan-0-2-ferencvaros-match-report",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T19:39:20+00:00",
-      "summary": "AC Milan fell to a third Europa League defeat in four games as they were beaten 2-0 at home by Ferencvaros. The hero of the night for the Hungarian side was without doubt Lenny Joseph, who netted twice in the second half to capitalise firstly on a loose touch from Lorenzo Torriani and then from […]\n"
-    },
-    {
       "id": "fb0124502133",
       "title": "UEL | Milan 0-2 Ferencvaros: Dismal Rossoneri risk quick Europa exit",
       "url": "https://football-italia.net/uel-milan-0-2-ferencvaros-dismal-rossoneri/",
@@ -322,76 +418,12 @@
       "summary": "Ruben Amorim explains why he had to start Adrien Rabiot as Milan captain against Ferencvaros..."
     },
     {
-      "id": "9329649e253f",
-      "title": "Amorim explains selection decisions including ‘strange’ Pavlovic absence in ‘crucial’ game",
-      "url": "https://sempremilan.com/amorim-selection-decisions-strange-pavlovic-absence",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T17:25:44+00:00",
-      "summary": "AC Milan head coach Ruben Amorim has admitted that the match against Ferencvaros is ‘crucial’, but rotation was necessary. With only three points on the board and five games left in the league phase, there is no more margin for error if Milan are to get themselves up the table towards top eight spot"
-    },
-    {
-      "id": "879ca4187ed0",
-      "title": "Cisse says Milan ‘need to forget’ about derby win amid Europa League struggles",
-      "url": "https://sempremilan.com/cisse-milan-forget-derby-europa-league",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T17:07:47+00:00",
-      "summary": "Alphadjo Cisse spoke to the media this evening and said that Milan need to forget about the derby win and build on the momentum with more wins.  The derby win certainly put Milan and the fans on cloud nine, especially since it wasn’t just a narrow 1-0 win. However, they now need to put some […]\nThe "
-    },
-    {
-      "id": "e36e300e9451",
-      "title": "AC Milan vs. Ferencvaros: Live updates and commentary from the Europa League clash",
-      "url": "https://sempremilan.com/ac-milan-ferencvaros-live-updates-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T17:00:00+00:00",
-      "summary": "{rsn-live-v2}\nThe post AC Milan vs. Ferencvaros: Live updates and commentary from the Europa League clash appeared first on SempreMilan."
-    },
-    {
       "id": "a2e59759bfc6",
       "title": "Europa League line-ups: Milan vs. Ferencvaros",
       "url": "https://football-italia.net/europa-league-line-ups-milan-vs-ferencvaros/",
       "source": "football-italia.net",
       "date": "2026-11-05T16:36:34+00:00",
       "summary": "Milan need to bring some of their Derby della Madonnina performance to the Europa League..."
-    },
-    {
-      "id": "4e4bf62a3123",
-      "title": "Official: Starting XIs for AC Milan vs. Ferencvaros – six changes from Inter win",
-      "url": "https://sempremilan.com/official-starting-xis-ac-milan-ferencvaros-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T16:36:12+00:00",
-      "summary": "Ruben Amorim has named his starting line-up for the game against Ferencvaros, and he has gone with a young team as expected. Defeats to Benfica and Bournemouth have left Milan needed a turnaround in the Europa League to keep alive their top eight hopes. There are five games left to salvage things, t"
-    },
-    {
-      "id": "c51c7b1a35b4",
-      "title": "GdS: Milan’s €500m Adidas deal causes reaction from rivals Inter – the situation",
-      "url": "https://sempremilan.com/milan-500m-adidas-inter-nike-reaction",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T16:00:00+00:00",
-      "summary": "Inter are looking enviously at their city rivals AC Milan once again after Saturday’s derby, with the news of the record Adidas deal emerging. As reported by La Gazzetta dello Sport on Wednesday, under the new agreement Adidas will pay Milan €50m per year for ten seasons starting from 2028-29. This "
-    },
-    {
-      "id": "5251b92e6389",
-      "title": "GdS: A combined salary less than Ramos’ – the story behind the Ferencvaros ‘miracle’",
-      "url": "https://sempremilan.com/story-ferencvaros-miracle-salary-less-ramos",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T15:30:00+00:00",
-      "summary": "AC Milan’s opponents Ferencvaros are one of a few teams to have a perfect record in the Europa League, and their story is a fascinating one. Ferencváros arrive at San Siro having won all three of their league phase games thus far. In addition to that, they are 20 unbeaten across all competitions and"
-    },
-    {
-      "id": "38e2a19bdc6e",
-      "title": "First meeting against a team 20 unbeaten: All the key stats ahead of Milan vs. Ferencvaros",
-      "url": "https://sempremilan.com/all-key-stats-ac-milan-ferencvaros-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T15:00:00+00:00",
-      "summary": "The first ever competitive meeting between AC Milan and Ferencvaros will take place at San Siro this evening in the Europa League. Milan have played four times in history against Hungarian opponents. The first time was in the 1967-68 Cup Winners’ Cup, when the Rossoneri draw 2-2 away and 1-1 at home"
-    },
-    {
-      "id": "75f62e8f63cf",
-      "title": "Nagy hoping Ferencvaros play in front of ‘50,000 to 60,000 fans’ vs. Milan",
-      "url": "https://sempremilan.com/nagy-hoping-ferencvaros-60000-fans-milan",
-      "source": "sempremilan.com",
-      "date": "2026-11-05T14:30:00+00:00",
-      "summary": "Adam Nagy is looking forward to playing at San Siro in front of a big crowd as he leads Ferencvaros out against AC Milan. Ferencvaros have every reason to come into this game full of confidence having won each of their three Europa League fixtures so far. Nagy has become a key part of the […]\nThe po"
     },
     {
       "id": "66af8323cea8",
@@ -448,38 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-11-04T12:40:53+00:00",
       "summary": "La Gazzetta dello Sport reports that Milan have reached a record €50m-a-year agreement with kit..."
-    },
-    {
-      "id": "7ab25b39331d",
-      "title": "Football Italia Show: English misfires vs Serie A’s €2.5M top scorer! VIDEO",
-      "url": "https://football-italia.net/football-italia-show-english-misfires-2-5m-top/",
-      "source": "football-italia.net",
-      "date": "2026-11-03T15:39:13+00:00",
-      "summary": "The Football Italia Show on YouTube is back with a new video assessing Serie A’s..."
-    },
-    {
-      "id": "2e46014b12e2",
-      "title": "Football Italia Show: Inter & Napoli’s obvious problems, will Roma humiliate Man Utd?",
-      "url": "https://football-italia.net/inter-napoli-obvious-problems-roma-man-utd/",
-      "source": "football-italia.net",
-      "date": "2026-11-02T16:22:34+00:00",
-      "summary": "The Football Italia Show returns after a packed weekend of action: Lorenzo Bettoni and Richard..."
-    },
-    {
-      "id": "916bbafbb29e",
-      "title": "City of Milan honors legendary Baresi with Famedio inscription",
-      "url": "https://football-italia.net/city-of-milan-honors-legendary-baresi-famedio/",
-      "source": "football-italia.net",
-      "date": "2026-11-02T15:21:24+00:00",
-      "summary": "Legendary former Milan captain Franco Baresi was among the individuals to be honoured with an..."
-    },
-    {
-      "id": "58ef78a27573",
-      "title": "Pioli: ‘Milan have four or five top players, Leao needs to be encouraged in a certain way’",
-      "url": "https://football-italia.net/pioli-milan-have-four-or-five-top-players-leao/",
-      "source": "football-italia.net",
-      "date": "2026-11-02T12:40:00+00:00",
-      "summary": "Stefano Pioli believes that Milan currently have ‘four or five’ top-class players and has explained..."
     }
   ]
 }
