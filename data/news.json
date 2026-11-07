@@ -1,21 +1,189 @@
 {
-  "lastUpdated": "2026-11-07T17:25:26.275725+00:00",
+  "lastUpdated": "2026-11-07T21:26:46.233208+00:00",
   "articles": [
     {
-      "id": "07ba1ca4bca0",
-      "title": "Ceccarini avvisa il Milan: \"La priorità della Roma per gennaio resta l'esterno. Endrick è il grande favorito\"",
-      "url": "https://www.milannews.it/calciomercato-milan/ceccarini-avvisa-milan-la-priorita-roma-gennaio-resta-esterno-endricl-favorito-635452",
+      "id": "f5e07d9cba38",
+      "title": "Leao si è sbloccato? Secondo gol con la maglia del Galatasaray nel pirotecnico 4-3 casalingo",
+      "url": "https://www.milannews.it/dall-estero/gol-leao-635481",
       "source": "milannews.it",
-      "date": "2026-11-07T17:12:12+00:00",
+      "date": "2026-11-07T21:24:57+00:00",
+      "summary": "Dopo il primo gol segnato da Rafa Leao nell'ultima trasferta di campionato contro il Konyaspor, gol realizzato su calcio di rigore, poco fa la squadra della capitale turca è scesa in campo davanti ai propri tifosi per affrontare l'Amed ..."
+    },
+    {
+      "id": "337068a17363",
+      "title": "Serie A: la Lega cambia i marcatori, in Toro-Lecce sono due autogol",
+      "url": "https://www.milannews.it/news/serie-a-lega-cambia-marcatori-toro-lecce-autogol-635475",
+      "source": "milannews.it",
+      "date": "2026-11-07T21:12:57+00:00",
+      "summary": "(ANSA) - TORINO, 07 NOV - La Lega Serie A ha cambiato i marcatori della sfida tra Torino e Lecce, chiusa sull'1-1."
+    },
+    {
+      "id": "ffa75f93a94f",
+      "title": "Pellegatti deluso: “Giocatori senz’anima, Amorim non motiva. Alcune prestazioni sono state incredibili”",
+      "url": "https://www.milannews.it/news/pellegatti-deluso-giocatori-senz-anima-amorim-motiva-alcune-prestazioni-incredibili-635416",
+      "source": "milannews.it",
+      "date": "2026-11-07T21:00:06+00:00",
+      "summary": "Carlo Pellegatti, nel suo canale YouTube, ha analizzato la pessima prestazione dei rossoneri nel match di giovedì sera contro il Ferencvaros. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "31aabc550e86",
+      "title": "Nkunku rinato a Lipsia, ancora gol e assist per il rossonero",
+      "url": "https://www.milannews.it/news/nkunku-rinato-lipsia-gol-assist-rossonero-635476",
+      "source": "milannews.it",
+      "date": "2026-11-07T20:48:49+00:00",
+      "summary": "Il ritorno al Lipsia di Christopher Nkunku sta andando come un po' tutti speravano."
+    },
+    {
+      "id": "56d66f6422a4",
+      "title": "Ravezzani fa notare: “Il Milan non mette mai sotto l’avversario, col Ferencvaros avrebbe dovuto nominare”",
+      "url": "https://www.milannews.it/news/ravezzani-notare-il-milan-mette-l-avversario-ferencvaros-dovuto-nominare-635410",
+      "source": "milannews.it",
+      "date": "2026-11-07T20:36:21+00:00",
+      "summary": "Nel suo canale YouTube, il direttore di Telelombardia Fabio Ravezzani ha commentato e analizzato la sconfitta dei rossoneri in Europa League contro gli ungheresi del Ferencvaros. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "dd03ad20b80c",
+      "title": "Legrottaglie deluso da Ramos: \"Forse mi aspettavo di più da lui. È stato pagato tanti soldi ma non ha grande efficacia\"",
+      "url": "https://www.milannews.it/gli-ex/legrottaglie-deluso-ramos-forse-aspettavo-lui-pagato-tanti-soldi-efficacia-635463",
+      "source": "milannews.it",
+      "date": "2026-11-07T20:23:19+00:00",
+      "summary": "Intervistato dai colleghi di TMW, l'ex Milan e Juventus, fra le altre, Nicola Legrottaglie, ha parlato anche del momento che sta vivendo la formazione di Ruben Amorim, tra campionato ed Europa. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "0c844397255b",
+      "title": "La Roma ne perde un altro: lesione muscolare per Rensch. Rientro dopo la sosta",
+      "url": "https://www.milannews.it/news/calcio-lesione-muscolare-rensch-rientro-sosta-635321",
+      "source": "milannews.it",
+      "date": "2026-11-07T20:12:55+00:00",
+      "summary": "Altro stop in casa Roma: si ferma Devine Rensch per una lesione di grado I dell'adduttore lungo della gamba destra."
+    },
+    {
+      "id": "b4e6003bc4f8",
+      "title": "PROBABILE FORMAZIONE - Verso Genoa-Milan: Pavlovic non convocato. Amorim, niente conferenza",
+      "url": "https://www.milannews.it/news/probabile-formazione-milan-genoa-amorim-rabiot-pulisic-modric-gila-635389",
+      "source": "milannews.it",
+      "date": "2026-11-07T20:00:00+00:00",
+      "summary": "Dopo la pesante sconfitta casalinga contro il Ferenvaros in Europa League, il Milan di Ruben Amorim torna a tuffarsi sul campionato prima di riposarsi per la seconda sosta stagionale per le nazionali."
+    },
+    {
+      "id": "6f754094bb84",
+      "title": "Modric non intende fermarsi: \"Mi sento bene e ho ancora la passione, l’ambizione e le forze. Finché mi sentirò così, voglio continuare a giocare\"",
+      "url": "https://www.milannews.it/news/modric-intende-fermarsi-mi-sento-passione-l-ambizione-forze-finche-sentiro-cosi-voglio-continuare-gi-635450",
+      "source": "milannews.it",
+      "date": "2026-11-07T19:48:20+00:00",
+      "summary": "Oggi SportWeek, inserto settimanale della Gazzetta dello Sport, ha dedicato la copertina a Luka Modric e ha riportato anche alcune sue dichiarazioni sul successo del Milan nel derby di Milano per 3-1: \"È stata una vittoria fantastica e pe ..."
+    },
+    {
+      "id": "712c5d9b95b6",
+      "title": "Serie A, al Bologna il derby emiliano: Parma-Bologna 1-2",
+      "url": "https://www.milannews.it/news/serie-a-bologna-derby-emiliano-parma-bologna-1-2-635477",
+      "source": "milannews.it",
+      "date": "2026-11-07T19:36:47+00:00",
+      "summary": "Questa sera dopo le partite delle 15 che hanno visto vincere il Cagliari in casa contro il Frosinone e il Torino pareggiare con il Lecce, si è giocato al Tardini il derby emiliano tra Parma e Bologna."
+    },
+    {
+      "id": "59a8bc77e214",
+      "title": "Serie A, il Bologna vince e sale in zona Europa: la classifica aggiornata",
+      "url": "https://www.milannews.it/news/serie-a-bologna-vince-sale-zona-europa-classifica-aggiornata-635478",
+      "source": "milannews.it",
+      "date": "2026-11-07T19:24:24+00:00",
+      "summary": "Al termine del derby emiliano delle 18 che ha visto il Bologna imporsi sul Parma ed in attesa della partita di questa sera tra Roma e Sassuolo, così si è aggiornata la classifica di Serie A\n\nSERIE A: LA CLASSIFICA AGGIORNATA \n\n ..."
+    },
+    {
+      "id": "892567be0dbc",
+      "title": "VIDEO MN - Milan arrivato a Genova, tantissimi tifosi rossoneri presenti: ovazione per Luka Modric",
+      "url": "https://www.milannews.it/news/video-mn-milan-arrivato-genova-tantissimi-tifosi-rossoneri-presenti-domani-15-campo-635479",
+      "source": "milannews.it",
+      "date": "2026-11-07T19:10:12+00:00",
+      "summary": "Qualche ora fa, come vi abbiamo raccontato tramite l'inviato di MilanNews.it, i rossoneri sono partiti in Pullman da Milano alla volta di Genova dove domani, alle ore 15:00, affronteranno la squadra di Daniele De Rossi allo Stadio Marassi."
+    },
+    {
+      "id": "d1d228a37b58",
+      "title": "MN: Milan’s predicted XI to face Genoa – stars return and Estupinan leads battle",
+      "url": "https://sempremilan.com/milans-predicted-xi-genoa-stars-estupinan",
+      "source": "sempremilan.com",
+      "date": "2026-11-07T19:00:00+00:00",
+      "summary": "Ruben Amorim is expected to make six changes to the starting eleven, according to a report, hoping for a better response from AC Milan against Genoa.  The mid-week disappointment is still very much at the top of our minds, especially since Milan’s Europa League campaign has now turned into a nightma"
+    },
+    {
+      "id": "41edf4cef459",
+      "title": "Pedulla sottolinea: “Pulisic, Moreira e Gila indispensabili per il Milan, senza di loro anche Rabiot gioca male”",
+      "url": "https://www.milannews.it/news/pedulla-sottolinea-pulisic-moreira-gila-indispensabili-milan-rabiot-gioca-male-635420",
+      "source": "milannews.it",
+      "date": "2026-11-07T18:48:40+00:00",
+      "summary": "Nel suo canale YouTube, l’esperto di calciomercato Alfredo Pedulla ha commentato la sconfitta dei rossoneri di giovedì sera per mano del Ferencvaros. Queste le sue parole."
+    },
+    {
+      "id": "36290706d9ef",
+      "title": "Legrottaglie: \"Amorim sta lavorando da 4 mesi, bisogna dargli tempo\"",
+      "url": "https://www.milannews.it/gli-ex/legrottaglie-amorim-lavorando-4-mesi-bisogna-dargli-tempo-635461",
+      "source": "milannews.it",
+      "date": "2026-11-07T18:36:57+00:00",
+      "summary": "Intervistato dai colleghi di TMW, l'ex Milan e Juventus, fra le altre, Nicola Legrottaglie, ha parlato anche del momento che sta vivendo la formazione di Ruben Amorim, tra campionato ed Europa. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "150c40f9d787",
+      "title": "Serie A preview: Genoa vs. AC Milan – Team news, opposition insight, stats and prediction",
+      "url": "https://sempremilan.com/genoa-ac-milan-preview-team-news-stats-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-07T18:30:00+00:00",
+      "summary": "A tough away trip awaits AC Milan on Sunday afternoon, hoping to restore some order against an in-form Genoa side.  What many hoped would be a positive week quickly turned into a negative one, as Milan failed to build on the derby win against Ferencvaros. In other words, they need to respond with a "
+    },
+    {
+      "id": "f3a9aec57884",
+      "title": "Non solo Milan: Endrick è il preferito anche di un'altra big di Serie A per gennaio",
+      "url": "https://www.milannews.it/calciomercato-milan/milan-endrick-preferito-altra-big-serie-gennaio-635451",
+      "source": "milannews.it",
+      "date": "2026-11-07T18:24:01+00:00",
       "summary": "Nel corso del consueto appuntamento con il suo editoriale per TMW, Niccolò Ceccarini ha fatto il punto sui più importanti movimenti di calciomercato in Serie A, soffermandosi anche sulla Roma, che in vista di gennaio avrebbe un obiettiv ..."
     },
     {
-      "id": "e43c7b14358a",
-      "title": "Eintracht, Krosche salutato in modo speciale: il tedesco sarà membro del club a vita",
-      "url": "https://www.milannews.it/news/eintracht-krosche-salutato-speciale-tedesco-membro-club-635473",
+      "id": "40c5baccbfea",
+      "title": "Probabile formazione Genoa-Milan: scelte forzate in difesa, tornano i titolari",
+      "url": "https://www.milannews.it/primo-piano/probabile-formazione-genoa-milan-scelte-forzate-difesa-tornano-titolari-635474",
       "source": "milannews.it",
-      "date": "2026-11-07T17:00:12+00:00",
-      "summary": "Krosche-Milan, manca solo l'ufficialità."
+      "date": "2026-11-07T18:10:43+00:00",
+      "summary": "Dopo la deludente sconfitta casalinga contro il Ferenvaros in Europa League, il Milan di Ruben Amorim torna a tuffarsi sul campionato prima di riposarsi per la seconda sosta stagionale per le nazionali, più breve rispetto a quella di ..."
+    },
+    {
+      "id": "434d72997a5d",
+      "title": "Sabatini sorpreso: “Passare dal derby ai fischi in 2 giorni non era facile, squadra non all’altezza”",
+      "url": "https://www.milannews.it/news/sabatini-sorpreso-passare-derby-fischi-2-facile-squadra-all-altezza-635411",
+      "source": "milannews.it",
+      "date": "2026-11-07T18:00:39+00:00",
+      "summary": "Nel suo canale YouTube, il collega Sandro Sabatini ha parlato della pessima sconfitta dei rossoneri in Europa League contro il Ferencvaros. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "1e2e0e98ced6",
+      "title": "Pedulla prova a spiegare: “Squadra non pronta per giocare ogni tre giorni”",
+      "url": "https://www.milannews.it/news/pedulla-prova-spiegare-squadra-pronta-giocare-giorni-635419",
+      "source": "milannews.it",
+      "date": "2026-11-07T17:48:42+00:00",
+      "summary": "Nel suo canale YouTube, l’esperto di calciomercato Alfredo Pedulla ha commentato la sconfitta dei rossoneri di giovedì sera per mano del Ferencvaros. Queste le sue parole."
+    },
+    {
+      "id": "22c6ec5d66ee",
+      "title": "Legrottaglie sul Milan: \"Bisogna dare tempo alla squadra, ma se giocherà fino alla fine per la Champions\"",
+      "url": "https://www.milannews.it/gli-ex/legrottaglie-milan-bisogna-dare-squadra-giochera-champions-635460",
+      "source": "milannews.it",
+      "date": "2026-11-07T17:36:13+00:00",
+      "summary": "Intervistato dai colleghi di TMW, l'ex Milan e Juventus, fra le altre, Nicola Legrottaglie, ha parlato anche del momento che sta vivendo la formazione di Ruben Amorim, tra campionato ed Europa. Di seguito alcuni estratti delle sue dichiarazioni."
+    },
+    {
+      "id": "93a7bd103078",
+      "title": "Report: ‘Tension is rising’ – Milan unhappy with Toulouse’s treatment of Odogu",
+      "url": "https://sempremilan.com/tension-rising-milan-toulouse-treatment-odogu",
+      "source": "sempremilan.com",
+      "date": "2026-11-07T17:30:00+00:00",
+      "summary": "Tension is rising between the RedBird-owned clubs AC Milan and Toulouse, according to a report, as David Odogu is yet to play a single minute this season.  In the summer, Milan sent several players out on loan, including a couple that they felt could get more playing elsewhere to then come back even"
+    },
+    {
+      "id": "27f97babc625",
+      "title": "Gattuso non si fida né di Allegri né del momento del Napoli: \"Servirà grande umiltà\"",
+      "url": "https://www.milannews.it/gli-ex/gattuso-fida-ne-allegri-ne-napoli-servira-umilta-635456",
+      "source": "milannews.it",
+      "date": "2026-11-07T17:24:22+00:00",
+      "summary": "Alla vigilia della sfida del Diego Armando Maradona contro il Napoli, l'allenatore della Lazio Gennaro Gattuso ha presentato in conferenza stampa la sfida contro i partenopei, mettendo in guardia tifosi e giocatori dalla formazione di Massimilian ..."
     },
     {
       "id": "72d011e7e21c",
@@ -26,52 +194,12 @@
       "summary": "Genoa are the next opponents for AC Milan and given the Rossoblu’s recent form, they certainly could have faced them at a better time.  Ruben Amorim and his men really need to pick themselves up with a win tomorrow afternoon, which would at least allow them to build on the derby win in the league. ["
     },
     {
-      "id": "62676bcfe1e7",
-      "title": "Pedulla: “Prestazione del Milan imbarazzante, analisi psicologica difficile dopo il derby”",
-      "url": "https://www.milannews.it/news/pedulla-prestazione-milan-imbarazzante-analisi-psicologica-difficile-derby-635418",
-      "source": "milannews.it",
-      "date": "2026-11-07T16:48:21+00:00",
-      "summary": "Nel suo canale YouTube, l’esperto di calciomercato Alfredo Pedulla ha commentato la sconfitta dei rossoneri di giovedì sera per mano del Ferencvaros. Queste le sue parole."
-    },
-    {
-      "id": "60965f7f2913",
-      "title": "Milan in partenza per Genova: la squadra viaggia in pullman",
-      "url": "https://www.milannews.it/news/milan-partenza-genova-squadra-viaggia-pullman-635472",
-      "source": "milannews.it",
-      "date": "2026-11-07T16:36:09+00:00",
-      "summary": "Il Milan, come dimostrano le immagini raccolte dall'inviato di MilanNews.it, è partito in pullman direzione Genova: domani alle ore 15."
-    },
-    {
       "id": "60041f8364f2",
       "title": "AC Milan Women 0-3 Inter: Chances squandered and a silly red card",
       "url": "https://sempremilan.com/ac-milan-women-0-3-inter-match-report",
       "source": "sempremilan.com",
       "date": "2026-11-07T16:30:05+00:00",
       "summary": "Milan Women failed to replicate the heroics of the men’s team in the Derby della Madonnina, conceding three goals against Inter after a silly red card.  After the odd-goal defeat to Como last night time out, Milan Women were out for revenge this afternoon, and perhaps also a little inspired by the m"
-    },
-    {
-      "id": "2a4b0dde06ad",
-      "title": "Premier League, Leeds-Tottenham sfida tra ex Milan: Okafor scontenta Tonali",
-      "url": "https://www.milannews.it/news/premier-league-leeds-tottenham-sfida-milan-okafor-scontenta-tonali-635470",
-      "source": "milannews.it",
-      "date": "2026-11-07T16:22:32+00:00",
-      "summary": "Un ex rossonero ne scontenta un altro: succede in Leeds-Tottenham, con la squadra di De Zerbi che cade nel finale e chiude la striscia di vittorie consecutive a tre.\n\nL’ex rossonero Okafor decide il match, battendo l’ex milanista Tonali."
-    },
-    {
-      "id": "ae51031b579f",
-      "title": "Serie A, il Frosinone cade a Cagliari. Pareggio tra Toro e Lecce",
-      "url": "https://www.milannews.it/news/serie-a-frosinone-cade-cagliari-pareggio-toro-lecce-635471",
-      "source": "milannews.it",
-      "date": "2026-11-07T16:11:37+00:00",
-      "summary": "Il Frosinone di Alvini, che ad oggi sta facendo un grande campionato, cade a Cagliari. I rossoblu si riprendono dopo una striscia di risultati negativi e all'Unipol Domus guadagnano i tre punti grazie ad un gol di Adopo nel primo tempo."
-    },
-    {
-      "id": "9f5092630599",
-      "title": "C'è un dato in particolare che fotografa il momento di Gonçalo Ramos",
-      "url": "https://www.milannews.it/primo-piano/dato-particolare-fotografa-goncalo-ramos-635462",
-      "source": "milannews.it",
-      "date": "2026-11-07T16:00:18+00:00",
-      "summary": "I numeri non vanno nascosti, ma possono essere utilizzati come punto di partenza per capire dove e come migliorare."
     },
     {
       "id": "9f2b83209575",
@@ -82,52 +210,12 @@
       "summary": "Daniele De Rossi was in a visibly good mood during his press conference ahead of Genoa-Milan, but reminded everyone that the Rossoblu shouldn’t get too cocky. Genoa are on a very good run at the moment, having won four of their last five games, and have thus managed to bounce back from what was a […"
     },
     {
-      "id": "62bb68cc71f2",
-      "title": "Pellegatti analizza: “Jashari non ha fatto nulla, campagna acquisti fatta da giocatori non da Milan”",
-      "url": "https://www.milannews.it/news/pellegatti-analizza-jashari-nulla-campagna-acquisti-fatta-giocatori-milan-635417",
-      "source": "milannews.it",
-      "date": "2026-11-07T15:48:13+00:00",
-      "summary": "Carlo Pellegatti, nel suo canale YouTube, ha analizzato la pessima prestazione dei rossoneri nel match di giovedì sera contro il Ferencvaros. Di seguito un estratto delle sue parole."
-    },
-    {
-      "id": "96e5b4e4c78c",
-      "title": "Prima sì, poi no: De Laurentiis annulla all'ultimo la conferenza stampa di Allegri. I giornalisti erano già a Castel Volturno",
-      "url": "https://www.milannews.it/news/si-no-de-laurentiis-annulla-conferenza-stampa-allegri-giornalisti-castel-volturno-635469",
-      "source": "milannews.it",
-      "date": "2026-11-07T15:35:40+00:00",
-      "summary": "Era tutto pronto per la conferenza di Massimiliano Allegri alla vigilia di Napoli-Lazio: i giornalisti erano già all'interno del centro sportivo di Castel Volturno, in procinto di prendere posto in sala stampa. Alle 14."
-    },
-    {
       "id": "49b31ef9963b",
       "title": "Only six wins in 26 games: Davide Massa will officiate Milan’s encounter with Genoa",
       "url": "https://sempremilan.com/six-wins-massa-officiate-genoa-milan",
       "source": "sempremilan.com",
       "date": "2026-11-07T15:30:00+00:00",
       "summary": "The experienced Davide Massa has been appointed to the game between AC Milan and Genoa, set to officiate his 27th game involving the Rossoneri.  Milan desperately need to pick themselves back up after what was an embarrassing mid-week display, losing by two goals to nil against Ferencvaros at San Si"
-    },
-    {
-      "id": "e6950ec5f239",
-      "title": "Ravezzani senza dubbi: “Al Milan non c’è gioco, mai fatto una prestazione brillante”",
-      "url": "https://www.milannews.it/news/ravezzani-dubbi-al-milan-c-e-gioco-prestazione-brillante-635408",
-      "source": "milannews.it",
-      "date": "2026-11-07T15:24:00+00:00",
-      "summary": "Nel suo canale YouTube, il direttore di Telelombardia Fabio Ravezzani ha commentato e analizzato la sconfitta dei rossoneri in Europa League contro gli ungheresi del Ferencvaros. Di seguito un estratto delle sue parole."
-    },
-    {
-      "id": "4e4226ab7f98",
-      "title": "Odogu è un caso a Tolosa: possibile interruzione del prestito già a gennaio",
-      "url": "https://www.milannews.it/news/odogu-tolosa-possibile-interruzione-prestito-gennaio-635468",
-      "source": "milannews.it",
-      "date": "2026-11-07T15:11:11+00:00",
-      "summary": "Di tutti i prestiti del Milan in giro per l'Europa in pochi si sarebbero aspettati che quello \"meno azzeccato\" sarebbe stato David Odogu al Tolosa. C'erano tutte le premesse per far bene."
-    },
-    {
-      "id": "564758f05b5a",
-      "title": "RedBird guarda in oriente grazie a un investimento della Banca di Sviluppo del Giappone",
-      "url": "https://www.milannews.it/news/redbird-guarda-oriente-investimento-banca-sviluppo-giappone-635467",
-      "source": "milannews.it",
-      "date": "2026-11-07T15:00:02+00:00",
-      "summary": "Uno dei più grandi fondi statunitensi al mondo nel settore degli investimenti sportivi sta per fare il suo ingresso in Giappone."
     },
     {
       "id": "cf73d92a4f95",
@@ -138,52 +226,12 @@
       "summary": "AC Milan and Gerry Cardinale will make a concrete attempt to sign Nicolo Tresoldi from Club Brugge in January, according to a report.  In isolation, Milan’s goalscoring tally doesn’t look so awful in the league, with 21 goals scored in ten games for an average of 2.1 goals per game. However, only on"
     },
     {
-      "id": "3609c111251a",
-      "title": "Pellegatti non ha dubbi: “Non si salva neanche Amorim, deve motivare la squadra contro le piccole”",
-      "url": "https://www.milannews.it/news/pellegatti-dubbi-non-salva-neanche-amorim-motivare-squadra-piccole-635415",
-      "source": "milannews.it",
-      "date": "2026-11-07T14:48:33+00:00",
-      "summary": "Carlo Pellegatti, nel suo canale YouTube, ha analizzato la pessima prestazione dei rossoneri nel match di giovedì sera contro il Ferencvaros. Di seguito un estratto delle sue parole."
-    },
-    {
-      "id": "f71317e7f53f",
-      "title": "Sabatini sottolinea: “Il Milan in Europa League fa rabbia, non sono mai esistiti”",
-      "url": "https://www.milannews.it/news/sabatini-sottolinea-il-milan-europa-league-rabbia-esistiti-635413",
-      "source": "milannews.it",
-      "date": "2026-11-07T14:36:11+00:00",
-      "summary": "Nel suo canale YouTube, il collega Sandro Sabatini ha parlato della pessima sconfitta dei rossoneri in Europa League contro il Ferencvaros. Di seguito un estratto delle sue parole."
-    },
-    {
       "id": "0d66494e8e54",
       "title": "Watch: “This might be a draw” – Score predictions for Genoa-Milan",
       "url": "https://sempremilan.com/might-draw-score-predictions-genoa-milan",
       "source": "sempremilan.com",
       "date": "2026-11-07T14:30:00+00:00",
       "summary": "AC Milan are taking on Genoa next and really need to make up for Thursday’s disaster, although it might not be the easiest of tasks.  Enough has been said about the poor performance against Ferencvaros already, so let’s just leave it at the fact that it was incredibly disappointing. As such, a stron"
-    },
-    {
-      "id": "0abd59d24ad3",
-      "title": "Gattuso: \"Allegri è uno sgamato, nei momenti difficili non muore di stress. Non mi fido\"",
-      "url": "https://www.milannews.it/gli-ex/gattuso-allegri-sgamato-momenti-difficili-muore-stress-fido-635465",
-      "source": "milannews.it",
-      "date": "2026-11-07T14:24:48+00:00",
-      "summary": "Alla vigilia della sfida del Diego Armando Maradona contro il Napoli, l'allenatore della Lazio Gennaro Gattuso ha presentato in conferenza stampa la sfida contro i partenopei, mettendo in guardia tifosi e giocatori dalla formazione di Massimilian ..."
-    },
-    {
-      "id": "88b2a6626916",
-      "title": "Amorim-Fonseca, stessi sfoghi e stesse accuse. Cos'è rimasto di Milan?",
-      "url": "https://www.milannews.it/primo-piano/amorim-fonseca-sfoghi-accuse-milan-cresce-635466",
-      "source": "milannews.it",
-      "date": "2026-11-07T14:11:34+00:00",
-      "summary": "Non è il massimo della vita cominciare un pezzo con due blocchi di testo carichi di dichiarazioni, ma è importante andare a rileggere cosa diceva Paulo Fonseca due anni fa, soprattutto alla luce di quello che ha detto Ruben Amorim al te ..."
-    },
-    {
-      "id": "fc4d9ce88649",
-      "title": "Pronostico Genoa-Milan, da otto anni a Marassi le partite sono a senso unico",
-      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-genoa-milan-635225",
-      "source": "milannews.it",
-      "date": "2026-11-07T14:00:01+00:00",
-      "summary": "Chiudere in bellezza, prima della sosta nazionali è l'imperativo che si è dato il Milan che chiuderà in trasferta contro il Genoa un tour de force di 9 partite in 29 giorni."
     },
     {
       "id": "65ed1b2fea4e",
@@ -194,36 +242,12 @@
       "summary": "Luka Modric has hinted that he could continue playing beyond this season, having made Milan his home since arriving in 2025.  In the summer, after some speculation prior to the World Cup, Modric put pen to paper and extended his contract with Milan for another season. It was a huge boost for Ruben A"
     },
     {
-      "id": "dfc87ec5e11b",
-      "title": "Le formazioni ufficiali del derby femminile, sfida valida per la 6^ giornata della Serie A Women",
-      "url": "https://www.milannews.it/milan-femminile/formazioni-ufficiali-derby-femminile-sfida-valida-6-giornata-serie-women-635464",
-      "source": "milannews.it",
-      "date": "2026-11-07T13:48:06+00:00",
-      "summary": "Di seguito le formazioni ufficiali di Milan-Inter, derby femminile valido per la 6^ giornata del campionato di Serie A Women Athora.\n\nMILAN: Estevez, Koivisto, Sorelli, Arrigoni, Grimshaw, Stokic, Sesay, Renzotti, Soffia, Brighton, Nevado."
-    },
-    {
-      "id": "bbf0e710519a",
-      "title": "Sabatini domanda: “Qual è il Milan, quello del derby o quello contro il Ferencvaros ?",
-      "url": "https://www.milannews.it/news/sabatini-domanda-qual-milan-derby-ferencvaros-635412",
-      "source": "milannews.it",
-      "date": "2026-11-07T13:36:11+00:00",
-      "summary": "Nel suo canale YouTube, il collega Sandro Sabatini ha parlato della pessima sconfitta dei rossoneri in Europa League contro il Ferencvaros. Di seguito un estratto delle sue parole."
-    },
-    {
       "id": "dac845b7022d",
       "title": "Photo: Leak suggests Puma will go for bold design with Milan’s 2027-28 third kit",
       "url": "https://sempremilan.com/leak-puma-milans-2027-28-third-kit",
       "source": "sempremilan.com",
       "date": "2026-11-07T13:30:00+00:00",
       "summary": "The design of AC Milan’s third kit for the 2027-28 season has been leaked, according to a report, featuring a black base and yellow details.  The 2027-28 season will be the last with Puma as Milan’s kit partner, as an agreement worth €50m per year has been reached with Adidas from 2028-29 onwards. I"
-    },
-    {
-      "id": "50b40d74f714",
-      "title": "Modric e il rinnovo con il Milan: \"Loro volevano che restassi e io avevo solo bisogno di sentirmi voluto\"",
-      "url": "https://www.milannews.it/news/modric-rinnovo-milan-loro-volevano-restassi-bisogno-sentirmi-voluto-635449",
-      "source": "milannews.it",
-      "date": "2026-11-07T13:24:15+00:00",
-      "summary": "Dopo la mancata qualificazione in Champions League nella scorsa stagione e l'addio di Max Allegri, in molti avevano pensato ad un suo addio e invece Luka Modric ha deciso di rinnovare per un altro anno con il Milan."
     },
     {
       "id": "e40abb055793",
@@ -338,36 +362,12 @@
       "summary": "Milan are preparing to strengthen their defence when the transfer window opens in January, and..."
     },
     {
-      "id": "11e9654e2bd0",
-      "title": "AC Milan 0-2 Ferencvaros: Five things we learned – a poor squad picked apart",
-      "url": "https://sempremilan.com/ac-milan-0-2-ferencvaros-five-things-we-learned",
-      "source": "sempremilan.com",
-      "date": "2026-11-06T19:00:00+00:00",
-      "summary": "AC Milan’s Europa League misery continued at San Siro on Thursday night as they were beaten 2-0 by Ferencvaros. Ruben Amorim made six changes to the team that won the derby against Inter, hoping that the entire group would remain buoyed by that performance to secure a much-needed win in Europe. Howe"
-    },
-    {
-      "id": "1f0806cd7933",
-      "title": "GdS: A fourth failed test – Amorim risks going off track with consistent rotations",
-      "url": "https://sempremilan.com/amorim-risks-off-track-rotations",
-      "source": "sempremilan.com",
-      "date": "2026-11-06T18:20:00+00:00",
-      "summary": "After another poor performance in midweek, questions are being asked about Ruben Amorim’s AC Milan squad and his ability to rotate. Amorim isn’t exactly to blame for last night; after a busy October, he had to rotate. However, results aren’t as strong when he opts to remove the starters and last nig"
-    },
-    {
       "id": "53e77251c38b",
       "title": "Milan’s De Winter snubs Belgium call-up, Van Bommel warns: ‘It comes with consequences’",
       "url": "https://football-italia.net/milans-de-winter-snubs-belgium-call-up/",
       "source": "football-italia.net",
       "date": "2026-11-06T17:45:00+00:00",
       "summary": "Koni De Winter has turned down a call-up to the Belgium squad, and coach Mark..."
-    },
-    {
-      "id": "bde7904403cf",
-      "title": "Romano: Milan remain obsessed with Inacio but Fonseca’s arrival could change things",
-      "url": "https://sempremilan.com/milan-obsessed-inacio-fonseca-arrival-change",
-      "source": "sempremilan.com",
-      "date": "2026-11-06T17:40:00+00:00",
-      "summary": "It’s no secret that AC Milan will sign a defender in January, and one name is sitting firmly in the lead but he’s not alone. Since the summer, Milan have been obsessed with the idea of signing Goncalo Inacio. His name was constant through the mercato and on deadline day, the Rossoneri tried to pounc"
     },
     {
       "id": "5e4c93683984",
