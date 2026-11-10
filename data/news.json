@@ -1,29 +1,189 @@
 {
-  "lastUpdated": "2026-11-10T17:29:17.220174+00:00",
+  "lastUpdated": "2026-11-10T22:50:12.295754+00:00",
   "articles": [
     {
-      "id": "ff490492cb27",
-      "title": "Gli impegni di Gonçalo Ramos alla sosta con il Portogallo",
-      "url": "https://www.milannews.it/news/impegni-goncalo-ramos-sosta-portogallo-635774",
+      "id": "92d5ec61ade0",
+      "title": "Finalmente Pulisic: Chris torna a segnare e il Milan vince sempre",
+      "url": "https://www.milannews.it/news/pulisic-chris-torna-segnare-milan-vince-635811",
       "source": "milannews.it",
-      "date": "2026-11-10T17:20:30+00:00",
-      "summary": "Dopo una grande prima sosta di questa stagione con la Nazionale, con tanto di tre gol e un assist, il centravanti rossonero Gonçalo Ramos è stato convocato da Jorge Jesus con il Portogallo per i prossimi due imp ..."
+      "date": "2026-11-10T22:40:00+00:00",
+      "summary": "Il rendimento di Chrstian Pulisic è sempre più in crescita, e l'ultima vittoria in trasferta sul campo del Genoa ne è la prova. Il gol del 2-0 di Pulisic è da attaccante vero, forte, di uno che sente la porta."
     },
     {
-      "id": "e788eb6675a4",
-      "title": "Cisse: \"Chi mi ha impressionato? Sarebbe scontato dire Modric\"",
-      "url": "https://www.milannews.it/news/cisse-chi-impressionato-scontato-modric-635773",
+      "id": "e676c077e56e",
+      "title": "Galderisi vota Amorim: \"Bisogna aspettare gli allenatori, oggi non si guarda più il lavoro giornaliero\"",
+      "url": "https://www.milannews.it/news/galderisi-vota-amorim-bisogna-aspettare-allenatori-guarda-lavoro-giornaliero-635810",
       "source": "milannews.it",
-      "date": "2026-11-10T17:10:43+00:00",
-      "summary": "Alphadjo Cisse è senza dubbio la sorpresa più grande della stagione del Milan fino a questa momento."
+      "date": "2026-11-10T22:30:00+00:00",
+      "summary": "Ai microfoni di Tuttomercatoweb, Giuseppe Galderisi, ex giocatore tra le tante di Hellas Verona, Milan, Juventus e Lazio, ha rilasciato una lunga intervista in occasione del Premio La Clessidra ad Anghiari."
     },
     {
-      "id": "15efb8dd5953",
-      "title": "Il retroscena su Cisse: c'era anche chi non lo voleva",
-      "url": "https://www.milannews.it/primo-piano/retroscena-cisse-volve-635768",
+      "id": "fdd7753288fa",
+      "title": "Stefanelli (CDA Milan) su Amorim: \"E' ben voluto dai giocatori\"",
+      "url": "https://www.milannews.it/news/stefanelli-cda-milan-amorim-e-voluto-giocatori-635816",
       "source": "milannews.it",
-      "date": "2026-11-10T17:00:00+00:00",
-      "summary": "È il milanista del momento senza dubbio. Otto gol, \"I love Cisse\" e la prima convocazione in nazionale maggiore."
+      "date": "2026-11-10T22:20:00+00:00",
+      "summary": "In esclusiva per Tuttomercatoweb, Riccardo Stefanelli, importante membro del CDA dell'AC Milan ha parlato così in occasione del premio \"La Clessidra\" Per la fruttuosa e positiva carriera avuta sin qui."
+    },
+    {
+      "id": "adb0c5fd0ff5",
+      "title": "Nations League: Thuram lascia il ritiro della Francia",
+      "url": "https://www.milannews.it/news/nations-league-thuram-lascia-ritiro-francia-635782",
+      "source": "milannews.it",
+      "date": "2026-11-10T22:10:51+00:00",
+      "summary": "(ANSA) - ROMA, 10 NOV - L'attaccante della Francia e dell'Inter, Marcus Thuram, lascia il ritiro della squadra transalpina per un infortunio e salterà le due partite di Nations League contro Italia e Turchia, giovedì a Milano e  ..."
+    },
+    {
+      "id": "ee566f83c4b4",
+      "title": "Italia, Zaniolo lascia Coverciano per motivi personali",
+      "url": "https://www.milannews.it/news/azzurri-zaniolo-lascia-coverciano-motivi-personali-635801",
+      "source": "milannews.it",
+      "date": "2026-11-10T22:00:00+00:00",
+      "summary": "(ANSA) - FIRENZE, 10 NOV - Nicolò Zaniolo ha lasciato il ritiro di Coverciano per motivi personali. L'attaccante dell'Udinese era tornato in Nazionale dopo tre anni."
+    },
+    {
+      "id": "0a5861385cdb",
+      "title": "Nations League: Italia-Francia, arbitra il romeno Kovacs",
+      "url": "https://www.milannews.it/news/nations-league-italia-francia-arbitra-romeno-kovacs-635808",
+      "source": "milannews.it",
+      "date": "2026-11-10T21:50:00+00:00",
+      "summary": "(ANSA) - ROMA, 10 NOV - E' il romeno Istvan Kovacs l'arbitro designato dall'Uefa per Italia-Francia, gara della quinta giornata della Nations League in programma giovedì 12 novembre allo stadio San Siro di Milano."
+    },
+    {
+      "id": "a5a03521b7ca",
+      "title": "Italia, Zaniolo: \"Difficile lasciare il ritiro, rispettate la mia sfera privata\"",
+      "url": "https://www.milannews.it/news/azzurri-zaniolo-difficile-lasciare-ritiro-rispettate-sfera-privata-635817",
+      "source": "milannews.it",
+      "date": "2026-11-10T21:40:00+00:00",
+      "summary": "(ANSA) - FIRENZE, 10 NOV - \"Lasciare Coverciano non è stato facile, ho preso questa decisione per motivi strettamente personali, vestire l'azzurro è sempre motivo di orgoglio."
+    },
+    {
+      "id": "24e55a59f24e",
+      "title": "Inzaghi svela la sua personale Top 11: in difesa ci sono Maldini e Thiago Silva, sorpresa in attacco",
+      "url": "https://www.milannews.it/news/inzaghi-svela-personale-top-11-difesa-maldini-thiago-silva-sorpresa-attacco-635807",
+      "source": "milannews.it",
+      "date": "2026-11-10T21:30:00+00:00",
+      "summary": "Filippo Inzaghi, ex storico attaccante del Milan oggi allenatore del Palermo, è stato intervistato da Salotto del Pallone, in un simpatico e particolare video podcast su TikTok."
+    },
+    {
+      "id": "13482d2ed5cc",
+      "title": "Galderisi apprezza Amorim: \"E' diretto e schietto, mi piace\"",
+      "url": "https://www.milannews.it/news/galderisi-apprezza-amorim-e-diretto-schietto-piace-635806",
+      "source": "milannews.it",
+      "date": "2026-11-10T21:20:00+00:00",
+      "summary": "Ai microfoni di Tuttomercatoweb, Giuseppe Galderisi, ex giocatore tra le tante di Hellas Verona, Milan, Juventus e Lazio, ha rilasciato una lunga intervista in occasione del Premio La Clessidra ad Anghiari."
+    },
+    {
+      "id": "0c0da76830e0",
+      "title": "Frosinone, il difensore Bracaglia salterà il Milan per squalifica",
+      "url": "https://www.milannews.it/l-avversario/frosinone-difensore-bracaglia-saltera-milan-squalifica-635775",
+      "source": "milannews.it",
+      "date": "2026-11-10T21:10:34+00:00",
+      "summary": "Il Milan è giunto alla seconda sosta per le Nazionali in quarta posizione in classifica."
+    },
+    {
+      "id": "d705bb0119a8",
+      "title": "Stefanelli (CDA Milan): \"Cardinale ha tanta energia, la sua visione è incentrata nel voler una squadra competitiva\"",
+      "url": "https://www.milannews.it/news/stefanelli-cda-milan-cardinale-tanta-energia-visione-incentrata-voler-squadra-competitiva-635815",
+      "source": "milannews.it",
+      "date": "2026-11-10T21:00:00+00:00",
+      "summary": "In esclusiva per Tuttomercatoweb, Riccardo Stefanelli, importante membro del CDA dell'AC Milan ha parlato così in occasione del premio \"La Clessidra\" Per la fruttuosa e positiva carriera avuta sin qui."
+    },
+    {
+      "id": "f7442d03b231",
+      "title": "Italia, largo ai giovani: le parole di Cisse e Liberali in conferenza stampa",
+      "url": "https://www.milannews.it/news/cisse-liberali-portiamo-energia-spensieratezza-italia-635800",
+      "source": "milannews.it",
+      "date": "2026-11-10T20:50:00+00:00",
+      "summary": "(ANSA) - FIRENZE, 10 NOV - \"Vogliamo portare spensieratezza ed energia, bisogna sempre entrare in campo per divertirsi, in fondo è un gioco, adesso è tutto da prendere e nulla da perdere\"."
+    },
+    {
+      "id": "9a435ab06895",
+      "title": "Pato non ha dubbi: \"Oggi 10-15 gol in Serie A li farei...\"",
+      "url": "https://www.milannews.it/gli-ex/pato-dubbi-oggi-10-15-gol-serie-farei-635812",
+      "source": "milannews.it",
+      "date": "2026-11-10T20:40:00+00:00",
+      "summary": "Intervistato da Luca Toni per la speciale rubrica di Prime \"Fenomeni\" Alexandre Pato, ex giocatore del Milan ha risposto così alle tante domande fatte dall'ex bomber italiano."
+    },
+    {
+      "id": "5cb13836d510",
+      "title": "Milan Femminile, Mascarello operata al legamento crociato anteriore del ginocchio destro",
+      "url": "https://www.milannews.it/milan-femminile/milan-femminile-mascarello-operata-legamento-crociato-anteriore-ginocchio-destro-635795",
+      "source": "milannews.it",
+      "date": "2026-11-10T20:30:33+00:00",
+      "summary": "AC Milan comunica che, nella giornata odierna, la calciatrice Marta Mascarello è stata sottoposta a un intervento chirurgico di ricostruzione del legamento crociato anteriore del ginocchio destro."
+    },
+    {
+      "id": "74db29d3b96b",
+      "title": "Figc contro il ricorso di Galliani, si costituisce al Tribunale nazionale",
+      "url": "https://www.milannews.it/news/figc-ricorso-galliani-costituisce-tribunale-nazionale-635793",
+      "source": "milannews.it",
+      "date": "2026-11-10T20:20:55+00:00",
+      "summary": "(ANSA) - ROMA, 10 NOV - La Figc si costituisce davanti al Tribunale nazionale contro il ricorso presentato da Adriano Galliani."
+    },
+    {
+      "id": "b3d70caa96d9",
+      "title": "Titolare con la Francia? Cisse nicchia: \"Deciderà il mister. Ho tanta ambizione\"",
+      "url": "https://www.milannews.it/news/titolare-francia-cisse-nicchia-decidera-mister-tanta-ambizione-635789",
+      "source": "milannews.it",
+      "date": "2026-11-10T20:10:00+00:00",
+      "summary": "Alphadjo Cisse si sta godendo il suo momento, ma sempre dimostrando di avere testa sulle spalle."
+    },
+    {
+      "id": "c6ff14b2099e",
+      "title": "Ronaldinho atteso in campo a Ravenna, tribuna in più e biglietti alle stelle",
+      "url": "https://www.milannews.it/news/ronaldinho-atteso-campo-ravenna-tribuna-biglietti-stelle-635786",
+      "source": "milannews.it",
+      "date": "2026-11-10T20:00:00+00:00",
+      "summary": "(ANSA) - BOLOGNA, 10 NOV - Lo aveva ingaggiato in estate, come uomo immagine: fu subito Ronaldinho-mania a Ravenna. Il patron del club romagnolo Ignazio Cipriani strappò al brasiliano anche la promessa che una partita l'avrebbe giocata."
+    },
+    {
+      "id": "3c370223126a",
+      "title": "Bianchin: \"Se dovete immaginare il Milan del futuro: fare Pulisic e altri 10\"",
+      "url": "https://www.milannews.it/news/bianchin-se-dovete-immaginare-milan-futuro-pulisic-10-635788",
+      "source": "milannews.it",
+      "date": "2026-11-10T19:50:24+00:00",
+      "summary": "Christian Pulisic è stato nominato MVP della Serie A e anche dai tifosi del Milan nell'ultima gara prima della sosta, quella che i rossoneri hanno vinto per 1-2 al Luigi Ferraris contro il Genoa domenica alle ore 15."
+    },
+    {
+      "id": "534f4e950938",
+      "title": "Dalla Croazia si interrogano sulla titolarità di Modric: \"È la grande questione\"",
+      "url": "https://www.milannews.it/news/croazia-interrogano-titolarita-modric-e-questione-635785",
+      "source": "milannews.it",
+      "date": "2026-11-10T19:40:04+00:00",
+      "summary": "La presenza di Luka Modric, nonostante i 41 anni di età, è di cruciale importanza per il Milan ma ancora anche per la sua nazionale, la Croazia con cui ha deciso di continuare il suo percorso per il momento, anc ..."
+    },
+    {
+      "id": "d8e4bd329621",
+      "title": "Italia U21, Zeroli convocato per gli impegni contro Francia e Belgio",
+      "url": "https://www.milannews.it/news/italia-u21-zeroli-convocato-impegni-francia-belgio-635805",
+      "source": "milannews.it",
+      "date": "2026-11-10T19:30:00+00:00",
+      "summary": "Il centrocampista rossonero Kevin Zeroli, oggi in prestito in Serie B al Sudtirol è stato convocato con l'Italia U21 di Baldini."
+    },
+    {
+      "id": "8bb80a886010",
+      "title": "‘Not ready’, ‘out of control’ and ‘the end of the world’: What Amorim’s words tell us about Milan’s state",
+      "url": "https://sempremilan.com/what-amorim-words-tell-us-milan-state",
+      "source": "sempremilan.com",
+      "date": "2026-11-10T19:00:00+00:00",
+      "summary": "Ruben Amorim is not one to hold back when it comes to speaking his thoughts to the media, and the last few days are no exception. The past week or so has seen Amorim have to digest the best and worst of his AC Milan side. The 3-1 derby win over Inter generated a euphoria […]\nThe post ‘Not ready’, ‘o"
+    },
+    {
+      "id": "01ca971bbae9",
+      "title": "Liberali praises Cisse and looks back on Milan decision: “It wasn’t easy”",
+      "url": "https://sempremilan.com/liberali-cisse-milan-decision-wasnt-easy",
+      "source": "sempremilan.com",
+      "date": "2026-11-10T18:20:00+00:00",
+      "summary": "Mattia Liberali has looked back on his decision to leave AC Milan and to snub rejoining them, insisting he has ‘no regrets’. After making his way through the youth sector, Liberali burst onto the scene in the 2024 summer preseason under Paulo Fonseca. He also made his first senior start under the Po"
+    },
+    {
+      "id": "f357a1573485",
+      "title": "Repubblica: Milan and Real Madrid watching as Napoli star McTominay stalls on contract",
+      "url": "https://sempremilan.com/milan-real-madrid-mctominay-stalls-napoli",
+      "source": "sempremilan.com",
+      "date": "2026-11-10T17:40:00+00:00",
+      "summary": "Scott McTominay’s Napoli future is in doubt, and a report has named AC Milan among the surprise potential suitors. In a Napoli side that appears to have lost its way, one of the few lights leading the way remains McTominay. Despite a season that started on the wrong foot and a heart condition (now r"
     },
     {
       "id": "6b7f455c90a4",
@@ -34,68 +194,12 @@
       "summary": "The Goncalo Ramos enigma continues to dominate the newspaper columns, as AC Milan try unlock their record signing. As La Gazzetta dello Sport report, Milan fans hoped they had finally found a top-class striker in Ramos, but his three goals this season are not sufficient compared to expectations and "
     },
     {
-      "id": "c294eaa0304e",
-      "title": "Sylla in tre aggettivi, Van Essche: \"Forte, veloce e di enorme talento\"",
-      "url": "https://www.milannews.it/news/sylla-aggettivi-van-essche-forte-veloce-enorme-talento-635759",
-      "source": "milannews.it",
-      "date": "2026-11-10T16:51:58+00:00",
-      "summary": "Nel corso di questi giorni il nome del giovane difensore Massiré Sylla è stato accostato al Milan."
-    },
-    {
-      "id": "6bdd24ebf4d9",
-      "title": "AIAC, a Gennaro Gattuso la prima edizione del premio \"Corigliano\"",
-      "url": "https://www.milannews.it/news/aiac-gattuso-edizione-premio-corigliano-635751",
-      "source": "milannews.it",
-      "date": "2026-11-10T16:40:51+00:00",
-      "summary": "(ANSA) - ROMA, 10 NOV - E' Rino Gattuso il primo vincitore del Premio 'Ernesto Corigliano', istituito dall'Associazione Italiana Allenatori Calcio."
-    },
-    {
-      "id": "512ed957a2e2",
-      "title": "Liberali: \"Non è stato facile andare via dal Milan. Ma sono contentissimo per Cisse\"",
-      "url": "https://www.milannews.it/news/liberali-non-facile-andare-via-milan-contentissimo-cisse-635776",
-      "source": "milannews.it",
-      "date": "2026-11-10T16:30:28+00:00",
-      "summary": "Mattia Liberali, ex talento della Primavera del Milan che quest'estate ha deciso di sposare il progetto del Como di Cesc Fabregas e la Champions League invece di ritornare in rossonero con Cardinale e Amorim che gli hanno fatt ..."
-    },
-    {
-      "id": "d27c2163d1b0",
-      "title": "Francia, ecco quando giocano Maignan e Rabiot in questa sosta",
-      "url": "https://www.milannews.it/news/francia-giocano-maignan-rabiot-sosta-635767",
-      "source": "milannews.it",
-      "date": "2026-11-10T16:20:09+00:00",
-      "summary": "Confermatissimi dal nuovo CT Zinedine Zidane, nella Francia, i due calciatori del Milan: il portiere e capitano Mike Maignan e il centrocampista Adrien Rabiot."
-    },
-    {
       "id": "80f396fb0a4a",
       "title": "TMW: Milan one of four teams in the running for want-away Chelsea defender Gusto",
       "url": "https://sempremilan.com/milan-atletico-leipzig-como-chelsea-gusto",
       "source": "sempremilan.com",
       "date": "2026-11-10T16:20:00+00:00",
       "summary": "AC Milan are interested in signing full-back Malo Gusto from Chelsea, a report claims, but they are not the only Italian club keen. Milan continue to be linked with potential targets for the flanks, given that they are currently without Samuel Chukwueze and Alexis Saelemaekers due to injury, while P"
-    },
-    {
-      "id": "ece719320bff",
-      "title": "Cisse: \"Al Milan non si trascura nessuna competizione, devi vincere tutto\"",
-      "url": "https://www.milannews.it/news/cisse-al-milan-trascura-competiezione-devi-vincere-tutto-635771",
-      "source": "milannews.it",
-      "date": "2026-11-10T16:10:23+00:00",
-      "summary": "Ci sono diverse qualità che hanno colpito subito all'occhio di Alphadjo Cisse, uno dei protagonisti indiscussi di questo avvio di stagione del Milan con un rendimento difficilmente preventivabile anche dal più ottimista di ..."
-    },
-    {
-      "id": "d3d46b4941fe",
-      "title": "Generali Stadium, nuovi rallentamenti? Le istituzioni di Comune e Regione tranquillizzano",
-      "url": "https://www.milannews.it/podcast-mn/generali-stadium-rallentamenti-istituzioni-comune-regione-tranquillizzano-635779",
-      "source": "milannews.it",
-      "date": "2026-11-10T16:00:00+00:00",
-      "summary": "Il progetto del Generali Stadium è uscito allo scoperto nemmeno da due settimane ma già si è parlato di diversi, nuovi, rallentamenti a causa dei alcune perplessità del Comune di Milano."
-    },
-    {
-      "id": "b3518f5c943a",
-      "title": "Van Essche (Het Laatste Nieuws): \"Milan attento, diversi club di Premier stanno seguendo Sylla\"",
-      "url": "https://www.milannews.it/news/van-essche-het-laatste-nieuws-milan-attento-diversi-club-premier-league-seguendo-sylla-635758",
-      "source": "milannews.it",
-      "date": "2026-11-10T15:50:15+00:00",
-      "summary": "Nel corso di questi giorni il nome del giovane difensore Massiré Sylla è stato accostato al Milan."
     },
     {
       "id": "c85b24831507",
@@ -106,52 +210,12 @@
       "summary": "The Football Italia Show is back, bringing the latest Italy news from Coverciano, starting with..."
     },
     {
-      "id": "54d8684284c7",
-      "title": "Arriva \"Winter stellar Nitro\", il pallone invernale della Serie A",
-      "url": "https://www.milannews.it/news/arriva-winter-stellar-nitro-pallone-invernale-serie-635740",
-      "source": "milannews.it",
-      "date": "2026-11-10T15:40:27+00:00",
-      "summary": "(ANSA) - ROMA, 10 NOV - Arriva il nuovo pallone invernale della Serie A: Winter Stellar Nitro sarà in campo a partire dal 21 novembre."
-    },
-    {
       "id": "6bf710d630da",
       "title": "SempreMilan Podcast: Episode 439 – Dr Jekyll and Mr Hyde",
       "url": "https://sempremilan.com/sempremilan-podcast-episode-439-dr-jekyll-and-mr-hyde",
       "source": "sempremilan.com",
       "date": "2026-11-10T15:40:00+00:00",
       "summary": "Join Oli and Bdair as they recap the disgraceful loss to Ferencvaros, analyse the win against Genoa and answer some listener questions. This week’s topics include… ↳ One of the worst ever European performances ↳ Response at the Marassi ↳ The remarkable rise of Alpha Cisse ↳ No.9 curse, CB hierarchy "
-    },
-    {
-      "id": "426f6919ffec",
-      "title": "L'ex arbitro Gabriele: \"Il problema è che Orsato chiede ai suoi di arbitrare come Orsato\"",
-      "url": "https://www.milannews.it/news/arbitro-gabriele-il-problema-orsato-chiede-arbitrare-orsato-635755",
-      "source": "milannews.it",
-      "date": "2026-11-10T15:30:31+00:00",
-      "summary": "Marco Gabriele, ex arbitro di calcio, è stato intervistato da Tuttomercatoweb in esclusiva e ha parlato dell'operato del nuovo designatore Daniele Orsato: \"Orsato ha chiesto agli arbitri di spezzettare meno il gioco e di tor ..."
-    },
-    {
-      "id": "5291d5f689c1",
-      "title": "Nazionali, quando e contro chi gioca Diego Moreira con il Belgio",
-      "url": "https://www.milannews.it/news/nazionali-gioca-diego-moreira-belgio-635766",
-      "source": "milannews.it",
-      "date": "2026-11-10T15:20:31+00:00",
-      "summary": "Diego Moreira è stato ovviamente confermato nelle convocazioni del Belgio da parte del CT Mark van Bommel."
-    },
-    {
-      "id": "90c17a4535f2",
-      "title": "Cisse: \"La convinzione di arrivare a Milanello e mostrare le mie qualità era alta\"",
-      "url": "https://www.milannews.it/news/cisse-la-convinzione-arrivare-milanello-mostrare-qualita-alta-635770",
-      "source": "milannews.it",
-      "date": "2026-11-10T15:10:00+00:00",
-      "summary": "Alphadjo Cisse, attaccante del Milan classe 2006 e autore già di otto gol stagionali di cui ben 5 segnati in campionato, alla prima esperienza nel massimo campionato itaiano, è intervenuto in conferenza stampa dirett ..."
-    },
-    {
-      "id": "a3af7ceca2bd",
-      "title": "Sylla visto dal Belgio: \"Non penso lascerà l'USG a gennaio. Milan? Ha il livello per giocare in un grande campionato\"",
-      "url": "https://www.milannews.it/esclusive-mn/sylla-belgio-non-penso-lascera-usg-gennaio-milan-livello-giocare-campionato-635754",
-      "source": "milannews.it",
-      "date": "2026-11-10T15:00:57+00:00",
-      "summary": "Nel corso di questi giorni il nome del giovane difensore Massiré Sylla è stato accostato al Milan."
     },
     {
       "id": "b4e336c8f8d4",
@@ -170,22 +234,6 @@
       "summary": "Milan starlet Alphadjo Cisse says Mario Balotelli is ‘without a doubt’ his role model as..."
     },
     {
-      "id": "c9398cf80c6d",
-      "title": "Generali Stadium, il Consiglio comunale chiede Valutazione ambientale anticipata. Sala: \"Non intendo avere ripensamenti\"",
-      "url": "https://www.milannews.it/news/generali-stadium-comunale-chiede-valutazione-ambientale-anticipata-sala-non-intendo-ripensamenti-635778",
-      "source": "milannews.it",
-      "date": "2026-11-10T14:50:18+00:00",
-      "summary": "Il Consiglio comunale di Milano, riporta il Corriere della Sera, ha chiesto alla Giunta di subordinare la procedura di Valutazione ambientale strategica (VAS) a una Valutazione di impatto sanitario (VIS) che analizzi i rischi ambientali legati a demo ..."
-    },
-    {
-      "id": "f473a87425eb",
-      "title": "Vincent Kompany torna al centro sportivo del Bayern dopo il malore",
-      "url": "https://www.milannews.it/news/kompany-torna-centro-sportivo-bayern-malore-635752",
-      "source": "milannews.it",
-      "date": "2026-11-10T14:40:39+00:00",
-      "summary": "(ANSA) - BERLINO, 10 NOV - Dopo il malore causato da un'irritazione delle meningi, l'allenatore Vincent Kompany è stato visto per la prima volta al centro sportivo del Bayern Monaco."
-    },
-    {
       "id": "a7ca85cb6500",
       "title": "Real Madrid star Endrick opens up amid Milan and Roma links: ‘I don’t know what will happen’",
       "url": "https://football-italia.net/real-madrid-star-endrick-opens-up-milan-roma/",
@@ -194,36 +242,12 @@
       "summary": "Endrick admits he doesn’t know what will happen in January, but he has made it..."
     },
     {
-      "id": "8398321fb7f8",
-      "title": "L'ex arbitro Gabriele: \"Siamo in una fase di passaggio da Rocchi a Orsato\"",
-      "url": "https://www.milannews.it/news/arbitro-gabriele-siamo-fase-passaggio-rocchi-orsato-635756",
-      "source": "milannews.it",
-      "date": "2026-11-10T14:30:00+00:00",
-      "summary": "Il mondo arbitrale italiano sta vivendo una fase di profondo cambiamento, quantomento ai massimi livelli che sono la Serie A e la Serie B."
-    },
-    {
       "id": "7bd3a404f87d",
       "title": "Ramos remains dry while Milan score plenty: Dissecting the attacking paradox",
       "url": "https://sempremilan.com/ramos-remains-dry-milan-score-paradox",
       "source": "sempremilan.com",
       "date": "2026-11-10T14:30:00+00:00",
       "summary": "AC Milan are certainly not struggling to score goals in Serie A, and yet big question marks remain around the attack’s focal point. With 23 goals in 11 league games, Milan find themselves among the top scorers in the league. However, not all is rosy. There is a big gap to the teams at the […]\nThe po"
-    },
-    {
-      "id": "795aa03d4eaa",
-      "title": "Italia, Mancini pensa al tridente con Cisse e i fratelli Esposito",
-      "url": "https://www.milannews.it/news/italia-mancini-pensa-tridente-cisse-fratelli-esposito-635777",
-      "source": "milannews.it",
-      "date": "2026-11-10T14:20:00+00:00",
-      "summary": "Mancano solo due giorni al primo impegno di questa sosta per l'Italia, quello più prestigioso per avversario e palcoscenico dove si svolgerà la gara."
-    },
-    {
-      "id": "40ca0824d577",
-      "title": "Cisse: \"Balotelli sempre stato un riferimento in Nazionale. La pressione mi piace\"",
-      "url": "https://www.milannews.it/news/cisse-balotelli-riferimento-nazionale-pressione-piace-635769",
-      "source": "milannews.it",
-      "date": "2026-11-10T14:10:00+00:00",
-      "summary": "Un paio di estratti della conferenza stampa di Alphadjo Cisse a Coverciano."
     },
     {
       "id": "e76bd451f6c9",
@@ -346,14 +370,6 @@
       "summary": "AC Milan climbed back into the top four in the Serie A table with a much-needed win away against Genoa before the international break. Milan found themselves two goals up inside 20 minutes when Alphadjo Cisse slotted in a cut-back from Adrien Rabiot and Christian Pulisic buried a square pass from Go"
     },
     {
-      "id": "0101281aa550",
-      "title": "TMW: Milan could replace Estupinan with Atalanta youngster Bernasconi – the details",
-      "url": "https://sempremilan.com/milan-replace-estupinan-with-atalanta-bernasconi",
-      "source": "sempremilan.com",
-      "date": "2026-11-09T18:20:00+00:00",
-      "summary": "AC Milan are looking for an upgrade on the left flank, and they have a rising Atalanta star in their sights as per a report. According to TMW (via PianetaMilan), a target that Milan pursued last summer could become a hot topic again this winter. However, there is competition to overcome, and the pur"
-    },
-    {
       "id": "7a133da30a27",
       "title": "Cisse: ‘Practically on the flight to PSV before Milan called, never had any doubt about my quality’",
       "url": "https://football-italia.net/cisse-en-route-to-psv-before-milan-called/",
@@ -362,28 +378,12 @@
       "summary": "Alphadjo Cisse has spoken in-depth about his rapid rise to the top of Italian football,..."
     },
     {
-      "id": "687b7beb26bb",
-      "title": "GdS: Week-long breaks and lighter sessions – Amorim bringing ‘international culture’ to Milanello",
-      "url": "https://sempremilan.com/amorim-bringing-international-culture-to-milanello",
-      "source": "sempremilan.com",
-      "date": "2026-11-09T17:40:00+00:00",
-      "summary": "Ruben Amorim’s decisions when it comes to training have once again come under the microscope after the win over Genoa. La Gazzetta dello Sport report that Amorim’s closing message to the players after the victory at the Marassi was music to their ears: ‘See you next Monday’. Until early next week, M"
-    },
-    {
       "id": "a15f17eacd1d",
       "title": "Cisse: ‘Italy is full of strong young players, I want to prove I should be here’",
       "url": "https://football-italia.net/cisse-italy-is-full-of-strong-young-players/",
       "source": "football-italia.net",
       "date": "2026-11-09T17:11:58+00:00",
       "summary": "Alphadjo Cisse has spoken about the moment he found out he had been called up..."
-    },
-    {
-      "id": "dc392813c53e",
-      "title": "Stand-outs for good and bad reasons: Fan player ratings from Genoa 1-2 AC Milan",
-      "url": "https://sempremilan.com/fan-ratings-genoa-1-2-milan-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-09T17:00:00+00:00",
-      "summary": "AC Milan ensured they will go into the international break in good spirits as they beat Genoa 2-1 away from home on Sunday. Milan led by two goals inside 20 minutes after Alphadjo Cisse slotted in a cut-back from Adrien Rabiot to get his eighth of the campaign, before Christian Pulisic buried a squa"
     },
     {
       "id": "785a02502df7",
