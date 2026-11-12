@@ -1,21 +1,197 @@
 {
-  "lastUpdated": "2026-11-12T17:55:11.671133+00:00",
+  "lastUpdated": "2026-11-12T23:13:01.643556+00:00",
   "articles": [
     {
-      "id": "cf462c968824",
-      "title": "Il Milan vuole Tresoldi già a gennaio. Taecke: \"Non ci sono possibilità che lasci il Belgio a gennaio\"",
-      "url": "https://www.milannews.it/news/milan-vuole-tresoldi-gennaio-taecke-non-possibilita-lasci-belgio-gennaio-635984",
+      "id": "cd3ee81d4142",
+      "title": "De Rossi: \"Genoa diverso da altri posti. Diego Moreira dopo la partita mi ha detto che...\"",
+      "url": "https://www.milannews.it/l-avversario/de-rossi-genoa-diverso-posti-diego-moreira-partita-che-635972",
       "source": "milannews.it",
-      "date": "2026-11-12T17:50:16+00:00",
+      "date": "2026-11-12T23:10:15+00:00",
+      "summary": "Ospite negli studi di SkySport24, Daniele De Rossi ha commentato così la sua esperienza sulla panchina del Genoa e il momento difficile vissuto qualche settimana fa: “E’ stato la parte di carriera che ricorderò per sempre, f ..."
+    },
+    {
+      "id": "80a7f7801bd2",
+      "title": "Servono risposte. Tresoldi, Endrick, Inacio: bene, ma il terzino sinistro? Chi farà il mercato di gennaio?",
+      "url": "https://www.milannews.it/editoriale/servono-risposte-tresoldi-endrick-inacio-bene-terzino-sinistro-mercato-gennaio-636016",
+      "source": "milannews.it",
+      "date": "2026-11-12T23:00:01+00:00",
+      "summary": "È già tempo di mercato. Un po' perché gennaio è alle porte, un po' perché Cardinale ha promesso interventi, un po' (e soprattutto) perché qualche aggiustamento è indispensabile."
+    },
+    {
+      "id": "e717fe736bd6",
+      "title": "Oscar del calcio italiano a Svilar, Paz e Dimarco, premi anche a Chivu e Fabregas",
+      "url": "https://www.milannews.it/news/oscar-calcio-italiano-svilar-paz-dimarco-premi-chivu-fabregas-636010",
+      "source": "milannews.it",
+      "date": "2026-11-12T22:50:00+00:00",
+      "summary": "(ANSA) - ROMA, 12 NOV - Si è appena conclusa presso l'Auditorium AIA dello Stadio Città di Arezzo la conferenza stampa di presentazione della XV edizione del Gran Galà del Calcio - Rever: Il premio più esclusivo che ce ..."
+    },
+    {
+      "id": "b36c5ce9ca14",
+      "title": "Elezioni Figc, parla Malagò: \"Vinca il buonsenso. Il calcio italiano autolesionistico\"",
+      "url": "https://www.milannews.it/news/elezioni-figc-malago-vinca-buonsenso-calcio-italiano-autolesionistico-636000",
+      "source": "milannews.it",
+      "date": "2026-11-12T22:40:32+00:00",
+      "summary": "(ANSA) - MILANO, 12 NOV - \"Il calcio ha delle dinamiche interne che conoscete benissimo. Senza fare discorsi di parte perché è chiaro che sono assolutamente coinvolto, il calcio ha delle forme di autolesionismo."
+    },
+    {
+      "id": "fc8017bf181c",
+      "title": "Il Bruges spara alto per Tresoldi, Martoretti: \"Se il Milan è disposto a spendere...\"",
+      "url": "https://www.milannews.it/calciomercato-milan/bruges-spara-alto-tresoldi-martoretti-se-milan-disposto-spendere-636008",
+      "source": "milannews.it",
+      "date": "2026-11-12T22:30:28+00:00",
+      "summary": "Nel corso del consueto appuntamento con Maracanà, programma in onda sulle frequenze di TMW Radio, il procuratore Giocondo Martoretti ha fatto un po' il punto sui nomi più interessanti in vista del prossimo calciomercato invernale, s ..."
+    },
+    {
+      "id": "8f5724aaed96",
+      "title": "Il pronostico di Zazzaroni: \"Vedo il Milan per un posto tra i primi quattro\"",
+      "url": "https://www.milannews.it/news/pronostico-zazzaroni-vedo-milan-primi-quattro-636004",
+      "source": "milannews.it",
+      "date": "2026-11-12T22:20:02+00:00",
+      "summary": "Ospite durante Maracanà, programma in onda sulle frequenze di TMW Radio, il direttore de Il Corriere dello Sport Ivan Zazzaroni ha fatto il punto sulla Serie A in questa settimana di sosta, soffermandosi anche sul Milan di Ruben Amorim."
+    },
+    {
+      "id": "bd3ef28705c0",
+      "title": "Canovi: \"Il Milan ha bisogno di un sostituto di Ramos, visto che giocare di giovedì è poi sempre un problema per il campionato\"",
+      "url": "https://www.milannews.it/news/canovi-il-milan-bisogno-sostituto-ramos-giocare-giovedi-problema-campionato-635994",
+      "source": "milannews.it",
+      "date": "2026-11-12T22:10:08+00:00",
+      "summary": "Nel corso del consueto appuntamento con Maracanà, programma in onda sulle frequenze di TMW Radio, il procuratore Alessandro Canovi ha parlato di Milan soffermandosi su alcuni dei nomi più interessanti accostati al club rossonero, su tut ..."
+    },
+    {
+      "id": "99af11671ec7",
+      "title": "Maignan e non solo: sono 6 i giocatori del Milan che beneficiano del decreto crescita",
+      "url": "https://www.milannews.it/news/maignan-solo-6-giocatori-beneficiano-decreto-crescita-635999",
+      "source": "milannews.it",
+      "date": "2026-11-12T22:00:52+00:00",
+      "summary": "Con un lungo approfondimento i colleghi di TMW hanno analizzato quali sono i club di Serie A che usufruiscono del decreto crescita, entrando nello specifico facendo anche i nomi dei giocatori."
+    },
+    {
+      "id": "1fe80694a5ce",
+      "title": "L'Italia ne fa tre alla Francia e si prende il primo posto nel girone di Nations League",
+      "url": "https://www.milannews.it/news/calcio-nations-league-italia-francia-3-1-636032",
+      "source": "milannews.it",
+      "date": "2026-11-12T21:50:05+00:00",
+      "summary": "(ANSA) - MILANO, 12 NOV - Italia batte Francia 3-1 (1-1) nella quinta giornata di Nations League. I gol nel primo tempo al 10' di Olise, al 26' di Pio Esposito; nel secondo tempo al 18' di Frattesi, al 30' di Pio Esposito su rigore."
+    },
+    {
+      "id": "3078874095f5",
+      "title": "Poco più di un quarto d'ora in campo per Modric nella sconfitta della Croazia contro l'Inghilterra",
+      "url": "https://www.milannews.it/news/modric-sconfitta-croazia-inghilterra-636030",
+      "source": "milannews.it",
+      "date": "2026-11-12T21:40:09+00:00",
+      "summary": "Dopo lo 0-7 dello scorso 3 ottobre la Croazia perde ancora contro l'Inghilterra, ma questa volta lo fa con più dignità."
+    },
+    {
+      "id": "1fc419513f0a",
+      "title": "Tresoldi al Milan da subito? Martoretti non è convinto: \"A gennaio i giocatori importanti si spostano difficilmente\"",
+      "url": "https://www.milannews.it/calciomercato-milan/tresoldi-milan-subito-martoretti-convinto-a-gennaio-giocatori-importanti-spostano-difficilmente-636007",
+      "source": "milannews.it",
+      "date": "2026-11-12T21:30:08+00:00",
+      "summary": "Nel corso del consueto appuntamento con Maracanà, programma in onda sulle frequenze di TMW Radio, il procuratore Giocondo Martoretti ha fatto un po' il punto sui nomi più interessanti in vista del prossimo calciomercato invernale, s ..."
+    },
+    {
+      "id": "6b0ba5b48b7e",
+      "title": "Zazzaroni svela: \"Uno del Milan mi ha detto che sta cambiando qualcosa come squadra. C'è stato un clic\"",
+      "url": "https://www.milannews.it/news/zazzaroni-svela-uno-milan-cambiando-squadra-clic-636003",
+      "source": "milannews.it",
+      "date": "2026-11-12T21:20:44+00:00",
+      "summary": "Ospite durante Maracanà, programma in onda sulle frequenze di TMW Radio, il direttore de Il Corriere dello Sport Ivan Zazzaroni ha fatto il punto sulla Serie A in questa settimana di sosta, soffermandosi anche sul Milan di Ruben Amorim."
+    },
+    {
+      "id": "b6a3e6f127c9",
+      "title": "Canovi esalta Endrick: \"Se andasse via, per il livello del campionato sarebbe un ottimo giocatore\"",
+      "url": "https://www.milannews.it/news/canovi-esalta-endrick-se-andasse-via-livello-campionato-ottimo-giocatore-635996",
+      "source": "milannews.it",
+      "date": "2026-11-12T21:10:36+00:00",
+      "summary": "Nel corso del consueto appuntamento con Maracanà, programma in onda sulle frequenze di TMW Radio, il procuratore Alessandro Canovi ha parlato di Milan soffermandosi su alcuni dei nomi più interessanti accostati al club rossonero, su tut ..."
+    },
+    {
+      "id": "7395a0fe6868",
+      "title": "Elezioni arbitri, il primo dicembre il ricorso all'esame del Tribunale Federale",
+      "url": "https://www.milannews.it/news/elezioni-arbitri-dicembre-ricorso-esame-tribunale-federale-636011",
+      "source": "milannews.it",
+      "date": "2026-11-12T21:00:37+00:00",
+      "summary": "(ANSA) - ROMA, 12 NOV - Si svolgerà il primo dicembre l'udienza del Tribunale Federale Nazionale che discuterà del ricorso che contesta la regolarità dell'assemblea elettiva degli arbitri."
+    },
+    {
+      "id": "7d338256b60d",
+      "title": "Canovi: \"Endrick? Mou non vuole darlo via. Tresoldi? Non penso faccia una coppia giusta con Ramos\"",
+      "url": "https://www.milannews.it/news/canovi-endrick-mou-vuole-darlo-via-tresoldi-penso-coppia-giusta-ramos-635989",
+      "source": "milannews.it",
+      "date": "2026-11-12T21:00:02+00:00",
+      "summary": "Il procuratore Alessandro Canovi è intervenuto a Maracanà, trasmissione di TMW Radio di Tuttomercatoweb.com."
+    },
+    {
+      "id": "d3ea0b0aac7c",
+      "title": "Tresoldi è pronto per il salto di qualità? Taecke: \"Se anche non lo fosse ancora, è solo una questione di tempo\"",
+      "url": "https://www.milannews.it/news/tresoldi-pronto-salto-qualita-taecke-se-ancora-questione-tempo-635988",
+      "source": "milannews.it",
+      "date": "2026-11-12T20:50:26+00:00",
       "summary": "Nicolò Tresoldi è il sogno del Milan per il prossimo calciomercato invernale."
     },
     {
-      "id": "5fb5d136ab5b",
-      "title": "Dalmat esalta Rabiot: \"Giocatore importante di alto livello. È ancora molto determinante\"",
-      "url": "https://www.milannews.it/news/dalmat-esalta-rabiot-giocatore-importante-alto-livello-determinante-635990",
+      "id": "a56f4db9d00d",
+      "title": "68' per Moreira nella vittoria del Belgio sulla Turchia",
+      "url": "https://www.milannews.it/news/68-moreira-vittoria-belgio-turchia-636019",
       "source": "milannews.it",
-      "date": "2026-11-12T17:40:57+00:00",
-      "summary": "Intervistato dai colleghi di TMW, l'ex centrocampista dell'Inter Stephan Dalmat ha presentato la sfida in programma questa sera a San Siro tra l'Italia e la Francia, soffermandosi in modo particolare su Adrien Rabiot, che dovrebbe guidare ..."
+      "date": "2026-11-12T20:40:20+00:00",
+      "summary": "In attesa di capire quale sarà il risultato finale di Italia-Francia, nel pomeriggio un Belgio 'Made in Italy' ha battuto la Turchia 2 a 1 grazie alle reti di Kevin De Bruyne e Charles De Ketelaere, alle quali ha risposto il solito Ard ..."
+    },
+    {
+      "id": "b8569f6b6368",
+      "title": "Comotto: \"Ovvio che voglio di più, ma sono al Milan e ho davanti Modric e Rabiot: sono tranquillo\"",
+      "url": "https://www.milannews.it/primo-piano/comotto-ovvio-voglio-piu-milan-modric-rabiot-tranquillo-636022",
+      "source": "milannews.it",
+      "date": "2026-11-12T20:38:02+00:00",
+      "summary": "Christian Comotto, centrocampista classe 2008 del Milan, è stato intervistato da Sportitalia al termine del match vinto dall'ItaliaU20 per 1-0 contro i pari età del Portogallo, nel quale il rossonero è stato in ncampo per 58  ..."
+    },
+    {
+      "id": "9abe2294da08",
+      "title": "Martoretti elogia Tresoldi: \"Ha una potenzialità enorme\"",
+      "url": "https://www.milannews.it/calciomercato-milan/martoretti-elogia-tresoldi-ha-potenzialita-enorme-636006",
+      "source": "milannews.it",
+      "date": "2026-11-12T20:30:41+00:00",
+      "summary": "Nel corso del consueto appuntamento con Maracanà, programma in onda sulle frequenze di TMW Radio, il procuratore Giocondo Martoretti ha fatto un po' il punto sui nomi più interessanti in vista del prossimo calciomercato invernale, s ..."
+    },
+    {
+      "id": "260d4551ec00",
+      "title": "Zazzaroni sul Milan: \"È una squadra forte. Può darsi faccia qualcosa a gennaio sul mercato\"",
+      "url": "https://www.milannews.it/news/zazzaroni-milan-e-squadra-forte-darsi-gennaio-mercato-636002",
+      "source": "milannews.it",
+      "date": "2026-11-12T20:20:44+00:00",
+      "summary": "Ospite durante Maracanà, programma in onda sulle frequenze di TMW Radio, il direttore de Il Corriere dello Sport Ivan Zazzaroni ha fatto il punto sulla Serie A in questa settimana di sosta, soffermandosi anche sul Milan di Ruben Amorim."
+    },
+    {
+      "id": "db0e3742b460",
+      "title": "Rabiot is France captain for first time at San Siro against Italy",
+      "url": "https://football-italia.net/rabiot-france-captain-first-time-sansiro-italy/",
+      "source": "football-italia.net",
+      "date": "2026-11-12T19:23:51+00:00",
+      "summary": "Milan midfielder Adrien Rabiot makes history this evening, as he wears the France captain’s armband..."
+    },
+    {
+      "id": "361ef7c4daa0",
+      "title": "The Brugge issue and a familiar backstory: Why the Tresoldi deal is becoming off-putting",
+      "url": "https://sempremilan.com/why-tresoldi-deal-becoming-offputting",
+      "source": "sempremilan.com",
+      "date": "2026-11-12T19:00:00+00:00",
+      "summary": "Recently, it’s felt like AC Milan have been set on signing Nicolo Tresoldi in the winter. It may be the easy option, but is it the right one? At a time when Milan are doing the PR side of things almost perfectly, Tresoldi feels like another easy win. It seems increasingly likely that Francesco Camar"
+    },
+    {
+      "id": "8cd3e2f8f26d",
+      "title": "Pato admits Nesta’s injury ‘fury’ could’ve been handled better: “Young and didn’t understand”",
+      "url": "https://sempremilan.com/pato-discusses-nesta-injury-fury",
+      "source": "sempremilan.com",
+      "date": "2026-11-12T18:20:00+00:00",
+      "summary": "Alexandre Pato is one of the greatest ‘What If’ players of his generation and AC Milan will always hold him in high regard. For many, even non-Milan fans, Pato is one of the defining players of the ‘What If’ term. The Brazilian had everything required to make him a modern great. Fantastic in front o"
+    },
+    {
+      "id": "dd4af914c5e1",
+      "title": "Cisse targeted by Arsenal, Brighton and more as Milan raise price to €60m",
+      "url": "https://football-italia.net/cisse-targeted-by-arsenal-brighton-milan-e60m/",
+      "source": "football-italia.net",
+      "date": "2026-11-12T18:10:56+00:00",
+      "summary": "Milan forward Alphadjo Cisse is attracting interest from the Premier League, as Arsenal reportedly pursued..."
     },
     {
       "id": "785b688c1e77",
@@ -26,76 +202,12 @@
       "summary": "Today, a suggestion has emerged about Inter coach Cristian Chivu and the fact that he may have been an AC Milan fan in the past. It’s no secret that lots of people grew up watching Milan as one of the best clubs in the world. Now, kids grow up with Paris Saint-Germain, Real Madrid and […]\nThe post “"
     },
     {
-      "id": "02045e040a58",
-      "title": "Milan-Como, biglietti in vendita da domani: tutte le info",
-      "url": "https://www.milannews.it/news/milan-como-biglietti-vendita-domani-info-635974",
-      "source": "milannews.it",
-      "date": "2026-11-12T17:30:52+00:00",
-      "summary": "Il sito del Milan pubblica tutte le informazioni sulla vendita dei biglietti della sfida casalinga di campionato contro il Como in programma il 19 dicembrealle 18 a San Siro: \"Milan-Como, ormai un big match."
-    },
-    {
-      "id": "b20e2287242e",
-      "title": "Martorelli: \"Tresoldi ha una potenzialità enorme e se la società è disposta a spendere molti milioni questa operazione può andare in porto\"",
-      "url": "https://www.milannews.it/calciomercato-milan/martorelli-tresoldi-potenzialita-enorme-societa-disposta-spendere-operazione-andare-porto-635970",
-      "source": "milannews.it",
-      "date": "2026-11-12T17:20:31+00:00",
-      "summary": "Il procuratore Giocondo Martorelli è intervenuto a TMW Radio di Tuttomercatoweb.com, dove ha parlato delle prospettive di mercato del Milan."
-    },
-    {
-      "id": "574b4269a510",
-      "title": "Frosinone al lavoro per la sfida al Milan, tanti assenti per Alvini",
-      "url": "https://www.milannews.it/l-avversario/frosinone-lavoro-sfida-milan-tanti-assenti-alvini-635998",
-      "source": "milannews.it",
-      "date": "2026-11-12T17:00:14+00:00",
-      "summary": "(ANSA) - FROSINONE, 12 NOV - Una marcia d'avvicinamento a ranghi ridotti. Il Frosinone ha iniziato a preparare la difficilissima gara di San Siro contro il Milan senza diversi elementi."
-    },
-    {
       "id": "8f4be6fe8db3",
       "title": "CF: Instalments and repeatable bonuses – the exact figure Milan paid for Goncalo Ramos",
       "url": "https://sempremilan.com/exact-figures-milan-paid-ramos",
       "source": "sempremilan.com",
       "date": "2026-11-12T17:00:00+00:00",
       "summary": "Today, more information about the structure and cost of Goncalo Ramos’ move to AC Milan has been revealed. It’s fair to say that Ramos’ start to life with Milan has been poor. The Portuguese striker has not scored (or assisted) as many as had been hoped from a player worth a substantial amount and i"
-    },
-    {
-      "id": "a9e0b9b73456",
-      "title": "Turchia-Belgio, van Bommel schiera Moreira titolare",
-      "url": "https://www.milannews.it/news/turchia-belgio-van-bommel-schiera-moreira-titolare-636001",
-      "source": "milannews.it",
-      "date": "2026-11-12T16:57:53+00:00",
-      "summary": "Tra pochi istanti ci sarà il fischio d'inizio di Turchia-Belgio, gara valida per la Nations League. Van Bommel sceglie di schierare titolare il rossonero Diego Moreira."
-    },
-    {
-      "id": "2a4f9c98c4d5",
-      "title": "Si parla di 50 milioni, ma vale Tresoldi? Taecke: \"Al momento non c'è, perché continua a crescere ogni settimana\"",
-      "url": "https://www.milannews.it/news/tresoldi-taecke-al-e-continua-crescere-settimana-635983",
-      "source": "milannews.it",
-      "date": "2026-11-12T16:50:07+00:00",
-      "summary": "Nicolò Tresoldi è il sogno del Milan per il prossimo calciomercato invernale."
-    },
-    {
-      "id": "4c9360a516b4",
-      "title": "FIGC, Abodi: \"Mi auguro che si chiuda questa stagione di malessere\"",
-      "url": "https://www.milannews.it/news/figc-abodi-auguro-chiuda-stagione-malessere-635979",
-      "source": "milannews.it",
-      "date": "2026-11-12T16:40:09+00:00",
-      "summary": "(ANSA) - TORINO, 12 NOV - \"È giusto che le cose facciano il loro corso, lascio decidere a chi deve decidere."
-    },
-    {
-      "id": "6f6fb8bebc7d",
-      "title": "70 milioni di base fissa e 16 milioni di bonus: tutti i numeri ufficiali dell'affare Ramos con il PSG",
-      "url": "https://www.milannews.it/primo-piano/70-base-fissa-16-bonus-numeri-ufficiali-affare-ramos-psg-635997",
-      "source": "milannews.it",
-      "date": "2026-11-12T16:30:00+00:00",
-      "summary": "Così come era successo nelle scorse settimane per Diego Moreira (clicca QUI), Calcio&Finanza ha pubblicato un report con tutte le cifre ufficiali dell'affare tra Milan e PSG per l'acquisto di Gonçalo Ramos."
-    },
-    {
-      "id": "4dc91f71c5e6",
-      "title": "Ordine: \"Tresoldi-Milan? Credo che con Ramos sia più compatibile Endrick\"",
-      "url": "https://www.milannews.it/news/ordine-tresoldi-milan-credo-ramos-compatibile-endrick-635976",
-      "source": "milannews.it",
-      "date": "2026-11-12T16:20:26+00:00",
-      "summary": "Franco Ordine, giornalista de Il Giornale, ha commentato così alla radio di Tuttomercatoweb."
     },
     {
       "id": "474b4990ef5d",
@@ -106,38 +218,6 @@
       "summary": "In recent years, Gianluigi Donnarumma has returned to San Siro and tonight, he will do so again, revisiting the home of his former life at AC Milan.  For Mike Maignan, it’s another game at San Siro. However, he’ll be in the opposition dressing room on a rare occasion. In the other goal, Donnarumma w"
     },
     {
-      "id": "082b246b0158",
-      "title": "L'architetto Foster e i numeri del Generali Stadium: \"Ogni curva avrà 11.700 posti\"",
-      "url": "https://www.milannews.it/news/architetto-foster-numeri-generali-stadium-ogni-curva-11-700-posti-635966",
-      "source": "milannews.it",
-      "date": "2026-11-12T16:10:23+00:00",
-      "summary": "Norman Foster, architetto di fama mondiale che ha progetto il Generali Stadium insieme a David Manica, ha parlato così a Sky del nuovo stadio di Milan e Inter: \"Direi che la forma nasce dall’interno, dai tifosi."
-    },
-    {
-      "id": "9c640ecfb183",
-      "title": "Baldini: \"A Camarda ripeto sempre di togliersi dalla testa tutte le cose negative. Deve pensare che è fortunato\"",
-      "url": "https://www.milannews.it/news/baldini-a-camarda-ripeto-togliersi-testa-cose-negative-pensare-fortunato-635986",
-      "source": "milannews.it",
-      "date": "2026-11-12T16:00:06+00:00",
-      "summary": "Silvio Baldini, CT dell'Italia U21, ha parlato in conferenza stampa alla vigilia dell'amichevole contro la Francia: \"Intanto penso che la cosa che vi interessa di più sia sapere chi partirà dall'inizio."
-    },
-    {
-      "id": "1dd66ffebdef",
-      "title": "La crescita di Tresoldi vista dal Belgio: \"Ha avuto un inizio un po' lento a Bruges, ma è migliorato in maniera incredibile\"",
-      "url": "https://www.milannews.it/news/crescita-tresoldi-vista-belgio-ha-inizio-lento-bruges-migliorato-maniera-incredibile-635982",
-      "source": "milannews.it",
-      "date": "2026-11-12T15:50:48+00:00",
-      "summary": "Nicolò Tresoldi è il sogno del Milan per il prossimo calciomercato invernale."
-    },
-    {
-      "id": "f57d12cf6a25",
-      "title": "Stasera Italia-Francia: atteso a San Siro anche Kimi Antonelli",
-      "url": "https://www.milannews.it/news/nations-league-antonelli-atteso-san-siro-mancini-fuoriclasse-pochi-635968",
-      "source": "milannews.it",
-      "date": "2026-11-12T15:40:18+00:00",
-      "summary": "(ANSA) - ROMA, 12 NOV - Il campione del mondo di Formula 1 Kimi Antonelli è atteso questa sera a San Siro per la partita di Nations League tra Italia e Francia."
-    },
-    {
       "id": "a7b190b7e232",
       "title": "Report: Brugge confirm Tresoldi will not be allowed to leave in January amid Milan interest",
       "url": "https://sempremilan.com/brugge-confirm-tresoldi-cant-leave-january",
@@ -146,60 +226,12 @@
       "summary": "It seems AC Milan will not be signing Nicolo Tresoldi in January, with Club Brugge making a statement to the press. In recent weeks, if not longer, Milan have been constantly linked with signing Tresoldi. A fan of the club, the German-Italian striker is an obvious candidate to make a move to San Sir"
     },
     {
-      "id": "e25925b8ea00",
-      "title": "Genoa, De Rossi: \"Contro il Milan abbiamo perso, ma non lo meritavamo\"",
-      "url": "https://www.milannews.it/l-avversario/genoa-de-rossi-contro-milan-perso-meritavamo-635971",
-      "source": "milannews.it",
-      "date": "2026-11-12T15:30:57+00:00",
-      "summary": "Intervenuto a SkySport 24, Daniele De Rossi ha parlato così della sua esperienza sulla panchina del Genoa e del momento difficile vissuto qualche settimana fa: “E’ stato la parte di carriera che ricorderò per sempre, forse i ..."
-    },
-    {
-      "id": "d6dc5a65cc5c",
-      "title": "VIDEO - Dal Torino al Genoa, rivedi la Cisse gol collection",
-      "url": "https://www.milannews.it/news/video-torino-genoa-rivedi-cisse-gol-collection-635980",
-      "source": "milannews.it",
-      "date": "2026-11-12T15:30:39+00:00",
-      "summary": "Otto gol, per ora. Alpahdjo Cisse, tra Serie A ed Europa League, è il miglior marcatore stagionale del Milan."
-    },
-    {
-      "id": "38bb92ab461b",
-      "title": "Cisse e Liberali in tribuna contro la Francia. Mancini: \"Sono gli ultimi arrivati e abbiamo una partita tra tre giorni\"",
-      "url": "https://www.milannews.it/news/cisse-liberali-tribuna-francia-mancini-sono-ultimi-arrivati-partita-giorni-635981",
-      "source": "milannews.it",
-      "date": "2026-11-12T15:18:22+00:00",
-      "summary": "Un po' a sorpresa Roberto Mancini ha deciso che per Italia-Francia di questa sera a San Siro vanno in tribuna Aphadjo Cisse, Honest Ahanor, Matteo Palma, Federico Gatti, Niccolò Pisilli e Mattia Liberali."
-    },
-    {
-      "id": "207944577a33",
-      "title": "Baldini esalta la sua Italia U21: \"Qui è una famiglia. Questi ragazzi sono un dono divino\"",
-      "url": "https://www.milannews.it/news/baldini-esalta-under-21-ragazzi-dono-divino-635969",
-      "source": "milannews.it",
-      "date": "2026-11-12T15:10:27+00:00",
-      "summary": "(ANSA) - ROMA, 12 NOV - \"Qui è una famiglia. Faccio il paragone con le persone che lavorano all'estero e che, quando tornano a casa, trovano festa e armonia: quando vedo questi ragazzi provo quelle stesse emozioni\"."
-    },
-    {
-      "id": "a3f1ec7418be",
-      "title": "Taecke (HNL): \"Tresoldi ha tutto per competere ai massimi livelli. Milan a gennaio? No, non ci sono possibilità\"",
-      "url": "https://www.milannews.it/esclusive-mn/taecke-hnl-tresoldi-competere-massimi-livelli-milan-gennaio-no-possibilita-635898",
-      "source": "milannews.it",
-      "date": "2026-11-12T15:00:00+00:00",
-      "summary": "Nicolò Tresoldi è il sogno del Milan per il prossimo calciomercato invernale."
-    },
-    {
       "id": "29c0297b5be8",
       "title": "Romano and Moretto provide update on Milan’s Endrick pursuit: “Hasn’t said no”",
       "url": "https://sempremilan.com/romano-moretto-update-milan-endrick",
       "source": "sempremilan.com",
       "date": "2026-11-12T15:00:00+00:00",
       "summary": "This week, there have been some interesting rumours about AC Milan and their pursuit of Endrick. However, it may have been a bit misleading. Yesterday, it seemed that Milan were almost out of the race to sign Endrick, with the Brazilian against the club’s Devil logo. Instead, the Corriere dello Spor"
-    },
-    {
-      "id": "1e2ed7210de8",
-      "title": "Gerrard su Modric: \"È al Milan e gioca ancora. La sua longevità è ammirevole\"",
-      "url": "https://www.milannews.it/news/gerrard-modric-e-milan-gioca-ancora-longevita-ammirevole-635959",
-      "source": "milannews.it",
-      "date": "2026-11-12T14:50:58+00:00",
-      "summary": "Intervenuto a Overlap Daily, Steven Gerrard, ex centrocampista del Liverpool, ha rilasciato queste parole su Luka Modric: \"Uno dei migliori calciatori contro cui abbia mai giocato."
     },
     {
       "id": "c62832ecf4be",
@@ -320,22 +352,6 @@
       "source": "sempremilan.com",
       "date": "2026-11-11T20:04:39+00:00",
       "summary": "Theo Hernandez has been back in Italy during the international break, meeting two of his former colleagues at AC Milan. Theo first of all got Milan fans talking by posting a photo on his Instagram alongside club legend Paolo Maldini, presumably in Milan. It’s no secret that the French full-back saw "
-    },
-    {
-      "id": "889e67f0981d",
-      "title": "From Braga to Bristol: The 13 Milan players called up for international duty",
-      "url": "https://sempremilan.com/13-milan-players-international-duty-november-2026",
-      "source": "sempremilan.com",
-      "date": "2026-11-11T19:00:00+00:00",
-      "summary": "The second international break of the season is upon us, and Milanello will once again be left pretty much empty. Milan won against Genoa on Sunday at the Stadio Luigi Ferraris to ensure they headed into the fortnight off in the right way, having also snuck back into the top four. After the break co"
-    },
-    {
-      "id": "1b867e8ec704",
-      "title": "Moretto: Endrick open to Real Madrid exit but Milan are ‘slightly behind’ Roma",
-      "url": "https://sempremilan.com/endrick-real-madrid-milan-behind-roma",
-      "source": "sempremilan.com",
-      "date": "2026-11-11T18:20:00+00:00",
-      "summary": "Roma are ahead of AC Milan in the race to sign Endrick from Real Madrid, but things can change before the winter window. Milan have been heavily linked with a move for Endrick since the summer window, when they pursued the 20-year-old before ultimately turning to Omari Hutchinson after Jose Mourinho"
     },
     {
       "id": "5f062fde074a",
@@ -464,22 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-11-09T14:49:34+00:00",
       "summary": "Milan defender Strahinja Pavlovic is unlikely to join up with the Serbia national team squad..."
-    },
-    {
-      "id": "7138c8a5803d",
-      "title": "Today’s Papers – Inter’s law, Milan go even higher, Juventus held",
-      "url": "https://football-italia.net/todays-papers-inter-law-milan-higher-juventus/",
-      "source": "football-italia.net",
-      "date": "2026-11-09T08:45:59+00:00",
-      "summary": "La Gazzetta dello Sport Milan go even higher They are another team in the league:..."
-    },
-    {
-      "id": "2fe271e9fd05",
-      "title": "Rabiot fury at refereeing decision: ‘Lying won’t help, Italian football pays the consequences’",
-      "url": "https://football-italia.net/rabiot-fury-referee-decision-lying-wont-help/",
-      "source": "football-italia.net",
-      "date": "2026-11-08T22:56:38+00:00",
-      "summary": "Adrien Rabiot has raged against refereeing decisions after Milan’s 2-1 victory away to Genoa. ‘Mistakes..."
     }
   ]
 }
