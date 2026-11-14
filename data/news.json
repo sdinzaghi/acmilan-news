@@ -1,13 +1,213 @@
 {
-  "lastUpdated": "2026-11-14T15:32:45.813473+00:00",
+  "lastUpdated": "2026-11-14T20:24:45.651219+00:00",
   "articles": [
     {
-      "id": "7bdcd05d251a",
-      "title": "Italia, altra defezione per Mancini: si ferma Cambiaghi",
-      "url": "https://www.milannews.it/news/allenamento-azzurri-cambiaghi-salta-sfida-belgio-636187",
+      "id": "46fa48731c30",
+      "title": "Milan U16 da impazzire: vittoria nel derby contro l'Inter allo scadere!",
+      "url": "https://www.milannews.it/settore-giovanile/milan-u16-impazzire-vittoria-derby-inter-scadere-636217",
       "source": "milannews.it",
-      "date": "2026-11-14T15:24:53+00:00",
-      "summary": "(ANSA) - ROMA, 14 NOV - Ultimo allenamento per gli Azzurri di Roberto Mancini prima della partenza per il Belgio."
+      "date": "2026-11-14T20:12:01+00:00",
+      "summary": "Il Milan U16, categoria Allievi Nazionali, ha ottenuto nel pomeriggio di sabato una vittoria da impazzire."
+    },
+    {
+      "id": "230f4278832a",
+      "title": "Paskotši: \"Non so se Tresoldi vale 60 milioni: ha tutte le qualità per diventare uno dei migliori\"",
+      "url": "https://www.milannews.it/news/paskotsi-non-so-tresoldi-60-milioni-qualita-migliori-636196",
+      "source": "milannews.it",
+      "date": "2026-11-14T20:00:00+00:00",
+      "summary": "Il difensore estone Maksim Paskotši, calciatore del Gent nel massimo campionato belga, ha avuto modo di sfidare diverse volte l'attaccante Nicolò Tresoldi del Club Brugge che è finito nel mirino del M ..."
+    },
+    {
+      "id": "5b53450464d5",
+      "title": "Pronostico Francia-Turchia, Maignan e Rabiot protagonisti anche con Zinedine Zidane",
+      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-francia-turchia-maignan-rabiot-635792",
+      "source": "milannews.it",
+      "date": "2026-11-14T19:45:46+00:00",
+      "summary": "Si chiude la fase a gironi dellla UEFA Nations League con la Francia che giocherà davanti al proprio pubblico contro una Turchia che dopo il flop della finestra di settembre ha deciso di esonerare Vincenzo Montella."
+    },
+    {
+      "id": "4b728429bf30",
+      "title": "Pronostico Belgio-Italia, Moreira cerca il primo gol con i Diavoli rossi. Occhio a Cisse",
+      "url": "https://www.milannews.it/scommesse/pronostici/pronostico-belgio-italia-moreira-cisse-635790",
+      "source": "milannews.it",
+      "date": "2026-11-14T19:45:12+00:00",
+      "summary": "Si chiude la fase a gironi della UEFA Nations League 2026/27. Gli azzurri finiscono da dove avevano iniziato, ossia contro il Belgio."
+    },
+    {
+      "id": "22ba54ff0e3d",
+      "title": "Maldini: \"Liedholm amava far esordire i giovani. Una volta mi chiese se volessi giocare a destra o a sinistra\"",
+      "url": "https://www.milannews.it/news/maldini-liedholm-amava-far-esordire-giovani-chiese-volessi-giocare-destra-sinistra-636220",
+      "source": "milannews.it",
+      "date": "2026-11-14T19:37:21+00:00",
+      "summary": "Paolo Maldini e Jannik Sinner insieme: lo storico capitano rossonero ha presenziato assieme al campione italiano di tennis in un evento al Nike Store di via Roma a Torino."
+    },
+    {
+      "id": "5dac92fe5109",
+      "title": "Ex Milan, Divock Origi racconta perchè ha deciso di iscriversi ad Harvard",
+      "url": "https://www.milannews.it/news/milan-divock-origi-racconta-deciso-iscriversi-harvard-636191",
+      "source": "milannews.it",
+      "date": "2026-11-14T19:24:08+00:00",
+      "summary": "Divock Origi, ex attaccante del Milan che ormai ha deciso di appendere gli scarpini al chiodo nonostante ancora una giovane età, è stato intervistato dalla testata belga HBVL e ha spiegato la scelta di tornare a studiare, in partic ..."
+    },
+    {
+      "id": "b90b1f1cb4b0",
+      "title": "Belgio, il CT van Bommel avverte: \"Vogliamo sempre vincere, non importa dove\"",
+      "url": "https://www.milannews.it/news/nations-league-van-bommel-italia-migliorata-636192",
+      "source": "milannews.it",
+      "date": "2026-11-14T19:12:31+00:00",
+      "summary": "(ANSA) - ROMA, 14 NOV - \"È un'Italia diversa rispetto alla partita d'esordio (il Belgio vinse a Roma per 0-2, ndr). Sono più stabili."
+    },
+    {
+      "id": "4bc9982d7bea",
+      "title": "Milan-Endrick, spunta il jolly Yormark: asse con Roc Nation per portare in rossonero il brasiliano",
+      "url": "https://www.milannews.it/primo-piano/milan-endrick-spunta-jolly-yormark-asse-roc-nation-portare-rossonero-brasiliano-636197",
+      "source": "milannews.it",
+      "date": "2026-11-14T19:00:46+00:00",
+      "summary": "Il nome di Endrick resta sula lista del Milan in vista del prossimo calciomercato invernale."
+    },
+    {
+      "id": "bd7685d0f97d",
+      "title": "Origi recalls how Milan tenure turned sour: “We weren’t on the same page”",
+      "url": "https://sempremilan.com/origi-how-milan-tenure-turned-sour",
+      "source": "sempremilan.com",
+      "date": "2026-11-14T19:00:00+00:00",
+      "summary": "Divock Origi has discussed what went wrong during his time at AC Milan, from the injuries to the Rossoneri’s decision to exclude him.  Origi joined Milan after the Scudetto season, i.e. the summer of 2022, and the idea was that he would be able to alternate with Olivier Giroud. However, a couple of "
+    },
+    {
+      "id": "299853602128",
+      "title": "Paskotši: \"Tresoldi lo paragono a Julian Alvarez. Giocatore del passato? Dico Aguero\"",
+      "url": "https://www.milannews.it/news/paskotsi-tresoldi-paragono-julian-alvarez-giocatore-passato-dico-aguero-636195",
+      "source": "milannews.it",
+      "date": "2026-11-14T18:48:35+00:00",
+      "summary": "Maksim Paskotši è un difensore estone del Gent che nella sua ancor breve carriera da classe 2003, ha già sfidato qualche volta Nicolò Tresoldi, obiettivo del Milan per il mercato, sicuramente l' ..."
+    },
+    {
+      "id": "ff28b33ed301",
+      "title": "Gonçalo Ramos parte titolare nella sfida tra Portogallo e Danimarca",
+      "url": "https://www.milannews.it/news/goncalo-ramos-titolare-sfida-portogallo-danimarca-636193",
+      "source": "milannews.it",
+      "date": "2026-11-14T18:36:00+00:00",
+      "summary": "Il Portogallo questa sera scende in campo per la prima volta dal ritiro ufficiale di Cristiano Ronaldo con la Nazionale."
+    },
+    {
+      "id": "77ee59e0e7de",
+      "title": "Tare: \"Doumbia volevo portarlo a tuti i costi al Milan. Bloccati anche altri quattro\"",
+      "url": "https://www.milannews.it/news/tare-doumbia-volevo-portarlo-tuti-costi-milan-bloccati-quattro-636216",
+      "source": "milannews.it",
+      "date": "2026-11-14T18:24:41+00:00",
+      "summary": "Igli Tare ha concesso un'intervista a fiume sulla sua carriera al podcast Sky Sport Unplugged."
+    },
+    {
+      "id": "242fa9415939",
+      "title": "FIGC, ammesse le candidature di Malagò e Galliani",
+      "url": "https://www.milannews.it/news/federcalcio-ammesse-candidature-malago-galliani-636185",
+      "source": "milannews.it",
+      "date": "2026-11-14T18:12:42+00:00",
+      "summary": "(ANSA) - ROMA, 14 NOV - Via libera ufficiale alla sfida a due per la Figc. Sono state ammesse le candidature alla presidenza della Federcalcio - in ordine di presentazione - di Giovanni Malagò e Adriano Galliani."
+    },
+    {
+      "id": "64f7c9237c80",
+      "title": "Zaccardo: \"Ronaldinho ha ancora la giocata, il sorriso e la leggerezza\"",
+      "url": "https://www.milannews.it/news/zaccardo-ronaldinho-giocata-sorriso-leggerezza-636149",
+      "source": "milannews.it",
+      "date": "2026-11-14T18:00:58+00:00",
+      "summary": "Domani è il grande giorno del ritorno in campo in gare ufficiali di Ronaldinho, undici anni dopo aver appeso le scarpette al chiodo."
+    },
+    {
+      "id": "8554b1cd4a9a",
+      "title": "Ronaldinho remembers ‘wonderful’ time at Milan and derby goal: “It was special”",
+      "url": "https://sempremilan.com/ronaldinho-remembers-wonderful-milan-derby-goal",
+      "source": "sempremilan.com",
+      "date": "2026-11-14T18:00:00+00:00",
+      "summary": "Ronaldinho spoke about his time at AC Milan and the winner scored against Inter in the derby, seeing as he’s preparing for a professional comeback in another derby.  Ronaldinho is about to make a spectacular comeback at the age of 46, set to start for the Serie C side Ravenna against Forli tomorrow."
+    },
+    {
+      "id": "2c9b1a7d8b3f",
+      "title": "Paskotši: \"Tresoldi è un killer, non ha molti punti deboli\"",
+      "url": "https://www.milannews.it/news/paskotsi-tresoldi-killer-punti-deboli-636194",
+      "source": "milannews.it",
+      "date": "2026-11-14T17:48:56+00:00",
+      "summary": "Il calciatore estone Maksim Paskotši, calciatore del Gent classe 2003, è stato intervistato in esclusiva per MilanNews."
+    },
+    {
+      "id": "7fc6c2dc432a",
+      "title": "Ronaldinho: ‘Endrick can play in any league’ amid Roma and Milan links",
+      "url": "https://football-italia.net/ronaldinho-endrick-can-play-in-any-league/",
+      "source": "football-italia.net",
+      "date": "2026-11-14T17:45:00+00:00",
+      "summary": "Ronaldinho believes Endrick is ready for Serie A, saying his compatriot “can play in any..."
+    },
+    {
+      "id": "9e4ce0417596",
+      "title": "Bazzani: \"Cisse ricorda Robinho per la postura, Ramos? Da lui qualche gol in più te lo aspetti\"",
+      "url": "https://www.milannews.it/news/bazzani-cisse-ricorda-robinho-postura-ramos-636100",
+      "source": "milannews.it",
+      "date": "2026-11-14T17:36:00+00:00",
+      "summary": "In esclusiva per MilanNews.it, queste le parole, pensieri e opinioni dell'ex attaccante in Serie A di Sampdoria e Lazio Fabio Bazzani, oggi noto opinionista sportivo per DAZN."
+    },
+    {
+      "id": "3fe65b769b04",
+      "title": "Reijnders si gode la straordinaria tripletta segnata con la sua Olanda alla Grecia",
+      "url": "https://www.milannews.it/news/reijnders-gode-tripletta-cosi-calcio-davvero-divertente-636148",
+      "source": "milannews.it",
+      "date": "2026-11-14T17:24:41+00:00",
+      "summary": "Tijjani Reijnders si è reso protagonista di una clamorosa tripletta: l'ex Milan ha indirizzato così la vittoria dell'Olanda sulla Grecia per 7-0, nel corso del primo tempo."
+    },
+    {
+      "id": "f2cbd908acd3",
+      "title": "Romano: Rabiot renewal should be completed ‘soon’ as Milan make him a priority",
+      "url": "https://sempremilan.com/rabiot-renewal-soon-milan-priority",
+      "source": "sempremilan.com",
+      "date": "2026-11-14T17:20:00+00:00",
+      "summary": "Adrien Rabiot’s contract renewal with AC Milan is expected very soon, according to Fabrizio Romano, as both parties want to continue together.  It’s safe to say that Rabiot has been a key player for Milan since he arrived in the summer of 2025. He got six goals and five assists to his name last seas"
+    },
+    {
+      "id": "859b2578e2af",
+      "title": "Lazio, Gattuso: \"Il mio sogno è vedere lo stadio pieno\"",
+      "url": "https://www.milannews.it/news/gattuso-tifosi-lazio-coerenti-sogno-vedere-stadio-636186",
+      "source": "milannews.it",
+      "date": "2026-11-14T17:12:40+00:00",
+      "summary": "(ANSA) - ROMA, 14 NOV - \"Io non riesco a recitare, sapevo che ci avrei messo poco ad affezionarmi alle persone che sono qui, ai tifosi, al club."
+    },
+    {
+      "id": "e4c9bf8aed6b",
+      "title": "Paskotši (KAA Gent): \"Milan su Tresoldi? Non sono sorpreso. Mi ricorda Julián Álvarez: ha tutto per diventare uno dei migliori al mondo\"",
+      "url": "https://www.milannews.it/esclusive-mn/paskotsi-kaa-gent-milan-tresoldi-sorpreso-ricorda-julian-alvarez-migliori-mondo-636180",
+      "source": "milannews.it",
+      "date": "2026-11-14T17:00:00+00:00",
+      "summary": "Avversari di mille battaglie nella Pro League belga e anche avversari nella lotta al titolo quest'anno, Maksim Paskotši analizza le qualità di Nicolò Tresoldi, obiettivo di mercato del Milan di Cardinale per gennaio."
+    },
+    {
+      "id": "7a19d4d993a1",
+      "title": "Bazzani e la crisi del Milan in Europa League: \"Non hanno tensione nervosa\"",
+      "url": "https://www.milannews.it/news/bazzani-636099",
+      "source": "milannews.it",
+      "date": "2026-11-14T16:48:00+00:00",
+      "summary": "In esclusiva per MilanNews.it, queste le parole, pensieri e opinioni dell'ex attaccante in Serie A di Sampdoria e Lazio Fabio Bazzani, oggi noto opinionista sportivo per DAZN."
+    },
+    {
+      "id": "9050b53fa713",
+      "title": "CorSport: RedBird could consider stock market listing of Milan’s new holding company",
+      "url": "https://sempremilan.com/redbird-consider-stock-market-milans-holding-company",
+      "source": "sempremilan.com",
+      "date": "2026-11-14T16:40:00+00:00",
+      "summary": "AC Milan’s new holding company, Milan Sports & Entertainment, could be publicly listed within five years according to a report.  Yesterday, RedBird announced the creation of a new holding company for the AC Milan project, named Milan Sports & Entertainment (MSE). The main goal is to have everything "
+    },
+    {
+      "id": "69b3e54423bc",
+      "title": "Origi torna sul Milan: \"Non si impara solo dai momenti belli, anche attraverso il dolore\"",
+      "url": "https://www.milannews.it/gli-ex/origi-torna-milan-non-impara-momenti-belli-dolore-636190",
+      "source": "milannews.it",
+      "date": "2026-11-14T16:36:50+00:00",
+      "summary": "Divock Origi è tornato sotto i riflettori negli ultimi giorni per aver pubblicato sui propri canali social alcune foto della esperienza di studio che sta facendo all'Università di Harvard, negli Stati Uniti."
+    },
+    {
+      "id": "68c8d52a4b01",
+      "title": "Gila explains how he went from ‘rock bottom’ at Lazio to joining Milan: “More kindness”",
+      "url": "https://sempremilan.com/gila-how-rock-bottom-lazio-milan-kindness",
+      "source": "sempremilan.com",
+      "date": "2026-11-14T16:00:00+00:00",
+      "summary": "Mario Gila has explained how he managed to get through a difficult time at the start of his Italy adventure, eventually performing at such a high level that AC Milan decided to sign him.  Gila left Real Madrid and Spain in the summer of 2022, when he was just 21 years old, as Lazio secured […]\nThe p"
     },
     {
       "id": "a5b16f1f048f",
@@ -16,30 +216,6 @@
       "source": "sempremilan.com",
       "date": "2026-11-14T15:20:00+00:00",
       "summary": "Markus Krösche will be announced as Milan’s new Head of Football in January, according to Tuttosport, and an important task awaits him.  After a summer during which Gerry Cardinale personally worked alongside an internal group on the mercato business, he’s expected to get some help soon. Indeed, an "
-    },
-    {
-      "id": "ae0b073286e4",
-      "title": "Stramaccioni: \"Tonali completo. Dà risposte a un tema mai risolto post Jorginho\"",
-      "url": "https://www.milannews.it/news/stramaccioni-tonali-completo-da-risposte-tema-risolto-post-jorginho-636176",
-      "source": "milannews.it",
-      "date": "2026-11-14T15:12:36+00:00",
-      "summary": "L'Italia bis di Roberto Mancini riparte da una super e prestigiosa vittoria contro la Francia a San Siro: 3-1 alla squadra allenata da Zinedine Zidane e continuità rispetto ai buoni risultati della prima sosta."
-    },
-    {
-      "id": "8e6461b02f06",
-      "title": "Bazzani (DAZN): \"Oggi il voto del Milan è un 6,5, in Europa calo di tensione. Cisse? Si muove come Robinho\"",
-      "url": "https://www.milannews.it/primo-piano/bazzani-intervista-mn-635803",
-      "source": "milannews.it",
-      "date": "2026-11-14T15:00:00+00:00",
-      "summary": "In esclusiva per MilanNews."
-    },
-    {
-      "id": "c317cee7e583",
-      "title": "Frosinone, Alvini sulla sfida con il Milan: \"Andremo lì per determinare con il nostro modo di essere\"",
-      "url": "https://www.milannews.it/l-avversario/frosinone-alvini-sfida-milan-andremo-li-determinare-essere-636178",
-      "source": "milannews.it",
-      "date": "2026-11-14T14:48:27+00:00",
-      "summary": "Il Milan al rientro dalla sosta si ritroverà un impegno sicuramente complicato."
     },
     {
       "id": "2200361676f4",
@@ -58,44 +234,12 @@
       "summary": "Ronaldinho feels his compatriot Endrick would be a good fit for both Milan and Roma..."
     },
     {
-      "id": "4b7a9e922841",
-      "title": "Serie A Women, Napoli-Milan 3-3: le dichiarazioni di Coach Bakker",
-      "url": "https://www.milannews.it/news/serie-women-napoli-milan-3-3-dichiarazioni-coach-bakker-636189",
-      "source": "milannews.it",
-      "date": "2026-11-14T14:36:40+00:00",
-      "summary": "Nella settima giornata del campionato di Serie A Women, il Milan Femminile ha interrotto la striscia di due sconfitte consecutive e ha trovato un pareggio in casa del Napoli Women per 3-3."
-    },
-    {
-      "id": "dde834863d4c",
-      "title": "Gabbia sta con Ramos: \"È un grande attaccante, tra i migliori in circolazione\"",
-      "url": "https://www.milannews.it/news/gabbia-ramos-e-attaccante-migliori-circolazione-636144",
-      "source": "milannews.it",
-      "date": "2026-11-14T14:24:20+00:00",
-      "summary": "Gonçalo Ramos, quando siamo giunti alla seconda sosta delle Nazionali in questa stagione, è fermo a soli 3 gol con il Milan: due in campionato, di cui uno su calcio di rigore, e un altro arrivato in Europa League."
-    },
-    {
-      "id": "d2d93b741ebd",
-      "title": "Benatia ricorda l'addio di Rabiot all'OM: \"L'ho vissuto male\"",
-      "url": "https://www.milannews.it/news/benatia-ricorda-addio-rabiot-om-l-vissuto-male-636188",
-      "source": "milannews.it",
-      "date": "2026-11-14T14:12:49+00:00",
-      "summary": "Mehdi Benatia, ex calciatore di Serie A e direttore sportivo dell'Olympique Marsiglia, ha parlato a Canal+ dell'addio di Adrien Rabiot al Marsiglia, prima di venire al Milan. Le sue parole: \"L'ho vissuta molto male."
-    },
-    {
       "id": "786768d7f3d9",
       "title": "Cardinale clarifies his ‘Berlusconi 2.0’ statement: “Lead the club into a new era”",
       "url": "https://sempremilan.com/cardinale-clarifies-berlusconi-statement-new-era",
       "source": "sempremilan.com",
       "date": "2026-11-14T14:00:18+00:00",
       "summary": "Gerry Cardinale has clarified his ‘Berlusconi 2.0’ statement from about three years ago, stating that investments and resources are needed to get AC Milan back to the top.  Back in September 2023, a little over a year after he completed the purchase of Milan, Cardinale sat down with Corriere della S"
-    },
-    {
-      "id": "515dee03fba2",
-      "title": "Dalla Spagna: 12 turni di squalifica a Owono dopo la morte di de Miguel",
-      "url": "https://www.milannews.it/news/spagna-12-turni-squalifica-owono-morte-de-miguel-636150",
-      "source": "milannews.it",
-      "date": "2026-11-14T14:00:07+00:00",
-      "summary": "(ANSA) - ROMA, 13 NOV - Il Comitato di disciplina della Federcalcio spagnola ha sanzionato con 12 partite di sospensione il portiere Jesús Owono per la sua uscita in Tenerife-Andorra dello scorso 2 novembre a seguito della quale è morto ..."
     },
     {
       "id": "b20df6fa1baa",
@@ -106,52 +250,12 @@
       "summary": "Gerry Cardinale says Milan will only play in the United States if they are to..."
     },
     {
-      "id": "9ce6c2fb3a46",
-      "title": "Ronaldinho: \"Tantissimi ricordi belli con il Milan: quel gol nel derby...\"",
-      "url": "https://www.milannews.it/news/ronaldinho-tantissimi-ricordi-belli-milan-gol-derby-636175",
-      "source": "milannews.it",
-      "date": "2026-11-14T13:48:07+00:00",
-      "summary": "Domani sarà il grande giorno del ritorno in campo di Ronaldinho in gare ufficiali: l'ex fuoriclasse brasiliano ritroverà una partita vera a 46 anni con la maglia del Ravenna nel derby con il Forlì valido per la  ..."
-    },
-    {
-      "id": "2c3c3a08ac6a",
-      "title": "Svizzera, la pagella di Athekame nella sfida contro la Slovenia",
-      "url": "https://www.milannews.it/news/svizzera-pagella-athekame-sfida-slovenia-636174",
-      "source": "milannews.it",
-      "date": "2026-11-14T13:36:57+00:00",
-      "summary": "Nella serata di ieri è scesa in campo la Svizzera a cui è bastato il pareggio 0-0 a Maribor contro la Slovenia per vincere il suo girone di UEFA Nations League e trovare la promozione nella Lega A."
-    },
-    {
-      "id": "af7a09a0bf75",
-      "title": "Tare sull’arrivo di Rabiot: “Avevamo cercato di prenderlo già a giugno, all’inizio aveva rifiutato per la Champions”",
-      "url": "https://www.milannews.it/news/tare-sull-arrivo-rabiot-avevamo-cercato-prenderlo-giugno-all-inizio-rifiutato-champions-636122",
-      "source": "milannews.it",
-      "date": "2026-11-14T13:24:00+00:00",
-      "summary": "Igli Tare, ex Direttore Sportivo del Milan, è stato protagonista dell’ultimo episodio di Sky Calcio Unplugged con Gianluca Di Marzio, Stefano Borghi e Fayna."
-    },
-    {
       "id": "13dd208d24d9",
       "title": "Gabbia ‘amazed’ by Cisse’s hunger and desire: “He just needs to keep it up”",
       "url": "https://sempremilan.com/gabbia-amazed-cisse-hunger-keep-it-up",
       "source": "sempremilan.com",
       "date": "2026-11-14T13:20:00+00:00",
       "summary": "On the sidelines of the Fondazione Milan event last night, Matteo Gabbia heaped praise on Alphadjo Cisse, who has been very important despite his young age.  Together with the Milan legend Daniele Massaro and the Milan Women player Julie Piga, Gabbia was present at a Fondazione Milan event yesterday"
-    },
-    {
-      "id": "ee8390c73526",
-      "title": "Adani: \"Ramos? Fa crescere la squadra ma è troppo indietro con il numero di gol\"",
-      "url": "https://www.milannews.it/news/adani-ramos-crescere-squadra-numero-gol-636171",
-      "source": "milannews.it",
-      "date": "2026-11-14T13:12:00+00:00",
-      "summary": "Nel corso del consueto appuntamento con 'Viva El Futbol', programma che conduce sulla piattaforma streaming in compagnia di Antonio Cassano e Nicola Ventola, l'ex calciatore Daniele Adani ha parlato di Milan soffermandosi in modo particol ..."
-    },
-    {
-      "id": "f7f900ee937b",
-      "title": "Gila: \"Sono dove voglio essere. Mi sono fatto aiutare da uno psicologo, ora imparo anche da Modric\"",
-      "url": "https://www.milannews.it/primo-piano/gila-intervista-milan-luca-casadei-benessere-mentale-vita-636184",
-      "source": "milannews.it",
-      "date": "2026-11-14T13:00:53+00:00",
-      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
     },
     {
       "id": "da9e4c28cf9c",
@@ -162,14 +266,6 @@
       "summary": "Brazilian legend Ronaldinho has just completed his first training session with Ravenna, after being spotted..."
     },
     {
-      "id": "da1601ba3732",
-      "title": "Le pagelle di Camarda, Bartesaghi e Diawara nella sfida Francia-Italia U21",
-      "url": "https://www.milannews.it/news/pagelle-camarda-bartesaghi-diawara-sfida-francia-italia-u21-636177",
-      "source": "milannews.it",
-      "date": "2026-11-14T12:48:09+00:00",
-      "summary": "Ieri pomeriggio l'Italia U21 è tornata in campo per l'amichevole contro i pari età della Francia, che si è giocata Oltralpe a Laval."
-    },
-    {
       "id": "1657bde54fb0",
       "title": "Gila discusses his mental health journey, perfectionism and current state: “Changed my perspective”",
       "url": "https://sempremilan.com/gila-mental-health-journey-changed-perspective",
@@ -178,60 +274,12 @@
       "summary": "In the latest episode of AC Milan’s The Chamber series, Mario Gila was the guest and spoke about the positive mental health journey that he’s currently on.  It was last month that Milan unveiled their new series, called The Chamber, which focuses on the mental health of the players at the club. Luka"
     },
     {
-      "id": "40d54d4a0ca4",
-      "title": "Le parole di Ronaldinho nel momento dello sbarco a Ravenna",
-      "url": "https://www.milannews.it/news/parole-ronaldinho-sbarco-ravenna-636142",
-      "source": "milannews.it",
-      "date": "2026-11-14T12:36:00+00:00",
-      "summary": "Nel pomeriggio di ieri Ronaldinho è sbarcato a Ravenna. Qui, domenica, il fuoriclasse brasiliano tornerà in campo a 46 anni di età e 11 anni dopo l'ultima volta."
-    },
-    {
-      "id": "7a14c6b32bdd",
-      "title": "Gabbia spinge Cisse: \"Non cambi mai la sua fame. Deve continuare così\"",
-      "url": "https://www.milannews.it/news/gabbia-cisse-non-cambi-fame-continuare-cosi-636143",
-      "source": "milannews.it",
-      "date": "2026-11-14T12:24:39+00:00",
-      "summary": "Nel pomeriggio di ieri, venerdì 13 novembre, Matteo Gabbia ha partecipato a un evento con Fondazione Milan in una scuola secondaria di Milano, l'istituto \"Arturo Toscanini\"."
-    },
-    {
-      "id": "6c6a11a7b59b",
-      "title": "Adani difende Ramos: \"Ci stanno le critiche, ma prego di convincervi che sa giocare al calcio\"",
-      "url": "https://www.milannews.it/news/adani-difende-ramos-ci-critiche-prego-convincervi-sa-giocare-calcio-636170",
-      "source": "milannews.it",
-      "date": "2026-11-14T12:12:37+00:00",
-      "summary": "Nel corso del consueto appuntamento con 'Viva El Futbol', programma che conduce sulla piattaforma streaming in compagnia di Antonio Cassano e Nicola Ventola, l'ex calciatore Daniele Adani ha parlato di Milan soffermandosi in modo particol ..."
-    },
-    {
-      "id": "62ff62c631e8",
-      "title": "Il bollettino medico del Milan Femminile per la sfida contro il Napoli",
-      "url": "https://www.milannews.it/milan-femminile/bollettino-medico-milan-femminile-sfida-napoli-636181",
-      "source": "milannews.it",
-      "date": "2026-11-14T12:00:14+00:00",
-      "summary": "Il Milan Femminile è attualmente in campo contro il Napoli per la settimana giornata di Serie A Women. Di seguito il bollettino medico della squadra femminile con le calciatrici attualmente infortunate."
-    },
-    {
       "id": "cc80015b00a6",
       "title": "CorSport: Fontanella-Khan up and running within Milan’s management – his background and role",
       "url": "https://sempremilan.com/fontanella-khan-milans-management-background-role",
       "source": "sempremilan.com",
       "date": "2026-11-14T12:00:00+00:00",
       "summary": "James Fontanella-Khan is up and running with his new position at AC Milan, following an interesting background which includes the former Rossoneri man Alberto Gilardino.  It was in the middle of September that various outlets reported that Fontanella-Khan was joining Milan’s management as the new Ch"
-    },
-    {
-      "id": "ea2132c499aa",
-      "title": "Cardinale critico con la Serie A: \"Tutti vogliono un risultato diverso, ma non vogliono fare nulla di diverso per ottenerlo\"",
-      "url": "https://www.milannews.it/news/cardinale-critico-serie-a-tutti-vogliono-risultato-diverso-vogliono-diverso-ottenerlo-636162",
-      "source": "milannews.it",
-      "date": "2026-11-14T11:48:24+00:00",
-      "summary": "Gerry Cardinale, proprietario del Milan, ha rilasciato una intervista a La Gazzetta dello Sport all'indomani del lancio della holding Milan Sports & Entertainment."
-    },
-    {
-      "id": "682a0bcd64d7",
-      "title": "Baldini difende Camarda: \"Grande giocatore ma sensibile. Continuo a dirgli che è bravo\"",
-      "url": "https://www.milannews.it/news/u21-baldini-gruppo-forte-vincere-bello-636141",
-      "source": "milannews.it",
-      "date": "2026-11-14T11:36:57+00:00",
-      "summary": "(ANSA) - ROMA, 13 NOV - \"Ho sempre detto che questo è un gruppo forte, ne abbiamo tanti bravi in Nazionale maggiore, ed è giusto così ma anche questi hanno qualità, che abbiamo messo in campo insieme al cuore\"."
     },
     {
       "id": "93f797c0c3ba",
@@ -322,14 +370,6 @@
       "summary": "Earlier today, AC Milan were introduced to a new name, thanks to the creation of a new company: Milan Sports & Entertainment. The international break is never really a period of major news, yet Milan broke that spell today. Indeed, RedBird Capital Partners published a statement about a new company f"
     },
     {
-      "id": "7950e365d5af",
-      "title": "“Important to take time” – Gabbia admits January return is possible with right precautions",
-      "url": "https://sempremilan.com/gabbia-admits-january-return-possible",
-      "source": "sempremilan.com",
-      "date": "2026-11-13T17:30:00+00:00",
-      "summary": "Matteo Gabbia has admitted that he could return to the field in January for AC Milan, but he doesn’t want to rush back. It has been a difficult season for Milan, at least where injuries are concerned. In defence, they have had issues reminiscent of the 2023/24 season, where Gabbia had to be brought "
-    },
-    {
       "id": "c394152c4ffa",
       "title": "Tare: ‘Milan biggest disappointment was Pulisic, choosing Allegri, Cardinale problem’",
       "url": "https://football-italia.net/tare-milan-pulisic-choosing-allegri-cardinale/",
@@ -346,44 +386,12 @@
       "summary": "Milan midfielder Luka Modric congratulated England’s Harry Kane for the Ballon d’Or victory with a..."
     },
     {
-      "id": "47f9bbacabbb",
-      "title": "Tare discusses new Milan direction, limitations in his role and ‘jealousy’: “Better late than never”",
-      "url": "https://sempremilan.com/tare-milan-new-direction-limitations-jealousy",
-      "source": "sempremilan.com",
-      "date": "2026-11-13T16:46:31+00:00",
-      "summary": "Igli Tare has spoken without holding anything back about his time at AC Milan, explaining his frustration with several things. When Tare arrived, many Milan fans were happy to see someone with Serie A experience oversee the project and whilst his first season didn’t end how anyone had hoped, he wasn"
-    },
-    {
-      "id": "b6f01f2f9c92",
-      "title": "Moretto provides update on Milan’s Endrick and Tresoldi pursuits: “Really likes him”",
-      "url": "https://sempremilan.com/moretto-provides-milan-updates-endrick-tresoldi",
-      "source": "sempremilan.com",
-      "date": "2026-11-13T16:20:00+00:00",
-      "summary": "In January, AC Milan will make some big investments, if reports are to be believed. Currently, two names are leading the talk.  It could be a big month for Milan if things go their way in January. They hope to add a central defender to their squad – and have hoped to do so since […]\nThe post Moretto"
-    },
-    {
-      "id": "53dbe8e0bc7f",
-      "title": "Galli pleads Milan fans to ‘have patience’ with Cardinale and Amorim: “I’m convinced”",
-      "url": "https://sempremilan.com/galli-pleads-milan-fans-patience",
-      "source": "sempremilan.com",
-      "date": "2026-11-13T15:40:00+00:00",
-      "summary": "Filippo Galli praised Gerry Cardinale a few weeks ago, and he’s repeated the praise for the AC Milan chairman today. At present, Milan are in a good place. Although they’ve had a few disappointing results in midweek games, they’ve largely been solid when it’s mattered and picked up several really im"
-    },
-    {
       "id": "79cf62f29c6d",
       "title": "Ronaldinho arrives in Italy: All you need to know about his Ravenna job",
       "url": "https://football-italia.net/ronaldinho-all-you-need-to-know-about-ravenna/",
       "source": "football-italia.net",
       "date": "2026-11-13T15:14:18+00:00",
       "summary": "Ronaldinho has landed on Italian soil ahead of Sunday’s Serie C debut for Ravenna, his..."
-    },
-    {
-      "id": "cfecf5f67a61",
-      "title": "GdS: Linear structure and a strong work force – what Krösche is likely to implement at Milan",
-      "url": "https://sempremilan.com/what-krosche-likely-implement-milan",
-      "source": "sempremilan.com",
-      "date": "2026-11-13T15:00:00+00:00",
-      "summary": "AC Milan are expected to hire Markus Krösche in the next few weeks, and a report has looked a little more at his work today. Between Eintracht Frankfurt and Milan, there are plenty of differences. From the finances available to how they’re spent, even to the way in which the structure of the club ti"
     },
     {
       "id": "f31c7daf4c26",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-11-11T09:09:55+00:00",
       "summary": "Good morning! Here are all today’s biggest stories from the Italian sports papers. Gazzetta dello..."
-    },
-    {
-      "id": "c85b24831507",
-      "title": "Football Italia Show: Zaniolo pulls out, Cisse and Liberali are ready",
-      "url": "https://football-italia.net/football-italia-zaniolo-cisse-liberali-latest/",
-      "source": "football-italia.net",
-      "date": "2026-11-10T15:49:14+00:00",
-      "summary": "The Football Italia Show is back, bringing the latest Italy news from Coverciano, starting with..."
     }
   ]
 }
