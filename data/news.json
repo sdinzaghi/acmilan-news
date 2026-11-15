@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2026-11-15T00:45:24.480133+00:00",
+  "lastUpdated": "2026-11-15T07:32:17.601167+00:00",
   "articles": [
+    {
+      "id": "9d3247c18739",
+      "title": "Stati Uniti, vittoria per 6-0 contro Haiti: doppietta di Pulisic",
+      "url": "https://www.milannews.it/news/uniti-vittoria-6-0-haiti-doppietta-pulisic-636231",
+      "source": "milannews.it",
+      "date": "2026-11-15T07:24:01+00:00",
+      "summary": "Nel match di CONCACAF Nations League che si è giocato nelle scorse ore a Miami, gli Stati Uniti hanno battuto agevolmente Haiti per 6-0 e uno dei grandi protagonisti della partita è stato Christian Pulisic che ha segnato una doppietta:  ..."
+    },
+    {
+      "id": "6f262d434abd",
+      "title": "Tresoldi o Endrick? La Gazzetta in apertura: \"Milan, scegli la stella\"",
+      "url": "https://www.milannews.it/rassegna-stampa/tresoldi-endrick-gazzetta-apertura-milan-scegli-stella-636230",
+      "source": "milannews.it",
+      "date": "2026-11-15T07:12:18+00:00",
+      "summary": "L'edizione odierna della Gazzetta dello Sport titola così stamattina in prima pagina: \"Milan, scegli la stella\"."
+    },
+    {
+      "id": "c4fce388652c",
+      "title": "Tresoldi o Endrick a gennaio? Il Milan deve scegliere. Ne può arrivare solo uno: la situazione",
+      "url": "https://www.milannews.it/primo-piano/tresoldi-endrick-gennaio-milan-scegliere-arrivare-uno-situazione-636229",
+      "source": "milannews.it",
+      "date": "2026-11-15T07:00:13+00:00",
+      "summary": "Dopo i grandi colpi in estate, Gerry Cardinale è pronto a spendere ancora a gennaio per rinforzare il suo Milan. Quanto investirà? La cifra dovrebbe essere di 70 milioni di euro."
+    },
+    {
+      "id": "b9113fd370b9",
+      "title": "Pellegatti sottolinea: “Non bisogna sbagliare le scelte, Cardinale dopo questi tre anni disastrosi non si fida più di nessuno”",
+      "url": "https://www.milannews.it/news/pellegatti-sottolinea-non-bisogna-sbagliare-scelte-cardinale-fida-nessuno-636206",
+      "source": "milannews.it",
+      "date": "2026-11-15T06:48:15+00:00",
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti è tornato a parlare di MSE, la nuova holding costituita da Cardinale, con l'obiettivo di rafforzare la potenza economica del club. Di seguito le sue parole."
+    },
+    {
+      "id": "493c3b8e674f",
+      "title": "Il Giappone batte il Brasile e Ancelotti si infuria: espulso",
+      "url": "https://www.milannews.it/news/giappone-batte-brasile-ancelotti-infuria-espulso-636228",
+      "source": "milannews.it",
+      "date": "2026-11-15T06:36:44+00:00",
+      "summary": "(ANSA) - ROMA, 14 NOV - Carlo Ancelotti non perde facilmente la pazienza, almeno a bordo campo, ma il mancato annullamento della rete che ha condannato il suo Brasile in un'amichevole con il Giappone, giocata a Singapore e finita 3-2 per i nippon ..."
+    },
+    {
+      "id": "c7497cd8cdb2",
+      "title": "Tare: \"Volevo Doumbia al Milan a tutti i costi. Bloccato anche Valdepenas. E c'era anche Goretzka, portato da Furlani\"",
+      "url": "https://www.milannews.it/calciomercato-milan/tare-volevo-portare-doumbia-milan-costi-bloccato-valdepenas-goretzka-portato-furlani-636222",
+      "source": "milannews.it",
+      "date": "2026-11-15T06:23:56+00:00",
+      "summary": "Igli Tare ha concesso un'intervista fiume sulla sua carriera al podcast Sky Sport Unplugged."
+    },
+    {
+      "id": "bea90eb6d9eb",
+      "title": "Origi torna sul periodo al Milan: \"Alla fine, tutto è una lezione di vita. Mi ha fatto crescere come uomo\"",
+      "url": "https://www.milannews.it/news/origi-torna-periodo-milan-alla-fine-lezione-vita-crescere-uomo-636221",
+      "source": "milannews.it",
+      "date": "2026-11-15T06:12:01+00:00",
+      "summary": "Divock Origi è tornato sotto i riflettori negli ultimi giorni per aver pubblicato sui propri canali social alcune foto della esperienza di studio che sta facendo all'Università di Harvard, negli Stati Uniti."
+    },
+    {
+      "id": "c4ec041b5e74",
+      "title": "Rossoneri in nazionale, oggi Cisse contro Moreira. In campo anche i francesi e Modric",
+      "url": "https://www.milannews.it/news/rossoneri-nazionale-cisse-moreira-campo-francesi-modric-636226",
+      "source": "milannews.it",
+      "date": "2026-11-15T06:00:00+00:00",
+      "summary": "Questi gli impegni dei rossoneri in nazionale di oggi, domenica 15 novembre 2026. Scontro in famiglia tra Moreira e Cisse, sempre che Mancini faccia esordire il classe 2006 dopo averlo mandato in tribuna nella sfida contro la Francia."
+    },
     {
       "id": "bf93b79fd14f",
       "title": "Adani parla di Ramos: \"Lo vedo pensiero di Amorim. È la punta di diamante di tutte le verticalizzazioni\"",
@@ -96,70 +160,6 @@
       "source": "milannews.it",
       "date": "2026-11-14T21:46:00+00:00",
       "summary": "Crolla il Portogallo nella prima partita dopo l’addio di CR7 alla nazionale. La squadra di Jorge Jesus si arrende troppo facilmente ad una Danimarca fresca e scoppiettante: gli ospiti si impongono con un netto 4-1."
-    },
-    {
-      "id": "b91e89ea3cac",
-      "title": "Modric torna titolare con la Croazia domani? Ivkovic: \"Porterà ciò che porta al Milan\"",
-      "url": "https://www.milannews.it/news/modric-torna-titolare-croazia-domani-ivkovic-portera-porta-milan-636213",
-      "source": "milannews.it",
-      "date": "2026-11-14T21:35:46+00:00",
-      "summary": "Domani la Croazia sfida la Repubblica Ceca in una partita cruciale per non retrocedere nella Lega B di UEFA Nations League."
-    },
-    {
-      "id": "724c57dfc77d",
-      "title": "Gila sottolinea: “Si è calciatori h24, tutto deve portarti ad essere al 100% in partita”",
-      "url": "https://www.milannews.it/news/gila-sottolinea-si-calciatori-h24-636200",
-      "source": "milannews.it",
-      "date": "2026-11-14T21:24:15+00:00",
-      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
-    },
-    {
-      "id": "b7a19b47f43b",
-      "title": "Pellegatti entusiasta: “La frase sulla Premier mi ha colpito, MSE di Cardinale progetto più ambizioso tra le squadre di Serie A”",
-      "url": "https://www.milannews.it/news/pellegatti-entusiasta-la-frase-premier-colpito-mse-cardinale-progetto-ambizioso-squadre-serie-a-636205",
-      "source": "milannews.it",
-      "date": "2026-11-14T21:12:55+00:00",
-      "summary": "Nel suo canale YouTube, Carlo Pellegatti è tornato a parlare di MSE, la nuova holding costituita da Cardinale, con l'obiettivo di rafforzare la potenza economica del club. Di seguito le sue parole."
-    },
-    {
-      "id": "1c229565df36",
-      "title": "USA, Pulisic torna titolare in nazionale nella sfida contro Haiti",
-      "url": "https://www.milannews.it/news/usa-pulisic-torna-titolare-nazionale-sfida-haiti-636223",
-      "source": "milannews.it",
-      "date": "2026-11-14T21:00:00+00:00",
-      "summary": "A breve ci sarà il fischio d'inizio di Haiti-USA, match valido per i play off di Concacaf Nations League. Il milanista Christian Pulisic torna titolare con la sua nazionale dopo che nell'ultima sosta era rimasto a Milanello."
-    },
-    {
-      "id": "83fc02523edb",
-      "title": "Pellegatti ricorda: “Anche Berlusconi, che ha vinto tutto, i primi anni ha dovuto capire come funzionasse il mondo del calcio”",
-      "url": "https://www.milannews.it/news/pellegatti-ricorda-anche-berlusconi-vinto-tutto-primi-dovuto-capire-funzionasse-calcio-636204",
-      "source": "milannews.it",
-      "date": "2026-11-14T20:48:43+00:00",
-      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha ricordato l'arrivo al Milan di Silvio Berlusconi nel 1986 e i risultati delle prime due stagioni con il nuovo propietario rossonero. Di seguito le sue parole."
-    },
-    {
-      "id": "4266f46cc685",
-      "title": "Lazio da Scudetto? Per Juan Sebastian Veron è possibile: le sue parole",
-      "url": "https://www.milannews.it/news/lazio-scudetto-juan-sebastian-veron-possibile-parole-636208",
-      "source": "milannews.it",
-      "date": "2026-11-14T20:36:12+00:00",
-      "summary": "La Lazio di Rino Gattuso continua imperterrita il suo percorso: dopo 11 giornate, giunti alla seconda sosta stagionale, i biancocelesti guidano ancora la classifica di Serie A, in solitaria e da imbattuti."
-    },
-    {
-      "id": "768e197cdf1a",
-      "title": "Gila e la vita personale: “Uno psicologo mi ha aiutato in un periodo difficile, da lì ho cambiato prospettiva”",
-      "url": "https://www.milannews.it/news/gila-636199",
-      "source": "milannews.it",
-      "date": "2026-11-14T20:24:02+00:00",
-      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
-    },
-    {
-      "id": "46fa48731c30",
-      "title": "Milan U16 da impazzire: vittoria nel derby contro l'Inter allo scadere!",
-      "url": "https://www.milannews.it/settore-giovanile/milan-u16-impazzire-vittoria-derby-inter-scadere-636217",
-      "source": "milannews.it",
-      "date": "2026-11-14T20:12:01+00:00",
-      "summary": "Il Milan U16, categoria Allievi Nazionali, ha ottenuto nel pomeriggio di sabato una vittoria da impazzire."
     },
     {
       "id": "bd7685d0f97d",
