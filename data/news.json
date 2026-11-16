@@ -1,6 +1,150 @@
 {
-  "lastUpdated": "2026-11-15T20:49:01.000195+00:00",
+  "lastUpdated": "2026-11-16T00:45:12.555323+00:00",
   "articles": [
+    {
+      "id": "67bcf84c1495",
+      "title": "Ronaldinho, nel derby Ravenna-Forlì raggiunta la 700ª presenza ufficiale in carriera",
+      "url": "https://www.milannews.it/news/ronaldinho-derby-ravenna-forli-raggiunta-700a-presenza-ufficiale-carriera-636303",
+      "source": "milannews.it",
+      "date": "2026-11-15T23:48:01+00:00",
+      "summary": "L'evento dell'anno è andato in scena questo pomeriggio a Ravenna nel derby tra Ravenna e Forlì nel campionato di Serie C."
+    },
+    {
+      "id": "e8d522184590",
+      "title": "Gaizka Mendieta di quando fu vicino a vestire la maglia del Milan",
+      "url": "https://www.milannews.it/news/gaizka-mendieta-vestire-maglia-milan-636284",
+      "source": "milannews.it",
+      "date": "2026-11-15T23:36:00+00:00",
+      "summary": "Uno dei flop di calciomercato più clamorosi del calcio italiano fu l'acquisto del basco Gaizka Mendieta da parte della Lazio."
+    },
+    {
+      "id": "f6ba0dcd7ab8",
+      "title": "Pellegatti svela: “Per gennaio pronti 70 milioni per il mercato, potrebbero essere messi su Endrick”",
+      "url": "https://www.milannews.it/news/pellegatti-svela-per-gennaio-pronti-70-mercato-potrebbero-messi-endrick-636305",
+      "source": "milannews.it",
+      "date": "2026-11-15T23:24:49+00:00",
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha parlato del budget che sarebbe pronto per essere investito nel mercato di gennaio da Gerry Cardinale. Di seguito le sue parole."
+    },
+    {
+      "id": "bfc57e8ad9f1",
+      "title": "Van Bommel su Moreira: “È un po’ pazzo ma è un bravo ragazzo, è importante per la squadra”",
+      "url": "https://www.milannews.it/news/van-bommel-moreira-e-po-pazzo-ragazzo-importante-squadra-636318",
+      "source": "milannews.it",
+      "date": "2026-11-15T23:12:23+00:00",
+      "summary": "Nel post partita di Belgio-Italia, match terminato con un netto 4-1 in favore dei Diavoli Rossi, il c.t."
+    },
+    {
+      "id": "a533f4129423",
+      "title": "Calciomercato Milan, Cardinale prepara nuovi investimenti importanti. Ecco perché non si fermerà",
+      "url": "https://www.milannews.it/editoriale/calciomercato-milan-cardinale-prepara-investimenti-importanti-fermera-636293",
+      "source": "milannews.it",
+      "date": "2026-11-15T23:00:01+00:00",
+      "summary": "Il calciomercato del Milan è pronto a vivere sessioni importanti perché Gerry Cardinale non ha intenzione di fermarsi."
+    },
+    {
+      "id": "52c9d207e646",
+      "title": "Moreira a Sky: “Primo gol con la nazionale speciale, nel Milan sto imparando tanto. Europa League? Recupereremo”",
+      "url": "https://www.milannews.it/news/moreira-sky-primo-gol-nazionale-speciale-milan-imparando-tanto-europa-league-recupereremo-636317",
+      "source": "milannews.it",
+      "date": "2026-11-15T22:47:09+00:00",
+      "summary": "Diego Moreira, assoluto protagonista nella partita di questa sera contro l'Italia nella quale ha trovato anche il primo gol con la maglia della nazionale belga, ha parlato nel post-partita ai microfoni di Sky. Queste le sue parole."
+    },
+    {
+      "id": "92cc115aa1b0",
+      "title": "Gila racconta il suo rapporto con la felicità e con la sofferenza nei momenti difficili",
+      "url": "https://www.milannews.it/news/gila-racconta-rapporto-felicita-sofferenza-momenti-difficili-636307",
+      "source": "milannews.it",
+      "date": "2026-11-15T22:36:22+00:00",
+      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
+    },
+    {
+      "id": "4ca9fe9cf101",
+      "title": "Pellegatti: “Tare troppo corretto per non aver bypassato Furlani andando direttamente da Cardinale”",
+      "url": "https://www.milannews.it/news/pellegatti-tare-corretto-bypassato-furlani-andando-direttamente-cardinale-636300",
+      "source": "milannews.it",
+      "date": "2026-11-15T22:24:10+00:00",
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti è tornato a parlare della scorsa stagione e di Igli Tare e Giorgio Furlani, commentando le parole rilasciate dal direttore sportivo albanese a Sky. Di seguito il pensiero di Pellegatti."
+    },
+    {
+      "id": "75b9acee11af",
+      "title": "Croazia, Modric in campo 90 minuti nella vittoria sulla Repubblica Ceca per 2-1",
+      "url": "https://www.milannews.it/news/risultato-croazia-modric-636301",
+      "source": "milannews.it",
+      "date": "2026-11-15T22:12:01+00:00",
+      "summary": "Alla Opus Arena di Osijek, in Croazia, la nazionale di Luka Modric ha ospitato la Repubblica Ceca di Santi Denia."
+    },
+    {
+      "id": "562c735bf399",
+      "title": "Francia, battuta la Turchia 2-1: Maignan sostituito per infortunio alla coscia, 60 minuti per Rabiot",
+      "url": "https://www.milannews.it/news/risultato-francia-rabiot-maignan-636296",
+      "source": "milannews.it",
+      "date": "2026-11-15T22:00:39+00:00",
+      "summary": "Dopo la sconfitta con l'Italia rimediata giovedì scorso a San Siro, la nazionale di Zizou Zidane è tornata in campo per affrontare la Turchia."
+    },
+    {
+      "id": "609f6fd8ba14",
+      "title": "Belgio-Italia, azzurri sconfitti 4-1: Moreira gol e prestazione superlativa, debutto per Cisse",
+      "url": "https://www.milannews.it/news/risultato-belgio-moreira-636295",
+      "source": "milannews.it",
+      "date": "2026-11-15T21:48:56+00:00",
+      "summary": "Dopo la vittoria degli azzurri per 3-1 ai danni della Francia di Zidane, questa sera la nazionale italiana è stata ospite del Belgio di Mark Van Bommel."
+    },
+    {
+      "id": "0361cdd701be",
+      "title": "Maignan, l’Equipe sull’infortunio: duro contrasto e fastidio alla coscia, sostituzione precauzionale",
+      "url": "https://www.milannews.it/news/maignan-l-equipe-sull-infortunio-duro-colpo-fastidio-coscia-sostituzione-via-precauzionale-636316",
+      "source": "milannews.it",
+      "date": "2026-11-15T21:44:23+00:00",
+      "summary": "All'intervallo di Francia-Turchia, il portiere del Milan Mike Maignan è uscito dal campo, sostituito da Restes, per un dolore alla coscia."
+    },
+    {
+      "id": "c91ec544bca9",
+      "title": "Gila rivela: “Prima avevo meno fiducia in me stesso e vivevo male le cose che mi dicevano gli altri”",
+      "url": "https://www.milannews.it/news/gila-rivela-prima-fiducia-vivevo-cose-dicevano-altri-636299",
+      "source": "milannews.it",
+      "date": "2026-11-15T21:36:51+00:00",
+      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
+    },
+    {
+      "id": "e5508ab391e4",
+      "title": "Maignan injury concern for Milan after forced off for France",
+      "url": "https://football-italia.net/maignan-injury-concern-for-milan-france/",
+      "source": "football-italia.net",
+      "date": "2026-11-15T21:30:09+00:00",
+      "summary": "Milan are waiting for news from France after goalkeeper Mike Maignan was forced off at..."
+    },
+    {
+      "id": "f2b6d3c347f1",
+      "title": "Frosinone, Calò: \"Che sia con Milan, Cagliari o Juve, la nostra idea rimarrà sempre quella\"",
+      "url": "https://www.milannews.it/l-avversario/frosinone-calo-che-milan-cagliari-juve-idea-rimarra-quella-636291",
+      "source": "milannews.it",
+      "date": "2026-11-15T21:24:00+00:00",
+      "summary": "Il Milan al rientro dalla sosta per le Nazionali si ritroverà davanti il Frosinone, squadra rivelazione del campionato di Serie A Enilive fino a questo momento."
+    },
+    {
+      "id": "55749f3cd48e",
+      "title": "Janssen rivela: “In Belgio siamo tutti felici di Moreira, sa inventare le cose dal nulla”",
+      "url": "https://www.milannews.it/news/jassen-rivela-in-belgio-felici-moreira-sa-inventare-cose-nulla-636276",
+      "source": "milannews.it",
+      "date": "2026-11-15T21:12:09+00:00",
+      "summary": "La redazione di MilanNews.it ha intervistato il collega belga Louis Janssen, del quotidiano \"La Dernière Heure\", per un commento sul grande momento che sta vivendo Diego Moreira, tra rossoneri e Nazionale."
+    },
+    {
+      "id": "4cdb43c8b73b",
+      "title": "Milan, tegola Maignan: esce all’intervallo di Francia-Turchia per un dolore alla coscia",
+      "url": "https://www.milannews.it/news/nazionali-guai-maignan-esce-all-intervallo-dolore-coscia-636314",
+      "source": "milannews.it",
+      "date": "2026-11-15T21:00:01+00:00",
+      "summary": "Una brutta notiza arriva in casa Milan direttamente dallo Stadio Matmut Atlantique durante la partita Francia-Turchia."
+    },
+    {
+      "id": "8e62dd9c5304",
+      "title": "Domani la presentazione del Trofeo Italo Galbiati: attesi tantissimi ospiti",
+      "url": "https://www.milannews.it/news/domani-presentazione-trofeo-italo-galbiati-attesi-tantissimi-ospiti-636287",
+      "source": "milannews.it",
+      "date": "2026-11-15T20:48:57+00:00",
+      "summary": "Domani 16 novembre si terrà a Milano la serata di presentazione della IV edizione del Trofeo Italo Galbiati."
+    },
     {
       "id": "252e557128d2",
       "title": "Gila e le lezioni imparate dai periodi difficili: “Ora so che chiunque può sbagliare, bisogna trarre il positivo anche dai momenti no”",
@@ -26,84 +170,12 @@
       "summary": "A volte ritornano, o invece no. L'ex attaccante del Milan Divock Origi è tornato a parlare della tremenda esperienza vissuta in rossonero nella stagione 2022/2023."
     },
     {
-      "id": "8f441a36f4e3",
-      "title": "De Winter non va in nazionale, a DAZN commentano duri: “Non lo convocherei mai più”",
-      "url": "https://www.milannews.it/news/de-winter-nazionale-dazn-commentano-duri-non-convocherei-piu-636275",
-      "source": "milannews.it",
-      "date": "2026-11-15T20:00:42+00:00",
-      "summary": "Nell'ultima puntata di Fuoriclasse, in onda su DAZN, gli ospiti in studio hanno commentato la decisione di De Winter, difensore belga rossonero, di non andare in nazionale per sua scelta. Questi i commenti dei presenti."
-    },
-    {
-      "id": "6416da587efa",
-      "title": "Janssen sicuro: “Moreira ha enormi margini di miglioramento, contro l’Inter la svolta”",
-      "url": "https://www.milannews.it/news/janssen-sicuro-moreira-enormi-margini-miglioramento-l-inter-svolta-636279",
-      "source": "milannews.it",
-      "date": "2026-11-15T19:48:00+00:00",
-      "summary": "La redazione di MilanNews.it ha intervistato il collega belga Louis Janssen, del quotidiano \"La Dernière Heure\", per un commento sul grande momento che sta vivendo Diego Moreira, tra rossoneri e Nazionale."
-    },
-    {
-      "id": "e62f7be431d0",
-      "title": "Gila svela i suoi pilastri professionali: “Ego e perfezionismo ti fanno emergere ed avere successo, ma serve equilibrio”",
-      "url": "https://www.milannews.it/news/gila-636203",
-      "source": "milannews.it",
-      "date": "2026-11-15T19:36:07+00:00",
-      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
-    },
-    {
-      "id": "ceb04372c161",
-      "title": "Modric stakanovista, ancora titolare nella Croazia: le formazioni ufficiali di Croazia-Repubblica Ceca",
-      "url": "https://www.milannews.it/news/formazione-croazia-modric-636283",
-      "source": "milannews.it",
-      "date": "2026-11-15T19:24:48+00:00",
-      "summary": "Alla Opus Arena di Osijek, in Croazia, la nazionale di Luka Modric ospiterà la Repubblica Ceca di Santi Denia."
-    },
-    {
-      "id": "86da989979ba",
-      "title": "Nations League, Maignan e Rabiot ancora titolari: le formazioni ufficiali di Francia-Turchia",
-      "url": "https://www.milannews.it/news/formazione-francia-turchia-maignan-rabiot-636282",
-      "source": "milannews.it",
-      "date": "2026-11-15T19:12:27+00:00",
-      "summary": "Dopo la sconfitta con l'Italia rimediata giovedì scorso a San Siro, la nazionale di Zizou Zidane torna in campo per affrontare la Turchia."
-    },
-    {
-      "id": "f700c1d873ea",
-      "title": "Il piano di Cardinale a lungo termine è quotare MSE: gli asset valgono già 4-6 miliardi",
-      "url": "https://www.milannews.it/primo-piano/piano-cardinale-termine-quotare-mse-asset-valgono-4-6-636310",
-      "source": "milannews.it",
-      "date": "2026-11-15T19:00:00+00:00",
-      "summary": "Nella giornata di venerdì 13 novembre, RedBird Capital Partners, fondo proprietario dell'AC Milan, ha annunciato la costituzione di Milan Sports & Entertainment (“MSE”), una holding che ha l'obiettivo di riuni ..."
-    },
-    {
       "id": "f0cfe18dc989",
       "title": "Nascar, Nets, Big 12 and MSE: Yormark’s appointment and how he can help Milan",
       "url": "https://sempremilan.com/yormark-appointment-how-he-help-milan",
       "source": "sempremilan.com",
       "date": "2026-11-15T19:00:00+00:00",
       "summary": "AC Milan were introduced to a new name this week: Brett Yormark. But who is he and what does he bring to the table? With Milan’s announcement of a new company – Milan Sport and Entertainment – a new CEO was appointed to oversee things and develop the Milanese sporting project for RedBird and that […"
-    },
-    {
-      "id": "afa569064550",
-      "title": "Nations League, Belgio e Italia in campo: Moreira titolare, Cisse dalla panchina",
-      "url": "https://www.milannews.it/news/formazioni-belgio-italia-moreira-cisse-636281",
-      "source": "milannews.it",
-      "date": "2026-11-15T18:48:59+00:00",
-      "summary": "Dopo la vittoria degli azzurri per 3-1 ai danni della Francia di Zidane, questa sera la nazionale è ospite del Belgio di Mark Van Bommel."
-    },
-    {
-      "id": "bc9b6bc83070",
-      "title": "Milan, Endrick profilo ideale per trovare gol e giocate: le caratteristiche del brasiliano",
-      "url": "https://www.milannews.it/news/milan-endrick-profilo-ideale-trovare-gol-giocate-caratteristiche-brasiliano-636256",
-      "source": "milannews.it",
-      "date": "2026-11-15T18:36:00+00:00",
-      "summary": "Negli ultimi giorni il nome dell'attaccante e grande talento del Real Madrid, Endrick è stato al centro di numerose indiscrezioni di mercato."
-    },
-    {
-      "id": "d8ceca060447",
-      "title": "Gila racconta l’arrivo in Italia e un periodo bruttissimo nel quale ha toccato il fondo",
-      "url": "https://www.milannews.it/news/gila-racconta-arrivo-italia-periodo-bruttissimo-toccato-fondo-636274",
-      "source": "milannews.it",
-      "date": "2026-11-15T18:24:42+00:00",
-      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
     },
     {
       "id": "903b536220c7",
@@ -114,36 +186,12 @@
       "summary": "AC Milan are entering a big year, and there are questions about who should stay and go within the squad if it’s to be more competitive. It’s set to be a big 2027 for Milan. The hiring of Markus Krösche kickstarts a brand new era and he’ll have a big task ahead of him – […]\nThe post AC Milan Tier Lis"
     },
     {
-      "id": "ccbb4255567e",
-      "title": "Janssen entusiasta: “Contenti che Moreira abbia scelto il Belgio, per Van Bommel è un giocatore importante”",
-      "url": "https://www.milannews.it/news/jassen-636278",
-      "source": "milannews.it",
-      "date": "2026-11-15T18:12:54+00:00",
-      "summary": "La redazione di MilanNews.it ha intervistato il collega belga Louis Janssen, del quotidiano \"La Dernière Heure\", per un commento sul grande momento che sta vivendo Diego Moreira, tra rossoneri e Nazionale."
-    },
-    {
       "id": "e0cdb668a8e7",
       "title": "Report Bruno Fernandes targeted by Milan along with Goncalo Inacio",
       "url": "https://football-italia.net/bruno-fernandes-targeted-milan-goncalo-inacio/",
       "source": "football-italia.net",
       "date": "2026-11-15T18:10:45+00:00",
       "summary": "Milan are reportedly pushing for more Portuguese players to join Ruben Amorim’s side, including Sporting..."
-    },
-    {
-      "id": "3fd86d661365",
-      "title": "Ronaldinho, 45 minuti da titolare nel derby Ravenna-Forlì: “Il calcio è la cosa più bella della mia vita, è stato bellissimo”",
-      "url": "https://www.milannews.it/news/ronaldinho-45-minuti-titolare-derby-ravenna-forli-il-calcio-bella-vita-bellissimo-636308",
-      "source": "milannews.it",
-      "date": "2026-11-15T18:00:08+00:00",
-      "summary": "La leggenda brasiliana Ronaldinho è tornato oggi a giocare una partia ufficiale dopo 11 anni dall'ultima volta."
-    },
-    {
-      "id": "4dc85690ae32",
-      "title": "Panucci su Baresi: “Con uno sguardo ti intimidiva o ti incoraggiava, nessun difensore come lui”",
-      "url": "https://www.milannews.it/news/panucci-baresi-con-sguardo-intimidiva-incoraggiava-difensore-lui-636270",
-      "source": "milannews.it",
-      "date": "2026-11-15T17:48:39+00:00",
-      "summary": "Sul canale YouTube 'Milan Hello' di Andrea Longoni è uscito \"Franco Baresi, la vera storia della leggenda\", il documentario dedicato al grande Capitano del Milan."
     },
     {
       "id": "7fde5806f416",
@@ -154,52 +202,12 @@
       "summary": "AC Milan are tempted by the idea of signing Endrick and Nicolo Tresoldi, but how would Ruben Amorim’s system change?  There has been plenty of talk about January signings, but as much as they would be good to bring, they have to be the right fit. After all, signing a name without thinking ahead will"
     },
     {
-      "id": "b5450e6a5b68",
-      "title": "Serginho scherza: “Dopo Dinho posso tornare a giocare anche io, vive ancora con il pallone tra i piedi”",
-      "url": "https://www.milannews.it/news/serginho-636302",
-      "source": "milannews.it",
-      "date": "2026-11-15T17:36:33+00:00",
-      "summary": "Nel pre-partita di Ravenna-Forlì, match che rimarrà nella storia visto il ritorno al calcio giocato di Ronaldinho, su Sky Sport ha parlato l'ex rossonero e connazionale del numero 10 Serginho. Queste le sue parole."
-    },
-    {
-      "id": "ea6142ce557a",
-      "title": "Gila si racconta: “La pressione è uno stimolo per me, prima mi paralizzava ma ho imparato a gestirla”",
-      "url": "https://www.milannews.it/news/gila-racconta-la-pressione-stimolo-me-paralizzava-imparato-gestirla-636273",
-      "source": "milannews.it",
-      "date": "2026-11-15T17:24:00+00:00",
-      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
-    },
-    {
-      "id": "bc3c5a885719",
-      "title": "Janssen sulla posizione di Moreira: “Lo preferisco a destra ma sa fare bene entrambe”",
-      "url": "https://www.milannews.it/news/jassen-636277",
-      "source": "milannews.it",
-      "date": "2026-11-15T17:12:37+00:00",
-      "summary": "La redazione di MilanNews.it ha intervistato il collega belga Louis Janssen, del quotidiano \"La Dernière Heure\", per un commento sul grande momento che sta vivendo Diego Moreira, tra rossoneri e Nazionale."
-    },
-    {
-      "id": "d71f5032b987",
-      "title": "Milan, rivoluzione portoghese: Inacio guida la lista, idea Bruno Fernandes?",
-      "url": "https://www.milannews.it/primo-piano/milan-rivoluzione-portoghese-inacio-guida-lista-idea-bruno-fernandes-636290",
-      "source": "milannews.it",
-      "date": "2026-11-15T17:00:00+00:00",
-      "summary": "Il Milan sta vivendo un nuovo ciclo. La gestione di Gerry Cardinale dal giorno dopo la sconfitta a San Siro contro il Cagliari di maggio ci dice proprio questo."
-    },
-    {
       "id": "c4269785b118",
       "title": "Ramos speaks out after disappointing Portugal result vs. Denmark: “Something that happens”",
       "url": "https://sempremilan.com/ramos-speaks-out-defeat-denmark",
       "source": "sempremilan.com",
       "date": "2026-11-15T17:00:00+00:00",
       "summary": "AC Milan are, once again, left looking at a disappointing performance from Goncalo Ramos; this time it was for Portugal. It’s fair to say that Ramos’ start to life with Milan has been unsatisfactory. The Portuguese started brightly in his first two games, but has since struggled to really hit the hi"
-    },
-    {
-      "id": "1e2221641cb0",
-      "title": "Tassotti racconta: “Baresi era sempre silenzioso ma aveva grande leadership. Quando giocava male giocava da 7”",
-      "url": "https://www.milannews.it/news/tassotti-racconta-baresi-silenzioso-leadership-giocava-giocava-7-636268",
-      "source": "milannews.it",
-      "date": "2026-11-15T16:48:28+00:00",
-      "summary": "Sul canale YouTube 'Milan Hello' di Andrea Longoni è uscito \"Franco Baresi, la vera storia della leggenda\", il documentario dedicato al grande Capitano del Milan."
     },
     {
       "id": "18d421b7e82a",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-11-11T17:34:15+00:00",
       "summary": "Milan seem increasingly likely to send Francesco Camarda out on loan again in January, with..."
-    },
-    {
-      "id": "d60ee821a3f2",
-      "title": "Endrick price tag set as Real Madrid star targeted by Roma and Milan",
-      "url": "https://football-italia.net/endrick-price-tag-s-real-madrid-roma-milan/",
-      "source": "football-italia.net",
-      "date": "2026-11-11T16:43:33+00:00",
-      "summary": "Roma and Milan are on high alert after Endrick confessed he doesn’t ‘know what will..."
     }
   ]
 }
