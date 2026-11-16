@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-11-16T00:45:12.555323+00:00",
+  "lastUpdated": "2026-11-16T07:39:07.131264+00:00",
   "articles": [
+    {
+      "id": "eed148c36791",
+      "title": "Il Milan lo presta a gennaio. Tuttosport: \"Il Toro a gennaio punta Camarda\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-presta-gennaio-tuttosport-il-toro-gennaio-punta-camarda-636323",
+      "source": "milannews.it",
+      "date": "2026-11-16T07:36:24+00:00",
+      "summary": "Fino a questo momento in stagione Francesco Camarda ha totalizzato 119' in stagione, 83' in Europa League, 39' in campionato."
+    },
+    {
+      "id": "3f2d70ff69b0",
+      "title": "Il Milan fa sul serio, pronti 60 milioni. Il CorSport: \"Tentazione Endrick\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-serio-pronti-60-milioni-corsport-tentazione-endrick-636322",
+      "source": "milannews.it",
+      "date": "2026-11-16T07:24:55+00:00",
+      "summary": "Il Milan fa sul serio per Endrick."
+    },
+    {
+      "id": "8469c9484742",
+      "title": "Rinforzi anche in difesa. La Gazzetta: \"Inacio, subito Milan\"",
+      "url": "https://www.milannews.it/rassegna-stampa/rinforzi-difesa-gazzetta-inacio-milan-636321",
+      "source": "milannews.it",
+      "date": "2026-11-16T07:12:24+00:00",
+      "summary": "In vista di gennaio il Milan ha le idee chiarissime: rinforzare e completare la formazione di Ruben Amorim, andando a colmare quelle lacune che fino ad oggi hanno inciso, in negativo, sulle prestazioni del Diavolo."
+    },
+    {
+      "id": "2b66561e4c9e",
+      "title": "Milan-Endrick, Mourinho dice no: 60 milioni non bastano, ma Yormark apre un canale con Roc Nation",
+      "url": "https://www.milannews.it/primo-piano/milan-endrick-mourinho-no-60-bastano-yormark-apre-canale-roc-nation-636320",
+      "source": "milannews.it",
+      "date": "2026-11-16T07:00:53+00:00",
+      "summary": "Il Milan continua a spinfere per Endrick, ma sulla strada dei rossoneri c'è un ostacolo enorme: José Mourinho."
+    },
+    {
+      "id": "a2d1dbea2a5c",
+      "title": "Pellegatti evidenzia: “Importante essere li davanti fino in primavera, Sunderland ed Olympiacos partite chiave”",
+      "url": "https://www.milannews.it/news/pellegatti-evidenzia-636297",
+      "source": "milannews.it",
+      "date": "2026-11-16T06:48:00+00:00",
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha parlato della situazione in classifica del Milan in campionato ed in Europa League ed ha sottolineato l'importanza delle prossime partite fino alla sosta di Natale. Di seguito le sue parole."
+    },
+    {
+      "id": "d1596e8dc441",
+      "title": "Pulisic, esultanza social dopo la doppietta con gli USA: “Notte speciale davanti a persone speciali”",
+      "url": "https://www.milannews.it/news/pulisic-l-esultanza-social-doppietta-usa-notte-speciale-speciali-636315",
+      "source": "milannews.it",
+      "date": "2026-11-16T06:36:00+00:00",
+      "summary": "Due notti fa Christian Pulisic è stato assoluto protagonista con la maglia della sua nazionale. Gli USA infatti hanno giocato e battuto 6-0 Haiti nei quarti di finale di andata della CONCACAF Nations League."
+    },
+    {
+      "id": "cb905f81277e",
+      "title": "Entrati nella settimana di Milan-Frosinone, il calendario del Milan fino alla sosta natalizia: quante partite!",
+      "url": "https://www.milannews.it/news/entrati-settimana-milan-frosinone-calendario-milan-sosta-natalizia-partite-636313",
+      "source": "milannews.it",
+      "date": "2026-11-16T06:24:00+00:00",
+      "summary": "Passata ormai la prima settimana di pausa dal campionato a causa della sosta per le nazionali, si avvicina sempre di più la ripresa della Serie A."
+    },
+    {
+      "id": "3814c5cb1591",
+      "title": "Nations League, continua la 6^ giornata: un solo rossonero in campo oggi",
+      "url": "https://www.milannews.it/news/nations-league-continua-6-giornata-rossonero-campo-636312",
+      "source": "milannews.it",
+      "date": "2026-11-16T06:12:00+00:00",
+      "summary": "Dopo le partite di ieri che hanno inaugurato la 6^ ed ultima giornata della Nations League, questa sera ci saranno altre dieci partite che chiuderanno definitivamente altri gironi."
+    },
+    {
+      "id": "00af6ab1a379",
+      "title": "Nazionale, i risultati dei rossoneri in campo ieri: Moreira, Maignan, Rabiot, Modric e Cisse",
+      "url": "https://www.milannews.it/news/nazionale-risultati-rossoneri-campo-ieri-moreira-maignan-rabiot-modric-636311",
+      "source": "milannews.it",
+      "date": "2026-11-16T06:00:00+00:00",
+      "summary": "Ieri sera è partito il secondo turno delle partite della Nations League che hanno chiuso la fase a gironi."
+    },
     {
       "id": "67bcf84c1495",
       "title": "Ronaldinho, nel derby Ravenna-Forlì raggiunta la 700ª presenza ufficiale in carriera",
@@ -90,84 +162,12 @@
       "summary": "Dopo la vittoria degli azzurri per 3-1 ai danni della Francia di Zidane, questa sera la nazionale italiana è stata ospite del Belgio di Mark Van Bommel."
     },
     {
-      "id": "0361cdd701be",
-      "title": "Maignan, l’Equipe sull’infortunio: duro contrasto e fastidio alla coscia, sostituzione precauzionale",
-      "url": "https://www.milannews.it/news/maignan-l-equipe-sull-infortunio-duro-colpo-fastidio-coscia-sostituzione-via-precauzionale-636316",
-      "source": "milannews.it",
-      "date": "2026-11-15T21:44:23+00:00",
-      "summary": "All'intervallo di Francia-Turchia, il portiere del Milan Mike Maignan è uscito dal campo, sostituito da Restes, per un dolore alla coscia."
-    },
-    {
-      "id": "c91ec544bca9",
-      "title": "Gila rivela: “Prima avevo meno fiducia in me stesso e vivevo male le cose che mi dicevano gli altri”",
-      "url": "https://www.milannews.it/news/gila-rivela-prima-fiducia-vivevo-cose-dicevano-altri-636299",
-      "source": "milannews.it",
-      "date": "2026-11-15T21:36:51+00:00",
-      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
-    },
-    {
       "id": "e5508ab391e4",
       "title": "Maignan injury concern for Milan after forced off for France",
       "url": "https://football-italia.net/maignan-injury-concern-for-milan-france/",
       "source": "football-italia.net",
       "date": "2026-11-15T21:30:09+00:00",
       "summary": "Milan are waiting for news from France after goalkeeper Mike Maignan was forced off at..."
-    },
-    {
-      "id": "f2b6d3c347f1",
-      "title": "Frosinone, Calò: \"Che sia con Milan, Cagliari o Juve, la nostra idea rimarrà sempre quella\"",
-      "url": "https://www.milannews.it/l-avversario/frosinone-calo-che-milan-cagliari-juve-idea-rimarra-quella-636291",
-      "source": "milannews.it",
-      "date": "2026-11-15T21:24:00+00:00",
-      "summary": "Il Milan al rientro dalla sosta per le Nazionali si ritroverà davanti il Frosinone, squadra rivelazione del campionato di Serie A Enilive fino a questo momento."
-    },
-    {
-      "id": "55749f3cd48e",
-      "title": "Janssen rivela: “In Belgio siamo tutti felici di Moreira, sa inventare le cose dal nulla”",
-      "url": "https://www.milannews.it/news/jassen-rivela-in-belgio-felici-moreira-sa-inventare-cose-nulla-636276",
-      "source": "milannews.it",
-      "date": "2026-11-15T21:12:09+00:00",
-      "summary": "La redazione di MilanNews.it ha intervistato il collega belga Louis Janssen, del quotidiano \"La Dernière Heure\", per un commento sul grande momento che sta vivendo Diego Moreira, tra rossoneri e Nazionale."
-    },
-    {
-      "id": "4cdb43c8b73b",
-      "title": "Milan, tegola Maignan: esce all’intervallo di Francia-Turchia per un dolore alla coscia",
-      "url": "https://www.milannews.it/news/nazionali-guai-maignan-esce-all-intervallo-dolore-coscia-636314",
-      "source": "milannews.it",
-      "date": "2026-11-15T21:00:01+00:00",
-      "summary": "Una brutta notiza arriva in casa Milan direttamente dallo Stadio Matmut Atlantique durante la partita Francia-Turchia."
-    },
-    {
-      "id": "8e62dd9c5304",
-      "title": "Domani la presentazione del Trofeo Italo Galbiati: attesi tantissimi ospiti",
-      "url": "https://www.milannews.it/news/domani-presentazione-trofeo-italo-galbiati-attesi-tantissimi-ospiti-636287",
-      "source": "milannews.it",
-      "date": "2026-11-15T20:48:57+00:00",
-      "summary": "Domani 16 novembre si terrà a Milano la serata di presentazione della IV edizione del Trofeo Italo Galbiati."
-    },
-    {
-      "id": "252e557128d2",
-      "title": "Gila e le lezioni imparate dai periodi difficili: “Ora so che chiunque può sbagliare, bisogna trarre il positivo anche dai momenti no”",
-      "url": "https://www.milannews.it/news/gila-lezioni-imparate-periodi-difficili-ora-so-sbagliare-bisogna-trarre-positivo-momenti-no-636298",
-      "source": "milannews.it",
-      "date": "2026-11-15T20:36:44+00:00",
-      "summary": "Mario Gila, difensore del Milan, è il protagonista del secondo episodio di The Chamber, la serie di interviste di AC Milan dedicata al benessere mentale."
-    },
-    {
-      "id": "6137c8954839",
-      "title": "Costacurta e il rapporto con Baresi: “È stato un fratello maggiore, con me più generoso perché avevamo diverse cose in comune”",
-      "url": "https://www.milannews.it/news/costacurta-rapporto-baresi-e-fratello-maggiore-generoso-diverse-cose-comune-636269",
-      "source": "milannews.it",
-      "date": "2026-11-15T20:24:27+00:00",
-      "summary": "Sul canale YouTube 'Milan Hello' di Andrea Longoni è uscito \"Franco Baresi, la vera storia della leggenda\", il documentario dedicato al grande Capitano del Milan."
-    },
-    {
-      "id": "1ac0cee24e20",
-      "title": "Origi racconta la difficile esperienza con la maglia del Milan",
-      "url": "https://www.milannews.it/gli-ex/origi-racconta-difficile-esperienza-maglia-milan-636265",
-      "source": "milannews.it",
-      "date": "2026-11-15T20:12:25+00:00",
-      "summary": "A volte ritornano, o invece no. L'ex attaccante del Milan Divock Origi è tornato a parlare della tremenda esperienza vissuta in rossonero nella stagione 2022/2023."
     },
     {
       "id": "f0cfe18dc989",
