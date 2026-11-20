@@ -1,13 +1,325 @@
 {
-  "lastUpdated": "2026-11-20T09:39:55.710312+00:00",
+  "lastUpdated": "2026-11-20T18:17:36.581095+00:00",
   "articles": [
     {
-      "id": "2ee515f4de64",
-      "title": "Mourinho sbotta su Endrick: \"Rispondo agli agenti! Poi, se il Real decide altre cose...\"",
-      "url": "https://www.milannews.it/calciomercato-milan/mourinho-sbotta-endrick-rispondo-agenti-poi-real-decide-cose-636765",
+      "id": "29ff73228976",
+      "title": "Pasotto: \"Calvani piace al Milan per anagrafe e motivi pratici\"",
+      "url": "https://www.milannews.it/calciomercato-milan/pasotto-calvani-piace-milan-anagrafe-motivi-pratici-636776",
       "source": "milannews.it",
-      "date": "2026-11-20T09:33:00+00:00",
-      "summary": "José Mourinho, allenatore del Real Madrid, si è così espresso in conferenza stampa sul futuro di Endrick, attaccante brasiliano dei Blancos accostato, in queste settimane, anche - e soprattutto - al Milan per il calciomercato di  ..."
+      "date": "2026-11-20T18:10:53+00:00",
+      "summary": "Marco Pasotto, giornalista, si è così espresso su La Gazzetta dello Sport sull'idea Gabriele Calvani per la difesa del Milan: \"Calvani è sbocciato quest'anno nello stuzzicante Frosinone di Alvini, che fa volare i suo ..."
+    },
+    {
+      "id": "654188153c21",
+      "title": "Fondazione Milan protagonista nel pre di Milan-Frosinone: coinvolti Ambrosini e Massaro",
+      "url": "https://www.milannews.it/news/fondazione-milan-protagonista-pre-milan-frosinone-coinvolti-ambrosini-massaro-636801",
+      "source": "milannews.it",
+      "date": "2026-11-20T18:00:00+00:00",
+      "summary": "Nel pre-partita di Milan-Frosinone, gara che si disputerà a San Siro domenica alle ore 18 valida per la dodicesima giornata del campionato di Serie A, Fondazione Milan sarà protagonista con il racconto delle storie pi&ugr ..."
+    },
+    {
+      "id": "2565f047463f",
+      "title": "GdS: Krösche announcement could come next week – how he will operate at Milan",
+      "url": "https://sempremilan.com/krosche-milan-announcement-next-week",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T18:00:00+00:00",
+      "summary": "Further confirmation has arrived that Markus Krösche will be joining AC Milan, and an announcement could come before the month ends. La Gazzetta dello Sport confirm the news that been circulating for weeks now: an agreement has been reached with Krösche, and next week could be the perfect time to an"
+    },
+    {
+      "id": "2b0065da5d09",
+      "title": "Tavero (Diario AS): \"Il Milan potrebbe essere una buona vetrina per Endrick. Con continuità il resto verrebbe da sé\"",
+      "url": "https://www.milannews.it/news/tavero-diario-as-il-milan-buona-vetrina-endrick-continuita-resto-verrebbe-se-636797",
+      "source": "milannews.it",
+      "date": "2026-11-20T17:50:48+00:00",
+      "summary": "Endrick è senza ombra di dubbio uno degli obiettivi principali del Milan per il prossimo calciomercato invernale."
+    },
+    {
+      "id": "20ff1faae1ba",
+      "title": "Mudryk accusa la federazione ucraina per la positività al doping",
+      "url": "https://www.milannews.it/news/mudryk-accusa-federazione-ucraina-positivita-doping-636771",
+      "source": "milannews.it",
+      "date": "2026-11-20T17:40:38+00:00",
+      "summary": "(ANSA) - ROMA, 19 NOV - \"Non avevo mai sentito parlare di una sostanza come il meldonium, è qualcosa che si trova solo nell'Europa dell'Est. È potuto entrare nel mio organismo solo mentre ero in Ucraina\"."
+    },
+    {
+      "id": "413eb08a69a5",
+      "title": "Brocchi sottolinea le insidie che il Milan potrà trovare nella gara contro il Frosinone",
+      "url": "https://www.milannews.it/news/brocchi-sottolinea-insidie-milan-potra-trovare-gara-frosinone-636786",
+      "source": "milannews.it",
+      "date": "2026-11-20T17:30:03+00:00",
+      "summary": "Domenica il Milan tornerà in campo alle ore 18 a San Siro per riprendere la sua stagione e arrivare a giocarsi tanto tra campionato ed Europa League in sette gare da qui a Natale."
+    },
+    {
+      "id": "64065ac1dcc1",
+      "title": "MN: Eyes on Manchester – the City and United duo Milan want to bring back to Italy",
+      "url": "https://sempremilan.com/milan-kovacic-bruno-fernandes-back-italy",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T17:30:00+00:00",
+      "summary": "AC Milan are looking for opportunities to bolster the squad ahead of next season, with a particular eye on the north of England. According to MilanNews, Milan are eyeing Manchester for the January transfer window, but also for next summer. The directors are currently in a phase of monitoring certain"
+    },
+    {
+      "id": "824ea4b1e778",
+      "title": "Serie A, tutte le designazione della 12ª giornata: Pairetto per il Milan, Maresca per l'Inter",
+      "url": "https://www.milannews.it/news/serie-a-designazione-12a-giornata-pairetto-milan-maresca-inter-636782",
+      "source": "milannews.it",
+      "date": "2026-11-20T17:20:12+00:00",
+      "summary": "Tutte le designazioni arbitrali per la dodicesima giornata di Serie A Enilive che si apre nella giornata di domani 21 novembre e si concluderà lunedì 23 con un solo posticipo serale."
+    },
+    {
+      "id": "2414fb363978",
+      "title": "Cugini difende Amorim: \"Dopo 11 partite di campionato mi sembra che il suo lavoro non sia così criticabile\"",
+      "url": "https://www.milannews.it/news/cugini-difende-amorim-dopo-11-partite-campionato-lavoro-criticabile-636764",
+      "source": "milannews.it",
+      "date": "2026-11-20T17:10:49+00:00",
+      "summary": "Ospite di Sportitalia, il giornalista Mimmo Cugini ha parlato di Milan soffermandosi in modo particolare sul lavoro svolto fino a questo momento da Ruben Amorim, difendendolo."
+    },
+    {
+      "id": "042bc5ba43a3",
+      "title": "Quote risultato esatto Milan Frosinone",
+      "url": "https://www.milannews.it/scommesse/pronostici/quote-risultato-esatto-milan-frosinone-636712",
+      "source": "milannews.it",
+      "date": "2026-11-20T17:00:24+00:00",
+      "summary": "Archiviata la pausa per le nazionali, il Milan torna a concentrarsi sul campionato in vista della dodicesima giornata di Serie A."
+    },
+    {
+      "id": "fb3d61c4b6aa",
+      "title": "L'avvento del Milan: da qui a Natale sette partite-verità",
+      "url": "https://www.milannews.it/podcast-mn/avvento-milan-natale-partite-verita-636816",
+      "source": "milannews.it",
+      "date": "2026-11-20T17:00:00+00:00",
+      "summary": "Dopodomani torna in campo il Milan. La sosta si è conclusa e la stagione dei club riparte da dove si era interrotta."
+    },
+    {
+      "id": "f66e05acd35a",
+      "title": "Fondazione Milan to be celebrated at Frosinone game – the details and Gabbia’s words",
+      "url": "https://sempremilan.com/fondazione-milan-frosinone-gabbia-words",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T17:00:00+00:00",
+      "summary": "Fondazione Milan will be the Match Charity Partner for AC Milan vs. Frosinone on Sunday, and Matteo Gabbia has spoken as part of the initiative. Since 2003, the Foundation has used sport as a tool for change, reaching more than 200,000 young people through 288 projects in Italy and 25 other countrie"
+    },
+    {
+      "id": "f4a046090184",
+      "title": "Milan o Roma per Endrick. Tavero (Diario AS): \"Entrambe ottime destinazioni e sarebbero felici di averlo\"",
+      "url": "https://www.milannews.it/news/milan-roma-endrick-tavero-diario-as-entrambe-ottime-destinazioni-felici-averlo-636796",
+      "source": "milannews.it",
+      "date": "2026-11-20T16:50:35+00:00",
+      "summary": "Endrick è senza ombra di dubbio uno degli obiettivi principali del Milan per il prossimo calciomercato invernale."
+    },
+    {
+      "id": "2cddd157f995",
+      "title": "Gabbia si emoziona parlando di Baresi: \"Per noi è una leggenda\"",
+      "url": "https://www.milannews.it/news/gabbia-emoziona-parlando-baresi-per-leggenda-636811",
+      "source": "milannews.it",
+      "date": "2026-11-20T16:40:00+00:00",
+      "summary": "Matteo Gabbia, difensore del Milan è stato presente alla consegna dei premi GLGS alla memoria di Franco Baresi presso la Sala delle Colonne Banco Bpm."
+    },
+    {
+      "id": "67ce8e345837",
+      "title": "Como, Fabregas: \"Serviranno mesi per riavere in campo Kean\"",
+      "url": "https://www.milannews.it/l-avversario/comp-fabregas-serviranno-riavere-campo-kean-636813",
+      "source": "milannews.it",
+      "date": "2026-11-20T16:30:00+00:00",
+      "summary": "(ANSA) - COMO, 20 NOV - \"Serviranno alcuni mesi prima di riaverlo in campo\": Cesc Fabregas annuncia un lungo stop per Moise Kean."
+    },
+    {
+      "id": "1886683c0134",
+      "title": "Dalla Germania, lungo stop per Inacio: serio infortunio al menisco",
+      "url": "https://www.milannews.it/dall-estero/calcio-stop-inacio-serio-infortunio-menisco-636787",
+      "source": "milannews.it",
+      "date": "2026-11-20T16:20:57+00:00",
+      "summary": "(ANSA) - ROMA, 20 NOV - Intervento chirurgico al menisco e uno stop di diversi mesi lontano dai campi di calcio per l'attaccante dell'Italia U21 e del Borussia Dortumnd, Samuele Inacio. Lo ha annunciato lo stesso club tedesco."
+    },
+    {
+      "id": "6cdeb6dcb016",
+      "title": "Schmid looks ahead to Frosinone’s San Siro trip: “Milan are obviously the favourites”",
+      "url": "https://sempremilan.com/schmid-frosinone-san-siro-milan-favourites",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T16:20:00+00:00",
+      "summary": "Frosinone forward Romano Schmid believes that his side will have to be more ‘proactive’ in order to get a positive result against AC Milan. Having been promoted from Serie B last season, Frosinone have been the surprise package so far in Serie A barring perhaps the league-leaders Lazio, as they sit "
+    },
+    {
+      "id": "be362f8af484",
+      "title": "Football Italia Show: Conte desperate for Juventus return, Tresoldi or Endrick for Milan?",
+      "url": "https://football-italia.net/football-italia-show-conte-desperate-juventus/",
+      "source": "football-italia.net",
+      "date": "2026-11-20T16:19:51+00:00",
+      "summary": "Lorenzo Bettoni and Giancarlo Rinaldi return with a new episode of the Football Italia Show,..."
+    },
+    {
+      "id": "aeeb91dd3ba9",
+      "title": "Frosinone, Schmid non ha paura del Milan: \"Faremo un'ottima partita\"",
+      "url": "https://www.milannews.it/l-avversario/serie-a-schmid-frosinone-milan-ottima-gara-636810",
+      "source": "milannews.it",
+      "date": "2026-11-20T16:10:28+00:00",
+      "summary": "(ANSA) - FROSINONE, 20 NOV - \"Credo che disputeremo un'ottima gara e il nostro stile di gioco può favorirci contro le grandi squadre\"."
+    },
+    {
+      "id": "01c2493c2263",
+      "title": "PROBABILE FORMAZIONE - Verso Milan-Frosinone: torna Maignan, Pavlovic da valutare",
+      "url": "https://www.milannews.it/news/probabile-formazione-milan-frosinone-amorim-rabiot-pulisic-modric-gila-636641",
+      "source": "milannews.it",
+      "date": "2026-11-20T16:10:00+00:00",
+      "summary": "Dopo la seconda sosta stagionale, l'ultima del 2026, il Milan di Ruben Amorim torna a tuffarsi sul campionato."
+    },
+    {
+      "id": "36cda2c894f7",
+      "title": "Gabbia: \"Mi emoziono quando mi parlano di Baresi, noi giocatori proviamo ad essere alla sua altezza\"",
+      "url": "https://www.milannews.it/news/gabbia-mi-emoziono-parlano-baresi-giocatori-proviamo-altezza-636809",
+      "source": "milannews.it",
+      "date": "2026-11-20T15:57:00+00:00",
+      "summary": "Matteo Gabbia, difensore del Milan è stato presente alla consegna dei premi GLGS alla memoria di Franco Baresi presso la Sala delle Colonne Banco Bpm."
+    },
+    {
+      "id": "3155fb9e754d",
+      "title": "Zazzaroni: \"In un mondo in cui tutti si vendono, Allegri preferisce restare sé stesso\"",
+      "url": "https://www.milannews.it/news/zazzaroni-in-vendono-allegri-preferisce-restare-se-stesso-636762",
+      "source": "milannews.it",
+      "date": "2026-11-20T15:50:08+00:00",
+      "summary": "Nel corso del consueto appuntamento con il suo commento per Il Corriere dello Sport, Ivan Zazzaroni ha difeso l'ex allenatore del Milan, oggi a Napoli, Massimiliano Allegri dalle ingnenti critiche che gli sono state mosse contro nel corso di ques ..."
+    },
+    {
+      "id": "9a8f5006023f",
+      "title": "Tavero (Diario AS) spiega: \"Mourinho si sente più tranquillo con Endrick in rosa, ma penso che lo lascerebbe partire se...\"",
+      "url": "https://www.milannews.it/news/tavero-diario-as-spiega-mourinho-sente-tranquillo-endrick-rosa-penso-lascerebbe-partire-se-636795",
+      "source": "milannews.it",
+      "date": "2026-11-20T15:50:00+00:00",
+      "summary": "Endrick è senza ombra di dubbio uno degli obiettivi principali del Milan per il prossimo calciomercato invernale."
+    },
+    {
+      "id": "98c69cd66bce",
+      "title": "Report Milan ready to sell Estupinan and Loftus-Cheek, loan young talent out",
+      "url": "https://football-italia.net/milan-ready-to-sell-estupinan-and-loftus-cheek/",
+      "source": "football-italia.net",
+      "date": "2026-11-20T15:49:58+00:00",
+      "summary": "Milan are expected to sell Pervis Estupinan and Ruben Loftus-Cheek in the January transfer window,..."
+    },
+    {
+      "id": "3f68a410203f",
+      "title": "Kompany del Bayern Monaco rassicura sulle sue condizioni dopo il malore",
+      "url": "https://www.milannews.it/news/calcio-kompany-rassicura-condizioni-malore-636772",
+      "source": "milannews.it",
+      "date": "2026-11-20T15:40:57+00:00",
+      "summary": "(ANSA) - BERLINO, 19 NOV - Dopo il malore e le settimane di stop, Vincent Kompany guarda con ottimismo al suo ritorno in campo con il Bayern Monaco."
+    },
+    {
+      "id": "8b76f89836e4",
+      "title": "Reports: Milan want Liverpool star Van Dijk as ‘leader of a new era’ with captaincy possible",
+      "url": "https://sempremilan.com/milan-van-dijk-leader-captaincy-possible",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T15:40:00+00:00",
+      "summary": "AC Milan consider Virgil van Dijk to be their number one defensive target ahead of next summer, and believe a deal is possible. According to a report from La Gazzetta dello Sport, Milan decided to explore the possibility of signing Van Dijk ahead of the current season as they looked at various optio"
+    },
+    {
+      "id": "abc069438b3e",
+      "title": "Cardone: \"Inizia una settimana che ci dirà molto sulla maturazione del Milan\"",
+      "url": "https://www.milannews.it/news/cardone-inizia-settimana-dira-maturazione-milan-636805",
+      "source": "milannews.it",
+      "date": "2026-11-20T15:30:42+00:00",
+      "summary": "Il giornalista Maurizio Cardone ha parlato a MilanNews.it del prossimo periodo a cui va incontro il Milan, a partire dalal partita di domenica pomeriggio alle 18 contro il Frosinone a San Siro, fino a Natale."
+    },
+    {
+      "id": "e2ebac08fcbb",
+      "title": "Mourinho makes Endrick stance clear following interest from Milan and Roma",
+      "url": "https://football-italia.net/mourinho-makes-endrick-stance-clear/",
+      "source": "football-italia.net",
+      "date": "2026-11-20T15:04:24+00:00",
+      "summary": "Jose Mourinho has made it clear that he does not want to lose hold of..."
+    },
+    {
+      "id": "408b4145bd75",
+      "title": "GdS: ‘Ambitious, surprising, Italian’ – Milan set guidelines for 2027 transfer business",
+      "url": "https://sempremilan.com/ambitious-surprising-italian-milan-transfer-guidelines",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T15:00:00+00:00",
+      "summary": "When building a squad it is important to have a vision of the end goal, and AC Milan have exactly that heading into 2027. La Gazzetta dello Sport begin a report by stating that there are no transition years when it comes to Milan. Frequently they have chosen to overhaul the squad in the summer […]\nT"
+    },
+    {
+      "id": "8eddcfc579ea",
+      "title": "“Like Pio Esposito” – Camarda’s impatience questioned by ex-Milan Futuro coach Oddo",
+      "url": "https://sempremilan.com/camarda-impatience-questioned-oddo-esposito",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T14:30:00+00:00",
+      "summary": "Massimo Oddo has admitted that Francesco Camarda has unquestionable talent, but suggested there has been some impatience regarding his development. Going into the 2025-26 season, the decision was made to send Camarda out on loan to Lecce, where he had a mixed campaign to say the least. He did score "
+    },
+    {
+      "id": "2e623a3d80d8",
+      "title": "MN: Numbers highlight strange paradox regarding Milan’s attacking output",
+      "url": "https://sempremilan.com/numbers-strange-paradox-milan-attacking-output",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T14:00:00+00:00",
+      "summary": "The first 11 games of the Serie A season have produced some rather intriguing trends regarding AC Milan’s attacking productivity. MilanNews recall how – after the important win in Genoa before the break – Ruben Amorim emphasised how this Milan team are still far from the final product he envisioned "
+    },
+    {
+      "id": "0ce07ee37bd9",
+      "title": "Tuttosport: Leadership and versatility – why Milan are targeting Man Utd’s Bruno Fernandes",
+      "url": "https://sempremilan.com/why-milan-targeting-bruno-fernandes",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T13:30:00+00:00",
+      "summary": "Bruno Fernandes seems to be emerging as more and more of a concrete target for AC Milan in the coming months. Owner Gerry Cardinale has already laid out the guidelines for the next transfer window (and future ones): he is fully committed to investing in strong players, regardless of age, with the ai"
+    },
+    {
+      "id": "31b06ec5ccc6",
+      "title": "GdS: ‘Old to who?’ – Modric chasing Milan record while future remains unwritten",
+      "url": "https://sempremilan.com/modric-milan-record-future-remains-unwritten",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T13:00:00+00:00",
+      "summary": "Luka Modric may be 41 years of age, but he shows no signs of slowing down. In fact, he remains crucial or both AC Milan and Croatia. La Gazzetta dello Sport begin a report by pointing out that Sunday’s game will be a first for Modric, even given the hundreds of games he has played. […]\nThe post GdS:"
+    },
+    {
+      "id": "75ffb1576a2a",
+      "title": "Footy Headlines: Emirates to adapt shirt logo ahead of 2027-28 season",
+      "url": "https://sempremilan.com/emirates-adapt-logo-milan-arsenal-real-madrid",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T12:30:00+00:00",
+      "summary": "AC Milan’s shirt sponsor Emirates are set to make a change ahead of the 2027-28 season, according to a report. As per Footy Headlines, the ‘Fly Better’ text will be removed from the shirts of Arsenal, Real Madrid and Milan ahead of next season. Instead, the airline will simply display the word ‘Emir"
+    },
+    {
+      "id": "40ec60928c37",
+      "title": "Romano: ‘The doors are open’ – Milan push to reunite Amorim with Sporting CP star Inacio",
+      "url": "https://sempremilan.com/milan-push-reunite-amorim-sporting-inacio",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T12:00:00+00:00",
+      "summary": "Fabrizio Romano has confirmed that AC Milan are maintaining contacts with Goncalo Inacio’s entourage over a January move. When Ruben Amorim arrived in the summer as the new head coach, Inacio was linked almost immediately. The pair know each other well as Amorim brought him into the side while at Sp"
+    },
+    {
+      "id": "c1cfaf0793d3",
+      "title": "Mourinho offers Endrick hope to Milan: “Real Madrid are more important than him”",
+      "url": "https://sempremilan.com/mourinho-offers-endrick-hope-to-milan",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T11:30:00+00:00",
+      "summary": "Real Madrid head coach Jose Mourinho gave a strong response when asked about the potential that Endrick could leave. In the past few days, it has been reported that Endrick could leave Los Blancos in the January transfer window. Not only that, but Real Madrid are apparently opening up to the idea of"
+    },
+    {
+      "id": "4bd7815b2abb",
+      "title": "GdS: Predicted XIs for Milan vs. Frosinone – Pavlovic and Cisse not included",
+      "url": "https://sempremilan.com/predicted-xis-milan-frosinone-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T11:00:00+00:00",
+      "summary": "AC Milan will hold their penultimate training session today in view of Sunday’s return to Serie A action with a game against Frosinone. La Gazzetta dello Sport (seen below) writes that the Milan squad will return to full strength with the arrival of the final players returning from international dut"
+    },
+    {
+      "id": "1f92240fdaa6",
+      "title": "CorSport: Two loans, two permanents – Milan hoping to be busy with exits in January too",
+      "url": "https://sempremilan.com/milan-two-loans-permanents-exits-january",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T10:30:00+00:00",
+      "summary": "AC Milan will be a key player in the winter window, not only with incoming reinforcements but also with a lot of potential outgoing activity. As highlighted this morning by Corriere dello Sport (via MilanNews) under the headline ‘January Outgoings. Here are the moves’, the Milan management are looki"
+    },
+    {
+      "id": "966597277112",
+      "title": "Musah lifts lid on Amorim’s faith, early career, preferred role and Scudetto ‘ambition’",
+      "url": "https://sempremilan.com/musah-amorim-faith-preferred-role-scudetto",
+      "source": "sempremilan.com",
+      "date": "2026-11-20T10:00:00+00:00",
+      "summary": "Yunus Musah has insisted that AC Milan must believe in the Scudetto, while also assessing his start to the campaign under Ruben Amorim. Going into the summer, an uncertain fate awaited Musah. Massimiliano Allegri did not see him as a part of the plans for 2025-26 and so he was loaned to Atalanta, wh"
+    },
+    {
+      "id": "dea13acae874",
+      "title": "Milan line up Bundesliga alternative to Endrick and Tresoldi for January",
+      "url": "https://football-italia.net/milan-line-up-bundesliga-alternative-endrick/",
+      "source": "football-italia.net",
+      "date": "2026-11-20T09:54:46+00:00",
+      "summary": "Milan are looking to add to their attacking department during the January transfer window, and..."
     },
     {
       "id": "797083a10c3f",
@@ -18,164 +330,12 @@
       "summary": "A statistic has been doing the rounds regarding Ruben Amorim’s league record with AC Milan, which is gathering some attention. His style of play is open to criticism, his selections are controversial, his words are regularly quite strong and he’s often called into question at the first sign of failu"
     },
     {
-      "id": "3518bd836f3e",
-      "title": "Verso il Frosinone. La Gazzetta: \"Ottimismo Maignan. Pavlovic non è al 100%\"",
-      "url": "https://www.milannews.it/rassegna-stampa/frosinone-gazzetta-ottimismo-maignan-pavlovic-100-636747",
-      "source": "milannews.it",
-      "date": "2026-11-20T09:24:17+00:00",
-      "summary": "Dopo due settimane si sosta è finalmente tempo di Serie A, con il Milan che domenica pomeriggio a San Siro ospiterà il Frosinone di Massimiliano Alvini, senza ombra di dubbio la sorpresa più piacevole di questo avvio di campionat ..."
-    },
-    {
-      "id": "c354d37bc11a",
-      "title": "Stramaccioni sul Milan: \"Il derby ha dato fiducia e la vittoria di Genova è stata pesante. La parola d'ordine ora è continuità\"",
-      "url": "https://www.milannews.it/news/stramaccioni-milan-il-derby-dato-fiducia-vittoria-genova-pesante-parola-ordine-continuita-636748",
-      "source": "milannews.it",
-      "date": "2026-11-20T09:12:47+00:00",
-      "summary": "Intervenuto sulle colonne de La Gazzetta dello Sport, Andrea Stramaccioni ha parlato di Milan a due giorni dal ritorno in campo della formazione di Ruben Amorim per la sfida di Serie A contro il Frosinone."
-    },
-    {
-      "id": "a0cebe11e97d",
-      "title": "Musah: \"Lo Scudetto è possibile, lavoriamo per questo. Amorim ha portato un'aria positiva nello spogliatoio\"",
-      "url": "https://www.milannews.it/primo-piano/musah-sportmediaset-lo-scudetto-possibile-lavoriamo-questo-amorim-portato-aria-positiva-spogliatoio-636755",
-      "source": "milannews.it",
-      "date": "2026-11-20T09:00:27+00:00",
-      "summary": "Il centrocampista del Milan Yunus Musah è stato intervistato in esclusiva dai colleghi di SportMediaset. Di seguito le sue dichiarazioni."
-    },
-    {
       "id": "a5e8a06ddc43",
       "title": "Tuttosport: Not just Endrick and Tresoldi – Milan eyeing Bundesliga striker Krösche admires",
       "url": "https://sempremilan.com/milan-eyeing-demirovic-stuttgart-krosche-admires",
       "source": "sempremilan.com",
       "date": "2026-11-20T09:00:00+00:00",
       "summary": "A new idea has emerged for AC Milan to strengthen their attack, and it is a player that incoming Head of Football Markus Krösche knows well. This morning’s edition of Tuttosport writes that the two dreams for January are Nicolò Tresoldi and Endrick, but a third option is starting to emerge at Milan."
-    },
-    {
-      "id": "b378d599d757",
-      "title": "Presente e futuro. La Gazzetta: \"C'è l'ombra di Tresoldi. Ramos ha otto partite per superare la crisi\"",
-      "url": "https://www.milannews.it/rassegna-stampa/presente-futuro-gazzetta-c-ombra-tresoldi-ramos-partite-superare-crisi-636744",
-      "source": "milannews.it",
-      "date": "2026-11-20T08:48:58+00:00",
-      "summary": "Il nome di Nicolò Tresoldi è sicuramente tra quelli che più fanno gola ai tifosi del Milan in vista del prossimo calciomercato invernale."
-    },
-    {
-      "id": "dda31837c9c7",
-      "title": "Il ritorno. Il CorSport: \"Cardinale sarà a San Siro, ecco Krösche\"",
-      "url": "https://www.milannews.it/rassegna-stampa/ritorno-corsport-cardinale-san-siro-krosche-636746",
-      "source": "milannews.it",
-      "date": "2026-11-20T08:36:55+00:00",
-      "summary": "Cardinale si conferma ancora una volta molto vicino alla squadra, dando continuità alle promesse fatte quest'estate prima dell'inizio della stagione."
-    },
-    {
-      "id": "1521b6395065",
-      "title": "Rabiot-Milan, avanti insieme. Il QS: \"Rinnovo in vista fino al 2030\"",
-      "url": "https://www.milannews.it/rassegna-stampa/rabiot-milan-insieme-qs-rinnovo-vista-2030-636745",
-      "source": "milannews.it",
-      "date": "2026-11-20T08:24:53+00:00",
-      "summary": "Tra un'entrata e l'altra, Gerry Cardinale è al lavoro per blindare la spina dorsale della squadra di Ruben Amorim."
-    },
-    {
-      "id": "50ebcac5da7b",
-      "title": "Il sogno in regia. Tuttosport: \"Fernandes piace perché è duttile\"",
-      "url": "https://www.milannews.it/rassegna-stampa/sogno-regia-tuttosport-fernandes-piace-duttile-636742",
-      "source": "milannews.it",
-      "date": "2026-11-20T08:12:01+00:00",
-      "summary": "Tra i tanti nomi accostati dal Milan nel corso di questi giorni uno in particolare ha fatto gola ai tifosi rossoneri: quello di Bruno Fernandes."
-    },
-    {
-      "id": "41907acd519f",
-      "title": "Il Milan tiene attivi i contatti con Gonçalo Inacio: la sua partenza a gennaio è possibile",
-      "url": "https://www.milannews.it/calciomercato-milan/milan-tiene-attivi-contatti-goncalo-inacio-partenza-gennaio-possibile-636751",
-      "source": "milannews.it",
-      "date": "2026-11-20T08:00:36+00:00",
-      "summary": "Nel corso del consueto appuntamento con il video aggiornamento sul suo canale YouTube, Fabrizio Romano ha fatto il punto sul calciomercato in entrata del Milan soffermandosi in modo particolare sul nome di Gonçalo Inacio."
-    },
-    {
-      "id": "1636e7681ef4",
-      "title": "Camarda, Comotto e non solo. Il CorSport: \"Gennaio in uscita. Ecco le manovre\"",
-      "url": "https://www.milannews.it/rassegna-stampa/camarda-comotto-solo-corsport-gennaio-uscita-manovre-636741",
-      "source": "milannews.it",
-      "date": "2026-11-20T07:48:59+00:00",
-      "summary": "Il prossimo gennaio il Milan sarà particolarmente attivo non solo in entrata, ma anche in uscita. Ci sono infatti diversi calciatori da piazzare, tra prestiti e cessioni a titolo definitivo."
-    },
-    {
-      "id": "929e866f3e3e",
-      "title": "Piace il bomber dello Stoccarda. Tuttosport: \"Milan, c'è Demirovic tra Endrick e Tresoldi\"",
-      "url": "https://www.milannews.it/rassegna-stampa/piace-bomber-stoccarda-tuttosport-milan-demirovic-endrick-tresoldi-636740",
-      "source": "milannews.it",
-      "date": "2026-11-20T07:36:36+00:00",
-      "summary": "Alla fine tra i due litiganti a godere potrebbe essere il terzo, Emerdin Demirovic."
-    },
-    {
-      "id": "d3e96fe42ff0",
-      "title": "Incredibile Modric. La Gazzetta: \"Nazionale, Milan. A 41 anni gioca sempre lui\"",
-      "url": "https://www.milannews.it/rassegna-stampa/incredibile-modric-gazzetta-nazionale-milan-41-gioca-lui-636743",
-      "source": "milannews.it",
-      "date": "2026-11-20T07:24:52+00:00",
-      "summary": "E pensare che ad inizio stagione c'è stato chi ha avuto il coraggio di definire Luka Modric addirittura un \"problema\" per questo Milan."
-    },
-    {
-      "id": "4a7a7bd5c08d",
-      "title": "Diciotto gol in quattro. Il CorSport: \"Gli alleati di Amorim\"",
-      "url": "https://www.milannews.it/rassegna-stampa/diciotto-gol-quattro-corsport-gli-alleati-amorim-636739",
-      "source": "milannews.it",
-      "date": "2026-11-20T07:12:47+00:00",
-      "summary": "L'attenzione è ovviamente rivolta a Gonçalo Ramos e alle difficoltà che sta trovando il portoghese nel riuscire ad essere decisivo ed incisivo sotto porta, ma con o senza il supporto del portoghese il Milan è una squad ..."
-    },
-    {
-      "id": "91f2e869966f",
-      "title": "Tra Tresoldi e Endrick spunta Demirovic: può essere lui l'alternativa a Ramos",
-      "url": "https://www.milannews.it/primo-piano/tresoldi-endrick-spunta-demirovic-alternativa-ramos-636738",
-      "source": "milannews.it",
-      "date": "2026-11-20T07:00:16+00:00",
-      "summary": "Tra i due litiganti, alla fine, a goderne potrebbe essere il terzo."
-    },
-    {
-      "id": "91ef3cfc4c15",
-      "title": "Designazione arbitrale di Milan Frosinone: fischietto a Pairetto, VAR a Pezzuto",
-      "url": "https://www.milannews.it/news/designazione-arbitrale-milan-frosinone-fischietto-pairetto-var-pezzuto-636737",
-      "source": "milannews.it",
-      "date": "2026-11-20T06:48:00+00:00",
-      "summary": "Sabato pomeriggio torna la Serie A con due anticipi alle 15:00 che daranno il via alla 12^ giornata di Serie A."
-    },
-    {
-      "id": "5826c85c5fca",
-      "title": "Serie A, dov’eravamo rimasti? La classifica prima della 12^giornata",
-      "url": "https://www.milannews.it/news/serie-a-dov-eravamo-rimasti-classifica-12-giornata-636736",
-      "source": "milannews.it",
-      "date": "2026-11-20T06:36:00+00:00",
-      "summary": "Dopo due settimane di pausa torna finalmente il campionato di Serie A. La giornata sarà aperta da Lazio-Lecce e Como-Cagliari che sabato alle 15:00 inaugureranno la 12^ giornata."
-    },
-    {
-      "id": "01c2493c2263",
-      "title": "PROBABILE FORMAZIONE - Verso Milan-Frosinone: torna Maignan, Pavlovic da valutare",
-      "url": "https://www.milannews.it/news/probabile-formazione-milan-frosinone-amorim-rabiot-pulisic-modric-gila-636641",
-      "source": "milannews.it",
-      "date": "2026-11-20T06:30:00+00:00",
-      "summary": "Dopo la seconda sosta stagionale, l'ultima del 2026, il Milan di Ruben Amorim torna a tuffarsi sul campionato."
-    },
-    {
-      "id": "239c93a50227",
-      "title": "Serie A, parte la 12^ giornata: il programma completo con orari, date e guida tv",
-      "url": "https://www.milannews.it/news/serie-a-12-giornata-programma-completo-orari-date-guida-tv-636734",
-      "source": "milannews.it",
-      "date": "2026-11-20T06:24:00+00:00",
-      "summary": "Dopo due settimane di pausa per le nazionali, questo weekend torna la Serie A con la 12^ giornata. Di seguito il programma completo."
-    },
-    {
-      "id": "478186c8342a",
-      "title": "Da domenica parte il tour de force: il programma del Milan fino alla sosta di Natale",
-      "url": "https://www.milannews.it/news/domenica-tour-de-force-636733",
-      "source": "milannews.it",
-      "date": "2026-11-20T06:12:00+00:00",
-      "summary": "Passata ormai la prima settimana di pausa dal campionato a causa della sosta per le nazionali, si avvicina sempre di più la ripresa della Serie A."
-    },
-    {
-      "id": "e51518532f68",
-      "title": "Milan-Frosinone, domenica alle 18:00 in campo: la probabile formazione rossonera",
-      "url": "https://www.milannews.it/news/milan-frosinone-domenica-18-00-campo-probabile-formazione-rossonera-636732",
-      "source": "milannews.it",
-      "date": "2026-11-20T06:00:00+00:00",
-      "summary": "Dopo la seconda sosta stagionale, l'ultima del 2026, il Milan di Ruben Amorim torna a tuffarsi sul campionato."
     },
     {
       "id": "6399c12a480e",
@@ -202,84 +362,12 @@
       "summary": "Milan are preparing to spend big on a striker in January, but conflicting reports mean..."
     },
     {
-      "id": "deeef5f1a4e4",
-      "title": "MN: Maignan and Pavlovic expected to return for Milan this weekend – the latest",
-      "url": "https://sempremilan.com/maignan-pavlovic-expected-return-weekend",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T17:40:00+00:00",
-      "summary": "AC Milan can breathe a sigh of relief, with Mike Maignan and Strahinja Pavlovic expected to be starters this weekend. It’s been a week of nerves for Milan and Ruben Amorim, with questions about two of their most important players: Pavlovic and Maignan. Both have struggled with injury issues during t"
-    },
-    {
-      "id": "2da1d4dd32e5",
-      "title": "Romano states Milan could be an option for Balde with Mendes links: “Discuss a strategy”",
-      "url": "https://sempremilan.com/romano-states-milan-option-balde-mendes",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T17:00:00+00:00",
-      "summary": "According to Fabrizio Romano, AC Milan could be involved in the market for Alejandro Balde once again this winter.  A central defender would be the main target for most Milan fans ahead of the winter mercato, but the possibility of signing another wing-back wouldn’t be turned down. In fact, with the"
-    },
-    {
       "id": "e6b7fda901ba",
       "title": "Oddo: ‘Italy have to be patient with talent, Camarda couldn’t wait’",
       "url": "https://football-italia.net/oddo-italy-patient-camarda-couldnt-wait/",
       "source": "football-italia.net",
       "date": "2026-11-19T16:21:54+00:00",
       "summary": "Massimo Oddo believes that Italy has plenty of young talent coming through, but has urged..."
-    },
-    {
-      "id": "6eb1f8d51a9b",
-      "title": "Pavlovic admits he jokes about retiring with Moreira at Partizan: “He’s a fantastic guy”",
-      "url": "https://sempremilan.com/pavlovic-jokes-retiring-moreira-partizan",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T16:20:00+00:00",
-      "summary": "AC Milan defender Strahinja Pavlovic has spoken about potentially retiring alongside Diego Moreira in the future, after a new revelation.  It’s clear that, since he’s arrived, Moreira has had a huge impact on the dressing room. In terms of quality, Mark van Bommel called him ‘crazy’, but compared hi"
-    },
-    {
-      "id": "5e3969b8dd0a",
-      "title": "MN: The new Beckham – Adidas want McTominay at Milan and could aid the move",
-      "url": "https://sempremilan.com/new-beckham-adidas-want-mctominay-milan",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T15:40:00+00:00",
-      "summary": "AC Milan have reportedly become a player in the race to sign Scott McTominay and there are more reasons than his quality alone. Signing someone like McTominay would be a statement from Milan. They’ve already returned to signing quality, rather than complete gambles, and the potential arrival of the "
-    },
-    {
-      "id": "00ae88ba91bb",
-      "title": "CM: ‘In the coming hours’ – Milan and Rabiot on the verge of renewal with one matter to solve",
-      "url": "https://sempremilan.com/milan-rabiot-on-verge-of-renewal",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T15:00:00+00:00",
-      "summary": "Ruben Amorim sees Adrien Rabiot as key to his squad and the Frenchman is on the verge of extending his deal with AC Milan. This season, few players have been more impactful than Rabiot and it’s not exactly a new thing. Last year, he was vital to Massimiliano Allegri and whilst his Portuguese replace"
-    },
-    {
-      "id": "82f314b15980",
-      "title": "MN: Maignan ‘working towards Frosinone’ with training plan going smoothly",
-      "url": "https://sempremilan.com/maignan-working-towards-frosinone",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T14:30:00+00:00",
-      "summary": "Mike Maignan will hopefully be back in goal for AC Milan this weekend, after initial fears that he could be out with an injury. When Maignan went off in France’s game against Turkey, there was immediately a bit of panic regarding their options moving forward. Lorenzo Torriani was the only fit back-u"
-    },
-    {
-      "id": "23b99ba63f14",
-      "title": "Tuttosport: Milan attempting to breach the rift as Pochettino prepares Fernandes meeting",
-      "url": "https://sempremilan.com/milan-attempting-breach-rift-fernandes",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T14:00:00+00:00",
-      "summary": "AC Milan remain at the door for Bruno Fernandes and they will hope to hear a positive update from his meeting with Mauricio Pochettino. When Fernandes returns from international duty, he’ll meet his new coach for the first time and perhaps it’ll reopen the door to a future at Old Trafford. Right now"
-    },
-    {
-      "id": "e0970c7e7b2a",
-      "title": "GdS: Milan prevail with Borsa renewal after Manchester City ‘wanted him’",
-      "url": "https://sempremilan.com/milan-prevail-borsa-renewal-manchester-city",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T13:30:00+00:00",
-      "summary": "Gabriele Borsa is a name that AC Milan will hope to hear more of in the coming years, and those years have now been secured. Earlier this year, Gerry Cardinale admitted that he wanted to prioritise pathways from the academy to the first team, even with plans to invest more. Indeed, after the failure"
-    },
-    {
-      "id": "187a037c61bf",
-      "title": "“Perhaps we’re interested” – Lecce’s president considers €30m Gabriel sale as Milan circle",
-      "url": "https://sempremilan.com/lecce-president-considers-30m-sale-gabriel",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T13:00:00+00:00",
-      "summary": "AC Milan have had a long-standing interest in Tiago Gabriel and they may now have found an open door for the mercato. There have been plenty of links between Milan and defenders in recent weeks and months. Of course, a few names are repeated in this time and Goncalo Inacio is the one that most […]\nT"
     },
     {
       "id": "b71a31fde427",
@@ -290,68 +378,12 @@
       "summary": "Reports in Italy confirm that Mike Maignan took part in the first part of Milan’s..."
     },
     {
-      "id": "6cbd6ffa74f8",
-      "title": "De Winter discusses importance at Milan, Amorim’s position and the future: “One of us”",
-      "url": "https://sempremilan.com/de-winter-importance-milan-amorim-position",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T12:30:09+00:00",
-      "summary": "Koni De Winter spoke at an event at the AC Milan store today, and he covered numerous topics with a lot of openness. This season, De Winter has found himself in a new, important light. Matteo Gabbia spent most of pre-season in the middle of the back three, but injuries have prevented him from playin"
-    },
-    {
-      "id": "0f2853ae25ab",
-      "title": "CM: How much Hutchinson’s ‘dream’ permanent move to Milan would cost",
-      "url": "https://sempremilan.com/how-much-hutchinson-dream-move-cost",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T12:00:00+00:00",
-      "summary": "In the summer, AC Milan included a buy option in the loan deal to bring Omari Hutchinson to San Siro, but what would be the cost? Speaking in recent days, Hutchinson has admitted that a move to San Siro, on a permanent basis, would be a dream and it’s entirely possible that it’s fulfilled. Milan […]"
-    },
-    {
-      "id": "55780d1e67bd",
-      "title": "GdS: ‘The Italian option’ – Milan also considering move for ‘blossoming’ Calvani",
-      "url": "https://sempremilan.com/milan-considering-move-blossoming-calvani",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T11:30:00+00:00",
-      "summary": "AC Milan could launch a bid to sign Gabriele Calvani next year, with the young Italian coming into his own in Serie A. Whilst Milan are becoming more comfortable with buying experienced options, Gerry Cardinale will not abandon the future. So, they’ll continue to try to buy the right players for the"
-    },
-    {
       "id": "a98646aa2248",
       "title": "Report Milan dream of signing McTominay thanks to new kit deal",
       "url": "https://football-italia.net/milan-dream-signing-mctominay-new-kit-deal/",
       "source": "football-italia.net",
       "date": "2026-11-19T11:07:46+00:00",
       "summary": "Milan’s new lucrative kit deal with Adidas will allow the Rossoneri to make a big-money..."
-    },
-    {
-      "id": "86eb6eab3965",
-      "title": "A Bola: ‘Could change clubs’ – Juventus and Milan considering move for Dalot",
-      "url": "https://sempremilan.com/milan-juventus-considering-move-dalot",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T11:00:00+00:00",
-      "summary": "A move to Italy could be on the cards for Diogo Dalot, who is a target for both AC Milan and Juventus, reports suggest. Dalot is not an unfamiliar name to either club; he’s been linked regularly in the past years and it’s not an impossible move. Since leaving San Siro, his time with Manchester […]\nT"
-    },
-    {
-      "id": "56c9c554d743",
-      "title": "MilanVibes: Endrick’s entourage visit Milan ahead of planned January pursuit – the details",
-      "url": "https://sempremilan.com/endrick-entourage-visit-milan",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T10:31:46+00:00",
-      "summary": "Today, AC Milan have been given another significant boost in their pursuit of Real Madrid’s young star, Endrick. Talk about a move for Endrick has dominated for months now. Gerry Cardinale is reportedly obsessed with the youngster and that is not changing. His admiration for the Brazilian goes so fa"
-    },
-    {
-      "id": "5f29d678ed33",
-      "title": "QN: Milan ‘swooping’ for McTominay after renewal talks ‘stall sharply’ – the latest",
-      "url": "https://sempremilan.com/milan-swooping-mctominay-renewal-talks-stall",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T10:00:00+00:00",
-      "summary": "AC Milan are eyeing up a move for Napoli star Scott McTominay, according to reports this morning. It’s another major move that could happen. It feels like Milan have taken a new step this season. In the summer, their recruitment was superb and they took a step away from signing gambles for the futur"
-    },
-    {
-      "id": "e48c6b684be2",
-      "title": "GdS: The ‘hero of two worlds’ – why Pulisic remains a decisive force for club and country",
-      "url": "https://sempremilan.com/pulisic-remains-decisive-force-club-country",
-      "source": "sempremilan.com",
-      "date": "2026-11-19T09:30:00+00:00",
-      "summary": "If anyone from AC Milan was awake to watch America’s second game against Haiti, they’d have been delighted with what they saw. It’s been a season of confirmation for Christian Pulisic so far. He’s recently signed his renewal, confirming his long-term future with the club. More importantly, though, h"
     },
     {
       "id": "b4586db39ccc",
@@ -448,38 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-11-16T12:17:02+00:00",
       "summary": "Inter coach Cristian Chivu won the Panchina d’Oro award in Coverciano for the best Serie..."
-    },
-    {
-      "id": "e5508ab391e4",
-      "title": "Maignan injury concern for Milan after forced off for France",
-      "url": "https://football-italia.net/maignan-injury-concern-for-milan-france/",
-      "source": "football-italia.net",
-      "date": "2026-11-15T21:30:09+00:00",
-      "summary": "Milan are waiting for news from France after goalkeeper Mike Maignan was forced off at..."
-    },
-    {
-      "id": "e0cdb668a8e7",
-      "title": "Report Bruno Fernandes targeted by Milan along with Goncalo Inacio",
-      "url": "https://football-italia.net/bruno-fernandes-targeted-milan-goncalo-inacio/",
-      "source": "football-italia.net",
-      "date": "2026-11-15T18:10:45+00:00",
-      "summary": "Milan are reportedly pushing for more Portuguese players to join Ruben Amorim’s side, including Sporting..."
-    },
-    {
-      "id": "18d421b7e82a",
-      "title": "Origi confession of Milan struggle and Ibrahimovic row: ‘I take nothing personally’",
-      "url": "https://football-italia.net/origi-confession-milan-struggle-ibrahimovic/",
-      "source": "football-italia.net",
-      "date": "2026-11-15T16:44:59+00:00",
-      "summary": "Divock Origi reveals his unexpected life as a Harvard student, how it went wrong after..."
-    },
-    {
-      "id": "4ff2d2ca7635",
-      "title": "Dida: ‘Ronaldinho a showman and we are witnessing history here’",
-      "url": "https://football-italia.net/dida-ronaldinho-a-showman-witnessing-history/",
-      "source": "football-italia.net",
-      "date": "2026-11-15T16:22:36+00:00",
-      "summary": "Former Milan and Brazil goalkeeper Nelson Dida wanted to be there for Ronaldinho’s return to..."
     }
   ]
 }
