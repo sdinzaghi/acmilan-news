@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-11-21T00:35:57.287713+00:00",
+  "lastUpdated": "2026-11-21T07:58:26.865796+00:00",
   "articles": [
+    {
+      "id": "15f2483d261e",
+      "title": "La scelta. Il CorSport: \"Pavlovic, oggi la decisione definitiva\"",
+      "url": "https://www.milannews.it/rassegna-stampa/scelta-corsport-pavlovic-decisione-definitiva-636852",
+      "source": "milannews.it",
+      "date": "2026-11-21T07:48:58+00:00",
+      "summary": "In vista della sfida di domani contro il Frosinone Ruben Amorim deve fare i conti, ancora, con diverse defezioni e dubbi importanti."
+    },
+    {
+      "id": "c51eb082fe99",
+      "title": "Il calcio dalla A alla A. La Gazzetta: \"Amorim più paziente. Alvini spregiudicato\"",
+      "url": "https://www.milannews.it/rassegna-stampa/calcio-a-gazzetta-amorim-paziente-alvini-spregiudicato-636851",
+      "source": "milannews.it",
+      "date": "2026-11-21T07:36:47+00:00",
+      "summary": "Domani pomeriggio a San Siro il Milan ospiterà il Frosinone di Massimiliano Alvini, una delle sorprese più piacevoli di questo inizio di stagione."
+    },
+    {
+      "id": "7d5fe629a66a",
+      "title": "Il Milan osserva. Tuttosport: \"Bruno Fernandes al test Poch\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-osserva-tuttosport-bruno-fernandes-test-poch-636850",
+      "source": "milannews.it",
+      "date": "2026-11-21T07:24:14+00:00",
+      "summary": "Bruno Fernandes è uno dei nomi che il Milan starebbe seguendo in vista della prossima estate di calciomercato."
+    },
+    {
+      "id": "d8d8fa6b329a",
+      "title": "Il Milan ci pensa per giugno. Il CorSport: \"Occasione Bruno Fernandes\"",
+      "url": "https://www.milannews.it/rassegna-stampa/milan-pensa-giugno-corsport-occasione-bruno-fernandes-636849",
+      "source": "milannews.it",
+      "date": "2026-11-21T07:12:27+00:00",
+      "summary": "L'incontro di ieri a Casa Milan tra Gerry Cardinale e il board dirigenziale rossonero non è servito solo per dettare le linee guida in vista di gennaio, ma anche in vista della prossima estate, quando il Milan cercherà di dare ulter ..."
+    },
+    {
+      "id": "67a8f00544cf",
+      "title": "Cisse è ormai intoccabile: numeri da bomber e Amorim prepara il 4-2 fantasia",
+      "url": "https://www.milannews.it/primo-piano/cisse-ormai-intoccabile-numeri-bomber-amorim-prepara-4-2-fantasia-636848",
+      "source": "milannews.it",
+      "date": "2026-11-21T07:00:00+00:00",
+      "summary": "Il Milan riparte dal suo gioiellino: Alphadjo Cisse."
+    },
+    {
+      "id": "2f6ea99227e4",
+      "title": "Serie A, la situazione in classifica prima della 12^ giornata: 4 squadre in 5 punti",
+      "url": "https://www.milannews.it/news/serie-a-torna-campo-classifica-aggiornata-636842",
+      "source": "milannews.it",
+      "date": "2026-11-21T06:48:00+00:00",
+      "summary": "Dopo due settimane di pausa torna finalmente il campionato di Serie A. La giornata sarà aperta da Lazio-Lecce e Como-Cagliari che sabato alle 15:00 inaugureranno la 12^ giornata."
+    },
+    {
+      "id": "1bb88e12e436",
+      "title": "Serie A, oggi parte la 12^ giornata: il programma completo con date, orari e guida tv",
+      "url": "https://www.milannews.it/news/serie-a-12-giornata-programma-completo-date-orari-guida-tv-636841",
+      "source": "milannews.it",
+      "date": "2026-11-21T06:36:00+00:00",
+      "summary": "Dopo due settimane di pausa per le nazionali, questo weekend torna la Serie A con la 12^ giornata. Di seguito il programma completo."
+    },
+    {
+      "id": "b4e493ec06f3",
+      "title": "Conferenza stampa pre Milan-Frosinone: Amorim parlerà alle ore 14:00",
+      "url": "https://www.milannews.it/news/conferenza-stampa-pre-milan-frosinone-amorim-parlera-14-00-636840",
+      "source": "milannews.it",
+      "date": "2026-11-21T06:24:00+00:00",
+      "summary": "Dopo due settimane di stop a causa delle nazionali, oggi riparte la Serie A con la 12^ giornata. I rossoneri ospiteranno domani alle 18:00 il Frosinone di Alvini, una delle più grandi rivelazioni di questa Serie A."
+    },
+    {
+      "id": "63e8bfb4336b",
+      "title": "Milan, domani a San Siro arriva il Frosinone: tutte le info su dove seguire il match",
+      "url": "https://www.milannews.it/news/milan-domani-san-siro-arriva-frosinone-info-seguire-match-636832",
+      "source": "milannews.it",
+      "date": "2026-11-21T06:12:00+00:00",
+      "summary": "Dopo due settimane di fermo a causa della pausa nazionali, è tempo di tornare a pensare alla Serie A. Oggi, alle ore 15:00, Como-Cagliari e Lazio-Lecce daranno il via alla 12^ giornata."
+    },
+    {
+      "id": "3dc02404745d",
+      "title": "Vigilia di Milan-Frosinone, la probabile formazione rossonera: Maignan recuperato, Pavlovic da valutare",
+      "url": "https://www.milannews.it/news/probabile-formazione-636833",
+      "source": "milannews.it",
+      "date": "2026-11-21T06:00:00+00:00",
+      "summary": "Domani pomeriggio alle ore 18:00 i rossoneri ospiteranno il Frosinone di Alvini a San Siro nel match valido la 12^ giornata di Serie A."
+    },
     {
       "id": "24c37451b86a",
       "title": "Gonçalves: \"Ho aspettato di decidere sul mio futuro per l'eventualità di unirmi al Milan di Amorim\"",
@@ -80,86 +160,6 @@
       "source": "milannews.it",
       "date": "2026-11-20T22:20:53+00:00",
       "summary": "Dopo due settimane di attesa, domani torna finalmente la Serie A. Como-Cagliari e Lazio-Lecce apriranno alle ore 15:00 la 12^ giornata del campionato che fino a fine marzo, data della prossima pausa nazionali, non si fermerà più."
-    },
-    {
-      "id": "658d3aa62d4e",
-      "title": "Serie A: per la sfida all'Inter l'Atalanta recupera anche Gaetano",
-      "url": "https://www.milannews.it/news/serie-a-sfida-inter-atalanta-recupera-gaetano-636829",
-      "source": "milannews.it",
-      "date": "2026-11-20T22:10:00+00:00",
-      "summary": "(ANSA) - BERGAMO, 20 NOV - Dopo Raoul Bellanova e Giacomo Raspadori, l'Atalanta in vista della ripresa di campionato con l'Inter domenica a Bergamo recupera anche Gianluca Gaetano."
-    },
-    {
-      "id": "9f55c02c4f2c",
-      "title": "Dalla Spagna sono sicuri, a giugno Nico Paz torna al Real Madrid: al Como 80 milioni",
-      "url": "https://www.milannews.it/news/spagna-sicuri-giugno-nico-paz-torna-real-madrid-como-80-636830",
-      "source": "milannews.it",
-      "date": "2026-11-20T22:00:26+00:00",
-      "summary": "Nico Paz, protagonista dello scorso mercato estivo, è destinato a diventare tale anche la prossima estate."
-    },
-    {
-      "id": "e9a9e2bba31c",
-      "title": "Cisse, che numeri! Il confronto con i centrocampisti dei top 5 campionati europei è impressionante",
-      "url": "https://www.milannews.it/news/cisse-numeri-confronto-centrocampisti-top-5-campionati-europei-impressionante-636828",
-      "source": "milannews.it",
-      "date": "2026-11-20T21:50:52+00:00",
-      "summary": "La favola più bella e inaspettate della stagione rossonera fino a questo momento ha un nome ed un cognome ben preciso: Alphajdo Cisse."
-    },
-    {
-      "id": "9e2094b529bc",
-      "title": "Elezioni FIGC, Accardi non ha dubbi: \"Galliani tutta la vita\"",
-      "url": "https://www.milannews.it/news/elezioni-figc-accardi-dubbi-galliani-vita-636781",
-      "source": "milannews.it",
-      "date": "2026-11-20T21:40:03+00:00",
-      "summary": "Metà dicembre si avvicina e con essa anche la seconda elezione per il presidente della FIGC in questo 2026."
-    },
-    {
-      "id": "fb272fd0b5a0",
-      "title": "Capuano sicuro: “Dire Berlusconi 2.0 impegnativo, Silvio ha cambiato la storia del Milan e del calcio in Italia”",
-      "url": "https://www.milannews.it/news/capuano-sicuro-dire-berlusconi-2-0-impegnativo-silvio-cambiato-storia-milan-calcio-italia-636824",
-      "source": "milannews.it",
-      "date": "2026-11-20T21:30:18+00:00",
-      "summary": "Nel suo canale YouTube, il giornalista Giovanni Capuano ha commentato le parole rilasciate in queste due settimane di sosta dal proprietario del Milan Gerry Cardinale. Di seguito le sue parole."
-    },
-    {
-      "id": "bbc3703a4c40",
-      "title": "Messi, stipendio clamoroso: è il giocatore più pagato della Mls con quasi 30 milioni annui",
-      "url": "https://www.milannews.it/news/calcio-messi-giocatore-pagato-mls-30-annui-636767",
-      "source": "milannews.it",
-      "date": "2026-11-20T21:20:36+00:00",
-      "summary": "(ANSA) - ROMA, 20 NOV - Lionel Messi rimane il giocatore più pagato del campionato della Mls, secondo i dati pubblicati dal sindacato dei giocatori."
-    },
-    {
-      "id": "2900302ca510",
-      "title": "Di Marzio svela: “Milan sulle tracce di Da Silva, talento svedese paragonato a Van Dijk”",
-      "url": "https://www.milannews.it/calciomercato-milan/marzio-svela-milan-tracce-silva-talento-svedese-paragonato-van-dijk-636838",
-      "source": "milannews.it",
-      "date": "2026-11-20T21:10:02+00:00",
-      "summary": "Nel suo profilo X, l'esperto di calciomercato di Sky Gianluca di Marzio ha parlato di un nuovo possibile nome che il Milan avrebbe attenzionato per il mercato di gennaio. Di seguito lo sue parole."
-    },
-    {
-      "id": "139d05605110",
-      "title": "Serie C, fascia da capitano rossa per dire no alla violenza sulle donne",
-      "url": "https://www.milannews.it/news/serie-c-fascia-capitano-rossa-violenza-donne-636814",
-      "source": "milannews.it",
-      "date": "2026-11-20T21:00:00+00:00",
-      "summary": "(ANSA) - ROMA, 20 NOV - La Serie C scende in campo per dire 'No' alla violenza sulle donne, colorandosi di rosso grazie alle fasce da capitano speciali che verranno indossate per la quarta stagione consecutiva da tutti i club nella 15ª g ..."
-    },
-    {
-      "id": "6ff4a8dc4aa7",
-      "title": "Romano conferma: “Camarda sarà ceduto, opzione estero valida. Arriverà un’altro attaccante”",
-      "url": "https://www.milannews.it/calciomercato-milan/romano-conferma-camarda-ceduto-opzione-estero-valida-arrivera-un-altro-attaccante-636837",
-      "source": "milannews.it",
-      "date": "2026-11-20T20:50:10+00:00",
-      "summary": "Nel suo canale YouTube, l'esperto di calciomercato Fabrizio Romano ha parlato del mercato del Milan di gennaio. Di seguito le sue parole."
-    },
-    {
-      "id": "3eea9d7dcbca",
-      "title": "Romano: “Arrivo di Krosche assodato, il Milan inizia a pensare al mercato a partire dal difensore”",
-      "url": "https://www.milannews.it/calciomercato-milan/romano-arrivo-krosche-assodato-milan-inizia-pensare-mercato-partire-difensore-636836",
-      "source": "milannews.it",
-      "date": "2026-11-20T20:40:00+00:00",
-      "summary": "Nel suo canale YouTube, l'esperto di calciomercato Fabrizio Romano ha parlato del mercato del Milan di gennaio. Di seguito le sue parole."
     },
     {
       "id": "8ebf42224b6d",
