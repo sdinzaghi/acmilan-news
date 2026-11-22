@@ -1,21 +1,365 @@
 {
-  "lastUpdated": "2026-11-22T09:21:05.349710+00:00",
+  "lastUpdated": "2026-11-22T17:37:00.277732+00:00",
   "articles": [
     {
-      "id": "0a84fd6176cc",
-      "title": "Google \"Fonti preferite\", aggiungi subito MilanNews e personalizza le tue notizie",
-      "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-milannews-personalizza-notizie-636943",
-      "source": "milannews.it",
-      "date": "2026-11-22T09:11:33+00:00",
-      "summary": "Google ha introdotto una nuova funzione destinata a cambiare il modo in cui leggiamo le notizie: si chiama \"Fonti preferite\" e permette di scegliere direttamente quali siti far comparire più spesso nei risultati."
+      "id": "cc5b4d1ca2fc",
+      "title": "Watch: Goncalo Ramos puts Milan 2-0 up vs. Frosinone after lightning counter",
+      "url": "https://sempremilan.com/goncalo-ramos-goal-frosinone-2-0",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T17:32:44+00:00",
+      "summary": "AC Milan doubled their advantage against Frosinone midway through the second half as Goncalo Ramos got a much-needed goal. Just like with the first goal, Milan punished Frosinone for not making the most of their spell of pressure. Goncalo Ramos was the man who started and finished a flowing counter-"
     },
     {
-      "id": "0dbbd8fa277d",
-      "title": "Pulisic e Rabiot, gli insostituibili di Amorim. E il Milan preme per il rinnovo del francese",
-      "url": "https://www.milannews.it/primo-piano/pulisic-rabiot-insostituibili-amorim-milan-preme-rinnovo-francese-636945",
+      "id": "f1329bc1fb8f",
+      "title": "Report: Juventus, Milan and Napoli on alert as Chelsea open door to Palestra exit",
+      "url": "https://football-italia.net/juventus-milan-napoli-alert-chelsea-palestra/",
+      "source": "football-italia.net",
+      "date": "2026-11-22T17:31:28+00:00",
+      "summary": "Chelsea are prepared to let Marco Palestra leave as Xabi Alonso pushes to sign Jules..."
+    },
+    {
+      "id": "9c83215a8136",
+      "title": "MIL-FRO (2-1): Masini accorcia le distanze...",
+      "url": "https://www.milannews.it/primo-piano/mil-fro-0-0-inizio-match-636986",
       "source": "milannews.it",
-      "date": "2026-11-22T09:00:00+00:00",
-      "summary": "Quante volte si sente un allenatore dire: \"Non voglio parlare dei singoli\", ma poi - inevitabilmente - si finisce col sottolineare come alcuni calciatori riescano ad avere un impatto decisamente più grande rispetto agli altri? Vuoi p ..."
+      "date": "2026-11-22T17:28:09+00:00",
+      "summary": "25' GOL DEL FROSINONE!!! Ghedjemis appoggia per Masini che in scivolata beffa Maignan in uscita bassa."
+    },
+    {
+      "id": "bb04d4d3d3e7",
+      "title": "MIL-FRO (2-1): il Frosinone accorcia le distanze con Masini",
+      "url": "https://www.milannews.it/news/mil-fro-2-1-frosinone-accorcia-distanze-masini-637005",
+      "source": "milannews.it",
+      "date": "2026-11-22T17:26:55+00:00",
+      "summary": "MILAN-FROSINONE 2-1, 25' GOL MASINI. Il Frosinone non è domo e accorcia le distanze al 25°: partita apertissima e frizzante."
+    },
+    {
+      "id": "215f3f7ca43c",
+      "title": "MN - Milan-Frosinone, il dato sulle presenze a San Siro: 76585 biglietti venduti",
+      "url": "https://www.milannews.it/news/mn-milan-frosinone-dato-presenze-san-siro-76585-biglietti-venduti-637001",
+      "source": "milannews.it",
+      "date": "2026-11-22T17:24:08+00:00",
+      "summary": "Il Milan ha comunicato il dato definitivo degli spettatori presenti questa sera a San Siro per la gara contro il Frosinone, valida per la 12^ giornata del campionato di Serie A Enilve: sono stati venduti 76.585 biglietti, abbonamenti compresi."
+    },
+    {
+      "id": "7f2cca99ce95",
+      "title": "Venite presto allo stadio: è la quarta partita di fila che il Milan segna due gol nei primi 30 minuti",
+      "url": "https://www.milannews.it/news/venite-presto-stadio-quarta-partita-fila-milan-segna-gol-primi-30-minuti-637003",
+      "source": "milannews.it",
+      "date": "2026-11-22T17:23:09+00:00",
+      "summary": "È la quarta partita di fila in campionato con due gol nella prima mezz’ora per il Milan di Amorim\n."
+    },
+    {
+      "id": "535b3e821798",
+      "title": "MIL-FRO (2-0): eccolo! Il gol del Pistolero Ramos: raddoppio!",
+      "url": "https://www.milannews.it/news/mil-fro-2-0-eccolo-gol-pistolero-ramos-raddoppio-637002",
+      "source": "milannews.it",
+      "date": "2026-11-22T17:20:53+00:00",
+      "summary": "MILAN-FROSINONE, 19' GOL RAMOS. Un grande Milan negli spazi e nella gestione palla, trova il raddoppio con Gonçalo Ramos."
+    },
+    {
+      "id": "c595dca1cc04",
+      "title": "Watch: Own-goal by Calvani gives Milan anearly lead against Frosinone",
+      "url": "https://sempremilan.com/own-goal-by-calvani-milan-frosinone",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T17:15:46+00:00",
+      "summary": "AC Milan got themselves in front early on in Sunday evening’s game at San Siro, and it was thanks to some generosity from their visitors. Frosinone actually started the game better and they hit the frame of the good with a deflected shot inside the opening exchanges. However, it was Milan who struck"
+    },
+    {
+      "id": "1cef16eb5cb3",
+      "title": "Amorim: \"Ramos non segna? Rabiot può farlo, Pulisic, Moreira...\"",
+      "url": "https://www.milannews.it/news/amorim-ramos-segna-rabiot-farlo-pulisic-moreira-636996",
+      "source": "milannews.it",
+      "date": "2026-11-22T17:12:30+00:00",
+      "summary": "Un estratto delle dichiarazioni di Ruben Amorim, tecnico del Milan, nel prepartita della sfida contro il Frosinone a San Siro ai microfoni di Dazn."
+    },
+    {
+      "id": "9eb8d646b53e",
+      "title": "MIL-FRO (1-0): Modric illumina, Rabiot devastante: Diavolo in vantaggio!",
+      "url": "https://www.milannews.it/news/mil-fro-1-0-modric-illumina-rabiot-devastante-diavolo-vantaggio-637000",
+      "source": "milannews.it",
+      "date": "2026-11-22T17:05:11+00:00",
+      "summary": "MILAN-FROSINONE 1-0, 4' AUTOGOL CALVANI."
+    },
+    {
+      "id": "bd3b0782d8f2",
+      "title": "MN - Cori per Franco Baresi da parte della curva: \"Il capitano, c’è solo il capitano”",
+      "url": "https://www.milannews.it/news/mn-cori-franco-baresi-curva-il-capitano-c-e-capitano-636998",
+      "source": "milannews.it",
+      "date": "2026-11-22T17:00:48+00:00",
+      "summary": "A pochi minuti dal fischio di inizio di Milan-Frosinone, sfida valida per la 12esima giornata del campionato di Serie A Enilive, c'è stato un momento dedicato a Fondazione Milan, al quale hanno partecipato non solo Daniele Massaro, ma anch ..."
+    },
+    {
+      "id": "7913885b54a6",
+      "title": "Serie A Liveblog: Juventus-Venezia, Milan-Frosinone, Atalanta-Inter and more",
+      "url": "https://football-italia.net/serie-a-live-juventus-ven-milan-fro-ata-inter/",
+      "source": "football-italia.net",
+      "date": "2026-11-22T16:57:00+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "c0dcb9135f54",
+      "title": "Alvini explains Frosinone transformation for Milan with False 9",
+      "url": "https://football-italia.net/alvini-explains-frosinone-transformation-milan/",
+      "source": "football-italia.net",
+      "date": "2026-11-22T16:54:57+00:00",
+      "summary": "Frosinone coach Massimiliano Alvini explains his surprising transformation to take on Ruben Amorim’s Milan. ‘It..."
+    },
+    {
+      "id": "583f94aa055d",
+      "title": "Bartesaghi a Dazn: \"Cerco sempre di farmi trovare pronto. Sto bene\"",
+      "url": "https://www.milannews.it/news/bartesaghi-dazn-cerco-farmi-trovare-pronto-bene-636997",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:50:00+00:00",
+      "summary": "L'intervento di Davide Bartesaghi, difensore del Milan, nel prepartita di Dazn a pochi minuti della sfida contro il Frosinone."
+    },
+    {
+      "id": "424c8a3c4469",
+      "title": "Bartesaghi fully focused on Frosinone amid ‘important’ month: “One game at a time”",
+      "url": "https://sempremilan.com/bartesaghi-focused-frosinone-important-month",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T16:46:35+00:00",
+      "summary": "Ahead of AC Milan’s clash against Frosinone this evening, Davide Bartesaghi spoke to the media as he’s back playing from start. After bagging two consecutive wins before the international break, Milan’s goal is to make it three tonight for the first time this season. While the Rossoneri are the favo"
+    },
+    {
+      "id": "be27f255fd3b",
+      "title": "Frosinone, Alvini: \"Consapevoli che davanti c'è una squadra forte: non siamo qua per lo stadio\"",
+      "url": "https://www.milannews.it/news/frosinone-alvini-consapevoli-squadra-forte-stadio-636995",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:40:00+00:00",
+      "summary": "Massimiliano Alvini, allenatore del Frosinone, è intervenuto nel pre partita della sfida di San Siro contro il Milan ai microfoni di Dazn. Le sue dichiarazioni."
+    },
+    {
+      "id": "2325e01365e1",
+      "title": "Pulisic è pronto: l'americano si è ripreso la Nazionale, ora la conferma col Milan",
+      "url": "https://www.milannews.it/news/pulisic-pronto-americano-ripreso-nazionale-conferma-milan-636969",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:36:00+00:00",
+      "summary": "Chris Pulisic contro il Frosinone aveva già segnato, nell'ultimo incontro a San Siro nell'inverno del 2023 terminato 3-1 in favore della squadra allenata, in quel momento da Stefano Pioli."
+    },
+    {
+      "id": "43249f91d145",
+      "title": "Amorim: ‘Frosinone strange decisions, so much knowledge in Serie A’",
+      "url": "https://football-italia.net/amorim-frosinone-strange-decisions-knowledge/",
+      "source": "football-italia.net",
+      "date": "2026-11-22T16:35:52+00:00",
+      "summary": "Ruben Amorim admits Serie A is educational for him, as he is stunned by Frosinone’s..."
+    },
+    {
+      "id": "a06fad0478ff",
+      "title": "Amorim comments on Cardinale’s ‘important’ presence and ‘very difficult’ opponent Frosinone",
+      "url": "https://sempremilan.com/amorim-cardinale-presence-difficult-opponent-frosinone",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T16:35:37+00:00",
+      "summary": "AC Milan head coach Ruben Amorim has spoken about Gerry Cardinale’s presence, as well as the challenge Frosinone will present. Milan are hoping to jump back into the top four by beating Frosinone, after Como overtook them with their win on Saturday. However, it will not be a straightforward task aga"
+    },
+    {
+      "id": "26c4dc74f7b4",
+      "title": "Bartesaghi a Sky: \"Questo mese è importante, ma iniziamo a pensare a stasera\"",
+      "url": "https://www.milannews.it/news/bartesaghi-sky-questo-mese-importante-iniziamo-pensare-stasera-636992",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:34:36+00:00",
+      "summary": "Davide Bartesaghi è intervenuto a Sky nel pre-partita di Milan-Frosinone e ha rilasciato queste dichiarazioni: \"Questo mese è importante, lo sappiamo, ma cerchiamo di pensare partita dopo partita."
+    },
+    {
+      "id": "6ee050f91d22",
+      "title": "Amorim a Dazn: \"Contano i principi della squadra: tutti possono fare gol\"",
+      "url": "https://www.milannews.it/primo-piano/amorim-dazn-contano-principi-squadra-possono-gol-636991",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:30:30+00:00",
+      "summary": "Il Milan tra pochi minuti tornerà di scena in Serie A, dopo la sosta per le Nazionali, in occasione della dodicesima giornata del campionato."
+    },
+    {
+      "id": "ecc829d94dca",
+      "title": "Amorim: \"Dobbiamo vincere. Oggi dobbiamo prestare attenzione\"",
+      "url": "https://www.milannews.it/primo-piano/amorim-dobbiamo-vincere-dobbiamo-prestare-attenzione-636990",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:25:55+00:00",
+      "summary": "Nel pre partita di Milan-Frosinone, sfida valida per la 12esima giornata del campionato di Serie A Enilive, Ruben Amoirm ha parlato ai microfoni dei colleghi di Sky Sport per presentare la sfida contro i ciociari. Di seguito le sue dichiarazioni."
+    },
+    {
+      "id": "93dbbf789ea5",
+      "title": "Frosinone, tutti i numeri verso la sfida contro il Milan: un dato preoccupa i rossoneri",
+      "url": "https://www.milannews.it/l-avversario/frosinone-numeri-sfida-milan-dato-preoccupa-rossoneri-636965",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:24:00+00:00",
+      "summary": "Manca poco per Milan-Frosinone, in programma stasera a San Siro alle 18.00."
+    },
+    {
+      "id": "698fb78e3898",
+      "title": "Frosinone, Alvini: \"C'è da fare la partita nel miglior modo possibile. Siamo qui per determinare\"",
+      "url": "https://www.milannews.it/l-avversario/frosinone-alvini-c-partita-miglior-possibile-determinare-636989",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:20:35+00:00",
+      "summary": "Nel pre partita di Milan-Frosinone, sfida valida per la 12esima giornata di Serie A Enilive, Massimiliano Alvini è intervenuto ai microfoni dei colleghi di Sky Sport per presentare la sfida contro il Diavolo. Di seguito le sue dichiarazioni."
+    },
+    {
+      "id": "11a25ab9b025",
+      "title": "MN - Kjaer a San Siro per Milan-Frosinone: colloquio con Cardinale",
+      "url": "https://www.milannews.it/news/mn-kjaer-san-siro-milan-frosinone-colloquio-cardinale-636988",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:15:32+00:00",
+      "summary": "Un gradito, graditissimo, ritorno oggi a San Siro in occasione di Milan-Frosinone: sugli spalti infatti c'è Simon Kjaer, colonna difensiva della squadra rossonera di Stefano Pioli, protagonista soprattutto nella stagione del rito ..."
+    },
+    {
+      "id": "36c5d2e71f29",
+      "title": "AC Milan vs. Frosinone: Live updates and commentary from the Serie A clash",
+      "url": "https://sempremilan.com/ac-milan-frosinone-live-updates-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T16:15:00+00:00",
+      "summary": "{rsn-live-v2}\nThe post AC Milan vs. Frosinone: Live updates and commentary from the Serie A clash appeared first on SempreMilan."
+    },
+    {
+      "id": "a639f2ff5ef9",
+      "title": "Europa League, anche l'Olympiacos (prossimo avversario del Milan) in campo alle 18.00",
+      "url": "https://www.milannews.it/l-avversario/europa-league-olympiacos-prossimo-avversario-milan-campo-18-00-636975",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:12:00+00:00",
+      "summary": "Come per il Milan, in campo tra poche ore contro il Frosinone alle 18.00, anche il prossimo avversario dei rossoneri in Europa League, l'ostico e temibile Olympiacos scenderà in campo in Super League greca contro l'Iraklis."
+    },
+    {
+      "id": "438559fad18c",
+      "title": "Crolla il Sassuolo, vola il Genoa: pari e patta tra Bologna e Udinese",
+      "url": "https://www.milannews.it/news/crolla-sassuolo-vola-genoa-pari-patta-bologna-udinese-636987",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:09:11+00:00",
+      "summary": "Nelle due partite delle ore 15 della dodicesima giornata di Serie A Enilive, la scena se la prende completamente il Genoa che a Reggio Emilia vince contro il Sassuolo per 0-2, trascinato dal solito Osmajic protagoni ..."
+    },
+    {
+      "id": "a16a2047e37f",
+      "title": "Milan Futuro 3-0 Tritium: Asanji bags a brace to secure fourth win on the spin",
+      "url": "https://sempremilan.com/milan-futuro-3-0-tritium-report-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T16:04:20+00:00",
+      "summary": "Milan Futuro kept up their excellent recent form by sweeping aside Tritium 3-0, continuing their push towards the top. The Futuro came into the game in good form, having won three on the spin. A thrilling 3-2 victory over Virtus Verona was followed by a 2-1 victory against Piacenza in the reschedule"
+    },
+    {
+      "id": "30086466706d",
+      "title": "Ramos voglia di gol: l'ultima rete a San Siro è stata più di un mese fa",
+      "url": "https://www.milannews.it/news/ramos-voglia-gol-ultima-rete-san-siro-mese-636971",
+      "source": "milannews.it",
+      "date": "2026-11-22T16:00:00+00:00",
+      "summary": "L'attaccante portoghese ha voglia di tornare ad essere decisivo in campionato, ma non solo con assist. Bella prova, generosa contro il Genoa ma a questo Milan servono anche i gol del proprio numero nove."
+    },
+    {
+      "id": "7477f767b6eb",
+      "title": "Serie A official line-ups: Milan vs. Frosinone",
+      "url": "https://football-italia.net/serie-a-official-line-ups-milan-vs-frosinone/",
+      "source": "football-italia.net",
+      "date": "2026-11-22T15:52:26+00:00",
+      "summary": "Milan rely on Goncalo Ramos, Christian Pulisic, Diego Moreira and Luka Modric as they host..."
+    },
+    {
+      "id": "50f26be42dc8",
+      "title": "Official: Starting XIs for AC Milan vs. Frosinone – one change from Genoa win",
+      "url": "https://sempremilan.com/official-starting-xis-milan-frosinone-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T15:50:03+00:00",
+      "summary": "AC Milan head coach Ruben Amorim has named his starting line-up for the Sunday evening San Siro clash with Frosinone. Milan went into the international break inside the top four, but Como’s win on Saturday has pushed them back out, so there is some added pressure tonight. It will not be an easy game"
+    },
+    {
+      "id": "40f0fa8eeefb",
+      "title": "CM: Fofana continues to shine with Sevilla – Milan’s plan ahead of next summer",
+      "url": "https://sempremilan.com/fofana-sevilla-milan-plan-next-summer",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T15:00:00+00:00",
+      "summary": "Youssouf Fofana continues to impress with Sevilla, and AC Milan are already thinking about what to do ahead of next summer. As Calciomercato.com write, Fofana put in a solid performance in Saturday’s Seville derby at the Estadio Ramón Sánchez-Pizjuán, which finished 1-1. He was positioned alongside "
+    },
+    {
+      "id": "e0341a530cf0",
+      "title": "Bruno Fernandes boosts Milan’s hopes with update on Man Utd talks: “No negotiations ongoing”",
+      "url": "https://sempremilan.com/bruno-fernandes-boosts-milan-hopes",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T14:30:00+00:00",
+      "summary": "Bruno Fernandes has provided an update on his contract situation with Manchester United, as AC Milan watch on closely. During an interview with Sky Sports, Fernandes admitted that Manchester United have offered him a new deal, with his current one expiring at the end of the season. However, he has p"
+    },
+    {
+      "id": "f39cf08e83a0",
+      "title": "Unbeaten record on the line: All the key stats ahead of Milan vs. Frosinone",
+      "url": "https://sempremilan.com/all-key-stats-milan-frosinone-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T14:00:00+00:00",
+      "summary": "AC Milan and Frosinone will meet for the only the seventh time this evening at San Siro, with a dominant record to try uphold. The Rossoneri have certainly enjoyed a better run of things in this fixture, with four wins and two draws so far. They have won the last three as well, spread across […]\nThe"
+    },
+    {
+      "id": "7242e5e5e0e5",
+      "title": "TMW: A ‘try-out’ at San Siro – Milan to watch Frosinone star up close amid interest",
+      "url": "https://sempremilan.com/milan-watch-frosinone-calvani-up-close",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T13:30:00+00:00",
+      "summary": "Gabriele Calvani is expected to start for Frosinone against AC Milan at San Siro, and it could be an audition of sorts. TMW report that the game will be a chance for Calvani to show off his qualities, especially in front of those who are following him closely in view of the winter. Milan’s managemen"
+    },
+    {
+      "id": "1d6b37df46b0",
+      "title": "Lazio 0-1 Milan Primavera: Rossoneri into play-off spots with fourth straight win",
+      "url": "https://sempremilan.com/lazio-0-1-milan-primavera-report-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T13:00:00+00:00",
+      "summary": "Milan Primavera have begun to build some real momentum, as they recorded another win over Lazio in Sunday’s early kick-off. Before the November international break, the Primavera managed to build on their mid-week cup win with a strong performance against Monza, winning 5-0 away from home. Max Anast"
+    },
+    {
+      "id": "e6708fc7541d",
+      "title": "GdS: ‘If not the best’ – Cardinale accelerates by publicly declaring Milan’s Endrick admiration",
+      "url": "https://sempremilan.com/cardinale-accelerates-endrick-interest-real-madrid",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T12:30:00+00:00",
+      "summary": "A rather significant step was taken on Saturday, as Gerry Cardinale publicly declared AC Milan’s interest in signing Endrick. La Gazzetta dello Sport have revealed that Cardinale spent six hours at Milanello yesterday, after four at Casa Milan. The owner fully immersed himself in the Milan world aga"
+    },
+    {
+      "id": "eeb49f295338",
+      "title": "A potential audition and the scorers from midfield: The five key battles in Milan vs. Frosinone",
+      "url": "https://sempremilan.com/five-key-battles-milan-frosinone-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T12:00:00+00:00",
+      "summary": "AC Milan resume their Serie A campaign after the final international break on 2026 by welcoming Frosinone to San Siro. Ruben Amorim’s side are in need of a win to climb back into the top four after Como’s result on Saturday, while Roma and Lazio also picked up victories. They face a Frosinone team w"
+    },
+    {
+      "id": "b37151702739",
+      "title": "CM: Adidas want to launch €500m Milan era with a big-name signing – the candidates",
+      "url": "https://sempremilan.com/adidas-500m-milan-big-signing-candidates",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T11:30:00+00:00",
+      "summary": "AC Milan and Adidas will be back together again from 2028, and the German brand want to launch the new era with a bi bang. As Calciomercato.com write, Milan will return to being an Adidas club again, as they have been for three previous spells. The two brands became so closely linked above all by […"
+    },
+    {
+      "id": "6d728d748784",
+      "title": "GdS: Predicted XIs for Milan vs. Frosinone – strong attack but no room for Cisse",
+      "url": "https://sempremilan.com/predicted-xis-milan-frosinone-strong-attack",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T11:00:00+00:00",
+      "summary": "AC Milan head coach Ruben Amorim has settled on the team that will face Frosinone this evening at San Siro, a report claims. Milan’s aim is to pick back up where they left off before the break, i.e. to follow up the win over Genoa by beating Frosinone. It will not be straightforward though, given […"
+    },
+    {
+      "id": "04fce4a1e815",
+      "title": "MN: Cardinale working on second renewal as Amorim picks Milan’s two ‘irreplaceables’",
+      "url": "https://sempremilan.com/cardinale-rabiot-renewal-amorim-pulisic-irreplaceable",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T10:30:00+00:00",
+      "summary": "Ruben Amorim is not a coach who makes a habit of singling out individuals, but he made an exception in Saturday’s press conference. As MilanNews recall, on the eve of the game against Frosinone, Amorim bluntly admitted that Christian Pulisic and Adrien Rabiot are the ‘irreplaceable’ players in the c"
+    },
+    {
+      "id": "278b858f41e1",
+      "title": "Moretto: Cagliari talent could emerge in Camarda talks with Milan’s interest confirmed",
+      "url": "https://sempremilan.com/mendy-camarda-talks-milan-interest-confirmed",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T10:00:00+00:00",
+      "summary": "It has been confirmed by a reliable source that Paul Mendy is someone AC Milan are watching closely. In the past few days, the idea of Francesco Camarda leaving on loan in January has turned from a suggestion into something that seems like a concrete possibility. Given his talent, there has already "
+    },
+    {
+      "id": "7ba083c3df7d",
+      "title": "Serie A: Milan vs. Frosinone – probable line-ups, where to watch on TV",
+      "url": "https://football-italia.net/serie-a-milan-v-frosinone-probable-line-ups-tv/",
+      "source": "football-italia.net",
+      "date": "2026-11-22T09:35:02+00:00",
+      "summary": "Milan will look to Gonçalo Ramos, Christian Pulisic and Adrien Rabiot in a tricky Serie..."
+    },
+    {
+      "id": "f874b96ab58c",
+      "title": "GdS: Wins, consistency and goals for Ramos – the next steps Amorim wants Milan to take",
+      "url": "https://sempremilan.com/next-steps-amorim-wants-milan-to-take",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T09:30:00+00:00",
+      "summary": "Ruben Amorim wants to see more from his AC Milan side, starting this evening against Frosinone, and he believes they are capable. As La Gazzetta dello Sport (seen below) report, the aim for today’s match is to ensure the break didn’t disrupt the momentum, ashat happened following the September-Octob"
     },
     {
       "id": "8f172478be7c",
@@ -26,212 +370,12 @@
       "summary": "AC Milan return to Serie A action this evening as they welcome Frosinone to San Siro, hoping to build off the Genoa win before the break. Wins for Como, Lazio and Roma on Saturday have added pressure for Milan to keep pace with the other contenders around and above them, and it will not be […]\nThe p"
     },
     {
-      "id": "a5030d2a6b04",
-      "title": "Milan-Frosinone, Sky o DAZN? Orario e diretta TV della sfida di San Siro",
-      "url": "https://www.milannews.it/news/milan-frosinone-sky-dazn-orario-diretta-tv-sfida-san-siro-636935",
-      "source": "milannews.it",
-      "date": "2026-11-22T08:48:22+00:00",
-      "summary": "Queste tutte le info per i tifosi su Milan-Frosinone di questo pomeriggio a San Siro."
-    },
-    {
-      "id": "0604473a9713",
-      "title": "Le reazioni di Amorim, Gattuso e Fabregas all'uscita di GTA VI",
-      "url": "https://www.milannews.it/news/reazioni-amorim-gattuso-fabregas-uscita-gta-636942",
-      "source": "milannews.it",
-      "date": "2026-11-22T08:35:34+00:00",
-      "summary": "Cosa c'entra un videogame con il calcio? C'entra eccome. Intanto quello di GTA VI è un fenomeno mediatico assoluto e difficilmente ripetibile: in 24 ore ha fatto registrare 32."
-    },
-    {
-      "id": "4381fe5658ec",
-      "title": "Cagliari, Pisacane verso il Milan: \"Adopo ha preso una botta all'altezza della testa del perone, ma la situazione che mi preoccupa maggiormente è quella di Mendy\"",
-      "url": "https://www.milannews.it/l-avversario/cagliari-pisacane-milan-adopo-preso-botta-altezza-testa-perone-situazione-preoccupa-maggiormente-men-636937",
-      "source": "milannews.it",
-      "date": "2026-11-22T08:23:56+00:00",
-      "summary": "Oggi c'è Milan-Frosinone e tutte le energie sono concentrate ovviamente sulla gara di San Siro, ma tra una settimana - lunedì 30 novembre - i rossoneri saranno in Sardegna per affrontare il Cagliari."
-    },
-    {
-      "id": "9ae4035cab4b",
-      "title": "Fondazione Milan, Amorim entusiasta: \"Le nostre porte sono sempre aperte per accogliere questi ragazzi\"",
-      "url": "https://www.milannews.it/news/fondazione-milan-amorim-entusiasta-le-porte-aperte-accogliere-ragazzi-636940",
-      "source": "milannews.it",
-      "date": "2026-11-22T08:11:27+00:00",
-      "summary": "Durante la conferenza stampa alla vigilia di Milan-Frosinone, Ruben Amorim si è preso del tempo per sottolineare l'importanza di Fondazione Milan all'interno, e non solo, del mondo rossonero."
-    },
-    {
-      "id": "d997949314c3",
-      "title": "Capello: \"Oggi mi aspetto che il Milan faccia il Milan e questa è la gara giusta per dimostrare di essere all’altezza\"",
-      "url": "https://www.milannews.it/news/capello-oggi-aspetto-milan-milan-gara-giusta-dimostrare-all-altezza-636941",
-      "source": "milannews.it",
-      "date": "2026-11-22T07:59:48+00:00",
-      "summary": "Questo pomeriggio, ore 18.00, il Milan accoglie il Frosinone di Alvini a San Siro."
-    },
-    {
-      "id": "bd7a87bb216e",
-      "title": "Frosinone, i convocati per la sfida di San Siro con il Milan. Alvini recupera alcune pedine",
-      "url": "https://www.milannews.it/l-avversario/frosinone-convocati-sfida-san-siro-milan-alvini-recupera-alcune-pedine-636934",
-      "source": "milannews.it",
-      "date": "2026-11-22T07:49:27+00:00",
-      "summary": "Il Frosinone, avversario del Milan a San Siro nella dodicesima giornata di campionato, ha diramato la lista dei convocati."
-    },
-    {
-      "id": "3522bba0a7d1",
-      "title": "Milan-Frosinone, la telecronaca di Sky affidata a Borghi. Un ex rossonero al commento tecnico",
-      "url": "https://www.milannews.it/news/milan-frosinone-telecronaca-sky-affidata-borghi-rossonero-commento-tecnico-636936",
-      "source": "milannews.it",
-      "date": "2026-11-22T07:35:04+00:00",
-      "summary": "Milan-Frosinone di oggi alle 18.00 sarà una delle tre gare del turno di Serie A trasmesse anche da Sky, oltre che da DAZN."
-    },
-    {
-      "id": "501a0f8c87cd",
-      "title": "La Gazzetta in prima pagina: \"Cardinale chiama Endrick\"",
-      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-pagina-cardinale-chiama-endrick-636933",
-      "source": "milannews.it",
-      "date": "2026-11-22T07:23:22+00:00",
-      "summary": "L'edizione odierna della Gazzetta dello Sport, domenica 22 novembre, in apertura riporta le dichiarazioni di Cardinale, con il numero uno di RedBird che ieri pomeriggio si è fermato fuori da Milanello con i giornalisti presenti, rispondend ..."
-    },
-    {
-      "id": "01c2493c2263",
-      "title": "PROBABILE FORMAZIONE - Verso Milan-Frosinone: Pavlovic c'è, Bartesaghi in vantaggio",
-      "url": "https://www.milannews.it/news/probabile-formazione-milan-frosinone-amorim-rabiot-pulisic-modric-gila-636641",
-      "source": "milannews.it",
-      "date": "2026-11-22T07:21:00+00:00",
-      "summary": "Dopo la seconda sosta stagionale, l'ultima del 2026, il Milan di Ruben Amorim torna a tuffarsi sul campionato."
-    },
-    {
-      "id": "62e5ddbfafc7",
-      "title": "Milan-Frosinone, Amorim avverte tutti: \"Sono i più veloci!\". E Cardinale lo supporta",
-      "url": "https://www.milannews.it/primo-piano/milan-frosinone-amorim-avverte-tutti-sono-veloci-cardinale-supporta-636932",
-      "source": "milannews.it",
-      "date": "2026-11-22T07:11:11+00:00",
-      "summary": "È stata una vigilia serena, quella di Milan-Frosinone a Milanello. Ma serena non vuol dire necessariamente rilassata."
-    },
-    {
-      "id": "35409bd760be",
-      "title": "Milan-Frosinone, quote marcatore",
-      "url": "https://www.milannews.it/scommesse/pronostici/milan-frosinone-quote-marcatore-636715",
-      "source": "milannews.it",
-      "date": "2026-11-22T07:05:10+00:00",
-      "summary": "Archiviata la sosta per le nazionali, il Milan si prepara a tornare in campo con l'obiettivo di dare continuità ai risultati e alle buone prestazioni mostrate prima della pausa."
-    },
-    {
-      "id": "ce9f8fed1bd2",
-      "title": "Fischietto a Pairetto per Milan-Frosinone, al Var il sig. Pezzuto",
-      "url": "https://www.milannews.it/news/fischietto-pairetto-milan-frosinone-var-sig-pezzuto-636931",
-      "source": "milannews.it",
-      "date": "2026-11-22T06:48:00+00:00",
-      "summary": "Questa sera alle 18:00 i rossoneri ospiteranno il Frosinone di Alvini a San Siro per il match valido la 12^ giornata di Serie A."
-    },
-    {
-      "id": "9728df2e98c4",
-      "title": "Serie A, la classifica aggiornata in attesa delle gare di oggi",
-      "url": "https://www.milannews.it/news/serie-a-classifica-aggiornata-gare-636930",
-      "source": "milannews.it",
-      "date": "2026-11-22T06:36:00+00:00",
-      "summary": "Dopo i match di ieri che hanno dato il via alla 12^ giornata di Serie A, questa è la classifica aggiornata in attesa delle gare di oggi.\n\nSERIE A: LA CLASSIFICA AGGIORNATA \n."
-    },
-    {
-      "id": "154e38ef8b15",
-      "title": "Domenica di Serie A, 5 partite in campo: il programma completo con orari e guida tv",
-      "url": "https://www.milannews.it/news/domenica-serie-a-5-partite-campo-programma-completo-orari-guida-636929",
-      "source": "milannews.it",
-      "date": "2026-11-22T06:24:00+00:00",
-      "summary": "Dopo le gare di ieri che hanno aperto la 12^ giornata di Serie A dopo la pausa per le nazionali, oggi in campo scenderanno altre dieci squadre tra le quali il Milan di Ruben Amorim. Di seguito il programma completo."
-    },
-    {
-      "id": "8a43a8f3bed6",
-      "title": "Milan-Frosinone, alle 18:00 in campo: tutte le info su dove seguire il match",
-      "url": "https://www.milannews.it/news/milan-frosinone-18-00-campo-info-seguire-match-636928",
-      "source": "milannews.it",
-      "date": "2026-11-22T06:12:00+00:00",
-      "summary": "Ieri pomeriggio c’è stato io via alla 12^ giornata di Serie A."
-    },
-    {
-      "id": "4de1057e9d88",
-      "title": "Milan-Frosinone, è il match day: la probabile formazione dei rossoneri",
-      "url": "https://www.milannews.it/news/milan-frosinone-match-day-probabile-formazione-rossoneri-636927",
-      "source": "milannews.it",
-      "date": "2026-11-22T06:00:00+00:00",
-      "summary": "Dopo la seconda sosta stagionale, l'ultima del 2026, il Milan di Ruben Amorim torna a tuffarsi sul campionato."
-    },
-    {
-      "id": "16bd9f2d90d5",
-      "title": "Moretto su Camarda: \"A Cagliari gioca anche Daniel Maldini, che ha lo stesso agente\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-camarda-a-cagliari-gioca-daniel-maldini-agente-636922",
-      "source": "milannews.it",
-      "date": "2026-11-21T23:36:34+00:00",
-      "summary": "Nella mattinata di oggi c'è stata la novità dell'interesse del Cagliari per il prestito di Francesco Camarda a gennaio, con il Milan contestualmente interessato al giovane attaccante dei sardi Mendy: Matteo Moretto, in un video  ..."
-    },
-    {
-      "id": "438feb01d972",
-      "title": "Pellegatti sottolinea: “Parole di Cardinale importanti, ha confermato la volontà di fare un grande Milan”",
-      "url": "https://www.milannews.it/news/pellegatti-sottolinea-parole-cardinale-importanti-confermato-volonta-milan-636926",
-      "source": "milannews.it",
-      "date": "2026-11-21T23:24:06+00:00",
-      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato le parole rilasciate dal proprietario del Milan Gerry Cardinale dopo la conferenza stampa di Amorim per il match di domani contro il Frosinone. Queste le sue parole."
-    },
-    {
-      "id": "d10fa9c09946",
-      "title": "Reports: Milan’s predicted XI to face Frosinone – Musah in midfield; Cisse benched",
-      "url": "https://sempremilan.com/milans-xi-frosinone-musah-cisse-bench",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T19:30:00+00:00",
-      "summary": "Ruben Amorim is expected to make one change to the starting eleven for Milan-Frosinone, according to the latest reports.  As the international break is over, Milan have used the last couple of days to prepare for Sunday’s clash against Frosinone. It’s a chance for the Rossoneri to make it three cons"
-    },
-    {
-      "id": "8e033fc11d90",
-      "title": "Serie A preview: AC Milan vs. Frosinone – Team news, opposition insight, stats and prediction",
-      "url": "https://sempremilan.com/ac-milan-frosinone-preview-team-news-stats-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T19:00:23+00:00",
-      "summary": "Milan will return to action on Sunday evening, hoping to pick up where they left off before the international break with a strong performance against Frosinone.  If we look at the league, it has been a very decent start to the season for Ruben Amorim and his men. However, they are yet to win three ["
-    },
-    {
-      "id": "869d82c1fa20",
-      "title": "GdS: Milan warned as Bayern Munich could fast-track Tresoldi pursuit amid Kane’s injury",
-      "url": "https://sempremilan.com/milan-bayern-munich-tresoldi-kanes-injury",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T17:44:24+00:00",
-      "summary": "Bayern Munich could make a move for the AC Milan target and Club Brugge star Nicolo Tresoldi, following Harry Kane’s injury.  Tresoldi has been making waves at Club Brugge this season, scoring an impressive five goals in the Champions League, and Milan are one of several big clubs that have been lin"
-    },
-    {
       "id": "106807d8c602",
       "title": "Milan owner Cardinale on Endrick: ‘One of the best players in the world in his position’",
       "url": "https://football-italia.net/milan-cardinale-endrick-one-of-the-best/",
       "source": "football-italia.net",
       "date": "2026-11-21T17:03:41+00:00",
       "summary": "Gerry Cardinale has described Endrick as one of the best players in the world in..."
-    },
-    {
-      "id": "4066060ba12d",
-      "title": "Opposition insight for Milan-Frosinone: Form, injuries, predicted XI and more",
-      "url": "https://sempremilan.com/opposition-insight-milan-frosinone-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T17:00:00+00:00",
-      "summary": "AC Milan are looking to make it three consecutive wins tomorrow, but a high-flying newcomer in Frosinone could make that difficult.  Ruben Amorim and his men have an opportunity to really establish some momentum tomorrow evening, picking up where they left off before the break. However, it won’t be "
-    },
-    {
-      "id": "7d46a07fc781",
-      "title": "AC Milan Women 3-2 Sassuolo: Grimshaw crucial after crazy first half",
-      "url": "https://sempremilan.com/ac-milan-women-3-2-sassuolo-grimshaw-crucial",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T16:30:00+00:00",
-      "summary": "Christy Grimshaw was crucial as AC Milan Women finally got back to winning ways, following what was a rather crazy first half against Sassuolo.  After two defeats and a draw, dropping points in a silly fashion against Napoli last weekend, Milan Women needed to bounce back with a win today. Thankfull"
-    },
-    {
-      "id": "4ed204075d3d",
-      "title": "Cardinale confirms Milan ‘will spend money’ in January and praises Endrick",
-      "url": "https://sempremilan.com/cardinale-milan-spend-money-january-endrick",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T15:55:43+00:00",
-      "summary": "As he left Milanello earlier this evening, Gerry Cardinale stopped to share a few words on the game against Frosinone, the January mercato, Markus Krösche and more.  Cardinale arrived in Milan a few days ago and had a summit with the management at Casa Milan yesterday. In other words, he’s not wasti"
-    },
-    {
-      "id": "fd88223d35b6",
-      "title": "GdS: Possession vs. directness – key tactical differences between Milan and Frosinone",
-      "url": "https://sempremilan.com/key-tactical-differences-milan-frosinone",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T15:30:38+00:00",
-      "summary": "Ruben Amorim will be up against Massimiliano Alvini tomorrow evening, and as the stats show, they are two very different managers.  As highlighted by Gazzetta dello Sport, there is one interesting stat to highlight to introduce the game. In terms of shots per game, it will be the second-ranked team "
     },
     {
       "id": "d1cd2341ed5b",
@@ -242,52 +386,12 @@
       "summary": "Virgil van Dijk has been heavily linked with a move to Milan, and admits he..."
     },
     {
-      "id": "bd9163cddf5b",
-      "title": "A very positive record: Luca Pairetto will officiate Milan’s game against Frosinone",
-      "url": "https://sempremilan.com/positive-record-pairetto-officiate-milan-frosinone",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T15:00:00+00:00",
-      "summary": "Luca Pairetto has been assigned to the game between AC Milan and Frosinone on Sunday evening, which is good news for the Rossoneri.  Ruben Amorim and his men will be looking to make it three consecutive wins against Frosinone, after beating Inter and Genoa before the international break. It might no"
-    },
-    {
-      "id": "785f5e130827",
-      "title": "Amorim says Camarda returned ‘in a happier mood’ after Baldini talk and U21 duty",
-      "url": "https://sempremilan.com/amorim-camarda-returned-happier-mood",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T14:30:00+00:00",
-      "summary": "During his press conference earlier today, Ruben Amorim spoke about Francesco Camarda and said that the youngster appeared much happier after returning from international duty.  It hasn’t been an easy season for Camarda so far, getting a mere 119 minutes on the pitch, after initially believing that "
-    },
-    {
       "id": "c31250370ef2",
       "title": "Amorim: ‘Without Ramos, Milan don’t score, Baldini helped Camarda come back happier’",
       "url": "https://football-italia.net/amorim-without-ramos-milan-dont-score/",
       "source": "football-italia.net",
       "date": "2026-11-21T14:11:36+00:00",
       "summary": "Ruben Amorim says that he is encouraged by what he sees from club record signing..."
-    },
-    {
-      "id": "ad8dbe2610be",
-      "title": "Di Marzio: Cagliari could give Milan a ‘buy option’ for Mendy to secure Camarda loan",
-      "url": "https://sempremilan.com/cagliari-milan-buy-option-mendy-camarda",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T14:07:01+00:00",
-      "summary": "Francesco Camarda could join Cagliari on loan in January and as part of the deal, AC Milan could obtain an option for Paul Mendy, according to a report.  There has been a lot of speculation regarding Camarda’s future in the last few weeks. The 18-year-old has played just 119 minutes so far this seas"
-    },
-    {
-      "id": "3f95902f2a7e",
-      "title": "Amorim discusses ‘fun’ Frosinone, final third struggles and confirms Pavlovic’s return",
-      "url": "https://sempremilan.com/amorim-fun-frosinone-struggles-pavlovic",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T13:49:07+00:00",
-      "summary": "On the eve of AC Milan’s game against Frosinone, Ruben Amorim spoke to the media at the usual pre-match press conference.  The international break is officially over and Milan will be back in action tomorrow. After wins against Inter and Genoa, the goal is to make it three consecutive wins, although"
-    },
-    {
-      "id": "63f006a029e5",
-      "title": "GdS: Tough skin and Dzeko precedent – Ramos has time to reverse flop status",
-      "url": "https://sempremilan.com/tough-skin-dzeko-precedent-ramos-time",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T13:00:00+00:00",
-      "summary": "Goncalo Ramos has struggled to find the back of the net with the AC Milan shirt so far, with the Rossoneri hoping that he will eventually find his groove.  After years of struggling in the No.9 position, following the departure of Olivier Giroud, Gerry Cardinale said enough is enough and spent over "
     },
     {
       "id": "5b739d687bdf",
@@ -298,28 +402,12 @@
       "summary": "Reports in Italy confirm that Milan are following Bruno Fernandes’s contract situation at Manchester United..."
     },
     {
-      "id": "4d1c297b66ba",
-      "title": "Watch: “I think it will be all guns blazing” – Score predictions for Milan-Frosinone",
-      "url": "https://sempremilan.com/all-blazing-score-predictions-milan-frosinone",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T12:30:00+00:00",
-      "summary": "Oliver and Ahmed have shared their predictions for AC Milan’s game against Frosinone tomorrow, both going for a win.  Now that the international break has come to an end, Milan will be back in action tomorrow evening, taking on Frosinone at San Siro. The newcomers have started the season well but of"
-    },
-    {
       "id": "147730729ef0",
       "title": "Cagliari want Camarda in January and could also include Mendy for Milan",
       "url": "https://football-italia.net/cagliari-want-camarda-mendy-for-milan/",
       "source": "football-italia.net",
       "date": "2026-11-21T12:18:30+00:00",
       "summary": "Saturday’s reports claim that Cagliari are interested in taking Francesco Camarda on loan with a..."
-    },
-    {
-      "id": "5034eab1569b",
-      "title": "Longo: Rabiot renewal, Endrick, Inacio and more – key topics during Friday’s summit",
-      "url": "https://sempremilan.com/rabiot-endric-inacio-key-topics-summit",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T12:00:00+00:00",
-      "summary": "Gerry Cardinale had a meeting with the AC Milan management at Casa Milan yesterday, during which there were four key topics, according to reports. Cardinale has arrived in the city in good time for Milan’s game against Frosinone tomorrow. Yesterday, there was a summit with the Milan management, incl"
     },
     {
       "id": "964e2e76eaef",
@@ -330,52 +418,12 @@
       "summary": "Saturday’s reports suggest that Bayern Munich could dive into the January transfer market following an..."
     },
     {
-      "id": "133bc24f39cd",
-      "title": "Watch: Milan loanee Fofana enjoying life at Sevilla as fans show their appreciation",
-      "url": "https://sempremilan.com/watch-milan-loanee-fofana-sevilla-fans",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T11:30:00+00:00",
-      "summary": "AC Milan loanee Youssouf Fofana seems to be enjoying life at Sevilla, just as the fans appreciate his efforts on the pitch so far.  Fofana was part of Milan’s Bomb Squad this summer as Ruben Amorim felt he wouldn’t be useful in the team. However, the Rossoneri struggled to find a new club for the […"
-    },
-    {
-      "id": "cd21a53ae96d",
-      "title": "Italy U21 coach discusses Cisse’s rise, next steps for Camarda and why Bartesaghi is ‘a luxury’",
-      "url": "https://sempremilan.com/italy-u21-coach-cisse-camarda-bartesaghi",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T11:00:00+00:00",
-      "summary": "Italy’s U21 head coach, Silvio Baldini, has shared his thoughts on the Milan trio Alphadjo Cisse, Francesco Camarda and Davide Bartesaghi.  In recent years, Milan have shifted more towards giving some of their academy graduates more playing time with the first team. Bartesaghi was the first to prope"
-    },
-    {
       "id": "0f7884f579f3",
       "title": "Baldini advises Camarda ‘father to son’ and has great expectations for Bartesaghi: ‘A luxury’",
       "url": "https://football-italia.net/baldini-advises-camarda-father-to-son/",
       "source": "football-italia.net",
       "date": "2026-11-21T10:40:59+00:00",
       "summary": "Italy U21s head coach Silvio Baldini says that he has spoken to Francesco Camarda ‘like..."
-    },
-    {
-      "id": "8a31908624ba",
-      "title": "GdS: Predicted XIs for Milan vs. Frosinone – Musah to remain at left-back",
-      "url": "https://sempremilan.com/xis-milan-frosinone-musah-left-back",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T10:30:00+00:00",
-      "summary": "Yunus Musah is expected to continue at left-back as AC Milan will be back in action tomorrow evening, taking on Frosinone at San Siro.  In the game against Genoa, due to injuries making life difficult at the back, Ruben Amorim opted to field Musah as a left-back of sorts. He did have Davide Bartesag"
-    },
-    {
-      "id": "2def8441b3d7",
-      "title": "Di Marzio: Milan among Italian clubs looking to bolster academy with Malmö FF talent",
-      "url": "https://sempremilan.com/milan-bolster-academy-malmo-talent",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T10:00:00+00:00",
-      "summary": "AC Milan are thinking about bolstering their academy with the Malmö FF talent Leon Da Silva, according to a report.  In recent months, a lot of focus has been on how Milan will reinforce the first team in January and next summer. Understandably so, as Gerry Cardinale seemingly has big spending plans"
-    },
-    {
-      "id": "c044b93cfb9f",
-      "title": "Reports: Milan watching on as Man Utd confirm renewal talks with Fernandes",
-      "url": "https://sempremilan.com/milan-watching-man-utd-renewal-fernandes",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T09:30:00+00:00",
-      "summary": "Bruno Fernandes has ended up on AC Milan’s radar ahead of the summer, according to reports, with a free transfer potentially on the cards.  Ever since the summer, when the BBC were the first to report on Milan’s interest, Fernandes has been brought up by various outlets as an option for the Rossoner"
     },
     {
       "id": "40ca1f981bc3",
@@ -432,54 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-11-19T17:48:27+00:00",
       "summary": "Milan are preparing to spend big on a striker in January, but conflicting reports mean..."
-    },
-    {
-      "id": "e6b7fda901ba",
-      "title": "Oddo: ‘Italy have to be patient with talent, Camarda couldn’t wait’",
-      "url": "https://football-italia.net/oddo-italy-patient-camarda-couldnt-wait/",
-      "source": "football-italia.net",
-      "date": "2026-11-19T16:21:54+00:00",
-      "summary": "Massimo Oddo believes that Italy has plenty of young talent coming through, but has urged..."
-    },
-    {
-      "id": "b71a31fde427",
-      "title": "Positive Maignan update for Milan ahead of Frosinone test",
-      "url": "https://football-italia.net/positive-maignan-update-for-milan-frosinone/",
-      "source": "football-italia.net",
-      "date": "2026-11-19T12:52:43+00:00",
-      "summary": "Reports in Italy confirm that Mike Maignan took part in the first part of Milan’s..."
-    },
-    {
-      "id": "a98646aa2248",
-      "title": "Report Milan dream of signing McTominay thanks to new kit deal",
-      "url": "https://football-italia.net/milan-dream-signing-mctominay-new-kit-deal/",
-      "source": "football-italia.net",
-      "date": "2026-11-19T11:07:46+00:00",
-      "summary": "Milan’s new lucrative kit deal with Adidas will allow the Rossoneri to make a big-money..."
-    },
-    {
-      "id": "b4586db39ccc",
-      "title": "Video: Milan star Pulisic scores bicycle-kick goal in Pochettino’s final game as USMNT coach",
-      "url": "https://football-italia.net/video-milan-pulisic-bicycle-kick-goal-usmnt/",
-      "source": "football-italia.net",
-      "date": "2026-11-18T09:53:56+00:00",
-      "summary": "Milan star Christian Pulisic left his mark in Mauricio Pochettino’s final game as USMNT coach..."
-    },
-    {
-      "id": "db4e34ee3177",
-      "title": "Endrick sends warning to Milan and Roma with Real Madrid transfer claim",
-      "url": "https://football-italia.net/endrick-warn-milan-roma-real-madrid-claim/",
-      "source": "football-italia.net",
-      "date": "2026-11-18T09:41:08+00:00",
-      "summary": "Milan and Roma have been linked with Endrick, but the Brazilian and Real Madrid talent..."
-    },
-    {
-      "id": "0f547b22dfb7",
-      "title": "Milan ready to open talks for Tresoldi January transfer",
-      "url": "https://football-italia.net/milan-ready-open-talks-tresoldi-january-move/",
-      "source": "football-italia.net",
-      "date": "2026-11-18T09:11:54+00:00",
-      "summary": "La Gazzetta dello Sport reports that Milan are ready to enter talks with Club Brugge..."
     }
   ]
 }
