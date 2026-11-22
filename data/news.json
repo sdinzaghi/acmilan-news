@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2026-11-21T21:34:41.221299+00:00",
+  "lastUpdated": "2026-11-22T01:54:17.429640+00:00",
   "articles": [
+    {
+      "id": "16bd9f2d90d5",
+      "title": "Moretto su Camarda: \"A Cagliari gioca anche Daniel Maldini, che ha lo stesso agente\"",
+      "url": "https://www.milannews.it/calciomercato-milan/moretto-camarda-a-cagliari-gioca-daniel-maldini-agente-636922",
+      "source": "milannews.it",
+      "date": "2026-11-21T23:36:34+00:00",
+      "summary": "Nella mattinata di oggi c'è stata la novità dell'interesse del Cagliari per il prestito di Francesco Camarda a gennaio, con il Milan contestualmente interessato al giovane attaccante dei sardi Mendy: Matteo Moretto, in un video  ..."
+    },
+    {
+      "id": "438feb01d972",
+      "title": "Pellegatti sottolinea: “Parole di Cardinale importanti, ha confermato la volontà di fare un grande Milan”",
+      "url": "https://www.milannews.it/news/pellegatti-sottolinea-parole-cardinale-importanti-confermato-volonta-milan-636926",
+      "source": "milannews.it",
+      "date": "2026-11-21T23:24:06+00:00",
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato le parole rilasciate dal proprietario del Milan Gerry Cardinale dopo la conferenza stampa di Amorim per il match di domani contro il Frosinone. Queste le sue parole."
+    },
+    {
+      "id": "924a769ee146",
+      "title": "Capuano soddisfatto: “Amorim non sta facendo male, ora però serve recuperare in Europa”",
+      "url": "https://www.milannews.it/news/capuano-soddisfatto-amorim-male-serve-recuperare-europa-636925",
+      "source": "milannews.it",
+      "date": "2026-11-21T23:12:55+00:00",
+      "summary": "Nel suo canale YouTube, il giornalista Giovanni Capuano ha commentato l’operato del mister dei rossoneri Ruben Amorim fino a questo momento. Di seguito le sue parole."
+    },
+    {
+      "id": "76d096219ed3",
+      "title": "Alla ricerca del filotto e di Goncalo Ramos. Endrick meglio di Tresoldi",
+      "url": "https://www.milannews.it/editoriale/ricerca-filotto-goncalo-ramos-endrick-tresoldi-636876",
+      "source": "milannews.it",
+      "date": "2026-11-21T23:00:01+00:00",
+      "summary": "Archiviata la sosta, oggi il Milan è atteso da un impegno da non sottovalutare. Lo dice anche la classifica: il Frosinone ha fatto solo 4 punti in meno della squadra di Amorim e con 24 reti ha un attacco fin qui migliore (un gol in più)."
+    },
+    {
+      "id": "05bb0ff2c661",
+      "title": "Il messaggio di Harry Kane dopo l'operazione alla caviglia",
+      "url": "https://www.milannews.it/dall-estero/messaggio-harry-kane-operazione-caviglia-636874",
+      "source": "milannews.it",
+      "date": "2026-11-21T22:48:29+00:00",
+      "summary": "Il Pallone d'Oro Harry Kane si ferma. Brutto infortunio alla caviglia per il centravanti inglese, ieri sera nella prima partita dopo la sosta che il Bayern Monaco ha pareggiato 1-1 contro il Colonia."
+    },
+    {
+      "id": "271e869a43c4",
+      "title": "Milan, Cardinale: \"La squadra sta bene, speriamo di vincere. Amo Rabiot\"",
+      "url": "https://www.milannews.it/news/calcio-cardinale-milan-frosinone-importante-vincere-636906",
+      "source": "milannews.it",
+      "date": "2026-11-21T22:36:42+00:00",
+      "summary": "(ANSA) - MILANO, 21 NOV - \"Sono state belle giornate, ho avuto un paio di giornate di incontri molto positivi a Casa Milan, in vista del mercato di gennaio e per tutti i piani per il resto della stagione."
+    },
+    {
+      "id": "af29fe2b1fb2",
+      "title": "Amorim: \"Nel Milan tutti pronti, anche Pavlovic convocato\"",
+      "url": "https://www.milannews.it/news/calcio-amorim-milan-pronti-pavlovic-convocato-636912",
+      "source": "milannews.it",
+      "date": "2026-11-21T22:24:53+00:00",
+      "summary": "(ANSA) - MILANO, 21 NOV - \"Tutti sono pronti e a disposizione. Abbiamo dovuto gestire i carichi di lavoro visto che alcuni hanno giocato."
+    },
+    {
+      "id": "c5f28c3059cf",
+      "title": "Frattesi, parole al miele per Gattuso: “Mi ha salvato la vita”. E l’ex Milan risponde: “Tutto merito suo”",
+      "url": "https://www.milannews.it/news/frattesi-parole-miele-gattuso-mi-salvato-vita-l-ex-milan-risponde-tutto-merito-suo-636924",
+      "source": "milannews.it",
+      "date": "2026-11-21T22:12:05+00:00",
+      "summary": "Davide Frattesi e la Lazio di Gennaro Gattuso sembrano non aver voglia di fermarsi. Anche oggi, nel match delle 15:00 contro il Cagliari, non c’è stata partita perché i biancocelesti hanno spazzato via i sardi con un netto 3-0."
+    },
+    {
+      "id": "57b0d60a623f",
+      "title": "Serie A, torna a vincere il Napoli: la classifica aggiornata",
+      "url": "https://www.milannews.it/news/classifica-aggiornata-636917",
+      "source": "milannews.it",
+      "date": "2026-11-21T22:00:22+00:00",
+      "summary": "Terminato il sabato di Serie A con il posticipo tra Napoli e Torino, questa è la classifica aggiornata."
+    },
+    {
+      "id": "8b72467818cb",
+      "title": "Il Napoli soffre ma conquista i tre punti: è 1-0 contro il Torino",
+      "url": "https://www.milannews.it/news/napoli-torino-risultato-636916",
+      "source": "milannews.it",
+      "date": "2026-11-21T21:48:56+00:00",
+      "summary": "Al Maradona di Napoli gli azzurri di Massimiliano Allegri hanno ospitato i granata di Ignazio Abate."
+    },
+    {
+      "id": "85e46c669a0e",
+      "title": "Pellegatti fa notare: “Bell’ammissione di Amorim su Gonçalo Ramos, la squadra deve aiutarlo di più”",
+      "url": "https://www.milannews.it/news/pellegatti-notare-bell-ammissione-amorim-goncalo-ramos-squadra-aiutarlo-piu-636923",
+      "source": "milannews.it",
+      "date": "2026-11-21T21:36:55+00:00",
+      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato le parole rilasciate dall’allenatore del Milan Ruben Amorim in merito alla mancanza di gol di Gonçalo Ramos. Queste le sue parole."
+    },
     {
       "id": "4e7bb97ebcb7",
       "title": "Malagò sull'Italia U17: \"Spirito di collaborazione dai club: segnale positivo\"",
@@ -74,36 +162,12 @@
       "summary": "Ruben Amorim ha aperto la conferenza stampa della vigilia della gara tra Milan e Frosinone con un pensiero sulle attività di Fondazione Milan."
     },
     {
-      "id": "78ada5e3f546",
-      "title": "Jungdal: \"Ho imparato tanto sia da Donnarumma che da Maignan\"",
-      "url": "https://www.milannews.it/news/jungdal-ho-imparato-donnarumma-maignan-636882",
-      "source": "milannews.it",
-      "date": "2026-11-21T19:36:51+00:00",
-      "summary": "Nel corso della sua esperienza nel settore giovanile del Milan e come aggregato della prima squadra, il portiere danese Andreas Jungdal, oggi estremo difensore del Westerlo nel campionato belga, ha avuto modo di giocare e allenars ..."
-    },
-    {
       "id": "d10fa9c09946",
       "title": "Reports: Milan’s predicted XI to face Frosinone – Musah in midfield; Cisse benched",
       "url": "https://sempremilan.com/milans-xi-frosinone-musah-cisse-bench",
       "source": "sempremilan.com",
       "date": "2026-11-21T19:30:00+00:00",
       "summary": "Ruben Amorim is expected to make one change to the starting eleven for Milan-Frosinone, according to the latest reports.  As the international break is over, Milan have used the last couple of days to prepare for Sunday’s clash against Frosinone. It’s a chance for the Rossoneri to make it three cons"
-    },
-    {
-      "id": "9227f958a92e",
-      "title": "Serie A, la Roma torna a -2 dalla vetta: la classifica aggiornata",
-      "url": "https://www.milannews.it/news/classifica-aggiornata-636915",
-      "source": "milannews.it",
-      "date": "2026-11-21T19:24:00+00:00",
-      "summary": "In seguito al ."
-    },
-    {
-      "id": "ac8ac4bbf705",
-      "title": "Serie A, Malen show nella nebbia di Parma: la Roma travolge gli emiliani 5-1",
-      "url": "https://www.milannews.it/news/parma-roma-risultato-636914",
-      "source": "milannews.it",
-      "date": "2026-11-21T19:12:36+00:00",
-      "summary": "Dopo due settimane di pausa questo pomeriggio è tornata in campo la Serie A. Le vittorie casalinghe di Lazio e Como contro Lecce e Cagliari hanno aperto la 12^ giornata che è continuata con il match delle 18 tra Parma e Roma."
     },
     {
       "id": "8e033fc11d90",
@@ -114,76 +178,12 @@
       "summary": "Milan will return to action on Sunday evening, hoping to pick up where they left off before the international break with a strong performance against Frosinone.  If we look at the league, it has been a very decent start to the season for Ruben Amorim and his men. However, they are yet to win three ["
     },
     {
-      "id": "ccb65d427880",
-      "title": "La probabile del Milan: Diawara centrale, Bartesaghi in vantaggio su Estupinan",
-      "url": "https://www.milannews.it/primo-piano/probabile-milan-diawara-centrale-bartesaghi-vantaggio-estupinan-636920",
-      "source": "milannews.it",
-      "date": "2026-11-21T19:00:00+00:00",
-      "summary": "Finalmente riprende il campionato dopo la sosta e il Milan scenderà in campo domani contro il Frosinone in occasione della dodicesima giornata del campionato di Serie A Enilive alle ore 18 a San Siro."
-    },
-    {
-      "id": "4cc5fcbd6ef9",
-      "title": "Amorim ammette: \"Non sto facendo il mio lavoro per aiutare Ramos, lui sta facendo tutto per me\"",
-      "url": "https://www.milannews.it/news/amorim-ammette-non-lavoro-aiutare-ramos-me-636921",
-      "source": "milannews.it",
-      "date": "2026-11-21T18:48:06+00:00",
-      "summary": "Alla vigilia di Milan-Frosinone, che si gioca domani a San Siro alle ore 18, il tecnico rossonero Ruben Amorim in conferenza stampa ha proposto una lunga riflessione sui centravanti del Milan: in particolare sul titolare Gon& ..."
-    },
-    {
-      "id": "55d0dcbf3788",
-      "title": "Moretto: \"Cardinale ha fatto capire di essere pronto a determinati investimenti. Inacio nome caldo. Su Endrick...\"",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-cardinale-capire-pronto-determinati-investimenti-inacio-caldo-endrick-636918",
-      "source": "milannews.it",
-      "date": "2026-11-21T18:35:05+00:00",
-      "summary": "Gerry Cardinale ha parlato (clicca QUI) alla sua uscita da Milanello e ha fornito diverse aggiornamenti interessanti su quello che sarà il mercato di gennaio del Milan."
-    },
-    {
-      "id": "09d7f66509d9",
-      "title": "Ceccarini: \"Milan, il difensore la priorità. Cardinale ha in mente investimenti\"",
-      "url": "https://www.milannews.it/news/ceccarini-milan-difensore-priorita-cardinale-mente-investimenti-636845",
-      "source": "milannews.it",
-      "date": "2026-11-21T18:24:00+00:00",
-      "summary": "Manca ancora poco meno di un mese e mezzo all'apertura ufficiale della sessione invernale di calciomercato, il Milan vuole sicuramente rendersi protagonista con alcuni colpi mirati che possano andare a elevare la qualità gen ..."
-    },
-    {
-      "id": "56510166e63a",
-      "title": "Fifa, la Conmebol si schiera con il presidente Infantino",
-      "url": "https://www.milannews.it/news/fifa-conmebol-schiera-infantino-fermo-sostegno-sud-america-636844",
-      "source": "milannews.it",
-      "date": "2026-11-21T18:12:24+00:00",
-      "summary": "(ANSA) - ROMA, 20 NOV - La Confederazione calcistica sudamericana (Conmebol) si schiera con Gianni Infantino, candidato alla rielezione come presidente della Fifa, annunciando il proprio \"fermo sostegno\"."
-    },
-    {
-      "id": "4f8d11ac6f6b",
-      "title": "Jungdal: \"Dida persona straordinaria: ho imparato tantissimo\"",
-      "url": "https://www.milannews.it/news/jungdal-dida-persona-straordinaria-imparato-tantissimo-636887",
-      "source": "milannews.it",
-      "date": "2026-11-21T18:00:15+00:00",
-      "summary": "L'ex portiere del settore giovanile del Milan, il danese Andreas Jungdal, si è raccontato in esclusiva ai microfoni di MilanNews.it e ha ricordato alcune figure chiave del suo percorso milanista."
-    },
-    {
-      "id": "c1ea5d74f4d6",
-      "title": "Il Milan Femminile ritrova la vittoria: 3-2 sul Sassuolo ultimo in classifica",
-      "url": "https://www.milannews.it/milan-femminile/milan-femminile-ritrova-vittoria-3-2-sassuolo-classifica-636911",
-      "source": "milannews.it",
-      "date": "2026-11-21T17:48:03+00:00",
-      "summary": "Il Milan Femminile ritrova la vittoria. La formazione di Suzanne Bakker ha superato il Sassuolo ultimo in classifica con il risultato di 3-2."
-    },
-    {
       "id": "869d82c1fa20",
       "title": "GdS: Milan warned as Bayern Munich could fast-track Tresoldi pursuit amid Kane’s injury",
       "url": "https://sempremilan.com/milan-bayern-munich-tresoldi-kanes-injury",
       "source": "sempremilan.com",
       "date": "2026-11-21T17:44:24+00:00",
       "summary": "Bayern Munich could make a move for the AC Milan target and Club Brugge star Nicolo Tresoldi, following Harry Kane’s injury.  Tresoldi has been making waves at Club Brugge this season, scoring an impressive five goals in the Champions League, and Milan are one of several big clubs that have been lin"
-    },
-    {
-      "id": "140901346157",
-      "title": "Lazio, Gattuso: \"Otto punti e possiamo fare la prima festa...\"",
-      "url": "https://www.milannews.it/news/calcio-gattuso-punti-possiamo-festa-636913",
-      "source": "milannews.it",
-      "date": "2026-11-21T17:36:12+00:00",
-      "summary": "(ANSA) - ROMA, 21 NOV - \"Ci mancano 8 punti per fare la prima festa, poi vedremo dove saremo. Sono stupito dalla mentalità della squadra, nel primo quarto d'ora non siamo andati benissimo."
     },
     {
       "id": "106807d8c602",
