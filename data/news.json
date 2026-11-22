@@ -1,6 +1,158 @@
 {
-  "lastUpdated": "2026-11-22T01:54:17.429640+00:00",
+  "lastUpdated": "2026-11-22T09:21:05.349710+00:00",
   "articles": [
+    {
+      "id": "0a84fd6176cc",
+      "title": "Google \"Fonti preferite\", aggiungi subito MilanNews e personalizza le tue notizie",
+      "url": "https://www.milannews.it/news/google-fonti-preferite-aggiungi-milannews-personalizza-notizie-636943",
+      "source": "milannews.it",
+      "date": "2026-11-22T09:11:33+00:00",
+      "summary": "Google ha introdotto una nuova funzione destinata a cambiare il modo in cui leggiamo le notizie: si chiama \"Fonti preferite\" e permette di scegliere direttamente quali siti far comparire più spesso nei risultati."
+    },
+    {
+      "id": "0dbbd8fa277d",
+      "title": "Pulisic e Rabiot, gli insostituibili di Amorim. E il Milan preme per il rinnovo del francese",
+      "url": "https://www.milannews.it/primo-piano/pulisic-rabiot-insostituibili-amorim-milan-preme-rinnovo-francese-636945",
+      "source": "milannews.it",
+      "date": "2026-11-22T09:00:00+00:00",
+      "summary": "Quante volte si sente un allenatore dire: \"Non voglio parlare dei singoli\", ma poi - inevitabilmente - si finisce col sottolineare come alcuni calciatori riescano ad avere un impatto decisamente più grande rispetto agli altri? Vuoi p ..."
+    },
+    {
+      "id": "8f172478be7c",
+      "title": "Gallery: ‘Cardinale calls Endrick’, ‘Amorim fires up the team’ – Today’s headlines in Italy",
+      "url": "https://sempremilan.com/front-pages-22-november-milan-frosinone-endrick",
+      "source": "sempremilan.com",
+      "date": "2026-11-22T09:00:00+00:00",
+      "summary": "AC Milan return to Serie A action this evening as they welcome Frosinone to San Siro, hoping to build off the Genoa win before the break. Wins for Como, Lazio and Roma on Saturday have added pressure for Milan to keep pace with the other contenders around and above them, and it will not be […]\nThe p"
+    },
+    {
+      "id": "a5030d2a6b04",
+      "title": "Milan-Frosinone, Sky o DAZN? Orario e diretta TV della sfida di San Siro",
+      "url": "https://www.milannews.it/news/milan-frosinone-sky-dazn-orario-diretta-tv-sfida-san-siro-636935",
+      "source": "milannews.it",
+      "date": "2026-11-22T08:48:22+00:00",
+      "summary": "Queste tutte le info per i tifosi su Milan-Frosinone di questo pomeriggio a San Siro."
+    },
+    {
+      "id": "0604473a9713",
+      "title": "Le reazioni di Amorim, Gattuso e Fabregas all'uscita di GTA VI",
+      "url": "https://www.milannews.it/news/reazioni-amorim-gattuso-fabregas-uscita-gta-636942",
+      "source": "milannews.it",
+      "date": "2026-11-22T08:35:34+00:00",
+      "summary": "Cosa c'entra un videogame con il calcio? C'entra eccome. Intanto quello di GTA VI è un fenomeno mediatico assoluto e difficilmente ripetibile: in 24 ore ha fatto registrare 32."
+    },
+    {
+      "id": "4381fe5658ec",
+      "title": "Cagliari, Pisacane verso il Milan: \"Adopo ha preso una botta all'altezza della testa del perone, ma la situazione che mi preoccupa maggiormente è quella di Mendy\"",
+      "url": "https://www.milannews.it/l-avversario/cagliari-pisacane-milan-adopo-preso-botta-altezza-testa-perone-situazione-preoccupa-maggiormente-men-636937",
+      "source": "milannews.it",
+      "date": "2026-11-22T08:23:56+00:00",
+      "summary": "Oggi c'è Milan-Frosinone e tutte le energie sono concentrate ovviamente sulla gara di San Siro, ma tra una settimana - lunedì 30 novembre - i rossoneri saranno in Sardegna per affrontare il Cagliari."
+    },
+    {
+      "id": "9ae4035cab4b",
+      "title": "Fondazione Milan, Amorim entusiasta: \"Le nostre porte sono sempre aperte per accogliere questi ragazzi\"",
+      "url": "https://www.milannews.it/news/fondazione-milan-amorim-entusiasta-le-porte-aperte-accogliere-ragazzi-636940",
+      "source": "milannews.it",
+      "date": "2026-11-22T08:11:27+00:00",
+      "summary": "Durante la conferenza stampa alla vigilia di Milan-Frosinone, Ruben Amorim si è preso del tempo per sottolineare l'importanza di Fondazione Milan all'interno, e non solo, del mondo rossonero."
+    },
+    {
+      "id": "d997949314c3",
+      "title": "Capello: \"Oggi mi aspetto che il Milan faccia il Milan e questa è la gara giusta per dimostrare di essere all’altezza\"",
+      "url": "https://www.milannews.it/news/capello-oggi-aspetto-milan-milan-gara-giusta-dimostrare-all-altezza-636941",
+      "source": "milannews.it",
+      "date": "2026-11-22T07:59:48+00:00",
+      "summary": "Questo pomeriggio, ore 18.00, il Milan accoglie il Frosinone di Alvini a San Siro."
+    },
+    {
+      "id": "bd7a87bb216e",
+      "title": "Frosinone, i convocati per la sfida di San Siro con il Milan. Alvini recupera alcune pedine",
+      "url": "https://www.milannews.it/l-avversario/frosinone-convocati-sfida-san-siro-milan-alvini-recupera-alcune-pedine-636934",
+      "source": "milannews.it",
+      "date": "2026-11-22T07:49:27+00:00",
+      "summary": "Il Frosinone, avversario del Milan a San Siro nella dodicesima giornata di campionato, ha diramato la lista dei convocati."
+    },
+    {
+      "id": "3522bba0a7d1",
+      "title": "Milan-Frosinone, la telecronaca di Sky affidata a Borghi. Un ex rossonero al commento tecnico",
+      "url": "https://www.milannews.it/news/milan-frosinone-telecronaca-sky-affidata-borghi-rossonero-commento-tecnico-636936",
+      "source": "milannews.it",
+      "date": "2026-11-22T07:35:04+00:00",
+      "summary": "Milan-Frosinone di oggi alle 18.00 sarà una delle tre gare del turno di Serie A trasmesse anche da Sky, oltre che da DAZN."
+    },
+    {
+      "id": "501a0f8c87cd",
+      "title": "La Gazzetta in prima pagina: \"Cardinale chiama Endrick\"",
+      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-pagina-cardinale-chiama-endrick-636933",
+      "source": "milannews.it",
+      "date": "2026-11-22T07:23:22+00:00",
+      "summary": "L'edizione odierna della Gazzetta dello Sport, domenica 22 novembre, in apertura riporta le dichiarazioni di Cardinale, con il numero uno di RedBird che ieri pomeriggio si è fermato fuori da Milanello con i giornalisti presenti, rispondend ..."
+    },
+    {
+      "id": "01c2493c2263",
+      "title": "PROBABILE FORMAZIONE - Verso Milan-Frosinone: Pavlovic c'è, Bartesaghi in vantaggio",
+      "url": "https://www.milannews.it/news/probabile-formazione-milan-frosinone-amorim-rabiot-pulisic-modric-gila-636641",
+      "source": "milannews.it",
+      "date": "2026-11-22T07:21:00+00:00",
+      "summary": "Dopo la seconda sosta stagionale, l'ultima del 2026, il Milan di Ruben Amorim torna a tuffarsi sul campionato."
+    },
+    {
+      "id": "62e5ddbfafc7",
+      "title": "Milan-Frosinone, Amorim avverte tutti: \"Sono i più veloci!\". E Cardinale lo supporta",
+      "url": "https://www.milannews.it/primo-piano/milan-frosinone-amorim-avverte-tutti-sono-veloci-cardinale-supporta-636932",
+      "source": "milannews.it",
+      "date": "2026-11-22T07:11:11+00:00",
+      "summary": "È stata una vigilia serena, quella di Milan-Frosinone a Milanello. Ma serena non vuol dire necessariamente rilassata."
+    },
+    {
+      "id": "35409bd760be",
+      "title": "Milan-Frosinone, quote marcatore",
+      "url": "https://www.milannews.it/scommesse/pronostici/milan-frosinone-quote-marcatore-636715",
+      "source": "milannews.it",
+      "date": "2026-11-22T07:05:10+00:00",
+      "summary": "Archiviata la sosta per le nazionali, il Milan si prepara a tornare in campo con l'obiettivo di dare continuità ai risultati e alle buone prestazioni mostrate prima della pausa."
+    },
+    {
+      "id": "ce9f8fed1bd2",
+      "title": "Fischietto a Pairetto per Milan-Frosinone, al Var il sig. Pezzuto",
+      "url": "https://www.milannews.it/news/fischietto-pairetto-milan-frosinone-var-sig-pezzuto-636931",
+      "source": "milannews.it",
+      "date": "2026-11-22T06:48:00+00:00",
+      "summary": "Questa sera alle 18:00 i rossoneri ospiteranno il Frosinone di Alvini a San Siro per il match valido la 12^ giornata di Serie A."
+    },
+    {
+      "id": "9728df2e98c4",
+      "title": "Serie A, la classifica aggiornata in attesa delle gare di oggi",
+      "url": "https://www.milannews.it/news/serie-a-classifica-aggiornata-gare-636930",
+      "source": "milannews.it",
+      "date": "2026-11-22T06:36:00+00:00",
+      "summary": "Dopo i match di ieri che hanno dato il via alla 12^ giornata di Serie A, questa è la classifica aggiornata in attesa delle gare di oggi.\n\nSERIE A: LA CLASSIFICA AGGIORNATA \n."
+    },
+    {
+      "id": "154e38ef8b15",
+      "title": "Domenica di Serie A, 5 partite in campo: il programma completo con orari e guida tv",
+      "url": "https://www.milannews.it/news/domenica-serie-a-5-partite-campo-programma-completo-orari-guida-636929",
+      "source": "milannews.it",
+      "date": "2026-11-22T06:24:00+00:00",
+      "summary": "Dopo le gare di ieri che hanno aperto la 12^ giornata di Serie A dopo la pausa per le nazionali, oggi in campo scenderanno altre dieci squadre tra le quali il Milan di Ruben Amorim. Di seguito il programma completo."
+    },
+    {
+      "id": "8a43a8f3bed6",
+      "title": "Milan-Frosinone, alle 18:00 in campo: tutte le info su dove seguire il match",
+      "url": "https://www.milannews.it/news/milan-frosinone-18-00-campo-info-seguire-match-636928",
+      "source": "milannews.it",
+      "date": "2026-11-22T06:12:00+00:00",
+      "summary": "Ieri pomeriggio c’è stato io via alla 12^ giornata di Serie A."
+    },
+    {
+      "id": "4de1057e9d88",
+      "title": "Milan-Frosinone, è il match day: la probabile formazione dei rossoneri",
+      "url": "https://www.milannews.it/news/milan-frosinone-match-day-probabile-formazione-rossoneri-636927",
+      "source": "milannews.it",
+      "date": "2026-11-22T06:00:00+00:00",
+      "summary": "Dopo la seconda sosta stagionale, l'ultima del 2026, il Milan di Ruben Amorim torna a tuffarsi sul campionato."
+    },
     {
       "id": "16bd9f2d90d5",
       "title": "Moretto su Camarda: \"A Cagliari gioca anche Daniel Maldini, che ha lo stesso agente\"",
@@ -16,150 +168,6 @@
       "source": "milannews.it",
       "date": "2026-11-21T23:24:06+00:00",
       "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato le parole rilasciate dal proprietario del Milan Gerry Cardinale dopo la conferenza stampa di Amorim per il match di domani contro il Frosinone. Queste le sue parole."
-    },
-    {
-      "id": "924a769ee146",
-      "title": "Capuano soddisfatto: “Amorim non sta facendo male, ora però serve recuperare in Europa”",
-      "url": "https://www.milannews.it/news/capuano-soddisfatto-amorim-male-serve-recuperare-europa-636925",
-      "source": "milannews.it",
-      "date": "2026-11-21T23:12:55+00:00",
-      "summary": "Nel suo canale YouTube, il giornalista Giovanni Capuano ha commentato l’operato del mister dei rossoneri Ruben Amorim fino a questo momento. Di seguito le sue parole."
-    },
-    {
-      "id": "76d096219ed3",
-      "title": "Alla ricerca del filotto e di Goncalo Ramos. Endrick meglio di Tresoldi",
-      "url": "https://www.milannews.it/editoriale/ricerca-filotto-goncalo-ramos-endrick-tresoldi-636876",
-      "source": "milannews.it",
-      "date": "2026-11-21T23:00:01+00:00",
-      "summary": "Archiviata la sosta, oggi il Milan è atteso da un impegno da non sottovalutare. Lo dice anche la classifica: il Frosinone ha fatto solo 4 punti in meno della squadra di Amorim e con 24 reti ha un attacco fin qui migliore (un gol in più)."
-    },
-    {
-      "id": "05bb0ff2c661",
-      "title": "Il messaggio di Harry Kane dopo l'operazione alla caviglia",
-      "url": "https://www.milannews.it/dall-estero/messaggio-harry-kane-operazione-caviglia-636874",
-      "source": "milannews.it",
-      "date": "2026-11-21T22:48:29+00:00",
-      "summary": "Il Pallone d'Oro Harry Kane si ferma. Brutto infortunio alla caviglia per il centravanti inglese, ieri sera nella prima partita dopo la sosta che il Bayern Monaco ha pareggiato 1-1 contro il Colonia."
-    },
-    {
-      "id": "271e869a43c4",
-      "title": "Milan, Cardinale: \"La squadra sta bene, speriamo di vincere. Amo Rabiot\"",
-      "url": "https://www.milannews.it/news/calcio-cardinale-milan-frosinone-importante-vincere-636906",
-      "source": "milannews.it",
-      "date": "2026-11-21T22:36:42+00:00",
-      "summary": "(ANSA) - MILANO, 21 NOV - \"Sono state belle giornate, ho avuto un paio di giornate di incontri molto positivi a Casa Milan, in vista del mercato di gennaio e per tutti i piani per il resto della stagione."
-    },
-    {
-      "id": "af29fe2b1fb2",
-      "title": "Amorim: \"Nel Milan tutti pronti, anche Pavlovic convocato\"",
-      "url": "https://www.milannews.it/news/calcio-amorim-milan-pronti-pavlovic-convocato-636912",
-      "source": "milannews.it",
-      "date": "2026-11-21T22:24:53+00:00",
-      "summary": "(ANSA) - MILANO, 21 NOV - \"Tutti sono pronti e a disposizione. Abbiamo dovuto gestire i carichi di lavoro visto che alcuni hanno giocato."
-    },
-    {
-      "id": "c5f28c3059cf",
-      "title": "Frattesi, parole al miele per Gattuso: “Mi ha salvato la vita”. E l’ex Milan risponde: “Tutto merito suo”",
-      "url": "https://www.milannews.it/news/frattesi-parole-miele-gattuso-mi-salvato-vita-l-ex-milan-risponde-tutto-merito-suo-636924",
-      "source": "milannews.it",
-      "date": "2026-11-21T22:12:05+00:00",
-      "summary": "Davide Frattesi e la Lazio di Gennaro Gattuso sembrano non aver voglia di fermarsi. Anche oggi, nel match delle 15:00 contro il Cagliari, non c’è stata partita perché i biancocelesti hanno spazzato via i sardi con un netto 3-0."
-    },
-    {
-      "id": "57b0d60a623f",
-      "title": "Serie A, torna a vincere il Napoli: la classifica aggiornata",
-      "url": "https://www.milannews.it/news/classifica-aggiornata-636917",
-      "source": "milannews.it",
-      "date": "2026-11-21T22:00:22+00:00",
-      "summary": "Terminato il sabato di Serie A con il posticipo tra Napoli e Torino, questa è la classifica aggiornata."
-    },
-    {
-      "id": "8b72467818cb",
-      "title": "Il Napoli soffre ma conquista i tre punti: è 1-0 contro il Torino",
-      "url": "https://www.milannews.it/news/napoli-torino-risultato-636916",
-      "source": "milannews.it",
-      "date": "2026-11-21T21:48:56+00:00",
-      "summary": "Al Maradona di Napoli gli azzurri di Massimiliano Allegri hanno ospitato i granata di Ignazio Abate."
-    },
-    {
-      "id": "85e46c669a0e",
-      "title": "Pellegatti fa notare: “Bell’ammissione di Amorim su Gonçalo Ramos, la squadra deve aiutarlo di più”",
-      "url": "https://www.milannews.it/news/pellegatti-notare-bell-ammissione-amorim-goncalo-ramos-squadra-aiutarlo-piu-636923",
-      "source": "milannews.it",
-      "date": "2026-11-21T21:36:55+00:00",
-      "summary": "Nel suo canale YouTube, Carlo Pellegatti ha commentato le parole rilasciate dall’allenatore del Milan Ruben Amorim in merito alla mancanza di gol di Gonçalo Ramos. Queste le sue parole."
-    },
-    {
-      "id": "4e7bb97ebcb7",
-      "title": "Malagò sull'Italia U17: \"Spirito di collaborazione dai club: segnale positivo\"",
-      "url": "https://www.milannews.it/news/calcio-malago-italia-under-17-spirito-collaborazione-club-e-segnale-positivo-636883",
-      "source": "milannews.it",
-      "date": "2026-11-21T21:24:44+00:00",
-      "summary": "\"Ci sono tante Nazionali. Questa Under 17 è sicuramente quella dalla prospettiva più importante non solo nel medio, ma nel lungo termine."
-    },
-    {
-      "id": "c38cce001646",
-      "title": "Moretto: \"Il Milan vuole arrivare al rinnovo di contratto di Rabiot entro la fine dell’anno”",
-      "url": "https://www.milannews.it/calciomercato-milan/moretto-il-milan-vuole-arrivare-rinnovo-contratto-rabiot-entro-dell-anno-636919",
-      "source": "milannews.it",
-      "date": "2026-11-21T21:11:25+00:00",
-      "summary": "Non è una sorpresa, ve lo raccontiamo da settimane su MilanNews (clicca QUI): Gerry Cardinale vorrebbe chiudere il rinnovo di Adrien Rabiot entro Natale."
-    },
-    {
-      "id": "37bdd0114890",
-      "title": "Il rendimento di Cisse è impressionante: un gol ogni 82 minuti in stagione",
-      "url": "https://www.milannews.it/news/cisse-gazzetta-fa-gol-82-minuti-milan-piedi-636854",
-      "source": "milannews.it",
-      "date": "2026-11-21T21:00:03+00:00",
-      "summary": "In questo inizio di stagione Alphadjo Cisse si è preso con dedizione e silenzio la scena."
-    },
-    {
-      "id": "759f26e4b9df",
-      "title": "Eurorivali, anche l'Olympiacos in campo domani alle ore 18",
-      "url": "https://www.milannews.it/l-avversario/eurorivali-olympiacos-campo-domani-18-636885",
-      "source": "milannews.it",
-      "date": "2026-11-21T20:48:39+00:00",
-      "summary": "Il Milan domani riprende le fila con la sua stagione, in campionato contro il Frosinone a San Siro. Un impegno altrettanto importante, però, è quello che arriverà subito dopo, giovedì 26 novembre alle ore 18."
-    },
-    {
-      "id": "eae8a295f7d7",
-      "title": "Spalletti sull'ombra di Conte: \"È normale sperare in panchine importanti\"",
-      "url": "https://www.milannews.it/news/calcio-juve-spalletti-conte-normale-sperare-panchine-importanti-636907",
-      "source": "milannews.it",
-      "date": "2026-11-21T20:36:41+00:00",
-      "summary": "(ANSA) - TORINO, 21 NOV - \"Trovo normale che un allenatore senza squadra speri di sedersi su una panchina importante come quella della Nazionale, quella del Milan, del Manchester United o della Juventus\": così il tecnico bianconero,  ..."
-    },
-    {
-      "id": "170399f10b6d",
-      "title": "Milan-Frosinone, domani arbitra Pairetto: il bilancio con i rossoneri",
-      "url": "https://www.milannews.it/i-tabellini/milan-frosinone-domani-arbitra-pairetto-bilancio-rossoneri-636884",
-      "source": "milannews.it",
-      "date": "2026-11-21T20:24:30+00:00",
-      "summary": "L'AIA ha deciso di designare l'arbitro Luca Pairetto per la partita di domani in campionato del Milan contro il Frosinone, valida per la dodicesima giornata del campionato di Serie A Enilive."
-    },
-    {
-      "id": "d0b424ca0793",
-      "title": "Bundesliga, Kane si infortuna e il Bayern lo perde per \"diversi mesi\"",
-      "url": "https://www.milannews.it/news/bundesliga-kane-infortuna-bayern-perde-diversi-mesi-636843",
-      "source": "milannews.it",
-      "date": "2026-11-21T20:12:40+00:00",
-      "summary": "(ANSA) - ROMA, 20 NOV - Tegola per il Bayern Monaco, che al ripresa della Bundesliga dopo la sosta per le nazionali non solo ha pareggiato 1-1 in casa col Colonia, ma soprattutto ha perso per diverso tempo Harry Kane."
-    },
-    {
-      "id": "7568c193803f",
-      "title": "Gozzini: \"Cisse è nettamente il miglior marcatore del Milan\"",
-      "url": "https://www.milannews.it/news/gozzini-cisse-nettamente-miglior-marcatore-milan-636889",
-      "source": "milannews.it",
-      "date": "2026-11-21T20:00:33+00:00",
-      "summary": "Alphadjo Cisse è tornato a Milanello dopo la sosta, forte della sua prima esperienza in Nazionale maggiore con tanto di esordio ufficiale nella deludente partita contro il Belgio a Bruxelles: il giovane talento rossonero è ..."
-    },
-    {
-      "id": "4c1c7e0860b1",
-      "title": "Il commento di Ruben Amorim sulle iniziative di Fondazione Milan",
-      "url": "https://www.milannews.it/news/commento-ruben-amorim-iniziative-fondazione-milan-636908",
-      "source": "milannews.it",
-      "date": "2026-11-21T19:48:33+00:00",
-      "summary": "Ruben Amorim ha aperto la conferenza stampa della vigilia della gara tra Milan e Frosinone con un pensiero sulle attività di Fondazione Milan."
     },
     {
       "id": "d10fa9c09946",
@@ -368,14 +376,6 @@
       "source": "sempremilan.com",
       "date": "2026-11-21T09:30:00+00:00",
       "summary": "Bruno Fernandes has ended up on AC Milan’s radar ahead of the summer, according to reports, with a free transfer potentially on the cards.  Ever since the summer, when the BBC were the first to report on Milan’s interest, Fernandes has been brought up by various outlets as an option for the Rossoner"
-    },
-    {
-      "id": "fb384f711ff6",
-      "title": "GdS: Cisse becomes a pillar as Amorim as experiments with four-man attack",
-      "url": "https://sempremilan.com/cisse-pillar-amorim-four-man-attack",
-      "source": "sempremilan.com",
-      "date": "2026-11-21T09:00:05+00:00",
-      "summary": "Alphadjo Cisse has definitely been the breakout player of the season so far and Ruben Amorim has no intention of dialling down his presence in attack.  Milan had a very clear plan when they headed into the current season: Goncalo Ramos would be the main man in attack. Instead, however, it’s the unde"
     },
     {
       "id": "40ca1f981bc3",
