@@ -1,29 +1,213 @@
 {
-  "lastUpdated": "2026-11-23T17:23:29.254386+00:00",
+  "lastUpdated": "2026-11-24T03:48:06.333349+00:00",
   "articles": [
     {
-      "id": "842561b38296",
-      "title": "Milan e Inter a braccetto con la fortuna: sono le migliori squadre per autogol a favore",
-      "url": "https://www.milannews.it/news/milan-inter-braccetto-fortuna-migliori-squadre-autogol-637090",
+      "id": "a32c16efa2e6",
+      "title": "Sabatini: \"Cardinale sta facendo il presidente alla Berlusconi. Se a gennaio investe, il Milan compete per lo scudetto\"",
+      "url": "https://www.milannews.it/news/sabatini-cardinale-presidente-berlusconi-gennaio-investe-milan-compete-scudetto-637175",
       "source": "milannews.it",
-      "date": "2026-11-23T17:20:15+00:00",
-      "summary": "Il Milan ha beneficiato di due autogol a favore nella Serie A in corso, nessuna squadra ne conta di più in questo massimo campionato (a quota due anche l’Inter)."
+      "date": "2026-11-24T00:00:10+00:00",
+      "summary": "Sandro Sabatini commenta il “nuovo” Cardinale."
     },
     {
-      "id": "646ac8a87bbd",
-      "title": "VIDEO - Che gol Pulisic, ma guardate cosa fa Modric! Immenso Luka",
-      "url": "https://www.milannews.it/news/video-gol-pulisic-guardate-modric-immenso-luka-637167",
+      "id": "dedbd45cf8aa",
+      "title": "Cruciani: \"Cardinale, due parole in italiano...\". Poi Zazzaroni bacchetta: \"Credo debba stare molto attento ai conti\"",
+      "url": "https://www.milannews.it/news/cruciani-cardinale-parole-italiano-zazzaroni-bacchetta-credo-debba-stare-attento-conti-637173",
       "source": "milannews.it",
-      "date": "2026-11-23T17:09:45+00:00",
-      "summary": "Qual è la cosa più bella del gol di Christian Pulisic in Milan-Frosinone 5-1? Lo scavetto dolce? La freddezza? La grande velocità con cui supera tutti? No. È la corsa di Luka Modric."
+      "date": "2026-11-23T23:50:53+00:00",
+      "summary": "Durante l'ultima puntata del podcast Numer1 Cruciani, Zazzaroni e Sabatini parlano di Cardinale e dell'entusiasmo del numero uno di RedBird per la prossima finestra di mercato."
     },
     {
-      "id": "9d648e3d23d8",
-      "title": "Reato di contropiede. Il Milan legge bene la partita, ma non va mai bene. Eppure, ascoltate cosa dice Amorim",
-      "url": "https://www.milannews.it/primo-piano/reato-contropiede-milan-convince-bene-eppure-ascoltate-amorim-637166",
+      "id": "b284521f295d",
+      "title": "Era da più di due anni e mezzo che il Milan non segnava cinque gol a San Siro",
+      "url": "https://www.milannews.it/news/milan-segnava-gol-san-siro-637098",
       "source": "milannews.it",
-      "date": "2026-11-23T17:00:00+00:00",
-      "summary": "Tutte le polemiche e i malcelati fastidi mascherati dal detto-non detto che punta a sminuire la vittoria del Milan per 5-1 sul Frosinone sono state spenti dalle parole di mister Amorim in conferenza stampa al termine della sfida di San Siro: \"Gi ..."
+      "date": "2026-11-23T23:40:22+00:00",
+      "summary": "Il Milan ha segnato almeno cinque reti in una gara di Serie A per la prima volta dall’11 maggio 2024 contro il Cagliari (5-1 in casa anche in quel caso). Lo riporta Opta."
+    },
+    {
+      "id": "23c310c07970",
+      "title": "Pellegatti esulta: “Finalmente il gol di Ramos, Rabiot partita incredibile”",
+      "url": "https://www.milannews.it/news/pellegatti-esulta-finalmente-gol-ramos-rabiot-partita-incredibile-637143",
+      "source": "milannews.it",
+      "date": "2026-11-23T23:30:12+00:00",
+      "summary": "Nel suo canale YouTube, il collega Carlo Pellegatti ha commentato la larga vittoria del Milan ai danni del Frosinone nell’ultima giornata di campionato. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "b3a004579c5b",
+      "title": "Esordio clamoroso per Pochettino allo Utd: crollo totale in casa del Liverpool",
+      "url": "https://www.milannews.it/dall-estero/premier-esordio-amaro-pochettino-united-10-crolla-liverpool-637066",
+      "source": "milannews.it",
+      "date": "2026-11-23T23:20:49+00:00",
+      "summary": "(ANSA) - ROMA, 22 NOV - Comincia in salita l'avventura di Mauricio Pochettino sulla panchina del Manchester United, sconfitto 4-0 dal Liverpool."
+    },
+    {
+      "id": "d75acc155dc1",
+      "title": "Verso Napoli-Milan: Allegri perde un centrocampista per infortunio",
+      "url": "https://www.milannews.it/l-avversario/calcio-vergara-lesione-bicipite-femorale-out-637160",
+      "source": "milannews.it",
+      "date": "2026-11-23T23:10:00+00:00",
+      "summary": "(ANSA) - NAPOLI, 23 NOV - Le brutte sensazioni di Antonio Vergara sono confermate dagli esami strumentali svolti al Pineta Grande Hospital: per il centrocampista del Napoli, infortunatosi nel corso del match di sabato sera contro il Torino al Maradon ..."
+    },
+    {
+      "id": "16a8892e7902",
+      "title": "Primissimo obiettivo: un terzino sinistro. L’accordo è avvenuto. Finalmente. Milan-Endrick. Rabiot strepitoso",
+      "url": "https://www.milannews.it/editoriale/primissimo-obiettivo-terzino-sinistro-l-accordo-avvenuto-finalmente-milan-endrick-rabiot-strepitoso-637174",
+      "source": "milannews.it",
+      "date": "2026-11-23T23:00:13+00:00",
+      "summary": "La bellissima vittoria contro il Frosinone dovrebbe far riflettere su cosa serva al Milan in vista del mercato di gennaio."
+    },
+    {
+      "id": "c6934700160d",
+      "title": "Borriello: \"Ronaldinho il giocatore che mi ha stupito di più, Rio Ferdinand il difensore più difficile da affrontare\"",
+      "url": "https://www.milannews.it/gli-ex/borriello-ronaldinho-giocatore-stupito-piu-rio-ferdinand-difensore-difficile-affrontare-637157",
+      "source": "milannews.it",
+      "date": "2026-11-23T22:50:00+00:00",
+      "summary": "L'ex attaccante del Milan, Marco Borriello è stato intervistato in un particolare format su Tik Tok. Il podcast prevedeva delle domande particolari, personali e sulla carriera dell'ex centravanti napoletano."
+    },
+    {
+      "id": "4a891608b1b3",
+      "title": "Tre punti per Milan Futuro: le dichiarazioni di alcuni protagonisti della vittoria di domenica",
+      "url": "https://www.milannews.it/news/punti-milan-futuro-dichiarazioni-protagonisti-vittoria-domenica-637065",
+      "source": "milannews.it",
+      "date": "2026-11-23T22:40:58+00:00",
+      "summary": "Il Milan Futuro torna alla grande dalla sosta delle Nazionali e vince 3-0 contro la Tritium, in occasione della tredicesima giornata del girone B di Serie D che si è giocata allo stadio \"Felice Chinetti\" di Solbiate Ar ..."
+    },
+    {
+      "id": "4a2ec6b7c657",
+      "title": "Milan, è un momento magico in campionato: Sabatini stupito del rendimento di Amorim",
+      "url": "https://www.milannews.it/news/milan-magico-campionato-sabatini-stupito-rendimento-amorim-637162",
+      "source": "milannews.it",
+      "date": "2026-11-23T22:30:00+00:00",
+      "summary": "In merito agli ottimi risultati del Milan finora in campionato, il giornalista Sandro Sabatini ha voluto commentare così, direttamente dal suo canale YouTube la bella vittoria dei rossoneri ieri contro il Frosinone."
+    },
+    {
+      "id": "6ff30f0d17fe",
+      "title": "Pellegatti e il paragone a Modric, Pulisic e Moreira: \"Sono grandi artisti, hanno dipinto opere ieri\"",
+      "url": "https://www.milannews.it/news/pellegatti-paragone-modric-pulisic-moreira-sono-grandi-artisti-dipinto-opere-ieri-637161",
+      "source": "milannews.it",
+      "date": "2026-11-23T22:20:00+00:00",
+      "summary": "Mai banale Carlo Pellegatti, noto tifoso e giornalista rossonero che, dopo la meravigliosa partita giocata dal Milan ieri contro il Frosinone, direttamente nel suo canale youtube ha voluto parlare così del rendimento di alcuni rossoneri in cam ..."
+    },
+    {
+      "id": "be9e014bad02",
+      "title": "Ordine fa notare: “Amorim si è vestito da Allegri ed ha aspettato il Frosinone al varco. È c’è un dettaglio…”",
+      "url": "https://www.milannews.it/news/ordine-notare-amorim-vestito-allegri-aspettato-frosinone-varco-c-e-dettaglio-637146",
+      "source": "milannews.it",
+      "date": "2026-11-23T22:10:45+00:00",
+      "summary": "Il noto giornalista Franco Ordine, nel consueto commento per il Corriere della Sera, ha scritto così della partita di San Siro tra Milan e Frosinone vinta 5-1 dai rossoneri. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "d66ce0d96030",
+      "title": "Mauro pungente: \"Tanti gol in Serie A? I difensori sono un po' scarsi...\"",
+      "url": "https://www.milannews.it/news/calcio-mauro-tanti-gol-serie-a-difensori-scarsi-637158",
+      "source": "milannews.it",
+      "date": "2026-11-23T22:00:00+00:00",
+      "summary": "(ANSA) - ROMA, 23 NOV - \"Non riesco a vederla in positivo. Diciamoci la verità: i difensori sono un po' scarsi."
+    },
+    {
+      "id": "4d3690f03eeb",
+      "title": "Borriello non dimentica il Milan: \"Il ricordo più bello della mia carriera fu l'esordio in rossonero\"",
+      "url": "https://www.milannews.it/gli-ex/borriello-dimentica-milan-il-ricordo-bello-carriera-esordio-rossonero-637156",
+      "source": "milannews.it",
+      "date": "2026-11-23T21:50:00+00:00",
+      "summary": "L'ex attaccante del Milan, Marco Borriello è stato intervistato in un particolare format su Tik Tok. Il podcast prevedeva delle domande particolari, personali e sulla carriera dell'ex centravanti napoletano."
+    },
+    {
+      "id": "0162b21be70c",
+      "title": "Monza-Fiorentina 3-0, altro show di Varela. La classifica aggiornata",
+      "url": "https://www.milannews.it/news/monza-fiorentina-3-0-show-varela-classifica-aggiornata-637176",
+      "source": "milannews.it",
+      "date": "2026-11-23T21:40:16+00:00",
+      "summary": "La Fiorentina perde ancora, e male. Il Monza vince con un netto 3-0 in casa grazie ad una doppietta del solito Varela."
+    },
+    {
+      "id": "51d4cf15b23c",
+      "title": "Pellegatti soddisfatto: “È stato un florilegio di tocchi facilitato dall’atteggiamento offensivo del Frosinone”",
+      "url": "https://www.milannews.it/news/pellegatti-soddisfatta-e-florilegio-tocchi-facilitato-dall-atteggiamento-offensivo-frosinone-637142",
+      "source": "milannews.it",
+      "date": "2026-11-23T21:30:13+00:00",
+      "summary": "Nel suo canale YouTube, il collega Carlo Pellegatti ha commentato la larga vittoria del Milan ai danni del Frosinone nell’ultima giornata di campionato. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "65e3941fff3f",
+      "title": "Milan, il sogno di mercato è brasiliano? Tutti i gol e statistiche di Endrick col Real Madrid",
+      "url": "https://www.milannews.it/news/milan-sogno-mercato-brasiliano-gol-statistiche-endrick-real-madrid-636977",
+      "source": "milannews.it",
+      "date": "2026-11-23T21:20:00+00:00",
+      "summary": "Il mercato invernale del Milan potrebbe assumere un'importanza che non si vedeva da anni. I nomi e i sogni sono tantissimi."
+    },
+    {
+      "id": "54a36e7f70d5",
+      "title": "Ordine sottolinea: “Alvini non ha fatto i conti con l’astuzia di Amorim, accolto con pregiudizio”",
+      "url": "https://www.milannews.it/news/ordine-sottolinea-alvini-conti-l-astuzia-amorim-accolto-pregiudizio-637145",
+      "source": "milannews.it",
+      "date": "2026-11-23T21:10:37+00:00",
+      "summary": "Il noto giornalista Franco Ordine, nel consueto commento per il Corriere della Sera, ha scritto così della partita di San Siro tra Milan e Frosinone vinta 5-1 dai rossoneri. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "062d6864341e",
+      "title": "Neanche con Ancelotti, ma solo con Pioli, il Milan aveva ottenuto più punti dopo 12 giornate",
+      "url": "https://www.milannews.it/news/neanche-ancelotti-pioli-milan-ottenuto-punti-12-giornate-637080",
+      "source": "milannews.it",
+      "date": "2026-11-23T21:00:44+00:00",
+      "summary": "Il Milan ha ottenuto almeno 27 punti nei primi 12 match stagionali solo per la terza volta nelle ultime 20 stagioni di Serie A, dopo il 2021/22 (32) e il 2020/21 (28). Lo riporta Opta."
+    },
+    {
+      "id": "292603a2afbd",
+      "title": "Sabatini si complimenta: “Milan stellare, ritrovata fiducia da parte dei tifosi in questa squadra”",
+      "url": "https://www.milannews.it/news/sabatini-complimenta-milan-stellare-ritrovata-fiducia-tifosi-squadra-637149",
+      "source": "milannews.it",
+      "date": "2026-11-23T20:50:15+00:00",
+      "summary": "Nel suo canale YouTube, il giornalista Sandro Sabatini ha commentato e analizzato la netta vittoria dei rossoneri sul Frosinone per 5-1. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "c4bd89c12cc5",
+      "title": "Amorim calls Inacio ‘a great player’ but looks closer to home: “Need to look ahead”",
+      "url": "https://sempremilan.com/amorim-inacio-great-player-close-to-home",
+      "source": "sempremilan.com",
+      "date": "2026-11-23T19:30:00+00:00",
+      "summary": "Goncalo Inacio has been heavily linked to AC Milan this year, and Ruben Amorim has offered a few words about him as a player. In the past six months, Inacio’s name has become glued to Milan. The Portuguese defender has been a top-tier target for the club thanks to his ability and the fact that […]\nT"
+    },
+    {
+      "id": "b1537b89ec59",
+      "title": "AC Milan 5-1 Frosinone: Five things we learned – centrality and consistency",
+      "url": "https://sempremilan.com/ac-milan-5-1-frosinone-five-things-we-learned-centrality-and-consistency",
+      "source": "sempremilan.com",
+      "date": "2026-11-23T19:15:33+00:00",
+      "summary": "AC Milan put on a show at San Siro on Sunday night as they swept Frosinone aside emphatically, beating them 5-1. The own-goal that Gabriele Calvani scored a few minutes in set the tone for the visitors, while Goncalo Ramos broke his drought after starting and finishing a counter-attack. However, Pat"
+    },
+    {
+      "id": "17084bccfdc9",
+      "title": "“I honestly didn’t expect it” – Journalist claims Milan have made €70m offer for Endrick",
+      "url": "https://sempremilan.com/journalist-claims-milan-70m-offer-endrick",
+      "source": "sempremilan.com",
+      "date": "2026-11-23T18:30:00+00:00",
+      "summary": "It seems AC Milan have made an offer for Endrick in recent days, with a Spanish journalist shocked at the situation. Talk of Endrick arriving at San Siro is dominating the news, and it’s clear that Milan are not messing around here. Indeed, they are looking to beat off interest from other European c"
+    },
+    {
+      "id": "1e9a0ecc4d83",
+      "title": "Reports: Milan reach agreement with Eintracht Frankfurt for Krösche – January start date penned",
+      "url": "https://sempremilan.com/milan-reach-agreement-eintracht-frankfurt-krosche",
+      "source": "sempremilan.com",
+      "date": "2026-11-23T18:00:00+00:00",
+      "summary": "AC Milan have made their move for Marcus Krösche and it seems like it’ll be a matter of time until it’s official, according to reports in Germany. Krösche is maybe the most anticipated signing of the season, with reports linking him with a move to Milan since before the summer. Even before then, the"
+    },
+    {
+      "id": "77670d068110",
+      "title": "Football Italia Show: Malen on fire, Inter’s old problem & Amorim learns from Man Utd mistakes",
+      "url": "https://football-italia.net/football-italia-malen-fire-inter-problem-milan/",
+      "source": "football-italia.net",
+      "date": "2026-11-23T17:52:45+00:00",
+      "summary": "Lorenzo Bettoni and Giancarlo Rinaldi are back with the first weekly episode of the Football..."
+    },
+    {
+      "id": "1a30c9303398",
+      "title": "Footy Headlines: Puma to deliver ‘pure and traditional’ final home shirt for Milan in 2027-28",
+      "url": "https://sempremilan.com/puma-deliver-traditional-final-shirt-milan",
+      "source": "sempremilan.com",
+      "date": "2026-11-23T17:30:00+00:00",
+      "summary": "The recent talk about AC Milan and kits has involved Adidas and a report has taken us back a year to Puma’s final shirt. Next year, Puma will release their final home shirt for Milan, ending a 10-year stint as the club’s technical partner. It’s been an up-and-down period for the Rossoneri, but their"
     },
     {
       "id": "82518e32bf95",
@@ -34,44 +218,12 @@
       "summary": "AC Milan treated fans in San Siro and across the world to a dominant display on Sunday night, as they beat Frosinone 5-1.  In recent seasons, a significant win against the visitors may have gone under the radar. However, Milan picked apart a side that was in the European places before the start of t"
     },
     {
-      "id": "ecbc1645b87c",
-      "title": "Serafini: \"Mi dissocio da quei commenti molto severi sul Frosinone: risultato pesante. Però bene il Milan e Amorim\"",
-      "url": "https://www.milannews.it/news/serafini-mi-dissocio-quei-commenti-severi-frosinone-risultato-pesante-milan-amorim-637126",
-      "source": "milannews.it",
-      "date": "2026-11-23T16:50:07+00:00",
-      "summary": "Luca Serafini, giornalista, si è così espresso su MilanCommunityTV commentando la vittoria del Milan contro il Frosinone: \"Rabiot stasera è stata una furia nella vittoria rotondissima del 5-1 del Milan sul Frosinone."
-    },
-    {
-      "id": "3363600c65b3",
-      "title": "Incredibile! Rabiot fa come Kakà: sette partite di fila con almeno un gol o un assist",
-      "url": "https://www.milannews.it/news/incredibile-rabiot-kaka-partite-fila-almeno-gol-assist-637088",
-      "source": "milannews.it",
-      "date": "2026-11-23T16:40:58+00:00",
-      "summary": "Adrien Rabiot è il primo centrocampista del Milan a partecipare ad almeno una rete (tra gol e assist) in sette presenze di fila in Serie A a partire da Kaká nel 2004 (sette). Lo riporta Opta."
-    },
-    {
-      "id": "ca2e9d64d394",
-      "title": "Ranocchia avverte: \"Bisogna capire se il Milan regge perché non hai tanti sostituti per certi giocatori\"",
-      "url": "https://www.milannews.it/news/ranocchia-avverte-bisogna-capire-milan-regge-tanti-sostituti-giocatori-637135",
-      "source": "milannews.it",
-      "date": "2026-11-23T16:30:08+00:00",
-      "summary": "Andrea Ranocchia, opinionista, si è così espresso a Pressing su Mediaset commentando la vittoria del Milan sul Frosinone: \"Quando vinci un derby — o comunque quando quasi tutte le squadre vincono contro l'Inter —, t ..."
-    },
-    {
       "id": "47f95d99d1c5",
       "title": "GdS: ‘Plays, scores and has fun’ – Pulisic the star in a Milan team rivalling the greats",
       "url": "https://sempremilan.com/pulisic-star-milan-team-rivalling-greats",
       "source": "sempremilan.com",
       "date": "2026-11-23T16:30:00+00:00",
       "summary": "Last night, AC Milan added another five goals to their tally in Serie A, making it one of their best starts to a season ever. With Ruben Amorim, Milan are no longer the defence-first team that Massimiliano Allegri made them. Instead, they’re fluid, attacking and dangerous and the statistics show as "
-    },
-    {
-      "id": "34313a042930",
-      "title": "Amorim: \"Gonçalo Inacio gran giocatore, ma in quel ruolo abbiamo Pavlovic e Diawara, che è giovane ma sta rispondendo bene\"",
-      "url": "https://www.milannews.it/calciomercato-milan/amorim-goncalo-inacio-gran-giocatore-ruolo-pavlovic-diawara-giovane-rispondendo-bene-637165",
-      "source": "milannews.it",
-      "date": "2026-11-23T16:20:14+00:00",
-      "summary": "Al termine di Milan-Frosinone mister Amorim ha parlato anche ai microfoni di Sport TV Portugal, rispondendo a domanda specifica su Gonçalo Inacio."
     },
     {
       "id": "303f9b8b0a3e",
@@ -82,28 +234,12 @@
       "summary": "Monday’s reports claim that Milan have reached an agreement with Eintracht Frankfurt over the compensation..."
     },
     {
-      "id": "68a18aea83d4",
-      "title": "Brocchi: \"Cardinale l'anno scorso è rimasto particolarmente scottato dalla mancata qualificazione in Champions\"",
-      "url": "https://www.milannews.it/news/brocchi-cardinale-lui-rimasto-particolarmente-scottato-mancata-qualificazione-champions-637043",
-      "source": "milannews.it",
-      "date": "2026-11-23T16:10:00+00:00",
-      "summary": "Nel post partita di Milan-Frosinone, sfida vinta dalla formazione di Ruben Amorim per 5 a 1, l'ex Milan Cristian Brocchi ha così parlato ai microfoni di DAZN della squadra rossonera: \"È vero che il Frosinone ti dà l&rsqu ..."
-    },
-    {
       "id": "5ed699a33faf",
       "title": "Milan strike €5m agreement with Eintracht Frankfurt for new Head of Football Krösche",
       "url": "https://football-italia.net/milan-strike-5m-agreement-for-krosche/",
       "source": "football-italia.net",
       "date": "2026-11-23T16:01:20+00:00",
       "summary": "Multiple outlets in Italy and Germany are reporting that Milan have reached an agreement with..."
-    },
-    {
-      "id": "101b42b170c1",
-      "title": "Con Allegri nel 2026 non era mai successo che il Milan vincesse tre partite di fila",
-      "url": "https://www.milannews.it/news/allegri-2026-successo-milan-vincesse-partite-fila-637085",
-      "source": "milannews.it",
-      "date": "2026-11-23T16:00:49+00:00",
-      "summary": "Il Milan ha vinto almeno tre partite di fila in Serie A per la prima volta nel 2026, l’ultima infatti era capitata tra novembre e dicembre 2025 (tre anche in quel caso). Lo riporta Opta."
     },
     {
       "id": "8298581a37c9",
@@ -114,30 +250,6 @@
       "summary": "Speaking to French TV, Adrien Rabiot has looked at the interest from Ruben Amorim in a renewal at AC Milan and praised the Portuguese.  It’s no secret that Rabiot is one of Milan’s most important players. Gerry Cardinale admitted that he’s something of a ‘franchise player’ already and the love from "
     },
     {
-      "id": "a055191f4c16",
-      "title": "Sabatini: \"Il Frosinone non gioca a calcio! Dicendo così, non voglio sminuire il Milan\"",
-      "url": "https://www.milannews.it/news/sabatini-il-frosinone-gioca-calcio-dicendo-cosi-voglio-sminuire-milan-637124",
-      "source": "milannews.it",
-      "date": "2026-11-23T15:50:08+00:00",
-      "summary": "Sandro Sabatini, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan per 5-1 contro il Frosinone: “Milan stellare, cinque vittorie nelle ultime sei partite, una posizione in classifica sem ..."
-    },
-    {
-      "id": "9d5e5ecc6692",
-      "title": "Chivu non trova alibi nella rimonta subìta dalla sua Inter nel 4-4 con l'Atalanta",
-      "url": "https://www.milannews.it/news/inter-chivu-leggerezza-superficialita-637103",
-      "source": "milannews.it",
-      "date": "2026-11-23T15:40:18+00:00",
-      "summary": "(ANSA) - BERGAMO, 22 NOV - \"Tre volte in doppio vantaggio, non siamo riusciti a gestirlo per leggerezza, per superficialità o perché pensavamo che la partita fosse finita. A Bergamo lasciamo due punti\"."
-    },
-    {
-      "id": "df8b38dbb399",
-      "title": "Ramazzotti annuncia: \"Endrick per Cardinale è l’uomo giusto, Tresoldi serve meno tatticamente\"",
-      "url": "https://www.milannews.it/calciomercato-milan/ramazzotti-annuncia-endrick-per-cardinale-l-uomo-giusto-tresoldi-serve-tatticamente-637108",
-      "source": "milannews.it",
-      "date": "2026-11-23T15:30:19+00:00",
-      "summary": "Andrea Ramazzotti, giornalista, si è così espresso su La Gazzetta dello Sport sul calciomercato del Milan in attacco: \"Cardinale, che venerdì ha trascorso quattro ore a Casa Milan per analizzare e programmare le prossime mos ..."
-    },
-    {
       "id": "e5c47205003c",
       "title": "“Thank goodness I scored” – Kessie admits he still sees Inter as a ‘derby’ game",
       "url": "https://sempremilan.com/kessie-admits-sees-inter-derby-game",
@@ -146,60 +258,12 @@
       "summary": "Last night, AC Milan watched their former midfielder Franck Kessie help their top four chances and even their Scudetto hopes. After a 5-1 win at San Siro, things couldn’t have got much better for Milan last night. Yet, somehow, they did. Indeed, the late kick-off on Sunday saw Atalanta host Inter an"
     },
     {
-      "id": "2f503567aaf0",
-      "title": "Solo Yamal e Nusa, tra i giovani d'Europa, fanno meglio di Moreira per gol e assist",
-      "url": "https://www.milannews.it/news/yamal-nusa-giovani-europa-moreira-gol-assist-637086",
-      "source": "milannews.it",
-      "date": "2026-11-23T15:20:39+00:00",
-      "summary": "Tra i calciatori con almeno quattro gol segnati e quattro assist serviti nei cinque maggiori campionati europei in corso, solo Lamine Yamal (2007 – 10G, 9A) e Antonio Nusa (2005 – 5G, 7A) sono più giovani di Diego Moreira (agosto 2 ..."
-    },
-    {
-      "id": "449a6340b4fa",
-      "title": "Ambrosini: \"Da 23 anni Fondazione Milan trasforma la passione per il calcio in opportunità concrete\"",
-      "url": "https://www.milannews.it/news/ambrosini-da-23-fondazione-milan-trasforma-passione-calcio-opportunita-concrete-637070",
-      "source": "milannews.it",
-      "date": "2026-11-23T15:10:00+00:00",
-      "summary": "Prima della partita tra Milan e Frosinone, il Milan ha deciso di ritagliare un momento per dare visibilità alle attività benefiche di Fondazione Milan, portando all'attenzione dei tifosi alcune storie di beneficiari&n ..."
-    },
-    {
-      "id": "fa24ea8391eb",
-      "title": "Passerini sul Milan da Scudetto: \"Molto dipenderà dal mercato di gennaio\"",
-      "url": "https://www.milannews.it/calciomercato-milan/passerini-milan-scudetto-molto-dipendera-mercato-gennaio-637132",
-      "source": "milannews.it",
-      "date": "2026-11-23T15:00:29+00:00",
-      "summary": "Carlos Passerini, giornalista, si è così espresso sul Corriere della Sera commentando la vittoria del Milan per 5-1 contro il Frosinone: \"Nel Milan, ottima prova di squadra."
-    },
-    {
       "id": "b21fa12279c4",
       "title": "Moretto: Krösche ‘already operational’ ahead of Milan announcement – the latest on Hardung",
       "url": "https://sempremilan.com/krosche-already-operational-milan-latest-hardung",
       "source": "sempremilan.com",
       "date": "2026-11-23T15:00:00+00:00",
       "summary": "Matteo Moretto has confirmed that Markus Krösche’s arrival should be announced by AC Milan as early as next week. After their failed attempts to get Krösche out of Eintracht Frankfurt at the start of the summer, it seems as though Milan have finally got their man. Various sources have spoken of an a"
-    },
-    {
-      "id": "0b3aa4c18d50",
-      "title": "Pedullà: \"Lezione di calcio del Milan! La mano di Amorim si vede: bisogna riconoscerlo\"",
-      "url": "https://www.milannews.it/news/pedulla-lezione-calcio-milan-mano-amorim-vede-bisogna-riconoscerlo-637119",
-      "source": "milannews.it",
-      "date": "2026-11-23T14:50:16+00:00",
-      "summary": "Alfredo Pedullà, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan per 5-1 contro il Frosinone: \"Una bella lezione di calcio."
-    },
-    {
-      "id": "18815edeaa0b",
-      "title": "Periodo top per Pulisic: la media gol delle ultime quattro gare è impressionante",
-      "url": "https://www.milannews.it/news/periodo-top-pulisic-media-gol-ultime-gare-impressionante-637084",
-      "source": "milannews.it",
-      "date": "2026-11-23T14:40:41+00:00",
-      "summary": "Christian Pulisic è uno dei tre soli calciatori con almeno cinque reti realizzate in ognuno degli ultimi quattro campionati di Serie A, insieme a Marcus Thuram e Nikola Krstovic (dal 2023/24 la sua prima stagione in Italia). Lo riporta Opta."
-    },
-    {
-      "id": "3c94c0b8cb6d",
-      "title": "Accordo di massima raggiunto da poco tra il Milan, Krosche e l'Eintracht",
-      "url": "https://www.milannews.it/primo-piano/accordo-massima-raggiunto-milan-krosche-eintracht-637154",
-      "source": "milannews.it",
-      "date": "2026-11-23T14:30:43+00:00",
-      "summary": "Secondo quanto appreso da MilanNews.it da fonti provenienti dalla Germania, l'operazione tra Milan e Krosche è in dirittura d'arrivo."
     },
     {
       "id": "07b999410b78",
@@ -216,22 +280,6 @@
       "source": "football-italia.net",
       "date": "2026-11-23T14:29:45+00:00",
       "summary": "Gonçalo Ramos scored Milan’s second goal against Frosinone in Serie A on Sunday: a video..."
-    },
-    {
-      "id": "9fc9418db3cd",
-      "title": "E il Frosinone in Serie A non fa ma mai male al Milan: rossoneri ancora imbattuti contro i ciociari",
-      "url": "https://www.milannews.it/news/frosinone-serie-milan-rossoneri-imbattuti-ciociari-637094",
-      "source": "milannews.it",
-      "date": "2026-11-23T14:20:22+00:00",
-      "summary": "Il Milan è rimasto imbattuto in tutte le sette sfide contro il Frosinone in Serie A (5V, 2N): tra le squadre contro cui non hanno mai perso nella competizione, i rossoneri hanno all’attivo più gare giocate solo contro il Pisa (14) ..."
-    },
-    {
-      "id": "7f875e30677c",
-      "title": "Licari: \"Questo Milan indecifrabile per gli avversari, totale nei movimenti, in giornate così può mettere paura\"",
-      "url": "https://www.milannews.it/news/licari-questo-milan-indecifrabile-avversari-totale-movimenti-giornate-mettere-paura-637128",
-      "source": "milannews.it",
-      "date": "2026-11-23T14:10:26+00:00",
-      "summary": "Fabio Licari, giornalista, si è così espresso su La Gazzetta dello Sport commentando la vittoria del Milan contro il Frosinone: \"Si sono divertite tutte lassù con il pallottoliere: Roma, Juve, Lazio, ma forse il Milan di pi& ..."
     },
     {
       "id": "5a3123c469c6",
@@ -314,28 +362,12 @@
       "summary": "Alphadjo Cisse has revealed that he would like to add more assists to his game, as well as why he has Matteo Gabbia to thank above all. Milan put on a ruthless display at San Siro on Sunday night, beating Frosinone 5-1 to move back into the top four. Calvani’s own-goal started the rout, while […]\nTh"
     },
     {
-      "id": "71bf50142792",
-      "title": "GdS: ‘Turbo Milan’ – how Frosinone were dismantled by five-star counter-attacking display",
-      "url": "https://sempremilan.com/turbo-milan-five-star-counter-attacking",
-      "source": "sempremilan.com",
-      "date": "2026-11-23T09:30:00+00:00",
-      "summary": "AC Milan put in one of their best performances under Ruben Amorim so far to sweep aside Frosinone at San Siro. La Gazzetta dello Sport (seen below) begin a report by writing that Lazio, Roma and Juventus also had fun this weekend, scoring a flurry of goals in their victories, but it is Milan that […"
-    },
-    {
       "id": "4f5a9c77794c",
       "title": "The numbers behind Pulisic’s influence on Milan’s scintillating attack",
       "url": "https://football-italia.net/numbers-behind-pulisic-influence-milan/",
       "source": "football-italia.net",
       "date": "2026-11-23T09:14:11+00:00",
       "summary": "Christian Pulisic has contributed to a goal every 87 minutes for Milan this season, while..."
-    },
-    {
-      "id": "15e3fb4462c8",
-      "title": "Gallery: ‘A show of strength’, ‘Milan are in the mix’ – Today’s headlines in Italy",
-      "url": "https://sempremilan.com/front-pages-23-november-milan-5-1-frosinone",
-      "source": "sempremilan.com",
-      "date": "2026-11-23T09:00:00+00:00",
-      "summary": "Serie A action returned to San Siro on Sunday night, and AC Milan treated their fans to a five-star showing against Frosinone. It looked like a tricky game against a side who would have gone back into the European places with a draw, but Milan put on a ruthless counter-attacking performance to claim"
     },
     {
       "id": "36703c7ab112",
@@ -354,36 +386,12 @@
       "summary": "Adrien Rabiot believes Milan are growing as a team after he set up two goals..."
     },
     {
-      "id": "8bbc29f038bf",
-      "title": "Rabiot reveals belief Milan are ‘growing’ and commends Ramos: “Not everyone understands”",
-      "url": "https://sempremilan.com/rabiot-milan-growing-ramos-not-everyone",
-      "source": "sempremilan.com",
-      "date": "2026-11-22T20:01:45+00:00",
-      "summary": "Adrien Rabiot heaped praise on Goncalo Ramos for what he does for the team, but he also explained what AC Milan’s ‘problem’ is. Milan put on a show for their fans at San Siro on Sunday evening as they beat Frosinone 5-1. Gabriele Calvani’s own goal put the home side ahead, before Goncalo Ramos, Ardo"
-    },
-    {
       "id": "89324b1fa7ad",
       "title": "Cardinale: ‘I still expect Milan to compete for the Scudetto’",
       "url": "https://football-italia.net/cardinale-i-still-expect-milan-to-compete/",
       "source": "football-italia.net",
       "date": "2026-11-22T19:56:20+00:00",
       "summary": "Gerry Cardinale says he still expects Milan to compete for the Scudetto. He also warned..."
-    },
-    {
-      "id": "83c4e9507e9d",
-      "title": "Goals galore at San Siro: Instant reaction to AC Milan 5-1 Frosinone",
-      "url": "https://sempremilan.com/instant-reaction-milan-5-1-frosinone-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-22T19:46:19+00:00",
-      "summary": "Lorenzo recorded his reaction to AC Milan’s 5-1 win against Frosinone straight after the full-time whistle, highlighting how the signs of improvement are clear to see.  Milan headed into the game with a clear goal: to clinch a third consecutive win for the first time this season. While there were so"
-    },
-    {
-      "id": "e8be6aadf0d3",
-      "title": "Amorim proud of ‘intelligent, courageous’ Milan, world-class Rabiot and Ramos",
-      "url": "https://sempremilan.com/amorim-proud-intelligent-milan-rabiot-ramos",
-      "source": "sempremilan.com",
-      "date": "2026-11-22T19:43:08+00:00",
-      "summary": "Ruben Amorim insisted that he and his AC Milan team are not getting carried away despite hammering Frosinone, and are simply focusing on the next game. Milan were in a rampant mood tonight at San Siro, as they put five goals past Massimiliano Alvini’s side and it could have been more in truth. Gonca"
     },
     {
       "id": "7913885b54a6",
@@ -472,14 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-11-21T15:07:39+00:00",
       "summary": "Virgil van Dijk has been heavily linked with a move to Milan, and admits he..."
-    },
-    {
-      "id": "c31250370ef2",
-      "title": "Amorim: ‘Without Ramos, Milan don’t score, Baldini helped Camarda come back happier’",
-      "url": "https://football-italia.net/amorim-without-ramos-milan-dont-score/",
-      "source": "football-italia.net",
-      "date": "2026-11-21T14:11:36+00:00",
-      "summary": "Ruben Amorim says that he is encouraged by what he sees from club record signing..."
     }
   ]
 }
