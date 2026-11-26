@@ -1,13 +1,365 @@
 {
-  "lastUpdated": "2026-11-26T10:27:29.164100+00:00",
+  "lastUpdated": "2026-11-26T19:58:58.789667+00:00",
   "articles": [
     {
-      "id": "887ffa6b5485",
-      "title": "Milan ad Atene con nove infortunati. Chi può rientrare a Cagliari?",
-      "url": "https://www.milannews.it/news/milan-atene-infortunati-rientrare-cagliari-637420",
+      "id": "7e11842b7225",
+      "title": "Europa and Conference League Liveblog: Olympiacos-Milan, Juventus-Omonia, Borac-Atalanta",
+      "url": "https://football-italia.net/europa-liveblog-oly-milan-juventus-om-atalanta/",
+      "source": "football-italia.net",
+      "date": "2026-11-26T19:52:47+00:00",
+      "summary": "{rsn-live-v2}"
+    },
+    {
+      "id": "9893ddd40a60",
+      "title": "Watch: Moreira finishes counter to put Milan 4-2 up and seal win vs. Olympiacos",
+      "url": "https://sempremilan.com/watch-moreira-goal-olympiacos-2-4-milan",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T19:52:29+00:00",
+      "summary": "Diego Moreira got his first Europa League goal in an AC Milan shirt to put the game against Olympiacos to bed. After scoring three goals inside 15 minutes to come from two goals down, the final few seconds saw Milan finally kill it off. Olympiacos had a corner that produced a scramble inside the box"
+    },
+    {
+      "id": "d5b8eeaa700f",
+      "title": "Classifica aggiornata Europa League: il Milan risale ed è (per ora) tra le 24, vola",
+      "url": "https://www.milannews.it/news/classifica-aggiornata-europa-league-637447",
       "source": "milannews.it",
-      "date": "2026-11-26T10:24:09+00:00",
-      "summary": "Il Milan è decollato ieri pomeriggio da Malpensa per raggiungere Atene in vista della sfida di Europa League di stasera in casa dell'Olympiacos. Sul volo non erano presenti ben nove giocatori infortunati:  Saelemaekers, P."
+      "date": "2026-11-26T19:52:14+00:00",
+      "summary": "Si riporta di seguito - tra parentesi tonde le partite giocate, tra parentesi quadre la differenza reti - la classifica aggiornata della Europa League dopo cinque giornate disputate, ma in attesa delle partite delle ore 21:00:\n\nEUROPA LEAGUE, LA CL ..."
+    },
+    {
+      "id": "a063fa49a5dc",
+      "title": "Olympiacos-Milan 2-4, pagelle: Hutchinson è una furia, Pulisic ribalta la partita. Tomori decisivo",
+      "url": "https://www.milannews.it/pagelle/olympiacos-milan-2-4-pagelle-hutchinson-furia-pulisic-ribalta-partita-tomori-decisivo-637490",
+      "source": "milannews.it",
+      "date": "2026-11-26T19:46:00+00:00",
+      "summary": "Il Milan vince per 2-4 contro l'Olympiacos al termine di una partita da narrativa greca. Nel primo tempo scende nel regno di Ade, ovvero quello dei morti che sembrava aver inghiottito i rossoneri dopo il gol del 2-0."
+    },
+    {
+      "id": "40c710ac7a2e",
+      "title": "Risultati Europa League partite 18:45: ko clamoroso del Benfica, vince il Bournemouth",
+      "url": "https://www.milannews.it/news/risultati-europa-league-partite-18-45-637448",
+      "source": "milannews.it",
+      "date": "2026-11-26T19:45:25+00:00",
+      "summary": "Si riporta di seguito il programma completo delle partite di Europa League in programma oggi, valide per la quinta giornata della League Phase:\n\nEUROPA LEAGUE, PARTITE ORE 18:45\n\nBeşiktaş – H."
+    },
+    {
+      "id": "b1af66dcc031",
+      "title": "Olympiacos 2-4 AC Milan: Hutchinson inspires remarkable comeback in Greece",
+      "url": "https://sempremilan.com/olympiacos-2-4-ac-milan-match-report-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T19:45:17+00:00",
+      "summary": "AC Milan produced a stunning come-from-behind victory against Olympiacos, scoring four times unanswered to win 4-2. It looked like being another miserable European night for Milan, as they fell two goals behind inside 50 minutes. The first was given as a Mike Maignan own-goal after Lorenzo Pirola’s "
+    },
+    {
+      "id": "adcff3152bb7",
+      "title": "Guarda Omari quant'è bello: Hutchinson capopopolo guida la rimonta del Milan",
+      "url": "https://www.milannews.it/primo-piano/guarda-omari-quant-bello-hutchinson-capopopolo-guida-rimonta-milan-637489",
+      "source": "milannews.it",
+      "date": "2026-11-26T19:43:00+00:00",
+      "summary": "Guarda Omari quant'è bello. Non può che essere questo il titolo della partita che il Milan ha vinto in maniera clamorosa ad Atene contro un Olympiakos tignoso e falloso."
+    },
+    {
+      "id": "9e62ae29f4f3",
+      "title": "UEL | Olympiacos 2-4 Milan: Hutchinson inspiration for epic comeback",
+      "url": "https://football-italia.net/uel-olympiacos-2-4-milan-hutchinson-inspired/",
+      "source": "football-italia.net",
+      "date": "2026-11-26T19:40:45+00:00",
+      "summary": "Omari Hutchinson kept Milan’s Europa League hopes alive by inspiring the 4-2 comeback win away..."
+    },
+    {
+      "id": "e85237d9a0ed",
+      "title": "Olympiacos-Milan (2-4): un Hutchinson indiavolato trascina il Milan alla vittoria!",
+      "url": "https://www.milannews.it/primo-piano/olympiacos-milan-2-4-hutchinson-indiavolato-trascina-milan-vittoria-637464",
+      "source": "milannews.it",
+      "date": "2026-11-26T19:39:00+00:00",
+      "summary": "OLYMPIACOS-MILAN 2-4, FINE PARTITA. Omari Hutchinson è l'uomo copertina del Milan ad Atene! Rossoneri bruttissimi per 55 minuti, poi Hutchinson si inventa un gol \"maradoniano\" e suona la carica."
+    },
+    {
+      "id": "5fe40843418d",
+      "title": "OLY-MIL (2-4): Moreira chiude la partita, rimonta completata per i rossoneri",
+      "url": "https://www.milannews.it/news/oly-mil-2-4-moreira-chiude-partita-rimonta-completata-rossoneri-637488",
+      "source": "milannews.it",
+      "date": "2026-11-26T19:30:37+00:00",
+      "summary": "Al 94' arriva il gol che chiude la partita per i rossoneri."
+    },
+    {
+      "id": "b5a9a4ad3ee6",
+      "title": "Cisse in doppia cifra a fine novembre: arrivato il 10^ gol stagionale per il 70 rossonero",
+      "url": "https://www.milannews.it/news/cisse-doppia-cifra-novembre-arrivato-10-gol-stagionale-70-rossonero-637487",
+      "source": "milannews.it",
+      "date": "2026-11-26T19:24:54+00:00",
+      "summary": "Ancora una volta protagonista Alpa Cisse in zona realizzativa."
+    },
+    {
+      "id": "b7b8bbbdb704",
+      "title": "Watch: Hutchinson, Cisse and Pulisic score inside 15 minutes as Milan come back vs. Olympiacos",
+      "url": "https://sempremilan.com/hutchinson-cisse-pulisic-goals-olympiacos",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T19:22:09+00:00",
+      "summary": "AC Milan scored twice in quick succession against Olympiacos to haul themselves back from a two-goal deficit. Just as it looked like getting out of hand for Milan, Hutchinson scored a goal from nothing. Having seized possession inside his own half, the Englishman went on a brilliant solo run down th"
+    },
+    {
+      "id": "1bf6764e6ae9",
+      "title": "OLY-MIL (2-3): Secondo assist di Hutchinson, eurogol di Pulisic: il Milan la ribalta!",
+      "url": "https://www.milannews.it/news/oly-mil-2-3-assist-hutchinson-eurogol-pulisic-milan-ribalta-637484",
+      "source": "milannews.it",
+      "date": "2026-11-26T19:17:23+00:00",
+      "summary": "Cosa stiamo vedendo allo stadio Karaiskakis!! Dopo il gol del 2-1 segnato da Hutchinson i rossoneri hanno acceso la spina e nel giro di 20 minuti hanno ribaltato completamente il doppio svantaggio."
+    },
+    {
+      "id": "2ed6b2c8dd95",
+      "title": "OLY-MILAN (2-2): Mancava all’appello e puntualmente è arrivato: Cisse segna il pareggio per i rossoneri",
+      "url": "https://www.milannews.it/news/oly-milan-2-2-mancava-all-appello-puntualmente-arrivato-cisse-segna-pareggio-rossoneri-637483",
+      "source": "milannews.it",
+      "date": "2026-11-26T19:09:02+00:00",
+      "summary": "È bastato un lampo di Hutchinson per accendere i rossoneri che fino al 46' del secondo tempo non erano scesi in campo."
+    },
+    {
+      "id": "4770038ac612",
+      "title": "OLY-MIL (1-2): Lampo di Hutchinson nel buio di Atene: i rossoneri accorciano le distanze",
+      "url": "https://www.milannews.it/news/oly-mil-1-2-lampo-hutchinson-buio-atene-rossoneri-accorciano-distanze-637482",
+      "source": "milannews.it",
+      "date": "2026-11-26T19:02:00+00:00",
+      "summary": "Sembrava una serata destinata già al 46' del secondo tempo a finire male per i rossoneri e invece c'è ancora partita in Grecia."
+    },
+    {
+      "id": "c06819926af0",
+      "title": "OLY-MIL (2-0): Il Milan rimane nello spogliatoio: Jota Silva fa 2-0 per l’Olympiacos",
+      "url": "https://www.milannews.it/news/oly-milan-2-0-milan-rimane-spogliatoio-jota-silva-2-0-l-olympiacos-637481",
+      "source": "milannews.it",
+      "date": "2026-11-26T18:56:35+00:00",
+      "summary": "Doveva esserci una reazione dei rossoneri per provare a ribaltare lo svantaggio del primo tempo e invece, dopo soli 2 minuti della ripresa, è arrivato il raddoppio greco."
+    },
+    {
+      "id": "d1dd8886260b",
+      "title": "Doppio cambio per il Milan: Dentro Musah e Pulisic per Ramos ed Estupinian",
+      "url": "https://www.milannews.it/news/cambio-milan-musah-pulisic-ramos-estupinian-637480",
+      "source": "milannews.it",
+      "date": "2026-11-26T18:54:00+00:00",
+      "summary": "All'intrevallo Amorim ha optato per un doppio cambio doveroso: entrano Pulisic e Musah per Ramos ed Estupinan."
+    },
+    {
+      "id": "b65f3aba0aa8",
+      "title": "Gol Olympiacos, per la UEFA è autogol di Maignan",
+      "url": "https://www.milannews.it/news/gol-olympiacos-uefa-autogol-maignan-637478",
+      "source": "milannews.it",
+      "date": "2026-11-26T18:38:11+00:00",
+      "summary": "A fine primo tempo i rossoneri tornano nello spogliatoio in svantaggio di un gol al termine di 45 minuti non giocati bene dalla squadra di Amorim che all'intervallo dovrà scuotere i suoi per cercare di ribaltare il risultato."
+    },
+    {
+      "id": "e4aa424790c6",
+      "title": "Altra notte da incubo (per ora): il Milan sotto con l'Olympiacos all'intervallo",
+      "url": "https://www.milannews.it/news/altra-notte-incubo-per-ora-milan-olympiacos-intervallo-637479",
+      "source": "milannews.it",
+      "date": "2026-11-26T18:35:00+00:00",
+      "summary": "OLYMPIACOS-MILAN 1-0, FINE PRIMO TEMPO. È un Milan in formato europeo quello sceso in campo ad Atene questa sera, totalmente in bambola."
+    },
+    {
+      "id": "792e937f1dcb",
+      "title": "Ammonito De Winter, è la terza in Europa League: il difensore entra in diffida",
+      "url": "https://www.milannews.it/news/ammonito-de-winter-terza-europa-league-difensore-entra-diffida-637477",
+      "source": "milannews.it",
+      "date": "2026-11-26T18:32:33+00:00",
+      "summary": "Pochi minuti prima della fine del primo tempo, il difensore rossonero De Winter e l'attaccante dei greci Silva sono stati protagonisti di un battibecco fisico che ha portato entrambi all'ammonizione decisa dal direttore di gara Kavanagh."
+    },
+    {
+      "id": "4a9d875c6bfc",
+      "title": "OLY-MIL (1-0): Olympiacos in vantaggio, Pirola insacca a rete da calcio d’angolo",
+      "url": "https://www.milannews.it/news/olympiacos-vantaggio-pirola-insacca-rete-calcio-d-angolo-637476",
+      "source": "milannews.it",
+      "date": "2026-11-26T18:20:46+00:00",
+      "summary": "Dopo 30 minuti stallo dove i padroni di casa si erano comunque resi più pericolosi con un paio di conclusioni ben gestite dal portiere del Milan, i greci si sono portati in vantaggio con il gol di Pirola arrivato in seguito agli sviluppi di un ..."
+    },
+    {
+      "id": "23937b50fbe6",
+      "title": "Hutchinson ibrido e Cisse al fianco di Ramos: si schiera così il Milan di Amorim ad Atene",
+      "url": "https://www.milannews.it/news/hutchinson-ibrido-cisse-fianco-ramos-schiera-milan-amorim-atene-637475",
+      "source": "milannews.it",
+      "date": "2026-11-26T18:07:09+00:00",
+      "summary": "Dopo 19 minuti il risultato del Kaireskakis non si è ancora sbloccato, complice anche un gioco poco spumeggiante da parte di entrambe le squadre."
+    },
+    {
+      "id": "2bc47e0b0811",
+      "title": "Viviano: \"Stanno passando sotto traccia i risultati di Amorim\"",
+      "url": "https://www.milannews.it/news/viviano-stanno-passando-traccia-risultati-amorim-637454",
+      "source": "milannews.it",
+      "date": "2026-11-26T17:50:44+00:00",
+      "summary": "Durante il format “Le foot toujours” di Cronache di Spogliatoio, Emiliano Viviano e Fabrizio Biasin parlano dell’avvio di stagione del Milan di Amorim."
+    },
+    {
+      "id": "8b87b28cb192",
+      "title": "Amorim sulla formazione: “Attacchiamo e difendiamo in 11, i giocatori sono pronti”",
+      "url": "https://www.milannews.it/news/amorim-formazione-attacchiamo-difendiamo-11-giocatori-pronti-637470",
+      "source": "milannews.it",
+      "date": "2026-11-26T17:40:18+00:00",
+      "summary": "Mancano pochi minuti al fischio d'inizio della quinta partita della League Phase che vede i rossoneri ospiti dell'Olympiacos. Ruben Amorim è stato intervistato da Sky Sport nel pre partita di Olympiacos-Milan."
+    },
+    {
+      "id": "adf32a00b273",
+      "title": "Milan, clima infernale al Karaiskakis: pronta una coreografia dei tifosi dell’Olympiacos",
+      "url": "https://www.milannews.it/l-avversario/milan-clima-infernale-karaiskakis-pronta-coreografia-tifosi-casa-637472",
+      "source": "milannews.it",
+      "date": "2026-11-26T17:35:39+00:00",
+      "summary": "Tra pochi minuti inizierà il match tra Olympiacos e Milan valido per la 5^ giornata della League Phase. Ad accogliere i rossoneri, allo Stadio Karaiskakis, ci sarà un'atmosfera infernale."
+    },
+    {
+      "id": "6cc3b22cce7f",
+      "title": "Ramos sees Olympiacos clash as an ‘opportunity’ but admits: “It’s now or never”",
+      "url": "https://sempremilan.com/ramos-olympiacos-milan-now-or-never",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T17:25:23+00:00",
+      "summary": "Goncalo Ramos spoke to the media ahead of AC Milan’s game against Olympiacos, admitting that it’s now or never for the Rossoneri.  After clinching just three points in the first four games, Milan are well aware that a win is needed tonight. A top-eight finish is now out of reach, so we are talking a"
+    },
+    {
+      "id": "176aee50507a",
+      "title": "Amorim explains selection choices, Ferencvaros lessons and responsibility to win consistently",
+      "url": "https://sempremilan.com/amorim-ferencvaros-lessons-responsibility-win",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T17:21:44+00:00",
+      "summary": "AC Milan head coach Ruben Amorim knows that results are needed in Europe, but once again stressed that he foresees a ‘long-term project’. Milan have racked up just three out of 12 points in the first half of the league phase, meaning they really need to change gear if they are to progress into the ["
+    },
+    {
+      "id": "97fefb936af6",
+      "title": "Amorim: ‘Milan can defend better, were too soft in Europa League’",
+      "url": "https://football-italia.net/amorim-milan-can-defend-better-europa-league/",
+      "source": "football-italia.net",
+      "date": "2026-11-26T17:18:55+00:00",
+      "summary": "Ruben Amorim insists that despite a very attacking Milan line-up against Olympiacos, they can ‘defend..."
+    },
+    {
+      "id": "383a54d2a490",
+      "title": "Olympiacos vs. AC Milan: Live updates and commentary from the Europa League clash",
+      "url": "https://sempremilan.com/olympiacos-ac-milan-live-updates-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T17:10:00+00:00",
+      "summary": "{rsn-live-v2}\nThe post Olympiacos vs. AC Milan: Live updates and commentary from the Europa League clash appeared first on SempreMilan."
+    },
+    {
+      "id": "179b7539441b",
+      "title": "Official: Starting XIs for Olympiacos vs. AC Milan – four changes from Frosinone win",
+      "url": "https://sempremilan.com/official-starting-xis-olympiacos-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T16:40:35+00:00",
+      "summary": "AC Milan head coach Ruben Amorim has named his starting line-up for tonight’s crucial Europa League game away against Olympiacos. Milan have lost three of their opening four games in the competition and they are running out of runway to put things right. With 12 points up for grabs, the feeling is t"
+    },
+    {
+      "id": "ee064811e470",
+      "title": "Europa League line-ups: Olympiacos vs. Milan",
+      "url": "https://football-italia.net/europa-league-line-ups-olympiacos-vs-milan/",
+      "source": "football-italia.net",
+      "date": "2026-11-26T16:38:05+00:00",
+      "summary": "Milan are decimated by injuries, so Diego Moreira, Omari Hutchinson and Alphadjo Cisse support Goncalo..."
+    },
+    {
+      "id": "80c32bce4bfc",
+      "title": "Official: Ryan Rusu signs first professional contract with Milan Futuro",
+      "url": "https://sempremilan.com/ryan-rusu-first-professional-contract-milan",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T16:30:00+00:00",
+      "summary": "AC Milan have announced that another of their young talents has put pen to paper on their first senior contract. A statement on the official website reads as follows: “AC Milan can confirm that Ryan Eugen Rusu has signed his first professional contract. The midfielder, born in 2009, will be part of "
+    },
+    {
+      "id": "0f2b466a1199",
+      "title": "CorSport: Barcelona set €50m price for Balde as Milan plot loan bid – the situation",
+      "url": "https://sempremilan.com/barcelona-50m-balde-milan-loan-bid",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T16:00:00+00:00",
+      "summary": "AC Milan are looking at left-backs ahead of the winter transfer window, with a player at Barcelona having caught their eye. Corriere dello Sport (via Radio Rossonera) report this morning that Gerry Cardinale and the incoming Head of Football Markus Krösche want to strengthen in the wide areas, and A"
+    },
+    {
+      "id": "d6524e3da4e6",
+      "title": "Maignan and AC Milan receive nominations for 2026 Globe Soccer Awards",
+      "url": "https://sempremilan.com/maignan-milan-2026-globe-soccer-awards",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T15:30:00+00:00",
+      "summary": "The 2026 Globe Soccer Awards will be held on December 28 and AC Milan will be among the nominations. The Globe Soccer Awards – nicknamed the ‘Dubai d’Or’ – are an annual event held in the United Arab Emirates, recognising players, coaches, clubs and industry executives. The upcoming 17th Edition is "
+    },
+    {
+      "id": "7966eca6c030",
+      "title": "Tuttosport: Jashari ‘into the cauldron’ – chances arrive to justify €35m price tag",
+      "url": "https://sempremilan.com/jashari-into-the-cauldron-price-tag",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T15:00:00+00:00",
+      "summary": "AC Milan will be without Luka Modric for the must-win game against Olympiacos, presenting a chance to Ardon Jashari. According to Tuttosport, Modric will be missing this evening at the Karaiskakis Stadium in Athens, having suffered a muscle strain in his right thigh in the closing minutes of the mat"
+    },
+    {
+      "id": "15f8e898fa0c",
+      "title": "CM: A chance to change his fate – why Estupinan faces a big night vs. Olympiacos",
+      "url": "https://sempremilan.com/change-fate-estupinan-big-night-olympiacos",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T14:30:00+00:00",
+      "summary": "Among the many sub-plots to the game between Olympiacos and AC Milan, one concerns the future of the left-back position. As Calciomercato.com recall, Davide Bartesaghi will be forced to miss the away match due to tendinitis in his right leg. His absence is a significant one, as he was tipped for a s"
+    },
+    {
+      "id": "c6f78c45831d",
+      "title": "GdS: Milan join Serie A rivals in race for 13-goal Monza sensation Varela",
+      "url": "https://sempremilan.com/gds-milan-join-serie-a-rivals-in-race-for-13-goal-monza-sensation-varela",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T14:18:48+00:00",
+      "summary": "AC Milan have positioned themselves as one of the contenders in the race to sign Gustavo Varela, according to a report. If someone had told Varela in August that three months later he’d be on double figures for goals in Serie A (11, 13 all competitions), perhaps even he wouldn’t have believed it. As"
+    },
+    {
+      "id": "0288933c79de",
+      "title": "A tale of glory or misery in Greece: All the key stats ahead of Olympiacos vs. Milan",
+      "url": "https://sempremilan.com/all-key-stats-olympiacos-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T14:00:00+00:00",
+      "summary": "AC Milan and Olympiacos will face each other for a fifth time this evening, with the Greek side hosting the Rossoneri in Athens. The first two meetings came in 1959-60 and the other two were in 2018-19. In the European Cup clashes in 1959, the Rossoneri prevailed 5-3 on aggregate after drawing 2-2 i"
+    },
+    {
+      "id": "da9a05c0bd5e",
+      "title": "GdS: Super in Serie A, struggling in Europe – the reasons behind the ‘two-faced’ Milan",
+      "url": "https://sempremilan.com/the-reasons-behind-two-faced-milan",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T13:30:00+00:00",
+      "summary": "AC Milan are having a positive start to the 2026-27 season in Serie A, but in the Europa League they have been poor. Why exactly is that the case? Milan go into tonight’s game against Olympiacos needing a win in order to start putting things right in a competition in which they have so far […]\nThe p"
+    },
+    {
+      "id": "113cfaa83bec",
+      "title": "Picture: Leaked Milan 2027-28 home shirt for final year of Puma partnership",
+      "url": "https://football-italia.net/picture-leaked-milan-2027-28-home-shirt/",
+      "source": "football-italia.net",
+      "date": "2026-11-26T13:23:29+00:00",
+      "summary": "Pictures of the rumoured Milan home shirts for the 2027-28 season, which will be the..."
+    },
+    {
+      "id": "690c079ce65b",
+      "title": "Tonali explains his ‘two stories’ with Milan after turning from fan into player",
+      "url": "https://sempremilan.com/tonali-two-stories-milan-playing-fan",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T13:00:00+00:00",
+      "summary": "Sandro Tonali has once again revealed his love for AC Milan, and spoke of the emotion of playing for his boyhood team. Tonali played for Milan from 2020 to 2023, making 130 appearances and scoring seven goals, winning the Scudetto in 2021-22. He moved to Newcastle for €64m in what was a painful exit"
+    },
+    {
+      "id": "83a8af176f75",
+      "title": "Romano: Milan ‘very attentive’ and Cardinale ‘directly involved’ – the latest on Endrick",
+      "url": "https://sempremilan.com/milan-attentive-cardinale-real-madrid-endrick",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T12:30:00+00:00",
+      "summary": "AC Milan are waiting for updates on Endrick’s future at Real Madrid, with owner Gerry Cardinale seemingly ready to pounce. Milan and Roma have both been linked with a swoop for the Brazilian forward since the summer window, when any chance of an exit was ultimately kiboshed by the new head coach Jos"
+    },
+    {
+      "id": "0111790610e8",
+      "title": "Chances to put things right in Europe: The five key battles in Olympiacos vs. Milan",
+      "url": "https://sempremilan.com/five-key-battles-olympiacos-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T12:00:00+00:00",
+      "summary": "AC Milan will return to a city where they have a glorious history, but this time in dire need of a win to get their European campaign going. Tonight’s Europa League game against Olympiacos feels a long way away from those Champions League final triumphs in Athens against Barcelona (1994) and Liverpo"
+    },
+    {
+      "id": "1aa4266a27f5",
+      "title": "Inzaghi recalls beating Liverpool in Athens and ’emotional’ affection from Milan fans",
+      "url": "https://sempremilan.com/inzaghi-liverpool-athens-affection-milan-fans",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T11:30:00+00:00",
+      "summary": "In the hearts and minds of AC Milan fans around the world, Pippo Inzaghi’s name is inseparably linked to Athens. Inzaghi gave Milan their seventh Champions League title on 23 May 2007 in the Greek capital with a brace that swept Liverpool aside. The first goal was an Andrea Pirlo free-kick that he d"
+    },
+    {
+      "id": "37e14a59f2b4",
+      "title": "GdS: Predicted XIs for Olympiacos vs. Milan – Amorim opts for strong team in must-win",
+      "url": "https://sempremilan.com/predicted-xis-olympiacos-milan-2026-27",
+      "source": "sempremilan.com",
+      "date": "2026-11-26T11:00:00+00:00",
+      "summary": "AC Milan travel to Greece to face Olympiacos in the Europa League this evening in desperate need of a victory. Milan have won just one of their opening four European fixtures, which has them in the bottom 12 positions and currently set to crash out. Their opponents, meanwhile, have won three and dra"
     },
     {
       "id": "21b896507ee6",
@@ -18,70 +370,6 @@
       "summary": "Milan are in Athens ahead of their crucial Europa League match against Olympiacos on Thursday..."
     },
     {
-      "id": "b18624f0c7ec",
-      "title": "Giudice: \"Il Milan viaggia verso un rosso di 140-150 milioni nel bilancio 26/27. La Champions per schivare un settlement agreement\"",
-      "url": "https://www.milannews.it/news/giudice-il-milan-viaggia-rosso-140-150-bilancio-26-27-champions-schivare-settlement-agreement-637422",
-      "source": "milannews.it",
-      "date": "2026-11-26T10:12:53+00:00",
-      "summary": "Sulle pagine del Corriere dello Sport, Alessandro F."
-    },
-    {
-      "id": "441aa10f3819",
-      "title": "F.Inzaghi ricorda: \"Ad Atene una delle notti più importanti della mia carriera. Dopo quella finale mi svegliavo di notte pensando fosse un sogno\"",
-      "url": "https://www.milannews.it/gli-ex/f-inzaghi-ricorda-ad-atene-notti-importanti-carriera-finale-svegliavo-notte-pensando-sogno-637409",
-      "source": "milannews.it",
-      "date": "2026-11-26T10:00:18+00:00",
-      "summary": "Il Milan sarà impegnato stasera ad Atene dove non ha ma vinto nella sua storia, se non nelle finali di Champions League, come per esempio quella del 2007 contro il Liverpool grazie ad una doppietta di Filippo Inzaghi."
-    },
-    {
-      "id": "7a49363c4b2d",
-      "title": "‘A team we all respect’ – Jota Silva and Pirola preview Milan test for Olympiacos",
-      "url": "https://sempremilan.com/jota-silva-pirola-preview-olympiacos-milan",
-      "source": "sempremilan.com",
-      "date": "2026-11-26T10:00:00+00:00",
-      "summary": "Olympiacos duo Jota Silva and Lorenzo Pirola are looking forward to welcoming AC Milan to the Karaiskakis Stadium this evening. Milan travel to the Greek capital hoping to get their Europa League campaign up and running. They have won just one of their opening four league phase fixtures, which was a"
-    },
-    {
-      "id": "957f557a1c6b",
-      "title": "Chalaris: \"Olympiacos senza il suo attaccante titolare da settembre e ora ha perso tre giocatori chiave del centrocampo\"",
-      "url": "https://www.milannews.it/news/chalaris-olympiacos-attaccante-titolare-settembre-perso-giocatori-chiave-centrocampo-637416",
-      "source": "milannews.it",
-      "date": "2026-11-26T09:46:34+00:00",
-      "summary": "Notis Chalaris, giornalista di gazzetta.gr, intervistato in esclusiva da Milannews."
-    },
-    {
-      "id": "6d37473eb397",
-      "title": "Dalla Germania: Milan, accordo totale con Krosche. Firma vicina",
-      "url": "https://www.milannews.it/news/germania-milan-accordo-totale-krosche-firma-vicina-637415",
-      "source": "milannews.it",
-      "date": "2026-11-26T09:34:42+00:00",
-      "summary": "Secondo quanto riferisce la Bild, Markus Krosche è sempre più vicino a diventare il nuovo Head of Football del Milan: lo sbarco del dirigente tedesco in rossonero è imminente dopo che ha raggiunto un accordo con il club di via Al ..."
-    },
-    {
-      "id": "fdfb17a158c0",
-      "title": "GdS: ‘EuroMilan: the final call’ – four necessities to get the European campaign back on track",
-      "url": "https://sempremilan.com/milan-four-necessities-european-campaign-back",
-      "source": "sempremilan.com",
-      "date": "2026-11-26T09:30:00+00:00",
-      "summary": "AC Milan have made a false start in their Europa League campaign, and they are running out of chances to put things right. After losing three of their first four games in Europe, this morning’s edition of La Gazzetta dello Sport (seen below) writes that Milan must win away from home against Olympiac"
-    },
-    {
-      "id": "ed678765427c",
-      "title": "PROBABILE FORMAZIONE - Verso Olympiacos-Milan: Hutchinson e Jashari titolari",
-      "url": "https://www.milannews.it/news/probabile-formazione-milan-olympiacos-amorim-rabiot-pulisic-moreira-gila-europa-league-637292",
-      "source": "milannews.it",
-      "date": "2026-11-26T09:25:00+00:00",
-      "summary": "Dopo il ritorno con vittoria in campionato, il Milan di Ruben Amorim deve assolutamente tornare a vincere anche in Europa League."
-    },
-    {
-      "id": "9f28d0680f64",
-      "title": "Verso Olympiacos-Milan: le probabili formazioni delle due squadre",
-      "url": "https://www.milannews.it/news/olympiacos-milan-probabili-formazioni-squadre-637414",
-      "source": "milannews.it",
-      "date": "2026-11-26T09:22:56+00:00",
-      "summary": "Queste, secondo La Gazzetta dello Sport, sono le probabili formazioni di Olympiacos e Milan che stasera alle 18."
-    },
-    {
       "id": "b10cad920897",
       "title": "Europa League: Olympiacos vs. Milan – Probable line-ups and where to watch on TV",
       "url": "https://football-italia.net/uel-olympiacos-vs-milan-probable-line-ups/",
@@ -90,140 +378,12 @@
       "summary": "Ruben Amorim and Milan find themselves in need of points in the Europa League table..."
     },
     {
-      "id": "428b78b44cd2",
-      "title": "Wesley \"chiama\" Endrick alla Roma, ma occhio sempre al Milan. Il punto di Fabrizio Romano sul futuro del brasiliano",
-      "url": "https://www.milannews.it/calciomercato-milan/wesley-chiama-endrick-roma-occhio-milan-punto-fabrizio-romano-brasiliano-637412",
-      "source": "milannews.it",
-      "date": "2026-11-26T09:10:42+00:00",
-      "summary": "Intervenuto sul suo canale YouTube, Fabrizio Romano ha parlato così del futuro di Endrick che piace moltissimo sia alla Roma che al Milan: \"Nel post-partita di PSG-Roma, sia Gasperini che Wesley hanno parlato a TNT Sports Brasil, una tele ..."
-    },
-    {
-      "id": "7e029cfd3ceb",
-      "title": "Dalla Grecia, Chalaris: \"Milan, occhio al pressing dell'Olympiacos. Allo stadio atmosfera infuocata\"",
-      "url": "https://www.milannews.it/esclusive-mn/grecia-chalaris-milan-occhio-pressing-olympiacos-stadio-atmosfera-infuocata-637352",
-      "source": "milannews.it",
-      "date": "2026-11-26T09:00:00+00:00",
-      "summary": "Il Milan oggi è in terra ellenica con ben 9 assenti per la sfida di Europa League contro l'Olympiacos: ad Amorim tocca una sfida difficilissima, visto che nella loro storia i rossoneri non hanno mai vinto contro squadre greche in Grecia."
-    },
-    {
-      "id": "3c7bb93fda45",
-      "title": "Gallery: ‘No room for failure’, ‘Amorim facing a crisis’ – Today’s front pages in Italy",
-      "url": "https://sempremilan.com/front-pages-italy-26-november-olympiacos-milan",
-      "source": "sempremilan.com",
-      "date": "2026-11-26T09:00:00+00:00",
-      "summary": "AC Milan’s Europa League campaign resumes this evening in Athens against Olympiacos, with a win desperately needed. Milan have won three Serie A games on the spin, but Europe has been their kryptonite. Ruben Amorim’s side have lost three of four so far, failing to score in those three defeats leavin"
-    },
-    {
-      "id": "2fef566f8049",
-      "title": "F.Inzaghi non dimentica il Milan: \"Ho trascorso anni straordinari. E l'affetto dei tifosi...\"",
-      "url": "https://www.milannews.it/gli-ex/f-inzaghi-dimentica-milan-ho-trascorso-straordinari-affetto-tifosi-637408",
-      "source": "milannews.it",
-      "date": "2026-11-26T08:47:36+00:00",
-      "summary": "Intervistato dalla Gazzetta dello Sport in vista di Olympiacos-Milan di questa sera ad Atene, Filippo Inzaghi, ex attaccante e tecnico rossonero e attuale allenatore del Palermo, ha dichiarato sulla sfida di Europa League che attende il Diavolo: &quo ..."
-    },
-    {
-      "id": "a1b6d9acd3e4",
-      "title": "Mercato Milan: Camarda verso l'estero. Chi può arrivare al suo posto? Spunta anche l'ipotesi Ioannidis",
-      "url": "https://www.milannews.it/rassegna-stampa/mercato-milan-camarda-estero-arrivare-posto-spunta-ipotesi-ioannidis-637406",
-      "source": "milannews.it",
-      "date": "2026-11-26T08:35:11+00:00",
-      "summary": "Francesco Camarda, che stasera non sarà a disposizione di Ruben Amorim contro l'Olympiacos per un problema alla caviglia, è destinato ad andare via in prestito a gennaio per giocare con continuità (più estero che Itali ..."
-    },
-    {
-      "id": "7a3dadcf7c9d",
-      "title": "Roma, Wesley prova a convincere Endrick a scegliere il club giallorosso: \"Qui sarebbe accolto bene da noi e dai tifosi\"",
-      "url": "https://www.milannews.it/news/roma-wesley-prova-convincere-endrick-scegliere-club-giallorosso-qui-accolto-tifosi-637407",
-      "source": "milannews.it",
-      "date": "2026-11-26T08:23:38+00:00",
-      "summary": "Non è un mistero che il Milan sia da tempo sulle tracce di Endrick che a gennaio potrebbe lasciare il Real Madrid, anche se per il momento il tecnico dei Blancos José Mourinho continua ad opporsi alla sua cessione."
-    },
-    {
-      "id": "99f4d8e9ef8c",
-      "title": "Milan, si valuta Balde per la fascia sinistra: il Diavolo pensa ad un prestito oneroso con diritto di riscatto",
-      "url": "https://www.milannews.it/rassegna-stampa/milan-valuta-balde-fascia-sinistra-diavolo-pensa-prestito-oneroso-diritto-riscatto-637405",
-      "source": "milannews.it",
-      "date": "2026-11-26T08:11:01+00:00",
-      "summary": "Tra le priorità del Milan a gennaio c'è anche quella di prendere un nuovo terzini sinistro visto che Pervis Estupinan continua a non convincere, mentre Davide Bartesaghi viene visto da Ruben Amorim più come un esterno offensi ..."
-    },
-    {
-      "id": "f65f526dab80",
-      "title": "Tonali non dimentica il Milan: \"Vuol dire tante cose per me\"",
-      "url": "https://www.milannews.it/gli-ex/tonali-dimentica-milan-vuol-tante-cose-me-637404",
-      "source": "milannews.it",
-      "date": "2026-11-26T07:59:25+00:00",
-      "summary": "Sandro Tonali, centrocampista del Tottenham, ha parlato così della sua esperienza al Milan durante un'intervista a Fútbol Emotion Italia: \"Ho due storie con il Milan."
-    },
-    {
-      "id": "d75abeecb43b",
-      "title": "Stasera Olympiacos-Milan. Tuttosport titola: \"Jashari nella bolgia. Esame di greco\"",
-      "url": "https://www.milannews.it/rassegna-stampa/stasera-olympiacos-milan-tuttosport-titola-jashari-bolgia-esame-greco-637403",
-      "source": "milannews.it",
-      "date": "2026-11-26T07:48:32+00:00",
-      "summary": "\"Jashari nella bolgia. Esame di greco\": titola così stamattina in prima pagina Tuttosport in vista di Olympiacos-Milan, sfida valida per la quinta giornata della fase campionato di Europa League."
-    },
-    {
-      "id": "48b63e1cd470",
-      "title": "Il CorSport in prima pagina: \"Milan al bivio: ultima chiamata\"",
-      "url": "https://www.milannews.it/rassegna-stampa/corsport-pagina-milan-bivio-ultima-chiamata-637402",
-      "source": "milannews.it",
-      "date": "2026-11-26T07:36:15+00:00",
-      "summary": "Il Corriere dello Sport in edicola stamattina titola così in prima pagina: \"Milan al bivio: ultima chiamata\"."
-    },
-    {
-      "id": "f94a688464d5",
-      "title": "La Gazzetta in apertura: \"Milan ad Atene, ultima chiamata\"",
-      "url": "https://www.milannews.it/rassegna-stampa/gazzetta-apertura-milan-atene-ultima-chiamata-637401",
-      "source": "milannews.it",
-      "date": "2026-11-26T07:24:47+00:00",
-      "summary": "L'edizione odierna della Gazzetta dello Sport titola così stamattina in prima pagina: \"Milan ad Atene, ultima chiamata\"."
-    },
-    {
-      "id": "8dc8b11ba769",
-      "title": "Olympiacos-Milan, quote marcatore",
-      "url": "https://www.milannews.it/scommesse/pronostici/olympiacos-milan-quote-marcatore-637247",
-      "source": "milannews.it",
-      "date": "2026-11-26T07:09:34+00:00",
-      "summary": "Dopo il brillante successo contro il Frosinone, il Milan si tuffa in Europa dove c'è una qualificazione ai playoff da conquistare. Stasera alle 18."
-    },
-    {
-      "id": "168b527ecf02",
-      "title": "Un Milan a trazione anteriore per la svolta in Europa League: quattro uomini offensivi dal 1'. Cisse e Musah in panchina",
-      "url": "https://www.milannews.it/primo-piano/milan-trazione-anteriore-svolta-europa-league-uomini-offensivi-1-cisse-musah-panchina-637400",
-      "source": "milannews.it",
-      "date": "2026-11-26T07:00:28+00:00",
-      "summary": "Dopo tre sconfitte nelle prime quattro partite, il Milan è volato ieri pomeriggio ad Atene con un solo obiettivo: uscire dal campo dell'Olympiacos con i tre punti in tasca, altrimenti, come dichiarato anche da Ruben Amorin nei giorni scors ..."
-    },
-    {
-      "id": "8aefdda13735",
-      "title": "Classifica Champions League dopo la quinta giornata e prossimo turno",
-      "url": "https://www.milannews.it/news/classifica-champions-league-quinta-giornata-prossimo-turno-637335",
-      "source": "milannews.it",
-      "date": "2026-11-26T06:50:28+00:00",
-      "summary": "Si riportano di seguito la classifica aggiornata della League Phase di Champions League alla quinta giornata e il prossimo turno, in programma tra due settimane:\n."
-    },
-    {
       "id": "34204c99b46f",
       "title": "Amorim: ‘Milan must do well in Europa League and Serie A, only way to be a good team’",
       "url": "https://football-italia.net/amorim-milan-must-do-well-in-europa-league/",
       "source": "football-italia.net",
       "date": "2026-11-25T19:15:49+00:00",
       "summary": "Ruben Amorim warns Olympiacos are ‘aggressive, especially at home’ in the Europa League, but Milan..."
-    },
-    {
-      "id": "5985c2b2e5d8",
-      "title": "Jashari admits he’s looking forward to Freuler test and raising the levels: “What I’m capable of”",
-      "url": "https://sempremilan.com/jashari-freuler-test-raising-levels",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T19:11:43+00:00",
-      "summary": "This evening, Ardon Jashari spoke in a press conference ahead of his expected start in AC Milan’s fifth Europa League game.  Tomorrow’s game could be dictated by Jashari, but he’s got big boots to fill. With news of Luka Modric’s injury, the media immediately listed him as the primary candidate to f"
-    },
-    {
-      "id": "594813013f37",
-      "title": "Amorim discusses everchanging Milan landscape, constant injuries and winning trophies: “Have to be ready”",
-      "url": "https://sempremilan.com/amorim-discusses-milan-landscape-injuries-trophies",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T19:07:47+00:00",
-      "summary": "Ahead of a do-or-die clash against Olympiacos for AC Milan in the Europa League, Ruben Amorim spoke to the media. There’s still time for Milan to turn around their Europa League campaign, but so far, it’s been one to forget. Their successes in the league have often been reduced thanks to poor perfor"
     },
     {
       "id": "6890d7fc2829",
@@ -242,36 +402,12 @@
       "summary": "Napoli fans can now play a videogame as coach Max Allegri, but rather than figure..."
     },
     {
-      "id": "3a36a4f5542e",
-      "title": "Europa League preview: Olympiacos vs. AC Milan – Team news, opposition insight, stats and prediction",
-      "url": "https://sempremilan.com/europa-league-preview-olympiacos-ac-milan-2026-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T17:40:00+00:00",
-      "summary": "AC Milan will make the trip to Greece with the hopes of turning a corner against Olympiacos after a rough start to their Europa League campaign.  It has been a tale of two competitions this season so far for Milan. In Serie A they are inside the top four and have won eight games out […]\nThe post Eur"
-    },
-    {
       "id": "2e5319985ef6",
       "title": "Report Milan have €70m Endrick offer ready for Real Madrid",
       "url": "https://football-italia.net/report-milan-have-e70m-endrick-offer-ready/",
       "source": "football-italia.net",
       "date": "2026-11-25T17:32:42+00:00",
       "summary": "Spanish reports claim Milan are ready to offer €70m in January for Real Madrid and..."
-    },
-    {
-      "id": "fe04a4374f42",
-      "title": "Alguacil looks at Milan’s favouritism, respect and playing to win: “Life or death match”",
-      "url": "https://sempremilan.com/alguacil-milan-favouritism-respect-playing-to-win",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T17:00:00+00:00",
-      "summary": "Tomorrow’s game is significant for both AC Milan and Olympiacos, with both hoping to rise up the Europa League standings. For Milan, tomorrow is a must-win game. Of course, they all are, but they’re now at a stage where any defeat could seriously hinder their chances of qualification to the latter s"
-    },
-    {
-      "id": "106e6d30b072",
-      "title": "MN: Milan injury list up to nine as Bartesaghi ruled out of Olympiacos trip – the situation",
-      "url": "https://sempremilan.com/milan-injury-list-up-nine-bartesaghi-out",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T16:30:00+00:00",
-      "summary": "AC Milan will be without another defender in Greece tomorrow, with news emerging about Davide Bartesaghi being absent for the clash. In the past 24 hours, Milan have had to deal with several injury problems. Luka Modric was ruled out last night, whilst Francesco Camarda didn’t take part in today’s t"
     },
     {
       "id": "a0c3d3df3b0f",
@@ -282,46 +418,6 @@
       "summary": "Pep Guardiola defended Carlo Ancelotti during an interview with Brazil legend Romario, explaining to his..."
     },
     {
-      "id": "0f4a64fd326c",
-      "title": "Opposition insight for Olympiacos-Milan: Form, injuries, predicted XI and more",
-      "url": "https://sempremilan.com/opposition-insight-olympiacos-milan-form-injuries-predicted-xi-26-27",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T16:00:00+00:00",
-      "summary": "AC Milan are looking to start a Europa League comeback, if you will, in Greece tomorrow against an Olympiacos side who are flying. From their last trip to Olympiacos, Milan know that getting three points tomorrow night will not be easy. Unfortunately, it comes at a time when they really do need easy"
-    },
-    {
-      "id": "170445a62d50",
-      "title": "Moretto claims Camarda’s ‘real exit door’ is abroad rather than in Italy: “Trying a different experience”",
-      "url": "https://sempremilan.com/moretto-claims-camarda-exit-door-abroad",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T15:30:00+00:00",
-      "summary": "There’s been a lot said about Francesco Camarda’s future in recent months and it seems AC Milan are getting closer to a decision. Put simply, Milan are in the same situation that they were a few years ago. Camarda isn’t playing and when he does, he’s not really getting the most out of games. So, […]"
-    },
-    {
-      "id": "51d5df6d5b01",
-      "title": "Scudetto picture, Maignan’s ‘best ever’ status and more: Hot takes on AC Milan",
-      "url": "https://sempremilan.com/scudetto-maignan-rabiot-hot-takes-milan",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T15:00:00+00:00",
-      "summary": "Are AC Milan legitimate title contenders? Will Mike Maignan be regarded as the best goalkeeper in club history? There is never a shortage of talking points when it comes to Milan, especially in a season that is playing out as interestingly as this one. From Adrien Rabiot’s Kaka-esque impact to the d"
-    },
-    {
-      "id": "5069f192761d",
-      "title": "Montella ‘convinced’ by Amorim already and praises Ramos: “Takes time and confidence”",
-      "url": "https://sempremilan.com/montella-convinced-amorim-already-praises-ramos",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T14:30:00+00:00",
-      "summary": "AC Milan are enjoying a strong first season under Ruben Amorim and whilst there is room for improvement, there are promising signs. When Milan moved for Amorim, the reaction was mixed. His stock was low after his time in Manchester, and it could’ve been a difficult sell for San Siro. However, the Po"
-    },
-    {
-      "id": "7d6258ac9690",
-      "title": "GdS: ‘We have Pavlovic and Diawara’ – how Milan’s €3m man could’ve changed January plans",
-      "url": "https://sempremilan.com/how-diawara-changed-milan-january-plans",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T14:00:00+00:00",
-      "summary": "Today, a report has suggested that Sankhoun Diawara has taken the keys ahead of the January mercato, changing AC Milan’s plans.  When he joined in the summer, most would’ve questioned how much Diawara could provide to Milan. However, he’s become one of the most important players in the squad in rece"
-    },
-    {
       "id": "3270cd608dea",
       "title": "Milan injury list rises to nine as Bartesaghi pulls up in training before Olympiacos",
       "url": "https://football-italia.net/milan-injury-list-rises-to-nine-bartesaghi/",
@@ -330,68 +426,12 @@
       "summary": "Davide Bartesaghi is the latest Milan player to report an injury concern ahead of the..."
     },
     {
-      "id": "c88e6c489be7",
-      "title": "TMW: Milan facing Balde battle as Juventus and Premier League clubs circle",
-      "url": "https://sempremilan.com/milan-facing-balde-battle-juventus-premier-league",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T13:30:00+00:00",
-      "summary": "Alejandro Balde’s name is in fashion once again, with AC Milan potentially facing a battle to sign him next year. With Pervis Estupinan’s potential departure, it’s very possible that Milan will try to sign a left-back in January. It’s an area of weakness and there is a clear desire to change that, e"
-    },
-    {
-      "id": "52697b4135dd",
-      "title": "Wednesday Wisdom: Identify the missing Milan player from 2018-19",
-      "url": "https://sempremilan.com/wednesday-wisdom-identify-missing-player-edition-2",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T13:00:00+00:00",
-      "summary": "Welcome to this week’s missing AC Milan player quiz! After last week’s debut of the game, we’ve decided to maybe reel it in with the difficulty, but it’s not a tap-in; that’s for sure… We’re back for another quiz (although last week’s game is now closed, you can look back for an example) and with […"
-    },
-    {
-      "id": "070a5c0b90f6",
-      "title": "CorSport: Moreira becomes irreplaceable – Belgian stars again to silence old debates",
-      "url": "https://sempremilan.com/moreira-irreplaceable-belgian-stars-again",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T12:30:00+00:00",
-      "summary": "AC Milan paid a large sum to bring Diego Moreira to San Siro in the summer, and it hasn’t always looked like a smart signing. Now it’s impossible to say that. After a summer of familiar names, Moreira entered the Milan sphere out of nowhere and there was excitement about what he could bring. However"
-    },
-    {
-      "id": "9af87bc7985b",
-      "title": "GdS: Bright foundations for the future – Milan, Inter and Juventus’ financial years compared",
-      "url": "https://sempremilan.com/milan-inter-juventus-financial-years-compared",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T12:00:00+00:00",
-      "summary": "Last night, a report was published comparing the financials of AC Milan, Juventus and Inter and the findings are very interesting.  The big three bring a lot of attention to Italy and their footballing ecosystem, but that’s not all. Indeed, all three bring in vast amounts of money and have done so f"
-    },
-    {
       "id": "9eb698b6307e",
       "title": "Camarda the latest on Milan’s list of eight absences for Olympiacos clash",
       "url": "https://football-italia.net/camarda-the-latest-milan-absence-olympiacos/",
       "source": "football-italia.net",
       "date": "2026-11-25T11:43:03+00:00",
       "summary": "Francesco Camarda is the latest Milan player to be ruled out of Milan’s upcoming Europa..."
-    },
-    {
-      "id": "7fae53e1bef3",
-      "title": "PM: Camarda absent with ‘ankle issue’ as Tomori fully recovers – updates from Milanello arrive",
-      "url": "https://sempremilan.com/camarda-absent-tomori-fully-recovers",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T11:30:00+00:00",
-      "summary": "Some updates have arrived from this morning’s training session, ahead of AC Milan’s clash against Olympiacos tomorrow.   There is no understating how big tomorrow’s game is for Milan. If they want to qualify for the Round of 16, they must win tomorrow, especially if they want to avoid an extra elimi"
-    },
-    {
-      "id": "9a58482330e2",
-      "title": "“If there can be a way out” – Moretto states Milan have no intention of offering Tomori a renewal",
-      "url": "https://sempremilan.com/moretto-milan-no-intention-tomori-renewal",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T11:00:00+00:00",
-      "summary": "It seems we are heading into the final year of Fikayo Tomori’s playing relationship with AC Milan, with talk of a renewal silent. Next year, at the end of June, Tomori’s deal expires and if nothing is done before then, his six-year spell with the club will come to an end. It’s been an up-and-down […"
-    },
-    {
-      "id": "2f97f0c185f5",
-      "title": "GdS: Cardinale, the Yormarks and Jay Z – the alternative route Milan are taking for Endrick",
-      "url": "https://sempremilan.com/alternative-route-milan-taking-endrick",
-      "source": "sempremilan.com",
-      "date": "2026-11-25T10:30:00+00:00",
-      "summary": "AC Milan are desperate to sign Endrick in the January mercato and there could be unconventional routes used. Signing a player like Endrick in January is never easy, especially when his manager, Jose Mourinho, is completely against a sale. Nevertheless, one cannot be ruled out. There have already bee"
     },
     {
       "id": "4df3190fdb5f",
@@ -440,46 +480,6 @@
       "source": "football-italia.net",
       "date": "2026-11-23T16:01:20+00:00",
       "summary": "Multiple outlets in Italy and Germany are reporting that Milan have reached an agreement with..."
-    },
-    {
-      "id": "909fe0323257",
-      "title": "Video: How Ramos started and finished Milan’s second-goal move",
-      "url": "https://football-italia.net/video-ramos-started-finished-milan-2nd-goal/",
-      "source": "football-italia.net",
-      "date": "2026-11-23T14:29:45+00:00",
-      "summary": "Gonçalo Ramos scored Milan’s second goal against Frosinone in Serie A on Sunday: a video..."
-    },
-    {
-      "id": "0f76b0b794c5",
-      "title": "Di Canio: ‘Milan would be mid-table with Leao, Cisse worth three times more’",
-      "url": "https://football-italia.net/di-canio-milan-mid-table-leao-cisse-3-times/",
-      "source": "football-italia.net",
-      "date": "2026-11-23T10:07:29+00:00",
-      "summary": "Former Italian striker Paolo Di Canio feels Milan would ‘be mid-table’ with Rafael Leao this..."
-    },
-    {
-      "id": "4f5a9c77794c",
-      "title": "The numbers behind Pulisic’s influence on Milan’s scintillating attack",
-      "url": "https://football-italia.net/numbers-behind-pulisic-influence-milan/",
-      "source": "football-italia.net",
-      "date": "2026-11-23T09:14:11+00:00",
-      "summary": "Christian Pulisic has contributed to a goal every 87 minutes for Milan this season, while..."
-    },
-    {
-      "id": "36703c7ab112",
-      "title": "Today’s Papers – Extra crazy Inter, plenty of Juventus and Milan goals",
-      "url": "https://football-italia.net/todays-papers-extra-crazy-inter-juventus-milan/",
-      "source": "football-italia.net",
-      "date": "2026-11-23T08:43:10+00:00",
-      "summary": "La Gazzetta dello Sport The Devil, the Old Lady, and a goal-filled chase. Milan, show..."
-    },
-    {
-      "id": "85012b827fe0",
-      "title": "Amorim’s Rabiot hope as Frenchman sends warning to Milan’s rivals: ‘We’re growing’",
-      "url": "https://football-italia.net/amorims-rabiot-hope-as-frenchman-milan/",
-      "source": "football-italia.net",
-      "date": "2026-11-22T21:30:00+00:00",
-      "summary": "Adrien Rabiot believes Milan are growing as a team after he set up two goals..."
     }
   ]
 }
