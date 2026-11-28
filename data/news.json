@@ -1,6 +1,166 @@
 {
-  "lastUpdated": "2026-11-27T20:41:02.003773+00:00",
+  "lastUpdated": "2026-11-28T03:04:58.472763+00:00",
   "articles": [
+    {
+      "id": "59cbd3c216eb",
+      "title": "Fabrizio Romano: \"Endrick, Milan e Roma aspettano e sperano. Ma oggi Mourinho ha messo un altro mattone su un muro che ha costruito da diverso tempo”",
+      "url": "https://www.milannews.it/news/fabrizio-romano-endrick-milan-roma-aspettano-sperano-mourinho-messo-mattone-muro-costruito-diverso-t-637624",
+      "source": "milannews.it",
+      "date": "2026-11-28T00:00:00+00:00",
+      "summary": "Altre dichiarazioni al veleno di Mourinho su Endrick. L'allenatore del Real Madrid sta facendo di tutto per non far concretizzare l'interesse del Milan per il brasiliano e trattenerlo al Bernabeu, nonostante non lo stia facendo mai giocare."
+    },
+    {
+      "id": "32dd1e8b64b1",
+      "title": "Cuomo: \"Marchegiani dice una cosa in telecronaca che stavo pensando anche io...\"",
+      "url": "https://www.milannews.it/news/cuomo-marchegiani-telecronaca-pensando-io-637590",
+      "source": "milannews.it",
+      "date": "2026-11-27T23:50:49+00:00",
+      "summary": "Michael Cuomo, giornalista, si è così espresso sul canale Youtube di Carlos Passerini commentando la partita di Omari Hutchinson: \"Stavo seguendo la partita ovviamente su Sky in telecronaca, Marchegiani dice una cosa che ho pe ..."
+    },
+    {
+      "id": "78391dccc660",
+      "title": "Vocalelli: \"Hucthinson a qualcosa nelle movenze che ricorda il suo connazionale David Platt\"",
+      "url": "https://www.milannews.it/news/vocalelli-hutchinson-ha-movenze-ricorda-connazionale-david-platt-gol-olympiacos-637575",
+      "source": "milannews.it",
+      "date": "2026-11-27T23:40:18+00:00",
+      "summary": "Sulle pagine odierne della Gazzetta dello Sport, Alessandro Vocalelli ha parlato così di Omari Hutchinson, grande protagonista ieri sera della vittoria del Milan contro l'Olympiacos con un gol e due assist: \"Di sicuro i tifosi milanis ..."
+    },
+    {
+      "id": "e364466262ad",
+      "title": "Costacurta fa notare: \"Milan nato per giocare in verticale. Se se la passano in orizzontale, non sono pericolosi\"",
+      "url": "https://www.milannews.it/news/costacurta-notare-milan-nato-giocare-verticale-passano-orizzontale-pericolosi-637591",
+      "source": "milannews.it",
+      "date": "2026-11-27T23:30:00+00:00",
+      "summary": "Alessandro Costacurta, opinionista, si è così espresso a SkySport commentando la vittoria del Milan contro l'Olympiacos: \"Mi piace quando hanno la possibilità di giocare in verticale."
+    },
+    {
+      "id": "baa9cfc1fb41",
+      "title": "Guadagno: \"Greci annichiliti: il Milan ha mostrato il peggio di sé, poi è stato intenso e aggressivo\"",
+      "url": "https://www.milannews.it/news/guadagno-greci-annichiliti-milan-mostrato-se-intenso-aggressivo-637566",
+      "source": "milannews.it",
+      "date": "2026-11-27T23:20:24+00:00",
+      "summary": "Pietro Guadagno, giornalista, si è così espresso sul Corriere dello Sport commentando la vittoria del Milan per 2-4 sull'Olympiacos: \"Da un’altra figuraccia sfiorata al ribaltone."
+    },
+    {
+      "id": "4a06422ec103",
+      "title": "Ravezzani: \"È successo un fatto abbastanza bizzarro, ma mi pare che Amorim non l'abbia colto fino in fondo\"",
+      "url": "https://www.milannews.it/news/ravezzani-e-successo-bizzarro-637581",
+      "source": "milannews.it",
+      "date": "2026-11-27T23:10:00+00:00",
+      "summary": "Fabio Ravezzani, giornalista, si è così espresso sul suo canale Youtube commentando la vittoria del Milan contro l'Olympiacos: \"Vincono il Milan e la Juventus in Europa League, due partite piene di chiaroscuri che finiscono in  ..."
+    },
+    {
+      "id": "49d6ab706583",
+      "title": "L'anticipo di Galli - Da Atene torna un Milan europeo",
+      "url": "https://www.milannews.it/editoriale/galli-atene-torna-milan-europeo-637629",
+      "source": "milannews.it",
+      "date": "2026-11-27T23:00:01+00:00",
+      "summary": "Le critiche nei confronti di Amorim rispetto al cammino rossonero in Europa League erano state impietose."
+    },
+    {
+      "id": "5fd73f5c666b",
+      "title": "Pedullà evidenzia: “La partita sembrava finita, il Milan ha avuto una grande reazione. Secondo tempo da 8”",
+      "url": "https://www.milannews.it/news/pedulla-evidenzia-la-partita-finita-milan-reazione-8-637614",
+      "source": "milannews.it",
+      "date": "2026-11-27T22:50:13+00:00",
+      "summary": "Nel suo canale YouTube, l’esperto di mercato di Sportitalia Alfredo Pedullà ha parlato della vittoria in rimonta del Milan sul campo dell’Olympiacos. Di seguito un estratto delle sue parole."
+    },
+    {
+      "id": "2d5ac165dabd",
+      "title": "Braglia controcorrente: “Milan e Roma si giocano lo scudetto, l’Inter è li ma non vincerà”",
+      "url": "https://www.milannews.it/news/braglia-controcorrente-milan-roma-giocano-scudetto-l-inter-vincera-637619",
+      "source": "milannews.it",
+      "date": "2026-11-27T22:40:26+00:00",
+      "summary": "L'ex portiere Simone Braglia ha parlato in diretta alla radio di TuttomercatoWeb nella trasmissione Maracana della vittoria in rimonta dei rossoneri sull'Olympiacos per 4-2 e delle sue prospettive per la stagione. Queste le sue parole."
+    },
+    {
+      "id": "ec6807c520b3",
+      "title": "Zancan: \"Amorim aveva lanciato l'allarme, ma credo che ieri sia una partita che sblocca mentalmente il Milan\"",
+      "url": "https://www.milannews.it/news/zancan-amorim-lanciato-allarme-credo-partita-sblocca-mentalmente-milan-637592",
+      "source": "milannews.it",
+      "date": "2026-11-27T22:30:11+00:00",
+      "summary": "Federico Zancan, giornalista, si è così espresso a SkySport commentando la vittoria del Milan contro l'Olympiacos: \"Mi è piaciuta banalmente la reazione in un momento in cui, davvero, sul 2-0 per l'avversario, i ..."
+    },
+    {
+      "id": "e17a1849aa60",
+      "title": "Bucchioni convinto: “Confermata la crescita del Milan, con un buon mercato può lottare per lo scudetto”",
+      "url": "https://www.milannews.it/news/bucchioni-convinto-confermata-crescita-milan-buon-mercato-lottare-scudetto-637618",
+      "source": "milannews.it",
+      "date": "2026-11-27T22:20:02+00:00",
+      "summary": "Il giornalista Enzo Bucchioni ha parlato in diretta alla radio di TuttomercatoWeb nella trasmissione Maracana della vittoria in rimonta dei rossoneri sull'Olympiacos per 4-2. Queste le sue parole."
+    },
+    {
+      "id": "2e27c0286f50",
+      "title": "Bava: \"Milan media company? Non è detto che funzioni, ma non è una strategia priva di senso\"",
+      "url": "https://www.milannews.it/news/prof-bava-milan-media-company-funzioni-strategia-priva-senso-637455",
+      "source": "milannews.it",
+      "date": "2026-11-27T22:10:05+00:00",
+      "summary": "Il professor Fabrizio Bava, Ordinario di Economia Aziendale al Dipartimento di Management dell'Università di Torino, ha analizzato per FanPage.it lo stato di salute economico di Milan, Inter e Juventus."
+    },
+    {
+      "id": "240c8e75efed",
+      "title": "Verso Milan-Monza di Coppa Italia: biglietti in vendita. Tutte le info",
+      "url": "https://www.milannews.it/news/milan-monza-coppa-italia-biglietti-vendita-info-637608",
+      "source": "milannews.it",
+      "date": "2026-11-27T22:00:36+00:00",
+      "summary": "Il sito del Milan riporta tutte le informazioni sulla vendita dei biglietti per la sfida contro il Monza del prossimo 13 gennaio, valida per gli ottavi di Coppa Italia: \"Dopo la Serie A e l'Europa League, San Siro è pronto ad acc ..."
+    },
+    {
+      "id": "a21cffcabe5f",
+      "title": "Serie A, 0-0 tra Venezia e Bologna: la classifica aggiornata",
+      "url": "https://www.milannews.it/news/serie-a-0-0-venezia-bologna-classifica-aggiornata-637626",
+      "source": "milannews.it",
+      "date": "2026-11-27T21:48:15+00:00",
+      "summary": "Finisce senza reti l'anticipo del venerdì tra Venezia e Bologna. La tredicesima giornata di Serie A inizia con uno 0-0."
+    },
+    {
+      "id": "20a60c9db0cc",
+      "title": "Quasi la metà dei gol incassati dal Milan di Amorim arrivano da palla inattiva",
+      "url": "https://www.milannews.it/news/meta-gol-incassati-milan-amorim-arrivano-palla-inattiva-637540",
+      "source": "milannews.it",
+      "date": "2026-11-27T21:40:42+00:00",
+      "summary": "Il 43% dei gol subiti dal Milan tra tutte le competizioni 2026/27 (10/23) sono arrivati da situazioni di palla inattiva; solo la Roma ha fatto peggio tra le squadre di Serie A nella stagione in corso (48%, 10/21). Lo riporta Opta."
+    },
+    {
+      "id": "90ef1c403a0a",
+      "title": "Navarro sul ko di Milan Futuro contro lo Stoke City: \"Contento della prestazione\"",
+      "url": "https://www.milannews.it/milan-futuro/milan-ko-stoke-city-navarro-contento-prestazione-meritato-almeno-pari-637585",
+      "source": "milannews.it",
+      "date": "2026-11-27T21:30:00+00:00",
+      "summary": "Dopo la sconfitta per 2-1 del Milan Futuro contro lo Stoke City nella gara valida per la seconda giornata del gruppo B della Premier League International Cup U21 2026/27, il tecnico rossonero Sergio Navarro Barquero ha commentato così la prest ..."
+    },
+    {
+      "id": "5e2a9efa1b4c",
+      "title": "Dalla Juventus chiari: l'obiettivo è non fare i playoff di Europa League",
+      "url": "https://www.milannews.it/news/europa-league-spalletti-divertito-pubblico-4-bei-gol-637534",
+      "source": "milannews.it",
+      "date": "2026-11-27T21:20:09+00:00",
+      "summary": "(ANSA) - TORINO, 26 NOV - \"Fino al pareggio è sembrata un po' la partita contro il Venezia, poi Cambiaso ha rimesso un po' tutto a posto: siamo contenti di aver divertito il pubblico con gol bellissimi\": così il tecnic ..."
+    },
+    {
+      "id": "2d97b8705477",
+      "title": "Cannavaro: \"Baresi avrebbe meritato il Pallone d'Oro nel 1994. Maldini vicino a vincerlo nel 2005: se il Milan avesse vinto a Istanbul...\"",
+      "url": "https://www.milannews.it/news/cannavaro-baresi-meritato-pallone-oro-1994-maldini-vincerlo-2005-milan-vinto-istanbul-637574",
+      "source": "milannews.it",
+      "date": "2026-11-27T21:10:38+00:00",
+      "summary": "Intervistato dalla Gazzetta dello Sport, Fabio Cannavaro, ex giocatore che ha vinto il Pallone d'Oro nel 2006 e attuale ct dell'Uzbekistan, ha rivelato quale altro difensore secondo lui avrebbe merito il premio di France Football: \"Bares ..."
+    },
+    {
+      "id": "50bf39a540fa",
+      "title": "Pulisic, altra rete pesantissima: è il sesto gol stagionale",
+      "url": "https://www.milannews.it/news/pulisic-gol-pesantissimo-6-gol-stagionale-637493",
+      "source": "milannews.it",
+      "date": "2026-11-27T21:00:16+00:00",
+      "summary": "Christian Pulisic è una colonna portante di questo Milan e, dopo il girone di ritorno negativo dello scorso anno, quest'anno l'americano è tornato a livelli altissimi."
+    },
+    {
+      "id": "5c1137b17ded",
+      "title": "Cisse tocca quota 10 gol, ma la percentuale rimane sempre quella: 40%",
+      "url": "https://www.milannews.it/news/cisse-tocca-quota-10-gol-percentuale-rimane-quella-40-637623",
+      "source": "milannews.it",
+      "date": "2026-11-27T20:50:48+00:00",
+      "summary": "In queste settimane si è parlato spesso dello stato di forma, confertendolo in percentuale, di Alphadjo Cisse."
+    },
     {
       "id": "0f00a7b3f3f8",
       "title": "Milan renew interest in Fenerbahçe’s English full-back Brown",
@@ -8,54 +168,6 @@
       "source": "football-italia.net",
       "date": "2026-11-27T20:38:00+00:00",
       "summary": "Milan have rekindled their interest in Fenerbahçe left-back Archie Brown as they consider their options..."
-    },
-    {
-      "id": "158392ca2d29",
-      "title": "Fabrizio Romano: \"Su Bruno Fernandes bisogna distinguere tra rinnovo e prolungamento. Il Milan lo terrei sempre attento a quello che succede\"",
-      "url": "https://www.milannews.it/news/fabrizio-romano-su-bruno-fernandes-bisogna-distinguere-rinnovo-prolungamento-milan-terrei-attento-su-637622",
-      "source": "milannews.it",
-      "date": "2026-11-27T20:29:52+00:00",
-      "summary": "Nella giornata odierna il Manchester United ha comunicato di aver attivato l'opzione unilaterale per il prolungamento annuale dell'attuale accordo di Bruno Fernandes con i Red Devils."
-    },
-    {
-      "id": "f580adb8dccb",
-      "title": "C'è un giocatore del Villarreal che è stato seguito dal Milan: lo ha raccontato lui",
-      "url": "https://www.milannews.it/news/villarreal-moleiro-l-interesse-milan-2021-passato-tempo-637424",
-      "source": "milannews.it",
-      "date": "2026-11-27T20:21:43+00:00",
-      "summary": "Alberto Moleiro, attaccante del Villarreal, ha rilasciato un'intervista a gianlucadimarzio."
-    },
-    {
-      "id": "8693dada85bb",
-      "title": "Serafini: \"Sembravamo diventati una squadra di Cipro, Malta. Ma, rimesse a posto le idee, qualcosa è cambiato\"",
-      "url": "https://www.milannews.it/news/serafini-sembravamo-diventati-squadra-cipro-malta-ma-rimesse-idee-cambiato-637588",
-      "source": "milannews.it",
-      "date": "2026-11-27T20:10:09+00:00",
-      "summary": "Luca Serafini, giornalista, si è così espresso nel corso del suo editoriale su MilaNews.it commentando Olympiacos-Milan: \"Sembravamo diventati una squadra di Cipro, Malta, uno Slavia Praga qualsiasi."
-    },
-    {
-      "id": "814015a045e3",
-      "title": "Pensate che, prima dell'autogol di ieri, l'ultimo europeo subito dal Milan era arrivato contro l'Olympiacos",
-      "url": "https://www.milannews.it/news/pensate-che-autogol-ieri-europeo-milan-arrivato-olympiacos-637552",
-      "source": "milannews.it",
-      "date": "2026-11-27T20:00:31+00:00",
-      "summary": "Prima dell'autorete di ieri di Mike Maignan, l'ultimo autogol subito dal Milan in UEFA Europa League era arrivato sempre contro l'Olympiakos (Cristián Zapata, il 13 dicembre 2018)."
-    },
-    {
-      "id": "fa7359beb458",
-      "title": "Cassano: \"Goncalo Ramos per me è un campionissimo: lui gioca, punto\"",
-      "url": "https://www.milannews.it/news/cassano-goncalo-ramos-campionissimo-gioca-punto-637594",
-      "source": "milannews.it",
-      "date": "2026-11-27T19:50:30+00:00",
-      "summary": "Antonio Cassano, opinionista, si è così espresso a Viva el Futbol commentando le opzioni in attacco per il calciomercato del Milan: \"Da quello che stiamo vedendo, il lavoro dell'allenatore è fantastico: l'allenatore  ..."
-    },
-    {
-      "id": "29f07103840c",
-      "title": "Pulisic stacca tutti: da quando è arrivato al Milan, è ampiamente primo per gol e assist",
-      "url": "https://www.milannews.it/news/pulisic-stacca-tutti-arrivato-milan-ampiamente-gol-assist-637541",
-      "source": "milannews.it",
-      "date": "2026-11-27T19:50:08+00:00",
-      "summary": "Dalla sua prima stagione con il Milan (dal 2023/24) Christian Pulisic ha preso parte a 74 gol tra tutte le competizioni (48G+25A): oltre 10 in più rispetto a qualunque altro giocatore con la maglia rossonera nel periodo (segue a 63 Rafael Le&a ..."
     },
     {
       "id": "82ab0af4bcc9",
@@ -66,84 +178,12 @@
       "summary": "Franco Ordine has launched a stinging attack on Pervis Estupiñán, claiming the Milan full-back is..."
     },
     {
-      "id": "f970cf0956a9",
-      "title": "Cisse punta Virdis, Villa e André Silva: sono loro i migliori marcatori all-time del Milan in Europa League",
-      "url": "https://www.milannews.it/news/cisse-punta-virdis-villa-andre-silva-migliori-marcatori-all-time-milan-europa-league-637556",
-      "source": "milannews.it",
-      "date": "2026-11-27T19:40:50+00:00",
-      "summary": "Alphadjo Cisse ha segnato quattro gol in questa UEFA Europa League: solo Pietro Paolo Virdis (sei 1985/86), Silvano Villa (cinque nel 1971/72) e André Silva (sei nel 2017/18) hanno segnato più gol con il Milan in una singola stagio ..."
-    },
-    {
-      "id": "5bba2d9e0fa0",
-      "title": "Capuano sottolinea: \"Per una volta, l'uomo del match è venuto da quelle che sono considerate le seconde linee\"",
-      "url": "https://www.milannews.it/news/capuano-sottolinea-per-volta-match-venuto-considerate-seconde-linee-637569",
-      "source": "milannews.it",
-      "date": "2026-11-27T19:30:32+00:00",
-      "summary": "Giovanni Capuano, giornalista, si è così espresso su Panorama commentando le vittorie del Milan e della Juventus in Europa League: \"Tre rimonte per tre vittorie, tutte importanti seppure in modo differente per Amorim, Spalletti e S ..."
-    },
-    {
-      "id": "09e043b9e430",
-      "title": "Record negativo per il Milan in questa Europa League, ma per ieri poco male",
-      "url": "https://www.milannews.it/news/record-negativo-milan-europa-league-637549",
-      "source": "milannews.it",
-      "date": "2026-11-27T19:20:38+00:00",
-      "summary": "Per la prima volta nella propria storia il Milan ha incassato almeno due reti per tre match consecutivi nelle maggiori competizioni europee (contro Bournemouth, Ferencváros e Olympiakos).\n \n."
-    },
-    {
-      "id": "1c952aa80668",
-      "title": "Pasquino: \"Non poteva che essere Atene la città dell’euro-rinascimento rossonero. Bene, bravi, ma servirà il bis\"",
-      "url": "https://www.milannews.it/news/pasquino-non-poteva-atene-dell-euro-rinascimento-rossonero-bene-bravi-servira-bis-637567",
-      "source": "milannews.it",
-      "date": "2026-11-27T19:10:29+00:00",
-      "summary": "Stefano Pasquino, giornalista, si è così espresso su Tuttosport commentando la vittoria del Milan per 2-4 contro l'Olympiacos: \"Non poteva che essere Atene la città dell’euro-rinascimento rossonero."
-    },
-    {
-      "id": "82ab754ece21",
-      "title": "Ufficiale, Captain America Pulisic è tornato. Con lui il campo il Milan va al doppio",
-      "url": "https://www.milannews.it/primo-piano/ufficiale-captain-america-pulisic-tornato-campo-milan-637621",
-      "source": "milannews.it",
-      "date": "2026-11-27T19:00:00+00:00",
-      "summary": "Sarà che è girato tutto storto al Milan da febbraio in avanti l'anno scorso, sarà che il Mondiale era un peso forse troppo elevato, sarà che fisicamente non è stato sempre al top."
-    },
-    {
       "id": "19054d94d3fb",
       "title": "Olympiacos 2-4 AC Milan: Five things we learned – a breakout night and a glaring issue",
       "url": "https://sempremilan.com/olympiacos-2-4-ac-milan-five-things-we-learned",
       "source": "sempremilan.com",
       "date": "2026-11-27T19:00:00+00:00",
       "summary": "AC Milan went into their Europa League fixture against Olympiacos in need of a win to get the ball rolling, and win they did. The eventual 2-4 scoreline only tells part of the story, as Ruben Amorim’s side had to battle back from two goals down. Lorenzo Pirola’s header drew what was officially an ow"
-    },
-    {
-      "id": "89b47eba6346",
-      "title": "Ordine: \"Amorim, tra tutti gli allenatori passati dal Milan e in Serie A, è l’unico disposto a parlare il linguaggio della sincerità\"",
-      "url": "https://www.milannews.it/news/ordine-amorim-allenatori-passati-milan-serie-a-l-unico-disposto-parlare-linguaggio-sincerita-637596",
-      "source": "milannews.it",
-      "date": "2026-11-27T18:50:57+00:00",
-      "summary": "Franco Ordine, giornalista, si è così espresso sul Corriere dello Sport commentando la vittoria del Milan contro l'Olympiacos: \"La doppia vita, nel calcio come negli affetti o nel lavoro, è molto faticosa oltre che estre ..."
-    },
-    {
-      "id": "fbfebd559ef7",
-      "title": "I due giocatori più giovani di questa Europa League a prendere parte a tre gol in una partita solo del Milan",
-      "url": "https://www.milannews.it/news/giocatori-giovani-europa-league-prendere-gol-partita-milan-637550",
-      "source": "milannews.it",
-      "date": "2026-11-27T18:40:40+00:00",
-      "summary": "Due dei tre giocatori più giovani ad aver preso parte ad almeno tre reti in un singolo match di questa UEFA Europa League giocano nel Milan: Alphadjo Cisse il 15 ottobre contro il Salisburgo (tripletta, all'età di 19 anni e 358 gior ..."
-    },
-    {
-      "id": "ce0264806ec6",
-      "title": "Biasin sul mercato del Milan: \"Ci hanno praticamente detto che a gennaio...\"",
-      "url": "https://www.milannews.it/calciomercato-milan/biasin-mercato-milan-ci-praticamente-gennaio-637573",
-      "source": "milannews.it",
-      "date": "2026-11-27T18:30:15+00:00",
-      "summary": "Fabrizio Biasin, giornalista, si è così espresso su Cronache di Spogliatoio commentando la vittoria del Milan contro l'Olympiacos: \"Cisse non è uno che si esalta, potrebbe in questo momento essere uno che magari si spave ..."
-    },
-    {
-      "id": "0d1594480605",
-      "title": "Il Pireo manifesto dell'inizio di stagione del Milan: a segno tre dei migliori cinque marcatori",
-      "url": "https://www.milannews.it/news/pireo-manifesto-inizio-stagione-milan-segno-migliori-marcatori-637559",
-      "source": "milannews.it",
-      "date": "2026-11-27T18:20:15+00:00",
-      "summary": "Tre dei migliori quattro marcatori del Milan in questa stagione tra tutte le competizioni sono andati a segno nel match di ieri sera: Alphadjo Cisse (10 gol), Christian Pulisic (sei) e Diego Moreira (cinque, al pari di Adrien Rabiot). Lo riporta Opta."
     },
     {
       "id": "c21f4d6a2556",
@@ -154,14 +194,6 @@
       "summary": "Markus Krösche will soon begin his work as AC Milan’s new Head of Football, but Timmo Hardung will not be joining him. It has not been a well-kept secret that Milan have wanted to welcome Krösche as the new head of the management since the summer. Eintracht Frankfurt put up a wall a few months […]\nT"
     },
     {
-      "id": "a21cab494733",
-      "title": "Reo-Coker: \"Amorim ha fatto sostituzioni che mi fanno dire: 'Allora hai sbagliato la formazione?'\"",
-      "url": "https://www.milannews.it/news/reo-coker-amorim-sostituzioni-dire-sbagliato-formazione-637515",
-      "source": "milannews.it",
-      "date": "2026-11-27T18:10:03+00:00",
-      "summary": "Il Milan ha ottenuto la sua seconda vittoria stagionale in Europa League nel modo più incredibile possibile, con una rimonta da 2-0 a 2-4 che darà sicuramente una carica emotiva e non solo alla squadra di Ruben  ..."
-    },
-    {
       "id": "0f941e0cf827",
       "title": "What Bruno Fernandes’ new Manchester United contract means for Milan",
       "url": "https://football-italia.net/bruno-fernandes-manchester-utd-contract-milan/",
@@ -170,44 +202,12 @@
       "summary": "Manchester United have triggered a one-year extension on Bruno Fernandes’ contract, ending Milan’s hopes of..."
     },
     {
-      "id": "d56ade4f4d26",
-      "title": "Hateley, Abraham e due in rosa ora. Più Hutchinson: l'inglese sbarca tra i marcatori UK del Milan in Europa",
-      "url": "https://www.milannews.it/news/hateley-abraham-rosa-ora-hutchinson-inglese-sbarca-marcatori-uk-milan-europa-637547",
-      "source": "milannews.it",
-      "date": "2026-11-27T18:00:22+00:00",
-      "summary": "Omari Hutchinson è solo il quinto giocatore inglese nella storia del Milan ad andare a bersaglio in una delle maggiori coppe europee, dopo Mark Hateley, Fikayo Tomori, Ruben Loftus-Cheek e Tammy Abraham. Lo riporta Opta."
-    },
-    {
-      "id": "fb615e68df44",
-      "title": "Borghi: \"Togliere De Winter dopo l'errore sul gol del 2-0 vuol dire responsabilizzare la squadra e dare un messaggio molto forte\"",
-      "url": "https://www.milannews.it/news/borghi-togliere-de-winter-errore-gol-2-0-vuol-responsabilizzare-squadra-dare-messaggio-forte-637584",
-      "source": "milannews.it",
-      "date": "2026-11-27T17:50:24+00:00",
-      "summary": "Stefano Borghi, giornalista, si è così espresso a SkySport commentando la vittoria del Milan contro l'Olympiacos: \"Hutchinson è l'mvp, nella posizione in cui rende probabilmente meglio, andando a giocare largo."
-    },
-    {
-      "id": "2b88db16f873",
-      "title": "Ci voleva Amorim: per la prima volta nella storia il Milan torna vittorioso da una trasferta contro squadre greche",
-      "url": "https://www.milannews.it/news/voleva-amorim-storia-milan-torna-vittorioso-trasferta-squadre-greche-637558",
-      "source": "milannews.it",
-      "date": "2026-11-27T17:40:06+00:00",
-      "summary": "Dopo quattro pareggi e due sconfitte, il Milan è riuscito a vincere una trasferta contro una squadra greca nelle coppe europee per la prima volta nella propria storia. Lo riporta Opta."
-    },
-    {
       "id": "08e5beeadb39",
       "title": "Three above a 7, two below a 5: Fan player ratings for Olympiacos 2-4 AC Milan",
       "url": "https://sempremilan.com/fan-player-ratings-olympiacos-2-4-ac-milan",
       "source": "sempremilan.com",
       "date": "2026-11-27T17:40:00+00:00",
       "summary": "AC Milan rose from the canvas floor on the outskirt of Athens on Thursday night, coming from two goals down to beat Olympiacos 4-2. With 50 minutes on the clock, Milan trailed by two goals after a Mike Maignan own-goal and a strike from Jota Silva. However, Omari Hutchinson inspired a comeback, halv"
-    },
-    {
-      "id": "e8899d186f94",
-      "title": "Marinozzi avverte: \"Il Milan continua ad avere numeri bassi nell'ultimo terzo, ma ha calciatori che ti facilitano la vita\"",
-      "url": "https://www.milannews.it/news/marinozzi-avverte-il-milan-continua-numeri-bassi-terzo-calciatori-facilitano-vita-637572",
-      "source": "milannews.it",
-      "date": "2026-11-27T17:30:17+00:00",
-      "summary": "Andrea Marinozzi, giornalista, si è così espresso a Cronache di Spogliatoio commentando la vittoria del Milan contro l'Olympiacos: \"Molto importante la reazione, e non era così scontato dopo essere sotto di due gol e in  ..."
     },
     {
       "id": "25a414cfe1c5",
